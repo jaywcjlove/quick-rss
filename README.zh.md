@@ -7,7 +7,7 @@
   <p>
     <a href="./README.md">English</a> • 
     <a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
-    <a target="_blank" href="#rss-源推荐">RSS 源推荐</a>
+    <a href="#rss-源推荐">RSS 源推荐</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">

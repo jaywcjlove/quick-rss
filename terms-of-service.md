@@ -3,7 +3,7 @@
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
-Quick RSS Terms of Service
+Terms of Service
 ===
 
 Welcome to Quick RSS! By using our application, you agree to the following Terms of Service ("Terms"). Please read these Terms carefully before using the app. These Terms apply to all users of Quick RSS.

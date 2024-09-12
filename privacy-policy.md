@@ -3,7 +3,7 @@
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
-Quick RSS Privacy Policy
+Privacy Policy
 ===
 
 Thank you for using Quick RSS! We highly value your privacy and are committed to protecting any personal information you provide while using our application. This privacy policy outlines how we collect, use, disclose, and protect your information.

@@ -3,7 +3,7 @@
 </p>
 <!--rehype:style=float: right; bottom: -36px; position: relative;-->
 
-Quick RSS 服务条款
+服务条款
 ===
 
 欢迎使用 Quick RSS！使用我们的应用程序即表示您同意以下服务条款（“条款”）。在使用应用之前，请仔细阅读这些条款。此条款适用于所有 Quick RSS 用户。

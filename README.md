@@ -8,7 +8,8 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">中文</a> • 
-    <a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
+    <a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
+    <a target="_blank" href="#rss-feed">RSS Feed</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
@@ -47,6 +48,14 @@ Quick RSS is ideal for anyone looking to efficiently access the latest news, esp
 
 Download Quick RSS today and bring a brand new RSS reading experience to your macOS. Whether tracking personal interests or staying on top of industry news, Quick RSS will become your go-to tool for managing subscriptions.
 
+## RSS Feed
+
+- MacStories https://www.macstories.net/feed
+- Fatbobman's Swift Weekly https://weekly.fatbobman.com/feed
+- Marco.org https://marco.org/rss
+- MacRumors: Mac News and Rumors - All Stories https://feeds.macrumors.com/MacRumors-All
+
+Here are some recommended RSS feeds. Feel free to share your favorite RSS feeds with us.
 
 <!--idoc:config:
 site: Quick RSS

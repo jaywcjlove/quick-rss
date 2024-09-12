@@ -6,7 +6,8 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.md">English</a> • 
-    <a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
+    <a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
+    <a target="_blank" href="#rss-源推荐">RSS 源推荐</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
@@ -44,6 +45,22 @@ Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：
 ## 快来体验 Quick RSS！
 
 立即下载 Quick RSS，为你的 macOS 带来全新的 RSS 阅读体验。无论是个人兴趣的追踪，还是行业新闻的获取，Quick RSS 都能成为你理想的订阅管理工具。
+
+## RSS 源推荐
+
+- 阮一峰的网络日志 https://www.ruanyifeng.com/blog/atom.xml
+- 冯唐博客 https://www.fengtang.com/feed/
+- 云风的 BLOG https://blog.codingnow.com/atom.xml
+- 潮流周刊 https://weekly.tw93.fun/rss.xml
+- 爱范儿 http://www.ifanr.com/feed
+- Mac玩儿法 http://www.waerfa.com/feed
+- 卡瓦邦噶！ https://www.kawabangga.com/feed
+- 酷 壳 – CoolShell https://coolshell.cn/feed
+- 爱范儿 http://www.ifanr.com/feed
+- Mac玩儿法 http://www.waerfa.com/feed
+- UX Coffee 设计咖 https://uxcoffee.com/feed/audio.xml
+
+这里汇集了一些推荐的 RSS 源，欢迎分享您喜爱的 RSS 源。
 
 <!--idoc:config:
 title: 「Quick RSS」是一款功能强大且直观的 macOS 桌面 RSS 阅读器，可帮助您轻松管理和阅读您最喜爱的 RSS 源。 - 

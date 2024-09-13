@@ -1,0 +1,14 @@
+name: 🙋‍♂️ [QuickRSS] - Recommended RSS Feeds
+description: Feel free to share your favorite RSS feeds with us.
+title: '🙋‍♂️ Recommended RSS Feeds: Quick RSS xml'
+labels: ['help wanted']
+body:
+  - type: textarea
+    attributes:
+      label: 🙋‍♂️ RSS feed here
+      description: Feel free to share your favorite RSS feeds with us.
+      placeholder: |
+        https://example.com/atom.xml
+        https://weekly.example.com/rss.xml
+    validations:
+      required: true

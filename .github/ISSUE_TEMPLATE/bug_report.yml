@@ -1,7 +1,7 @@
-name: 🙋‍♂️ Support & Feedback
+name: 🙋‍♂️ [QuickRSS] - Support & Feedback
 description: Use this template to ask for support or provide feedback.
 title: '🙋‍♂️ Support & Feedback: Quick RSS'
-labels: ['support', 'feedback']
+labels: ['support', 'feedback', 'question']
 body:
   - type: markdown
     attributes:

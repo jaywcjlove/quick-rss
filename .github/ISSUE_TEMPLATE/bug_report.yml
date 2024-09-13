@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please provide as much detail as possible about your support request or feedback.
+        <img align="right" height="86" alt="QuickRSS" src="https://github.com/user-attachments/assets/3e694247-ad5c-4ac8-a4ae-8b89352324d4"> Please provide as much detail as possible about your support request or feedback.
 
         Make sure you are on the latest version and try to restart your device. If the app crashed (macOS-only), it would be very helpful if you could include a crash report.
 

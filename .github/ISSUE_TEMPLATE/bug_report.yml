@@ -33,8 +33,8 @@ body:
         **How can I send you a crash report for one of your apps?**
 
         - macOS Open Finder
-        - Select Go to Folder… from the Go menu
-        - Enter: ~/Library/Logs/DiagnosticReports
+        - Select Go to **Folder…** from the Go menu
+        - Enter: **~/Library/Logs/DiagnosticReports**
         - In the resulting list, select all files that starts with the app name, ZIP them, and send me
         - Attach the file to this issue
 

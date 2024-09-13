@@ -1,0 +1,33 @@
+name: 🙋‍♂️ Support & Feedback
+description: Use this template to ask for support or provide feedback.
+title: '🙋‍♂️ Support & Feedback: Quick RSS'
+labels: ['support', 'feedback']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please provide as much detail as possible about your support request or feedback.
+
+  - type: textarea
+    attributes:
+      label: 🙋‍♂️ What do you need help with?
+      description: Describe the issue or feedback you have for Quick RSS.
+      placeholder: ex. I have trouble configuring the RSS feed or I want to suggest a new feature.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: "💻 Desktop"
+      description: Your operating system and version.
+      placeholder: ex. `macOS 14.0.1`
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: ℹ️ Additional context
+      description: Add any additional information that could be helpful.
+      placeholder: ex. Screenshots, steps to reproduce, etc.
+    validations:
+      required: false

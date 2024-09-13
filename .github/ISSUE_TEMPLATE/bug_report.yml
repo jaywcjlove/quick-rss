@@ -8,6 +8,8 @@ body:
       value: |
         Please provide as much detail as possible about your support request or feedback.
 
+        Make sure you are on the latest version and try to restart your device. If the app crashed (macOS-only), it would be very helpful if you could include a crash report.
+
   - type: textarea
     attributes:
       label: 🙋‍♂️ What do you need help with?
@@ -23,6 +25,19 @@ body:
       placeholder: ex. `macOS 14.0.1`
     validations:
       required: true
+
+
+  - type: markdown
+    attributes:
+      value: |
+        **How can I send you a crash report for one of your apps?**
+
+        - macOS Open Finder
+        - Select Go to Folder… from the Go menu
+        - Enter: ~/Library/Logs/DiagnosticReports
+        - In the resulting list, select all files that starts with the app name, ZIP them, and send me
+        - Attach the file to this issue
+
 
   - type: textarea
     attributes:

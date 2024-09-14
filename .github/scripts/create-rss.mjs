@@ -51,7 +51,7 @@ function getYearAndWeek(date) {
 const { year, week } = getYearAndWeek(new Date(issueDate));
 /** 根据年份和周数生成文件名称，如 2024-01.json */
 const rssFilePath = `./docs/rss/${year}-${week}.json`;
-const jsonFeedPath = './docs/rss/feed.json';
+const jsonFeedPath = './docs/feed.json';
 
 ;(async () => {
   // 读取 rssFilePath 文件内容，如果文件不存在创建它并则返回空数组
@@ -81,9 +81,9 @@ const jsonFeedPath = './docs/rss/feed.json';
       },
     }
     
-    const data = issueBody.split(/###\s.+\n+/ig).filter(Boolean);
+    const data = issueBody.split(/###\s.+[\n\r]+/ig).map((txt) => txt.replace(/[\n\r\s]+$/g, '')).filter(Boolean);
     info(`Issue Body: ${JSON.stringify(data)}`);
-    const content = data[0] ?? "";
+    const content = (data[0] ?? "");
     rssItem.summary = content.substring(0, 200);
     rssItem.content_html = markdown(content);
     rssItem.url = data[1];

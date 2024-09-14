@@ -82,9 +82,11 @@ const jsonFeedPath = './docs/rss/feed.json';
     }
     
     const data = issueBody.split(/###\s.+\n+/ig).filter(Boolean);
-    rssItem.summary = (data[0] ?? "").substring(0, 200);
+    info(`Issue Body: ${JSON.stringify(data)}`);
+    const content = data[0] ?? "";
+    rssItem.summary = content.substring(0, 200);
+    rssItem.content_html = markdown(content);
     rssItem.url = data[1];
-    rssItem.content_html = markdown(data[0] ?? "");
     // 输出 rssItem 日志
     info(`RSS Item: ${JSON.stringify(rssItem)}`);
 

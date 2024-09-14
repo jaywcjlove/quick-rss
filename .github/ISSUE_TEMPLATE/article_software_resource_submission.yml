@@ -1,7 +1,7 @@
 name: 📥 Submission/Recommendation/Self-Recommendation
 description: Welcome to submit, recommend, or self-recommend articles/software/resources
 title: "[Submission] Title"
-labels: [Submission, Recommendation, Self-Recommendation]
+labels: [submission, recommendation, self recommendation]
 
 body:
   - type: markdown

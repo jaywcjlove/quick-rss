@@ -26,3 +26,11 @@ jobs:
           ISSUE_DATE: ${{ github.event.issue.created_at }}
           ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
           ISSUE_AVATAR: ${{ github.event.issue.user.avatar_url }}
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Quick RSS Feed: updated or added"
+          git push

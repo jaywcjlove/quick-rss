@@ -70,7 +70,7 @@ const jsonFeedPath = './docs/feed.json';
     const rssItem = {
       id: issueId,
       url: issueLink,
-      title: issueTitle,
+      title: issueTitle.replace(/^\[(.+?)\]\s+/g, ''),
       content_html: issueBody,
       summary: issueBody,
       banner_image: bannerImage,

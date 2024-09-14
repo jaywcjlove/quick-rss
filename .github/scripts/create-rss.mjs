@@ -85,6 +85,8 @@ const jsonFeedPath = './docs/rss/feed.json';
     rssItem.summary = (data[0] ?? "").substring(0, 200);
     rssItem.url = data[1];
     rssItem.content_html = markdown(data[0] ?? "");
+    // 输出 rssItem 日志
+    info(`RSS Item: ${JSON.stringify(rssItem)}`);
 
     // 如果存在则替换，不存在则添加
     index > -1 ? rss.splice(index, 1, rssItem) : rss.push(rssItem);

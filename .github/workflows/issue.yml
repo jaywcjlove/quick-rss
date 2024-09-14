@@ -5,7 +5,7 @@ on:
 
 jobs:
   create-rss:
-    if: github.repository == 'jaywcjlove/quick-rss' && github.event_name == 'issues'
+    if: github.repository == 'jaywcjlove/quick-rss' && github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'weekly')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -28,9 +28,12 @@ jobs:
           ISSUE_AVATAR: ${{ github.event.issue.user.avatar_url }}
 
       - name: Commit changes
+        if: github.event.issue.user.login == 'jaywcjlove' && contains(github.event.issue.labels.*.name, 'weekly')
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          # 获取当前分支名称
+          CURRENT_BRANCH=$(echo ${GITHUB_REF#refs/heads/})
           git add .
           git commit -m "Quick RSS Feed: updated or added"
-          git push
+          git push origin $CURRENT_BRANCH

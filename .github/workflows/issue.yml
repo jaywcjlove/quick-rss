@@ -14,6 +14,7 @@ jobs:
           node-version: 20
           registry-url: 'https://registry.npmjs.org'
 
+      - run: npm install
       - name: create rss
         run: node .github/scripts/create-rss.mjs 
         # 判断是不是仓库作者更新的 label，并且判断是否包含 weekly

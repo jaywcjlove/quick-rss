@@ -1,5 +1,6 @@
 #!/bin/bash node
-import { setFailed, setOutput, getInput, info, startGroup, endGroup } from '@actions/core';
+import { setFailed, info } from '@actions/core';
+import markdown from '@wcj/markdown-to-html';
 import fs from 'fs-extra';
 
 const issueBody = process.env.ISSUE_BODY;
@@ -79,6 +80,12 @@ const jsonFeedPath = './docs/rss/feed.json';
         link: issueAvatar,
       },
     }
+    
+    const data = issueBody.split(/###\s.+\n+/ig).filter(Boolean);
+    rssItem.summary = (data[0] ?? "").substring(0, 200);
+    rssItem.url = data[1];
+    rssItem.content_html = markdown(data[0] ?? "");
+
     // 如果存在则替换，不存在则添加
     index > -1 ? rss.splice(index, 1, rssItem) : rss.push(rssItem);
   

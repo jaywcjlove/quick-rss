@@ -1,6 +1,6 @@
 name: 📥 Submission/Recommendation/Self-Recommendation
 description: Welcome to submit, recommend, or self-recommend articles/software/resources
-title: "[Submission] Title"
+title: "[Submission] Title of the article/software/resource"
 labels: [submission, recommendation, self recommendation]
 
 body:
@@ -8,14 +8,6 @@ body:
     attributes:
       value: |
         Recording and sharing tech content, thank you for your contribution! Please provide the following information to submit, recommend, or self-recommend your articles, software, or resources, which will be added to Quick RSS subscriptions by default.
-
-  - type: input
-    attributes:
-      label: 🌐 Title
-      description: Title of the article/software/resource
-      placeholder: Please enter the title
-    validations:
-      required: true
 
   - type: textarea
     attributes:

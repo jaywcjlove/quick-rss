@@ -1,0 +1,34 @@
+name: 📥 Submission/Recommendation/Self-Recommendation
+description: Welcome to submit, recommend, or self-recommend articles/software/resources
+title: "[Submission] Title"
+labels: [Submission, Recommendation, Self-Recommendation]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Recording and sharing tech content, thank you for your contribution! Please provide the following information to submit, recommend, or self-recommend your articles, software, or resources, which will be added to Quick RSS subscriptions by default.
+
+  - type: input
+    attributes:
+      label: 🌐 Title
+      description: Title of the article/software/resource
+      placeholder: Please enter the title
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 📋 Description
+      description: Briefly introduce the content and highlights of the article/software/resource
+      placeholder: Please briefly describe
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: 🔗 Link
+      description: Provide the link to the article/software/resource
+      placeholder: Please enter a valid link
+    validations:
+      required: true

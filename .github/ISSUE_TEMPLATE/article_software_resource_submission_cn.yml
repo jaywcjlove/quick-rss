@@ -1,0 +1,34 @@
+name: 📥 投稿/推荐/自荐
+description: 欢迎投稿，推荐或自荐文章/软件/资源
+title: "[投稿] 标题"
+labels: [投稿, 推荐, 自荐]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        记录分享的科技内容，感谢您的贡献！请提供以下信息来投稿、推荐或自荐您的文章、软件或资源，将在 Quick RSS 中默认加载订阅。
+
+  - type: input
+    attributes:
+      label: 🌐 标题
+      description: 文章/软件/资源的标题
+      placeholder: 请输入标题
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: 📋 简介
+      description: 简要介绍该文章/软件/资源的内容和亮点
+      placeholder: 请简要描述
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: 🔗 链接
+      description: 提供该文章/软件/资源的链接
+      placeholder: 请输入有效链接
+    validations:
+      required: true

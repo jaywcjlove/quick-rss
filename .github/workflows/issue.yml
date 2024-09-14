@@ -1,0 +1,28 @@
+name: Create RSS
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  create-rss:
+    if: github.repository == 'jaywcjlove/quick-rss' && github.event_name == 'issues'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: create rss
+        run: node .github/scripts/create-rss.mjs 
+        # 判断是不是仓库作者更新的 label，并且判断是否包含 weekly
+        if: github.event.issue.user.login == 'jaywcjlove' && contains(github.event.issue.labels.*.name, 'weekly')
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_LINK: ${{ github.event.issue.html_url }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_ID: ${{ github.event.issue.number }}
+          ISSUE_DATE: ${{ github.event.issue.created_at }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          ISSUE_AVATAR: ${{ github.event.issue.user.avatar_url }}

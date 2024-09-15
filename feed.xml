@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-15T08:05:46.605Z</updated>
+    <updated>2024-09-15T08:11:24.181Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -18,27 +18,35 @@
     <entry>
         <title type="html"><![CDATA[Docmost: 是一个开源的协作文档和 Wiki 应用]]></title>
         <id>5</id>
-        <link href="- **实时协作编辑器**：与他人实时协作编辑页面。
-- **绘图功能**：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。
-- **工作空间**：按团队、项目或部门组织页面，以便更好地协作。
-- **权限管理**：通过简单易懂的权限设置轻松控制内容访问。
-- **群组功能**：通过群组轻松为用户授予统一权限。
-- **评论功能**：为页面添加评论，以便更好地沟通和反馈。
-- **页面历史**：通过完整的版本历史跟踪页面更改。
-- **嵌套导航**：通过侧边栏可以嵌套和重新排序页面。
-- **搜索功能**：通过强大的搜索功能快速找到所需信息。
-- **文件附件**：将文件附加到页面，便于参考和共享。
-- **导入/导出**：支持轻松导入和导出 Markdown 和 HTML 格式的页面。
-
-![image](https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5)
-
-![image](https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe)"/>
+        <link href="https://github.com/docmost/docmost"/>
         <updated>2024-09-15T08:05:12.000Z</updated>
         <summary type="html"><![CDATA[一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。
 
-![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)]]></summary>
+![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)
+
+
+**功能介绍**
+
+- **实时协作编辑器**：与他人实时协作编辑页面。
+- **绘图功能**：内置]]></summary>
         <content type="html"><![CDATA[<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>
-<p><img src="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" alt="image"></p>]]></content>
+<p><img src="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" alt="image"></p>
+<p><strong>功能介绍</strong></p>
+<ul>
+<li><strong>实时协作编辑器</strong>：与他人实时协作编辑页面。</li>
+<li><strong>绘图功能</strong>：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。</li>
+<li><strong>工作空间</strong>：按团队、项目或部门组织页面，以便更好地协作。</li>
+<li><strong>权限管理</strong>：通过简单易懂的权限设置轻松控制内容访问。</li>
+<li><strong>群组功能</strong>：通过群组轻松为用户授予统一权限。</li>
+<li><strong>评论功能</strong>：为页面添加评论，以便更好地沟通和反馈。</li>
+<li><strong>页面历史</strong>：通过完整的版本历史跟踪页面更改。</li>
+<li><strong>嵌套导航</strong>：通过侧边栏可以嵌套和重新排序页面。</li>
+<li><strong>搜索功能</strong>：通过强大的搜索功能快速找到所需信息。</li>
+<li><strong>文件附件</strong>：将文件附加到页面，便于参考和共享。</li>
+<li><strong>导入/导出</strong>：支持轻松导入和导出 Markdown 和 HTML 格式的页面。</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe" alt="image"></p>]]></content>
         <author>
             <name>jaywcjlove</name>
             <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>

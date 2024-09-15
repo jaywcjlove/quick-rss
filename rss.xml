@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sun, 15 Sep 2024 08:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 08:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -17,28 +17,36 @@
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Docmost: 是一个开源的协作文档和 Wiki 应用]]></title>
-            <link>- **实时协作编辑器**：与他人实时协作编辑页面。
-- **绘图功能**：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。
-- **工作空间**：按团队、项目或部门组织页面，以便更好地协作。
-- **权限管理**：通过简单易懂的权限设置轻松控制内容访问。
-- **群组功能**：通过群组轻松为用户授予统一权限。
-- **评论功能**：为页面添加评论，以便更好地沟通和反馈。
-- **页面历史**：通过完整的版本历史跟踪页面更改。
-- **嵌套导航**：通过侧边栏可以嵌套和重新排序页面。
-- **搜索功能**：通过强大的搜索功能快速找到所需信息。
-- **文件附件**：将文件附加到页面，便于参考和共享。
-- **导入/导出**：支持轻松导入和导出 Markdown 和 HTML 格式的页面。
-
-![image](https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5)
-
-![image](https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe)</link>
+            <link>https://github.com/docmost/docmost</link>
             <guid>5</guid>
             <pubDate>Sun, 15 Sep 2024 08:05:12 GMT</pubDate>
             <description><![CDATA[一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。
 
-![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)]]></description>
+![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)
+
+
+**功能介绍**
+
+- **实时协作编辑器**：与他人实时协作编辑页面。
+- **绘图功能**：内置]]></description>
             <content:encoded><![CDATA[<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>
-<p><img src="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" alt="image"></p>]]></content:encoded>
+<p><img src="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" alt="image"></p>
+<p><strong>功能介绍</strong></p>
+<ul>
+<li><strong>实时协作编辑器</strong>：与他人实时协作编辑页面。</li>
+<li><strong>绘图功能</strong>：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。</li>
+<li><strong>工作空间</strong>：按团队、项目或部门组织页面，以便更好地协作。</li>
+<li><strong>权限管理</strong>：通过简单易懂的权限设置轻松控制内容访问。</li>
+<li><strong>群组功能</strong>：通过群组轻松为用户授予统一权限。</li>
+<li><strong>评论功能</strong>：为页面添加评论，以便更好地沟通和反馈。</li>
+<li><strong>页面历史</strong>：通过完整的版本历史跟踪页面更改。</li>
+<li><strong>嵌套导航</strong>：通过侧边栏可以嵌套和重新排序页面。</li>
+<li><strong>搜索功能</strong>：通过强大的搜索功能快速找到所需信息。</li>
+<li><strong>文件附件</strong>：将文件附加到页面，便于参考和共享。</li>
+<li><strong>导入/导出</strong>：支持轻松导入和导出 Markdown 和 HTML 格式的页面。</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe" alt="image"></p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器]]></title>

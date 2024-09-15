@@ -12,10 +12,10 @@
     "items": [
         {
             "id": "5",
-            "content_html": "<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee\" alt=\"image\"></p>",
-            "url": "- **实时协作编辑器**：与他人实时协作编辑页面。\r\n- **绘图功能**：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。\r\n- **工作空间**：按团队、项目或部门组织页面，以便更好地协作。\r\n- **权限管理**：通过简单易懂的权限设置轻松控制内容访问。\r\n- **群组功能**：通过群组轻松为用户授予统一权限。\r\n- **评论功能**：为页面添加评论，以便更好地沟通和反馈。\r\n- **页面历史**：通过完整的版本历史跟踪页面更改。\r\n- **嵌套导航**：通过侧边栏可以嵌套和重新排序页面。\r\n- **搜索功能**：通过强大的搜索功能快速找到所需信息。\r\n- **文件附件**：将文件附加到页面，便于参考和共享。\r\n- **导入/导出**：支持轻松导入和导出 Markdown 和 HTML 格式的页面。\r\n\r\n![image](https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5)\r\n\r\n![image](https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe)",
+            "content_html": "<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee\" alt=\"image\"></p>\n<p><strong>功能介绍</strong></p>\n<ul>\n<li><strong>实时协作编辑器</strong>：与他人实时协作编辑页面。</li>\n<li><strong>绘图功能</strong>：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。</li>\n<li><strong>工作空间</strong>：按团队、项目或部门组织页面，以便更好地协作。</li>\n<li><strong>权限管理</strong>：通过简单易懂的权限设置轻松控制内容访问。</li>\n<li><strong>群组功能</strong>：通过群组轻松为用户授予统一权限。</li>\n<li><strong>评论功能</strong>：为页面添加评论，以便更好地沟通和反馈。</li>\n<li><strong>页面历史</strong>：通过完整的版本历史跟踪页面更改。</li>\n<li><strong>嵌套导航</strong>：通过侧边栏可以嵌套和重新排序页面。</li>\n<li><strong>搜索功能</strong>：通过强大的搜索功能快速找到所需信息。</li>\n<li><strong>文件附件</strong>：将文件附加到页面，便于参考和共享。</li>\n<li><strong>导入/导出</strong>：支持轻松导入和导出 Markdown 和 HTML 格式的页面。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe\" alt=\"image\"></p>",
+            "url": "https://github.com/docmost/docmost",
             "title": "Docmost: 是一个开源的协作文档和 Wiki 应用",
-            "summary": "一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。\r\n\r\n![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)",
+            "summary": "一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。\r\n\r\n![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)\r\n\r\n\r\n**功能介绍**\r\n\r\n- **实时协作编辑器**：与他人实时协作编辑页面。\r\n- **绘图功能**：内置",
             "date_modified": "2024-09-15T08:05:12.000Z",
             "author": {
                 "name": "jaywcjlove",

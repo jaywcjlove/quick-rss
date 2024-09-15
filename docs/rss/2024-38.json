@@ -1,5 +1,21 @@
 [
   {
+    "id": "5",
+    "url": "- **实时协作编辑器**：与他人实时协作编辑页面。\r\n- **绘图功能**：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。\r\n- **工作空间**：按团队、项目或部门组织页面，以便更好地协作。\r\n- **权限管理**：通过简单易懂的权限设置轻松控制内容访问。\r\n- **群组功能**：通过群组轻松为用户授予统一权限。\r\n- **评论功能**：为页面添加评论，以便更好地沟通和反馈。\r\n- **页面历史**：通过完整的版本历史跟踪页面更改。\r\n- **嵌套导航**：通过侧边栏可以嵌套和重新排序页面。\r\n- **搜索功能**：通过强大的搜索功能快速找到所需信息。\r\n- **文件附件**：将文件附加到页面，便于参考和共享。\r\n- **导入/导出**：支持轻松导入和导出 Markdown 和 HTML 格式的页面。\r\n\r\n![image](https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5)\r\n\r\n![image](https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe)",
+    "title": "Docmost: 是一个开源的协作文档和 Wiki 应用",
+    "content_html": "<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee\" alt=\"image\"></p>",
+    "summary": "一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。\r\n\r\n![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)",
+    "banner_image": [
+      "![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)",
+      "https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee"
+    ],
+    "date_published": "2024-09-15T08:05:12Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    }
+  },
+  {
     "id": "4",
     "url": "https://github.com/jaywcjlove/quick-rss",
     "title": "Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器",

@@ -72,7 +72,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       url: issueLink.replace(/(^[\n\s]+)|([\n\s]+$)/, ''),
       title: issueTitle.replace(/^\[(.+?)\]\s+/g, ''),
       content_html: issueBody,
-      summary: issueBody,
+      summary: issueBody.replace(/(^[\n\s]+)|([\n\s]+$)/, ''),
       banner_image: bannerImage,
       date_published: issueDate,
       author: {
@@ -138,9 +138,15 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
 
     let mdListContent = "";
     uniqueArray.forEach(post => {
-      let rssurl = post.url.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
-      let rsstitle = post.title.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
-      mdListContent += `- [${rsstitle}](${rssurl}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})\n`;
+      const rssurl = post.url.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
+      const rsstitle = post.title.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
+      const description = issueBody
+          .replace(/!\[.*?\]\(.*?\)/g, '') // 去掉图片链接
+          .replace(/<\/?[^>]+(>|$)/g, '')  // 去掉 HTML 标签
+          .replace(/\s+/g, ' ')            // 去掉多余的换行符或空格
+          .trim();                         // 去掉前后的空格
+      const descriptionImage = post.image ? `![](post.image)` : ""
+      mdListContent += `\n### [${rsstitle}](${rssurl}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})\n\n${descriptionImage}\n\n${description}\n`;
       feed.addItem({
         title: rsstitle,
         id: post.id,

@@ -53,12 +53,13 @@ jobs:
               url: https://wangchujiang.com/#/about
               target: __blank
           sideEffectFiles:
+            - README.md
             - README.zh.md
-            - docs/feed.md
             - terms-of-service.md
             - terms-of-service.zh.md
             - privacy-policy.md
             - privacy-policy.zh.md
+            - docs/feed.md
           footer: |
             <a href="./terms-of-service.html" target="_blank">Terms of Service</a> • 
             <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> • 

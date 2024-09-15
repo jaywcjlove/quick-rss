@@ -99,7 +99,7 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
     // 输出写入成功日志
     info(`RSS 文件写入成功：${rssFilePath}`);
 
-    const oldRss = await fs.readJSON('./docs/rss.json');
+    const oldRss = await fs.readJSON('./docs/feed.json');
     // oldRss.items 和 rss.items 合并
     // 新的 newItems 根据时间排序，通过id 去重
     const rssItems = oldRss.items.concat(rss).sort((a, b) => new Date(b.date_published) - new Date(a.date_published))
@@ -131,7 +131,7 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
 
     let mdListContent = "";
     rssItems.forEach(post => {
-      mdListContent += `- [${post.title}](${post.url}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id})\n`;
+      mdListContent += `- [${post.title}](${post.url}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})\n`;
       feed.addItem({
         title: post.title,
         id: post.id,

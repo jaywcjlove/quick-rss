@@ -99,12 +99,15 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
     // 输出写入成功日志
     info(`RSS 文件写入成功：${rssFilePath}`);
 
-    const oldRss = await fs.readJSON('./docs/feed.json');
+    const oldRss = await fs.readJSON('./docs/old.json');
     // oldRss.items 和 rss.items 合并
     // 新的 newItems 根据时间排序，通过id 去重
-    const rssItems = oldRss.items.concat(rss).sort((a, b) => new Date(b.date_published) - new Date(a.date_published))
+    const rssItems = oldRss.concat(rss).sort((a, b) => new Date(b.date_published) - new Date(a.date_published))
       .filter((item, index, self) => self.findIndex(t => t.id === item.id) === index)
       .slice(0, 100);
+
+    await fs.writeFile('./docs/old.json', rssItems, { spaces: 2 });
+    info(`Old RSS 文件写入成功：./docs/old.json`);
     
     const feed = new Feed({
       title: "Quick RSS Feed",

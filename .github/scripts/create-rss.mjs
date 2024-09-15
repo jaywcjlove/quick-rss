@@ -69,7 +69,7 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
   
     const rssItem = {
       id: issueId,
-      url: issueLink,
+      url: issueLink.replace(/(^[\n\s]+)|([\n\s]+$)/, ''),
       title: issueTitle.replace(/^\[(.+?)\]\s+/g, ''),
       content_html: issueBody,
       summary: issueBody,

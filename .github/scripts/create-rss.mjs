@@ -142,7 +142,6 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
     const jsonFeedPath = './docs/feed.json';
     await fs.writeFile(jsonFeedPath, feed.json1());
     info(`JSON Feed 文件写入成功：${jsonFeedPath}`);
-    // 输出日志
 
     const atom1FeedPath = './docs/feed.xml';
     await fs.writeFile(atom1FeedPath, feed.atom1());

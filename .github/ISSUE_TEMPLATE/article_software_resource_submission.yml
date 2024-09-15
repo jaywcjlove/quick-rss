@@ -2,7 +2,8 @@ name: 📥 Submission/Recommendation/Self-Recommendation
 description: Welcome to submit, recommend, or self-recommend articles/software/resources
 title: "[Submission] Title of the article/software/resource"
 labels: [submission, recommendation]
-
+assignees:
+  - jaywcjlove
 body:
   - type: markdown
     attributes:

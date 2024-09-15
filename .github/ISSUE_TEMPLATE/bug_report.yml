@@ -2,6 +2,8 @@ name: 🙋‍♂️ [QuickRSS] - Support & Feedback
 description: Get help with QuickRSS, report bugs, or request features.
 title: '🙋‍♂️ Support & Feedback: Quick RSS'
 labels: ['support', 'feedback', 'question']
+assignees:
+  - jaywcjlove
 body:
   - type: markdown
     attributes:

@@ -2,6 +2,9 @@ name: 🙋‍♂️ [QuickRSS] - 支持与反馈
 description: "获取有关 QuickRSS、报告错误或请求功能的帮助。"
 title: '🙋‍♂️ 支持与反馈: QuickRSS'
 labels: ['support', 'feedback', 'question']
+assignees:
+  - jaywcjlove
+
 body:
   - type: markdown
     attributes:
@@ -17,13 +20,6 @@ body:
       placeholder: 例如，我遇到了问题...
     validations:
       required: true
-
-  - type: input
-    attributes:
-      label: "💻 桌面"
-      description: 您的操作系统和版本。
-      placeholder: 例如，`macOS 14.0.1`
-
 
   - type: dropdown
     id: os_version

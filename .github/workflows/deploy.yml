@@ -59,7 +59,7 @@ jobs:
             - terms-of-service.zh.md
             - privacy-policy.md
             - privacy-policy.zh.md
-            - docs/feed.md
+            - feeds/feed.md
           footer: |
             <a href="./terms-of-service.html" target="_blank">Terms of Service</a> • 
             <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> • 
@@ -72,8 +72,8 @@ jobs:
       - run: npm install idoc@1 -g
       - run: idoc
       - run: |
-            cp -rp docs/*.json dist/
-            cp -rp docs/*.xml dist/
+            cp -rp feeds/*.json dist/
+            cp -rp feeds/*.xml dist/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

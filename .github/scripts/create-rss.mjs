@@ -51,7 +51,7 @@ function getYearAndWeek(date) {
 
 const { year, week } = getYearAndWeek(new Date(issueDate));
 /** 根据年份和周数生成文件名称，如 2024-01.json */
-const rssFilePath = `./docs/rss/${year}-${week}.json`;
+const rssFilePath = `./feeds/rss/${year}-${week}.json`;
 
 ;(async () => {
   // 读取 rssFilePath 文件内容，如果文件不存在创建它并则返回空数组
@@ -60,7 +60,7 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
   const bannerImage = issueBody.match(/!\[.*?\]\((.*?)\)/);
 
   try {
-    await fs.ensureDir('./docs/rss');
+    await fs.ensureDir('./feeds/rss');
     if (fs.existsSync(rssFilePath)) {
       rss = await fs.readJSON(rssFilePath);
     }
@@ -99,7 +99,7 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
     // 输出写入成功日志
     info(`RSS 文件写入成功：${rssFilePath}`);
 
-    const oldRss = await fs.readJSON('./docs/old.json');
+    const oldRss = await fs.readJSON('./feeds/old.json');
     // oldRss.items 和 rss.items 合并
     // 新的 newItems 根据时间排序，通过id 去重
     let rssItems = oldRss.concat(rss)
@@ -110,8 +110,8 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
       index === self.findIndex((t) => t.id === item.id)
     );
     
-    await fs.writeJSON('./docs/old.json', uniqueArray, { spaces: 2 });
-    info(`Old RSS 文件写入成功：./docs/old.json`);
+    await fs.writeJSON('./feeds/old.json', uniqueArray, { spaces: 2 });
+    info(`Old RSS 文件写入成功：./feeds/old.json`);
 
     const feed = new Feed({
       title: "Quick RSS Feed",
@@ -156,22 +156,22 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
       })
     })
 
-    const markdownContent = fs.readFileSync('./docs/feed.md', 'utf-8');
+    const markdownContent = fs.readFileSync('./feeds/feed.md', 'utf-8');
     // <!--RSS_LIST_START--><!--RSS_LIST_END-->
     const contentx = markdownContent.replace(/<!--RSS_LIST_START-->[\s\S]*<!--RSS_LIST_END-->/g, `<!--RSS_LIST_START-->\n${mdListContent}\n<!--RSS_LIST_END-->`);
-    fs.writeFileSync('./docs/feed.md', contentx);
+    fs.writeFileSync('./feeds/feed.md', contentx);
     // 输出写入成功日志
-    info(`feed.md 文件写入成功：./docs/feed.md`);
+    info(`feed.md 文件写入成功：./feeds/feed.md`);
 
-    const jsonFeedPath = './docs/feed.json';
+    const jsonFeedPath = './feeds/feed.json';
     await fs.writeFile(jsonFeedPath, feed.json1());
     info(`JSON Feed 文件写入成功：${jsonFeedPath}`);
 
-    const atom1FeedPath = './docs/feed.xml';
+    const atom1FeedPath = './feeds/feed.xml';
     await fs.writeFile(atom1FeedPath, feed.atom1());
     info(`Atom1 Feed 文件写入成功：${atom1FeedPath}`);
 
-    const rss2FeedPath = './docs/rss.xml';
+    const rss2FeedPath = './feeds/rss.xml';
     await fs.writeFile(rss2FeedPath, feed.rss2());
     info(`RSS2 Feed 文件写入成功：${rss2FeedPath}`);
 

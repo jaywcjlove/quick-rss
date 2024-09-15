@@ -140,7 +140,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
     uniqueArray.forEach(post => {
       const rssurl = post.url.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
       const rsstitle = post.title.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
-      const description = issueBody
+      const description = content
           .replace(/!\[.*?\]\(.*?\)/g, '') // 去掉图片链接
           .replace(/<\/?[^>]+(>|$)/g, '')  // 去掉 HTML 标签
           .replace(/\s+/g, ' ')            // 去掉多余的换行符或空格

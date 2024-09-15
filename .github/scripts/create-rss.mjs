@@ -111,6 +111,8 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
       updated: new Date(), // optional, default = today
       generator: "Feed for Node.js", // optional, default = 'Feed for Node.js'
       feedLinks: {
+        json: "https://wangchujiang.com/quick-rss/json.xml",
+        rss: "https://wangchujiang.com/quick-rss/rss.xml",
         atom: "https://wangchujiang.com/quick-rss/atom.xml"
       },
       author: {
@@ -130,15 +132,15 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
         description: post.summary,
         date: new Date(post.date_published),
         author: [
-          {
-            name: post.author.name,
-            link: post.author.link
-          }
+          { name: post.author.name, link: post.author.link }
+        ],
+        contributor: [
+          { name: post.author.name, link: post.author.link }
         ],
       })
     })
     const jsonFeedPath = './docs/feed.json';
-    await fs.writeJSON(jsonFeedPath, feed.json1(), { spaces: 2 });
+    await fs.writeFile(jsonFeedPath, feed.json1());
     info(`JSON Feed 文件写入成功：${jsonFeedPath}`);
     // 输出日志
 

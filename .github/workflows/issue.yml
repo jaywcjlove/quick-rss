@@ -15,7 +15,7 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
 
       - run: npm install
-      - name: create rss
+      - name: Create RSS
         run: node .github/scripts/create-rss.mjs 
         # 判断是不是仓库作者更新的 label，并且判断是否包含 weekly
         if: github.event.issue.user.login == 'jaywcjlove' && contains(github.event.issue.labels.*.name, 'weekly')

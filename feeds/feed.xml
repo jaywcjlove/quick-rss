@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-15T18:42:38.041Z</updated>
+    <updated>2024-09-15T19:00:40.050Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -20,11 +20,7 @@
         <id>6</id>
         <link href="https://github.com/steven-tey/dub"/>
         <updated>2024-09-15T10:59:44.000Z</updated>
-        <summary type="html"><![CDATA[
-
-一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接
-
-![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)]]></summary>
+        <summary type="html"><![CDATA[一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接]]></summary>
         <content type="html"><![CDATA[<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>
 <p><img src="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" alt=""></p>]]></content>
         <author>
@@ -41,15 +37,7 @@
         <id>5</id>
         <link href="https://github.com/docmost/docmost"/>
         <updated>2024-09-15T08:05:12.000Z</updated>
-        <summary type="html"><![CDATA[一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。
-
-![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)
-
-
-**功能介绍**
-
-- **实时协作编辑器**：与他人实时协作编辑页面。
-- **绘图功能**：内置]]></summary>
+        <summary type="html"><![CDATA[一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。 功能介绍 实时协作编辑器：与他人实时协作编辑页面。 绘图功能：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。 工作空间：按团队、项目或部门组织页面，以便更好地协作。 权限管理：通过简单易懂的权限设置轻松控制内容访问。 群组功能：通过群组轻松为用户授予统一权限。 评论功能]]></summary>
         <content type="html"><![CDATA[<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>
 <p><img src="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" alt="image"></p>
 <p><strong>功能介绍</strong></p>
@@ -82,11 +70,7 @@
         <id>4</id>
         <link href="https://github.com/jaywcjlove/quick-rss"/>
         <updated>2024-09-14T19:35:32.000Z</updated>
-        <summary type="html"><![CDATA[Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。
-
-👉 https://github.com/jaywcjlove/quick-rss
-
-![image](https://github.com/user-attachments/ass]]></summary>
+        <summary type="html"><![CDATA[Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。 👉 https://github.com/jaywcjlove/quick-rss]]></summary>
         <content type="html"><![CDATA[<p>Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。</p>
 <p>👉 <a href="https://github.com/jaywcjlove/quick-rss">https://github.com/jaywcjlove/quick-rss</a></p>
 <p><img src="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" alt="image"></p>]]></content>

@@ -31,6 +31,10 @@ function getFirstImageFromMarkdown(markdown) {
   const match = markdown.match(/!\[.*?\]\((.*?)\)/);
   return match ? match[1] : null;
 }
+function getFirstImageFromHtml(html) {
+  const match = html.match(/<img[^>]+src="([^">]+)"/);
+  return match ? match[1] : null;
+}
 
 function getSummary(markdown) {
   return markdown
@@ -155,7 +159,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       const rsstitle = post.title.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
       const description = getSummary(post.content_html)
       const descriptionImage = getFirstImageFromMarkdown(post.content_html) ?? "";
-      const bannerImage = getFirstImageFromMarkdown(post.content_html);
+      const bannerImage = getFirstImageFromHtml(post.content_html);
       mdListContent += `\n### [${rsstitle}](${rssurl}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})${descriptionImage == null ? "" : `\n\n${descriptionImage}`}\n\n${description}\n`;
       feed.addItem({
         title: rsstitle,

@@ -15,18 +15,18 @@ https://wangchujiang.com/quick-rss/atom.xml
 
 
 
-### 📋 简介 一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接 ### 🔗 链接 https://github.com/steven-tey/dub
+一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接
 
 ### [Docmost: 是一个开源的协作文档和 Wiki 应用](https://github.com/docmost/docmost) [#5](https://github.com/jaywcjlove/quick-rss/issues/5) [@jaywcjlove](https://github.com/jaywcjlove)
 
 
 
-### 📋 简介 一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接 ### 🔗 链接 https://github.com/steven-tey/dub
+一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接
 
 ### [Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器](https://github.com/jaywcjlove/quick-rss) [#4](https://github.com/jaywcjlove/quick-rss/issues/4) [@jaywcjlove](https://github.com/jaywcjlove)
 
 
 
-### 📋 简介 一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接 ### 🔗 链接 https://github.com/steven-tey/dub
+一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接
 
 <!--RSS_LIST_END-->

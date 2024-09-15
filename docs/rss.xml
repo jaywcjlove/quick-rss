@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sun, 15 Sep 2024 04:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 07:48:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -14,6 +14,7 @@
             <link>https://wangchujiang.com/quick-rss/</link>
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
+        <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器]]></title>
             <link>https://github.com/jaywcjlove/quick-rss</link>

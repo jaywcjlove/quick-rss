@@ -159,7 +159,7 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
     const markdownContent = fs.readFileSync('./docs/README.md', 'utf-8');
     // <!--RSS_LIST_START--><!--RSS_LIST_END-->
     const contentx = markdownContent.replace(/<!--RSS_LIST_START-->[\s\S]*<!--RSS_LIST_END-->/g, `<!--RSS_LIST_START-->\n${mdListContent}\n<!--RSS_LIST_END-->`);
-    fs.writeFileSync('./docs/README.md', contentx);
+    fs.writeFileSync('./docs/feed.md', contentx);
     // 输出写入成功日志
     info(`README.md 文件写入成功：./docs/README.md`);
 

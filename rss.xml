@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sun, 15 Sep 2024 08:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 11:00:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dub: 开源的短链接服务]]></title>
+            <link>
+
+https://github.com/steven-tey/dub</link>
+            <guid>6</guid>
+            <pubDate>Sun, 15 Sep 2024 10:59:44 GMT</pubDate>
+            <description><![CDATA[
+
+一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接
+
+![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)]]></description>
+            <content:encoded><![CDATA[<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>
+<p><img src="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" alt=""></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Docmost: 是一个开源的协作文档和 Wiki 应用]]></title>
             <link>https://github.com/docmost/docmost</link>

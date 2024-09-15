@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-15T08:11:24.181Z</updated>
+    <updated>2024-09-15T11:00:14.226Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Dub: 开源的短链接服务]]></title>
+        <id>6</id>
+        <link href="
+
+https://github.com/steven-tey/dub"/>
+        <updated>2024-09-15T10:59:44.000Z</updated>
+        <summary type="html"><![CDATA[
+
+一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接
+
+![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)]]></summary>
+        <content type="html"><![CDATA[<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>
+<p><img src="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" alt=""></p>]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Docmost: 是一个开源的协作文档和 Wiki 应用]]></title>
         <id>5</id>

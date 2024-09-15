@@ -54,6 +54,7 @@ jobs:
               target: __blank
           sideEffectFiles:
             - README.zh.md
+            - docs/README.md
             - terms-of-service.md
             - terms-of-service.zh.md
             - privacy-policy.md

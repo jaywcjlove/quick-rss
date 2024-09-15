@@ -98,6 +98,13 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
     await fs.writeJSON(rssFilePath, rss, { spaces: 2 });
     // 输出写入成功日志
     info(`RSS 文件写入成功：${rssFilePath}`);
+
+    const oldRss = await fs.readJSON('./docs/rss.json');
+    // oldRss.items 和 rss.items 合并
+    // 新的 newItems 根据时间排序，通过id 去重
+    const rssItems = oldRss.items.concat(rss).sort((a, b) => new Date(b.date_published) - new Date(a.date_published))
+      .filter((item, index, self) => self.findIndex(t => t.id === item.id) === index)
+      .slice(0, 100);
     
     const feed = new Feed({
       title: "Quick RSS Feed",
@@ -121,8 +128,10 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
         link: "https://wangchujiang.com/"
       }
     });
-    
-    rss.forEach(post => {
+
+    let mdListContent = "";
+    rssItems.forEach(post => {
+      mdListContent += `- [${post.title}](${post.url}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id})\n`;
       feed.addItem({
         title: post.title,
         id: post.id,
@@ -139,6 +148,14 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
         ],
       })
     })
+
+    const markdownContent = fs.readFileSync('./docs/README.md', 'utf-8');
+    // <!--RSS_LIST_START--><!--RSS_LIST_END-->
+    const contentx = markdownContent.replace(/<!--RSS_LIST_START-->[\s\S]*<!--RSS_LIST_END-->/g, `<!--RSS_LIST_START-->\n${mdListContent}\n<!--RSS_LIST_END-->`);
+    fs.writeFileSync('./docs/README.md', contentx);
+    // 输出写入成功日志
+    info(`README.md 文件写入成功：./docs/README.md`);
+
     const jsonFeedPath = './docs/feed.json';
     await fs.writeFile(jsonFeedPath, feed.json1());
     info(`JSON Feed 文件写入成功：${jsonFeedPath}`);

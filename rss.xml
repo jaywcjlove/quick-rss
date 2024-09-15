@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sun, 15 Sep 2024 17:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 17:54:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -17,9 +17,7 @@
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Dub: 开源的短链接服务]]></title>
-            <link>
-
-https://github.com/steven-tey/dub</link>
+            <link>https://github.com/steven-tey/dub</link>
             <guid>6</guid>
             <pubDate>Sun, 15 Sep 2024 10:59:44 GMT</pubDate>
             <description><![CDATA[

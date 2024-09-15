@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-15T17:44:22.115Z</updated>
+    <updated>2024-09-15T17:54:28.399Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -18,9 +18,7 @@
     <entry>
         <title type="html"><![CDATA[Dub: 开源的短链接服务]]></title>
         <id>6</id>
-        <link href="
-
-https://github.com/steven-tey/dub"/>
+        <link href="https://github.com/steven-tey/dub"/>
         <updated>2024-09-15T10:59:44.000Z</updated>
         <summary type="html"><![CDATA[
 

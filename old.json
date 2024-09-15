@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6",
+    "url": "\n\nhttps://github.com/steven-tey/dub",
+    "title": "Dub: 开源的短链接服务",
+    "content_html": "<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>\n<p><img src=\"https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png\" alt=\"\"></p>",
+    "summary": "\n\n一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接\r\n\r\n![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)",
+    "banner_image": [
+      "![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)",
+      "https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png"
+    ],
+    "date_published": "2024-09-15T10:59:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    }
+  },
+  {
+    "id": "5",
+    "url": "https://github.com/docmost/docmost",
+    "title": "Docmost: 是一个开源的协作文档和 Wiki 应用",
+    "content_html": "<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee\" alt=\"image\"></p>\n<p><strong>功能介绍</strong></p>\n<ul>\n<li><strong>实时协作编辑器</strong>：与他人实时协作编辑页面。</li>\n<li><strong>绘图功能</strong>：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。</li>\n<li><strong>工作空间</strong>：按团队、项目或部门组织页面，以便更好地协作。</li>\n<li><strong>权限管理</strong>：通过简单易懂的权限设置轻松控制内容访问。</li>\n<li><strong>群组功能</strong>：通过群组轻松为用户授予统一权限。</li>\n<li><strong>评论功能</strong>：为页面添加评论，以便更好地沟通和反馈。</li>\n<li><strong>页面历史</strong>：通过完整的版本历史跟踪页面更改。</li>\n<li><strong>嵌套导航</strong>：通过侧边栏可以嵌套和重新排序页面。</li>\n<li><strong>搜索功能</strong>：通过强大的搜索功能快速找到所需信息。</li>\n<li><strong>文件附件</strong>：将文件附加到页面，便于参考和共享。</li>\n<li><strong>导入/导出</strong>：支持轻松导入和导出 Markdown 和 HTML 格式的页面。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe\" alt=\"image\"></p>",
+    "summary": "一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。\r\n\r\n![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)\r\n\r\n\r\n**功能介绍**\r\n\r\n- **实时协作编辑器**：与他人实时协作编辑页面。\r\n- **绘图功能**：内置",
+    "banner_image": [
+      "![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)",
+      "https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee"
+    ],
+    "date_published": "2024-09-15T08:05:12Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    }
+  },
+  {
+    "id": "4",
+    "url": "https://github.com/jaywcjlove/quick-rss",
+    "title": "Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器",
+    "content_html": "<p>Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。</p>\n<p>👉 <a href=\"https://github.com/jaywcjlove/quick-rss\">https://github.com/jaywcjlove/quick-rss</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668\" alt=\"image\"></p>",
+    "summary": "Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。\r\n\r\n👉 https://github.com/jaywcjlove/quick-rss\r\n\r\n![image](https://github.com/user-attachments/ass",
+    "banner_image": [
+      "![image](https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668)",
+      "https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668"
+    ],
+    "date_published": "2024-09-14T19:35:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    }
+  }
+]

@@ -81,7 +81,7 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
       },
     }
     
-    const data = issueBody.split(/###\s.+[\n\r]+/ig).map((txt) => txt.replace(/[\n\r\s]+$/g, '')).filter(Boolean);
+    const data = issueBody.split(/##+\s+[📋🔗]+\s.+/ig).map((txt) => txt.replace(/[\n\r\s]+$/g, '')).filter(Boolean);
     info(`Issue Body: ${JSON.stringify(data)}`);
     const content = (data[0] ?? "");
     rssItem.summary = content.substring(0, 200);

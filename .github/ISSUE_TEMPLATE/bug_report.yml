@@ -18,14 +18,19 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
+    id: os_version
     attributes:
       label: "💻 Desktop"
       description: Your operating system and version.
-      placeholder: ex. `macOS 14.0.1`
+      options:
+        - macOS 15.0 (Sequoia)
+        - macOS 14.0 (Sonoma)
+        - iOS 18.0
+        - iOS 17.0
+      default: 0
     validations:
       required: true
-
 
   - type: markdown
     attributes:

@@ -1,6 +1,7 @@
 https://wangchujiang.com/quick-rss/index.html
+https://wangchujiang.com/quick-rss/feed.html
 https://wangchujiang.com/quick-rss/index.zh.html
-https://wangchujiang.com/quick-rss/index.html
+https://wangchujiang.com/quick-rss/feed.html
 https://wangchujiang.com/quick-rss/terms-of-service.html
 https://wangchujiang.com/quick-rss/terms-of-service.zh.html
 https://wangchujiang.com/quick-rss/privacy-policy.html

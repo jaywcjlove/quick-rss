@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Quick RSS Feed</title>
+        <link>https://wangchujiang.com/quick-rss/</link>
+        <description>Thank you for contributing and sharing valuable tech content!</description>
+        <lastBuildDate>Sun, 15 Sep 2024 04:37:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <language>en</language>
+        <image>
+            <title>Quick RSS Feed</title>
+            <url>https://wangchujiang.com/quick-rss/assets/logo.png</url>
+            <link>https://wangchujiang.com/quick-rss/</link>
+        </image>
+        <copyright>All rights reserved 2024, Kenny</copyright>
+        <item>
+            <title><![CDATA[Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器]]></title>
+            <link>https://github.com/jaywcjlove/quick-rss</link>
+            <guid>4</guid>
+            <pubDate>Sat, 14 Sep 2024 19:35:32 GMT</pubDate>
+            <description><![CDATA[Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。
+
+👉 https://github.com/jaywcjlove/quick-rss
+
+![image](https://github.com/user-attachments/ass]]></description>
+            <content:encoded><![CDATA[<p>Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。</p>
+<p>👉 <a href="https://github.com/jaywcjlove/quick-rss">https://github.com/jaywcjlove/quick-rss</a></p>
+<p><img src="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" alt="image"></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

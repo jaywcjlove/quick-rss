@@ -104,9 +104,13 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
     // 新的 newItems 根据时间排序，通过id 去重
     let rssItems = oldRss.concat(rss)
     rssItems.sort((a, b) => new Date(b.date_published) - new Date(a.date_published))
-    rssItems = rssItems.filter((item, index, self) => self.findIndex(t => t.id === item.id) === index).slice(0, 100);
 
-    await fs.writeFile('./docs/old.json', rssItems, { spaces: 2 });
+    // 通过 rssItems 中的 id 去重复
+    const uniqueArray = rssItems.filter((item, index, self) =>
+      index === self.findIndex((t) => t.id === item.id)
+    );
+    
+    await fs.writeJSON('./docs/old.json', uniqueArray, { spaces: 2 });
     info(`Old RSS 文件写入成功：./docs/old.json`);
 
     const feed = new Feed({
@@ -133,7 +137,7 @@ const rssFilePath = `./docs/rss/${year}-${week}.json`;
     });
 
     let mdListContent = "";
-    rssItems.forEach(post => {
+    uniqueArray.forEach(post => {
       mdListContent += `- [${post.title}](${post.url}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})\n`;
       feed.addItem({
         title: post.title,

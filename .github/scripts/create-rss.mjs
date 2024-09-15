@@ -27,6 +27,20 @@ function getYearAndWeek(date) {
   };
 }
 
+function getFirstImageFromMarkdown(markdown) {
+  const match = markdown.match(/!\[.*?\]\((.*?)\)/);
+  return match ? match[1] : null;
+}
+
+function getSummary(markdown) {
+  return markdown
+      .replace(/!\[.*?\]\(.*?\)/g, '') // 去掉图片链接
+      .replace(/<\/?[^>]+(>|$)/g, '')  // 去掉 HTML 标签
+      .replace(/\s+/g, ' ')            // 去掉多余的换行符或空格
+      .trim()                          // 去掉前后的空格
+      .substring(0, 200);
+}
+
 /**
  * 根据年份和周数生成文件，如 2021-01.json，文件内容如下：
  * 
@@ -57,8 +71,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
   // 读取 rssFilePath 文件内容，如果文件不存在创建它并则返回空数组
   let rss = [];
   // 从 issueBody  Markdown 中获取图片
-  const bannerImage = issueBody.match(/!\[.*?\]\((.*?)\)/);
-
+  const bannerImage = getFirstImageFromMarkdown(issueBody);
   try {
     await fs.ensureDir('./feeds/rss');
     if (fs.existsSync(rssFilePath)) {
@@ -84,7 +97,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
     const data = issueBody.split(/##+\s+[📋🔗]+\s.+/ig).map((txt) => txt.replace(/[\n\r\s]+$/g, '')).filter(Boolean);
     info(`Issue Body: ${JSON.stringify(data)}`);
     const content = (data[0] ?? "");
-    rssItem.summary = content.substring(0, 200);
+    rssItem.summary = getSummary(content);
     rssItem.content_html = markdown(content);
     rssItem.url = data[1];
     // 输出 rssItem 日志
@@ -140,20 +153,16 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
     uniqueArray.forEach(post => {
       const rssurl = post.url.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
       const rsstitle = post.title.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
-      const description = content
-          .replace(/!\[.*?\]\(.*?\)/g, '') // 去掉图片链接
-          .replace(/<\/?[^>]+(>|$)/g, '')  // 去掉 HTML 标签
-          .replace(/\s+/g, ' ')            // 去掉多余的换行符或空格
-          .trim();                         // 去掉前后的空格
-      const descriptionImage = post.image ? `![](post.image)` : ""
-      mdListContent += `\n### [${rsstitle}](${rssurl}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})\n\n${descriptionImage}\n\n${description}\n`;
+      const description = getSummary(post.content_html)
+      const descriptionImage = post.banner_image ? `\n\n![](${post.banner_image})` : ""
+      mdListContent += `\n### [${rsstitle}](${rssurl}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})${descriptionImage}\n\n${description}\n`;
       feed.addItem({
         title: rsstitle,
         id: post.id,
         link: rssurl,
         image: post.image,
         content: post.content_html,
-        description: post.summary,
+        description: description,
         date: new Date(post.date_published),
         author: [
           { name: post.author.name, link: post.author.link }

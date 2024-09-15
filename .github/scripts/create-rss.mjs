@@ -159,7 +159,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       const rsstitle = post.title.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
       const description = getSummary(post.content_html)
       const bannerImage = getFirstImageFromHtml(post.content_html);
-      mdListContent += `\n### [${rsstitle}](${rssurl}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})${bannerImage == null ? "" : `\n\n${bannerImage}`}\n\n${description}\n`;
+      mdListContent += `\n### [${rsstitle}](${rssurl}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})${bannerImage == null ? "" : `\n\n![](${bannerImage})`}\n\n${description}\n`;
       feed.addItem({
         title: rsstitle,
         id: post.id,

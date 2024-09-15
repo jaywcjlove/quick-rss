@@ -2,6 +2,7 @@
 import { setFailed, info } from '@actions/core';
 import markdown from '@wcj/markdown-to-html';
 import fs from 'fs-extra';
+import { Feed } from "feed";
 
 const issueBody = process.env.ISSUE_BODY;
 const issueLink = process.env.ISSUE_LINK;
@@ -51,7 +52,6 @@ function getYearAndWeek(date) {
 const { year, week } = getYearAndWeek(new Date(issueDate));
 /** 根据年份和周数生成文件名称，如 2024-01.json */
 const rssFilePath = `./docs/rss/${year}-${week}.json`;
-const jsonFeedPath = './docs/feed.json';
 
 ;(async () => {
   // 读取 rssFilePath 文件内容，如果文件不存在创建它并则返回空数组
@@ -98,19 +98,58 @@ const jsonFeedPath = './docs/feed.json';
     await fs.writeJSON(rssFilePath, rss, { spaces: 2 });
     // 输出写入成功日志
     info(`RSS 文件写入成功：${rssFilePath}`);
-  
-    const jsonFeedData = {
-      "version": "https://jsonfeed.org/version/1.1",
-      "title": "Quick RSS Feed",
-      "home_page_url": "https://wangchujiang.com/quick-rss/",
-      "feed_url": "https://wangchujiang.com/quick-rss/feed.json",
-      "items": rss
-    }
-    // 将 jsonFeedData 写入 jsonFeedPath 文件
-    await fs.writeJSON(jsonFeedPath, jsonFeedData, { spaces: 2 });
-    // 输出写入成功日志
-    info(`JSON Feed 文件写入成功：${jsonFeedPath}`);
     
+    const feed = new Feed({
+      title: "Quick RSS Feed",
+      description: "Thank you for contributing and sharing valuable tech content!",
+      id: "quick-rss-feed",
+      link: "https://wangchujiang.com/quick-rss/",
+      language: "en", // optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
+      image: "https://wangchujiang.com/quick-rss/assets/logo.png",
+      favicon: "https://wangchujiang.com/quick-rss/assets/logo.png",
+      copyright: `All rights reserved ${year}, Kenny`,
+      updated: new Date(), // optional, default = today
+      generator: "Feed for Node.js", // optional, default = 'Feed for Node.js'
+      feedLinks: {
+        atom: "https://wangchujiang.com/quick-rss/atom.xml"
+      },
+      author: {
+        name: "Kenny",
+        email: "kennyiseeyou@gmail.com",
+        link: "https://wangchujiang.com/"
+      }
+    });
+    
+    rss.forEach(post => {
+      feed.addItem({
+        title: post.title,
+        id: post.id,
+        link: post.url,
+        image: post.image,
+        content: post.content_html,
+        description: post.summary,
+        date: new Date(post.date_published),
+        author: [
+          {
+            name: post.author.name,
+            link: post.author.link
+          }
+        ],
+      })
+    })
+    const jsonFeedPath = './docs/feed.json';
+    await fs.writeJSON(jsonFeedPath, feed.json1(), { spaces: 2 });
+    info(`JSON Feed 文件写入成功：${jsonFeedPath}`);
+    // 输出日志
+
+    const atom1FeedPath = './docs/feed.xml';
+    await fs.writeFile(atom1FeedPath, feed.atom1());
+    info(`Atom1 Feed 文件写入成功：${atom1FeedPath}`);
+
+    const rss2FeedPath = './docs/rss.xml';
+    await fs.writeFile(rss2FeedPath, feed.rss2());
+    info(`RSS2 Feed 文件写入成功：${rss2FeedPath}`);
+
   } catch (error) {
     setFailed(error.message);
   }

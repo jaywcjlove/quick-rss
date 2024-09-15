@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+  repository_dispatch:
+    types: [run-deploy]
 
 jobs:
   build-deploy:
@@ -67,6 +69,9 @@ jobs:
 
       - run: npm install idoc@1 -g
       - run: idoc
+      - run: |
+            cp -rp docs/*.json dist/
+            cp -rp docs/*.xml dist/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

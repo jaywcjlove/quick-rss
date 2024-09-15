@@ -138,11 +138,13 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
 
     let mdListContent = "";
     uniqueArray.forEach(post => {
-      mdListContent += `- [${post.title}](${post.url}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})\n`;
+      let rssurl = post.url.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
+      let rsstitle = post.title.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
+      mdListContent += `- [${rsstitle}](${rssurl}) [#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) [@${post.author.name}](https://github.com/${post.author.name})\n`;
       feed.addItem({
-        title: post.title,
+        title: rsstitle,
         id: post.id,
-        link: post.url,
+        link: rssurl,
         image: post.image,
         content: post.content_html,
         description: post.summary,

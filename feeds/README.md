@@ -4,7 +4,7 @@ Quick RSS Feed
 记录和分享技术内容！您可以通过下面的 RSS 链接订阅社区分享的宝贵内容。此外，您还可以通过 [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose) 提交、推荐或自荐您的文章、软件或资源，它们将被自动添加到 RSS 源中。
 
 ```
-https://wangchujiang.com/quick-rss/atom.xml
+https://wangchujiang.com/quick-rss/feed.xml
 ```
 
 ## 内容列表

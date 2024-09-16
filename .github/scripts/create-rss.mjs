@@ -144,7 +144,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       feedLinks: {
         json: "https://wangchujiang.com/quick-rss/json.xml",
         rss: "https://wangchujiang.com/quick-rss/rss.xml",
-        atom: "https://wangchujiang.com/quick-rss/atom.xml"
+        atom: "https://wangchujiang.com/quick-rss/feed.xml"
       },
       author: {
         name: "Kenny",

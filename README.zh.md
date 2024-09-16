@@ -7,7 +7,7 @@
   <p>
     <a href="./README.md">English</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/quick-rss/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">联系&支持</a> • 
-    <a href="#rss-源推荐">RSS 源推荐</a>
+    <a href="./feeds/README.md">RSS 源推荐</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
@@ -48,6 +48,8 @@ Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：
 
 ## RSS 源推荐
 
+我们汇集了一些优质的 RSS 源，欢迎分享您喜爱的订阅内容。同时，我们还推出了一个 [Quick RSS Feed](./feeds/README.md)，用于记录和分享技术相关的内容！如果您有文章、软件或资源推荐，欢迎通过 [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose) 进行投稿、推荐或自荐，它们将会自动添加到我们的 RSS 源中，共同丰富社区内容。
+
 - 阮一峰的网络日志 https://www.ruanyifeng.com/blog/atom.xml
 - 冯唐博客 https://www.fengtang.com/feed/
 - 云风的 BLOG https://blog.codingnow.com/atom.xml
@@ -60,7 +62,7 @@ Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：
 - Mac玩儿法 http://www.waerfa.com/feed
 - UX Coffee 设计咖 https://uxcoffee.com/feed/audio.xml
 
-这里汇集了一些推荐的 RSS 源，欢迎分享您喜爱的 RSS 源。
+
 
 <!--idoc:config:
 title: 「Quick RSS」是一款功能强大且直观的 macOS 桌面 RSS 阅读器，可帮助您轻松管理和阅读您最喜爱的 RSS 源。 - 

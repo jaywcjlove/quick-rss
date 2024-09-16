@@ -9,7 +9,7 @@
   <p>
     <a href="./README.zh.md">中文</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/quick-rss/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">Contact & Support</a> • 
-    <a href="#rss-feed">RSS Feed</a>
+    <a href="./feeds/README.md">RSS Feed</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
@@ -50,12 +50,12 @@ Download Quick RSS today and bring a brand new RSS reading experience to your ma
 
 ## RSS Feed
 
+We have curated some high-quality RSS feeds and encourage you to share your favorite subscriptions. Additionally, we have created a [Quick RSS Feed](./feeds/README.md) to collect and share tech-related content! If you have articles, software, or resources to recommend, feel free to contribute via [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose). Your submissions will be automatically added to our RSS feed, enriching the content for the community.
+
 - MacStories https://www.macstories.net/feed
 - Fatbobman's Swift Weekly https://weekly.fatbobman.com/feed
 - Marco.org https://marco.org/rss
 - MacRumors: Mac News and Rumors - All Stories https://feeds.macrumors.com/MacRumors-All
-
-Here are some recommended RSS feeds. Feel free to share your favorite RSS feeds with us.
 
 <!--idoc:config:
 site: Quick RSS

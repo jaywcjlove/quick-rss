@@ -7,7 +7,7 @@
   <p>
     <a href="./README.md">English</a> • 
     <a target="_blank" href="https://github.com/jaywcjlove/quick-rss/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">联系&支持</a> • 
-    <a href="./feeds/README.md">RSS 源推荐</a>
+    <a href="./feeds/">RSS 源推荐</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">

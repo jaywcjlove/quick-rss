@@ -1,7 +1,7 @@
 Quick RSS Feed
 ===
 
-Thank you for recording and sharing technical content! You can subscribe to the valuable content shared by the community through the RSS link below. Additionally, you can submit, recommend, or self-nominate your articles, software, or resources via an [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose), and they will be automatically added to the RSS feed.
+记录和分享技术内容！您可以通过下面的 RSS 链接订阅社区分享的宝贵内容。此外，您还可以通过 [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose) 提交、推荐或自荐您的文章、软件或资源，它们将被自动添加到 RSS 源中。
 
 ```
 https://wangchujiang.com/quick-rss/atom.xml

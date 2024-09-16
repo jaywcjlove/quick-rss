@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/atom.xml
 
 <!--RSS_LIST_START-->
 
+### [OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.0) 
+
+![](https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c)
+
+这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。 ([#9](https://github.com/jaywcjlove/quick-rss/issues/9) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [rathole：安全、稳定、高性能的内网穿透工具，用 Rust 语言编写](https://github.com/rapiz1/rathole) 
 
 ![](https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399)

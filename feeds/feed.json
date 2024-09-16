@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "9",
+            "content_html": "<p>这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c\" alt=\"image\"></p>\n<p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p>",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.0",
+            "title": "OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！",
+            "summary": "这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。",
+            "image": "https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c",
+            "date_modified": "2024-09-16T17:31:14.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "8",
             "content_html": "<p>安全、稳定、高性能的内网穿透工具，用 Rust 语言编写</p>\n<p><img src=\"https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399\" alt=\"rathole\"></p>\n<p>rathole，类似于 <a href=\"https://github.com/fatedier/frp\">frp</a> 和 <a href=\"https://github.com/inconshreveable/ngrok\">ngrok</a>，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。</p>\n<p>同类型的内网穿透工具</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<table><thead><tr><th>名称</th><th>Star</th></tr></thead><tbody><tr><td><a href=\"https://github.com/fatedier/frp\">frp</a></td><td><img src=\"https://img.shields.io/github/stars/fatedier/frp.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/inlets/inlets-pro\">inlets</a></td><td><img src=\"https://img.shields.io/github/stars/inlets/inlets-pro.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/inconshreveable/ngrok\">ngrok</a></td><td><img src=\"https://img.shields.io/github/stars/inconshreveable/ngrok.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/pgrok/pgrok\">pgrok</a></td><td><img src=\"https://img.shields.io/github/stars/pgrok/pgrok.svg\" alt=\"\"></td></tr><tr><td><del><a href=\"https://github.com/cnlh/easyProxy\">easyProxy</a></del></td><td><img src=\"https://img.shields.io/github/stars/cnlh/easyProxy.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://natapp.cn/\">natapp</a></td><td>-</td></tr><tr><td><a href=\"https://github.com/ehang-io/nps\">nps</a></td><td><img src=\"https://img.shields.io/github/stars/ehang-io/nps.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/jpillora/chisel\">chisel</a></td><td><img src=\"https://img.shields.io/github/stars/jpillora/chisel.svg\" alt=\"\"></td></tr></tbody></table>",
             "url": "https://github.com/rapiz1/rathole",

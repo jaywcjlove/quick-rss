@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/atom.xml
 
 <!--RSS_LIST_START-->
 
+### [rathole：安全、稳定、高性能的内网穿透工具，用 Rust 语言编写](https://github.com/rapiz1/rathole) 
+
+![](https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399)
+
+安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 rathole，类似于 frp 和 ngrok，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。 同类型的内网穿透工具 名称StarfrpinletsngrokpgrokeasyProxynatapp-npschisel ([#8](https://github.com/jaywcjlove/quick-rss/issues/8) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [IP查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电](https://ip.im/) 
 
 ![](https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc)

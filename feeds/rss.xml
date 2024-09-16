@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 16 Sep 2024 16:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 16:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,60 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rathole：安全、稳定、高性能的内网穿透工具，用 Rust 语言编写]]></title>
+            <link>https://github.com/rapiz1/rathole</link>
+            <guid>8</guid>
+            <pubDate>Mon, 16 Sep 2024 16:32:58 GMT</pubDate>
+            <description><![CDATA[安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 rathole，类似于 frp 和 ngrok，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。 同类型的内网穿透工具 名称StarfrpinletsngrokpgrokeasyProxynatapp-npschisel]]></description>
+            <content:encoded><![CDATA[<p>安全、稳定、高性能的内网穿透工具，用 Rust 语言编写</p>
+<p><img src="https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399" alt="rathole"></p>
+<p>rathole，类似于 <a href="https://github.com/fatedier/frp">frp</a> 和 <a href="https://github.com/inconshreveable/ngrok">ngrok</a>，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。</p>
+<p>同类型的内网穿透工具</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>名称</th><th>Star</th></tr></thead><tbody><tr><td><a href="https://github.com/fatedier/frp">frp</a></td><td><img src="https://img.shields.io/github/stars/fatedier/frp.svg" alt=""></td></tr><tr><td><a href="https://github.com/inlets/inlets-pro">inlets</a></td><td><img src="https://img.shields.io/github/stars/inlets/inlets-pro.svg" alt=""></td></tr><tr><td><a href="https://github.com/inconshreveable/ngrok">ngrok</a></td><td><img src="https://img.shields.io/github/stars/inconshreveable/ngrok.svg" alt=""></td></tr><tr><td><a href="https://github.com/pgrok/pgrok">pgrok</a></td><td><img src="https://img.shields.io/github/stars/pgrok/pgrok.svg" alt=""></td></tr><tr><td><del><a href="https://github.com/cnlh/easyProxy">easyProxy</a></del></td><td><img src="https://img.shields.io/github/stars/cnlh/easyProxy.svg" alt=""></td></tr><tr><td><a href="https://natapp.cn/">natapp</a></td><td>-</td></tr><tr><td><a href="https://github.com/ehang-io/nps">nps</a></td><td><img src="https://img.shields.io/github/stars/ehang-io/nps.svg" alt=""></td></tr><tr><td><a href="https://github.com/jpillora/chisel">chisel</a></td><td><img src="https://img.shields.io/github/stars/jpillora/chisel.svg" alt=""></td></tr></tbody></table>]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399" length="0" type="image//user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399"/>
+        </item>
         <item>
             <title><![CDATA[IP查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电]]></title>
             <link>https://ip.im/</link>

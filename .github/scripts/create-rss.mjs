@@ -177,12 +177,12 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       })
     })
 
-    const markdownContent = fs.readFileSync('./feeds/feed.md', 'utf-8');
+    const markdownContent = fs.readFileSync('./feeds/README.md', 'utf-8');
     // <!--RSS_LIST_START--><!--RSS_LIST_END-->
     const contentx = markdownContent.replace(/<!--RSS_LIST_START-->[\s\S]*<!--RSS_LIST_END-->/g, `<!--RSS_LIST_START-->\n${mdListContent}\n<!--RSS_LIST_END-->`);
-    fs.writeFileSync('./feeds/feed.md', contentx);
+    fs.writeFileSync('./feeds/README.md', contentx);
     // 输出写入成功日志
-    info(`feed.md 文件写入成功：./feeds/feed.md`);
+    info(`README.md 文件写入成功：./feeds/README.md`);
 
     const jsonFeedPath = './feeds/feed.json';
     await fs.writeFile(jsonFeedPath, feed.json1());

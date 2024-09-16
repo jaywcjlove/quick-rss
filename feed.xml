@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-16T16:33:31.761Z</updated>
+    <updated>2024-09-16T17:31:49.383Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,24 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！]]></title>
+        <id>9</id>
+        <link href="https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.0"/>
+        <updated>2024-09-16T17:31:14.000Z</updated>
+        <summary type="html"><![CDATA[这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。]]></summary>
+        <content type="html"><![CDATA[<p>这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。</p>
+<p><img src="https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c" alt="image"></p>
+<p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p>]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[rathole：安全、稳定、高性能的内网穿透工具，用 Rust 语言编写]]></title>
         <id>8</id>

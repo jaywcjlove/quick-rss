@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sun, 15 Sep 2024 19:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 16:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IP查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电]]></title>
+            <link>https://ip.im/</link>
+            <guid>7</guid>
+            <pubDate>Mon, 16 Sep 2024 16:18:18 GMT</pubDate>
+            <description><![CDATA[ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。 支持命令行显示 支持嵌入图片显示 IP，下面是嵌入图片示例 另外还有一些为爱发电的，IP 查询工具： https://ip.sy/]]></description>
+            <content:encoded><![CDATA[<p>ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。</p>
+<p><img src="https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc" alt="image"></p>
+<p>支持命令行显示</p>
+<p><img src="https://github.com/user-attachments/assets/bcb1675b-8f4a-4c31-bef5-373246bf94e1" alt="image"></p>
+<p>支持嵌入图片显示 IP，下面是嵌入图片示例</p>
+<a href="https://ip.im">
+  <img src="https://ip.im/img" alt="My IP Address" width="215" height="70">
+</a>
+<p>另外还有一些为爱发电的，IP 查询工具： <a href="https://ip.sy/">https://ip.sy/</a></p>]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc" length="0" type="image//user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc"/>
+        </item>
         <item>
             <title><![CDATA[Dub: 开源的短链接服务]]></title>
             <link>https://github.com/steven-tey/dub</link>

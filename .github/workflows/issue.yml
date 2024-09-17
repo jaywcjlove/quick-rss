@@ -15,10 +15,23 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
 
       - run: npm install
+
+      - name: Get the label modifier
+        run: |
+          MODIFIER=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/events" \
+          | jq -r '[.[] | select(.event == "labeled" and .label.name == "weekly")] | last | .actor.login')
+          
+          echo "Label modifier: $MODIFIER"
+
+          # 将修改者 login 写入环境变量
+          echo "MODIFIER=$MODIFIER" >> $GITHUB_ENV
+
+
       - name: Create RSS
         run: node .github/scripts/create-rss.mjs 
         # 判断是不是仓库作者更新的 label，并且判断是否包含 weekly
-        if: github.event.issue.user.login == 'jaywcjlove' && contains(github.event.issue.labels.*.name, 'weekly')
+        if: env.MODIFIER == 'jaywcjlove' && contains(github.event.issue.labels.*.name, 'weekly')
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_LINK: ${{ github.event.issue.html_url }}
@@ -29,7 +42,7 @@ jobs:
           ISSUE_AVATAR: ${{ github.event.issue.user.avatar_url }}
 
       - name: Commit changes
-        if: github.event.issue.user.login == 'jaywcjlove' && contains(github.event.issue.labels.*.name, 'weekly')
+        if: env.MODIFIER == 'jaywcjlove' && contains(github.event.issue.labels.*.name, 'weekly')
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"

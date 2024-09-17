@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-17T09:25:24.160Z</updated>
+    <updated>2024-09-17T09:36:51.759Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,25 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[App Rejection Fixes: 搜集 Apple 应用上架被拒绝的解决方案]]></title>
+        <id>12</id>
+        <link href="https://github.com/jaywcjlove/app-rejection-fixes"/>
+        <updated>2024-09-17T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。 https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd]]></summary>
+        <content type="html"><![CDATA[<p>此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。</p>
+<p><img src="https://github.com/user-attachments/assets/67aa4f91-220f-4561-b8bc-6d6b1cc63aef" alt=""></p>
+<p>它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。</p>
+<p><a href="https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd">https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd</a></p>]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写]]></title>
         <id>11</id>

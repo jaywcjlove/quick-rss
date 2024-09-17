@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写](https://github.com/harness/gitness) 
+
+![](https://github.com/user-attachments/assets/b8c009e0-096f-4061-9ac0-0b6ad09ac271)
+
+Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。 不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成 ([#11](https://github.com/jaywcjlove/quick-rss/issues/11) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [Ghchart：Github贡献图表作为图像，嵌入你的博客](https://github.com/2016rshah/githubchart-api) 
 
 ![](https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036)

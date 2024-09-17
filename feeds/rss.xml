@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Tue, 17 Sep 2024 09:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 09:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,17 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写]]></title>
+            <link>https://github.com/harness/gitness</link>
+            <guid>11</guid>
+            <pubDate>Tue, 17 Sep 2024 09:24:58 GMT</pubDate>
+            <description><![CDATA[Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。 不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成]]></description>
+            <content:encoded><![CDATA[<p>Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。</p>
+<p><img src="https://github.com/user-attachments/assets/b8c009e0-096f-4061-9ac0-0b6ad09ac271" alt="image"></p>
+<p>不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。</p>]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b8c009e0-096f-4061-9ac0-0b6ad09ac271" length="0" type="image//user-attachments/assets/b8c009e0-096f-4061-9ac0-0b6ad09ac271"/>
+        </item>
         <item>
             <title><![CDATA[Ghchart：Github贡献图表作为图像，嵌入你的博客]]></title>
             <link>https://github.com/2016rshah/githubchart-api</link>

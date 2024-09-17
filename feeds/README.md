@@ -23,7 +23,7 @@ https://wangchujiang.com/quick-rss/feed.xml
 此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。 ([#12](https://github.com/jaywcjlove/quick-rss/issues/12) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写](https://github.com/harness/gitness) 
 
-![](https://github.com/user-attachments/assets/b8c009e0-096f-4061-9ac0-0b6ad09ac271)
+![](https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622)
 
 Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。 不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成 ([#11](https://github.com/jaywcjlove/quick-rss/issues/11) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [Ghchart：Github贡献图表作为图像，嵌入你的博客](https://github.com/2016rshah/githubchart-api) 

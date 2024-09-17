@@ -107,13 +107,12 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       rehypePlugins: [[ rehypeVideo, { details: false, test: (url) => /\.(mp4|mov)|[?&]rehype=video/i.test(url) } ]],
       filterPlugins:(type, plugins) => {
         if (type === "rehype") {
-          const replugins = plugins.filter((plugin) => {
+          return plugins.map((plugin) => {
             if (Array.isArray(plugin) && plugin[0].name === 'RehypeVideo') {
-              return false
+              return [rehypeVideo, { details: false, test: (url) => /\.(mp4|mov)|[?&]rehype=video/i.test(url) }];
             }
-            return true;
+            return plugin;
           });
-          return replugins
         }
         return plugins
       }

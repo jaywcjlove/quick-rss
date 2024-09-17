@@ -50,7 +50,11 @@ Download Quick RSS today and bring a brand new RSS reading experience to your ma
 
 ## RSS Feed
 
-We have curated some high-quality RSS feeds and encourage you to share your favorite subscriptions. Additionally, we have created a [Quick RSS Feed](./feeds/README.md) to collect and share tech-related content! If you have articles, software, or resources to recommend, feel free to contribute via [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose). Your submissions will be automatically added to our RSS feed, enriching the content for the community.
+We have curated some high-quality RSS feeds and encourage you to share your favorite subscriptions. Additionally, we have created a [Quick RSS Feed](./feeds/) to collect and share tech-related content! If you have articles, software, or resources to recommend, feel free to contribute via [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose). Your submissions will be automatically added to our RSS feed, enriching the content for the community.
+
+```
+https://wangchujiang.com/quick-rss/feed.xml
+```
 
 - MacStories https://www.macstories.net/feed
 - Fatbobman's Swift Weekly https://weekly.fatbobman.com/feed

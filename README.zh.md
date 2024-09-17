@@ -54,6 +54,11 @@ Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：
 https://wangchujiang.com/quick-rss/feed.xml
 ```
 
+<!--RSS_LIST_START-->
+<!--RSS_LIST_END-->
+
+## 其它 RSS 源
+
 - 阮一峰的网络日志 https://www.ruanyifeng.com/blog/atom.xml
 - 冯唐博客 https://www.fengtang.com/feed/
 - 云风的 BLOG https://blog.codingnow.com/atom.xml
@@ -65,8 +70,6 @@ https://wangchujiang.com/quick-rss/feed.xml
 - 爱范儿 http://www.ifanr.com/feed
 - Mac玩儿法 http://www.waerfa.com/feed
 - UX Coffee 设计咖 https://uxcoffee.com/feed/audio.xml
-
-
 
 <!--idoc:config:
 title: 「Quick RSS」是一款功能强大且直观的 macOS 桌面 RSS 阅读器，可帮助您轻松管理和阅读您最喜爱的 RSS 源。 - 

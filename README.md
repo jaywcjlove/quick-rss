@@ -56,6 +56,11 @@ We have curated some high-quality RSS feeds and encourage you to share your favo
 https://wangchujiang.com/quick-rss/feed.xml
 ```
 
+<!--RSS_LIST_START-->
+<!--RSS_LIST_END-->
+
+## Other RSS Feed
+
 - MacStories https://www.macstories.net/feed
 - Fatbobman's Swift Weekly https://weekly.fatbobman.com/feed
 - Marco.org https://marco.org/rss

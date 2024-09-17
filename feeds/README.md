@@ -20,7 +20,7 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 ![](https://github.com/user-attachments/assets/67aa4f91-220f-4561-b8bc-6d6b1cc63aef)
 
-此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。 https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd ([#12](https://github.com/jaywcjlove/quick-rss/issues/12) - [@jaywcjlove](https://github.com/jaywcjlove))
+此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。 abe0d243-cc15-413a-a67a-a653af0289fd ([#12](https://github.com/jaywcjlove/quick-rss/issues/12) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写](https://github.com/harness/gitness) 
 
 ![](https://github.com/user-attachments/assets/b8c009e0-096f-4061-9ac0-0b6ad09ac271)

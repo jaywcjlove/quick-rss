@@ -120,7 +120,13 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
     const oldRss = await fs.readJSON('./feeds/old.json');
     // oldRss.items 和 rss.items 合并
     // 新的 newItems 根据时间排序，通过id 去重
-    let rssItems = oldRss.concat(rss).map((item, index, self) => {
+    let rssItems = oldRss.concat(rss)
+    rssItems.sort((a, b) => new Date(b.date_published) - new Date(a.date_published))
+
+    // 通过 rssItems 中的 id 去重复
+    const uniqueArray = rssItems.filter((item, index, self) =>
+      index === self.findIndex((t) => t.id === item.id)
+    ).map((item) => {
       if (item.id === rssItem.id) {
         item.url = rssItem.url;
         item.title = rssItem.title;
@@ -131,13 +137,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
         item.author = rssItem.author;
       }
       return item;
-    })
-    rssItems.sort((a, b) => new Date(b.date_published) - new Date(a.date_published))
-
-    // 通过 rssItems 中的 id 去重复
-    const uniqueArray = rssItems.filter((item, index, self) =>
-      index === self.findIndex((t) => t.id === item.id)
-    );
+    });
     
     await fs.writeJSON('./feeds/old.json', uniqueArray, { spaces: 2 });
     info(`Old RSS 文件写入成功：./feeds/old.json`);

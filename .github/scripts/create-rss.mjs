@@ -1,8 +1,9 @@
 #!/bin/bash node
 import { setFailed, info } from '@actions/core';
 import markdown from '@wcj/markdown-to-html';
+import rehypeVideo from 'rehype-video';
 import fs from 'fs-extra';
-import { Feed } from "feed";
+import { Feed } from 'feed';
 
 const issueBody = process.env.ISSUE_BODY;
 const issueLink = process.env.ISSUE_LINK;
@@ -102,7 +103,21 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
     info(`Issue Body: ${JSON.stringify(data)}`);
     const content = (data[0] ?? "");
     rssItem.summary = getSummary(content);
-    rssItem.content_html = markdown(content);
+    rssItem.content_html = markdown(content, {
+      rehypePlugins: [[ rehypeVideo, { details: false, test: (url) => /\.(mp4|mov)|[?&]rehype=video/i.test(url) } ]],
+      filterPlugins:(type, plugins) => {
+        if (type === "rehype") {
+          const replugins = plugins.filter((plugin) => {
+            if (Array.isArray(plugin) && plugin[0].name === 'RehypeVideo') {
+              return false
+            }
+            return true;
+          });
+          return replugins
+        }
+        return plugins
+      }
+    });
     info(`Issue Body Content HTML: ${rssItem.content_html}`);
     rssItem.url = data[1];
     // 输出 rssItem 日志

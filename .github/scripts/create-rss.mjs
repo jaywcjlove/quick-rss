@@ -120,7 +120,18 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
     const oldRss = await fs.readJSON('./feeds/old.json');
     // oldRss.items 和 rss.items 合并
     // 新的 newItems 根据时间排序，通过id 去重
-    let rssItems = oldRss.concat(rss)
+    let rssItems = oldRss.concat(rss).map((item, index, self) => {
+      if (item.id === rssItem.id) {
+        item.url = rssItem.url;
+        item.title = rssItem.title;
+        item.content_html = rssItem.content_html;
+        item.summary = rssItem.summary;
+        item.banner_image = rssItem.banner_image;
+        item.date_published = rssItem.date_published;
+        item.author = rssItem.author;
+      }
+      return item;
+    })
     rssItems.sort((a, b) => new Date(b.date_published) - new Date(a.date_published))
 
     // 通过 rssItems 中的 id 去重复

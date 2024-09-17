@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术](https://innei.in/feed) 
+
+![](https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa)
+
+这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。 ([#14](https://github.com/jaywcjlove/quick-rss/issues/14) - [@Innei](https://github.com/Innei))
 ### [Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端](https://github.com/MochiDiffusion/MochiDiffusion) 
 
 ![](https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb)

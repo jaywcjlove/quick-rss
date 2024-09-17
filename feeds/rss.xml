@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Tue, 17 Sep 2024 12:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 17:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,17 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术]]></title>
+            <link>https://innei.in/feed</link>
+            <guid>14</guid>
+            <pubDate>Tue, 17 Sep 2024 16:27:51 GMT</pubDate>
+            <description><![CDATA[这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。]]></description>
+            <content:encoded><![CDATA[<p>这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。</p>
+<p><img src="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f" alt=""></p>]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" length="0" type="image//user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa"/>
+        </item>
         <item>
             <title><![CDATA[Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端]]></title>
             <link>https://github.com/MochiDiffusion/MochiDiffusion</link>

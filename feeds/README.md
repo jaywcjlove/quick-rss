@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端](https://github.com/MochiDiffusion/MochiDiffusion) 
+
+![](https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb)
+
+本应用内置 Apple 的 Core ML Stable Diffusion 框架 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能 🌐 生成图像无需联网 🖼️ 支持图像转图像 &#x26; ControlNet 🗂️ EXIF 信息中存储关键词 🔍 使用 RealESRGAN 放大图像 💾 自动保存 &#x26; 恢复图像 🛠️ 自定义 Stable Dif ([#13](https://github.com/jaywcjlove/quick-rss/issues/13) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [App Rejection Fixes: 搜集 Apple 应用上架被拒绝的解决方案](https://github.com/jaywcjlove/app-rejection-fixes) 
 
 ![](https://github.com/user-attachments/assets/67aa4f91-220f-4561-b8bc-6d6b1cc63aef)

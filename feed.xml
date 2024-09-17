@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-17T12:45:48.383Z</updated>
+    <updated>2024-09-17T17:11:13.429Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,24 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术]]></title>
+        <id>14</id>
+        <link href="https://innei.in/feed"/>
+        <updated>2024-09-17T16:27:51.000Z</updated>
+        <summary type="html"><![CDATA[这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。]]></summary>
+        <content type="html"><![CDATA[<p>这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。</p>
+<p><img src="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f" alt=""></p>]]></content>
+        <author>
+            <name>Innei</name>
+            <uri>https://avatars.githubusercontent.com/u/41265413?v=4</uri>
+        </author>
+        <contributor>
+            <name>Innei</name>
+            <uri>https://avatars.githubusercontent.com/u/41265413?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端]]></title>
         <id>13</id>

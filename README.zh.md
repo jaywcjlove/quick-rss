@@ -56,6 +56,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案](https://github.com/appwrite/appwrite) 
+
+![](https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3)
+
+Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。 Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，等多种服务。 Appwrite 使用高拓展性的微服 ([#15](https://github.com/jaywcjlove/quick-rss/issues/15) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术](https://innei.in/feed) 
 
 ![](https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa)

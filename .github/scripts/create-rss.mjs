@@ -103,7 +103,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
     const content = (data[0] ?? "");
     rssItem.summary = getSummary(content);
     rssItem.content_html = markdown(content);
-    info(`Issue Body Content HTML: ${content_html}`);
+    info(`Issue Body Content HTML: ${rssItem.content_html}`);
     rssItem.url = data[1];
     // 输出 rssItem 日志
     info(`RSS Item: ${JSON.stringify(rssItem)}`);

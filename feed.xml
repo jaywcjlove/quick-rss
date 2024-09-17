@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-16T17:31:49.383Z</updated>
+    <updated>2024-09-17T09:11:45.983Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -10,11 +10,38 @@
         <uri>https://wangchujiang.com/</uri>
     </author>
     <link rel="alternate" href="https://wangchujiang.com/quick-rss/"/>
-    <link rel="self" href="https://wangchujiang.com/quick-rss/atom.xml"/>
+    <link rel="self" href="https://wangchujiang.com/quick-rss/feed.xml"/>
     <subtitle>Thank you for contributing and sharing valuable tech content!</subtitle>
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Ghchart：Github贡献图表作为图像，嵌入你的博客]]></title>
+        <id>10</id>
+        <link href="https://github.com/2016rshah/githubchart-api"/>
+        <updated>2024-09-17T09:11:19.000Z</updated>
+        <summary type="html"><![CDATA[📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客 你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方： &#x3C;img src="https://ghchart.rshah.org/jaywcjlove" alt="2016rshah's Github chart" /> 回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，]]></summary>
+        <content type="html"><![CDATA[<p>📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客</p>
+<p><img src="https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036" alt="image"></p>
+<p>你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方：</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">&#x3C;img src="https://ghchart.rshah.org/jaywcjlove" alt="2016rshah's Github chart" />
+</span></code></pre>
+<img src="https://ghchart.rshah.org/jaywcjlove" alt="2016rshah&#x27;s Github chart">
+<p>回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！</p>
+<p><strong>颜色方案</strong></p>
+<p>我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 <code>https://ghchart.rshah.org/&#x3C;HEX-COLOR>/2016rshah</code> 并将 <code>&#x3C;HEX-COLOR></code> 替换为你想要的颜色的十六进制代码（不包括前导的 <code>#</code> 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">&#x3C;img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah's Blue Github Chart" />
+</span></code></pre>
+<img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah&#x27;s Blue Github Chart">]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！]]></title>
         <id>9</id>

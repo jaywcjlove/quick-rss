@@ -23,7 +23,7 @@ https://wangchujiang.com/quick-rss/feed.xml
 本应用内置 Apple 的 Core ML Stable Diffusion 框架 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能 🌐 生成图像无需联网 🖼️ 支持图像转图像 &#x26; ControlNet 🗂️ EXIF 信息中存储关键词 🔍 使用 RealESRGAN 放大图像 💾 自动保存 &#x26; 恢复图像 🛠️ 自定义 Stable Dif ([#13](https://github.com/jaywcjlove/quick-rss/issues/13) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [App Rejection Fixes: 搜集 Apple 应用上架被拒绝的解决方案](https://github.com/jaywcjlove/app-rejection-fixes) 
 
-![](https://github.com/user-attachments/assets/67aa4f91-220f-4561-b8bc-6d6b1cc63aef)
+![](https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865)
 
 此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。 ([#12](https://github.com/jaywcjlove/quick-rss/issues/12) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写](https://github.com/harness/gitness) 

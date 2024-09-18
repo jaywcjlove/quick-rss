@@ -137,6 +137,8 @@ Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅�
 - Marco.org https://marco.org/rss
 - MacRumors: Mac News and Rumors - All Stories https://feeds.macrumors.com/MacRumors-All
 
+Here are some recommended RSS feeds. Feel free to share your favorite RSS feeds with us.
+
 <!--idoc:config:
 site: Quick RSS
 title: A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease. - 

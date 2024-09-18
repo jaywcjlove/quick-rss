@@ -142,6 +142,8 @@ Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅�
 - Mac玩儿法 http://www.waerfa.com/feed
 - UX Coffee 设计咖 https://uxcoffee.com/feed/audio.xml
 
+这里汇集了一些推荐的 RSS 源，欢迎分享您喜爱的 RSS 源。
+
 <!--idoc:config:
 title: 「Quick RSS」是一款功能强大且直观的 macOS 桌面 RSS 阅读器，可帮助您轻松管理和阅读您最喜爱的 RSS 源。 - 
 keywords: Quick RSS, RSS 阅读器, macOS RSS 应用, 桌面 RSS, 新闻聚合器, RSS 订阅管理器

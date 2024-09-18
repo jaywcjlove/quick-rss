@@ -1,5 +1,18 @@
 [
   {
+    "id": "16",
+    "url": "\n\nhttps://github.com/Kyle-Ye/XcodeLLMEligible",
+    "title": "XcodeLLMEligible - Xcode 使用 AI 代码补全",
+    "content_html": "<p>Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次</p>\n<p><img src=\"https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e\" alt=\"image\"></p>\n<p>Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本</p>",
+    "summary": "Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次 Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本",
+    "banner_image": "https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e",
+    "date_published": "2024-09-18T12:34:48Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    }
+  },
+  {
     "id": "15",
     "url": "\n\nhttps://github.com/appwrite/appwrite",
     "title": "Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案",

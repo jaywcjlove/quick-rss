@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Wed, 18 Sep 2024 18:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 18:51:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -24,7 +24,7 @@
             <content:encoded><![CDATA[<p>一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。</p>
 <p><img src="https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd" alt=""></p>
 <p>可以完美展示你项目的成长和社区影响力！</p>
-<p><img src="https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f" alt=""></p>]]></content:encoded>
+<p><img src="https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f" alt=""></p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/18" target="_blank">#18</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd" length="0" type="image//user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd"/>
         </item>
         <item>
@@ -34,7 +34,7 @@
             <pubDate>Wed, 18 Sep 2024 13:49:31 GMT</pubDate>
             <description><![CDATA[深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情]]></description>
             <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568" alt=""></p>
-<p>深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情</p>]]></content:encoded>
+<p>深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情</p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/17" target="_blank">#17</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568" length="0" type="image//user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568"/>
         </item>
         <item>
@@ -45,7 +45,7 @@
             <description><![CDATA[Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次 Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本]]></description>
             <content:encoded><![CDATA[<p>Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次</p>
 <p><img src="https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e" alt="image"></p>
-<p>Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本</p>]]></content:encoded>
+<p>Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本</p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/16" target="_blank">#16</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e" length="0" type="image//user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e"/>
         </item>
         <item>
@@ -59,7 +59,7 @@
 <p>Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，<a href="https://appwrite.io/docs">等多种服务</a>。</p>
 <p>Appwrite 使用高拓展性的微服务架构。此外，Appwrite 支持多种 API（REST、WebSocket 和 即将推出的 GraphQL），来迎合您的个性化开发习惯。</p>
 <p><img src="https://github.com/user-attachments/assets/329d22c7-4946-4951-b457-eb5f31f512a9" alt="image"></p>
-<p>Appwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。</p>]]></content:encoded>
+<p>Appwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。</p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/15" target="_blank">#15</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3" length="0" type="image//user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3"/>
         </item>
         <item>
@@ -70,7 +70,7 @@
             <description><![CDATA[这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。]]></description>
             <content:encoded><![CDATA[<p>这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。</p>
 <p><img src="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" alt=""></p>
-<p><img src="https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f" alt=""></p>]]></content:encoded>
+<p><img src="https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f" alt=""></p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/14" target="_blank">#14</a> - <a href="https://github.com/Innei" target="_blank">Innei</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" length="0" type="image//user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa"/>
         </item>
         <item>
@@ -87,7 +87,7 @@
 🔍 使用 RealESRGAN 放大图像
 💾 自动保存 &#x26; 恢复图像
 🛠️ 自定义 Stable Diffusion Core ML 模型
-🖥️ 使用 SwiftUI 开发</p>]]></content:encoded>
+🖥️ 使用 SwiftUI 开发</p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/13" target="_blank">#13</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb" length="0" type="image//user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb"/>
         </item>
         <item>
@@ -99,7 +99,7 @@
             <content:encoded><![CDATA[<p>此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。</p>
 <p><img src="https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865" alt=""></p>
 <p>它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。</p>
-<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&#x26;rehype=video"></video>]]></content:encoded>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&#x26;rehype=video"></video><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/12" target="_blank">#12</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865" length="0" type="image//user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865"/>
         </item>
         <item>
@@ -110,7 +110,7 @@
             <description><![CDATA[Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。 不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成]]></description>
             <content:encoded><![CDATA[<p>Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。</p>
 <p><img src="https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622" alt=""></p>
-<p>不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。</p>]]></content:encoded>
+<p>不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。</p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/11" target="_blank">#11</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622" length="0" type="image//user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622"/>
         </item>
         <item>
@@ -130,7 +130,7 @@
 <p>我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 <code>https://ghchart.rshah.org/&#x3C;HEX-COLOR>/2016rshah</code> 并将 <code>&#x3C;HEX-COLOR></code> 替换为你想要的颜色的十六进制代码（不包括前导的 <code>#</code> 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：</p>
 <pre><code class="code-highlight"><span class="code-line line-number" line="1">&#x3C;img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah's Blue Github Chart" />
 </span></code></pre>
-<img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah&#x27;s Blue Github Chart">]]></content:encoded>
+<img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah&#x27;s Blue Github Chart"><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/10" target="_blank">#10</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036" length="0" type="image//user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036"/>
         </item>
         <item>
@@ -141,7 +141,7 @@
             <description><![CDATA[这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。]]></description>
             <content:encoded><![CDATA[<p>这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。</p>
 <p><img src="https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c" alt="image"></p>
-<p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p>]]></content:encoded>
+<p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/9" target="_blank">#9</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c" length="0" type="image//user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c"/>
         </item>
         <item>
@@ -195,7 +195,7 @@
 
 
 
-<table><thead><tr><th>名称</th><th>Star</th></tr></thead><tbody><tr><td><a href="https://github.com/fatedier/frp">frp</a></td><td><img src="https://img.shields.io/github/stars/fatedier/frp.svg" alt=""></td></tr><tr><td><a href="https://github.com/inlets/inlets-pro">inlets</a></td><td><img src="https://img.shields.io/github/stars/inlets/inlets-pro.svg" alt=""></td></tr><tr><td><a href="https://github.com/inconshreveable/ngrok">ngrok</a></td><td><img src="https://img.shields.io/github/stars/inconshreveable/ngrok.svg" alt=""></td></tr><tr><td><a href="https://github.com/pgrok/pgrok">pgrok</a></td><td><img src="https://img.shields.io/github/stars/pgrok/pgrok.svg" alt=""></td></tr><tr><td><del><a href="https://github.com/cnlh/easyProxy">easyProxy</a></del></td><td><img src="https://img.shields.io/github/stars/cnlh/easyProxy.svg" alt=""></td></tr><tr><td><a href="https://natapp.cn/">natapp</a></td><td>-</td></tr><tr><td><a href="https://github.com/ehang-io/nps">nps</a></td><td><img src="https://img.shields.io/github/stars/ehang-io/nps.svg" alt=""></td></tr><tr><td><a href="https://github.com/jpillora/chisel">chisel</a></td><td><img src="https://img.shields.io/github/stars/jpillora/chisel.svg" alt=""></td></tr></tbody></table>]]></content:encoded>
+<table><thead><tr><th>名称</th><th>Star</th></tr></thead><tbody><tr><td><a href="https://github.com/fatedier/frp">frp</a></td><td><img src="https://img.shields.io/github/stars/fatedier/frp.svg" alt=""></td></tr><tr><td><a href="https://github.com/inlets/inlets-pro">inlets</a></td><td><img src="https://img.shields.io/github/stars/inlets/inlets-pro.svg" alt=""></td></tr><tr><td><a href="https://github.com/inconshreveable/ngrok">ngrok</a></td><td><img src="https://img.shields.io/github/stars/inconshreveable/ngrok.svg" alt=""></td></tr><tr><td><a href="https://github.com/pgrok/pgrok">pgrok</a></td><td><img src="https://img.shields.io/github/stars/pgrok/pgrok.svg" alt=""></td></tr><tr><td><del><a href="https://github.com/cnlh/easyProxy">easyProxy</a></del></td><td><img src="https://img.shields.io/github/stars/cnlh/easyProxy.svg" alt=""></td></tr><tr><td><a href="https://natapp.cn/">natapp</a></td><td>-</td></tr><tr><td><a href="https://github.com/ehang-io/nps">nps</a></td><td><img src="https://img.shields.io/github/stars/ehang-io/nps.svg" alt=""></td></tr><tr><td><a href="https://github.com/jpillora/chisel">chisel</a></td><td><img src="https://img.shields.io/github/stars/jpillora/chisel.svg" alt=""></td></tr></tbody></table><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/8" target="_blank">#8</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399" length="0" type="image//user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399"/>
         </item>
         <item>
@@ -212,7 +212,7 @@
 <a href="https://ip.im">
   <img src="https://ip.im/img" alt="My IP Address" width="215" height="70">
 </a>
-<p>另外还有一些为爱发电的，IP 查询工具： <a href="https://ip.sy/">https://ip.sy/</a></p>]]></content:encoded>
+<p>另外还有一些为爱发电的，IP 查询工具： <a href="https://ip.sy/">https://ip.sy/</a></p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/7" target="_blank">#7</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc" length="0" type="image//user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc"/>
         </item>
         <item>
@@ -222,7 +222,7 @@
             <pubDate>Sun, 15 Sep 2024 10:59:44 GMT</pubDate>
             <description><![CDATA[一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接]]></description>
             <content:encoded><![CDATA[<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>
-<p><img src="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" alt=""></p>]]></content:encoded>
+<p><img src="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" alt=""></p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/6" target="_blank">#6</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -248,7 +248,7 @@
 <li><strong>导入/导出</strong>：支持轻松导入和导出 Markdown 和 HTML 格式的页面。</li>
 </ul>
 <p><img src="https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5" alt="image"></p>
-<p><img src="https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe" alt="image"></p>]]></content:encoded>
+<p><img src="https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe" alt="image"></p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/5" target="_blank">#5</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" length="0" type="image//user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee"/>
         </item>
         <item>
@@ -259,7 +259,7 @@
             <description><![CDATA[Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。 👉 https://github.com/jaywcjlove/quick-rss]]></description>
             <content:encoded><![CDATA[<p>Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。</p>
 <p>👉 <a href="https://github.com/jaywcjlove/quick-rss">https://github.com/jaywcjlove/quick-rss</a></p>
-<p><img src="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" alt="image"></p>]]></content:encoded>
+<p><img src="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" alt="image"></p><br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/4" target="_blank">#4</a> - <a href="https://github.com/jaywcjlove" target="_blank">jaywcjlove</a>]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" length="0" type="image//user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668"/>
         </item>
     </channel>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-17T17:38:16.246Z</updated>
+    <updated>2024-09-18T12:35:19.559Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,24 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[XcodeLLMEligible - Xcode 使用 AI 代码补全]]></title>
+        <id>16</id>
+        <link href="https://github.com/Kyle-Ye/XcodeLLMEligible"/>
+        <updated>2024-09-18T12:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次 Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本]]></summary>
+        <content type="html"><![CDATA[<p>Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次</p>
+<p><img src="https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e" alt="image"></p>
+<p>Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本</p>]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案]]></title>
         <id>15</id>

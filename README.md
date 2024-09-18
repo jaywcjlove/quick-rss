@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [Artificial Analysis：大模型能力、价格、速度对比的工具](https://artificialanalysis.ai/models/gpt-4o-mini) 
+
+![](https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568)
+
+深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情 ([#17](https://github.com/jaywcjlove/quick-rss/issues/17) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [XcodeLLMEligible - Xcode 使用 AI 代码补全](https://github.com/Kyle-Ye/XcodeLLMEligible) 
 
 ![](https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e)

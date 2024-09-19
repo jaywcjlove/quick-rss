@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+  <head>
+    <title>Quick RSS Feed</title>
+    <ownerName>Kenny Wang</ownerName>
+    <ownerEmail>kennyiseeyou@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" description="" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" htmlUrl="https://www.ruanyifeng.com/blog/"/>
+    <outline text="云风的 BLOG" title="云风的 BLOG" type="rss" description="" xmlUrl="https://blog.codingnow.com/atom.xml" htmlUrl="https://blog.codingnow.com"/>
+    <outline text="潮流周刊" title="潮流周刊" type="rss" description="" xmlUrl="https://weekly.tw93.fun/rss.xml" htmlUrl="https://weekly.tw93.fun/"/>
+    <outline text="爱范儿" title="爱范儿" type="rss" description="" xmlUrl="http://www.ifanr.com/feed" htmlUrl="http://www.ifanr.com/"/>
+    <outline text="Mac玩儿法" title="Mac玩儿法" type="rss" description="" xmlUrl="https://www.waerfa.com/feed" htmlUrl="https://www.waerfa.com/"/>
+    <outline text="酷 壳 – CoolShell" title="酷 壳 – CoolShell" type="rss" description="" xmlUrl="https://coolshell.cn/feed" htmlUrl="https://coolshell.cn"/>
+    <outline text="卡瓦邦噶！" title="卡瓦邦噶！" type="rss" description="" xmlUrl="https://www.kawabangga.com/feed" htmlUrl="https://www.kawabangga.com"/>
+    <outline text="UX Coffee 设计咖" title="UX Coffee 设计咖" type="rss" description="" xmlUrl="https://uxcoffee.com/feed/audio.xml" htmlUrl="https://uxcoffee.com/feed/audio.xml"/>
+    <outline text="MacTalk-池建强的随想录" title="MacTalk-池建强的随想录" type="rss" xmlUrl="http://macshuo.com/?feed=rss2" htmlUrl="http://macshuo.com"/>
+    <outline text="Reorx’s Forge" title="Reorx’s Forge" type="rss" xmlUrl="https://reorx.com/feed.xml" htmlUrl="https://reorx.com/"/>
+    <outline text="代码家" title="代码家" type="rss" xmlUrl="https://daimajia.com/feed" htmlUrl="https://daimajia.com"/>
+    <outline text="阁子" title="阁子" type="rss" xmlUrl="https://dfine.tech/atom.xml" htmlUrl="https://dfine.tech"/>
+    <outline text="罗磊的独立博客" title="罗磊的独立博客" type="rss" xmlUrl="http://luolei.org/feed/" htmlUrl="https://luolei.org"/>
+    <outline text="开源实验室" title="开源实验室" type="rss" xmlUrl="https://www.kymjs.com/feed.xml" htmlUrl="https://kymjs.com"/>
+    <outline text="技术小黑屋" title="技术小黑屋" type="rss" xmlUrl="https://droidyue.com/atom.xml" htmlUrl="https://droidyue.com"/>
+    <outline text="vzard's blog" title="vzard's blog" type="rss" xmlUrl="https://vzardlloo.github.io/atom.xml" htmlUrl="https://vzardlloo.github.io"/>
+    <outline text="后端技术杂谈" title="后端技术杂谈" type="rss" xmlUrl="https://rowkey.cn/atom.xml" htmlUrl="https://rowkey.cn"/>
+    <outline text="仲儿的自留地" title="仲儿的自留地" type="rss" xmlUrl="https://blog.lui8.cn/feed.xml" htmlUrl="https://blog.lui8.cn"/>
+    <outline text="依云's Blog" title="依云's Blog" type="rss" xmlUrl="https://blog.lilydjwg.me/posts.rss" htmlUrl="https://blog.lilydjwg.me"/>
+    <outline text="前端工程师 Toweave" title="前端工程师 Toweave" type="rss" xmlUrl="https://toweave.github.io/rss.xml" htmlUrl="https://toweave.github.io"/>
+  </body>
+</opml>

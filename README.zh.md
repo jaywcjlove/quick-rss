@@ -140,11 +140,9 @@ Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅�
 - 云风的 BLOG https://blog.codingnow.com/atom.xml
 - 潮流周刊 https://weekly.tw93.fun/rss.xml
 - 爱范儿 http://www.ifanr.com/feed
-- Mac玩儿法 http://www.waerfa.com/feed
+- Mac玩儿法 https://www.waerfa.com/feed
 - 卡瓦邦噶！ https://www.kawabangga.com/feed
 - 酷 壳 – CoolShell https://coolshell.cn/feed
-- 爱范儿 http://www.ifanr.com/feed
-- Mac玩儿法 http://www.waerfa.com/feed
 - UX Coffee 设计咖 https://uxcoffee.com/feed/audio.xml
 
 这里汇集了一些推荐的 RSS 源，欢迎分享您喜爱的 RSS 源。

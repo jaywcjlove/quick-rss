@@ -186,13 +186,18 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       const description = getSummary(post.content_html)
       const bannerImage = getFirstImageFromHtml(post.content_html);
       mdListContent += `\n### [${rsstitle}](${rssurl}) ${bannerImage == null ? "" : `\n\n![](${bannerImage})`}\n\n${description} ([#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) - [@${post.author.name}](https://github.com/${post.author.name}))`;
-      const authorInfoFooter = post.author.name ? `<br /><br /><a href="https://github.com/jaywcjlove/quick-rss/issues/${post.id}" target="_blank">#${post.id}</a> - <a href="https://github.com/${post.author.name}" target="_blank">${post.author.name}</a>` : "";
+      const footerHTML = `<br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/${post.id}" target="_blank">#${post.id}</a> • 
+      <a href="https://github.com/${post.author.name}" target="_blank">@${post.author.name}</a>
+      `;
       feed.addItem({
         title: rsstitle,
         id: post.id,
         link: rssurl,
         image: bannerImage,
-        content: post.content_html + authorInfoFooter,
+        content: post.content_html + footerHTML,
         description: description,
         date: new Date(post.date_published),
         author: [

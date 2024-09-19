@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Thu, 19 Sep 2024 10:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 13:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[free-for.dev 为开发人员提供的大量免费资源！ 主机、数据库、CDN、API、域名等]]></title>
+            <link>https://github.com/ripienaar/free-for-dev</link>
+            <guid>20</guid>
+            <pubDate>Thu, 19 Sep 2024 13:27:59 GMT</pubDate>
+            <description><![CDATA[这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。 本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务]]></description>
+            <content:encoded><![CDATA[<p>这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。</p>
+<p><img src="https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30" alt="image"></p>
+<p>本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务。由于这些边界有时可能模糊不清，列表内容是带有一定主观性的，若某些贡献未被采纳，请不必感到不满。</p>
+<p>这个列表是通过1600多位贡献者的 Pull Requests、审查和想法汇集而成的，任何人都可以通过提交 Pull Requests 来帮助更新列表中的内容，包括添加新的免费服务或移除那些已变更或停用的服务。</p>
+<p>通过此列表，开发者可以更轻松地发现适合其需求的免费工具和服务，从而提高开发效率并降低成本。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/20" target="_blank">#20</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30" length="0" type="image//user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30"/>
+        </item>
         <item>
             <title><![CDATA[PlayCover 支持在 Apple Silicon 设备上运行 iOS 应用和游戏]]></title>
             <link>https://github.com/PlayCover/PlayCover</link>

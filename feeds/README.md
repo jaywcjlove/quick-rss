@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [PlayCover 支持在 Apple Silicon 设备上运行 iOS 应用和游戏](https://github.com/PlayCover/PlayCover) 
+
+![](https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6)
+
+PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。 PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄 ([#19](https://github.com/jaywcjlove/quick-rss/issues/19) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [NPM Chart：一键将你的 npm 下载量转换为精美的可分享图表](https://github.com/atinux/npm-chart) 
 
 ![](https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd)

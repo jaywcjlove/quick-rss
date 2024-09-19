@@ -48,7 +48,7 @@ Quick RSS is ideal for anyone looking to efficiently access the latest news, esp
 
 Download Quick RSS today and bring a brand new RSS reading experience to your macOS. Whether tracking personal interests or staying on top of industry news, Quick RSS will become your go-to tool for managing subscriptions.
 
-## RSS Feed
+# RSS Feed
 
 We have curated some high-quality RSS feeds and encourage you to share your favorite subscriptions. Additionally, we have created a [Quick RSS Feed](./feeds/) to collect and share tech-related content! If you have articles, software, or resources to recommend, feel free to contribute via [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose). Your submissions will be automatically added to our RSS feed, enriching the content for the community.
 
@@ -145,7 +145,7 @@ ip查询，国内国外的精度都很好，无广告，无查询限制，纯为
 Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。 👉 https://github.com/jaywcjlove/quick-rss ([#4](https://github.com/jaywcjlove/quick-rss/issues/4) - [@jaywcjlove](https://github.com/jaywcjlove))
 <!--RSS_LIST_END-->
 
-## Other RSS Feed
+# Other RSS Feed
 
 - MacStories https://www.macstories.net/feed
 - Fatbobman's Swift Weekly https://weekly.fatbobman.com/feed

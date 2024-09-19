@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [free-for.dev 为开发人员提供的大量免费资源！ 主机、数据库、CDN、API、域名等](https://github.com/ripienaar/free-for-dev) 
+
+![](https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30)
+
+这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。 本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务 ([#20](https://github.com/jaywcjlove/quick-rss/issues/20) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [PlayCover 支持在 Apple Silicon 设备上运行 iOS 应用和游戏](https://github.com/PlayCover/PlayCover) 
 
 ![](https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6)

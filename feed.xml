@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-19T13:28:34.968Z</updated>
+    <updated>2024-09-20T12:01:07.456Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,39 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Certimate: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期]]></title>
+        <id>21</id>
+        <link href="https://github.com/usual2970/certimate"/>
+        <updated>2024-09-20T12:00:30.000Z</updated>
+        <summary type="html"><![CDATA[🔒 Certimate 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题： 😱 操作麻烦：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。 😭 易于遗忘：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。 Certimate 旨在解决这些痛点，具有以下特点： ]]></summary>
+        <content type="html"><![CDATA[<p>🔒 <strong>Certimate</strong> 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题：</p>
+<p><img src="https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22" alt=""></p>
+<p>😱 <strong>操作麻烦</strong>：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。
+😭 <strong>易于遗忘</strong>：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。</p>
+<p><img src="https://github.com/user-attachments/assets/87b11403-e38a-4431-811e-a891acf7b77d" alt=""></p>
+<p><strong>Certimate</strong> 旨在解决这些痛点，具有以下特点：</p>
+<ul>
+<li><strong>操作简单</strong>：全自动申请、部署和续期 SSL 证书，无需人工干预，极大减轻了维护负担。</li>
+<li><strong>支持私有部署</strong>：只需下载二进制文件即可运行，支持 Docker 镜像，整个过程透明可审计，确保用户对每一步都有掌控。</li>
+<li><strong>数据安全</strong>：所有数据均存储在本地，不会保存在服务商的服务器，确保数据安全性。</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/5c5e5378-056e-4156-8c85-f5d16bb299e4" alt=""></p>
+<p>选择 <strong>Certimate</strong>，让域名证书管理变得简单、安全、高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/21" target="_blank">#21</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[free-for.dev 为开发人员提供的大量免费资源！ 主机、数据库、CDN、API、域名等]]></title>
         <id>20</id>

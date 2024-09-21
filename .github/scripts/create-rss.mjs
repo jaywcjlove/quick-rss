@@ -185,7 +185,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       const rsstitle = post.title.replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '')
       const description = getSummary(post.content_html)
       const bannerImage = getFirstImageFromHtml(post.content_html);
-      mdListContent += `\n### [${rsstitle}](${rssurl}) ${bannerImage == null ? "" : `\n\n![](${bannerImage})`}\n\n${description} ([#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) - [@${post.author.name}](https://github.com/${post.author.name}))`;
+      mdListContent += `\n## [${rsstitle}](${rssurl}) ${bannerImage == null ? "" : `\n\n![](${bannerImage})`}\n\n${description} ([#${post.id}](https://github.com/jaywcjlove/quick-rss/issues/${post.id}) - [@${post.author.name}](https://github.com/${post.author.name}))`;
       const footerHTML = `<br /><br />
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 

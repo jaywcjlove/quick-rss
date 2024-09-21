@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "22",
+            "content_html": "<p>Maccy 是一款轻量级的 macOS 剪贴板管理工具，设计简洁，功能专注。它的使命非常明确：为你保存复制历史，让你随时快速访问，极简而高效。</p>\n<p><img src=\"https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8\" alt=\"\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/afa54290-515f-4023-aab4-3c147ca3ee3d?rehype=video\"></video>\n<p><strong>简单纯粹，无多余功能</strong>\r\n与许多复杂的剪贴板管理器不同，Maccy 只做一件事：保存你复制的内容并提供快速访问。没有繁杂的额外功能，使用过程不会让你感到负担。</p>\n<p><strong>轻量快速，始终高效</strong>\r\nMaccy 极其轻量，运行速度极快。你可以在一瞬间打开剪贴板历史并搜索你需要的内容，丝毫不影响工作流。它的设计理念就是让你专注于手头的任务，不被分心。</p>\n<p><strong>键盘优先操作，效率更高</strong>\r\nMaccy 允许你完全通过键盘操作。只需输入关键词，找到你想要的历史记录并按下 Enter，整个过程无需触碰鼠标，提升了工作效率。</p>\n<p><strong>注重隐私与安全</strong>\r\nMaccy 非常重视用户隐私。如果你使用密码管理器，它移除剪贴板中的敏感信息时，Maccy 也会同步清除。所有数据都仅保存在本地电脑上，确保信息安全无虞。</p>\n<p><strong>原生设计，简洁美观</strong>\r\nMaccy 使用 macOS 的原生 UI 设计，界面极简且符合用户的直觉。它的外观和使用体验与 macOS 系统融为一体，不会因复杂的设计打扰你的工作。</p>\n<p><strong>开源且永久免费</strong>\r\n作为一个开源项目，Maccy 使用 MIT 许可证，完全免费。你可以在 GitHub 上查看、修改它的源代码，根据自己的需求做出调整。它的开源性质确保了你对软件的完全掌控。</p>\n<h1>结语</h1>\n<p>如果你在寻找一款轻量、高效、且安全的剪贴板管理器，Maccy 是你不二的选择。它用简洁的设计和强大的功能，让你专注于工作，同时随时掌握你的剪贴板历史。</p>\n<p>Maccy 为追求效率和简约的 macOS 用户提供了理想的剪贴板管理解决方案，值得一试。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/22\" target=\"_blank\">#22</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://github.com/p0deje/Maccy",
+            "title": "Maccy：专注高效的 macOS 剪贴板管理器的开源应用",
+            "summary": "Maccy 是一款轻量级的 macOS 剪贴板管理工具，设计简洁，功能专注。它的使命非常明确：为你保存复制历史，让你随时快速访问，极简而高效。 简单纯粹，无多余功能 与许多复杂的剪贴板管理器不同，Maccy 只做一件事：保存你复制的内容并提供快速访问。没有繁杂的额外功能，使用过程不会让你感到负担。 轻量快速，始终高效 Maccy 极其轻量，运行速度极快。你可以在一瞬间打开剪贴板历史并搜索你需要的内",
+            "image": "https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8",
+            "date_modified": "2024-09-21T04:49:33.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "21",
             "content_html": "<p>🔒 <strong>Certimate</strong> 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题：</p>\n<p><img src=\"https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22\" alt=\"\"></p>\n<p>😱 <strong>操作麻烦</strong>：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。\r\n😭 <strong>易于遗忘</strong>：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。</p>\n<p><img src=\"https://github.com/user-attachments/assets/87b11403-e38a-4431-811e-a891acf7b77d\" alt=\"\"></p>\n<p><strong>Certimate</strong> 旨在解决这些痛点，具有以下特点：</p>\n<ul>\n<li><strong>操作简单</strong>：全自动申请、部署和续期 SSL 证书，无需人工干预，极大减轻了维护负担。</li>\n<li><strong>支持私有部署</strong>：只需下载二进制文件即可运行，支持 Docker 镜像，整个过程透明可审计，确保用户对每一步都有掌控。</li>\n<li><strong>数据安全</strong>：所有数据均存储在本地，不会保存在服务商的服务器，确保数据安全性。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/5c5e5378-056e-4156-8c85-f5d16bb299e4\" alt=\"\"></p>\n<p>选择 <strong>Certimate</strong>，让域名证书管理变得简单、安全、高效！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/21\" target=\"_blank\">#21</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://github.com/usual2970/certimate",

@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sat, 21 Sep 2024 10:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 12:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swift Regex：基于 Swift 的 Web 正则表达式测试应用]]></title>
+            <link>https://github.com/SwiftFiddle/swiftregex</link>
+            <guid>25</guid>
+            <pubDate>Sat, 21 Sep 2024 12:34:26 GMT</pubDate>
+            <description><![CDATA[Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。]]></description>
+            <content:encoded><![CDATA[<p>Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。</p>
+<p><img src="https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/0083d41b-51ea-4032-aea6-8d12956a925e" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/25" target="_blank">#25</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3" length="0" type="image//user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3"/>
+        </item>
         <item>
             <title><![CDATA[🍒 Cherry Studio：多平台支持的桌面 LLM 客户端]]></title>
             <link>https://github.com/kangfenmao/cherry-studio</link>

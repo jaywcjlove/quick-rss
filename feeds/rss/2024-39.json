@@ -1,5 +1,18 @@
 [
   {
+    "id": "25",
+    "url": "\n\nhttps://github.com/SwiftFiddle/swiftregex",
+    "title": "Swift Regex：基于 Swift 的 Web 正则表达式测试应用",
+    "content_html": "<p>Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。</p>\n<p><img src=\"https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/0083d41b-51ea-4032-aea6-8d12956a925e\" alt=\"image\"></p>",
+    "summary": "Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。",
+    "banner_image": "https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3",
+    "date_published": "2024-09-21T12:34:26Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    }
+  },
+  {
     "id": "24",
     "url": "\n\nhttps://github.com/kangfenmao/cherry-studio",
     "title": "🍒 Cherry Studio：多平台支持的桌面 LLM 客户端",

@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [Swift Regex：基于 Swift 的 Web 正则表达式测试应用](https://github.com/SwiftFiddle/swiftregex) 
+
+![](https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3)
+
+Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。 ([#25](https://github.com/jaywcjlove/quick-rss/issues/25) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [🍒 Cherry Studio：多平台支持的桌面 LLM 客户端](https://github.com/kangfenmao/cherry-studio) 
 
 ![](https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e)

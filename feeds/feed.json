@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "25",
+            "content_html": "<p>Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。</p>\n<p><img src=\"https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/0083d41b-51ea-4032-aea6-8d12956a925e\" alt=\"image\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/25\" target=\"_blank\">#25</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://github.com/SwiftFiddle/swiftregex",
+            "title": "Swift Regex：基于 Swift 的 Web 正则表达式测试应用",
+            "summary": "Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。",
+            "image": "https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3",
+            "date_modified": "2024-09-21T12:34:26.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "24",
             "content_html": "<p>Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e\" alt=\"image\"></p>\n<h3>🌟 主要功能</h3>\n<ul>\n<li><strong>支持多个 LLM 提供商</strong>：无论你使用的是哪家 LLM 服务，Cherry Studio 都能为你提供兼容支持。</li>\n<li><strong>创建多个助手</strong>：允许用户在客户端内创建多个智能助手，根据不同场景灵活应对。</li>\n<li><strong>创建多个主题</strong>：用户可以根据需要创建多个对话主题，便于分类管理和组织。</li>\n<li><strong>支持多个模型在同一对话中回答问题</strong>：在同一次对话中可以调用多个不同的模型进行回答，提升答案的多样性和准确性。</li>\n<li><strong>拖拽排序功能</strong>：支持拖拽式的排序操作，简化管理流程。</li>\n<li><strong>代码高亮</strong>：提供代码高亮功能，便于阅读和处理代码内容。</li>\n<li><strong>Mermaid 图表支持</strong>：内置 Mermaid 图表支持，用户可以在应用中方便地创建和展示流程图、序列图等。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/01e60ce0-015d-4e89-b748-c16b9b611096\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/a103911f-8ddb-4264-b5b9-903fff7865b1\" alt=\"image\"></p>\n<p><strong>Cherry Studio</strong> 是一款功能丰富且灵活的 LLM 客户端工具，无论你是开发者、学生，还是内容创作者，都可以利用它实现智能对话和数据分析的高效管理。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/24\" target=\"_blank\">#24</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://github.com/kangfenmao/cherry-studio",

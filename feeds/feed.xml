@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-21T10:12:02.144Z</updated>
+    <updated>2024-09-21T12:35:15.947Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Swift Regex：基于 Swift 的 Web 正则表达式测试应用]]></title>
+        <id>25</id>
+        <link href="https://github.com/SwiftFiddle/swiftregex"/>
+        <updated>2024-09-21T12:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。]]></summary>
+        <content type="html"><![CDATA[<p>Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。</p>
+<p><img src="https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/0083d41b-51ea-4032-aea6-8d12956a925e" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/25" target="_blank">#25</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🍒 Cherry Studio：多平台支持的桌面 LLM 客户端]]></title>
         <id>24</id>

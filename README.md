@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+### [Fellmonger: 支持多种大型语言模型（LLM）的原生客户端，是一个展示使用 Swift 6 开发的原生桌面应用的示例项目](https://github.com/fbarbat/fellmonger) 
+
+![](https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d)
+
+Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。 📚 Fellmonger 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS 和 W ([#23](https://github.com/jaywcjlove/quick-rss/issues/23) - [@jaywcjlove](https://github.com/jaywcjlove))
 ### [Maccy：专注高效的 macOS 剪贴板管理器的开源应用](https://github.com/p0deje/Maccy) 
 
 ![](https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8)

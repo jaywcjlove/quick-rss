@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-22T03:44:26.559Z</updated>
+    <updated>2024-09-22T03:47:18.663Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -33,7 +33,7 @@
 <h2>隐私安全保障</h2>
 <p>隐私安全始终是 PrettyClean 的核心理念之一。它公开所有扫描过程，您可以清晰地看到每个被扫描的文件。<strong>PrettyClean 承诺绝不会上传任何扫描信息</strong>，确保您的隐私得到严格保护。</p>
 <h2>开发者模式</h2>
-<p><img src="" alt="Uploading image.png…"></p>
+<p><img src="https://github.com/user-attachments/assets/acb33871-38b4-4561-aab8-ba808a581a7d" alt="image"></p>
 <p>作为一款独特的工具，PrettyClean 专门为开发者设计了开发者模式，支持扫描和清理主流开发工具产生的编译缓存文件。这使它成为目前市场上唯一支持开发者选项的磁盘清理工具，非常适合程序员和开发者使用。</p><br /><br />
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 

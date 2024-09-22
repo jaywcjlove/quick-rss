@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sun, 22 Sep 2024 03:47:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 07:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,37 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BLEUnlock: 让你的 Mac 更智能的锁定与解锁]]></title>
+            <link>https://github.com/ts1/BLEUnlock</link>
+            <guid>27</guid>
+            <pubDate>Sun, 22 Sep 2024 07:47:42 GMT</pubDate>
+            <description><![CDATA[在这个快节奏的时代，安全性与便利性并重。BLEUnlock 是一款小巧的菜单栏工具，利用蓝牙低功耗（BLE）技术，让你可以通过你的 iPhone、Apple Watch 或其他 BLE 设备轻松锁定和解锁你的 Mac。 无需额外的 iPhone 应用 BLEUnlock 直接在你的 Mac 上运行，无需安装额外的 iPhone 应用，简化了使用流程。 兼容多种 BLE 设备 这款工具支持任何定期发]]></description>
+            <content:encoded><![CDATA[<p>在这个快节奏的时代，安全性与便利性并重。BLEUnlock 是一款小巧的菜单栏工具，利用蓝牙低功耗（BLE）技术，让你可以通过你的 iPhone、Apple Watch 或其他 BLE 设备轻松锁定和解锁你的 Mac。</p>
+<p><img src="https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f" alt=""></p>
+<h3>无需额外的 iPhone 应用</h3>
+<p>BLEUnlock 直接在你的 Mac 上运行，无需安装额外的 iPhone 应用，简化了使用流程。</p>
+<h3>兼容多种 BLE 设备</h3>
+<p>这款工具支持任何定期发送信号的 BLE 设备，只要其静态 MAC 地址保持不变，便能实现锁定与解锁。</p>
+<h3>自动解锁</h3>
+<p>当你的 BLE 设备靠近 Mac 时，BLEUnlock 会自动为你解锁，无需输入密码，极大提升了使用便利性。</p>
+<h3>自动锁定</h3>
+<p>一旦 BLE 设备远离 Mac，系统会立即锁定，有效保护你的数据安全。</p>
+<h3>自定义脚本</h3>
+<p>用户可以选择在锁定或解锁时运行自定义脚本，满足不同场景下的个性化需求。</p>
+<h3>唤醒显示屏</h3>
+<p>在你的 Mac 进入显示屏睡眠模式时，BLEUnlock 可选择性唤醒设备，让你随时可以使用。</p>
+<h3>音乐/视频控制</h3>
+<p>当你离开或返回时，BLEUnlock 可以选择性地暂停和恢复音乐或视频播放，提升观影体验。</p>
+<h3>安全存储密码</h3>
+<p>密码会安全地存储在系统钥匙串中，确保你的信息得到充分保护。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/27" target="_blank">#27</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f" length="0" type="image//user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f"/>
+        </item>
         <item>
             <title><![CDATA[PrettyClean：macOS 最佳磁盘清理工具]]></title>
             <link>https://www.prettyclean.cc/zh</link>

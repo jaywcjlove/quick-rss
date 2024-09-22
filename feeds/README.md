@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BLEUnlock: 让你的 Mac 更智能的锁定与解锁](https://github.com/ts1/BLEUnlock) 
+
+![](https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f)
+
+在这个快节奏的时代，安全性与便利性并重。BLEUnlock 是一款小巧的菜单栏工具，利用蓝牙低功耗（BLE）技术，让你可以通过你的 iPhone、Apple Watch 或其他 BLE 设备轻松锁定和解锁你的 Mac。 无需额外的 iPhone 应用 BLEUnlock 直接在你的 Mac 上运行，无需安装额外的 iPhone 应用，简化了使用流程。 兼容多种 BLE 设备 这款工具支持任何定期发 ([#27](https://github.com/jaywcjlove/quick-rss/issues/27) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [PrettyClean：macOS 最佳磁盘清理工具](https://www.prettyclean.cc/zh) 
 
 ![](https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a)

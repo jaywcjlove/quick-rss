@@ -9,6 +9,10 @@
         <email>kennyiseeyou@gmail.com</email>
         <uri>https://wangchujiang.com/</uri>
     </author>
+    <follow_challenge>
+        <feedId>58559502025789440</feedId>
+        <userId>55121937990856704</userId>
+    </follow_challenge>
     <link rel="alternate" href="https://wangchujiang.com/quick-rss/"/>
     <link rel="self" href="https://wangchujiang.com/quick-rss/feed.xml"/>
     <subtitle>Thank you for contributing and sharing valuable tech content!</subtitle>

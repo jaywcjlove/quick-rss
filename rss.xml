@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sat, 21 Sep 2024 13:57:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 03:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,33 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PrettyClean：macOS 最佳磁盘清理工具]]></title>
+            <link>https://www.prettyclean.cc/zh</link>
+            <guid>26</guid>
+            <pubDate>Sun, 22 Sep 2024 03:43:50 GMT</pubDate>
+            <description><![CDATA[在 macOS 系统中，保持磁盘整洁和系统流畅至关重要。PrettyClean 正是为此而生，它是一款专为 macOS 设计的强大而小巧的磁盘清理工具。无论您的设备是 Intel 处理器的 Mac，还是最新的 Apple Silicon 设备，PrettyClean 都能帮助您优化系统性能。 多芯片支持 PrettyClean 完美支持 Intel 和 Apple Silicon 芯片，包括 M1]]></description>
+            <content:encoded><![CDATA[<p>在 macOS 系统中，保持磁盘整洁和系统流畅至关重要。<strong>PrettyClean</strong> 正是为此而生，它是一款专为 macOS 设计的强大而小巧的磁盘清理工具。无论您的设备是 Intel 处理器的 Mac，还是最新的 Apple Silicon 设备，PrettyClean 都能帮助您优化系统性能。</p>
+<p><img src="https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a" alt="image"></p>
+<h2>多芯片支持</h2>
+<p>PrettyClean 完美支持 <strong>Intel</strong> 和 <strong>Apple Silicon</strong> 芯片，包括 <strong>M1/M2</strong> 系列。通过充分利用您的硬件性能，PrettyClean 能够快速、彻底地扫描您的系统，确保以最快的速度释放宝贵的磁盘空间。</p>
+<h2>小巧而强大</h2>
+<p>虽然 PrettyClean 的安装包小于 <strong>6MB</strong>，但它功能强大、性能卓越。尽管体积轻便，它依然提供全面的功能和极高的效率，确保您的系统始终保持最佳状态。</p>
+<h2>多种扫描策略</h2>
+<p><img src="https://github.com/user-attachments/assets/ffdd31e1-ec7f-41e7-8202-2bc7d817e534" alt="image"></p>
+<p>PrettyClean 拥有多种专业的扫描策略，专门针对用户文件、系统缓存、应用生成的临时文件以及下载文件夹中的安装包等各类占用空间的文件进行深入扫描，帮助您尽可能多地释放磁盘空间。</p>
+<h2>隐私安全保障</h2>
+<p>隐私安全始终是 PrettyClean 的核心理念之一。它公开所有扫描过程，您可以清晰地看到每个被扫描的文件。<strong>PrettyClean 承诺绝不会上传任何扫描信息</strong>，确保您的隐私得到严格保护。</p>
+<h2>开发者模式</h2>
+<p><img src="" alt="Uploading image.png…"></p>
+<p>作为一款独特的工具，PrettyClean 专门为开发者设计了开发者模式，支持扫描和清理主流开发工具产生的编译缓存文件。这使它成为目前市场上唯一支持开发者选项的磁盘清理工具，非常适合程序员和开发者使用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/26" target="_blank">#26</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a" length="0" type="image//user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a"/>
+        </item>
         <item>
             <title><![CDATA[Swift Regex：基于 Swift 的 Web 正则表达式测试应用]]></title>
             <link>https://github.com/SwiftFiddle/swiftregex</link>

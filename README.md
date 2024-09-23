@@ -123,7 +123,7 @@ PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本�
 ![](https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e)
 
 Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次 Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本 ([#16](https://github.com/jaywcjlove/quick-rss/issues/16) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案](https://github.com/appwrite/appwrite) 
+## [Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案](https://wangchujiang.com/quick-rss/issue/15.html) 
 
 ![](https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3)
 

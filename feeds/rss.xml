@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -324,7 +324,7 @@
         </item>
         <item>
             <title><![CDATA[Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案]]></title>
-            <link>https://github.com/appwrite/appwrite</link>
+            <link>https://wangchujiang.com/quick-rss/issue/15.html</link>
             <guid>15</guid>
             <pubDate>Tue, 17 Sep 2024 17:37:41 GMT</pubDate>
             <description><![CDATA[Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。 Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，等多种服务。 Appwrite 使用高拓展性的微服]]></description>

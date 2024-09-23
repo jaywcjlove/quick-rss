@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:31:58.982Z</updated>
+    <updated>2024-09-23T11:32:44.950Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -297,7 +297,7 @@
     <entry>
         <title type="html"><![CDATA[free-for.dev 为开发人员提供的大量免费资源！ 主机、数据库、CDN、API、域名等]]></title>
         <id>20</id>
-        <link href="https://github.com/ripienaar/free-for-dev"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/20.html"/>
         <updated>2024-09-19T13:27:59.000Z</updated>
         <summary type="html"><![CDATA[这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。 本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务]]></summary>
         <content type="html"><![CDATA[<p>这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。</p>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:46:24.768Z</updated>
+    <updated>2024-09-23T11:47:16.227Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -518,7 +518,7 @@
     <entry>
         <title type="html"><![CDATA[Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写]]></title>
         <id>11</id>
-        <link href="https://github.com/harness/gitness"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/11.html"/>
         <updated>2024-09-17T09:24:58.000Z</updated>
         <summary type="html"><![CDATA[Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。 不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成]]></summary>
         <content type="html"><![CDATA[<p>Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。</p>

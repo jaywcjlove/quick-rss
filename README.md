@@ -133,7 +133,7 @@ Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微
 ![](https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa)
 
 这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。 ([#14](https://github.com/jaywcjlove/quick-rss/issues/14) - [@Innei](https://github.com/Innei))
-## [Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端](https://github.com/MochiDiffusion/MochiDiffusion) 
+## [Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端](https://wangchujiang.com/quick-rss/issue/13.html) 
 
 ![](https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb)
 

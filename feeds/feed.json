@@ -208,7 +208,7 @@
         {
             "id": "13",
             "content_html": "<p>本应用内置 <a href=\"https://github.com/apple/ml-stable-diffusion\">Apple 的 Core ML Stable Diffusion 框架</a> 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能</p>\n<p><img src=\"https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb\" alt=\"\"></p>\n<p>🌐 生成图像无需联网\r\n🖼️ 支持图像转图像 &#x26; ControlNet\r\n🗂️ EXIF 信息中存储关键词\r\n🔍 使用 RealESRGAN 放大图像\r\n💾 自动保存 &#x26; 恢复图像\r\n🛠️ 自定义 Stable Diffusion Core ML 模型\r\n🖥️ 使用 SwiftUI 开发</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/13\" target=\"_blank\">#13</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
-            "url": "https://github.com/MochiDiffusion/MochiDiffusion",
+            "url": "https://wangchujiang.com/quick-rss/issue/13.html",
             "title": "Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端",
             "summary": "本应用内置 Apple 的 Core ML Stable Diffusion 框架 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能 🌐 生成图像无需联网 🖼️ 支持图像转图像 &#x26; ControlNet 🗂️ EXIF 信息中存储关键词 🔍 使用 RealESRGAN 放大图像 💾 自动保存 &#x26; 恢复图像 🛠️ 自定义 Stable Dif",
             "image": "https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb",

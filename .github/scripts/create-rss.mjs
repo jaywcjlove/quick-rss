@@ -167,8 +167,9 @@ ${content}
       if (item.id === rssItem.id) {
         item.url = rssItem.url;
         item.title = rssItem.title;
-        item.content_html = rssItem.content_html;
         item.summary = rssItem.summary;
+        item.markdownContent = rssItem.markdownContent;
+        item.content_html = rssItem.content_html;
         item.banner_image = rssItem.banner_image;
         item.date_published = rssItem.date_published;
         item.author = rssItem.author;

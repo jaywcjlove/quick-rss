@@ -91,7 +91,7 @@ Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项
 ![](https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8)
 
 Maccy 是一款轻量级的 macOS 剪贴板管理工具，设计简洁，功能专注。它的使命非常明确：为你保存复制历史，让你随时快速访问，极简而高效。 简单纯粹，无多余功能 与许多复杂的剪贴板管理器不同，Maccy 只做一件事：保存你复制的内容并提供快速访问。没有繁杂的额外功能，使用过程不会让你感到负担。 轻量快速，始终高效 Maccy 极其轻量，运行速度极快。你可以在一瞬间打开剪贴板历史并搜索你需要的内 ([#22](https://github.com/jaywcjlove/quick-rss/issues/22) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [Certimate: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期](https://github.com/usual2970/certimate) 
+## [Certimate: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期](https://wangchujiang.com/quick-rss/issue/21.html) 
 
 ![](https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22)
 

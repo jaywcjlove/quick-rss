@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:30:51.566Z</updated>
+    <updated>2024-09-23T11:31:58.982Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -264,7 +264,7 @@
     <entry>
         <title type="html"><![CDATA[Certimate: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期]]></title>
         <id>21</id>
-        <link href="https://github.com/usual2970/certimate"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/21.html"/>
         <updated>2024-09-20T12:00:30.000Z</updated>
         <summary type="html"><![CDATA[🔒 Certimate 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题： 😱 操作麻烦：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。 😭 易于遗忘：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。 Certimate 旨在解决这些痛点，具有以下特点： ]]></summary>
         <content type="html"><![CDATA[<p>🔒 <strong>Certimate</strong> 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题：</p>

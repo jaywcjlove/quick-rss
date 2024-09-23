@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -258,7 +258,7 @@
         </item>
         <item>
             <title><![CDATA[PlayCover 支持在 Apple Silicon 设备上运行 iOS 应用和游戏]]></title>
-            <link>https://github.com/PlayCover/PlayCover</link>
+            <link>https://wangchujiang.com/quick-rss/issue/19.html</link>
             <guid>19</guid>
             <pubDate>Thu, 19 Sep 2024 10:15:38 GMT</pubDate>
             <description><![CDATA[PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。 PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄]]></description>

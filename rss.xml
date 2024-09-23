@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sun, 22 Sep 2024 07:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 03:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,43 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BBackupp：完美的 iOS 备份解决方案]]></title>
+            <link>https://github.com/Lakr233/BBackupp</link>
+            <guid>28</guid>
+            <pubDate>Mon, 23 Sep 2024 03:27:22 GMT</pubDate>
+            <description><![CDATA[在今天的数据时代，确保移动设备数据的安全与完整至关重要。BBackupp 是一款全新的 iOS 备份软件，提供了丰富的功能，让备份过程变得简单、高效，并且具备高度的灵活性。不论是想要手动备份，还是自动化备份，BBackupp 都能够为用户提供最合适的解决方案。 轻松备份 iOS 设备 使用 BBackupp，用户可以轻松实现对 iOS 设备的完整备份。操作简单，无需繁琐的设置，让用户能够快速上手，]]></description>
+            <content:encoded><![CDATA[<p>在今天的数据时代，确保移动设备数据的安全与完整至关重要。<strong>BBackupp</strong> 是一款全新的 iOS 备份软件，提供了丰富的功能，让备份过程变得简单、高效，并且具备高度的灵活性。不论是想要手动备份，还是自动化备份，BBackupp 都能够为用户提供最合适的解决方案。</p>
+<p><img src="https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa" alt=""></p>
+<h3>轻松备份 iOS 设备</h3>
+<p>使用 BBackupp，用户可以轻松实现对 iOS 设备的完整备份。操作简单，无需繁琐的设置，让用户能够快速上手，立即保护宝贵的数据。</p>
+<h3>实时文件进度监控</h3>
+<p>在备份过程中，BBackupp 提供了详细的文件进度监控，用户可以清楚地看到每个文件的备份状态，确保一切顺利进行。</p>
+<h3>本地存储单次备份</h3>
+<p>对于只需要一次性备份的用户，BBackupp 允许将备份文件存储到本地，方便之后的管理与访问。</p>
+<h3>无线备份支持</h3>
+<p>BBackupp 支持通过 IP 地址进行无线备份，让备份过程更加灵活、便捷。无论你身处家中还是办公室，都可以通过网络将设备备份到目标存储位置。</p>
+<h3>自动化与定时备份</h3>
+<p>通过设置备份计划，用户可以自动化定期备份，完全告别手动备份的烦恼。BBackupp 会按设定好的时间自动执行备份任务，确保数据随时最新。</p>
+<h3>端到端加密确保安全</h3>
+<p>在数据安全性方面，BBackupp 提供了端到端加密，确保备份文件在存储和传输过程中免受外部威胁。</p>
+<h3>兼容多种存储方式</h3>
+<p>BBackupp 不仅支持本地存储，还兼容 SFTP、S3 等多种存储方式，满足不同用户的备份需求。</p>
+<h3>快照技术</h3>
+<p>BBackupp 采用了快照技术进行备份，使得用户能够快速创建多个备份点，轻松管理多个时间点的数据状态。</p>
+<h3>应用安装包自动下载</h3>
+<p>为了进一步提升使用体验，BBackupp 自动从 App Store 下载并保存应用安装包，帮助用户在需要时快速恢复设备中的应用。</p>
+<h3>备份过程通知</h3>
+<p>备份过程中，BBackupp 还会通过通知系统向用户更新进展。无论是备份完成还是出现问题，用户都会第一时间知晓，完全掌控整个过程。</p>
+<h3>健康检查</h3>
+<p>BBackupp 提供了一个简单的活跃状态检查功能，通过发送 GET 请求，用户可以快速确认备份服务器是否正常运行。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/28" target="_blank">#28</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa" length="0" type="image//user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa"/>
+        </item>
         <item>
             <title><![CDATA[BLEUnlock: 让你的 Mac 更智能的锁定与解锁]]></title>
             <link>https://github.com/ts1/BLEUnlock</link>

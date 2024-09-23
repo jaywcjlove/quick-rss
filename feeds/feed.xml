@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:49:30.736Z</updated>
+    <updated>2024-09-23T11:49:58.737Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -691,7 +691,7 @@
     <entry>
         <title type="html"><![CDATA[Dub: 开源的短链接服务]]></title>
         <id>6</id>
-        <link href="https://github.com/steven-tey/dub"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/6.html"/>
         <updated>2024-09-15T10:59:44.000Z</updated>
         <summary type="html"><![CDATA[一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接]]></summary>
         <content type="html"><![CDATA[<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>

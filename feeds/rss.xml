@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -536,7 +536,7 @@
         </item>
         <item>
             <title><![CDATA[Dub: 开源的短链接服务]]></title>
-            <link>https://github.com/steven-tey/dub</link>
+            <link>https://wangchujiang.com/quick-rss/issue/6.html</link>
             <guid>6</guid>
             <pubDate>Sun, 15 Sep 2024 10:59:44 GMT</pubDate>
             <description><![CDATA[一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接]]></description>

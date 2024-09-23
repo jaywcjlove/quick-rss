@@ -299,7 +299,7 @@
         {
             "id": "6",
             "content_html": "<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>\n<p><img src=\"https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png\" alt=\"\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/6\" target=\"_blank\">#6</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
-            "url": "https://github.com/steven-tey/dub",
+            "url": "https://wangchujiang.com/quick-rss/issue/6.html",
             "title": "Dub: 开源的短链接服务",
             "summary": "一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接",
             "image": "https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png",

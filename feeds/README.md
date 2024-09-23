@@ -121,7 +121,7 @@ Gitness 是一个强大的开源开发平台，集成了代码托管和自动化
 ![](https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc)
 
 ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。 支持命令行显示 支持嵌入图片显示 IP，下面是嵌入图片示例 另外还有一些为爱发电的，IP 查询工具： https://ip.sy/ ([#7](https://github.com/jaywcjlove/quick-rss/issues/7) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [Dub: 开源的短链接服务](https://github.com/steven-tey/dub) 
+## [Dub: 开源的短链接服务](https://wangchujiang.com/quick-rss/issue/6.html) 
 
 ![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)
 

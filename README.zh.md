@@ -176,7 +176,7 @@ ip查询，国内国外的精度都很好，无广告，无查询限制，纯为
 ![](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)
 
 一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。 功能介绍 实时协作编辑器：与他人实时协作编辑页面。 绘图功能：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。 工作空间：按团队、项目或部门组织页面，以便更好地协作。 权限管理：通过简单易懂的权限设置轻松控制内容访问。 群组功能：通过群组轻松为用户授予统一权限。 评论功能 ([#5](https://github.com/jaywcjlove/quick-rss/issues/5) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器](https://github.com/jaywcjlove/quick-rss) 
+## [Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器](https://wangchujiang.com/quick-rss/issue/4.html) 
 
 ![](https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668)
 

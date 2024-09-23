@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -582,7 +582,7 @@
         </item>
         <item>
             <title><![CDATA[Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器]]></title>
-            <link>https://github.com/jaywcjlove/quick-rss</link>
+            <link>https://wangchujiang.com/quick-rss/issue/4.html</link>
             <guid>4</guid>
             <pubDate>Sat, 14 Sep 2024 19:35:32 GMT</pubDate>
             <description><![CDATA[Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。 👉 https://github.com/jaywcjlove/quick-rss]]></description>

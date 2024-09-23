@@ -126,7 +126,7 @@ ip查询，国内国外的精度都很好，无广告，无查询限制，纯为
 ![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)
 
 一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接 ([#6](https://github.com/jaywcjlove/quick-rss/issues/6) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [Docmost: 是一个开源的协作文档和 Wiki 应用](https://github.com/docmost/docmost) 
+## [Docmost: 是一个开源的协作文档和 Wiki 应用](https://wangchujiang.com/quick-rss/issue/5.html) 
 
 ![](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)
 

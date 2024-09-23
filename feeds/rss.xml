@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:50:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -551,7 +551,7 @@
         </item>
         <item>
             <title><![CDATA[Docmost: 是一个开源的协作文档和 Wiki 应用]]></title>
-            <link>https://github.com/docmost/docmost</link>
+            <link>https://wangchujiang.com/quick-rss/issue/5.html</link>
             <guid>5</guid>
             <pubDate>Sun, 15 Sep 2024 08:05:12 GMT</pubDate>
             <description><![CDATA[一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。 功能介绍 实时协作编辑器：与他人实时协作编辑页面。 绘图功能：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。 工作空间：按团队、项目或部门组织页面，以便更好地协作。 权限管理：通过简单易懂的权限设置轻松控制内容访问。 群组功能：通过群组轻松为用户授予统一权限。 评论功能]]></description>

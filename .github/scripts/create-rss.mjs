@@ -102,7 +102,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
 
     const data = issueBody.split(/##+\s+[📋🔗]+\s.+/ig).map((txt) => txt.replace(/[\n\r\s]+$/g, '')).filter(Boolean);
     info(`Issue Body: ${JSON.stringify(data)}`);
-    const content = (data[0] ?? "");
+    const content = (data[0] ?? "").replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '');
     const detailLink = (data[1] ?? "").replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '');
     const mdContent = `${issueTitle}
 ===

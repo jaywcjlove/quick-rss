@@ -56,6 +56,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BestOfJS: 比项目较过去12个月在 GitHub 上增加的星标数](https://wangchujiang.com/quick-rss/issue/29.html) 
+
+![](https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153)
+
+探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！ 热门项目 按过去 24 小时内新增的星标数量排名 最新添加的项目 Best of JS 中最新添加的项目 2024 年 8 月排名 按上个月新增的星标数量排名 ([#29](https://github.com/jaywcjlove/quick-rss/issues/29) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BBackupp：完美的 iOS 备份解决方案](https://wangchujiang.com/quick-rss/issue/28.html) 
 
 ![](https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa)

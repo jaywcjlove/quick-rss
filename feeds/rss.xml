@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 12:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BestOfJS: 比项目较过去12个月在 GitHub 上增加的星标数]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/29.html</link>
+            <guid>29</guid>
+            <pubDate>Mon, 23 Sep 2024 12:28:24 GMT</pubDate>
+            <description><![CDATA[探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！ 热门项目 按过去 24 小时内新增的星标数量排名 最新添加的项目 Best of JS 中最新添加的项目 2024 年 8 月排名 按上个月新增的星标数量排名]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153" alt="image"></p>
+<p>探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！</p>
+<h2>热门项目</h2>
+<p><img src="https://github.com/user-attachments/assets/7010ac1a-fa58-4d6a-ae10-bc7612c787d7" alt="image"></p>
+<p>按过去 24 小时内新增的星标数量排名</p>
+<h2>最新添加的项目</h2>
+<p><img src="https://github.com/user-attachments/assets/a475e95b-ecfe-4382-afb5-4682ac28669b" alt="image"></p>
+<p>Best of JS 中最新添加的项目</p>
+<h2>2024 年 8 月排名</h2>
+<p><img src="https://github.com/user-attachments/assets/ec121adf-e510-45d2-8e67-6ac35ee43fdf" alt="image"></p>
+<p>按上个月新增的星标数量排名</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/29" target="_blank">#29</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153" length="0" type="image//user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153"/>
+        </item>
         <item>
             <title><![CDATA[BBackupp：完美的 iOS 备份解决方案]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/28.html</link>

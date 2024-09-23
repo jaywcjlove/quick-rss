@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:51:19.633Z</updated>
+    <updated>2024-09-23T12:29:49.447Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,37 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[BestOfJS: 比项目较过去12个月在 GitHub 上增加的星标数]]></title>
+        <id>29</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/29.html"/>
+        <updated>2024-09-23T12:28:24.000Z</updated>
+        <summary type="html"><![CDATA[探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！ 热门项目 按过去 24 小时内新增的星标数量排名 最新添加的项目 Best of JS 中最新添加的项目 2024 年 8 月排名 按上个月新增的星标数量排名]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153" alt="image"></p>
+<p>探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！</p>
+<h2>热门项目</h2>
+<p><img src="https://github.com/user-attachments/assets/7010ac1a-fa58-4d6a-ae10-bc7612c787d7" alt="image"></p>
+<p>按过去 24 小时内新增的星标数量排名</p>
+<h2>最新添加的项目</h2>
+<p><img src="https://github.com/user-attachments/assets/a475e95b-ecfe-4382-afb5-4682ac28669b" alt="image"></p>
+<p>Best of JS 中最新添加的项目</p>
+<h2>2024 年 8 月排名</h2>
+<p><img src="https://github.com/user-attachments/assets/ec121adf-e510-45d2-8e67-6ac35ee43fdf" alt="image"></p>
+<p>按上个月新增的星标数量排名</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/29" target="_blank">#29</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BBackupp：完美的 iOS 备份解决方案]]></title>
         <id>28</id>

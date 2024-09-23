@@ -109,6 +109,8 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
 
 ${content}
 
+👉 ${detailLink}
+
 ---
 
 <p align="center">

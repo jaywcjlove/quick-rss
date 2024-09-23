@@ -124,6 +124,7 @@ ${content}
 
     fs.writeFileSync(`./docs/issue/${issueId}.md`, mdContent);
 
+    rssItem.markdownContent = content
     rssItem.summary = getSummary(content);
     rssItem.content_html = markdown(content, {
       rehypePlugins: [[ rehypeVideo, { details: false, test: (url) => /\.(mp4|mov)|[?&]rehype=video/i.test(url) } ]],

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:27:11.515Z</updated>
+    <updated>2024-09-23T11:28:18.878Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -157,7 +157,7 @@
     <entry>
         <title type="html"><![CDATA[🍒 Cherry Studio：多平台支持的桌面 LLM 客户端]]></title>
         <id>24</id>
-        <link href="https://github.com/kangfenmao/cherry-studio"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/24.html"/>
         <updated>2024-09-21T10:11:21.000Z</updated>
         <summary type="html"><![CDATA[Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。 🌟 主要功能 支持多个 LLM 提供商：无论你使用的是哪家 LLM 服务，Cherry Studio 都能为你提供兼容支持。 创建多个助手：允许用户在客户端内创建多个智能助手，根据不同场景灵活应对。 创建多个主题：用户可以根据需要]]></summary>
         <content type="html"><![CDATA[<p>Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。</p>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:33:54.899Z</updated>
+    <updated>2024-09-23T11:35:22.056Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -347,7 +347,7 @@
     <entry>
         <title type="html"><![CDATA[NPM Chart：一键将你的 npm 下载量转换为精美的可分享图表]]></title>
         <id>18</id>
-        <link href="https://github.com/atinux/npm-chart"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/18.html"/>
         <updated>2024-09-18T18:42:53.000Z</updated>
         <summary type="html"><![CDATA[一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。 可以完美展示你项目的成长和社区影响力！]]></summary>
         <content type="html"><![CDATA[<p>一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。</p>

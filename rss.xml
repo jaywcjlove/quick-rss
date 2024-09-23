@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -276,7 +276,7 @@
         </item>
         <item>
             <title><![CDATA[NPM Chart：一键将你的 npm 下载量转换为精美的可分享图表]]></title>
-            <link>https://github.com/atinux/npm-chart</link>
+            <link>https://wangchujiang.com/quick-rss/issue/18.html</link>
             <guid>18</guid>
             <pubDate>Wed, 18 Sep 2024 18:42:53 GMT</pubDate>
             <description><![CDATA[一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。 可以完美展示你项目的成长和社区影响力！]]></description>

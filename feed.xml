@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:48:26.467Z</updated>
+    <updated>2024-09-23T11:48:57.044Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -596,7 +596,7 @@
     <entry>
         <title type="html"><![CDATA[rathole：安全、稳定、高性能的内网穿透工具，用 Rust 语言编写]]></title>
         <id>8</id>
-        <link href="https://github.com/rapiz1/rathole"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/8.html"/>
         <updated>2024-09-16T16:32:58.000Z</updated>
         <summary type="html"><![CDATA[安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 rathole，类似于 frp 和 ngrok，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。 同类型的内网穿透工具 名称StarfrpinletsngrokpgrokeasyProxynatapp-npschisel]]></summary>
         <content type="html"><![CDATA[<p>安全、稳定、高性能的内网穿透工具，用 Rust 语言编写</p>

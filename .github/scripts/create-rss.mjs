@@ -78,6 +78,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
   // 从 issueBody  Markdown 中获取图片
   const bannerImage = getFirstImageFromMarkdown(issueBody);
   try {
+    await fs.ensureDir('./docs/issue');
     await fs.ensureDir('./feeds/rss');
     if (fs.existsSync(rssFilePath)) {
       rss = await fs.readJSON(rssFilePath);
@@ -98,10 +99,34 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
         link: issueAvatar,
       },
     }
+
+    const mdFooterHTML = `
+    <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+    <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+    <a href="https://github.com/jaywcjlove/quick-rss/issues/${issueId}" target="_blank">#${issueId}</a> • 
+    <a href="https://github.com/${issueAuthor}" target="_blank">@${issueAuthor}</a>
+    `;
     
     const data = issueBody.split(/##+\s+[📋🔗]+\s.+/ig).map((txt) => txt.replace(/[\n\r\s]+$/g, '')).filter(Boolean);
     info(`Issue Body: ${JSON.stringify(data)}`);
     const content = (data[0] ?? "");
+    const detailLink = (data[1] ?? "");
+    const mdContent = `${issueTitle}
+===
+
+${post.content}
+
+---
+
+<a href="${detailLink}" target="_blank">🔗 链接</a> • 
+<a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+<a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+<a href="https://github.com/jaywcjlove/quick-rss/issues/${issueId}" target="_blank">#${issueId}</a> • 
+<a href="https://github.com/${issueAuthor}" target="_blank">@${issueAuthor}</a>
+    `;
+
+    fs.writeFileSync(`./docs/issue/${issueId}.md`, mdContent);
+
     rssItem.summary = getSummary(content);
     rssItem.content_html = markdown(content, {
       rehypePlugins: [[ rehypeVideo, { details: false, test: (url) => /\.(mp4|mov)|[?&]rehype=video/i.test(url) } ]],
@@ -118,7 +143,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       }
     });
     info(`Issue Body Content HTML: ${rssItem.content_html}`);
-    rssItem.url = data[1];
+    rssItem.url = detailLink;
     // 输出 rssItem 日志
     info(`RSS Item: ${JSON.stringify(rssItem)}`);
 

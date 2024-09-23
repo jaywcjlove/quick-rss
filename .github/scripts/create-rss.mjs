@@ -116,6 +116,8 @@ ${content}
 <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
 <a href="https://github.com/jaywcjlove/quick-rss/issues/${issueId}" target="_blank">#${issueId}</a> • 
 <a href="https://github.com/${issueAuthor}" target="_blank">@${issueAuthor}</a>
+
+---
     `;
 
     fs.writeFileSync(`./docs/issue/${issueId}.md`, mdContent);
@@ -136,7 +138,7 @@ ${content}
       }
     });
     info(`Issue Body Content HTML: ${rssItem.content_html}`);
-    rssItem.url = detailLink;
+    rssItem.url = `https://wangchujiang.com/quick-rss/issue/${issueId}.html`;
     // 输出 rssItem 日志
     info(`RSS Item: ${JSON.stringify(rssItem)}`);
 

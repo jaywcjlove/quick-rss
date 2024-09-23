@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -343,7 +343,7 @@
         </item>
         <item>
             <title><![CDATA[静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术]]></title>
-            <link>https://innei.in/feed</link>
+            <link>https://wangchujiang.com/quick-rss/issue/14.html</link>
             <guid>14</guid>
             <pubDate>Tue, 17 Sep 2024 16:27:51 GMT</pubDate>
             <description><![CDATA[这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。]]></description>

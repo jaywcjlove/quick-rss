@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:42:26.773Z</updated>
+    <updated>2024-09-23T11:42:44.950Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -442,7 +442,7 @@
     <entry>
         <title type="html"><![CDATA[静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术]]></title>
         <id>14</id>
-        <link href="https://innei.in/feed"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/14.html"/>
         <updated>2024-09-17T16:27:51.000Z</updated>
         <summary type="html"><![CDATA[这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。]]></summary>
         <content type="html"><![CDATA[<p>这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。</p>

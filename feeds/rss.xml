@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -112,7 +112,7 @@
         </item>
         <item>
             <title><![CDATA[Swift Regex：基于 Swift 的 Web 正则表达式测试应用]]></title>
-            <link>https://github.com/SwiftFiddle/swiftregex</link>
+            <link>https://wangchujiang.com/quick-rss/issue/25.html</link>
             <guid>25</guid>
             <pubDate>Sat, 21 Sep 2024 12:34:26 GMT</pubDate>
             <description><![CDATA[Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。]]></description>

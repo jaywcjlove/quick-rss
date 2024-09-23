@@ -71,7 +71,7 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a)
 
 在 macOS 系统中，保持磁盘整洁和系统流畅至关重要。PrettyClean 正是为此而生，它是一款专为 macOS 设计的强大而小巧的磁盘清理工具。无论您的设备是 Intel 处理器的 Mac，还是最新的 Apple Silicon 设备，PrettyClean 都能帮助您优化系统性能。 多芯片支持 PrettyClean 完美支持 Intel 和 Apple Silicon 芯片，包括 M1 ([#26](https://github.com/jaywcjlove/quick-rss/issues/26) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [Swift Regex：基于 Swift 的 Web 正则表达式测试应用](https://github.com/SwiftFiddle/swiftregex) 
+## [Swift Regex：基于 Swift 的 Web 正则表达式测试应用](https://wangchujiang.com/quick-rss/issue/25.html) 
 
 ![](https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3)
 

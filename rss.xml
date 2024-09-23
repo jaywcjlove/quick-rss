@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -381,7 +381,7 @@
         </item>
         <item>
             <title><![CDATA[App Rejection Fixes: 搜集 Apple 应用上架被拒绝的解决方案]]></title>
-            <link>https://github.com/jaywcjlove/app-rejection-fixes</link>
+            <link>https://wangchujiang.com/quick-rss/issue/12.html</link>
             <guid>12</guid>
             <pubDate>Tue, 17 Sep 2024 09:34:00 GMT</pubDate>
             <description><![CDATA[此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。]]></description>

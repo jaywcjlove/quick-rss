@@ -156,7 +156,7 @@
         {
             "id": "17",
             "content_html": "<p><img src=\"https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568\" alt=\"\"></p>\n<p>深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/17\" target=\"_blank\">#17</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
-            "url": "https://artificialanalysis.ai/models/gpt-4o-mini",
+            "url": "https://wangchujiang.com/quick-rss/issue/17.html",
             "title": "Artificial Analysis：大模型能力、价格、速度对比的工具",
             "summary": "深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情",
             "image": "https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568",

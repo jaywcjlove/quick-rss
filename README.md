@@ -113,7 +113,7 @@ PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本�
 ![](https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd)
 
 一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。 可以完美展示你项目的成长和社区影响力！ ([#18](https://github.com/jaywcjlove/quick-rss/issues/18) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [Artificial Analysis：大模型能力、价格、速度对比的工具](https://artificialanalysis.ai/models/gpt-4o-mini) 
+## [Artificial Analysis：大模型能力、价格、速度对比的工具](https://wangchujiang.com/quick-rss/issue/17.html) 
 
 ![](https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568)
 

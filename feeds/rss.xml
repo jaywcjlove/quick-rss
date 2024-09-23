@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -240,7 +240,7 @@
         </item>
         <item>
             <title><![CDATA[free-for.dev 为开发人员提供的大量免费资源！ 主机、数据库、CDN、API、域名等]]></title>
-            <link>https://github.com/ripienaar/free-for-dev</link>
+            <link>https://wangchujiang.com/quick-rss/issue/20.html</link>
             <guid>20</guid>
             <pubDate>Thu, 19 Sep 2024 13:27:59 GMT</pubDate>
             <description><![CDATA[这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。 本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务]]></description>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:36:26.586Z</updated>
+    <updated>2024-09-23T11:41:49.522Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -393,7 +393,7 @@
     <entry>
         <title type="html"><![CDATA[XcodeLLMEligible - Xcode 使用 AI 代码补全]]></title>
         <id>16</id>
-        <link href="https://github.com/Kyle-Ye/XcodeLLMEligible"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/16.html"/>
         <updated>2024-09-18T12:34:48.000Z</updated>
         <summary type="html"><![CDATA[Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次 Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本]]></summary>
         <content type="html"><![CDATA[<p>Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次</p>

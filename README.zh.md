@@ -116,7 +116,7 @@ PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本�
 ![](https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568)
 
 深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情 ([#17](https://github.com/jaywcjlove/quick-rss/issues/17) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [XcodeLLMEligible - Xcode 使用 AI 代码补全](https://github.com/Kyle-Ye/XcodeLLMEligible) 
+## [XcodeLLMEligible - Xcode 使用 AI 代码补全](https://wangchujiang.com/quick-rss/issue/16.html) 
 
 ![](https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e)
 

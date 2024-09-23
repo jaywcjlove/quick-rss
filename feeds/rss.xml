@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -54,7 +54,7 @@
         </item>
         <item>
             <title><![CDATA[BLEUnlock: 让你的 Mac 更智能的锁定与解锁]]></title>
-            <link>https://github.com/ts1/BLEUnlock</link>
+            <link>https://wangchujiang.com/quick-rss/issue/27.html</link>
             <guid>27</guid>
             <pubDate>Sun, 22 Sep 2024 07:47:42 GMT</pubDate>
             <description><![CDATA[在这个快节奏的时代，安全性与便利性并重。BLEUnlock 是一款小巧的菜单栏工具，利用蓝牙低功耗（BLE）技术，让你可以通过你的 iPhone、Apple Watch 或其他 BLE 设备轻松锁定和解锁你的 Mac。 无需额外的 iPhone 应用 BLEUnlock 直接在你的 Mac 上运行，无需安装额外的 iPhone 应用，简化了使用流程。 兼容多种 BLE 设备 这款工具支持任何定期发]]></description>

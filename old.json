@@ -294,19 +294,17 @@
   },
   {
     "id": "6",
-    "url": "\n\nhttps://github.com/steven-tey/dub",
+    "url": "https://wangchujiang.com/quick-rss/issue/6.html",
     "title": "Dub: 开源的短链接服务",
     "content_html": "<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>\n<p><img src=\"https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png\" alt=\"\"></p>",
-    "summary": "\n\n一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接\r\n\r\n![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)",
-    "banner_image": [
-      "![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)",
-      "https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png"
-    ],
+    "summary": "一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接",
+    "banner_image": "https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png",
     "date_published": "2024-09-15T10:59:44Z",
     "author": {
       "name": "jaywcjlove",
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
-    }
+    },
+    "markdownContent": "一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接\r\n\r\n![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)"
   },
   {
     "id": "5",

@@ -155,7 +155,7 @@
   },
   {
     "id": "10",
-    "url": "\n\nhttps://github.com/2016rshah/githubchart-api",
+    "url": "https://wangchujiang.com/quick-rss/issue/10.html",
     "title": "Ghchart：Github贡献图表作为图像，嵌入你的博客",
     "content_html": "<p>📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客</p>\n<p><img src=\"https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036\" alt=\"image\"></p>\n<p>你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方：</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">&#x3C;img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\n</span></code></pre>\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah&#x27;s Github chart\">\n<p>回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！</p>\n<p><strong>颜色方案</strong></p>\n<p>我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 <code>https://ghchart.rshah.org/&#x3C;HEX-COLOR>/2016rshah</code> 并将 <code>&#x3C;HEX-COLOR></code> 替换为你想要的颜色的十六进制代码（不包括前导的 <code>#</code> 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">&#x3C;img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />\n</span></code></pre>\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah&#x27;s Blue Github Chart\">",
     "summary": "📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客 你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方： ``` ``` 回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！ **颜色方案** 我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表",
@@ -164,7 +164,8 @@
     "author": {
       "name": "jaywcjlove",
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
-    }
+    },
+    "markdownContent": "📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客\r\n\r\n![image](https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036)\r\n\r\n你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方：\r\n\r\n```\r\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\r\n```\r\n\r\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\r\n\r\n回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！\r\n\r\n**颜色方案**\r\n\r\n我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 `https://ghchart.rshah.org/<HEX-COLOR>/2016rshah` 并将 `<HEX-COLOR>` 替换为你想要的颜色的十六进制代码（不包括前导的 `#` 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：\r\n\r\n```\r\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />\r\n```\r\n\r\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />"
   },
   {
     "id": "9",

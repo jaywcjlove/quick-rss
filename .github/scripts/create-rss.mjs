@@ -111,11 +111,13 @@ ${content}
 
 ---
 
+<p align="center">
 <a href="${detailLink}" target="_blank">🔗 查看链接</a> • 
 <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
 <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
 <a href="https://github.com/jaywcjlove/quick-rss/issues/${issueId}" target="_blank">#${issueId}</a> • 
 <a href="https://github.com/${issueAuthor}" target="_blank">@${issueAuthor}</a>
+</p>
 
 ---
     `;

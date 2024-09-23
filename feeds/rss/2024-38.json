@@ -43,7 +43,7 @@
   },
   {
     "id": "18",
-    "url": "\n\nhttps://github.com/atinux/npm-chart",
+    "url": "https://wangchujiang.com/quick-rss/issue/18.html",
     "title": "NPM Chart：一键将你的 npm 下载量转换为精美的可分享图表",
     "content_html": "<p>一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。</p>\n<p><img src=\"https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd\" alt=\"\"></p>\n<p>可以完美展示你项目的成长和社区影响力！</p>\n<p><img src=\"https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f\" alt=\"\"></p>",
     "summary": "一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。 可以完美展示你项目的成长和社区影响力！",
@@ -52,7 +52,8 @@
     "author": {
       "name": "jaywcjlove",
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
-    }
+    },
+    "markdownContent": "一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。\r\n\r\n![](https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd)\r\n\r\n可以完美展示你项目的成长和社区影响力！\r\n\r\n![](https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f)"
   },
   {
     "id": "17",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:48:57.044Z</updated>
+    <updated>2024-09-23T11:49:30.736Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -662,7 +662,7 @@
     <entry>
         <title type="html"><![CDATA[IP查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电]]></title>
         <id>7</id>
-        <link href="https://ip.im/"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/7.html"/>
         <updated>2024-09-16T16:18:18.000Z</updated>
         <summary type="html"><![CDATA[ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。 支持命令行显示 支持嵌入图片显示 IP，下面是嵌入图片示例 另外还有一些为爱发电的，IP 查询工具： https://ip.sy/]]></summary>
         <content type="html"><![CDATA[<p>ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。</p>

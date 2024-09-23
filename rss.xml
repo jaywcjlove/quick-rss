@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:48:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -514,7 +514,7 @@
         </item>
         <item>
             <title><![CDATA[IP查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电]]></title>
-            <link>https://ip.im/</link>
+            <link>https://wangchujiang.com/quick-rss/issue/7.html</link>
             <guid>7</guid>
             <pubDate>Mon, 16 Sep 2024 16:18:18 GMT</pubDate>
             <description><![CDATA[ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。 支持命令行显示 支持嵌入图片显示 IP，下面是嵌入图片示例 另外还有一些为爱发电的，IP 查询工具： https://ip.sy/]]></description>

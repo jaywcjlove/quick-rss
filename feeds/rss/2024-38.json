@@ -169,7 +169,7 @@
   },
   {
     "id": "9",
-    "url": "\n\nhttps://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.0",
+    "url": "https://wangchujiang.com/quick-rss/issue/9.html",
     "title": "OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！",
     "content_html": "<p>这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c\" alt=\"image\"></p>\n<p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p>",
     "summary": "这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。",
@@ -178,7 +178,8 @@
     "author": {
       "name": "jaywcjlove",
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
-    }
+    },
+    "markdownContent": "这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。\r\n\r\n![image](https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c)\r\n\r\n\r\n该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。"
   },
   {
     "id": "8",

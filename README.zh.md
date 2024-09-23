@@ -151,7 +151,7 @@ Gitness 是一个强大的开源开发平台，集成了代码托管和自动化
 ![](https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036)
 
 📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客 你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方： &#x3C;img src="https://ghchart.rshah.org/jaywcjlove" alt="2016rshah's Github chart" /> 回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过， ([#10](https://github.com/jaywcjlove/quick-rss/issues/10) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.0) 
+## [OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！](https://wangchujiang.com/quick-rss/issue/9.html) 
 
 ![](https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c)
 

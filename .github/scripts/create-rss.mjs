@@ -114,7 +114,7 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
     const mdContent = `${issueTitle}
 ===
 
-${post.content}
+${content}
 
 ---
 

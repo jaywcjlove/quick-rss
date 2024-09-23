@@ -66,7 +66,7 @@
   },
   {
     "id": "23",
-    "url": "\n\nhttps://github.com/fbarbat/fellmonger",
+    "url": "https://wangchujiang.com/quick-rss/issue/23.html",
     "title": "Fellmonger: 支持多种大型语言模型（LLM）的原生客户端，是一个展示使用 Swift 6 开发的原生桌面应用的示例项目",
     "content_html": "<p>Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d\" alt=\"\"></p>\n<p>📚 <strong>Fellmonger</strong> 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS 和 Windows 桌面应用开发。虽然该项目是为个人学习而构建，但也希望它能为其他开发者提供启发和帮助 😄。</p>\n<p><img src=\"https://github.com/user-attachments/assets/3c182895-1f08-47fb-85fd-dbc53a925c62\" alt=\"\"></p>\n<h3>项目现状与改进空间</h3>\n<p>项目的复杂度已经足以模拟真实的应用程序，但目前还处于原型阶段。为了让它达到生产级别，仍有一些地方需要改进，包括：</p>\n<ul>\n<li>UI/图标的进一步打磨</li>\n<li>功能的增强</li>\n<li>性能优化</li>\n<li>更完善的错误处理</li>\n<li>安装程序的改进</li>\n</ul>\n<p>这些改进将使 Fellmonger 从原型走向一个可以真正投入使用的生产级应用。</p>",
     "summary": "Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。 📚 **Fellmonger** 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS",

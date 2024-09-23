@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -156,7 +156,7 @@
         </item>
         <item>
             <title><![CDATA[Fellmonger: 支持多种大型语言模型（LLM）的原生客户端，是一个展示使用 Swift 6 开发的原生桌面应用的示例项目]]></title>
-            <link>https://github.com/fbarbat/fellmonger</link>
+            <link>https://wangchujiang.com/quick-rss/issue/23.html</link>
             <guid>23</guid>
             <pubDate>Sat, 21 Sep 2024 08:51:14 GMT</pubDate>
             <description><![CDATA[Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。 📚 Fellmonger 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS 和 W]]></description>

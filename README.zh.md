@@ -81,7 +81,7 @@ Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试�
 ![](https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e)
 
 Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。 🌟 主要功能 支持多个 LLM 提供商：无论你使用的是哪家 LLM 服务，Cherry Studio 都能为你提供兼容支持。 创建多个助手：允许用户在客户端内创建多个智能助手，根据不同场景灵活应对。 创建多个主题：用户可以根据需要 ([#24](https://github.com/jaywcjlove/quick-rss/issues/24) - [@jaywcjlove](https://github.com/jaywcjlove))
-## [Fellmonger: 支持多种大型语言模型（LLM）的原生客户端，是一个展示使用 Swift 6 开发的原生桌面应用的示例项目](https://github.com/fbarbat/fellmonger) 
+## [Fellmonger: 支持多种大型语言模型（LLM）的原生客户端，是一个展示使用 Swift 6 开发的原生桌面应用的示例项目](https://wangchujiang.com/quick-rss/issue/23.html) 
 
 ![](https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d)
 

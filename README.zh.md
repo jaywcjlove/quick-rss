@@ -56,6 +56,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [历史性时刻！全新 HTTP 方法 QUERY 提议成为 GET 和 POST 的替代方案](https://wangchujiang.com/quick-rss/issue/30.html) 
+
+![](https://github.com/user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df)
+
+HTTP QUERY 方法旨在提供一种新的请求方式，它允许通过请求体传递复杂的查询参数，而无需将参数嵌入到URL中。与GET类似，QUERY是安全且幂等的，不会改变资源的状态；与POST类似，它支持请求体的使用。该方法特别适合大规模查询数据的情况，避免了URI长度限制。QUERY响应支持缓存，并允许服务器通过返回Location或Content-Location字段来提供查询结果或执行重复查询。  ([#30](https://github.com/jaywcjlove/quick-rss/issues/30) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BestOfJS: 比项目较过去12个月在 GitHub 上增加的星标数](https://wangchujiang.com/quick-rss/issue/29.html) 
 
 ![](https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153)

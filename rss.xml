@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -414,7 +414,7 @@
         </item>
         <item>
             <title><![CDATA[Ghchart：Github贡献图表作为图像，嵌入你的博客]]></title>
-            <link>https://github.com/2016rshah/githubchart-api</link>
+            <link>https://wangchujiang.com/quick-rss/issue/10.html</link>
             <guid>10</guid>
             <pubDate>Tue, 17 Sep 2024 09:11:19 GMT</pubDate>
             <description><![CDATA[📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客 你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方： &#x3C;img src="https://ghchart.rshah.org/jaywcjlove" alt="2016rshah's Github chart" /> 回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，]]></description>

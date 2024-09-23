@@ -182,7 +182,7 @@
         {
             "id": "15",
             "content_html": "<p>Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。</p>\n<p><img src=\"https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3\" alt=\"image\"></p>\n<p>Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，<a href=\"https://appwrite.io/docs\">等多种服务</a>。</p>\n<p>Appwrite 使用高拓展性的微服务架构。此外，Appwrite 支持多种 API（REST、WebSocket 和 即将推出的 GraphQL），来迎合您的个性化开发习惯。</p>\n<p><img src=\"https://github.com/user-attachments/assets/329d22c7-4946-4951-b457-eb5f31f512a9\" alt=\"image\"></p>\n<p>Appwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/15\" target=\"_blank\">#15</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
-            "url": "https://github.com/appwrite/appwrite",
+            "url": "https://wangchujiang.com/quick-rss/issue/15.html",
             "title": "Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案",
             "summary": "Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。 Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，等多种服务。 Appwrite 使用高拓展性的微服",
             "image": "https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3",

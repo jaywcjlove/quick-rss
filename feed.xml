@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:41:49.522Z</updated>
+    <updated>2024-09-23T11:42:26.773Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -416,7 +416,7 @@
     <entry>
         <title type="html"><![CDATA[Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案]]></title>
         <id>15</id>
-        <link href="https://github.com/appwrite/appwrite"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/15.html"/>
         <updated>2024-09-17T17:37:41.000Z</updated>
         <summary type="html"><![CDATA[Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。 Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，等多种服务。 Appwrite 使用高拓展性的微服]]></summary>
         <content type="html"><![CDATA[<p>Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。</p>

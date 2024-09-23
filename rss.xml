@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -439,7 +439,7 @@
         </item>
         <item>
             <title><![CDATA[OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！]]></title>
-            <link>https://github.com/dortania/OpenCore-Legacy-Patcher/releases/tag/2.0.0</link>
+            <link>https://wangchujiang.com/quick-rss/issue/9.html</link>
             <guid>9</guid>
             <pubDate>Mon, 16 Sep 2024 17:31:14 GMT</pubDate>
             <description><![CDATA[这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。]]></description>

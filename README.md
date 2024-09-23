@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BBackupp：完美的 iOS 备份解决方案](https://github.com/Lakr233/BBackupp) 
+
+![](https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa)
+
+在今天的数据时代，确保移动设备数据的安全与完整至关重要。BBackupp 是一款全新的 iOS 备份软件，提供了丰富的功能，让备份过程变得简单、高效，并且具备高度的灵活性。不论是想要手动备份，还是自动化备份，BBackupp 都能够为用户提供最合适的解决方案。 轻松备份 iOS 设备 使用 BBackupp，用户可以轻松实现对 iOS 设备的完整备份。操作简单，无需繁琐的设置，让用户能够快速上手， ([#28](https://github.com/jaywcjlove/quick-rss/issues/28) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BLEUnlock: 让你的 Mac 更智能的锁定与解锁](https://github.com/ts1/BLEUnlock) 
 
 ![](https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f)

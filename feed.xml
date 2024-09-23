@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T11:35:22.056Z</updated>
+    <updated>2024-09-23T11:36:26.586Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -371,7 +371,7 @@
     <entry>
         <title type="html"><![CDATA[Artificial Analysis：大模型能力、价格、速度对比的工具]]></title>
         <id>17</id>
-        <link href="https://artificialanalysis.ai/models/gpt-4o-mini"/>
+        <link href="https://wangchujiang.com/quick-rss/issue/17.html"/>
         <updated>2024-09-18T13:49:31.000Z</updated>
         <summary type="html"><![CDATA[深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情]]></summary>
         <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568" alt=""></p>

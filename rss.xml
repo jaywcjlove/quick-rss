@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 23 Sep 2024 11:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 11:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -293,7 +293,7 @@
         </item>
         <item>
             <title><![CDATA[Artificial Analysis：大模型能力、价格、速度对比的工具]]></title>
-            <link>https://artificialanalysis.ai/models/gpt-4o-mini</link>
+            <link>https://wangchujiang.com/quick-rss/issue/17.html</link>
             <guid>17</guid>
             <pubDate>Wed, 18 Sep 2024 13:49:31 GMT</pubDate>
             <description><![CDATA[深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情]]></description>

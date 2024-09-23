@@ -11,7 +11,7 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
-## [BBackupp：完美的 iOS 备份解决方案](https://github.com/Lakr233/BBackupp) 
+## [BBackupp：完美的 iOS 备份解决方案](https://wangchujiang.com/quick-rss/issue/28.html) 
 
 ![](https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa)
 

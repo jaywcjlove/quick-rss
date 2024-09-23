@@ -100,17 +100,10 @@ const rssFilePath = `./feeds/rss/${year}-${week}.json`;
       },
     }
 
-    const mdFooterHTML = `
-    <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
-    <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-    <a href="https://github.com/jaywcjlove/quick-rss/issues/${issueId}" target="_blank">#${issueId}</a> • 
-    <a href="https://github.com/${issueAuthor}" target="_blank">@${issueAuthor}</a>
-    `;
-    
     const data = issueBody.split(/##+\s+[📋🔗]+\s.+/ig).map((txt) => txt.replace(/[\n\r\s]+$/g, '')).filter(Boolean);
     info(`Issue Body: ${JSON.stringify(data)}`);
     const content = (data[0] ?? "");
-    const detailLink = (data[1] ?? "");
+    const detailLink = (data[1] ?? "").replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '');
     const mdContent = `${issueTitle}
 ===
 
@@ -118,7 +111,7 @@ ${content}
 
 ---
 
-<a href="${detailLink}" target="_blank">🔗 链接</a> • 
+<a href="${detailLink}" target="_blank">🔗 查看链接</a> • 
 <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
 <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
 <a href="https://github.com/jaywcjlove/quick-rss/issues/${issueId}" target="_blank">#${issueId}</a> • 

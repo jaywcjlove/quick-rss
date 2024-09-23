@@ -221,7 +221,7 @@
         {
             "id": "12",
             "content_html": "<p>此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865\" alt=\"\"></p>\n<p>它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&#x26;rehype=video\"></video><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/12\" target=\"_blank\">#12</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
-            "url": "https://github.com/jaywcjlove/app-rejection-fixes",
+            "url": "https://wangchujiang.com/quick-rss/issue/12.html",
             "title": "App Rejection Fixes: 搜集 Apple 应用上架被拒绝的解决方案",
             "summary": "此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。",
             "image": "https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865",

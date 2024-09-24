@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Penpot：开源设计工具，促进设计与代码的协作](https://wangchujiang.com/quick-rss/issue/32.html) 
+
+![](https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866)
+
+Penpot 是首个开源设计工具，旨在实现设计师与开发者之间的无缝协作。它为设计师提供了一个强大的平台，可以创建令人惊叹的设计、交互原型和大规模设计系统，同时开发者可以轻松获得现成的代码，简化工作流程，提升效率。最重要的是，Penpot 在设计与开发之间消除了传统交接过程中的种种摩擦。 浏览器访问与自托管 Penpot 可以通过浏览器访问，也可以选择自行托管。它基于 web，支持开放标准（如 SV ([#32](https://github.com/jaywcjlove/quick-rss/issues/32) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [YesPlayMusic: 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux](https://wangchujiang.com/quick-rss/issue/31.html) 
 
 ![](https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a)

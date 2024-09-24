@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Transition.css：简化网页动画的开源工具](https://wangchujiang.com/quick-rss/issue/33.html) 
+
+![](https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57)
+
+在现代网页设计中，动画效果不仅能提升用户体验，还能有效引导用户的注意力。Transition.css 是一个开源的 CSS 动画库，旨在简化网页中的过渡动画，使得开发者能够轻松地为网页元素添加动态效果。无论是设计师还是开发者，都能从中受益。 基本使用 要使用 Transition.css，首先需要引入 CSS 文件。可以通过 NPM 安装，也可以直接使用 CDN 链接。以下是基本的引入方式： 通过 ([#33](https://github.com/jaywcjlove/quick-rss/issues/33) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Penpot：开源设计工具，促进设计与代码的协作](https://wangchujiang.com/quick-rss/issue/32.html) 
 
 ![](https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866)

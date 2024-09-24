@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-23T15:30:55.724Z</updated>
+    <updated>2024-09-24T07:24:15.931Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,42 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[YesPlayMusic: 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux]]></title>
+        <id>31</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/31.html"/>
+        <updated>2024-09-24T07:23:48.000Z</updated>
+        <summary type="html"><![CDATA[全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。 全新技术栈—]]></summary>
+        <content type="html"><![CDATA[<p>全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。</p>
+<p><img src="https://github.com/user-attachments/assets/2f2a50c1-9e76-4bdd-97e4-4cf5959f4fb7" alt=""></p>
+<h3>全新技术栈——Vue.js 全家桶</h3>
+<p>本次更新最大的亮点之一就是使用了 Vue.js 全家桶进行开发。Vue.js 是一款优秀的渐进式 JavaScript 框架，它让开发者能够以更快的速度和更高的效率构建复杂的前端应用程序。通过 Vue.js，全新的 2.0 Alpha 版本不仅在性能上有所提升，而且使得整体界面响应更为迅速流畅，用户在操作中能够感受到明显的提升。</p>
+<h3>功能丰富的多媒体体验</h3>
+<p>2.0 Alpha 测试版引入了诸多与音乐播放相关的新功能，包括网易云账号登录的支持，用户可以通过扫码、手机或邮箱进行登录，快速访问自己的音乐库。新的版本还支持 MV 播放和歌词显示，提供了更为完整的多媒体体验。此外，私人 FM 和每日推荐歌曲功能也被集成，用户可以根据自己的音乐喜好发现更多内容。</p>
+<p>对于不喜欢社交功能的用户，本次更新也是一个福音——该版本完全移除了社交功能，专注于提供更纯粹的音乐播放体验。同时，海外用户也能够通过登录网易云账号直接播放音乐，方便了全球范围内的用户使用。</p>
+<h3>独特的解锁体验 —— UnblockNeteaseMusic</h3>
+<p>为了让用户能够无缝体验音乐，2.0 Alpha 版本集成了 UnblockNeteaseMusic 插件。该插件会自动使用其他音源替换网易云音乐中因版权问题变灰的歌曲链接。虽然网页版暂不支持这一功能，但它的加入极大增强了音乐库的完整性和可访问性。用户还可以自行安装 yt-dlp，以支持 YouTube 音源的播放。</p>
+<h3>个性化体验和智能功能</h3>
+<p>新版本还具备每日自动签到功能，用户无需手动操作就能在手机端和电脑端同时完成签到。与此同时，版本增加了 Light/Dark Mode 的自动切换功能，界面风格会根据用户的系统设定或时间自动变化，为用户提供了更加舒适的视觉体验。对于拥有 Touch Bar 的设备，还支持使用 Touch Bar 进行音乐播放控制，增加了设备的交互性。</p>
+<p>此外，用户可以将该版本作为 PWA（渐进式 Web 应用）安装到桌面，通过 Chrome 或 Edge 浏览器点击地址栏的 ➕ 图标，快速将应用添加到电脑上，体验类似原生应用的操作感受。</p>
+<h3>丰富的其他功能</h3>
+<p>新版本还支持 Last.fm Scrobble，用户可以通过 Last.fm 跟踪自己的音乐收听记录。音乐云盘的支持让用户能够上传并管理自己的音乐文件。对于键盘爱好者，该版本还提供了自定义快捷键和全局快捷键功能，允许用户快速执行常用操作。此外，还支持 Mpris，多平台的媒体播放控制将变得更加轻松。</p>
+<p>Web 版本体验：<a href="https://music.qier222.com/">https://music.qier222.com/</a></p>
+<p>总的来说，2.0 Alpha 版本带来了众多强大且实用的功能更新，为用户提供了更加流畅、个性化的音乐播放体验。未来的版本中，开发者还会引入更多功能，持续优化用户体验。对于喜爱网易云音乐并希望探索更多功能的用户来说，这无疑是一个值得尝试的版本。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/31" target="_blank">#31</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[历史性时刻！全新 HTTP 方法 QUERY 提议成为 GET 和 POST 的替代方案]]></title>
         <id>30</id>

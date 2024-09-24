@@ -45,13 +45,14 @@ jobs:
         if: env.MODIFIER == 'jaywcjlove' && contains(github.event.issue.labels.*.name, 'weekly')
         env:
           ISSUE_ID: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           # 获取当前分支名称
           CURRENT_BRANCH=$(echo ${GITHUB_REF#refs/heads/})
           git add .
-          git commit -m "Quick RSS Feed: updated or added #$ISSUE_ID"
+          git commit -m "Quick RSS Feed: $ISSUE_TITLE #$ISSUE_ID"
           git push origin $CURRENT_BRANCH
 
       - name: Trigger Deploy

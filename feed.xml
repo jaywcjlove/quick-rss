@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-24T19:21:08.914Z</updated>
+    <updated>2024-09-24T19:29:51.178Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,97 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Transition.css：简化网页动画的开源工具]]></title>
+        <id>33</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/33.html"/>
+        <updated>2024-09-24T19:29:25.000Z</updated>
+        <summary type="html"><![CDATA[在现代网页设计中，动画效果不仅能提升用户体验，还能有效引导用户的注意力。Transition.css 是一个开源的 CSS 动画库，旨在简化网页中的过渡动画，使得开发者能够轻松地为网页元素添加动态效果。无论是设计师还是开发者，都能从中受益。 基本使用 要使用 Transition.css，首先需要引入 CSS 文件。可以通过 NPM 安装，也可以直接使用 CDN 链接。以下是基本的引入方式： 通过]]></summary>
+        <content type="html"><![CDATA[<p>在现代网页设计中，动画效果不仅能提升用户体验，还能有效引导用户的注意力。Transition.css 是一个开源的 CSS 动画库，旨在简化网页中的过渡动画，使得开发者能够轻松地为网页元素添加动态效果。无论是设计师还是开发者，都能从中受益。</p>
+<p><img src="https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57" alt="kitchen-sink"></p>
+<h3>基本使用</h3>
+<p>要使用 Transition.css，首先需要引入 CSS 文件。可以通过 NPM 安装，也可以直接使用 CDN 链接。以下是基本的引入方式：</p>
+<ol>
+<li>
+<p><strong>通过 NPM 安装</strong>：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">npm</span> i transition-style
+</span></code></pre>
+<p>然后在 CSS 文件中导入：</p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line line-number" line="1"><span class="token atrule"><span class="token rule">@import</span> <span class="token string">"transition-style"</span><span class="token punctuation">;</span></span>
+</span></code></pre>
+</li>
+<li>
+<p><strong>通过 CDN 引入</strong>：
+直接在 HTML 中添加链接：</p>
+<pre class="language-html"><code class="language-html code-highlight"><span class="code-line line-number" line="1"><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>link</span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://unpkg.com/transition-style<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+</span></code></pre>
+</li>
+</ol>
+<p>在添加了 Transition.css 之后，开发者只需在 HTML 元素上设置相应的 <code>transition-style</code> 属性，就可以实现动画效果。例如：</p>
+<p><img src="https://github.com/user-attachments/assets/a0341d5f-6118-4a79-896b-836c9cee1027" alt="wipe-up"></p>
+<pre class="language-html"><code class="language-html code-highlight"><span class="code-line line-number" line="1"><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>div</span> <span class="token attr-name">transition-style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>in:wipe:up<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+</span><span class="code-line line-number" line="2">  👍
+</span><span class="code-line line-number" line="3"><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>div</span><span class="token punctuation">></span></span>
+</span></code></pre>
+<p>通过这种简单的方式，用户就可以看到精美的动画效果。</p>
+<h3>版本更新与新功能</h3>
+<p>Transition.css 最近推出了 2.0 版本，增加了许多新特性，包括 CSS Grid 布局、全新的 UI 设计和新的组件系统等。这些更新使得工具更加快速和易于访问，让开发者和设计师都能更加高效地工作。</p>
+<h3>分类与定制</h3>
+<p>Transition.css 提供了多个分类的样式包，用户可以根据需要引入特定的样式包。例如：</p>
+<ul>
+<li><strong>Circles</strong>：<code>https://unpkg.com/transition-style/transition.circles.min.css</code></li>
+<li><strong>Squares</strong>：<code>https://unpkg.com/transition-style/transition.squares.min.css</code></li>
+<li><strong>Polygons</strong>：<code>https://unpkg.com/transition-style/transition.polygons.min.css</code></li>
+<li><strong>Wipes</strong>：<code>https://unpkg.com/transition-style/transition.wipes.min.css</code></li>
+</ul>
+<p>此外，还有一个名为“The Hackpack”的选项，允许开发者仅导入自定义属性和基本样式，从而实现更多的过渡组合和控制，适应不同的开发环境。</p>
+<h3>快速测试功能</h3>
+<p>为了让开发者能在几乎任何现有网站上尝试 Transition.css，提供了一个书签小工具。用户只需将以下代码复制到书签中，便可在浏览器中使用：</p>
+<pre class="language-javascript"><code class="language-javascript code-highlight"><span class="code-line line-number" line="1"><span class="token literal-property property">javascript</span><span class="token operator">:</span><span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token keyword">var</span> a<span class="token operator">=</span><span class="token dom variable">document</span><span class="token punctuation">.</span><span class="token method function property-access">createElement</span><span class="token punctuation">(</span><span class="token string">"link"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>a<span class="token punctuation">.</span><span class="token property-access">rel</span><span class="token operator">=</span><span class="token string">"stylesheet"</span><span class="token punctuation">;</span>a<span class="token punctuation">.</span><span class="token property-access">href</span><span class="token operator">=</span><span class="token string">"https://unpkg.com/transition-style"</span><span class="token punctuation">;</span><span class="token dom variable">document</span><span class="token punctuation">.</span><span class="token property-access">head</span><span class="token punctuation">.</span><span class="token method function property-access">append</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span></code></pre>
+<p>使用这个书签后，用户可以在网页上快速体验 Transition.css 的效果，无需修改网站的原始代码。</p>
+<h3>高级用法</h3>
+<p>Transition.css 的设计思路是基于属性的方式，使得每次只能有一个动画状态。这种状态机的方法有效避免了类名冲突的问题。用户可以使用 <code>@keyframes</code> 来定义自定义动画，并通过 CSS 自定义属性来实现动画的持续时间、缓动效果和延迟等参数。例如：</p>
+<p><img src="https://github.com/user-attachments/assets/d3fb4503-25d5-4bbe-880c-8c9a5ee87225" alt="opposing-corner-fold"></p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line line-number" line="1"><span class="token selector"><span class="token class">.main--state-in</span></span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="2">  <span class="token property">animation</span><span class="token punctuation">:</span> wipe-in-left<span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="3">  <span class="token property">animation-duration</span><span class="token punctuation">:</span> <span class="token number">2</span><span class="token unit">s</span><span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="4">  <span class="token property">animation-fill-mode</span><span class="token punctuation">:</span> both<span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="5"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>对于想要进一步定制的用户，Transition.css 允许用户定义自定义过渡效果，例如：</p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line line-number" line="1"><span class="token atrule"><span class="token rule">@keyframes</span> circle-swoop</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="2">  <span class="token selector">from</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="3">    <span class="token property">clip-path</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span><span class="token variable">--circle-top-right-out</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="4">  <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="5">  <span class="token selector">to</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="6">    <span class="token property">clip-path</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span><span class="token variable">--circle-bottom-right-in</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="7">  <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="8"><span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="9">
+</span><span class="code-line line-number" line="10"><span class="token selector"><span class="token class">.--in-custom</span></span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="11">  <span class="token variable">--transition__duration</span><span class="token punctuation">:</span> <span class="token number">1</span><span class="token unit">s</span><span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="12">  <span class="token variable">--transition__easing</span><span class="token punctuation">:</span> ease-in-out<span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="13">  <span class="token property">animation-name</span><span class="token punctuation">:</span> circle-swoop<span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="14"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>使用这样的方式，开发者可以发挥创意，创建独特的动画效果。</p>
+<h3>总结</h3>
+<p>Transition.css 是一个强大的工具，旨在简化网页动画的实现过程。无论是简单的过渡效果还是复杂的自定义动画，Transition.css 都能为开发者提供所需的灵活性和控制力。通过简单的引入和使用方式，用户能够迅速提升网页的交互性和美观度。Transition.css 的开源特性也让其在开发者社区中得到了广泛的支持和应用，是现代网页设计中不可或缺的一部分。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/33" target="_blank">#33</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Penpot：开源设计工具，促进设计与代码的协作]]></title>
         <id>32</id>

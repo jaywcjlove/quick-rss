@@ -58,7 +58,7 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 ## [YesPlayMusic: 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux](https://wangchujiang.com/quick-rss/issue/31.html) 
 
-![](https://github.com/user-attachments/assets/2f2a50c1-9e76-4bdd-97e4-4cf5959f4fb7)
+![](https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a)
 
 全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。 全新技术栈— ([#31](https://github.com/jaywcjlove/quick-rss/issues/31) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [历史性时刻！全新 HTTP 方法 QUERY 提议成为 GET 和 POST 的替代方案](https://wangchujiang.com/quick-rss/issue/30.html) 

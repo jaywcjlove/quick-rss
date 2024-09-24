@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Tue, 24 Sep 2024 07:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 07:29:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -22,10 +22,11 @@
             <pubDate>Tue, 24 Sep 2024 07:23:48 GMT</pubDate>
             <description><![CDATA[全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。 全新技术栈—]]></description>
             <content:encoded><![CDATA[<p>全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。</p>
-<p><img src="https://github.com/user-attachments/assets/2f2a50c1-9e76-4bdd-97e4-4cf5959f4fb7" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a" alt=""></p>
 <h3>全新技术栈——Vue.js 全家桶</h3>
 <p>本次更新最大的亮点之一就是使用了 Vue.js 全家桶进行开发。Vue.js 是一款优秀的渐进式 JavaScript 框架，它让开发者能够以更快的速度和更高的效率构建复杂的前端应用程序。通过 Vue.js，全新的 2.0 Alpha 版本不仅在性能上有所提升，而且使得整体界面响应更为迅速流畅，用户在操作中能够感受到明显的提升。</p>
 <h3>功能丰富的多媒体体验</h3>
+<p><img src="https://github.com/user-attachments/assets/65a70134-39a3-4b46-ab35-28c4ea543676" alt=""></p>
 <p>2.0 Alpha 测试版引入了诸多与音乐播放相关的新功能，包括网易云账号登录的支持，用户可以通过扫码、手机或邮箱进行登录，快速访问自己的音乐库。新的版本还支持 MV 播放和歌词显示，提供了更为完整的多媒体体验。此外，私人 FM 和每日推荐歌曲功能也被集成，用户可以根据自己的音乐喜好发现更多内容。</p>
 <p>对于不喜欢社交功能的用户，本次更新也是一个福音——该版本完全移除了社交功能，专注于提供更纯粹的音乐播放体验。同时，海外用户也能够通过登录网易云账号直接播放音乐，方便了全球范围内的用户使用。</p>
 <h3>独特的解锁体验 —— UnblockNeteaseMusic</h3>
@@ -42,7 +43,7 @@
       <a href="https://github.com/jaywcjlove/quick-rss/issues/31" target="_blank">#31</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
-            <enclosure url="https://github.com/user-attachments/assets/2f2a50c1-9e76-4bdd-97e4-4cf5959f4fb7" length="0" type="image//user-attachments/assets/2f2a50c1-9e76-4bdd-97e4-4cf5959f4fb7"/>
+            <enclosure url="https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a" length="0" type="image//user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a"/>
         </item>
         <item>
             <title><![CDATA[历史性时刻！全新 HTTP 方法 QUERY 提议成为 GET 和 POST 的替代方案]]></title>

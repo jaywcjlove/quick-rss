@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Tue, 24 Sep 2024 07:49:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 19:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,41 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Penpot：开源设计工具，促进设计与代码的协作]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/32.html</link>
+            <guid>32</guid>
+            <pubDate>Tue, 24 Sep 2024 19:20:39 GMT</pubDate>
+            <description><![CDATA[Penpot 是首个开源设计工具，旨在实现设计师与开发者之间的无缝协作。它为设计师提供了一个强大的平台，可以创建令人惊叹的设计、交互原型和大规模设计系统，同时开发者可以轻松获得现成的代码，简化工作流程，提升效率。最重要的是，Penpot 在设计与开发之间消除了传统交接过程中的种种摩擦。 浏览器访问与自托管 Penpot 可以通过浏览器访问，也可以选择自行托管。它基于 web，支持开放标准（如 SV]]></description>
+            <content:encoded><![CDATA[<p>Penpot 是首个开源设计工具，旨在实现设计师与开发者之间的无缝协作。它为设计师提供了一个强大的平台，可以创建令人惊叹的设计、交互原型和大规模设计系统，同时开发者可以轻松获得现成的代码，简化工作流程，提升效率。最重要的是，Penpot 在设计与开发之间消除了传统交接过程中的种种摩擦。</p>
+<p><img src="https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866" alt="image"></p>
+<p><a href="https://github.com/user-attachments/assets/0b73e123-e39f-40e4-8234-497000ae7024"></a></p>
+<h3>浏览器访问与自托管</h3>
+<p>Penpot 可以通过浏览器访问，也可以选择自行托管。它基于 web，支持开放标准（如 SVG、CSS 和 HTML），使得团队可以灵活运用不同的工具和技术。更重要的是，Penpot 完全免费，让所有设计师和开发者都能平等地使用这个强大的工具。</p>
+<h3>重大更新：2.0版本</h3>
+<p>Penpot 最近推出的 2.0 版本，标志着该平台进入了一个全新的阶段。此次更新引入了突破性的 CSS Grid 布局功能，进行了全面的用户界面重新设计，推出了新的组件系统，以及其他更多的功能。更新后，Penpot 的运行速度更快，用户体验更佳，特别是在可访问性方面进行了增强，确保所有用户都能方便地使用这一工具。</p>
+<h3>为什么选择 Penpot？</h3>
+<p>Penpot 将设计表达为代码，使设计师能够尽情发挥创造力，同时也能确保开发者能够美丽地实现这些设计，形成双向协作的良好氛围。在 Penpot 的帮助下，设计师和开发者之间的沟通更加顺畅，能够共同实现高质量的产品。</p>
+<h3>为开发者而设计</h3>
+<p><img src="https://github.com/user-attachments/assets/c1912b31-9200-4373-ba7f-63e7fcf4e05a" alt="image"></p>
+<p>Penpot 的设计目标是服务于设计师和开发者，创造一个流畅的设计与代码流程。用户可以选择实时协作的模式，也可以独立工作。在实时协作中，团队成员可以共同查看和编辑设计，确保所有人的想法都能及时反映在作品中。</p>
+<h3>检查模式</h3>
+<p>Penpot 提供了一个检查模式，用户可以使用现成的代码，简化工作流程，提升效率。检查选项卡可以即时访问 SVG、CSS 和 HTML 代码，帮助开发者快速了解设计背后的实现方式，减少了沟通中的误解。</p>
+<h3>自托管实例</h3>
+<p>对于企业或团队，Penpot 还提供了自托管的选项，用户可以完全掌控自己的协作设计工具。用户可以选择使用 Penpot 的云服务，或者部署自己的 Penpot 服务器，从而实现更高的安全性和灵活性。</p>
+<h3>集成能力</h3>
+<p>Penpot 支持通过 Webhook 和可通过访问令牌访问的 API，轻松与开发工具链进行集成。这种集成能力让 Penpot 能够无缝嵌入到现有的工作流程中，提高了团队的工作效率。</p>
+<h3>设计的优势</h3>
+<p>使用 Penpot，用户可以设计出可共享和重用的库；将设计元素转化为组件和令牌，以便实现可重用性和可扩展性；构建逼真的用户流程和交互，提升设计的质量和用户体验。</p>
+<h2>总结</h2>
+<p>总之，Penpot 作为一款开源设计工具，通过提供强大的功能和灵活的协作方式，促进了设计师与开发者之间的有效沟通与合作。无论是设计复杂的用户界面，还是快速生成现成的代码，Penpot 都能帮助团队实现更高效的工作流程。选择 Penpot，意味着选择了一个更为开放与创新的设计未来。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/32" target="_blank">#32</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866" length="0" type="image//user-attachments/assets/3f994566-83ee-4278-906a-89883e717866"/>
+        </item>
         <item>
             <title><![CDATA[YesPlayMusic: 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/31.html</link>

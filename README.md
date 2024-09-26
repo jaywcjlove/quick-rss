@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [文章/软件/资源的标题](https://wangchujiang.com/quick-rss/issue/35.html) 
+
+![](https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831)
+
+Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本。它支持从 Apple Developer 网站或 Xcode Releases 获取最新版本，并通过高速下载工具 aria2 提供更快的下载速度。Xcodes 还可自动处理网络中断，确保安装流程顺利完成。用户无需手动操作，只需点击按钮即可轻松激活所需的 Xcode 版本。应用支持深色和浅色模式， ([#35](https://github.com/jaywcjlove/quick-rss/issues/35) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Yorumi：为开发者打造的深海宁静配色方案 VIM 编辑器](https://wangchujiang.com/quick-rss/issue/34.html) 
 
 ![](https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054)

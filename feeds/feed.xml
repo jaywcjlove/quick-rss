@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-26T10:14:32.132Z</updated>
+    <updated>2024-09-26T11:07:35.143Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -16,7 +16,7 @@
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
     <entry>
-        <title type="html"><![CDATA[Yorumi：为开发者打造的深海宁静配色方案]]></title>
+        <title type="html"><![CDATA[Yorumi：为开发者打造的深海宁静配色方案 VIM 编辑器]]></title>
         <id>34</id>
         <link href="https://wangchujiang.com/quick-rss/issue/34.html"/>
         <updated>2024-09-26T10:13:32.000Z</updated>

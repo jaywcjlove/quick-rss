@@ -11,7 +11,7 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
-## [Yorumi：为开发者打造的深海宁静配色方案](https://wangchujiang.com/quick-rss/issue/34.html) 
+## [Yorumi：为开发者打造的深海宁静配色方案 VIM 编辑器](https://wangchujiang.com/quick-rss/issue/34.html) 
 
 ![](https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054)
 

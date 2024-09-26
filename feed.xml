@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-26T19:28:44.639Z</updated>
+    <updated>2024-09-26T19:31:30.335Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -16,7 +16,7 @@
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
     <entry>
-        <title type="html"><![CDATA[文章/软件/资源的标题]]></title>
+        <title type="html"><![CDATA[Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本]]></title>
         <id>35</id>
         <link href="https://wangchujiang.com/quick-rss/issue/35.html"/>
         <updated>2024-09-26T19:28:14.000Z</updated>

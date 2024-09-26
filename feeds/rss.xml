@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Tue, 24 Sep 2024 19:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 10:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,32 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yorumi：为开发者打造的深海宁静配色方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/34.html</link>
+            <guid>34</guid>
+            <pubDate>Thu, 26 Sep 2024 10:13:32 GMT</pubDate>
+            <description><![CDATA[对于长时间盯着代码的开发者来说，拥有一个舒适且赏心悦目的配色方案至关重要。现在向你介绍 Yorumi，一个深思熟虑设计的深海配色方案，旨在为你的编码环境带来平静与放松，同时保持高效、清晰的视觉体验。 深海般的宁静体验 Yorumi 以低对比度、柔和的色彩调和各类 UI 组件，营造出宁静的深海氛围。这不仅仅是另一个暗黑主题——它更像是一种提升专注力和放松感的体验，非常适合深夜的编码时光。深海色调带来]]></description>
+            <content:encoded><![CDATA[<p>对于长时间盯着代码的开发者来说，拥有一个舒适且赏心悦目的配色方案至关重要。现在向你介绍 <strong>Yorumi</strong>，一个深思熟虑设计的深海配色方案，旨在为你的编码环境带来平静与放松，同时保持高效、清晰的视觉体验。</p>
+<p><img src="https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054" alt="image"></p>
+<h3>深海般的宁静体验</h3>
+<p>Yorumi 以低对比度、柔和的色彩调和各类 UI 组件，营造出宁静的深海氛围。这不仅仅是另一个暗黑主题——它更像是一种提升专注力和放松感的体验，非常适合深夜的编码时光。深海色调带来的平和氛围让你在长时间编码时不再因刺眼的对比色感到疲惫。</p>
+<h3>清晰易读的文本</h3>
+<p>虽然 Yorumi 的背景和 UI 组件保持着低对比度，营造了宁静的效果，但在文本的处理上，它独具匠心。通过大约 8:1 的对比度，代码始终保持清晰锐利，即使在长时间编码中，也能确保良好的可读性。无论是浏览大块代码还是调试复杂函数，清晰的文本减少了眼睛的疲劳，提升了你的工作效率。</p>
+<h3>深夜编码的最佳选择</h3>
+<p>Yorumi 在深夜的编码马拉松中展现出它的独特优势。低对比度的配色方案减轻了眼睛的压力，让你能够长时间专注于工作。想象一下，在夜晚的宁静中，你像坐在一个舒适的小角落，代码在深海色调的柔和光芒下流畅地书写，这就是 Yorumi 的精髓所在。</p>
+<h3>减少眼疲劳，增添代码魔力</h3>
+<p>在众多开发者为眼部疲劳和视觉负担所困扰的世界里，Yorumi 提供了美学与功能性的完美平衡。它让你在保持高生产力的同时，体验舒适的视觉感受。不再需要在深夜对着刺眼的屏幕眯眼，也不再为看清代码而感到吃力。Yorumi 让你保持冷静、专注，并且在最佳状态下编码。</p>
+<h3>潜入 Yorumi 的宁静世界</h3>
+<p>如果你正在寻找一个能够为你的开发环境带来平静，同时确保代码清晰、高效的配色方案，Yorumi 将是你的不二选择。无论是通宵达旦地编码，还是在工作时追求舒适与专注，Yorumi 都能为你提供完美的宁静与清晰结合的体验。</p>
+<p>现在就潜入 Yorumi 的宁静世界，让它为你的编码体验带来凉爽、平静与专注。你的眼睛——以及你的代码——都会感谢你。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/34" target="_blank">#34</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054" length="0" type="image//user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054"/>
+        </item>
         <item>
             <title><![CDATA[Transition.css：简化网页动画的开源工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/33.html</link>

@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Yorumi：为开发者打造的深海宁静配色方案](https://wangchujiang.com/quick-rss/issue/34.html) 
+
+![](https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054)
+
+对于长时间盯着代码的开发者来说，拥有一个舒适且赏心悦目的配色方案至关重要。现在向你介绍 Yorumi，一个深思熟虑设计的深海配色方案，旨在为你的编码环境带来平静与放松，同时保持高效、清晰的视觉体验。 深海般的宁静体验 Yorumi 以低对比度、柔和的色彩调和各类 UI 组件，营造出宁静的深海氛围。这不仅仅是另一个暗黑主题——它更像是一种提升专注力和放松感的体验，非常适合深夜的编码时光。深海色调带来 ([#34](https://github.com/jaywcjlove/quick-rss/issues/34) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Transition.css：简化网页动画的开源工具](https://wangchujiang.com/quick-rss/issue/33.html) 
 
 ![](https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57)

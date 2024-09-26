@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Thu, 26 Sep 2024 10:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 11:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -16,7 +16,7 @@
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Yorumi：为开发者打造的深海宁静配色方案]]></title>
+            <title><![CDATA[Yorumi：为开发者打造的深海宁静配色方案 VIM 编辑器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/34.html</link>
             <guid>34</guid>
             <pubDate>Thu, 26 Sep 2024 10:13:32 GMT</pubDate>

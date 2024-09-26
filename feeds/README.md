@@ -11,7 +11,7 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
-## [文章/软件/资源的标题](https://wangchujiang.com/quick-rss/issue/35.html) 
+## [Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本](https://wangchujiang.com/quick-rss/issue/35.html) 
 
 ![](https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831)
 

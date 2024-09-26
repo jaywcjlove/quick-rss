@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Thu, 26 Sep 2024 19:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 19:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -16,7 +16,7 @@
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[文章/软件/资源的标题]]></title>
+            <title><![CDATA[Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/35.html</link>
             <guid>35</guid>
             <pubDate>Thu, 26 Sep 2024 19:28:14 GMT</pubDate>

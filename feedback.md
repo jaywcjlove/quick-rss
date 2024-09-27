@@ -14,7 +14,7 @@ Feedback & Support
 If you encounter any issues or need support while using our app, feel free to reach out to us through the following channels:
 
 - [**Email Support**: kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)
-- [**Social Media**: Twitter](https://twitter.com/jaywcjlove)
+- [**Social Media**: Twitter/X @jaywcjlove](https://twitter.com/jaywcjlove)
 - [**GitHub Issue**](https://github.com/jaywcjlove/quick-rss/issues/new/choose)
 
 We will respond to your message as soon as possible. Thank you for supporting our app!

@@ -14,16 +14,16 @@ https://wangchujiang.com/quick-rss/issue/22.html
 https://wangchujiang.com/quick-rss/issue/23.html
 https://wangchujiang.com/quick-rss/issue/24.html
 https://wangchujiang.com/quick-rss/issue/25.html
-https://wangchujiang.com/quick-rss/issue/26.html
 https://wangchujiang.com/quick-rss/issue/27.html
+https://wangchujiang.com/quick-rss/issue/26.html
 https://wangchujiang.com/quick-rss/issue/28.html
 https://wangchujiang.com/quick-rss/issue/29.html
 https://wangchujiang.com/quick-rss/issue/30.html
 https://wangchujiang.com/quick-rss/issue/31.html
 https://wangchujiang.com/quick-rss/issue/32.html
 https://wangchujiang.com/quick-rss/issue/33.html
-https://wangchujiang.com/quick-rss/issue/35.html
 https://wangchujiang.com/quick-rss/issue/34.html
+https://wangchujiang.com/quick-rss/issue/35.html
 https://wangchujiang.com/quick-rss/issue/36.html
 https://wangchujiang.com/quick-rss/issue/4.html
 https://wangchujiang.com/quick-rss/issue/5.html
@@ -34,6 +34,8 @@ https://wangchujiang.com/quick-rss/issue/9.html
 https://wangchujiang.com/quick-rss/index.html
 https://wangchujiang.com/quick-rss/index.zh.html
 https://wangchujiang.com/quick-rss/terms-of-service.html
+https://wangchujiang.com/quick-rss/feedback.html
+https://wangchujiang.com/quick-rss/feedback.zh.html
 https://wangchujiang.com/quick-rss/terms-of-service.zh.html
 https://wangchujiang.com/quick-rss/privacy-policy.html
 https://wangchujiang.com/quick-rss/privacy-policy.zh.html

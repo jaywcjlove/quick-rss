@@ -12,8 +12,8 @@
 
 如果您在使用我们的应用时遇到任何问题或需要支持，请随时通过以下方式与我们联系：
 
-- **电子邮件支持**: [kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)
-- **社交媒体**: [Twitter](https://twitter.com/jaywcjlove)
-- **GitHub Issue 提交**: [Twitter](https://github.com/jaywcjlove/quick-rss/issues/new/choose)
+- [**电子邮件支持**: kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)
+- [**社交媒体**: Twitter](https://twitter.com/jaywcjlove)
+- [**GitHub Issue**](https://github.com/jaywcjlove/quick-rss/issues/new/choose)
 
 我们会尽快回复您的消息，感谢您对我们应用的支持！

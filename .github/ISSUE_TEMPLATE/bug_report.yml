@@ -10,8 +10,16 @@ body:
       value: |
         <img align="right" height="86" alt="QuickRSS" src="https://github.com/user-attachments/assets/3e694247-ad5c-4ac8-a4ae-8b89352324d4"> Please provide as much detail as possible about your support request or feedback.
 
-        Make sure you are on the latest version and try to restart your device. If the app crashed (macOS-only), it would be very helpful if you could include a crash report.
-        
+        **Quick RSS** is a simple, private, and intuitive desktop RSS reader application. Whether you are a news enthusiast or enjoy following blog posts and headlines, Quick RSS helps you easily manage and read your favorite RSS feeds.
+
+        ### Contact Information
+
+        If you encounter any issues or need support while using our app, please feel free to contact us through the following methods:
+
+        - **Email Support**: [kennyiseeyou@gmail.com](mailto:kennyiseeyou@gmail.com)
+        - **Social Media**: [Twitter](https://twitter.com/jaywcjlove)
+
+        We will respond to your message as soon as possible. Thank you for your support of our app!
 
   - type: textarea
     attributes:

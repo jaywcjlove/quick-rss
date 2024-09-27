@@ -56,6 +56,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Copi：安全、轻量的 macOS 剪贴板替代工具](https://wangchujiang.com/quick-rss/issue/36.html) 
+
+![](https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806)
+
+Copi 是一款开源、轻量且安全的 macOS 系统剪贴板替代工具。它不仅具备与系统剪贴板相同的复制粘贴功能，还通过独特的安全机制，确保您的剪贴板内容不会被第三方应用程序访问，从而有效保护您的隐私数据。 为什么需要 Copi？ 如今，剪贴板攻击和内容泄露问题时有发生，尤其当用户需要复制和粘贴敏感信息时。Copi 提供了一个更安全的替代方案，避免剪贴板替换攻击及内容泄露。对于以下用户群体，Copi  ([#36](https://github.com/jaywcjlove/quick-rss/issues/36) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本](https://wangchujiang.com/quick-rss/issue/35.html) 
 
 ![](https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831)

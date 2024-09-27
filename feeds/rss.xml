@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Thu, 26 Sep 2024 19:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 07:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,49 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Copi：安全、轻量的 macOS 剪贴板替代工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/36.html</link>
+            <guid>36</guid>
+            <pubDate>Fri, 27 Sep 2024 07:13:19 GMT</pubDate>
+            <description><![CDATA[Copi 是一款开源、轻量且安全的 macOS 系统剪贴板替代工具。它不仅具备与系统剪贴板相同的复制粘贴功能，还通过独特的安全机制，确保您的剪贴板内容不会被第三方应用程序访问，从而有效保护您的隐私数据。 为什么需要 Copi？ 如今，剪贴板攻击和内容泄露问题时有发生，尤其当用户需要复制和粘贴敏感信息时。Copi 提供了一个更安全的替代方案，避免剪贴板替换攻击及内容泄露。对于以下用户群体，Copi ]]></description>
+            <content:encoded><![CDATA[<p>Copi 是一款开源、轻量且安全的 macOS 系统剪贴板替代工具。它不仅具备与系统剪贴板相同的复制粘贴功能，还通过独特的安全机制，确保您的剪贴板内容不会被第三方应用程序访问，从而有效保护您的隐私数据。</p>
+<p><img src="https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806" alt="image"></p>
+<h2>为什么需要 Copi？</h2>
+<p>如今，剪贴板攻击和内容泄露问题时有发生，尤其当用户需要复制和粘贴敏感信息时。Copi 提供了一个更安全的替代方案，避免剪贴板替换攻击及内容泄露。对于以下用户群体，Copi 是一个理想的工具：</p>
+<ul>
+<li><strong>数字货币拥有者</strong>：频繁复制粘贴钱包地址和密钥的用户更容易遭受剪贴板攻击。</li>
+<li><strong>敏感信息处理者</strong>：需要安全处理密码、个人身份信息等敏感数据的用户。</li>
+<li><strong>系统剪贴板不信任者</strong>：不想让系统内其他应用程序获取剪贴板内容的用户。</li>
+</ul>
+<h2>Copi 的使用方式</h2>
+<p>Copi 设计了多种便捷的使用方式，让用户可以轻松在日常操作中安全复制和粘贴内容：</p>
+<h3>1. 快捷操作栏模式</h3>
+<p><img src="https://github.com/user-attachments/assets/2e1e81bd-444c-4a56-955d-13bf0b29ad28" alt="image"></p>
+<p>当您开启 Copi 的“Action Bar”后，选中文字时，文字上方会自动弹出用于安全复制和粘贴的快捷按钮。通过鼠标点击，您可以快速将文字复制到 Copi 剪贴板中，并进行后续操作。在输入框中长按还可显示粘贴选项，方便用户安全粘贴文字。</p>
+<h3>2. 快捷键模式</h3>
+<p><img src="https://github.com/user-attachments/assets/72ac1042-b056-41ff-a924-bcbca452126a" alt="image"></p>
+<p>您可以为 Copi 设置专属的快捷键，用于安全复制和粘贴操作。无论是文件中的文本，还是浏览器中的内容，只需通过设定的快捷键，您便能使用 Copi 进行安全的剪贴板操作，提升工作效率。</p>
+<h3>3. 覆盖系统快捷键</h3>
+<p><img src="https://github.com/user-attachments/assets/899bf4f1-9c45-4607-8b95-e8be24377d48" alt="image"></p>
+<p>Copi 还支持覆盖系统的默认复制粘贴快捷键。一旦启用此功能，所有的复制和粘贴操作将自动通过 Copi 的安全渠道进行，用户无需额外操作即可享受更高的安全性。</p>
+<h2>安全性如何保障？</h2>
+<p><img src="https://github.com/user-attachments/assets/2e0da110-0d12-47a3-8015-9b2135697ece" alt="image"></p>
+<p>Copi 采用了系统的自定义“服务”功能来获取和粘贴文字，而不再通过系统剪贴板。这意味着，传统针对“系统剪贴板”的攻击行为将无法对 Copi 生效。同时，由于 Copi 是开源软件，用户可以查看其代码，确保没有任何恶意操作，进一步增强了信任度和安全性。</p>
+<h2>为什么选择 Copi？</h2>
+<ol>
+<li><strong>开源</strong>：所有代码公开透明，用户可以随时审查。</li>
+<li><strong>隐私保护</strong>：第三方应用无法访问 Copi 中的剪贴板内容，有效防止数据泄露。</li>
+<li><strong>多种操作模式</strong>：便捷的操作栏、快捷键以及覆盖系统快捷键的功能，满足不同用户的使用习惯。</li>
+</ol>
+<p>总之，Copi 是一款致力于为 macOS 用户提供安全、便捷的剪贴板替代方案的工具。无论是个人隐私数据的保护，还是应对越来越复杂的剪贴板攻击，Copi 都能够为您提供全方位的保障。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/36" target="_blank">#36</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806" length="0" type="image//user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806"/>
+        </item>
         <item>
             <title><![CDATA[Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/35.html</link>

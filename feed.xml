@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-09-29T00:30:34.785Z</updated>
+    <updated>2024-09-29T00:34:35.251Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -20,10 +20,10 @@
         <id>37</id>
         <link href="https://wangchujiang.com/quick-rss/issue/37.html"/>
         <updated>2024-09-29T00:24:38.000Z</updated>
-        <summary type="html"><![CDATA[这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。 https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297c]]></summary>
+        <summary type="html"><![CDATA[这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。 更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 @elrumo 维]]></summary>
         <content type="html"><![CDATA[<p>这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。</p>
 <p><img src="https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179" alt="image"></p>
-<p><a href="https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa">https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa</a></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa?rehype=video"></video>
 <p>更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 <a href="https://x.com/elrumo">@elrumo</a> 维护，支持社区互动和反馈。</p>
 <p><img src="https://github.com/user-attachments/assets/bac552fd-9b06-447c-9be4-9da1ce5ecbee" alt="image"></p><br /><br />
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 

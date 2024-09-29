@@ -58,6 +58,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [个性化你的 macOS Big Sur：开源替换图标项目](https://wangchujiang.com/quick-rss/issue/37.html) 
+
+![](https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179)
+
+这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。 https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297c ([#37](https://github.com/jaywcjlove/quick-rss/issues/37) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Copi：安全、轻量的 macOS 剪贴板替代工具](https://wangchujiang.com/quick-rss/issue/36.html) 
 
 ![](https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806)

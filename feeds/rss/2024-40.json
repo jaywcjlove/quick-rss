@@ -3,7 +3,7 @@
     "id": "37",
     "url": "https://wangchujiang.com/quick-rss/issue/37.html",
     "title": "个性化你的 macOS Big Sur：开源替换图标项目",
-    "content_html": "<p>这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。</p>\n<p><img src=\"https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179\" alt=\"image\"></p>\n<p><a href=\"https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa\">https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa</a></p>\n<p>更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 <a href=\"https://x.com/elrumo\">@elrumo</a> 维护，支持社区互动和反馈。</p>\n<p><img src=\"https://github.com/user-attachments/assets/bac552fd-9b06-447c-9be4-9da1ce5ecbee\" alt=\"image\"></p>",
+    "content_html": "<p>这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。</p>\n<p><img src=\"https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179\" alt=\"image\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa?rehype=video\"></video>\n<p>更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 <a href=\"https://x.com/elrumo\">@elrumo</a> 维护，支持社区互动和反馈。</p>\n<p><img src=\"https://github.com/user-attachments/assets/bac552fd-9b06-447c-9be4-9da1ce5ecbee\" alt=\"image\"></p>",
     "summary": "这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。 https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297c",
     "banner_image": "https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179",
     "date_published": "2024-09-29T00:24:38Z",
@@ -11,6 +11,6 @@
       "name": "jaywcjlove",
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
     },
-    "markdownContent": "这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。\r\n\r\n![image](https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179)\r\n\r\n\r\nhttps://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa\r\n\r\n\r\n\r\n\r\n更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 [@elrumo](https://x.com/elrumo) 维护，支持社区互动和反馈。\r\n\r\n![image](https://github.com/user-attachments/assets/bac552fd-9b06-447c-9be4-9da1ce5ecbee)"
+    "markdownContent": "这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。\r\n\r\n![image](https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179)\r\n\r\n\r\nhttps://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa?rehype=video\r\n\r\n\r\n更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 [@elrumo](https://x.com/elrumo) 维护，支持社区互动和反馈。\r\n\r\n![image](https://github.com/user-attachments/assets/bac552fd-9b06-447c-9be4-9da1ce5ecbee)"
   }
 ]

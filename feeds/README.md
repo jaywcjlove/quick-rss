@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [轻松释放存储空间：使用 NPKILL 一键清理过时的 node_modules 文件夹](https://wangchujiang.com/quick-rss/issue/38.html) 
+
+![](https://github.com/user-attachments/assets/41b0ea83-c684-4be4-9798-3b7476c630a5)
+
+NPKILL 是一个非常实用的命令行工具，专门帮助开发者清理系统中的 node_modules 目录，从而释放大量空间。如果你经常在本地运行 Node.js 项目，你可能已经注意到这些 node_modules 文件夹会随着时间堆积，浪费了大量的存储空间。NPKILL 解决了这个问题，让你轻松找到并删除不再需要的 node_modules 文件夹。 工具亮点： 释放空间：NPKILL 能够列出你系 ([#38](https://github.com/jaywcjlove/quick-rss/issues/38) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [个性化你的 macOS Big Sur：开源替换图标项目](https://wangchujiang.com/quick-rss/issue/37.html) 
 
 ![](https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179)

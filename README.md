@@ -14,16 +14,19 @@
   <p>
     <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
     </a>
+    <a href="https://apps.apple.com/app/regex-mate/6670696072?platform=iphone" title="Quick RSS for iOS"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Quick RSS for iOS" height="51"></a>
   </p>
 </div>
 
 <div align="center">
 
-minimum OS requirement: `macOS 14.0`
+minimum OS requirement: `macOS 14.0` / `iOS 17.0`
 
 </div>
 
 **Quick RSS** is an easy-to-use, private, and intuitive desktop RSS reader. Whether you're a news enthusiast or someone who likes to follow blog posts and headlines, Quick RSS helps you effortlessly manage and read your favorite RSS feeds.
+
+![Quick RSS Screenshot all](./assets/screenshots-all.png)
 
 ![Quick RSS Screenshot 1](./assets/screenshots-1.png)
 

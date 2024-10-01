@@ -12,16 +12,19 @@
   <p>
     <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
     </a>
+    <a target="_blank" href="https://apps.apple.com/app/regex-mate/6670696072?platform=iphone" title="Quick RSS for iOS"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Quick RSS for iOS" height="51"></a>
   </p>
 </div>
 
 <div align="center">
 
-最低操作系统要求：`macOS 14.0`
+最低操作系统要求：`macOS 14.0` / `iOS 17.0`
 
 </div>
 
 「Quick RSS」是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。
+
+![Quick RSS 截图 all](./assets/screenshots-all.png)
 
 ![Quick RSS 截图 1](./assets/screenshots-1.png)
 

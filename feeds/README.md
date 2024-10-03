@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Nginx UI：轻松管理您的 Nginx 服务器的开源网页界面](https://wangchujiang.com/quick-rss/issue/39.html) 
+
+![](https://github.com/user-attachments/assets/db83fa88-6670-4683-a7b2-3784184cd03a)
+
+Nginx UI 是一个功能强大的 Nginx 网页管理界面 具有以下特点： 在线统计：实时监控服务器指标，包括 CPU 使用率、内存使用率、负载平均值和磁盘使用情况。 在线 ChatGPT 助手：提供即时帮助。 一键部署和自动续期的 Let’s Encrypt 证书：简化 SSL 证书管理。 在线配置编辑：使用自定义的 NgxConfigEditor（用户友好的块编辑器）或 Ace 代码编辑器（ ([#39](https://github.com/jaywcjlove/quick-rss/issues/39) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [轻松释放存储空间：使用 NPKILL 一键清理过时的 node_modules 文件夹](https://wangchujiang.com/quick-rss/issue/38.html) 
 
 ![](https://github.com/user-attachments/assets/41b0ea83-c684-4be4-9798-3b7476c630a5)

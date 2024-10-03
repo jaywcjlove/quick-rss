@@ -1,5 +1,19 @@
 [
   {
+    "id": "40",
+    "url": "https://wangchujiang.com/quick-rss/issue/40.html",
+    "title": "Mythic：在 Mac 上玩 Windows 游戏的最佳方式，一个开源的 macOS 游戏启动器",
+    "content_html": "<p>Mythic 是一个开源的 macOS 游戏启动器，旨在通过我们对苹果游戏移植工具的实现来支持多种启动器，让您轻松玩 Windows 游戏。</p>\n<p><img src=\"https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb\" alt=\"image\"></p>\n<h3>在 Mac 上游戏从未如此简单</h3>\n<p>是时候抛弃所有虚拟机、Wine 和订阅服务了。</p>\n<h3>导入您自己的游戏</h3>\n<p><img src=\"https://github.com/user-attachments/assets/1a369693-7f3c-4aa4-87c9-a63b7ecf2c51\" alt=\"image\"></p>\n<p>觉得 Epic 不够？直接将您的 macOS 或 Windows® 游戏导入 Mythic，其余的交给我们。</p>\n<h3>多个启动器，一站式管理</h3>\n<p><img src=\"https://github.com/user-attachments/assets/91beb868-0d41-4cda-9abe-4c080dd3b120\" alt=\"image\"></p>\n<p>从外部启动器、Epic 或自行安装，轻松设置和启动所有游戏。</p>\n<h3>虚拟化您的游戏环境</h3>\n<p><img src=\"https://github.com/user-attachments/assets/500f32b0-be5a-46c1-85a2-bd1ddfc7a2dd\" alt=\"image\"></p>\n<p>在 Mythic 中创建多个 Windows® 环境，确保所有游戏安全隔离，互不干扰。</p>",
+    "summary": "Mythic 是一个开源的 macOS 游戏启动器，旨在通过我们对苹果游戏移植工具的实现来支持多种启动器，让您轻松玩 Windows 游戏。 ### 在 Mac 上游戏从未如此简单 是时候抛弃所有虚拟机、Wine 和订阅服务了。 ### 导入您自己的游戏 觉得 Epic 不够？直接将您的 macOS 或 Windows® 游戏导入 Mythic，其余的交给我们。 ### 多个启动器，一站式管理 从",
+    "banner_image": "https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb",
+    "date_published": "2024-10-03T21:37:22Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Mythic 是一个开源的 macOS 游戏启动器，旨在通过我们对苹果游戏移植工具的实现来支持多种启动器，让您轻松玩 Windows 游戏。\r\n\r\n![image](https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb)\r\n\r\n### 在 Mac 上游戏从未如此简单\r\n\r\n是时候抛弃所有虚拟机、Wine 和订阅服务了。\r\n\r\n### 导入您自己的游戏\r\n\r\n![image](https://github.com/user-attachments/assets/1a369693-7f3c-4aa4-87c9-a63b7ecf2c51)\r\n\r\n觉得 Epic 不够？直接将您的 macOS 或 Windows® 游戏导入 Mythic，其余的交给我们。\r\n\r\n### 多个启动器，一站式管理\r\n\r\n![image](https://github.com/user-attachments/assets/91beb868-0d41-4cda-9abe-4c080dd3b120)\r\n\r\n从外部启动器、Epic 或自行安装，轻松设置和启动所有游戏。\r\n\r\n### 虚拟化您的游戏环境\r\n\r\n![image](https://github.com/user-attachments/assets/500f32b0-be5a-46c1-85a2-bd1ddfc7a2dd)\r\n\r\n在 Mythic 中创建多个 Windows® 环境，确保所有游戏安全隔离，互不干扰。"
+  },
+  {
     "id": "39",
     "url": "https://wangchujiang.com/quick-rss/issue/39.html",
     "title": "Nginx UI：轻松管理您的 Nginx 服务器的开源网页界面",

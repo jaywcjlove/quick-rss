@@ -65,6 +65,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Mythic：在 Mac 上玩 Windows 游戏的最佳方式，一个开源的 macOS 游戏启动器](https://wangchujiang.com/quick-rss/issue/40.html) 
+
+![](https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb)
+
+Mythic 是一个开源的 macOS 游戏启动器，旨在通过我们对苹果游戏移植工具的实现来支持多种启动器，让您轻松玩 Windows 游戏。 在 Mac 上游戏从未如此简单 是时候抛弃所有虚拟机、Wine 和订阅服务了。 导入您自己的游戏 觉得 Epic 不够？直接将您的 macOS 或 Windows® 游戏导入 Mythic，其余的交给我们。 多个启动器，一站式管理 从外部启动器、Epic 或 ([#40](https://github.com/jaywcjlove/quick-rss/issues/40) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Nginx UI：轻松管理您的 Nginx 服务器的开源网页界面](https://wangchujiang.com/quick-rss/issue/39.html) 
 
 ![](https://github.com/user-attachments/assets/db83fa88-6670-4683-a7b2-3784184cd03a)

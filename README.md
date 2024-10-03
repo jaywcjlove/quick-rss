@@ -51,6 +51,8 @@ Quick RSS is ideal for anyone looking to efficiently access the latest news, esp
 
 Download Quick RSS today and bring a brand new RSS reading experience to your macOS. Whether tracking personal interests or staying on top of industry news, Quick RSS will become your go-to tool for managing subscriptions.
 
+<br /><br /><br />
+
 RSS Feed
 ===
 <!--rehype:style=text-align: center;-->

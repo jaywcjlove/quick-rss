@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Thu, 03 Oct 2024 11:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 21:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,32 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mythic：在 Mac 上玩 Windows 游戏的最佳方式，一个开源的 macOS 游戏启动器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/40.html</link>
+            <guid>40</guid>
+            <pubDate>Thu, 03 Oct 2024 21:37:22 GMT</pubDate>
+            <description><![CDATA[Mythic 是一个开源的 macOS 游戏启动器，旨在通过我们对苹果游戏移植工具的实现来支持多种启动器，让您轻松玩 Windows 游戏。 在 Mac 上游戏从未如此简单 是时候抛弃所有虚拟机、Wine 和订阅服务了。 导入您自己的游戏 觉得 Epic 不够？直接将您的 macOS 或 Windows® 游戏导入 Mythic，其余的交给我们。 多个启动器，一站式管理 从外部启动器、Epic 或]]></description>
+            <content:encoded><![CDATA[<p>Mythic 是一个开源的 macOS 游戏启动器，旨在通过我们对苹果游戏移植工具的实现来支持多种启动器，让您轻松玩 Windows 游戏。</p>
+<p><img src="https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb" alt="image"></p>
+<h3>在 Mac 上游戏从未如此简单</h3>
+<p>是时候抛弃所有虚拟机、Wine 和订阅服务了。</p>
+<h3>导入您自己的游戏</h3>
+<p><img src="https://github.com/user-attachments/assets/1a369693-7f3c-4aa4-87c9-a63b7ecf2c51" alt="image"></p>
+<p>觉得 Epic 不够？直接将您的 macOS 或 Windows® 游戏导入 Mythic，其余的交给我们。</p>
+<h3>多个启动器，一站式管理</h3>
+<p><img src="https://github.com/user-attachments/assets/91beb868-0d41-4cda-9abe-4c080dd3b120" alt="image"></p>
+<p>从外部启动器、Epic 或自行安装，轻松设置和启动所有游戏。</p>
+<h3>虚拟化您的游戏环境</h3>
+<p><img src="https://github.com/user-attachments/assets/500f32b0-be5a-46c1-85a2-bd1ddfc7a2dd" alt="image"></p>
+<p>在 Mythic 中创建多个 Windows® 环境，确保所有游戏安全隔离，互不干扰。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/40" target="_blank">#40</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb" length="0" type="image//user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb"/>
+        </item>
         <item>
             <title><![CDATA[Nginx UI：轻松管理您的 Nginx 服务器的开源网页界面]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/39.html</link>

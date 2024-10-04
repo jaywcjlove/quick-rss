@@ -63,6 +63,9 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SwiftUI 的协调器父级的好奇案例](https://wangchujiang.com/quick-rss/issue/41.html) 
+
+我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到了一个有趣的问题，我敢打赌我不是唯一一个。 问题 当我学习一个新的 API 时，我喜欢从一个新的项目开始。这可以帮助我专注于任务，避免与更大项目集成时的复杂性。 ([#41](https://github.com/jaywcjlove/quick-rss/issues/41) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Mythic：在 Mac 上玩 Windows 游戏的最佳方式，一个开源的 macOS 游戏启动器](https://wangchujiang.com/quick-rss/issue/40.html) 
 
 ![](https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb)

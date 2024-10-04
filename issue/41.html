@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SwiftUI 的协调器父级的好奇案例 Quick RSS</title>
+    <meta name="description" content="我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/41.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - 我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到">
+    <meta property="twitter:description" content="我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.33.2">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.33.2">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.33.2">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.33.2">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.33.2">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.33.2">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.33.2"></script>
+    <script src="../js/dark-mode.js?v=1.33.2"></script>
+    <script src="../js/markdown-style.js?v=1.33.2"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="swiftui-的协调器父级的好奇案例"><a aria-hidden="true" tabindex="-1" href="#swiftui-的协调器父级的好奇案例" class="anchor"><span class="icon icon-link"></span></a>SwiftUI 的协调器父级的好奇案例</h1>
+        <p>我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到了一个有趣的问题，我敢打赌我不是唯一一个。</p>
+        <h3 id="问题"><a aria-hidden="true" tabindex="-1" href="#问题" class="anchor"><span class="icon icon-link"></span></a>问题</h3>
+        <p>当我学习一个新的 API 时，我喜欢从一个新的项目开始。这可以帮助我专注于任务，避免与更大项目集成时的复杂性。我的目标是将 <code>NSTableView</code> 包装起来，并将其嵌入到 SwiftUI 的视图层次结构中。所以，我创建了一个新项目，并根据苹果的 SwiftUI 教程 <a href="https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit">Interfacing with UIKit</a> 进行操作，按照需要将其适配为 AppKit 和我的问题。</p>
+        <p>我感觉挺不错的，因为我很快就实现了基本功能。这个实现遵循了 <code>View</code>-<code>NSView</code>-<code>Coordinator</code> 的模式，结构在仔细研究之后很容易理解。</p>
+        <p>以下是我编写的代码：</p>
+        <pre class="language-swift"><code class="language-swift code-highlight"><span class="code-line line-number" line="1"><span class="token keyword">struct</span> <span class="token class-name">EventsTableView</span><span class="token punctuation">:</span> <span class="token class-name">NSViewRepresentable</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="2">    <span class="token keyword">var</span> events<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">String</span><span class="token punctuation">]</span>
+</span><span class="code-line line-number" line="3">
+</span><span class="code-line line-number" line="4">    <span class="token keyword">func</span> <span class="token function-definition function">makeCoordinator</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">Coordinator</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="5">        <span class="token class-name">Coordinator</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="6">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="7">
+</span><span class="code-line line-number" line="8">    <span class="token keyword">func</span> <span class="token function-definition function">makeNSView</span><span class="token punctuation">(</span>context<span class="token punctuation">:</span> <span class="token class-name">Context</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">NSScrollView</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="9">        <span class="token keyword">let</span> column <span class="token operator">=</span> <span class="token class-name">NSTableColumn</span><span class="token punctuation">(</span>identifier<span class="token punctuation">:</span> <span class="token punctuation">.</span>exampleColumn<span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="10">        column<span class="token punctuation">.</span>width <span class="token operator">=</span> <span class="token number">100.0</span>
+</span><span class="code-line line-number" line="11">
+</span><span class="code-line line-number" line="12">        <span class="token keyword">let</span> tableView <span class="token operator">=</span> <span class="token class-name">NSTableView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="13">
+</span><span class="code-line line-number" line="14">        tableView<span class="token punctuation">.</span>headerView <span class="token operator">=</span> <span class="token nil constant">nil</span>
+</span><span class="code-line line-number" line="15">        tableView<span class="token punctuation">.</span><span class="token function">addTableColumn</span><span class="token punctuation">(</span>column<span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="16">        tableView<span class="token punctuation">.</span>delegate <span class="token operator">=</span> context<span class="token punctuation">.</span>coordinator
+</span><span class="code-line line-number" line="17">        tableView<span class="token punctuation">.</span>dataSource <span class="token operator">=</span> context<span class="token punctuation">.</span>coordinator
+</span><span class="code-line line-number" line="18">
+</span><span class="code-line line-number" line="19">        <span class="token keyword">let</span> view <span class="token operator">=</span> <span class="token class-name">NSScrollView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="20">
+</span><span class="code-line line-number" line="21">        view<span class="token punctuation">.</span>documentView <span class="token operator">=</span> tableView
+</span><span class="code-line line-number" line="22">
+</span><span class="code-line line-number" line="23">        <span class="token keyword">return</span> view
+</span><span class="code-line line-number" line="24">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="25">
+</span><span class="code-line line-number" line="26">    <span class="token keyword">func</span> <span class="token function-definition function">updateNSView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> nsView<span class="token punctuation">:</span> <span class="token class-name">NSScrollView</span><span class="token punctuation">,</span> context<span class="token punctuation">:</span> <span class="token class-name">Context</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="27">        <span class="token keyword">let</span> tableView <span class="token operator">=</span> nsView<span class="token punctuation">.</span>documentView <span class="token keyword">as</span><span class="token operator">!</span> <span class="token class-name">NSTableView</span>
+</span><span class="code-line line-number" line="28">
+</span><span class="code-line line-number" line="29">        tableView<span class="token punctuation">.</span><span class="token function">reloadData</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="30">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="31"><span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="32">
+</span><span class="code-line line-number" line="33"><span class="token keyword">extension</span> <span class="token class-name">EventsTableView</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="34">    <span class="token keyword">final</span> <span class="token keyword">class</span> <span class="token class-name">Coordinator</span><span class="token punctuation">:</span> <span class="token class-name">NSObject</span><span class="token punctuation">,</span> <span class="token class-name">NSTableViewDataSource</span><span class="token punctuation">,</span> <span class="token class-name">NSTableViewDelegate</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="35">        <span class="token keyword">var</span> parent<span class="token punctuation">:</span> <span class="token class-name">EventsTableView</span>
+</span><span class="code-line line-number" line="36">
+</span><span class="code-line line-number" line="37">        <span class="token keyword">init</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> parent<span class="token punctuation">:</span> <span class="token class-name">EventsTableView</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="38">            <span class="token keyword">self</span><span class="token punctuation">.</span>parent <span class="token operator">=</span> parent
+</span><span class="code-line line-number" line="39">        <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="40">
+</span><span class="code-line line-number" line="41">        <span class="token keyword">func</span> <span class="token function-definition function">numberOfRows</span><span class="token punctuation">(</span><span class="token keyword">in</span> tableView<span class="token punctuation">:</span> <span class="token class-name">NSTableView</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">Int</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="42">            <span class="token keyword">return</span> parent<span class="token punctuation">.</span>events<span class="token punctuation">.</span>count
+</span><span class="code-line line-number" line="43">        <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="44">
+</span><span class="code-line line-number" line="45">        <span class="token keyword">func</span> <span class="token function-definition function">tableView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> tableView<span class="token punctuation">:</span> <span class="token class-name">NSTableView</span><span class="token punctuation">,</span> viewFor tableColumn<span class="token punctuation">:</span> <span class="token class-name">NSTableColumn</span><span class="token operator">?</span><span class="token punctuation">,</span> row<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">NSView</span><span class="token operator">?</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="46">            <span class="token keyword">let</span> reusedView <span class="token operator">=</span> tableView<span class="token punctuation">.</span><span class="token function">makeView</span><span class="token punctuation">(</span>withIdentifier<span class="token punctuation">:</span> <span class="token punctuation">.</span>exampleColumn<span class="token punctuation">,</span> owner<span class="token punctuation">:</span> <span class="token keyword">self</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="47">            <span class="token keyword">let</span> view <span class="token operator">=</span> reusedView <span class="token keyword">as</span><span class="token operator">?</span> <span class="token class-name">NSTextField</span> <span class="token operator">??</span> <span class="token class-name">NSTextField</span><span class="token punctuation">(</span>labelWithString<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">""</span></span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="48">
+</span><span class="code-line line-number" line="49">            view<span class="token punctuation">.</span>stringValue <span class="token operator">=</span> parent<span class="token punctuation">.</span>events<span class="token punctuation">[</span>row<span class="token punctuation">]</span>
+</span><span class="code-line line-number" line="50">
+</span><span class="code-line line-number" line="51">            <span class="token keyword">return</span> view
+</span><span class="code-line line-number" line="52">        <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="53">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="54"><span class="token punctuation">}</span>
+</span></code><input type="hidden" value="struct EventsTableView: NSViewRepresentable {
+    var events: [String]
+
+    func makeCoordinator() -> Coordinator {
+        Coordinator(self)
+    }
+
+    func makeNSView(context: Context) -> NSScrollView {
+        let column = NSTableColumn(identifier: .exampleColumn)
+        column.width = 100.0
+
+        let tableView = NSTableView()
+
+        tableView.headerView = nil
+        tableView.addTableColumn(column)
+        tableView.delegate = context.coordinator
+        tableView.dataSource = context.coordinator
+
+        let view = NSScrollView()
+
+        view.documentView = tableView
+
+        return view
+    }
+
+    func updateNSView(_ nsView: NSScrollView, context: Context) {
+        let tableView = nsView.documentView as! NSTableView
+
+        tableView.reloadData()
+    }
+}
+
+extension EventsTableView {
+    final class Coordinator: NSObject, NSTableViewDataSource, NSTableViewDelegate {
+        var parent: EventsTableView
+
+        init(_ parent: EventsTableView) {
+            self.parent = parent
+        }
+
+        func numberOfRows(in tableView: NSTableView) -> Int {
+            return parent.events.count
+        }
+
+        func tableView(_ tableView: NSTableView, viewFor tableColumn: NSTableColumn?, row: Int) -> NSView? {
+            let reusedView = tableView.makeView(withIdentifier: .exampleColumn, owner: self)
+            let view = reusedView as? NSTextField ?? NSTextField(labelWithString: &#x22;&#x22;)
+
+            view.stringValue = parent.events[row]
+
+            return view
+        }
+    }
+}
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+        <p>我之前提到一切都在正常运行。但是，当我进一步实验时，很快发现即使我在更新时重新加载表视图，其内容也始终没有变化。</p>
+        <p>当然，事后看来，问题显而易见。你可能已经注意到了。如果没有发现，也别感到糟糕，因为我花了不少时间调试和思考，才完全明白问题出在哪里。</p>
+        <h3 id="父级"><a aria-hidden="true" tabindex="-1" href="#父级" class="anchor"><span class="icon icon-link"></span></a>父级？</h3>
+        <p>SwiftUI 的互操作性围绕着一个包装视图 <code>EventsTableView</code> 及其协调器 <code>Coordinator</code> 展开。这个协调器实例会在视图需要更改时作为上下文传递回去。包装视图和协调器之间的这种关系至关重要，理解它们的生命周期关系也同样重要。</p>
+        <p>SwiftUI 的视图在正常执行期间会非常频繁地被重新创建，这很正常。但你的协调器实例只会创建一次，并尽可能地被重用。这其实是非常标准的值类型/引用类型的行为。当协调器将包装视图作为初始化参数时，它会拷贝那个视图的第一次实例化的版本。而当 SwiftUI 包装视图被重新创建时，这个拷贝并不会更新。</p>
+        <p>我的问题在于，<code>Coordinator</code> 创建时，父级属性及其相关事件只被复制了一次，然后就再也没有更新过。当我意识到这一点时，我觉得自己有点蠢。视图是值类型，当然它不会更新！但我也不想对自己太苛刻，因为这种协调器捕获父级视图的模式非常普遍。许多关于这一主题的博客文章中都存在这种模式。包括苹果的（表面上是权威的）<a href="https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit">教程</a>，都使用了这种父级模式。我猜这就是问题的根源。</p>
+        <h3 id="捕获属性"><a aria-hidden="true" tabindex="-1" href="#捕获属性" class="anchor"><span class="icon icon-link"></span></a>捕获属性</h3>
+        <p>在我的案例中，解决方案其实很简单。关键是要在协调器实例中捕获并更新数据。</p>
+        <pre class="language-swift"><code class="language-swift code-highlight"><span class="code-line line-number" line="1"><span class="token keyword">struct</span> <span class="token class-name">EventsTableView</span><span class="token punctuation">:</span> <span class="token class-name">NSViewRepresentable</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="2">    <span class="token keyword">var</span> events<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">String</span><span class="token punctuation">]</span>
+</span><span class="code-line line-number" line="3">
+</span><span class="code-line line-number" line="4">    <span class="token keyword">func</span> <span class="token function-definition function">makeCoordinator</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">Coordinator</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="5">        <span class="token class-name">Coordinator</span><span class="token punctuation">(</span>events<span class="token punctuation">:</span> events<span class="token punctuation">)</span> <span class="token comment">// &#x3C;- 这里！</span>
+</span><span class="code-line line-number" line="6">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="7">
+</span><span class="code-line line-number" line="8">    <span class="token comment">// 省略部分代码...</span>
+</span><span class="code-line line-number" line="9">
+</span><span class="code-line line-number" line="10">    <span class="token keyword">func</span> <span class="token function-definition function">updateNSView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> nsView<span class="token punctuation">:</span> <span class="token class-name">NSScrollView</span><span class="token punctuation">,</span> context<span class="token punctuation">:</span> <span class="token class-name">Context</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="11">        context<span class="token punctuation">.</span>coordinator<span class="token punctuation">.</span>events <span class="token operator">=</span> events <span class="token comment">// &#x3C;- 这里也是！</span>
+</span><span class="code-line line-number" line="12">
+</span><span class="code-line line-number" line="13">        <span class="token keyword">let</span> tableView <span class="token operator">=</span> nsView<span class="token punctuation">.</span>documentView <span class="token keyword">as</span><span class="token operator">!</span> <span class="token class-name">NSTableView</span>
+</span><span class="code-line line-number" line="14">        tableView<span class="token punctuation">.</span><span class="token function">reloadData</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="15">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="16"><span class="token punctuation">}</span>
+</span></code><input type="hidden" value="struct EventsTableView: NSViewRepresentable {
+    var events: [String]
+
+    func makeCoordinator() -> Coordinator {
+        Coordinator(events: events) // <- 这里！
+    }
+
+    // 省略部分代码...
+
+    func updateNSView(_ nsView: NSScrollView, context: Context) {
+        context.coordinator.events = events // <- 这里也是！
+
+        let tableView = nsView.documentView as! NSTableView
+        tableView.reloadData()
+    }
+}
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+        <p>当我完全意识到协调器实例是长期存在的时，捕获父视图就毫无意义了。但是，它确实让我误以为我有一个引用类型的关系，而这种关系是可行的。如果这个属性被称为 <code>firstParent</code> 或者 <code>creatingView</code>，也许我就不会犯这个错误了。</p>
+        <h3 id="永远不要捕获父视图"><a aria-hidden="true" tabindex="-1" href="#永远不要捕获父视图" class="anchor"><span class="icon icon-link"></span></a>永远不要捕获父视图</h3>
+        <p>经历了这一切后，我不确定是否能想到任何一个你需要捕获 <code>Coordinator</code> 创建视图副本的理由。如果你知道这种父视图-协调器模式可能有用的原因，请告诉我。不过即便有一些合适的场景，我仍然认为这种模式太容易让人困惑，就像我一样，因此最好还是避免使用。</p>
+        <p>👉 <a href="https://www.massicotte.org/swiftui-coordinator-parent">https://www.massicotte.org/swiftui-coordinator-parent</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://www.massicotte.org/swiftui-coordinator-parent" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/41" target="_blank">#41</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.33.2"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.33.2
+    </div>
+    <script src="../js/tocbot.js?v=1.33.2"></script>
+  </body>
+</html>

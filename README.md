@@ -65,6 +65,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MIST: 一款强大的 macOS 固件与安装包下载工具](https://wangchujiang.com/quick-rss/issue/42.html) 
+
+![](https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8)
+
+MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。 MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 .app、.dmg、.iso 等格式，适用于虚拟化软件，还可以生成 macOS 安装 ([#42](https://github.com/jaywcjlove/quick-rss/issues/42) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SwiftUI 的协调器父级的好奇案例](https://wangchujiang.com/quick-rss/issue/41.html) 
 
 我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到了一个有趣的问题，我敢打赌我不是唯一一个。 问题 当我学习一个新的 API 时，我喜欢从一个新的项目开始。这可以帮助我专注于任务，避免与更大项目集成时的复杂性。 ([#41](https://github.com/jaywcjlove/quick-rss/issues/41) - [@jaywcjlove](https://github.com/jaywcjlove))

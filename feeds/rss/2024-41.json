@@ -1,0 +1,16 @@
+[
+  {
+    "id": "42",
+    "url": "https://wangchujiang.com/quick-rss/issue/42.html",
+    "title": "MIST: 一款强大的 macOS 固件与安装包下载工具",
+    "content_html": "<p>MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8\" alt=\"\"></p>\n<p>MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 <code>.app</code>、<code>.dmg</code>、<code>.iso</code> 等格式，适用于虚拟化软件，还可以生成 macOS 安装包（.pkg）。此外，它支持自定义软件更新目录，缓存下载，并提供自动重试失败的下载操作。</p>",
+    "summary": "MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。 MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 `.app`、`.dmg`、`.iso` 等格式，适用于虚拟化软件，还可以生成 ma",
+    "banner_image": "https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8",
+    "date_published": "2024-10-06T15:03:37Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。\r\n\r\n![](https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8)\r\n\r\nMIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 `.app`、`.dmg`、`.iso` 等格式，适用于虚拟化软件，还可以生成 macOS 安装包（.pkg）。此外，它支持自定义软件更新目录，缓存下载，并提供自动重试失败的下载操作。"
+  }
+]

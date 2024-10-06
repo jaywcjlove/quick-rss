@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-10-04T22:15:35.406Z</updated>
+    <updated>2024-10-06T15:04:15.990Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[MIST: 一款强大的 macOS 固件与安装包下载工具]]></title>
+        <id>42</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/42.html"/>
+        <updated>2024-10-06T15:03:37.000Z</updated>
+        <summary type="html"><![CDATA[MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。 MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 .app、.dmg、.iso 等格式，适用于虚拟化软件，还可以生成 macOS 安装]]></summary>
+        <content type="html"><![CDATA[<p>MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。</p>
+<p><img src="https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8" alt=""></p>
+<p>MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 <code>.app</code>、<code>.dmg</code>、<code>.iso</code> 等格式，适用于虚拟化软件，还可以生成 macOS 安装包（.pkg）。此外，它支持自定义软件更新目录，缓存下载，并提供自动重试失败的下载操作。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/42" target="_blank">#42</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SwiftUI 的协调器父级的好奇案例]]></title>
         <id>41</id>

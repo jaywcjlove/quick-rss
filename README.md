@@ -65,6 +65,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [PasteQuick：您的隐私专注剪贴板管理工具](https://wangchujiang.com/quick-rss/issue/43.html) 
+
+![](https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258)
+
+在快节奏的数字世界中，高效管理临时数据至关重要。PasteQuick 是一款简单而强大的剪贴板管理工具，专注于隐私保护，帮助您轻松管理文本、链接、图片和代码等各种数据。 主要功能： 隐私保护：PasteQuick 优先考虑您的安全，所有剪贴板历史记录均存储在您的设备本地。您还可以选择排除特定应用程序的记录，确保您的数据始终保持私密和安全。 多媒体预览：该工具支持图片缩略图预览，允许您快速查看复制的 ([#43](https://github.com/jaywcjlove/quick-rss/issues/43) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MIST: 一款强大的 macOS 固件与安装包下载工具](https://wangchujiang.com/quick-rss/issue/42.html) 
 
 ![](https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8)

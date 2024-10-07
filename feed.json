@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "43",
+            "content_html": "<p>在快节奏的数字世界中，高效管理临时数据至关重要。<strong>PasteQuick</strong> 是一款简单而强大的剪贴板管理工具，专注于隐私保护，帮助您轻松管理文本、链接、图片和代码等各种数据。</p>\n<h3>主要功能：</h3>\n<p><strong>隐私保护</strong>：PasteQuick 优先考虑您的安全，所有剪贴板历史记录均存储在您的设备本地。您还可以选择排除特定应用程序的记录，确保您的数据始终保持私密和安全。</p>\n<p><img src=\"https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258\" alt=\"screenshots-1-cn\"></p>\n<p><strong>多媒体预览</strong>：该工具支持图片缩略图预览，允许您快速查看复制的图片，无需打开其他应用程序。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7d088189-63b7-465a-982e-0a9488c4a71e\" alt=\"screenshots-2-cn\"></p>\n<p><strong>自定义选项</strong>：通过可自定义的列表显示设置，您可以根据需要选择隐藏或显示特定内容，使其适应不同的使用场景。</p>\n<p><img src=\"https://github.com/user-attachments/assets/addc1683-4c1c-4601-89bb-d95dfad382a9\" alt=\"screenshots-3-cn\"></p>\n<p>PasteQuick 还在不断优化和开发中，旨在为您的日常工作带来更多便利。我们非常欢迎您的宝贵反馈和建议，帮助我们进一步完善应用！</p>\n<p>体验 PasteQuick，让您的剪贴板管理更加高效！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/43\" target=\"_blank\">#43</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/43.html",
+            "title": "PasteQuick：您的隐私专注剪贴板管理工具",
+            "summary": "在快节奏的数字世界中，高效管理临时数据至关重要。PasteQuick 是一款简单而强大的剪贴板管理工具，专注于隐私保护，帮助您轻松管理文本、链接、图片和代码等各种数据。 主要功能： 隐私保护：PasteQuick 优先考虑您的安全，所有剪贴板历史记录均存储在您的设备本地。您还可以选择排除特定应用程序的记录，确保您的数据始终保持私密和安全。 多媒体预览：该工具支持图片缩略图预览，允许您快速查看复制的",
+            "image": "https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258",
+            "date_modified": "2024-10-07T22:40:18.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "42",
             "content_html": "<p>MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8\" alt=\"\"></p>\n<p>MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 <code>.app</code>、<code>.dmg</code>、<code>.iso</code> 等格式，适用于虚拟化软件，还可以生成 macOS 安装包（.pkg）。此外，它支持自定义软件更新目录，缓存下载，并提供自动重试失败的下载操作。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/42\" target=\"_blank\">#42</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/42.html",

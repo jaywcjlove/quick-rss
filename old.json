@@ -1,5 +1,19 @@
 [
   {
+    "id": "43",
+    "url": "https://wangchujiang.com/quick-rss/issue/43.html",
+    "title": "PasteQuick：您的隐私专注剪贴板管理工具",
+    "content_html": "<p>在快节奏的数字世界中，高效管理临时数据至关重要。<strong>PasteQuick</strong> 是一款简单而强大的剪贴板管理工具，专注于隐私保护，帮助您轻松管理文本、链接、图片和代码等各种数据。</p>\n<h3>主要功能：</h3>\n<p><strong>隐私保护</strong>：PasteQuick 优先考虑您的安全，所有剪贴板历史记录均存储在您的设备本地。您还可以选择排除特定应用程序的记录，确保您的数据始终保持私密和安全。</p>\n<p><img src=\"https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258\" alt=\"screenshots-1-cn\"></p>\n<p><strong>多媒体预览</strong>：该工具支持图片缩略图预览，允许您快速查看复制的图片，无需打开其他应用程序。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7d088189-63b7-465a-982e-0a9488c4a71e\" alt=\"screenshots-2-cn\"></p>\n<p><strong>自定义选项</strong>：通过可自定义的列表显示设置，您可以根据需要选择隐藏或显示特定内容，使其适应不同的使用场景。</p>\n<p><img src=\"https://github.com/user-attachments/assets/addc1683-4c1c-4601-89bb-d95dfad382a9\" alt=\"screenshots-3-cn\"></p>\n<p>PasteQuick 还在不断优化和开发中，旨在为您的日常工作带来更多便利。我们非常欢迎您的宝贵反馈和建议，帮助我们进一步完善应用！</p>\n<p>体验 PasteQuick，让您的剪贴板管理更加高效！</p>",
+    "summary": "在快节奏的数字世界中，高效管理临时数据至关重要。**PasteQuick** 是一款简单而强大的剪贴板管理工具，专注于隐私保护，帮助您轻松管理文本、链接、图片和代码等各种数据。 ### 主要功能： **隐私保护**：PasteQuick 优先考虑您的安全，所有剪贴板历史记录均存储在您的设备本地。您还可以选择排除特定应用程序的记录，确保您的数据始终保持私密和安全。 **多媒体预览**：该工具支持图片",
+    "banner_image": "https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258",
+    "date_published": "2024-10-07T22:40:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "在快节奏的数字世界中，高效管理临时数据至关重要。**PasteQuick** 是一款简单而强大的剪贴板管理工具，专注于隐私保护，帮助您轻松管理文本、链接、图片和代码等各种数据。\r\n\r\n### 主要功能：\r\n\r\n**隐私保护**：PasteQuick 优先考虑您的安全，所有剪贴板历史记录均存储在您的设备本地。您还可以选择排除特定应用程序的记录，确保您的数据始终保持私密和安全。\r\n\r\n![screenshots-1-cn](https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258)\r\n\r\n**多媒体预览**：该工具支持图片缩略图预览，允许您快速查看复制的图片，无需打开其他应用程序。\r\n\r\n![screenshots-2-cn](https://github.com/user-attachments/assets/7d088189-63b7-465a-982e-0a9488c4a71e)\r\n\r\n**自定义选项**：通过可自定义的列表显示设置，您可以根据需要选择隐藏或显示特定内容，使其适应不同的使用场景。\r\n\r\n![screenshots-3-cn](https://github.com/user-attachments/assets/addc1683-4c1c-4601-89bb-d95dfad382a9)\r\n\r\nPasteQuick 还在不断优化和开发中，旨在为您的日常工作带来更多便利。我们非常欢迎您的宝贵反馈和建议，帮助我们进一步完善应用！\r\n\r\n体验 PasteQuick，让您的剪贴板管理更加高效！"
+  },
+  {
     "id": "42",
     "url": "https://wangchujiang.com/quick-rss/issue/42.html",
     "title": "MIST: 一款强大的 macOS 固件与安装包下载工具",

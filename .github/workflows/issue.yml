@@ -55,7 +55,7 @@ jobs:
           # 获取当前分支名称
           CURRENT_BRANCH=$(echo ${GITHUB_REF#refs/heads/})
           git add .
-          git commit -m "Quick RSS Feed: $ISSUE_TITLE #$ISSUE_ID \\n\\n https://wangchujiang.com/quick-rss/issue/$ISSUE_ID.html"
+          git commit -m "Quick RSS Feed: $ISSUE_TITLE #$ISSUE_ID" -m "https://wangchujiang.com/quick-rss/issue/$ISSUE_ID.html"
           git push origin $CURRENT_BRANCH
 
       - name: Trigger Deploy

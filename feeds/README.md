@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Dokploy: 强大的开源自托管 PaaS 解决方案](https://wangchujiang.com/quick-rss/issue/44.html) 
+
+![](https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704)
+
+随着云计算和应用托管的普及，越来越多的开发者和团队需要简化应用程序和数据库的部署与管理。传统平台如 Vercel、Netlify 和 Heroku 提供了托管解决方案，但很多用户希望能够获得更多的灵活性和自主管理。Dokploy，作为一个免费、开源且自托管的 Platform as a Service (PaaS)，为此提供了理想的替代方案。 什么是 Dokploy？ Dokploy 是一个自托管 ([#44](https://github.com/jaywcjlove/quick-rss/issues/44) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [PasteQuick：您的隐私专注剪贴板管理工具](https://wangchujiang.com/quick-rss/issue/43.html) 
 
 ![](https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258)

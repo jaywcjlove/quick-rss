@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 07 Oct 2024 22:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 06:54:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,43 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dokploy: 强大的开源自托管 PaaS 解决方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/44.html</link>
+            <guid>44</guid>
+            <pubDate>Sun, 13 Oct 2024 06:53:24 GMT</pubDate>
+            <description><![CDATA[随着云计算和应用托管的普及，越来越多的开发者和团队需要简化应用程序和数据库的部署与管理。传统平台如 Vercel、Netlify 和 Heroku 提供了托管解决方案，但很多用户希望能够获得更多的灵活性和自主管理。Dokploy，作为一个免费、开源且自托管的 Platform as a Service (PaaS)，为此提供了理想的替代方案。 什么是 Dokploy？ Dokploy 是一个自托管]]></description>
+            <content:encoded><![CDATA[<p>随着云计算和应用托管的普及，越来越多的开发者和团队需要简化应用程序和数据库的部署与管理。传统平台如 Vercel、Netlify 和 Heroku 提供了托管解决方案，但很多用户希望能够获得更多的灵活性和自主管理。Dokploy，作为一个免费、开源且自托管的 Platform as a Service (PaaS)，为此提供了理想的替代方案。</p>
+<p><img src="https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704" alt="image"></p>
+<h3>什么是 Dokploy？</h3>
+<p>Dokploy 是一个自托管的 PaaS 平台，允许开发者轻松部署和管理多种类型的应用程序和数据库。它支持 Node.js、PHP、Python、Go、Ruby 等主流编程语言，并且为 MySQL、PostgreSQL、MongoDB、MariaDB、Redis 等数据库提供了便捷的管理工具。无论是小型应用程序，还是需要高扩展性的大型应用，Dokploy 都能够应对。</p>
+<p><img src="https://github.com/user-attachments/assets/bef89f97-4e4e-4c16-b53b-f1878e61c825" alt="image"></p>
+<h3>主要功能</h3>
+<ol>
+<li>应用程序部署：Dokploy 支持部署几乎所有类型的应用程序，开发者可以快速启动并运行。</li>
+<li>数据库管理：轻松创建和管理数据库，并自动化备份到外部存储。</li>
+<li>Docker Compose 支持：原生支持 Docker Compose，简化复杂应用程序的管理。</li>
+<li>多节点扩展：使用 Docker Swarm 进行多节点管理，让应用程序可以在多个服务器上扩展。</li>
+<li>Traefik 集成：自动与 Traefik 路由和负载均衡集成，无需手动配置。</li>
+<li>实时监控：用户可以实时监控 CPU、内存、存储、网络等资源的使用情况。</li>
+<li>CLI 和 API 管理：通过命令行或 API，用户可以灵活管理应用程序和数据库。</li>
+<li>通知系统：支持 Slack、Discord、Telegram 等工具，当部署成功或失败时，用户会实时收到通知。</li>
+</ol>
+<p><img src="https://github.com/user-attachments/assets/8c2609c3-71c6-48bc-9436-e77c238ab18c" alt="image"></p>
+<h3>为什么选择 Dokploy？</h3>
+<p>Dokploy 的亮点在于它的开源和自托管属性，这意味着用户可以完全掌控自己的基础设施。与 Vercel、Netlify 等受限于托管服务提供商的平台不同，Dokploy 允许用户在自己的 VPS 上部署，确保数据安全和灵活性。此外，Dokploy 的多节点支持和自动扩展功能，使其非常适合需要高可用性和横向扩展的项目。</p>
+<p><img src="https://github.com/user-attachments/assets/5619e504-0105-49c4-90c3-4e68fd168a2e" alt="image"></p>
+<p>对于需要管理复杂应用程序和数据库的开发者来说，Dokploy 提供了便捷而强大的功能集成，并且可以通过 Docker Compose 和 Docker Swarm 快速扩展和管理多节点集群。</p>
+<p><img src="https://github.com/user-attachments/assets/f6a4fde6-e22a-4591-8c55-f239ae0a321c" alt="image"></p>
+<h3>结语</h3>
+<p>如果你正在寻找一个可以替代 Vercel、Netlify 和 Heroku 的解决方案，同时希望拥有完全的控制权，Dokploy 是一个值得探索的开源工具。它不仅简化了应用程序的部署和管理，还提供了灵活的扩展和高度自定义的自托管功能，为开发者提供了前所未有的便利和自由。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/44" target="_blank">#44</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704" length="0" type="image//user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704"/>
+        </item>
         <item>
             <title><![CDATA[PasteQuick：您的隐私专注剪贴板管理工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/43.html</link>

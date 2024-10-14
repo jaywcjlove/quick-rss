@@ -65,6 +65,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [macmon：为 Apple Silicon 提供无须 sudo 的实时性能监控](https://wangchujiang.com/quick-rss/issue/46.html) 
+
+![](https://github.com/user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4)
+
+Apple Silicon 处理器以其出色的性能和能效广受欢迎，然而，想要查看设备的实时功耗、CPU/GPU 使用率等数据却不是一件简单的事情。大部分工具依赖 powermetrics 等系统命令，往往需要 sudo 权限运行。对于那些对硬件性能和系统资源高度敏感的用户来说，这显然不够方便。而现在，macmon 的出现为这一问题提供了优雅的解决方案。 brew install vladkens/t ([#46](https://github.com/jaywcjlove/quick-rss/issues/46) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Marta: 专为 macOS 打造的文件管理器](https://wangchujiang.com/quick-rss/issue/45.html) 
 
 ![](https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79)

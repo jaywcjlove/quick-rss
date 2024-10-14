@@ -63,6 +63,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Marta: 专为 macOS 打造的文件管理器](https://wangchujiang.com/quick-rss/issue/45.html) 
+
+![](https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79)
+
+Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。 隐私至上 Marta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。 强大的归档支持 Marta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR、ISO 等多种 ([#45](https://github.com/jaywcjlove/quick-rss/issues/45) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Dokploy: 强大的开源自托管 PaaS 解决方案](https://wangchujiang.com/quick-rss/issue/44.html) 
 
 ![](https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704)

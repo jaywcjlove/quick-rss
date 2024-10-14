@@ -1,5 +1,19 @@
 [
   {
+    "id": "45",
+    "url": "https://wangchujiang.com/quick-rss/issue/45.html",
+    "title": "Marta: 专为 macOS 打造的文件管理器",
+    "content_html": "<p>Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。</p>\n<p><img src=\"https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79\" alt=\"image\"></p>\n<h3>隐私至上</h3>\n<p>Marta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。</p>\n<h3>强大的归档支持</h3>\n<p><img src=\"https://github.com/user-attachments/assets/a025d26a-8493-43fa-be90-2f41d832db32\" alt=\"\"></p>\n<p>Marta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR、ISO 等多种格式，甚至可以浏览和编辑嵌套归档中的文件。</p>\n<h3>高度自定义</h3>\n<p>Marta 为高级用户设计，提供广泛的配置选项。通过简洁的 DSL 配置语言，轻松编辑和分享配置文件，无需在繁琐的选项卡中迷失。</p>\n<h3>主题支持</h3>\n<p><img src=\"https://github.com/user-attachments/assets/b6ebbd24-271c-48a0-8995-8f67c6d89f46\" alt=\"\"></p>\n<p>Marta 提供五种精美主题，支持浅色和深色模式，甚至还有经典的蓝底白字主题。你还可以根据个人喜好创建自己的主题。</p>\n<h3>插件 API</h3>\n<p>Marta 提供强大的 Lua API，让你可以快速编写插件，轻松适应你的个性化需求。</p>\n<p><img src=\"https://github.com/user-attachments/assets/422ae0bb-90b6-4657-b026-91f7e54c57a0\" alt=\"\"></p>\n<p>其他亮点功能：</p>\n<ul>\n<li>操作面板：快捷键 ⌘⇧P 打开操作面板，快速执行任何操作。</li>\n<li>快速搜索：使用子字符串或正则表达式，瞬间定位文件。</li>\n<li>系统全局文件搜索：借助 macOS 索引功能，快速找到任何文件。</li>\n<li>多窗口与标签页支持：随心所欲打开多个窗口和标签页。</li>\n<li>显示隐藏文件：按下快捷键，一键显示隐藏文件。</li>\n<li>文件预览：按空格键，像 Finder 一样快速预览文件。</li>\n<li>任务队列：管理所有正在进行的文件操作，随时暂停和恢复。</li>\n<li>磁盘使用分析：轻松找出磁盘空间的占用情况。</li>\n<li>内置终端：从文件面板直接打开同步目录的终端。</li>\n</ul>\n<p>无论是普通用户还是高级用户，Marta 都能为你提供极致的文件管理体验。立即下载，享受高效管理文件的乐趣！</p>",
+    "summary": "Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。 ### 隐私至上 Marta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。 ### 强大的归档支持 Marta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR",
+    "banner_image": "https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79",
+    "date_published": "2024-10-14T15:32:55Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。\r\n\r\n![image](https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79)\r\n\r\n### 隐私至上\r\n\r\nMarta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。\r\n\r\n### 强大的归档支持\r\n\r\n![](https://github.com/user-attachments/assets/a025d26a-8493-43fa-be90-2f41d832db32)\r\n\r\nMarta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR、ISO 等多种格式，甚至可以浏览和编辑嵌套归档中的文件。\r\n\r\n### 高度自定义\r\n\r\nMarta 为高级用户设计，提供广泛的配置选项。通过简洁的 DSL 配置语言，轻松编辑和分享配置文件，无需在繁琐的选项卡中迷失。\r\n\r\n### 主题支持\r\n\r\n![](https://github.com/user-attachments/assets/b6ebbd24-271c-48a0-8995-8f67c6d89f46)\r\n\r\nMarta 提供五种精美主题，支持浅色和深色模式，甚至还有经典的蓝底白字主题。你还可以根据个人喜好创建自己的主题。\r\n\r\n### 插件 API\r\n\r\nMarta 提供强大的 Lua API，让你可以快速编写插件，轻松适应你的个性化需求。\r\n\r\n![](https://github.com/user-attachments/assets/422ae0bb-90b6-4657-b026-91f7e54c57a0)\r\n\r\n其他亮点功能：\r\n\r\n- 操作面板：快捷键 ⌘⇧P 打开操作面板，快速执行任何操作。\r\n- 快速搜索：使用子字符串或正则表达式，瞬间定位文件。\r\n- 系统全局文件搜索：借助 macOS 索引功能，快速找到任何文件。\r\n- 多窗口与标签页支持：随心所欲打开多个窗口和标签页。\r\n- 显示隐藏文件：按下快捷键，一键显示隐藏文件。\r\n- 文件预览：按空格键，像 Finder 一样快速预览文件。\r\n- 任务队列：管理所有正在进行的文件操作，随时暂停和恢复。\r\n- 磁盘使用分析：轻松找出磁盘空间的占用情况。\r\n- 内置终端：从文件面板直接打开同步目录的终端。\r\n\r\n无论是普通用户还是高级用户，Marta 都能为你提供极致的文件管理体验。立即下载，享受高效管理文件的乐趣！"
+  },
+  {
     "id": "44",
     "url": "https://wangchujiang.com/quick-rss/issue/44.html",
     "title": "Dokploy: 强大的开源自托管 PaaS 解决方案",

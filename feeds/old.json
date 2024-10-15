@@ -1,5 +1,19 @@
 [
   {
+    "id": "47",
+    "url": "https://wangchujiang.com/quick-rss/issue/47.html",
+    "title": "Cork: 一款使用 SwiftUI 开发的快速 Homebrew 图形界面工具",
+    "content_html": "<p>Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。</p>\n<p><img src=\"https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212\" alt=\"\"></p>\n<h3>Cork 的优势</h3>\n<p>Cork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能：</p>\n<p><img src=\"https://github.com/user-attachments/assets/e1dbd4ab-70e0-44dd-ba13-2ab8f778f3b6\" alt=\"\"></p>\n<ol>\n<li>自动遵循系统代理设置</li>\n</ol>\n<p>在使用 Homebrew 时，Cork 可以自动遵循系统的代理设置，方便用户在受限网络环境中顺利使用。</p>\n<ol start=\"2\">\n<li>清除缓存的下载文件</li>\n</ol>\n<p>Cork 让清理 Homebrew 缓存变得更加简单，只需点击几下，便可以轻松释放磁盘空间。</p>\n<ol start=\"3\">\n<li>无需打开 Cork 即可通过菜单栏更新软件包</li>\n</ol>\n<p>用户可以直接在 macOS 菜单栏中进行 Homebrew 软件包的更新，而不必每次都启动 Cork 应用。</p>\n<ol start=\"4\">\n<li>集中查看包的详细信息</li>\n</ol>\n<p>Cork 将包的各种详细信息集中呈现，帮助用户在一个便捷的界面中快速了解软件包的状态和信息。</p>\n<ol start=\"5\">\n<li>软件包标签功能</li>\n</ol>\n<p>Cork 独有的软件包标记功能让用户可以对感兴趣或重要的软件包进行标记，方便日后跟踪和管理。</p>\n<h3>总结</h3>\n<p>Cork 不仅加速了 Homebrew 的操作，还带来了许多无法通过 Homebrew CLI 实现的便利功能。对于想要更好地管理软件包的 macOS 用户，Cork 是一个不可或缺的工具。</p>",
+    "summary": "Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。 ### Cork 的优势 Cork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能： 1. 自动遵循系统代理设置 在使用 Homebrew 时，Cork",
+    "banner_image": "https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212",
+    "date_published": "2024-10-15T06:57:24Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。\r\n\r\n![](https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212)\r\n\r\n### Cork 的优势\r\n\r\nCork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能：\r\n\r\n![](https://github.com/user-attachments/assets/e1dbd4ab-70e0-44dd-ba13-2ab8f778f3b6)\r\n\r\n1. 自动遵循系统代理设置\r\n\r\n在使用 Homebrew 时，Cork 可以自动遵循系统的代理设置，方便用户在受限网络环境中顺利使用。\r\n\r\n2. 清除缓存的下载文件\r\n\r\nCork 让清理 Homebrew 缓存变得更加简单，只需点击几下，便可以轻松释放磁盘空间。\r\n\r\n3. 无需打开 Cork 即可通过菜单栏更新软件包\r\n\r\n用户可以直接在 macOS 菜单栏中进行 Homebrew 软件包的更新，而不必每次都启动 Cork 应用。\r\n\r\n4. 集中查看包的详细信息\r\n\r\nCork 将包的各种详细信息集中呈现，帮助用户在一个便捷的界面中快速了解软件包的状态和信息。\r\n\r\n5. 软件包标签功能\r\n\r\nCork 独有的软件包标记功能让用户可以对感兴趣或重要的软件包进行标记，方便日后跟踪和管理。\r\n\r\n### 总结\r\n\r\nCork 不仅加速了 Homebrew 的操作，还带来了许多无法通过 Homebrew CLI 实现的便利功能。对于想要更好地管理软件包的 macOS 用户，Cork 是一个不可或缺的工具。"
+  },
+  {
     "id": "46",
     "url": "https://wangchujiang.com/quick-rss/issue/46.html",
     "title": "macmon：为 Apple Silicon 提供无须 sudo 的实时性能监控",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Cork: 一款使用 SwiftUI 开发的快速 Homebrew 图形界面工具](https://wangchujiang.com/quick-rss/issue/47.html) 
+
+![](https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212)
+
+Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。 Cork 的优势 Cork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能： 自动遵循系统代理设置 在使用 Homebrew 时，Cork 可以自动遵循 ([#47](https://github.com/jaywcjlove/quick-rss/issues/47) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [macmon：为 Apple Silicon 提供无须 sudo 的实时性能监控](https://wangchujiang.com/quick-rss/issue/46.html) 
 
 ![](https://github.com/user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4)

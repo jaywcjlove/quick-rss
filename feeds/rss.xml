@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Tue, 15 Oct 2024 06:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 09:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,41 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DeskPad: 一款用于屏幕共享的虚拟显示器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/48.html</link>
+            <guid>48</guid>
+            <pubDate>Fri, 18 Oct 2024 09:30:22 GMT</pubDate>
+            <description><![CDATA[在某些工作流程中，分享整个屏幕变得至关重要，尤其是在频繁切换多个应用时。然而，如果演示者的显示器比观众的显示器大得多，观众可能难以看清屏幕内容。DeskPad 正是为了解决这个问题而设计的，它可以创建一个虚拟显示器，并在应用程序窗口内进行镜像，帮助你建立一个专用的、易于共享的工作空间。 功能特点： 创建虚拟显示器： DeskPad 可像其他显示器一样工作。启动该应用程序相当于插入一台新显示器，ma]]></description>
+            <content:encoded><![CDATA[<p>在某些工作流程中，分享整个屏幕变得至关重要，尤其是在频繁切换多个应用时。然而，如果演示者的显示器比观众的显示器大得多，观众可能难以看清屏幕内容。DeskPad 正是为了解决这个问题而设计的，它可以创建一个虚拟显示器，并在应用程序窗口内进行镜像，帮助你建立一个专用的、易于共享的工作空间。</p>
+<p><img src="https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6" alt=""></p>
+<h3>功能特点：</h3>
+<ol>
+<li>创建虚拟显示器：</li>
+</ol>
+<p>DeskPad 可像其他显示器一样工作。启动该应用程序相当于插入一台新显示器，macOS 会自动处理窗口的排列和配置。无论你切换了多少个应用程序，你都可以轻松管理你的工作空间。</p>
+<ol start="2">
+<li>轻松调整分辨率：</li>
+</ol>
+<p>你可以通过系统偏好设置更改虚拟显示器的分辨率，DeskPad 的应用程序窗口会根据分辨率自动调整，以确保最佳显示效果。</p>
+<ol start="3">
+<li>视觉提示：</li>
+</ol>
+<p>当你的鼠标光标移动到虚拟显示器时，DeskPad 会通过蓝色高亮标题栏来提醒你，同时将应用窗口移到最前面，让你随时知道鼠标的具体位置。</p>
+<p><img src="https://github.com/user-attachments/assets/c9333d6c-e97e-4c86-9bf5-9d51d5392406" alt="1"></p>
+<h3>使用场景：</h3>
+<ul>
+<li>屏幕共享： 适用于需要演示多个应用程序或窗口的情况，DeskPad 提供了一个简洁、易于管理的虚拟显示器，确保观众可以清晰地看到所有内容。</li>
+<li>提高效率： 通过创建虚拟显示器，用户可以专注于重要的应用程序，而不会打乱现有的窗口配置，增强工作效率。</li>
+</ul>
+<p>DeskPad 是你进行高效屏幕共享的不二之选，无论是在会议、演示还是远程协作中，它都能让你的工作更加顺畅便捷。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/48" target="_blank">#48</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6" length="0" type="image//user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6"/>
+        </item>
         <item>
             <title><![CDATA[Cork: 一款使用 SwiftUI 开发的快速 Homebrew 图形界面工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/47.html</link>

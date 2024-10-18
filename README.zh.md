@@ -63,6 +63,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DeskPad: 一款用于屏幕共享的虚拟显示器](https://wangchujiang.com/quick-rss/issue/48.html) 
+
+![](https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6)
+
+在某些工作流程中，分享整个屏幕变得至关重要，尤其是在频繁切换多个应用时。然而，如果演示者的显示器比观众的显示器大得多，观众可能难以看清屏幕内容。DeskPad 正是为了解决这个问题而设计的，它可以创建一个虚拟显示器，并在应用程序窗口内进行镜像，帮助你建立一个专用的、易于共享的工作空间。 功能特点： 创建虚拟显示器： DeskPad 可像其他显示器一样工作。启动该应用程序相当于插入一台新显示器，ma ([#48](https://github.com/jaywcjlove/quick-rss/issues/48) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Cork: 一款使用 SwiftUI 开发的快速 Homebrew 图形界面工具](https://wangchujiang.com/quick-rss/issue/47.html) 
 
 ![](https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212)

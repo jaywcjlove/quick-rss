@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [FSNotes：现代化的 macOS 和 iOS Markdown 笔记管理器](https://wangchujiang.com/quick-rss/issue/49.html) 
+
+![](https://github.com/user-attachments/assets/24ecb8f3-d374-4b1d-918d-0e29660d9c67)
+
+在当今快节奏的工作和学习环境中，拥有一款轻量高效的笔记管理器至关重要。FSNotes 作为一款适用于 macOS 和 iOS 的现代笔记管理器，以其简洁强大的功能和灵活的使用体验脱颖而出，成为众多用户的首选工具。无论是开发者、作家还是学生，FSNotes 都能满足他们对笔记管理的需求。 FSNotes 的主要功能： 优先支持 Markdown FSNotes 专为 Markdown 爱好者设计，允 ([#49](https://github.com/jaywcjlove/quick-rss/issues/49) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DeskPad: 一款用于屏幕共享的虚拟显示器](https://wangchujiang.com/quick-rss/issue/48.html) 
 
 ![](https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6)

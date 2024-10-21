@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-10-20T05:00:40.676Z</updated>
+    <updated>2024-10-21T21:20:48.922Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,49 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Mythic：适用于 macOS 的开源游戏启动器]]></title>
+        <id>50</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/50.html"/>
+        <updated>2024-10-21T21:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Mythic 是一款独特的开源游戏启动器，专为 macOS 设计，能够运行 Windows 游戏。此外，它还是 Legendary 的图形用户界面前端，完美契合 macOS 的风格与一致性。 让 Windows 游戏在 Mac 上畅玩 Mythic 是最好的 Windows 游戏在 Mac 上运行的解决方案。它基于苹果的 Game Porting Toolkit 进行了自定义实现，支持多个平台，让]]></summary>
+        <content type="html"><![CDATA[<p>Mythic 是一款独特的开源游戏启动器，专为 macOS 设计，能够运行 Windows 游戏。此外，它还是 Legendary 的图形用户界面前端，完美契合 macOS 的风格与一致性。</p>
+<p><img src="https://github.com/user-attachments/assets/0d2d80c1-2b16-4490-90ff-55432071e789" alt="image"></p>
+<h3>让 Windows 游戏在 Mac 上畅玩</h3>
+<p>Mythic 是最好的 Windows 游戏在 Mac 上运行的解决方案。它基于苹果的 Game Porting Toolkit 进行了自定义实现，支持多个平台，让你轻松畅玩 Windows® 游戏。</p>
+<h3>你的游戏库，由你掌控</h3>
+<p><img src="https://github.com/user-attachments/assets/56d883e7-ef0f-4bc8-b31c-77087b0dd236" alt="image"></p>
+<p>Mythic 提供美观且可定制的游戏库界面，帮助你轻松管理所有游戏。无论是 Windows® 游戏还是 macOS 原生游戏，都可以整合到一个地方进行管理。</p>
+<h3>开源项目，人人参与</h3>
+<p><img src="https://github.com/user-attachments/assets/f42dd491-dbb2-4a69-86ca-53d91c3068e3" alt="image"></p>
+<p>Mythic 完全开源。如果你觉得某些功能还可以进一步优化，不妨深入代码，为这个项目贡献力量，共同让它变得更好。</p>
+<h3>多个启动器，一站式管理</h3>
+<p><img src="https://github.com/user-attachments/assets/ed1aeadf-00ca-4950-8199-aaf0fd6d7812" alt="image"></p>
+<p>你可以通过 Mythic 安装、设置和启动来自不同启动器的游戏，甚至可以直接通过外部启动器启动你的游戏，实现多平台管理。</p>
+<h3>自定义导入</h3>
+<p><img src="https://github.com/user-attachments/assets/497d9ab0-aee4-4d8a-96fc-633db82a681d" alt="image"></p>
+<p>Epic 游戏不够多？你可以直接将自己的 macOS 或 Windows® 游戏导入 Mythic，轻松管理。</p>
+<h3>简单高效的游戏管理</h3>
+<p><img src="https://github.com/user-attachments/assets/ce5c00bb-6b3b-43c5-9a16-0865fcf9a004" alt="image"></p>
+<p>需要移动游戏文件？想要修改设置或添加启动参数？Mythic 都能轻松满足你的需求，提供无缝的管理体验。</p>
+<h3>虚拟化？轻而易举</h3>
+<p><img src="https://github.com/user-attachments/assets/9c1d56bf-1283-4191-ba1d-ffebba81476b" alt="image"></p>
+<p>Mythic 还支持在应用内创建多个独立的 Windows® 环境。每个游戏都可以在一个独立的环境中运行，确保游戏之间互不干扰、安全隔离。</p>
+<p>通过 Mythic，让你在 macOS 上玩 Windows 游戏变得更加简单直观，无论是游戏管理还是运行环境设置，它都能为你提供最佳体验。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/50" target="_blank">#50</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FSNotes：现代化的 macOS 和 iOS Markdown 笔记管理器]]></title>
         <id>49</id>

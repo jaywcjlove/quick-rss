@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Mythic：适用于 macOS 的开源游戏启动器](https://wangchujiang.com/quick-rss/issue/50.html) 
+
+![](https://github.com/user-attachments/assets/0d2d80c1-2b16-4490-90ff-55432071e789)
+
+Mythic 是一款独特的开源游戏启动器，专为 macOS 设计，能够运行 Windows 游戏。此外，它还是 Legendary 的图形用户界面前端，完美契合 macOS 的风格与一致性。 让 Windows 游戏在 Mac 上畅玩 Mythic 是最好的 Windows 游戏在 Mac 上运行的解决方案。它基于苹果的 Game Porting Toolkit 进行了自定义实现，支持多个平台，让 ([#50](https://github.com/jaywcjlove/quick-rss/issues/50) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [FSNotes：现代化的 macOS 和 iOS Markdown 笔记管理器](https://wangchujiang.com/quick-rss/issue/49.html) 
 
 ![](https://github.com/user-attachments/assets/24ecb8f3-d374-4b1d-918d-0e29660d9c67)

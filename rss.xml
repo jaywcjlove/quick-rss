@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 21 Oct 2024 21:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 12:59:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,27 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CodeFormer：基于代码查找转换器的盲脸修复工具，专为老照片和破损照片修复设计]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/51.html</link>
+            <guid>51</guid>
+            <pubDate>Tue, 22 Oct 2024 12:59:23 GMT</pubDate>
+            <description><![CDATA[CodeFormer 是一款利用离散代码本先验的创新盲脸修复模型。通过在小型代理空间中学习的代码本，CodeFormer 大大减少了修复过程中常见的不确定性和模糊性。该模型将脸部修复问题转换为代码预测任务，提供了丰富的视觉组件，用于生成高质量的脸部图像。 CodeFormer 采用了基于转换器的预测网络，能够建模低质量脸部图像的全局组成和上下文信息，即使在输入严重退化的情况下，也能够重构出自然的脸]]></description>
+            <content:encoded><![CDATA[<p>CodeFormer 是一款利用离散代码本先验的创新盲脸修复模型。通过在小型代理空间中学习的代码本，CodeFormer 大大减少了修复过程中常见的不确定性和模糊性。该模型将脸部修复问题转换为代码预测任务，提供了丰富的视觉组件，用于生成高质量的脸部图像。</p>
+<p><img src="https://github.com/user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/1c77a79b-96e7-4cfd-aa9f-4146c4e07e24" alt="image"></p>
+<p>CodeFormer 采用了基于转换器的预测网络，能够建模低质量脸部图像的全局组成和上下文信息，即使在输入严重退化的情况下，也能够重构出自然的脸部特征，逼近目标图像。</p>
+<p><img src="https://github.com/user-attachments/assets/e1db07ab-c938-433f-a0f2-86230715d88c" alt="image"></p>
+<p>在线体验：<a href="https://huggingface.co/spaces/sczhou/CodeFormer">https://huggingface.co/spaces/sczhou/CodeFormer</a></p>
+<p>为提升对不同退化程度的适应性，CodeFormer 还集成了可控特征变换模块，允许用户在保真度和图像质量之间灵活调节。凭借强大的代码本先验和全局建模能力，CodeFormer 在修复质量和保真度方面均超越了现有方法，展现了卓越的修复效果。</p>
+<p>通过引入代码查找和全局转换器，CodeFormer 不仅提高了盲脸修复的精确性和自然性，还提供了极大的灵活性，简化了复杂的修复任务，使模型在鲁棒性和表现力上表现出色。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/51" target="_blank">#51</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2" length="0" type="image//user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2"/>
+        </item>
         <item>
             <title><![CDATA[Mythic：适用于 macOS 的开源游戏启动器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/50.html</link>

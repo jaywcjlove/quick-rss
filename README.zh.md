@@ -63,6 +63,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [CodeFormer：基于代码查找转换器的盲脸修复工具，专为老照片和破损照片修复设计](https://wangchujiang.com/quick-rss/issue/51.html) 
+
+![](https://github.com/user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2)
+
+CodeFormer 是一款利用离散代码本先验的创新盲脸修复模型。通过在小型代理空间中学习的代码本，CodeFormer 大大减少了修复过程中常见的不确定性和模糊性。该模型将脸部修复问题转换为代码预测任务，提供了丰富的视觉组件，用于生成高质量的脸部图像。 CodeFormer 采用了基于转换器的预测网络，能够建模低质量脸部图像的全局组成和上下文信息，即使在输入严重退化的情况下，也能够重构出自然的脸 ([#51](https://github.com/jaywcjlove/quick-rss/issues/51) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Mythic：适用于 macOS 的开源游戏启动器](https://wangchujiang.com/quick-rss/issue/50.html) 
 
 ![](https://github.com/user-attachments/assets/0d2d80c1-2b16-4490-90ff-55432071e789)

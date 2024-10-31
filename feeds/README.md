@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Swift Shift：一个简洁高效的 macOS 窗口管理工具](https://wangchujiang.com/quick-rss/issue/52.html) 
+
+![](https://github.com/user-attachments/assets/d72e9693-eb6a-4da4-89f7-4d0bf8e4120c)
+
+在 macOS 系统上管理窗口时，你是否常常为拖拽窗口到合适的位置而感到烦恼？或是在调节窗口尺寸时需要精确找到小小的边角，浪费了很多时间？Swift Shift 能够彻底简化这一过程，让你只需通过鼠标和快捷键即可高效管理窗口，让你的工作空间井井有条。 功能简介：鼠标操作让窗口管理更轻松 Swift Shift 是一个专注于窗口管理的小工具，设计简洁高效。不同于其他繁琐的窗口管理软件，Swift S ([#52](https://github.com/jaywcjlove/quick-rss/issues/52) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [CodeFormer：基于代码查找转换器的盲脸修复工具，专为老照片和破损照片修复设计](https://wangchujiang.com/quick-rss/issue/51.html) 
 
 ![](https://github.com/user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2)

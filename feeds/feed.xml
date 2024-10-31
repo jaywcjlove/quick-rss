@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-10-31T03:02:16.043Z</updated>
+    <updated>2024-10-31T03:05:04.759Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -25,12 +25,12 @@
 <h3>功能简介：鼠标操作让窗口管理更轻松</h3>
 <p>Swift Shift 是一个专注于窗口管理的小工具，设计简洁高效。不同于其他繁琐的窗口管理软件，Swift Shift 通过最直接的鼠标操作，轻松实现窗口的移动和大小调整。你无需反复拖动窗口，或点击边缘微小的调整箭头，简单快捷的操作就能让你的工作区整洁有序。</p>
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/0b17f4ad-4230-4f1f-b1b8-ec1faad65d14?rehype=video"></video>
-<h3>一次设置，安心运行</h3>
-<p><img src="https://github.com/user-attachments/assets/d72e9693-eb6a-4da4-89f7-4d0bf8e4120c" alt="image"></p>
-<p>Swift Shift 专为后台运行设计，配置好快捷键后，无需反复启动。这个软件低调又高效，在后台默默为你服务，让你的操作体验更加流畅。无需反复打开设置，真正做到 “设定一次，安心使用”。</p>
 <h3>灵活的鼠标快捷键支持</h3>
 <p>Swift Shift 还允许你使用鼠标按键来辅助快捷键操作。这一特性模仿了部分 Linux 发行版的窗口管理风格。如果你喜欢将鼠标按键纳入窗口管理体验中，可以通过 Swift Shift 轻松实现，进一步提升工作效率。</p>
 <p><img src="https://github.com/user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496" alt="image"></p>
+<h3>一次设置，安心运行</h3>
+<p><img src="https://github.com/user-attachments/assets/d72e9693-eb6a-4da4-89f7-4d0bf8e4120c" alt="image"></p>
+<p>Swift Shift 专为后台运行设计，配置好快捷键后，无需反复启动。这个软件低调又高效，在后台默默为你服务，让你的操作体验更加流畅。无需反复打开设置，真正做到 “设定一次，安心使用”。</p>
 <h3>智能窗口调整：从四角开始</h3>
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/ad0db5b8-ee25-48e2-b0d5-564d955be816?rehype=video"></video>
 <p>Swift Shift 的窗口调整功能也十分智能。默认情况下，窗口会从右下角开始调整。但它还提供了更为灵活的“象限”模式，会根据鼠标当前位置，选择距离最近的边缘或角落进行缩放调整。这种设计符合直觉，让你的窗口调整更加得心应手。</p>

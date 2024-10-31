@@ -1,5 +1,19 @@
 [
   {
+    "id": "52",
+    "url": "https://wangchujiang.com/quick-rss/issue/52.html",
+    "title": "Swift Shift：一个简洁高效的 macOS 窗口管理工具",
+    "content_html": "<p>在 macOS 系统上管理窗口时，你是否常常为拖拽窗口到合适的位置而感到烦恼？或是在调节窗口尺寸时需要精确找到小小的边角，浪费了很多时间？Swift Shift 能够彻底简化这一过程，让你只需通过鼠标和快捷键即可高效管理窗口，让你的工作空间井井有条。</p>\n<h3>功能简介：鼠标操作让窗口管理更轻松</h3>\n<p>Swift Shift 是一个专注于窗口管理的小工具，设计简洁高效。不同于其他繁琐的窗口管理软件，Swift Shift 通过最直接的鼠标操作，轻松实现窗口的移动和大小调整。你无需反复拖动窗口，或点击边缘微小的调整箭头，简单快捷的操作就能让你的工作区整洁有序。</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/0b17f4ad-4230-4f1f-b1b8-ec1faad65d14?rehype=video\"></video>\n<h3>一次设置，安心运行</h3>\n<p><img src=\"https://github.com/user-attachments/assets/d72e9693-eb6a-4da4-89f7-4d0bf8e4120c\" alt=\"image\"></p>\n<p>Swift Shift 专为后台运行设计，配置好快捷键后，无需反复启动。这个软件低调又高效，在后台默默为你服务，让你的操作体验更加流畅。无需反复打开设置，真正做到 “设定一次，安心使用”。</p>\n<h3>灵活的鼠标快捷键支持</h3>\n<p>Swift Shift 还允许你使用鼠标按键来辅助快捷键操作。这一特性模仿了部分 Linux 发行版的窗口管理风格。如果你喜欢将鼠标按键纳入窗口管理体验中，可以通过 Swift Shift 轻松实现，进一步提升工作效率。</p>\n<p><img src=\"https://github.com/user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496\" alt=\"image\"></p>\n<h3>智能窗口调整：从四角开始</h3>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/ad0db5b8-ee25-48e2-b0d5-564d955be816?rehype=video\"></video>\n<p>Swift Shift 的窗口调整功能也十分智能。默认情况下，窗口会从右下角开始调整。但它还提供了更为灵活的“象限”模式，会根据鼠标当前位置，选择距离最近的边缘或角落进行缩放调整。这种设计符合直觉，让你的窗口调整更加得心应手。</p>\n<h3>开源且自由</h3>\n<p>Swift Shift 是一个开源项目，完全免费。开发者本着自由和共享的精神设计了这个工具，且在自学 Swift 语言和 macOS API 的过程中，一步步实现了这款工具。正因如此，Swift Shift 拥有极好的自定义性，同时得益于社区的力量，不断改进和更新。</p>\n<h3>结语：开启 Swift Shift，高效管理你的窗口</h3>\n<p>总之，Swift Shift 是一个轻便、实用、开源的 macOS 窗口管理工具。对于每天需要频繁管理窗口的用户而言，它提供了更加高效的操作体验。如果你也在寻找一种快捷的窗口管理方式，不妨试试 Swift Shift，把更多时间留给工作和创造！</p>",
+    "summary": "在 macOS 系统上管理窗口时，你是否常常为拖拽窗口到合适的位置而感到烦恼？或是在调节窗口尺寸时需要精确找到小小的边角，浪费了很多时间？Swift Shift 能够彻底简化这一过程，让你只需通过鼠标和快捷键即可高效管理窗口，让你的工作空间井井有条。 ### 功能简介：鼠标操作让窗口管理更轻松 Swift Shift 是一个专注于窗口管理的小工具，设计简洁高效。不同于其他繁琐的窗口管理软件，Swi",
+    "banner_image": "https://github.com/user-attachments/assets/d72e9693-eb6a-4da4-89f7-4d0bf8e4120c",
+    "date_published": "2024-10-31T03:00:05Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "在 macOS 系统上管理窗口时，你是否常常为拖拽窗口到合适的位置而感到烦恼？或是在调节窗口尺寸时需要精确找到小小的边角，浪费了很多时间？Swift Shift 能够彻底简化这一过程，让你只需通过鼠标和快捷键即可高效管理窗口，让你的工作空间井井有条。\r\n\r\n### 功能简介：鼠标操作让窗口管理更轻松\r\n\r\nSwift Shift 是一个专注于窗口管理的小工具，设计简洁高效。不同于其他繁琐的窗口管理软件，Swift Shift 通过最直接的鼠标操作，轻松实现窗口的移动和大小调整。你无需反复拖动窗口，或点击边缘微小的调整箭头，简单快捷的操作就能让你的工作区整洁有序。\r\n\r\nhttps://github.com/user-attachments/assets/0b17f4ad-4230-4f1f-b1b8-ec1faad65d14?rehype=video\r\n\r\n### 一次设置，安心运行\r\n\r\n![image](https://github.com/user-attachments/assets/d72e9693-eb6a-4da4-89f7-4d0bf8e4120c)\r\n\r\nSwift Shift 专为后台运行设计，配置好快捷键后，无需反复启动。这个软件低调又高效，在后台默默为你服务，让你的操作体验更加流畅。无需反复打开设置，真正做到 “设定一次，安心使用”。\r\n\r\n### 灵活的鼠标快捷键支持\r\n\r\nSwift Shift 还允许你使用鼠标按键来辅助快捷键操作。这一特性模仿了部分 Linux 发行版的窗口管理风格。如果你喜欢将鼠标按键纳入窗口管理体验中，可以通过 Swift Shift 轻松实现，进一步提升工作效率。\r\n\r\n![image](https://github.com/user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496)\r\n\r\n### 智能窗口调整：从四角开始\r\n\r\nhttps://github.com/user-attachments/assets/ad0db5b8-ee25-48e2-b0d5-564d955be816?rehype=video\r\n\r\nSwift Shift 的窗口调整功能也十分智能。默认情况下，窗口会从右下角开始调整。但它还提供了更为灵活的“象限”模式，会根据鼠标当前位置，选择距离最近的边缘或角落进行缩放调整。这种设计符合直觉，让你的窗口调整更加得心应手。\r\n\r\n### 开源且自由\r\n\r\nSwift Shift 是一个开源项目，完全免费。开发者本着自由和共享的精神设计了这个工具，且在自学 Swift 语言和 macOS API 的过程中，一步步实现了这款工具。正因如此，Swift Shift 拥有极好的自定义性，同时得益于社区的力量，不断改进和更新。\r\n\r\n### 结语：开启 Swift Shift，高效管理你的窗口\r\n\r\n总之，Swift Shift 是一个轻便、实用、开源的 macOS 窗口管理工具。对于每天需要频繁管理窗口的用户而言，它提供了更加高效的操作体验。如果你也在寻找一种快捷的窗口管理方式，不妨试试 Swift Shift，把更多时间留给工作和创造！"
+  },
+  {
     "id": "51",
     "url": "https://wangchujiang.com/quick-rss/issue/51.html",
     "title": "CodeFormer：基于代码查找转换器的盲脸修复工具，专为老照片和破损照片修复设计",

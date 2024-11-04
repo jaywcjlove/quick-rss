@@ -1,5 +1,19 @@
 [
   {
+    "id": "53",
+    "url": "https://wangchujiang.com/quick-rss/issue/53.html",
+    "title": "DrawDB: 免费、简单、直观的数据库设计工具和 SQL 生成器",
+    "content_html": "<p>DrawDB 是一个强大且易用的数据库实体关系编辑器，无需注册，直接在浏览器中操作。只需点击几下即可创建图表，导出 SQL 脚本，个性化编辑器，更多功能等你来体验！</p>\n<p><img src=\"https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/33f569c7-8fe4-4dcb-ac20-95c9bce44bea\" alt=\"drawdb\"></p>",
+    "summary": "DrawDB 是一个强大且易用的数据库实体关系编辑器，无需注册，直接在浏览器中操作。只需点击几下即可创建图表，导出 SQL 脚本，个性化编辑器，更多功能等你来体验！",
+    "banner_image": "https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9",
+    "date_published": "2024-11-04T10:59:28Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "DrawDB 是一个强大且易用的数据库实体关系编辑器，无需注册，直接在浏览器中操作。只需点击几下即可创建图表，导出 SQL 脚本，个性化编辑器，更多功能等你来体验！\r\n\r\n![image](https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9)\r\n\r\n![drawdb](https://github.com/user-attachments/assets/33f569c7-8fe4-4dcb-ac20-95c9bce44bea)"
+  },
+  {
     "id": "52",
     "url": "https://wangchujiang.com/quick-rss/issue/52.html",
     "title": "Swift Shift：一个简洁高效的 macOS 窗口管理工具",

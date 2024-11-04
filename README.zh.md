@@ -63,6 +63,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DrawDB: 免费、简单、直观的数据库设计工具和 SQL 生成器](https://wangchujiang.com/quick-rss/issue/53.html) 
+
+![](https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9)
+
+DrawDB 是一个强大且易用的数据库实体关系编辑器，无需注册，直接在浏览器中操作。只需点击几下即可创建图表，导出 SQL 脚本，个性化编辑器，更多功能等你来体验！ ([#53](https://github.com/jaywcjlove/quick-rss/issues/53) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Swift Shift：一个简洁高效的 macOS 窗口管理工具](https://wangchujiang.com/quick-rss/issue/52.html) 
 
 ![](https://github.com/user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496)

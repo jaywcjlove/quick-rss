@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "54",
+            "content_html": "<p>💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！</p>\n<p><img src=\"https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd\" alt=\"image\"></p>\n<p>推荐用 Homebrew 安装👇</p>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew tap barseghyanartur/app-menu-tap\r\n</span><span class=\"code-line line-number\" line=\"2\">brew <span class=\"token function\">install</span> <span class=\"token parameter variable\">--cask</span> app-menu\n</span></code></pre>\n<p>简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/54\" target=\"_blank\">#54</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/54.html",
+            "title": "app-menu: macOS中缺失的应用程序菜单",
+            "summary": "💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！ 推荐用 Homebrew 安装👇 brew tap barseghyanartur/app-menu-tap brew install --cask app-menu 简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu",
+            "image": "https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd",
+            "date_modified": "2024-11-05T12:47:17.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "53",
             "content_html": "<p>DrawDB 是一个强大且易用的数据库实体关系编辑器，无需注册，直接在浏览器中操作。只需点击几下即可创建图表，导出 SQL 脚本，个性化编辑器，更多功能等你来体验！</p>\n<p><img src=\"https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/33f569c7-8fe4-4dcb-ac20-95c9bce44bea\" alt=\"drawdb\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/53\" target=\"_blank\">#53</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/53.html",

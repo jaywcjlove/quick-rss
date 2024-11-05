@@ -65,6 +65,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [app-menu: macOS中缺失的应用程序菜单](https://wangchujiang.com/quick-rss/issue/54.html) 
+
+![](https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd)
+
+💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！ 推荐用 Homebrew 安装👇 brew tap barseghyanartur/app-menu-tap brew install --cask app-menu 简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu ([#54](https://github.com/jaywcjlove/quick-rss/issues/54) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DrawDB: 免费、简单、直观的数据库设计工具和 SQL 生成器](https://wangchujiang.com/quick-rss/issue/53.html) 
 
 ![](https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9)

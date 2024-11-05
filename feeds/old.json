@@ -1,5 +1,19 @@
 [
   {
+    "id": "54",
+    "url": "https://wangchujiang.com/quick-rss/issue/54.html",
+    "title": "app-menu: macOS中缺失的应用程序菜单",
+    "content_html": "<p>💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！</p>\n<p><img src=\"https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd\" alt=\"image\"></p>\n<p>推荐用 Homebrew 安装👇</p>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew tap barseghyanartur/app-menu-tap\r\n</span><span class=\"code-line line-number\" line=\"2\">brew <span class=\"token function\">install</span> <span class=\"token parameter variable\">--cask</span> app-menu\n</span></code></pre>\n<p>简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu</p>",
+    "summary": "💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！ 推荐用 Homebrew 安装👇 ```bash brew tap barseghyanartur/app-menu-tap brew install --cask app-menu ``` 简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu",
+    "banner_image": "https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd",
+    "date_published": "2024-11-05T12:47:17Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！\r\n\r\n![image](https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd)\r\n\r\n推荐用 Homebrew 安装👇\r\n\r\n```bash\r\nbrew tap barseghyanartur/app-menu-tap\r\nbrew install --cask app-menu\r\n```\r\n\r\n简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu"
+  },
+  {
     "id": "53",
     "url": "https://wangchujiang.com/quick-rss/issue/53.html",
     "title": "DrawDB: 免费、简单、直观的数据库设计工具和 SQL 生成器",

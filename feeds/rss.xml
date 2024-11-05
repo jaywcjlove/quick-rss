@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 04 Nov 2024 10:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 12:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,26 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[app-menu: macOS中缺失的应用程序菜单]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/54.html</link>
+            <guid>54</guid>
+            <pubDate>Tue, 05 Nov 2024 12:47:17 GMT</pubDate>
+            <description><![CDATA[💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！ 推荐用 Homebrew 安装👇 brew tap barseghyanartur/app-menu-tap brew install --cask app-menu 简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu]]></description>
+            <content:encoded><![CDATA[<p>💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！</p>
+<p><img src="https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd" alt="image"></p>
+<p>推荐用 Homebrew 安装👇</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap barseghyanartur/app-menu-tap
+</span><span class="code-line line-number" line="2">brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> app-menu
+</span></code></pre>
+<p>简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/54" target="_blank">#54</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd" length="0" type="image//user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd"/>
+        </item>
         <item>
             <title><![CDATA[DrawDB: 免费、简单、直观的数据库设计工具和 SQL 生成器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/53.html</link>

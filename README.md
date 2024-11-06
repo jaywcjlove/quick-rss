@@ -65,6 +65,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [NeoHtop 一个现代化的跨平台系统监控工具](https://wangchujiang.com/quick-rss/issue/55.html) 
+
+![](https://github.com/user-attachments/assets/2e7d7a62-c34f-43eb-b451-e04d6292fdb5)
+
+NeoHtop 是一个现代化的跨平台系统监控工具，基于 Svelte、Rust 和 Tauri 构建，旨在提供流畅的系统监控体验。 功能特色 🚀 实时进程监控：查看当前系统中所有正在运行的进程。 💻 CPU 和内存使用情况追踪：实时了解 CPU 和内存的使用情况，帮助优化系统性能。 🎨 美观的现代化 UI：提供深色/浅色主题，适应不同用户的视觉偏好。 🔍 进程搜索与过滤：快速找到并管理特定 ([#55](https://github.com/jaywcjlove/quick-rss/issues/55) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [app-menu: macOS中缺失的应用程序菜单](https://wangchujiang.com/quick-rss/issue/54.html) 
 
 ![](https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd)

@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Wed, 06 Nov 2024 09:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 04:59:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,48 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Achico - 一款免费的 MacOS 本地文件压缩应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/56.html</link>
+            <guid>56</guid>
+            <pubDate>Tue, 12 Nov 2024 04:59:15 GMT</pubDate>
+            <description><![CDATA[Achico 是一款轻量级的原生 macOS 应用，它能够智能地压缩文件，同时保持文件的高质量。支持多种文件格式，包括 PDF、图片、视频等，简单、快速且高效！ https://github.com/user-attachments/assets/0bf23ffb-ce09-4137-aade-982992f5e504 主要特点 文件支持 PDF 文件：智能压缩，保持可读性 图片：支持 JPEG、]]></description>
+            <content:encoded><![CDATA[<p>Achico 是一款轻量级的原生 macOS 应用，它能够智能地压缩文件，同时保持文件的高质量。支持多种文件格式，包括 PDF、图片、视频等，简单、快速且高效！</p>
+<p><img src="https://github.com/user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9" alt="image"></p>
+<p><a href="https://github.com/user-attachments/assets/0bf23ffb-ce09-4137-aade-982992f5e504">https://github.com/user-attachments/assets/0bf23ffb-ce09-4137-aade-982992f5e504</a></p>
+<h3>主要特点</h3>
+<p><strong>文件支持</strong></p>
+<ul>
+<li><strong>PDF 文件</strong>：智能压缩，保持可读性</li>
+<li><strong>图片</strong>：支持 JPEG、PNG、HEIC、TIFF、GIF、BMP、WebP、SVG、RAW 和 ICO 等格式</li>
+<li><strong>视频</strong>：支持 MP4、MOV、AVI 等常见格式</li>
+<li><strong>音频</strong>：支持 M4V、WAV、MP3、AIFF 等音频格式</li>
+<li><strong>文件调整大小</strong>：在压缩的同时可以选择调整图片和视频的尺寸</li>
+</ul>
+<p><strong>核心功能</strong></p>
+<ul>
+<li><strong>多种输入方式</strong>：支持拖拽或点击选择文件</li>
+<li><strong>实时进度</strong>：实时显示文件压缩进度，清晰易懂</li>
+<li><strong>压缩统计</strong>：即时查看节省的存储空间</li>
+<li><strong>深色和浅色模式</strong>：自动与系统偏好设置无缝对接</li>
+<li><strong>原生性能</strong>：使用 SwiftUI 开发，确保 macOS 系统的最佳集成</li>
+</ul>
+<p><strong>压缩选项</strong></p>
+<ul>
+<li><strong>质量控制</strong>：可调整压缩等级，以平衡文件大小和质量</li>
+<li><strong>尺寸限制</strong>：可为图片和视频设置最大尺寸</li>
+<li><strong>格式转换</strong>：自动将低效格式转换为更高效的格式</li>
+<li><strong>元数据处理</strong>：可以选择保留或去除文件的元数据</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/a256f126-8066-4a9b-b035-c205fd216624" alt="image"></p>
+<p>Achico 让文件压缩变得更加简单、快速并且高效，是每个 macOS 用户的必备工具。无论是压缩文件节省存储空间，还是转换格式、调整大小，Achico 都能提供完美的解决方案。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/56" target="_blank">#56</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9" length="0" type="image//user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9"/>
+        </item>
         <item>
             <title><![CDATA[NeoHtop 一个现代化的跨平台系统监控工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/55.html</link>

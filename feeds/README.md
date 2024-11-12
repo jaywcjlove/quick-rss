@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Achico - 一款免费的 MacOS 本地文件压缩应用](https://wangchujiang.com/quick-rss/issue/56.html) 
+
+![](https://github.com/user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9)
+
+Achico 是一款轻量级的原生 macOS 应用，它能够智能地压缩文件，同时保持文件的高质量。支持多种文件格式，包括 PDF、图片、视频等，简单、快速且高效！ https://github.com/user-attachments/assets/0bf23ffb-ce09-4137-aade-982992f5e504 主要特点 文件支持 PDF 文件：智能压缩，保持可读性 图片：支持 JPEG、 ([#56](https://github.com/jaywcjlove/quick-rss/issues/56) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [NeoHtop 一个现代化的跨平台系统监控工具](https://wangchujiang.com/quick-rss/issue/55.html) 
 
 ![](https://github.com/user-attachments/assets/2e7d7a62-c34f-43eb-b451-e04d6292fdb5)

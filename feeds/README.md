@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [UTM：在 macOS 上运行任何操作系统的终极解决方案](https://wangchujiang.com/quick-rss/issue/57.html) 
+
+![](https://github.com/user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65)
+
+UTM 是一款专为 macOS 设计的虚拟化和仿真工具，让你在 Mac 上轻松运行各种操作系统。无论你使用的是 Apple Silicon 还是 Intel 芯片，UTM 都能让你体验从 Windows 到 Linux 甚至是经典操作系统的无限可能。 主要亮点： 强大的虚拟化性能 Apple Silicon 上的 ARM64 系统运行接近原生速度。 Intel Mac 可以虚拟化 x86/x64  ([#57](https://github.com/jaywcjlove/quick-rss/issues/57) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Achico - 一款免费的 MacOS 本地文件压缩应用](https://wangchujiang.com/quick-rss/issue/56.html) 
 
 ![](https://github.com/user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9)

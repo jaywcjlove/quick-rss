@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Tue, 12 Nov 2024 04:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 12:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,42 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UTM：在 macOS 上运行任何操作系统的终极解决方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/57.html</link>
+            <guid>57</guid>
+            <pubDate>Thu, 14 Nov 2024 12:11:09 GMT</pubDate>
+            <description><![CDATA[UTM 是一款专为 macOS 设计的虚拟化和仿真工具，让你在 Mac 上轻松运行各种操作系统。无论你使用的是 Apple Silicon 还是 Intel 芯片，UTM 都能让你体验从 Windows 到 Linux 甚至是经典操作系统的无限可能。 主要亮点： 强大的虚拟化性能 Apple Silicon 上的 ARM64 系统运行接近原生速度。 Intel Mac 可以虚拟化 x86/x64 ]]></description>
+            <content:encoded><![CDATA[<p><strong>UTM</strong> 是一款专为 macOS 设计的虚拟化和仿真工具，让你在 Mac 上轻松运行各种操作系统。无论你使用的是 Apple Silicon 还是 Intel 芯片，UTM 都能让你体验从 Windows 到 Linux 甚至是经典操作系统的无限可能。</p>
+<p><img src="https://github.com/user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65" alt="image"></p>
+<h3>主要亮点：</h3>
+<h4>强大的虚拟化性能</h4>
+<ul>
+<li>Apple Silicon 上的 ARM64 系统运行接近原生速度。</li>
+<li>Intel Mac 可以虚拟化 x86/x64 系统，甚至还能在 Apple Silicon 上模拟 x86/x64 系统。</li>
+<li>支持 ARM32、MIPS、PPC 和 RISC-V 等多种处理器的仿真，满足开发者和爱好者的各种需求。</li>
+</ul>
+<h4>经典系统仿真</h4>
+<p>想要重温经典操作系统？UTM 支持 PowerPC、SPARC 和 x86_64 系统，让你轻松体验老牌系统的风采。</p>
+<p><img src="https://github.com/user-attachments/assets/77d0c7b4-4058-486e-b121-8efd8a269fad" alt="image"></p>
+<h4>macOS 多实例支持</h4>
+<p>在 Apple Silicon 设备上运行多个 macOS 实例，非常适合开发者和注重安全的用户。支持 ARM 架构的 macOS Monterey 及更高版本。</p>
+<p><img src="https://github.com/user-attachments/assets/c6a0cffa-549e-424a-ae30-fb7eafc36cdd" alt="image"></p>
+<h4>为 macOS 量身定制</h4>
+<p>完全按照 macOS Big Sur 及更新版本的设计风格打造，UTM 看起来就是一款原生 Mac 应用，操作简单，界面友好。</p>
+<p><img src="https://github.com/user-attachments/assets/34507c63-3e2a-4750-bcbe-5547b2b8e834" alt="image"></p>
+<h4>QEMU 的强大支持，无需复杂配置</h4>
+<p>UTM 基于开源的 QEMU，提供了强大的仿真和虚拟化功能。但与 QEMU 的复杂命令行配置不同，UTM 简化了操作，让用户无需深入研究配置文件即可轻松使用。</p>
+<p><img src="https://github.com/user-attachments/assets/fa42aa8b-c689-4cd0-bdce-69582cfc33b7" alt="image"></p>
+<h3>结语</h3>
+<p>UTM 是一款集简易性与强大功能于一身的应用，特别适合希望在 Mac 上运行不同操作系统的用户。无论你是开发者、技术爱好者，还是想要体验不同系统的普通用户，UTM 都能满足你的需求。快来试试 UTM，解锁你的 Mac 新潜力吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/57" target="_blank">#57</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65" length="0" type="image//user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65"/>
+        </item>
         <item>
             <title><![CDATA[Achico - 一款免费的 MacOS 本地文件压缩应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/56.html</link>

@@ -65,6 +65,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Beszel：轻量级的服务器资源监控平台](https://wangchujiang.com/quick-rss/issue/58.html) 
+
+![](https://github.com/user-attachments/assets/b356e286-7637-45b5-b744-bcf4201ac5fe)
+
+随着云计算和容器化技术的普及，越来越多的开发者和系统管理员需要高效、易用的工具来监控服务器和容器的性能。Beszel 应运而生，这是一个轻量级的服务器资源监控中心，具备历史数据记录、Docker 容器状态监控和自定义告警等功能。 为什么选择 Beszel？ 在众多监控解决方案中，Beszel 以其轻量级、易用性和功能丰富脱颖而出。它适合个人开发者、DevOps 团队以及希望简化服务器监控管理的中小 ([#58](https://github.com/jaywcjlove/quick-rss/issues/58) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [UTM：在 macOS 上运行任何操作系统的终极解决方案](https://wangchujiang.com/quick-rss/issue/57.html) 
 
 ![](https://github.com/user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65)

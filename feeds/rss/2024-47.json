@@ -1,5 +1,19 @@
 [
   {
+    "id": "59",
+    "url": "https://wangchujiang.com/quick-rss/issue/59.html",
+    "title": "BetterDisplay Pro - 让你的 Mac 显示屏更强大！  ",
+    "content_html": "<p>一款强大的 Mac 显示屏管理工具！它让你的显示器具备完全可缩放的屏幕功能，轻松管理显示配置和亮度、颜色设置。</p>\n<p><img src=\"https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03\" alt=\"BetterDisplay Pro \"></p>\n<p>支持 XDR/HDR 的亮度增强（超越 100% 的额外亮度！适用于 Apple Silicon 和 Intel Mac 的多种方案），以及完全黑暗模式。它还能帮助你创建和管理虚拟屏幕，支持显示器的画中画窗口模式，甚至可以实时断开或重新连接显示器！</p>\n<p>无论是优化显示体验还是个性化配置，BetterDisplay 都是不可或缺的好帮手。立即从菜单栏解锁更多强大功能，让你的 Mac 显示屏与众不同！</p>\n<h3>核心功能亮点：</h3>\n<p>✨ 自定义分辨率，支持 XDR/HDR 超高亮度<br>\n✨ 虚拟屏幕创建，Picture in Picture（画中画）支持<br>\n✨ 软断开连接，EDID 配置覆盖<br>\n✨ DDC 控制，颜色模式选择与同步，布局保护等</p>",
+    "summary": "一款强大的 Mac 显示屏管理工具！它让你的显示器具备完全可缩放的屏幕功能，轻松管理显示配置和亮度、颜色设置。 支持 XDR/HDR 的亮度增强（超越 100% 的额外亮度！适用于 Apple Silicon 和 Intel Mac 的多种方案），以及完全黑暗模式。它还能帮助你创建和管理虚拟屏幕，支持显示器的画中画窗口模式，甚至可以实时断开或重新连接显示器！ 无论是优化显示体验还是个性化配置，Be",
+    "banner_image": "https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03",
+    "date_published": "2024-11-19T19:49:45Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款强大的 Mac 显示屏管理工具！它让你的显示器具备完全可缩放的屏幕功能，轻松管理显示配置和亮度、颜色设置。  \r\n\r\n![BetterDisplay Pro ](https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03)\r\n\r\n支持 XDR/HDR 的亮度增强（超越 100% 的额外亮度！适用于 Apple Silicon 和 Intel Mac 的多种方案），以及完全黑暗模式。它还能帮助你创建和管理虚拟屏幕，支持显示器的画中画窗口模式，甚至可以实时断开或重新连接显示器！  \r\n\r\n无论是优化显示体验还是个性化配置，BetterDisplay 都是不可或缺的好帮手。立即从菜单栏解锁更多强大功能，让你的 Mac 显示屏与众不同！\r\n\r\n### 核心功能亮点：\r\n\r\n✨ 自定义分辨率，支持 XDR/HDR 超高亮度  \r\n✨ 虚拟屏幕创建，Picture in Picture（画中画）支持  \r\n✨ 软断开连接，EDID 配置覆盖  \r\n✨ DDC 控制，颜色模式选择与同步，布局保护等"
+  },
+  {
     "id": "58",
     "url": "https://wangchujiang.com/quick-rss/issue/58.html",
     "title": "Beszel：轻量级的服务器资源监控平台",

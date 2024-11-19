@@ -63,6 +63,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BetterDisplay Pro - 让你的 Mac 显示屏更强大！](https://wangchujiang.com/quick-rss/issue/59.html) 
+
+![](https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03)
+
+一款强大的 Mac 显示屏管理工具！它让你的显示器具备完全可缩放的屏幕功能，轻松管理显示配置和亮度、颜色设置。 支持 XDR/HDR 的亮度增强（超越 100% 的额外亮度！适用于 Apple Silicon 和 Intel Mac 的多种方案），以及完全黑暗模式。它还能帮助你创建和管理虚拟屏幕，支持显示器的画中画窗口模式，甚至可以实时断开或重新连接显示器！ 无论是优化显示体验还是个性化配置，Be ([#59](https://github.com/jaywcjlove/quick-rss/issues/59) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Beszel：轻量级的服务器资源监控平台](https://wangchujiang.com/quick-rss/issue/58.html) 
 
 ![](https://github.com/user-attachments/assets/b356e286-7637-45b5-b744-bcf4201ac5fe)

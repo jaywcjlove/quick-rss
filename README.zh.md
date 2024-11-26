@@ -63,6 +63,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Xcode AI 助手：Copilot 全能扩展！](https://wangchujiang.com/quick-rss/issue/60.html) 
+
+![](https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984)
+
+Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！ ([#60](https://github.com/jaywcjlove/quick-rss/issues/60) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BetterDisplay Pro - 让你的 Mac 显示屏更强大！](https://wangchujiang.com/quick-rss/issue/59.html) 
 
 ![](https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03)

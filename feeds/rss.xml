@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Tue, 19 Nov 2024 19:50:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 17:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Xcode AI 助手：Copilot 全能扩展！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/60.html</link>
+            <guid>60</guid>
+            <pubDate>Tue, 26 Nov 2024 17:11:43 GMT</pubDate>
+            <description><![CDATA[Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！]]></description>
+            <content:encoded><![CDATA[<p>Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！</p>
+<p><img src="https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/60" target="_blank">#60</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984" length="0" type="image//user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984"/>
+        </item>
         <item>
             <title><![CDATA[BetterDisplay Pro - 让你的 Mac 显示屏更强大！]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/59.html</link>

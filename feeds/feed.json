@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "60",
+            "content_html": "<p>Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！</p>\n<p><img src=\"https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984\" alt=\"\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/60\" target=\"_blank\">#60</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/60.html",
+            "title": "Xcode AI 助手：Copilot 全能扩展！",
+            "summary": "Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！",
+            "image": "https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984",
+            "date_modified": "2024-11-26T17:11:43.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "59",
             "content_html": "<p>一款强大的 Mac 显示屏管理工具！它让你的显示器具备完全可缩放的屏幕功能，轻松管理显示配置和亮度、颜色设置。</p>\n<p><img src=\"https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03\" alt=\"BetterDisplay Pro \"></p>\n<p>支持 XDR/HDR 的亮度增强（超越 100% 的额外亮度！适用于 Apple Silicon 和 Intel Mac 的多种方案），以及完全黑暗模式。它还能帮助你创建和管理虚拟屏幕，支持显示器的画中画窗口模式，甚至可以实时断开或重新连接显示器！</p>\n<p>无论是优化显示体验还是个性化配置，BetterDisplay 都是不可或缺的好帮手。立即从菜单栏解锁更多强大功能，让你的 Mac 显示屏与众不同！</p>\n<h3>核心功能亮点：</h3>\n<p>✨ 自定义分辨率，支持 XDR/HDR 超高亮度<br>\n✨ 虚拟屏幕创建，Picture in Picture（画中画）支持<br>\n✨ 软断开连接，EDID 配置覆盖<br>\n✨ DDC 控制，颜色模式选择与同步，布局保护等</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/59\" target=\"_blank\">#59</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/59.html",

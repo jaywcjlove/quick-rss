@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2024-11-19T19:50:11.988Z</updated>
+    <updated>2024-11-26T17:12:16.295Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,28 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2024, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Xcode AI 助手：Copilot 全能扩展！]]></title>
+        <id>60</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/60.html"/>
+        <updated>2024-11-26T17:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！]]></summary>
+        <content type="html"><![CDATA[<p>Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！</p>
+<p><img src="https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/60" target="_blank">#60</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BetterDisplay Pro - 让你的 Mac 显示屏更强大！]]></title>
         <id>59</id>

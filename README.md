@@ -65,6 +65,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Immich：高效隐私的自托管照片视频管理工具](https://wangchujiang.com/quick-rss/issue/61.html) 
+
+![](https://github.com/user-attachments/assets/499a5bf7-09e3-4e3b-ac3b-59657a885fd1)
+
+Immich 是一个高性能的自托管照片和视频管理解决方案，专注于隐私保护和高效管理。它支持多平台使用，可轻松备份、组织和浏览多媒体文件。 主要功能包括： 自动备份：支持移动端后台备份，防止文件丢失。 多用户支持：可创建共享相册，与他人协作管理内容。 高级搜索：通过元数据、对象、面部识别等方式快速查找内容。 支持 RAW 格式：满足摄影爱好者的专业需求。 个性化存储结构：用户可自定义文件夹组织形式。 ([#61](https://github.com/jaywcjlove/quick-rss/issues/61) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Xcode AI 助手：Copilot 全能扩展！](https://wangchujiang.com/quick-rss/issue/60.html) 
 
 ![](https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984)

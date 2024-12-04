@@ -242,15 +242,15 @@ ${content}
     // 输出写入成功日志
     info(`README.md 文件写入成功：./feeds/README.md`);
 
-    const markdownReadmeContent = fs.readFileSync('./README.md', 'utf-8');
-    const contentREADME = markdownReadmeContent.replace(/<!--RSS_LIST_START-->[\s\S]*<!--RSS_LIST_END-->/g, `<!--RSS_LIST_START-->\n${mdListContent}\n<!--RSS_LIST_END-->`);
-    fs.writeFileSync('./README.md', contentREADME);
-    info(`README.md 文件写入成功：./README.md`);
+    // const markdownReadmeContent = fs.readFileSync('./README.md', 'utf-8');
+    // const contentREADME = markdownReadmeContent.replace(/<!--RSS_LIST_START-->[\s\S]*<!--RSS_LIST_END-->/g, `<!--RSS_LIST_START-->\n${mdListContent}\n<!--RSS_LIST_END-->`);
+    // fs.writeFileSync('./README.md', contentREADME);
+    // info(`README.md 文件写入成功：./README.md`);
 
-    const markdownReadmeCNContent = fs.readFileSync('./README.zh.md', 'utf-8');
-    const contentREADME_CN = markdownReadmeCNContent.replace(/<!--RSS_LIST_START-->[\s\S]*<!--RSS_LIST_END-->/g, `<!--RSS_LIST_START-->\n${mdListContent}\n<!--RSS_LIST_END-->`);
-    fs.writeFileSync('./README.zh.md', contentREADME_CN);
-    info(`README.zh.md 文件写入成功：./README.zh.md`);
+    // const markdownReadmeCNContent = fs.readFileSync('./README.zh.md', 'utf-8');
+    // const contentREADME_CN = markdownReadmeCNContent.replace(/<!--RSS_LIST_START-->[\s\S]*<!--RSS_LIST_END-->/g, `<!--RSS_LIST_START-->\n${mdListContent}\n<!--RSS_LIST_END-->`);
+    // fs.writeFileSync('./README.zh.md', contentREADME_CN);
+    // info(`README.zh.md 文件写入成功：./README.zh.md`);
 
     const jsonFeedPath = './feeds/feed.json';
     await fs.writeFile(jsonFeedPath, feed.json1());

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Minesweeper：适用于 macOS 和 iOS 的极简风格扫雷游戏，开源学习范例](https://wangchujiang.com/quick-rss/issue/62.html) 
+
+![](https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3)
+
+Minesweeper 是一款适用于 macOS 和 iOS 的极简风格扫雷游戏，完全使用 Swift 编写。该项目展示了如何使用 SwiftUI 和 Composable Architecture 构建现代 iOS/macOS 应用。通过高度模块化的设计，每个功能被隔离到独立的模块中，减少了模块间的依赖，使得每个功能可以单独编译和运行。这种设计不仅简化了开发流程，也提高了代码的可测试性。 应用的 ([#62](https://github.com/jaywcjlove/quick-rss/issues/62) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Immich：高效隐私的自托管照片视频管理工具](https://wangchujiang.com/quick-rss/issue/61.html) 
 
 ![](https://github.com/user-attachments/assets/499a5bf7-09e3-4e3b-ac3b-59657a885fd1)

@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Mon, 02 Dec 2024 00:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 05:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Minesweeper：适用于 macOS 和 iOS 的极简风格扫雷游戏，开源学习范例]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/62.html</link>
+            <guid>62</guid>
+            <pubDate>Wed, 04 Dec 2024 05:12:37 GMT</pubDate>
+            <description><![CDATA[Minesweeper 是一款适用于 macOS 和 iOS 的极简风格扫雷游戏，完全使用 Swift 编写。该项目展示了如何使用 SwiftUI 和 Composable Architecture 构建现代 iOS/macOS 应用。通过高度模块化的设计，每个功能被隔离到独立的模块中，减少了模块间的依赖，使得每个功能可以单独编译和运行。这种设计不仅简化了开发流程，也提高了代码的可测试性。 应用的]]></description>
+            <content:encoded><![CDATA[<p>Minesweeper 是一款适用于 macOS 和 iOS 的极简风格扫雷游戏，完全使用 Swift 编写。该项目展示了如何使用 SwiftUI 和 Composable Architecture 构建现代 iOS/macOS 应用。通过高度模块化的设计，每个功能被隔离到独立的模块中，减少了模块间的依赖，使得每个功能可以单独编译和运行。这种设计不仅简化了开发流程，也提高了代码的可测试性。</p>
+<p><img src="https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3" alt="image"></p>
+<p>应用的核心逻辑被放入专门的模块（如 *Core），这些模块与 UI 分离，使得代码可以跨多个平台（如 SwiftUI 和 UIKit）共享，同时也能跨 iOS、macOS、watchOS 和 tvOS 共享。项目还配备了完整的测试套件，包括功能的单元测试、集成测试和端到端测试，确保每个模块都能可靠地工作。</p>
+<p>Minesweeper 是一个极好的开源项目，适合开发者用作学习范例，了解如何在 Swift 中使用现代架构模式进行开发，尤其是对于希望深入理解模块化、可测试性和跨平台开发的开发者来说，是一个理想的学习资源。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/62" target="_blank">#62</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3" length="0" type="image//user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3"/>
+        </item>
         <item>
             <title><![CDATA[Immich：高效隐私的自托管照片视频管理工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/61.html</link>

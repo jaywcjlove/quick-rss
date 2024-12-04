@@ -63,12 +63,12 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <br />
 
-# Other RSS Feed
+## Other RSS Feed
 
+- SwiftUl Recipes: https://swiftuirecipes.com/blog.rss
 - MacStories https://www.macstories.net/feed
 - Fatbobman's Swift Weekly https://weekly.fatbobman.com/feed
 - Marco.org https://marco.org/rss
-- MacRumors: Mac News and Rumors - All Stories https://feeds.macrumors.com/MacRumors-All
 
 Here are some recommended RSS feeds. Feel free to share your favorite RSS feeds with us.
 

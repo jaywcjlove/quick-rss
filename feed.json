@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "62",
+            "content_html": "<p>Minesweeper 是一款适用于 macOS 和 iOS 的极简风格扫雷游戏，完全使用 Swift 编写。该项目展示了如何使用 SwiftUI 和 Composable Architecture 构建现代 iOS/macOS 应用。通过高度模块化的设计，每个功能被隔离到独立的模块中，减少了模块间的依赖，使得每个功能可以单独编译和运行。这种设计不仅简化了开发流程，也提高了代码的可测试性。</p>\n<p><img src=\"https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3\" alt=\"image\"></p>\n<p>应用的核心逻辑被放入专门的模块（如 *Core），这些模块与 UI 分离，使得代码可以跨多个平台（如 SwiftUI 和 UIKit）共享，同时也能跨 iOS、macOS、watchOS 和 tvOS 共享。项目还配备了完整的测试套件，包括功能的单元测试、集成测试和端到端测试，确保每个模块都能可靠地工作。</p>\n<p>Minesweeper 是一个极好的开源项目，适合开发者用作学习范例，了解如何在 Swift 中使用现代架构模式进行开发，尤其是对于希望深入理解模块化、可测试性和跨平台开发的开发者来说，是一个理想的学习资源。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/62\" target=\"_blank\">#62</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/62.html",
+            "title": "Minesweeper：适用于 macOS 和 iOS 的极简风格扫雷游戏，开源学习范例",
+            "summary": "Minesweeper 是一款适用于 macOS 和 iOS 的极简风格扫雷游戏，完全使用 Swift 编写。该项目展示了如何使用 SwiftUI 和 Composable Architecture 构建现代 iOS/macOS 应用。通过高度模块化的设计，每个功能被隔离到独立的模块中，减少了模块间的依赖，使得每个功能可以单独编译和运行。这种设计不仅简化了开发流程，也提高了代码的可测试性。 应用的",
+            "image": "https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3",
+            "date_modified": "2024-12-04T05:12:37.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "61",
             "content_html": "<p>Immich 是一个高性能的自托管照片和视频管理解决方案，专注于隐私保护和高效管理。它支持多平台使用，可轻松备份、组织和浏览多媒体文件。</p>\n<p><img src=\"https://github.com/user-attachments/assets/499a5bf7-09e3-4e3b-ac3b-59657a885fd1\" alt=\"\"></p>\n<p>主要功能包括：</p>\n<ul>\n<li>自动备份：支持移动端后台备份，防止文件丢失。</li>\n<li>多用户支持：可创建共享相册，与他人协作管理内容。</li>\n<li>高级搜索：通过元数据、对象、面部识别等方式快速查找内容。</li>\n<li>支持 RAW 格式：满足摄影爱好者的专业需求。</li>\n<li>个性化存储结构：用户可自定义文件夹组织形式。</li>\n<li>隐私分享：提供公开分享和只读画廊功能，确保隐私安全。</li>\n</ul>\n<p>无论是个人用户还是团队，Immich 都是一个高效、便捷且注重隐私的多媒体管理工具。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/61\" target=\"_blank\">#61</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/61.html",

@@ -49,11 +49,9 @@ Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：
 
 立即下载 Quick RSS，为你的 macOS 带来全新的 RSS 阅读体验。无论是个人兴趣的追踪，还是行业新闻的获取，Quick RSS 都能成为你理想的订阅管理工具。
 
-<br /><br /><br />
+<br />
 
-RSS 源推荐
-===
-<!--rehype:style=text-align: center;-->
+## RSS 源推荐
 
 我们汇集了一些优质的 RSS 源，欢迎分享您喜爱的订阅内容。同时，我们还推出了一个 [Quick RSS Feed](./feeds/)，用于记录和分享技术相关的内容！如果您有文章、软件或资源推荐，欢迎通过 [issue](https://github.com/jaywcjlove/quick-rss/issues/new/choose) 进行投稿、推荐或自荐，它们将会自动添加到我们的 RSS 源中，共同丰富社区内容。
 
@@ -61,7 +59,9 @@ RSS 源推荐
 https://wangchujiang.com/quick-rss/feed.xml
 ```
 
-# 其它 RSS 源
+<br />
+
+## 其它 RSS 源
 
 - 阮一峰的网络日志 https://www.ruanyifeng.com/blog/atom.xml
 - 冯唐博客 https://www.fengtang.com/feed/

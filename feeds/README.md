@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [探索 Readest：为热爱阅读的你打造的终极电子书阅读器](https://wangchujiang.com/quick-rss/issue/63.html) 
+
+![](https://github.com/user-attachments/assets/d6839a87-ef76-4391-b0ff-70b87932a396)
+
+你热爱阅读吗？试试 Readest，一款现代化、开源的电子书阅读器，旨在彻底改变你的阅读体验。无论是沉浸在故事中，还是深入学习知识，Readest 都能在 macOS、Windows、Linux 和 Web 平台上提供功能丰富、无缝流畅的体验，移动端支持也即将推出！ 为什么选择 Readest？ 多格式支持：轻松阅读 EPUB、MOBI、PDF（实验性）等多种格式的书籍。 个性化阅读体验：自定义字 ([#63](https://github.com/jaywcjlove/quick-rss/issues/63) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Minesweeper：适用于 macOS 和 iOS 的极简风格扫雷游戏，开源学习范例](https://wangchujiang.com/quick-rss/issue/62.html) 
 
 ![](https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3)

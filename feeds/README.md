@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TRex 🦖: 用 OCR 技术轻松捕获任何文本](https://wangchujiang.com/quick-rss/issue/64.html) 
+
+![](https://github.com/user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8)
+
+TRex 是一款强大的 macOS 工具，利用 OCR（光学字符识别）技术，帮助你轻松捕获任何文本并直接保存到剪贴板。无论是无法复制的 PDF 文件、带有文本的图片，还是 YouTube 视频中的字幕，TRex 都能轻松提取文本，让你摆脱手动输入的烦恼。 什么是 OCR？ OCR（Optical Character Recognition，光学字符识别）技术能够识别图片、PDF 文件等非文本形式中 ([#64](https://github.com/jaywcjlove/quick-rss/issues/64) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [探索 Readest：为热爱阅读的你打造的终极电子书阅读器](https://wangchujiang.com/quick-rss/issue/63.html) 
 
 ![](https://github.com/user-attachments/assets/d6839a87-ef76-4391-b0ff-70b87932a396)

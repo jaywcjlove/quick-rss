@@ -1,5 +1,19 @@
 [
   {
+    "id": "64",
+    "url": "https://wangchujiang.com/quick-rss/issue/64.html",
+    "title": "TRex 🦖: 用 OCR 技术轻松捕获任何文本",
+    "content_html": "<p><strong>TRex</strong> 是一款强大的 macOS 工具，利用 OCR（光学字符识别）技术，帮助你轻松捕获任何文本并直接保存到剪贴板。无论是无法复制的 PDF 文件、带有文本的图片，还是 YouTube 视频中的字幕，TRex 都能轻松提取文本，让你摆脱手动输入的烦恼。</p>\n<p><img src=\"https://github.com/user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8\" alt=\"demo\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c88f9e79-9792-4f60-b1d1-0f5ed32ca61a\" alt=\"image\"></p>\n<h3>什么是 OCR？</h3>\n<p>OCR（Optical Character Recognition，光学字符识别）技术能够识别图片、PDF 文件等非文本形式中的文字，并将其转换为可编辑的文本。传统上，如果你遇到不可选中的文本，如扫描文档或截图中的文字，往往需要手动输入或重新复制。而 TRex 可以自动提取这些文本，就像截图一样简单快捷。</p>\n<h3>TRex 的强大功能</h3>\n<ul>\n<li><strong>OCR 文本提取</strong>：无论是 PDF 文件中的文本，带有文字的图像，还是 YouTube 视频中的字幕，TRex 都能快速准确地提取。</li>\n<li><strong>轻松截图</strong>：使用 TRex，你可以通过简单的截图捕获屏幕上的文字，极其方便。</li>\n<li><strong>菜单栏工具</strong>：TRex 在 macOS 菜单栏中运行，随时随地都能使用，非常便捷。</li>\n</ul>\n<h3>轻松操作</h3>\n<p>TRex 的操作极其简便。只需启动 TRex，并按下快捷键截图，TRex 会自动识别图片中的文本并复制到剪贴板。再也不用重新输入文本或寻找复制的途径了。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cfee7fc4-e335-4ef4-a05d-748d08820c50\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/97c2e909-3cdc-4b31-8601-a5b96ecb350e\" alt=\"image\"></p>\n<h3>为什么选择 TRex？</h3>\n<ul>\n<li><strong>精准高效</strong>：通过 OCR 技术，TRex 提供准确的文本提取，减少了手动输入的时间和错误。</li>\n<li><strong>简单易用</strong>：操作界面简洁，用户只需要一个截图动作，就能完成文本提取。</li>\n<li><strong>多场景适用</strong>：不论是网页上的不可选择文本，还是图片、视频中的文字，TRex 都能轻松应对。</li>\n</ul>\n<p>不再为手动输入或无法复制的文本烦恼，TRex 为你提供了一种简单、智能的解决方案，让你能够高效、轻松地获取任何文本。</p>\n<h3>总结</h3>\n<p>TRex 是一款专为 macOS 用户设计的 OCR 工具，它帮助你轻松捕获屏幕上的文本，并直接将其保存到剪贴板。无论是 PDF 文件、图片中的文字，还是视频中的字幕，TRex 都能精准提取，极大地提高了你的工作效率。</p>",
+    "summary": "**TRex** 是一款强大的 macOS 工具，利用 OCR（光学字符识别）技术，帮助你轻松捕获任何文本并直接保存到剪贴板。无论是无法复制的 PDF 文件、带有文本的图片，还是 YouTube 视频中的字幕，TRex 都能轻松提取文本，让你摆脱手动输入的烦恼。 ### 什么是 OCR？ OCR（Optical Character Recognition，光学字符识别）技术能够识别图片、PDF 文",
+    "banner_image": "https://github.com/user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8",
+    "date_published": "2024-12-22T09:52:31Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**TRex** 是一款强大的 macOS 工具，利用 OCR（光学字符识别）技术，帮助你轻松捕获任何文本并直接保存到剪贴板。无论是无法复制的 PDF 文件、带有文本的图片，还是 YouTube 视频中的字幕，TRex 都能轻松提取文本，让你摆脱手动输入的烦恼。\r\n\r\n![demo](https://github.com/user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8)\r\n\r\n![image](https://github.com/user-attachments/assets/c88f9e79-9792-4f60-b1d1-0f5ed32ca61a)\r\n\r\n### 什么是 OCR？\r\n\r\nOCR（Optical Character Recognition，光学字符识别）技术能够识别图片、PDF 文件等非文本形式中的文字，并将其转换为可编辑的文本。传统上，如果你遇到不可选中的文本，如扫描文档或截图中的文字，往往需要手动输入或重新复制。而 TRex 可以自动提取这些文本，就像截图一样简单快捷。\r\n\r\n### TRex 的强大功能\r\n\r\n- **OCR 文本提取**：无论是 PDF 文件中的文本，带有文字的图像，还是 YouTube 视频中的字幕，TRex 都能快速准确地提取。\r\n- **轻松截图**：使用 TRex，你可以通过简单的截图捕获屏幕上的文字，极其方便。\r\n- **菜单栏工具**：TRex 在 macOS 菜单栏中运行，随时随地都能使用，非常便捷。\r\n\r\n### 轻松操作\r\n\r\nTRex 的操作极其简便。只需启动 TRex，并按下快捷键截图，TRex 会自动识别图片中的文本并复制到剪贴板。再也不用重新输入文本或寻找复制的途径了。\r\n\r\n![image](https://github.com/user-attachments/assets/cfee7fc4-e335-4ef4-a05d-748d08820c50)\r\n\r\n![image](https://github.com/user-attachments/assets/97c2e909-3cdc-4b31-8601-a5b96ecb350e)\r\n\r\n### 为什么选择 TRex？\r\n\r\n- **精准高效**：通过 OCR 技术，TRex 提供准确的文本提取，减少了手动输入的时间和错误。\r\n- **简单易用**：操作界面简洁，用户只需要一个截图动作，就能完成文本提取。\r\n- **多场景适用**：不论是网页上的不可选择文本，还是图片、视频中的文字，TRex 都能轻松应对。\r\n\r\n不再为手动输入或无法复制的文本烦恼，TRex 为你提供了一种简单、智能的解决方案，让你能够高效、轻松地获取任何文本。\r\n\r\n### 总结\r\n\r\nTRex 是一款专为 macOS 用户设计的 OCR 工具，它帮助你轻松捕获屏幕上的文本，并直接将其保存到剪贴板。无论是 PDF 文件、图片中的文字，还是视频中的字幕，TRex 都能精准提取，极大地提高了你的工作效率。"
+  },
+  {
     "id": "63",
     "url": "https://wangchujiang.com/quick-rss/issue/63.html",
     "title": "探索 Readest：为热爱阅读的你打造的终极电子书阅读器",

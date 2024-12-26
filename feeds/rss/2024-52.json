@@ -1,5 +1,19 @@
 [
   {
+    "id": "65",
+    "url": "https://wangchujiang.com/quick-rss/issue/65.html",
+    "title": "Shortcat: 无需鼠标触控板即可熟练操作你的 Mac",
+    "content_html": "<p>Shortcat 是一款为 macOS 用户设计的强大工具，旨在通过减少对鼠标触控板的依赖来提高操作效率。它提供了一个通用的命令面板，通过索引 Mac 的用户界面，使操作变得更加直观和快速。</p>\n<p><img src=\"https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f\" alt=\"\"></p>\n<p>使用 Shortcat，你可以：</p>\n<ul>\n<li>点击按钮：无需手动移动鼠标，直接通过命令面板点击任何按钮。</li>\n<li>聚焦文本框：迅速将焦点转移到任何文本输入区域，节省时间。</li>\n<li>调用菜单命令：轻松执行菜单中的各种命令，而无需点击菜单选项。</li>\n<li>切换窗口：在不同的应用窗口间快速切换，提升工作流效率。</li>\n</ul>\n<p>总之，Shortcat 是一款让 macOS 用户能够更加高效、快捷地操作系统的工具，适用于任何希望减少鼠标使用、提高工作效率的用户。无论你是程序员、设计师还是日常办公人员，Shortcat 都能为你带来更顺畅的操作体验。</p>",
+    "summary": "Shortcat 是一款为 macOS 用户设计的强大工具，旨在通过减少对鼠标触控板的依赖来提高操作效率。它提供了一个通用的命令面板，通过索引 Mac 的用户界面，使操作变得更加直观和快速。 使用 Shortcat，你可以： - 点击按钮：无需手动移动鼠标，直接通过命令面板点击任何按钮。 - 聚焦文本框：迅速将焦点转移到任何文本输入区域，节省时间。 - 调用菜单命令：轻松执行菜单中的各种命令，而无",
+    "banner_image": "https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f",
+    "date_published": "2024-12-26T05:30:22Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Shortcat 是一款为 macOS 用户设计的强大工具，旨在通过减少对鼠标触控板的依赖来提高操作效率。它提供了一个通用的命令面板，通过索引 Mac 的用户界面，使操作变得更加直观和快速。\r\n\r\n![](https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f)\r\n\r\n使用 Shortcat，你可以：\r\n\r\n- 点击按钮：无需手动移动鼠标，直接通过命令面板点击任何按钮。\r\n- 聚焦文本框：迅速将焦点转移到任何文本输入区域，节省时间。\r\n- 调用菜单命令：轻松执行菜单中的各种命令，而无需点击菜单选项。\r\n-  切换窗口：在不同的应用窗口间快速切换，提升工作流效率。\r\n\r\n总之，Shortcat 是一款让 macOS 用户能够更加高效、快捷地操作系统的工具，适用于任何希望减少鼠标使用、提高工作效率的用户。无论你是程序员、设计师还是日常办公人员，Shortcat 都能为你带来更顺畅的操作体验。"
+  },
+  {
     "id": "64",
     "url": "https://wangchujiang.com/quick-rss/issue/64.html",
     "title": "TRex 🦖: 用 OCR 技术轻松捕获任何文本",

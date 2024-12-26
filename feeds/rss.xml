@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Sun, 22 Dec 2024 09:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 05:35:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,29 @@
         </image>
         <copyright>All rights reserved 2024, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shortcat: 无需鼠标触控板即可熟练操作你的 Mac]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/65.html</link>
+            <guid>65</guid>
+            <pubDate>Thu, 26 Dec 2024 05:30:22 GMT</pubDate>
+            <description><![CDATA[Shortcat 是一款为 macOS 用户设计的强大工具，旨在通过减少对鼠标触控板的依赖来提高操作效率。它提供了一个通用的命令面板，通过索引 Mac 的用户界面，使操作变得更加直观和快速。 使用 Shortcat，你可以： 点击按钮：无需手动移动鼠标，直接通过命令面板点击任何按钮。 聚焦文本框：迅速将焦点转移到任何文本输入区域，节省时间。 调用菜单命令：轻松执行菜单中的各种命令，而无需点击菜单选]]></description>
+            <content:encoded><![CDATA[<p>Shortcat 是一款为 macOS 用户设计的强大工具，旨在通过减少对鼠标触控板的依赖来提高操作效率。它提供了一个通用的命令面板，通过索引 Mac 的用户界面，使操作变得更加直观和快速。</p>
+<p><img src="https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f" alt=""></p>
+<p>使用 Shortcat，你可以：</p>
+<ul>
+<li>点击按钮：无需手动移动鼠标，直接通过命令面板点击任何按钮。</li>
+<li>聚焦文本框：迅速将焦点转移到任何文本输入区域，节省时间。</li>
+<li>调用菜单命令：轻松执行菜单中的各种命令，而无需点击菜单选项。</li>
+<li>切换窗口：在不同的应用窗口间快速切换，提升工作流效率。</li>
+</ul>
+<p>总之，Shortcat 是一款让 macOS 用户能够更加高效、快捷地操作系统的工具，适用于任何希望减少鼠标使用、提高工作效率的用户。无论你是程序员、设计师还是日常办公人员，Shortcat 都能为你带来更顺畅的操作体验。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/65" target="_blank">#65</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f" length="0" type="image//user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f"/>
+        </item>
         <item>
             <title><![CDATA[TRex 🦖: 用 OCR 技术轻松捕获任何文本]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/64.html</link>

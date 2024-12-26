@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Shortcat: 无需鼠标触控板即可熟练操作你的 Mac](https://wangchujiang.com/quick-rss/issue/65.html) 
+
+![](https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f)
+
+Shortcat 是一款为 macOS 用户设计的强大工具，旨在通过减少对鼠标触控板的依赖来提高操作效率。它提供了一个通用的命令面板，通过索引 Mac 的用户界面，使操作变得更加直观和快速。 使用 Shortcat，你可以： 点击按钮：无需手动移动鼠标，直接通过命令面板点击任何按钮。 聚焦文本框：迅速将焦点转移到任何文本输入区域，节省时间。 调用菜单命令：轻松执行菜单中的各种命令，而无需点击菜单选 ([#65](https://github.com/jaywcjlove/quick-rss/issues/65) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [TRex 🦖: 用 OCR 技术轻松捕获任何文本](https://wangchujiang.com/quick-rss/issue/64.html) 
 
 ![](https://github.com/user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8)

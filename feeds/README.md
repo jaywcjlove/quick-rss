@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DayBar 农历日历应用推荐 - 菜单栏显示本地日期和提醒事件的日历应用](https://wangchujiang.com/quick-rss/issue/66.html) 
+
+![](https://github.com/user-attachments/assets/f2e9ef1d-b19b-4af6-9785-416be5e97e49)
+
+DayBar 是一款在菜单栏显示本地日期和提醒事件的应用。点击菜单栏中的 DayBar，即可查看日历、日历事件和提醒事项，并支持与 Apple 日历同步。它将日历和提醒功能整合到状态栏菜单，方便管理和查看，同时让提醒事项呈现为简洁美观的待办事项。 📥 下载链接： https://apps.apple.com/app/daybar/6739052447 💬 反馈意见： https://githu ([#66](https://github.com/jaywcjlove/quick-rss/issues/66) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Shortcat: 无需鼠标触控板即可熟练操作你的 Mac](https://wangchujiang.com/quick-rss/issue/65.html) 
 
 ![](https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f)

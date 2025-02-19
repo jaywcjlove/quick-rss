@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Wed, 19 Feb 2025 03:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 03:50:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -22,7 +22,7 @@
             <pubDate>Wed, 19 Feb 2025 03:46:38 GMT</pubDate>
             <description><![CDATA[DayBar 是一款在菜单栏显示本地日期和提醒事件的应用。点击菜单栏中的 DayBar，即可查看日历、日历事件和提醒事项，并支持与 Apple 日历同步。它将日历和提醒功能整合到状态栏菜单，方便管理和查看，同时让提醒事项呈现为简洁美观的待办事项。 📥 下载链接： https://apps.apple.com/app/daybar/6739052447 💬 反馈意见： https://githu]]></description>
             <content:encoded><![CDATA[<p>DayBar 是一款在菜单栏显示本地日期和提醒事件的应用。点击菜单栏中的 DayBar，即可查看日历、日历事件和提醒事项，并支持与 Apple 日历同步。它将日历和提醒功能整合到状态栏菜单，方便管理和查看，同时让提醒事项呈现为简洁美观的待办事项。</p>
-<p>📥 下载链接： <a href="https://apps.apple.com/app/daybar/6739052447">https://apps.apple.com/app/daybar/6739052447</a>
+<p>📥 下载链接： <a href="https://apps.apple.com/app/daybar/6739052447">https://apps.apple.com/app/daybar/6739052447</a><br>
 💬 反馈意见： <a href="https://github.com/jaywcjlove/daybar">https://github.com/jaywcjlove/daybar</a></p>
 <p><img src="https://github.com/user-attachments/assets/f2e9ef1d-b19b-4af6-9785-416be5e97e49" alt="DayBar"></p>
 <p><img src="https://github.com/user-attachments/assets/24c9bff8-7d07-44d5-8c1a-11af21cc5772" alt="DayBar"></p>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [GitHub Copilot for Xcode 是你的 AI 编程伙伴，现在作为 Xcode 扩展提供智能代码建议](https://wangchujiang.com/quick-rss/issue/67.html) 
+
+![](https://github.com/user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44)
+
+如果你是开发者，特别是在使用 Xcode 开发 macOS 或 iOS 应用时，GitHub Copilot for Xcode 将极大地提高你的编码效率。GitHub Copilot 是一款由人工智能驱动的编程助手，它可以通过自动补全、代码建议和聊天助手，帮助你更智能、更快速地编写代码。 核心功能： 实时代码建议：在你编写代码时，GitHub Copilot 会提供智能的内联建议，帮助你快速完成 ([#67](https://github.com/jaywcjlove/quick-rss/issues/67) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DayBar 农历日历应用推荐 - 菜单栏显示本地日期和提醒事件的日历应用](https://wangchujiang.com/quick-rss/issue/66.html) 
 
 ![](https://github.com/user-attachments/assets/f2e9ef1d-b19b-4af6-9785-416be5e97e49)

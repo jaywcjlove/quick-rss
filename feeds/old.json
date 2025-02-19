@@ -1,5 +1,19 @@
 [
   {
+    "id": "67",
+    "url": "https://wangchujiang.com/quick-rss/issue/67.html",
+    "title": "GitHub Copilot for Xcode 是你的 AI 编程伙伴，现在作为 Xcode 扩展提供智能代码建议",
+    "content_html": "<p>如果你是开发者，特别是在使用 Xcode 开发 macOS 或 iOS 应用时，GitHub Copilot for Xcode 将极大地提高你的编码效率。GitHub Copilot 是一款由人工智能驱动的编程助手，它可以通过自动补全、代码建议和聊天助手，帮助你更智能、更快速地编写代码。</p>\n<p><img src=\"https://github.com/user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/d64d5c11-cd22-4720-a8db-7a5fc43c918b\" alt=\"Image\"></p>\n<p>核心功能：</p>\n<ol>\n<li>实时代码建议：在你编写代码时，GitHub Copilot 会提供智能的内联建议，帮助你快速完成常见的代码片段，减少手动输入的时间。</li>\n<li>代码补全：无论你是输入代码还是写注释，GitHub Copilot 都能理解你的意图并提供精准的自动完成建议，甚至支持自然语言描述。</li>\n<li>Copilot Chat：你可以与 Copilot 聊天，提出具体的编码问题，它会提供针对性的建议和解决方案，帮助你解决编码中的难题。</li>\n</ol>\n<p>为什么选择 GitHub Copilot for Xcode？</p>\n<ul>\n<li>提高效率：快速解决编程难题，减少查阅文档的时间。</li>\n<li>智能推荐：根据上下文自动生成符合需求的代码片段，提升编程流畅度。</li>\n<li>全天候助手：无论是学习新技术，还是解决复杂问题，GitHub Copilot 都能成为你随时随地的编码助手。</li>\n</ul>\n<p>无论你是初学者还是经验丰富的开发者，GitHub Copilot for Xcode 都能帮助你提升编程效率，是开发过程中不可或缺的得力助手！试试看，感受 AI 编程的力量！👩‍💻👨‍💻</p>",
+    "summary": "如果你是开发者，特别是在使用 Xcode 开发 macOS 或 iOS 应用时，GitHub Copilot for Xcode 将极大地提高你的编码效率。GitHub Copilot 是一款由人工智能驱动的编程助手，它可以通过自动补全、代码建议和聊天助手，帮助你更智能、更快速地编写代码。 核心功能： 1. 实时代码建议：在你编写代码时，GitHub Copilot 会提供智能的内联建议，帮助你快",
+    "banner_image": "https://github.com/user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44",
+    "date_published": "2025-02-19T09:50:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "如果你是开发者，特别是在使用 Xcode 开发 macOS 或 iOS 应用时，GitHub Copilot for Xcode 将极大地提高你的编码效率。GitHub Copilot 是一款由人工智能驱动的编程助手，它可以通过自动补全、代码建议和聊天助手，帮助你更智能、更快速地编写代码。\n\n![](https://github.com/user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44)\n\n![Image](https://github.com/user-attachments/assets/d64d5c11-cd22-4720-a8db-7a5fc43c918b)\n\n核心功能：\n\n1. 实时代码建议：在你编写代码时，GitHub Copilot 会提供智能的内联建议，帮助你快速完成常见的代码片段，减少手动输入的时间。\n2. 代码补全：无论你是输入代码还是写注释，GitHub Copilot 都能理解你的意图并提供精准的自动完成建议，甚至支持自然语言描述。\n3. Copilot Chat：你可以与 Copilot 聊天，提出具体的编码问题，它会提供针对性的建议和解决方案，帮助你解决编码中的难题。\n\n为什么选择 GitHub Copilot for Xcode？\n\n- 提高效率：快速解决编程难题，减少查阅文档的时间。\n- 智能推荐：根据上下文自动生成符合需求的代码片段，提升编程流畅度。\n- 全天候助手：无论是学习新技术，还是解决复杂问题，GitHub Copilot 都能成为你随时随地的编码助手。\n\n无论你是初学者还是经验丰富的开发者，GitHub Copilot for Xcode 都能帮助你提升编程效率，是开发过程中不可或缺的得力助手！试试看，感受 AI 编程的力量！👩‍💻👨‍💻"
+  },
+  {
     "id": "66",
     "url": "https://wangchujiang.com/quick-rss/issue/66.html",
     "title": "DayBar 农历日历应用推荐 - 菜单栏显示本地日期和提醒事件的日历应用",

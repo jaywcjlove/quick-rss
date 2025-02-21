@@ -1,5 +1,19 @@
 [
   {
+    "id": "68",
+    "url": "https://wangchujiang.com/quick-rss/issue/68.html",
+    "title": "TextSound Saver v2.3 发布，现可将文本转换为逼真的合成语音，支持轻松导出调好的音频文件，高质量输出助力各种用途！",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d\" alt=\"\"></p>\n<p>使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。</p>\n<p>📥 下载链接： <a href=\"https://apps.apple.com/app/textsound-saver/id6478511402\">https://apps.apple.com/app/textsound-saver/id6478511402</a><br>\n💬 反馈意见： <a href=\"https://github.com/jaywcjlove/TextSoundSaver\">https://github.com/jaywcjlove/TextSoundSaver</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/359901a6-9eb3-4bc7-837f-6b92a8e531eb\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/d1d42abd-792a-4fea-9178-dcb9528c71bb\" alt=\"\"></p>",
+    "summary": "使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。 📥 下载链接： https://apps.apple.com/app/textsound-saver/id6478511402 💬 反馈意见： htt",
+    "banner_image": "https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d",
+    "date_published": "2025-02-21T11:38:35Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![](https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d)\n\n使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。\n\n📥 下载链接： https://apps.apple.com/app/textsound-saver/id6478511402  \n💬 反馈意见： https://github.com/jaywcjlove/TextSoundSaver  \n\n![](https://github.com/user-attachments/assets/359901a6-9eb3-4bc7-837f-6b92a8e531eb)\n\n![](https://github.com/user-attachments/assets/d1d42abd-792a-4fea-9178-dcb9528c71bb)"
+  },
+  {
     "id": "67",
     "url": "https://wangchujiang.com/quick-rss/issue/67.html",
     "title": "GitHub Copilot for Xcode 是你的 AI 编程伙伴，现在作为 Xcode 扩展提供智能代码建议",

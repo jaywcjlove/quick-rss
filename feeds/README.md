@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TextSound Saver v2.3 发布，现可将文本转换为逼真的合成语音，支持轻松导出调好的音频文件，高质量输出助力各种用途！](https://wangchujiang.com/quick-rss/issue/68.html) 
+
+![](https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d)
+
+使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。 📥 下载链接： https://apps.apple.com/app/textsound-saver/id6478511402 💬 反馈意见： htt ([#68](https://github.com/jaywcjlove/quick-rss/issues/68) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [GitHub Copilot for Xcode 是你的 AI 编程伙伴，现在作为 Xcode 扩展提供智能代码建议](https://wangchujiang.com/quick-rss/issue/67.html) 
 
 ![](https://github.com/user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44)

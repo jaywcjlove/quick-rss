@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2025-02-19T09:51:11.431Z</updated>
+    <updated>2025-02-21T11:39:01.717Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,32 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[TextSound Saver v2.3 发布，现可将文本转换为逼真的合成语音，支持轻松导出调好的音频文件，高质量输出助力各种用途！]]></title>
+        <id>68</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/68.html"/>
+        <updated>2025-02-21T11:38:35.000Z</updated>
+        <summary type="html"><![CDATA[使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。 📥 下载链接： https://apps.apple.com/app/textsound-saver/id6478511402 💬 反馈意见： htt]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d" alt=""></p>
+<p>使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。</p>
+<p>📥 下载链接： <a href="https://apps.apple.com/app/textsound-saver/id6478511402">https://apps.apple.com/app/textsound-saver/id6478511402</a><br>
+💬 反馈意见： <a href="https://github.com/jaywcjlove/TextSoundSaver">https://github.com/jaywcjlove/TextSoundSaver</a></p>
+<p><img src="https://github.com/user-attachments/assets/359901a6-9eb3-4bc7-837f-6b92a8e531eb" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/d1d42abd-792a-4fea-9178-dcb9528c71bb" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/68" target="_blank">#68</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Copilot for Xcode 是你的 AI 编程伙伴，现在作为 Xcode 扩展提供智能代码建议]]></title>
         <id>67</id>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MoePush - 基于 NextJS + Cloudflare 技术栈构建的消息推送服务✨](https://wangchujiang.com/quick-rss/issue/69.html) 
+
+![](https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3)
+
+一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ 特性 📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。 🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。 💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。 🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。 已支持 ([#69](https://github.com/jaywcjlove/quick-rss/issues/69) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [TextSound Saver v2.3 发布，现可将文本转换为逼真的合成语音，支持轻松导出调好的音频文件，高质量输出助力各种用途！](https://wangchujiang.com/quick-rss/issue/68.html) 
 
 ![](https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d)

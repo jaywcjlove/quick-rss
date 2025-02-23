@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Beszel：开源的轻量服务器监控工具平台](https://wangchujiang.com/quick-rss/issue/71.html) 
+
+![](https://github.com/user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec)
+
+一款开源的轻量服务器监控工具平台——Beszel，它提供了包括 Docker 统计信息、历史数据以及告警功能。界面简洁友好，操作起来非常方便，值得借鉴一些产品的交互设计。 主要特点： 轻量级：比主流解决方案更小巧，资源占用更少。 简单易用：易于设置，不需要暴露在公共互联网中。 Docker 统计：追踪每个容器的 CPU、内存、网络使用历史。 告警功能：支持配置 CPU、内存、磁盘、带宽、温度和状态 ([#71](https://github.com/jaywcjlove/quick-rss/issues/71) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Cherry Studio：是你所期望的最棒的 AI 对话 客户端 🤖](https://wangchujiang.com/quick-rss/issue/70.html) 
 
 ![](https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2025-02-23T17:12:58.681Z</updated>
+    <updated>2025-02-23T17:20:48.717Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,41 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Beszel：开源的轻量服务器监控工具平台]]></title>
+        <id>71</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/71.html"/>
+        <updated>2025-02-23T17:20:25.000Z</updated>
+        <summary type="html"><![CDATA[一款开源的轻量服务器监控工具平台——Beszel，它提供了包括 Docker 统计信息、历史数据以及告警功能。界面简洁友好，操作起来非常方便，值得借鉴一些产品的交互设计。 主要特点： 轻量级：比主流解决方案更小巧，资源占用更少。 简单易用：易于设置，不需要暴露在公共互联网中。 Docker 统计：追踪每个容器的 CPU、内存、网络使用历史。 告警功能：支持配置 CPU、内存、磁盘、带宽、温度和状态]]></summary>
+        <content type="html"><![CDATA[<p>一款开源的轻量服务器监控工具平台——Beszel，它提供了包括 Docker 统计信息、历史数据以及告警功能。界面简洁友好，操作起来非常方便，值得借鉴一些产品的交互设计。</p>
+<img width="591" alt="Image" src="https://github.com/user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec">
+<img width="598" alt="Image" src="https://github.com/user-attachments/assets/f9441191-b7c2-4766-b3a5-df8d5e7ddd5f">
+<h3>主要特点：</h3>
+<ul>
+<li>轻量级：比主流解决方案更小巧，资源占用更少。</li>
+<li>简单易用：易于设置，不需要暴露在公共互联网中。</li>
+<li>Docker 统计：追踪每个容器的 CPU、内存、网络使用历史。</li>
+<li>告警功能：支持配置 CPU、内存、磁盘、带宽、温度和状态等多种告警。</li>
+<li>多用户支持：用户可以管理自己的系统，管理员可以跨用户共享系统。</li>
+<li>OAuth / OIDC：支持多种 OAuth2 提供商，且可以禁用密码认证。</li>
+<li>自动备份：支持从磁盘或兼容 S3 的存储中保存和恢复数据。</li>
+<li>REST API：可以在自己的脚本和应用中使用或更新数据。</li>
+</ul>
+<p>如果你在寻找一个轻量且功能丰富的服务器监控工具，Beszel 无疑是一个不错的选择！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/71" target="_blank">#71</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cherry Studio：是你所期望的最棒的 AI 对话 客户端 🤖]]></title>
         <id>70</id>

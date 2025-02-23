@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TheBoringNotch：一个开源的 Mac 刘海工具](https://wangchujiang.com/quick-rss/issue/72.html) 
+
+![](https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064)
+
+TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。 ([#72](https://github.com/jaywcjlove/quick-rss/issues/72) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Beszel：开源的轻量服务器监控工具平台](https://wangchujiang.com/quick-rss/issue/71.html) 
 
 ![](https://github.com/user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec)

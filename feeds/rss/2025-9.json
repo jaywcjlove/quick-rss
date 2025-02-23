@@ -1,5 +1,19 @@
 [
   {
+    "id": "72",
+    "url": "https://wangchujiang.com/quick-rss/issue/72.html",
+    "title": "TheBoringNotch：一个开源的 Mac 刘海工具",
+    "content_html": "<p>TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064\" alt=\"Image\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/19b87973-4b3a-4853-b532-7e82d1d6b040?title=TheBoringNotch&#x26;rehype=video\"></video>",
+    "summary": "TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。 https://github.com/user-attachments/assets/19b87973-4b3a-4853-b532-7e82d1d6b040?title=TheBoringNotch&rehype",
+    "banner_image": "https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064",
+    "date_published": "2025-02-23T17:27:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。\n\n![Image](https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064)\n\nhttps://github.com/user-attachments/assets/19b87973-4b3a-4853-b532-7e82d1d6b040?title=TheBoringNotch&rehype=video"
+  },
+  {
     "id": "71",
     "url": "https://wangchujiang.com/quick-rss/issue/71.html",
     "title": "Beszel：开源的轻量服务器监控工具平台",

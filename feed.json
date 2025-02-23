@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "69",
+            "content_html": "<p>一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨</p>\n<p><img src=\"https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/1e7bb2f4-d752-4366-8ea0-d5c470728227\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/255fe979-7cea-4716-9f1d-ecb4e4cbf987\" alt=\"\"></p>\n<h3>特性</h3>\n<ul>\n<li>📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。</li>\n<li>🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。</li>\n<li>💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。</li>\n<li>🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。</li>\n</ul>\n<h3>已支持渠道</h3>\n<ul>\n<li>钉钉机器人</li>\n<li>企业微信应用</li>\n<li>企业微信机器人</li>\n<li>Telegram 机器人</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/69\" target=\"_blank\">#69</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/69.html",
+            "title": "MoePush - 基于 NextJS + Cloudflare 技术栈构建的消息推送服务✨",
+            "summary": "一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ 特性 📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。 🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。 💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。 🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。 已支持",
+            "image": "https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3",
+            "date_modified": "2025-02-23T08:43:50.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "68",
             "content_html": "<p><img src=\"https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d\" alt=\"\"></p>\n<p>使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。</p>\n<p>📥 下载链接： <a href=\"https://apps.apple.com/app/textsound-saver/id6478511402\">https://apps.apple.com/app/textsound-saver/id6478511402</a><br>\n💬 反馈意见： <a href=\"https://github.com/jaywcjlove/TextSoundSaver\">https://github.com/jaywcjlove/TextSoundSaver</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/359901a6-9eb3-4bc7-837f-6b92a8e531eb\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/d1d42abd-792a-4fea-9178-dcb9528c71bb\" alt=\"\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/68\" target=\"_blank\">#68</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/68.html",

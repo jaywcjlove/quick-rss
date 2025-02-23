@@ -4,7 +4,7 @@
         <title>Quick RSS Feed</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>Thank you for contributing and sharing valuable tech content!</description>
-        <lastBuildDate>Fri, 21 Feb 2025 11:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2025 08:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,37 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MoePush - 基于 NextJS + Cloudflare 技术栈构建的消息推送服务✨]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/69.html</link>
+            <guid>69</guid>
+            <pubDate>Sun, 23 Feb 2025 08:43:50 GMT</pubDate>
+            <description><![CDATA[一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ 特性 📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。 🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。 💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。 🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。 已支持]]></description>
+            <content:encoded><![CDATA[<p>一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨</p>
+<p><img src="https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/1e7bb2f4-d752-4366-8ea0-d5c470728227" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/255fe979-7cea-4716-9f1d-ecb4e4cbf987" alt=""></p>
+<h3>特性</h3>
+<ul>
+<li>📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。</li>
+<li>🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。</li>
+<li>💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。</li>
+<li>🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。</li>
+</ul>
+<h3>已支持渠道</h3>
+<ul>
+<li>钉钉机器人</li>
+<li>企业微信应用</li>
+<li>企业微信机器人</li>
+<li>Telegram 机器人</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/69" target="_blank">#69</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3" length="0" type="image//user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3"/>
+        </item>
         <item>
             <title><![CDATA[TextSound Saver v2.3 发布，现可将文本转换为逼真的合成语音，支持轻松导出调好的音频文件，高质量输出助力各种用途！]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/68.html</link>

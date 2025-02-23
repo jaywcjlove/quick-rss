@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS Feed</title>
-    <updated>2025-02-23T08:44:26.452Z</updated>
+    <updated>2025-02-23T17:12:58.681Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,79 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Cherry Studio：是你所期望的最棒的 AI 对话 客户端 🤖]]></title>
+        <id>70</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/70.html"/>
+        <updated>2025-02-23T17:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。 🌟 主要特性 多样化 LLM 服务支持： ☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等 🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等 💻 支持 Ollama、L]]></summary>
+        <content type="html"><![CDATA[<p>Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。</p>
+<p><img src="https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/a3d6992b-4631-441b-883a-6c0cc9349f01" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/702a554d-06fc-40bc-9a2a-26f8153677d4" alt="Image"></p>
+<h3>🌟 主要特性</h3>
+<p><img src="https://github.com/user-attachments/assets/995910f3-177a-4d1e-97ea-04e3b009ba36" alt=""></p>
+<ol>
+<li>
+<p><strong>多样化 LLM 服务支持</strong>：</p>
+<ul>
+<li>☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等</li>
+<li>🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等</li>
+<li>💻 支持 Ollama、LM Studio 本地模型部署</li>
+</ul>
+</li>
+<li>
+<p><strong>智能助手与对话</strong>：</p>
+<ul>
+<li>📚 内置 300+ 预配置 AI 助手</li>
+<li>🤖 支持自定义创建专属助手</li>
+<li>💬 多模型同时对话，获得多样化观点</li>
+</ul>
+</li>
+<li>
+<p><strong>文档与数据处理</strong>：</p>
+<ul>
+<li>📄 支持文本、图片、Office、PDF 等多种格式</li>
+<li>☁️ WebDAV 文件管理与数据备份</li>
+<li>📊 Mermaid 图表可视化</li>
+<li>💻 代码高亮显示</li>
+</ul>
+</li>
+<li>
+<p><strong>实用工具集成</strong>：</p>
+<ul>
+<li>🔍 全局搜索功能</li>
+<li>📝 话题管理系统</li>
+<li>🔤 AI 驱动的翻译功能</li>
+<li>🎯 拖拽排序</li>
+<li>🔌 小程序支持</li>
+</ul>
+</li>
+<li>
+<p><strong>优质使用体验</strong>：</p>
+<ul>
+<li>🖥️ Windows、Mac、Linux 跨平台支持</li>
+<li>📦 开箱即用，无需配置环境</li>
+<li>🎨 支持明暗主题与透明窗口</li>
+<li>📝 完整的 Markdown 渲染</li>
+<li>🤲 便捷的内容分享功能</li>
+</ul>
+</li>
+</ol><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/70" target="_blank">#70</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MoePush - 基于 NextJS + Cloudflare 技术栈构建的消息推送服务✨]]></title>
         <id>69</id>

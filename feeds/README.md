@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Cherry Studio：是你所期望的最棒的 AI 对话 客户端 🤖](https://wangchujiang.com/quick-rss/issue/70.html) 
+
+![](https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73)
+
+Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。 🌟 主要特性 多样化 LLM 服务支持： ☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等 🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等 💻 支持 Ollama、L ([#70](https://github.com/jaywcjlove/quick-rss/issues/70) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MoePush - 基于 NextJS + Cloudflare 技术栈构建的消息推送服务✨](https://wangchujiang.com/quick-rss/issue/69.html) 
 
 ![](https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3)

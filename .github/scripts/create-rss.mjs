@@ -183,8 +183,8 @@ ${content}
     info(`Old RSS 文件写入成功：./feeds/old.json`);
 
     const feed = new Feed({
-      title: "Quick RSS Feed",
-      description: "Thank you for contributing and sharing valuable tech content!",
+      title: "Quick RSS 技术资源分享",
+      description: "记录并分享最新的技术软件资源，持续更新，随时获取最新动态。",
       id: "quick-rss-feed",
       link: "https://wangchujiang.com/quick-rss/",
       language: "en", // optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes

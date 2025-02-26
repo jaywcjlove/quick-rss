@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
-    <title>Quick RSS Feed</title>
-    <updated>2025-02-23T17:27:55.636Z</updated>
+    <title>Quick RSS 技术资源分享</title>
+    <updated>2025-02-26T04:12:14.067Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -11,10 +11,33 @@
     </author>
     <link rel="alternate" href="https://wangchujiang.com/quick-rss/"/>
     <link rel="self" href="https://wangchujiang.com/quick-rss/feed.xml"/>
-    <subtitle>Thank you for contributing and sharing valuable tech content!</subtitle>
+    <subtitle>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</subtitle>
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[DNS Easy Switcher：简单的 macOS 菜单栏应用，可以快速切换不同的 DNS 提供商]]></title>
+        <id>73</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/73.html"/>
+        <updated>2025-02-26T04:11:44.000Z</updated>
+        <summary type="html"><![CDATA[DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP]]></summary>
+        <content type="html"><![CDATA[<p>DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP 提供的 DNS）并管理自己的 DNS 服务器。</p>
+<p><img src="https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57" alt="Image"></p>
+<p>应用支持测试 DNS 速度，帮助你找到最快的 DNS 提供商，并通过 Touch ID 进行 DNS 更改身份验证。集成在 macOS 菜单栏，设置在应用启动之间得以保存，同时支持 IPv4 和 IPv6。让你轻松管理网络设置，提升上网体验！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/73" target="_blank">#73</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TheBoringNotch：一个开源的 Mac 刘海工具]]></title>
         <id>72</id>

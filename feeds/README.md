@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DNS Easy Switcher：简单的 macOS 菜单栏应用，可以快速切换不同的 DNS 提供商](https://wangchujiang.com/quick-rss/issue/73.html) 
+
+![](https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57)
+
+DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP ([#73](https://github.com/jaywcjlove/quick-rss/issues/73) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [TheBoringNotch：一个开源的 Mac 刘海工具](https://wangchujiang.com/quick-rss/issue/72.html) 
 
 ![](https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064)

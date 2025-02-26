@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Pulse Pro 是一款专为 Apple 平台设计的网络日志工具](https://wangchujiang.com/quick-rss/issue/74.html) 
+
+![](https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e)
+
+通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。 ([#74](https://github.com/jaywcjlove/quick-rss/issues/74) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DNS Easy Switcher：简单的 macOS 菜单栏应用，可以快速切换不同的 DNS 提供商](https://wangchujiang.com/quick-rss/issue/73.html) 
 
 ![](https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57)

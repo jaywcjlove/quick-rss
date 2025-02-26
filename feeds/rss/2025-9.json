@@ -1,5 +1,19 @@
 [
   {
+    "id": "74",
+    "url": "https://wangchujiang.com/quick-rss/issue/74.html",
+    "title": "Pulse Pro 是一款专为 Apple 平台设计的网络日志工具",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/88604921-2cc8-4b79-b365-5171337ebc1f\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/dad7dbc7-bc95-460c-9d3b-6acc128c8eb5\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/9c773152-1d5c-4056-ad6e-b3cf3c20dc61\" alt=\"Image\"></p>\n<p>通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。</p>",
+    "summary": "通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。",
+    "banner_image": "https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e",
+    "date_published": "2025-02-26T19:43:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![Image](https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e)\n\n![Image](https://github.com/user-attachments/assets/88604921-2cc8-4b79-b365-5171337ebc1f)\n\n![Image](https://github.com/user-attachments/assets/dad7dbc7-bc95-460c-9d3b-6acc128c8eb5)\n\n![Image](https://github.com/user-attachments/assets/9c773152-1d5c-4056-ad6e-b3cf3c20dc61)\n\n通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。"
+  },
+  {
     "id": "73",
     "url": "https://wangchujiang.com/quick-rss/issue/73.html",
     "title": "DNS Easy Switcher：简单的 macOS 菜单栏应用，可以快速切换不同的 DNS 提供商",

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 26 Feb 2025 04:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 19:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pulse Pro 是一款专为 Apple 平台设计的网络日志工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/74.html</link>
+            <guid>74</guid>
+            <pubDate>Wed, 26 Feb 2025 19:43:18 GMT</pubDate>
+            <description><![CDATA[通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/88604921-2cc8-4b79-b365-5171337ebc1f" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/dad7dbc7-bc95-460c-9d3b-6acc128c8eb5" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/9c773152-1d5c-4056-ad6e-b3cf3c20dc61" alt="Image"></p>
+<p>通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/74" target="_blank">#74</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e" length="0" type="image//user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e"/>
+        </item>
         <item>
             <title><![CDATA[DNS Easy Switcher：简单的 macOS 菜单栏应用，可以快速切换不同的 DNS 提供商]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/73.html</link>

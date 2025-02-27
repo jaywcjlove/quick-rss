@@ -1,5 +1,19 @@
 [
   {
+    "id": "75",
+    "url": "https://wangchujiang.com/quick-rss/issue/75.html",
+    "title": "设置 macOS Launchpad 启动台显示更多应用图标",
+    "content_html": "<p>要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875\" alt=\"\"></p>\n<p>设置 Launchpad 图标 10 行 10列</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">defaults write com.apple.dock springboard-rows -int 10\n</span><span class=\"code-line line-number\" line=\"2\">defaults write com.apple.dock springboard-columns -int 10;killall Dock\n</span></code></pre>\n<p>重置成默认 Launchpad 行列</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">defaults delete com.apple.dock springboard-rows\n</span><span class=\"code-line line-number\" line=\"2\">defaults delete com.apple.dock springboard-columns;killall Dock\n</span></code></pre>",
+    "summary": "要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。 设置 Launchpad 图标 10 行 10列 ``` defaults write com.apple.dock springboard-rows -int 10 defaults write com.apple.dock springboar",
+    "banner_image": "https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875",
+    "date_published": "2025-02-27T03:55:52Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。\n\n![](https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875)\n\n设置 Launchpad 图标 10 行 10列\n\n```\ndefaults write com.apple.dock springboard-rows -int 10\ndefaults write com.apple.dock springboard-columns -int 10;killall Dock\n```\n\n重置成默认 Launchpad 行列\n\n```\ndefaults delete com.apple.dock springboard-rows\ndefaults delete com.apple.dock springboard-columns;killall Dock\n```"
+  },
+  {
     "id": "74",
     "url": "https://wangchujiang.com/quick-rss/issue/74.html",
     "title": "Pulse Pro 是一款专为 Apple 平台设计的网络日志工具",

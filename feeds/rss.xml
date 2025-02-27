@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 26 Feb 2025 19:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 03:56:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,29 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[设置 macOS Launchpad 启动台显示更多应用图标]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/75.html</link>
+            <guid>75</guid>
+            <pubDate>Thu, 27 Feb 2025 03:55:52 GMT</pubDate>
+            <description><![CDATA[要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。 设置 Launchpad 图标 10 行 10列 defaults write com.apple.dock springboard-rows -int 10 defaults write com.apple.dock springboard-co]]></description>
+            <content:encoded><![CDATA[<p>要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。</p>
+<p><img src="https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875" alt=""></p>
+<p>设置 Launchpad 图标 10 行 10列</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">defaults write com.apple.dock springboard-rows -int 10
+</span><span class="code-line line-number" line="2">defaults write com.apple.dock springboard-columns -int 10;killall Dock
+</span></code></pre>
+<p>重置成默认 Launchpad 行列</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">defaults delete com.apple.dock springboard-rows
+</span><span class="code-line line-number" line="2">defaults delete com.apple.dock springboard-columns;killall Dock
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/75" target="_blank">#75</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875" length="0" type="image//user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875"/>
+        </item>
         <item>
             <title><![CDATA[Pulse Pro 是一款专为 Apple 平台设计的网络日志工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/74.html</link>

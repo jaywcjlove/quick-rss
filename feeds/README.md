@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [设置 macOS Launchpad 启动台显示更多应用图标](https://wangchujiang.com/quick-rss/issue/75.html) 
+
+![](https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875)
+
+要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。 设置 Launchpad 图标 10 行 10列 defaults write com.apple.dock springboard-rows -int 10 defaults write com.apple.dock springboard-co ([#75](https://github.com/jaywcjlove/quick-rss/issues/75) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Pulse Pro 是一款专为 Apple 平台设计的网络日志工具](https://wangchujiang.com/quick-rss/issue/74.html) 
 
 ![](https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e)

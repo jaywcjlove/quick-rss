@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！](https://wangchujiang.com/quick-rss/issue/76.html) 
+
+![](https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550)
+
+VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀 https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400 功能亮点： 🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时 🔒 隐私优先：100% 离线处理，确保数据不离开设备 ⚡ 强力模式：智能应 ([#76](https://github.com/jaywcjlove/quick-rss/issues/76) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [设置 macOS Launchpad 启动台显示更多应用图标](https://wangchujiang.com/quick-rss/issue/75.html) 
 
 ![](https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875)

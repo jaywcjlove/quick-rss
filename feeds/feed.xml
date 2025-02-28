@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-02-28T09:12:22.736Z</updated>
+    <updated>2025-02-28T10:54:20.534Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -20,10 +20,10 @@
         <id>76</id>
         <link href="https://wangchujiang.com/quick-rss/issue/76.html"/>
         <updated>2025-02-28T09:11:48.000Z</updated>
-        <summary type="html"><![CDATA[VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀 https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400 功能亮点： 🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时 🔒 隐私优先：100% 离线处理，确保数据不离开设备 ⚡ 强力模式：智能应]]></summary>
+        <summary type="html"><![CDATA[VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀 功能亮点： 🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时 🔒 隐私优先：100% 离线处理，确保数据不离开设备 ⚡ 强力模式：智能应用检测，根据使用的应用自动调整设置 🧠 上下文感知：智能 AI 理解屏幕内容并适应环境 🎯 全局快捷键：可配置的快捷键，快速录音和按键对讲功能 📝 个性化]]></summary>
         <content type="html"><![CDATA[<p>VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀</p>
 <p><img src="https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550" alt="Image"></p>
-<p><a href="https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400">https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400</a></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400?title=VoiceInk&#x26;rehype=video"></video>
 <h3>功能亮点：</h3>
 <ul>
 <li>🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时</li>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-02-27T03:56:20.723Z</updated>
+    <updated>2025-02-28T09:12:22.736Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,40 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！]]></title>
+        <id>76</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/76.html"/>
+        <updated>2025-02-28T09:11:48.000Z</updated>
+        <summary type="html"><![CDATA[VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀 https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400 功能亮点： 🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时 🔒 隐私优先：100% 离线处理，确保数据不离开设备 ⚡ 强力模式：智能应]]></summary>
+        <content type="html"><![CDATA[<p>VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀</p>
+<p><img src="https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550" alt="Image"></p>
+<p><a href="https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400">https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400</a></p>
+<h3>功能亮点：</h3>
+<ul>
+<li>🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时</li>
+<li>🔒 隐私优先：100% 离线处理，确保数据不离开设备</li>
+<li>⚡ 强力模式：智能应用检测，根据使用的应用自动调整设置</li>
+<li>🧠 上下文感知：智能 AI 理解屏幕内容并适应环境</li>
+<li>🎯 全局快捷键：可配置的快捷键，快速录音和按键对讲功能</li>
+<li>📝 个性化词典：训练 AI 理解您的专有术语、行业术语和智能文本替换</li>
+<li>🔄 智能模式：快速切换适配不同写作风格和环境的 AI 模式</li>
+<li>🤖 AI 助手：内置语音助手，类似 ChatGPT 的对话助手</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/76" target="_blank">#76</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设置 macOS Launchpad 启动台显示更多应用图标]]></title>
         <id>75</id>

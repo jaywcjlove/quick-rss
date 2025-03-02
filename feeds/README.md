@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Doll：让你不错过重要消息的菜单栏应用](https://wangchujiang.com/quick-rss/issue/77.html) 
+
+![](https://github.com/user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a)
+
+Doll 是一款 macOS 应用，帮助你不错过重要的消息！在 macOS 中，当你隐藏 Dock，打开全屏窗口并专注于任务时，感觉非常棒。 但我们并不生活在一个理想的世界中，团队成员可能随时需要你的帮助，而当你处于专注模式时，有时你会忘记及时回复！ 像 Mail、Slack 和 Microsoft Teams 这样的消息应用，甚至根本没有提供菜单栏图标。所以，如果你正在全屏工作，或者查看另一个无 ([#77](https://github.com/jaywcjlove/quick-rss/issues/77) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！](https://wangchujiang.com/quick-rss/issue/76.html) 
 
 ![](https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550)

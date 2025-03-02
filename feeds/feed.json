@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "77",
+            "content_html": "<p><img src=\"https://github.com/user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a\" alt=\"Image\"></p>\n<p>Doll 是一款 macOS 应用，帮助你不错过重要的消息！在 macOS 中，当你隐藏 Dock，打开全屏窗口并专注于任务时，感觉非常棒。</p>\n<p>但我们并不生活在一个理想的世界中，团队成员可能随时需要你的帮助，而当你处于专注模式时，有时你会忘记及时回复！</p>\n<p>像 Mail、Slack 和 Microsoft Teams 这样的消息应用，甚至根本没有提供菜单栏图标。所以，如果你正在全屏工作，或者查看另一个无法显示 Dock 的外接显示器，你将无法注意到未读消息！<br>\nDoll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这样的应用的图标和徽章放置在菜单栏中。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/77\" target=\"_blank\">#77</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/77.html",
+            "title": "Doll：让你不错过重要消息的菜单栏应用",
+            "summary": "Doll 是一款 macOS 应用，帮助你不错过重要的消息！在 macOS 中，当你隐藏 Dock，打开全屏窗口并专注于任务时，感觉非常棒。 但我们并不生活在一个理想的世界中，团队成员可能随时需要你的帮助，而当你处于专注模式时，有时你会忘记及时回复！ 像 Mail、Slack 和 Microsoft Teams 这样的消息应用，甚至根本没有提供菜单栏图标。所以，如果你正在全屏工作，或者查看另一个无",
+            "image": "https://github.com/user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a",
+            "date_modified": "2025-03-02T16:41:20.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "76",
             "content_html": "<p>VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀</p>\n<p><img src=\"https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550\" alt=\"Image\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400?title=VoiceInk&#x26;rehype=video\"></video>\n<h3>功能亮点：</h3>\n<ul>\n<li>🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时</li>\n<li>🔒 隐私优先：100% 离线处理，确保数据不离开设备</li>\n<li>⚡ 强力模式：智能应用检测，根据使用的应用自动调整设置</li>\n<li>🧠 上下文感知：智能 AI 理解屏幕内容并适应环境</li>\n<li>🎯 全局快捷键：可配置的快捷键，快速录音和按键对讲功能</li>\n<li>📝 个性化词典：训练 AI 理解您的专有术语、行业术语和智能文本替换</li>\n<li>🔄 智能模式：快速切换适配不同写作风格和环境的 AI 模式</li>\n<li>🤖 AI 助手：内置语音助手，类似 ChatGPT 的对话助手</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/76\" target=\"_blank\">#76</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/76.html",

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 03 Mar 2025 03:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 14:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,37 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MacMusicPlayer 一款优雅简洁的 macOS 菜单栏音乐播放器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/79.html</link>
+            <guid>79</guid>
+            <pubDate>Mon, 03 Mar 2025 06:41:15 GMT</pubDate>
+            <description><![CDATA[MacMusicPlayer 是一款优雅简洁的 macOS 音乐播放器，以菜单栏应用的形式为您提供流畅的音乐播放体验。它采用 SwiftUI 构建，完美融入 macOS 生态系统，为您带来极致的用户体验。 ✨ 核心特性 🎵 轻量级菜单栏播放器，随时掌控音乐播放 🎨 原生 macOS 风格界面，完美支持明暗主题 🌍 多语言支持（简体中文、繁体中文、英语、日语、韩语） 🎧 支持 MP3 音频格]]></description>
+            <content:encoded><![CDATA[<p>MacMusicPlayer 是一款优雅简洁的 macOS 音乐播放器，以菜单栏应用的形式为您提供流畅的音乐播放体验。它采用 SwiftUI 构建，完美融入 macOS 生态系统，为您带来极致的用户体验。</p>
+<p><img src="https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d" alt="Image"></p>
+<h2>✨ 核心特性</h2>
+<ul>
+<li>🎵 轻量级菜单栏播放器，随时掌控音乐播放</li>
+<li>🎨 原生 macOS 风格界面，完美支持明暗主题</li>
+<li>🌍 多语言支持（简体中文、繁体中文、英语、日语、韩语）</li>
+<li>🎧 支持 MP3 音频格式播放</li>
+<li>🔄 多种播放模式（顺序播放、单曲循环、随机播放）</li>
+<li>💾 智能记忆上次音乐文件夹位置</li>
+<li>🚀 支持开机自启动</li>
+<li>😴 防止系统休眠功能，确保音乐不间断</li>
+<li>⌨️ 支持媒体键控制（播放/暂停/上一曲/下一曲）</li>
+</ul>
+<h2>📦 安装 (Homebrew)</h2>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap samzong/tap
+</span><span class="code-line line-number" line="2">brew <span class="token function">install</span> samzong/tap/mac-music-player
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/79" target="_blank">#79</a> • 
+      <a href="https://github.com/samzong" target="_blank">@samzong</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d" length="0" type="image//user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d"/>
+        </item>
         <item>
             <title><![CDATA[Zen Browser：让你的浏览更纯净、更安心的 ～ 浏览器！]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/78.html</link>

@@ -1,5 +1,19 @@
 [
   {
+    "id": "79",
+    "url": "https://wangchujiang.com/quick-rss/issue/79.html",
+    "title": "MacMusicPlayer 一款优雅简洁的 macOS 菜单栏音乐播放器",
+    "content_html": "<p>MacMusicPlayer 是一款优雅简洁的 macOS 音乐播放器，以菜单栏应用的形式为您提供流畅的音乐播放体验。它采用 SwiftUI 构建，完美融入 macOS 生态系统，为您带来极致的用户体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d\" alt=\"Image\"></p>\n<h2>✨ 核心特性</h2>\n<ul>\n<li>🎵 轻量级菜单栏播放器，随时掌控音乐播放</li>\n<li>🎨 原生 macOS 风格界面，完美支持明暗主题</li>\n<li>🌍 多语言支持（简体中文、繁体中文、英语、日语、韩语）</li>\n<li>🎧 支持 MP3 音频格式播放</li>\n<li>🔄 多种播放模式（顺序播放、单曲循环、随机播放）</li>\n<li>💾 智能记忆上次音乐文件夹位置</li>\n<li>🚀 支持开机自启动</li>\n<li>😴 防止系统休眠功能，确保音乐不间断</li>\n<li>⌨️ 支持媒体键控制（播放/暂停/上一曲/下一曲）</li>\n</ul>\n<h2>📦 安装 (Homebrew)</h2>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew tap samzong/tap\n</span><span class=\"code-line line-number\" line=\"2\">brew <span class=\"token function\">install</span> samzong/tap/mac-music-player\n</span></code></pre>",
+    "summary": "MacMusicPlayer 是一款优雅简洁的 macOS 音乐播放器，以菜单栏应用的形式为您提供流畅的音乐播放体验。它采用 SwiftUI 构建，完美融入 macOS 生态系统，为您带来极致的用户体验。 ## ✨ 核心特性 - 🎵 轻量级菜单栏播放器，随时掌控音乐播放 - 🎨 原生 macOS 风格界面，完美支持明暗主题 - 🌍 多语言支持（简体中文、繁体中文、英语、日语、韩语） - 🎧",
+    "banner_image": "https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d",
+    "date_published": "2025-03-03T06:41:15Z",
+    "author": {
+      "name": "samzong",
+      "link": "https://avatars.githubusercontent.com/u/13782141?v=4"
+    },
+    "markdownContent": "MacMusicPlayer 是一款优雅简洁的 macOS 音乐播放器，以菜单栏应用的形式为您提供流畅的音乐播放体验。它采用 SwiftUI 构建，完美融入 macOS 生态系统，为您带来极致的用户体验。\n\n![Image](https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d)\n\n## ✨ 核心特性\n\n- 🎵 轻量级菜单栏播放器，随时掌控音乐播放\n- 🎨 原生 macOS 风格界面，完美支持明暗主题\n- 🌍 多语言支持（简体中文、繁体中文、英语、日语、韩语）\n- 🎧 支持 MP3 音频格式播放\n- 🔄 多种播放模式（顺序播放、单曲循环、随机播放）\n- 💾 智能记忆上次音乐文件夹位置\n- 🚀 支持开机自启动\n- 😴 防止系统休眠功能，确保音乐不间断\n- ⌨️ 支持媒体键控制（播放/暂停/上一曲/下一曲）\n\n## 📦 安装 (Homebrew)\n\n```bash\nbrew tap samzong/tap\nbrew install samzong/tap/mac-music-player\n```"
+  },
+  {
     "id": "78",
     "url": "https://wangchujiang.com/quick-rss/issue/78.html",
     "title": "Zen Browser：让你的浏览更纯净、更安心的 ～ 浏览器！",

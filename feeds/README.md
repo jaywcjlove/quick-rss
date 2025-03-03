@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MacMusicPlayer 一款优雅简洁的 macOS 菜单栏音乐播放器](https://wangchujiang.com/quick-rss/issue/79.html) 
+
+![](https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d)
+
+MacMusicPlayer 是一款优雅简洁的 macOS 音乐播放器，以菜单栏应用的形式为您提供流畅的音乐播放体验。它采用 SwiftUI 构建，完美融入 macOS 生态系统，为您带来极致的用户体验。 ✨ 核心特性 🎵 轻量级菜单栏播放器，随时掌控音乐播放 🎨 原生 macOS 风格界面，完美支持明暗主题 🌍 多语言支持（简体中文、繁体中文、英语、日语、韩语） 🎧 支持 MP3 音频格 ([#79](https://github.com/jaywcjlove/quick-rss/issues/79) - [@samzong](https://github.com/samzong))
 ## [Zen Browser：让你的浏览更纯净、更安心的 ～ 浏览器！](https://wangchujiang.com/quick-rss/issue/78.html) 
 
 ![](https://github.com/user-attachments/assets/70471c67-459b-42d5-a170-67206723c692)

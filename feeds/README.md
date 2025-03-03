@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Zen Browser：让你的浏览更纯净、更安心的 ～ 浏览器！](https://wangchujiang.com/quick-rss/issue/78.html) 
+
+![](https://github.com/user-attachments/assets/70471c67-459b-42d5-a170-67206723c692)
+
+🌿 Zen Browser 是一款专注于隐私保护的浏览器，它能够有效屏蔽跟踪器、广告及其他不必要的内容，让你享受安静、纯粹的上网体验。 🚀 作为一款隐私至上的浏览器，Zen 不仅能保护你的数据安全，还能提升网页加载速度，让浏览更加流畅。它支持从 Crowdin Zen Release 下载最新版本，让你随时体验最佳性能。 如果你厌倦了被广告和跟踪器打扰，想要真正自由、安全地上网，Zen Bro ([#78](https://github.com/jaywcjlove/quick-rss/issues/78) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Doll：让你不错过重要消息的菜单栏应用](https://wangchujiang.com/quick-rss/issue/77.html) 
 
 ![](https://github.com/user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a)

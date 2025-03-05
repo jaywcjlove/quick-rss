@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 03 Mar 2025 14:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 02:01:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,57 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reqable： 新一代 API 开发调试工具 🚀]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/80.html</link>
+            <guid>80</guid>
+            <pubDate>Wed, 05 Mar 2025 02:00:36 GMT</pubDate>
+            <description><![CDATA[一站式代理调试 + API 请求测试解决方案，Reqable = Fiddler + Charles + Postman，让 API 调试更快、更简单！ 创建 API 请求测试 无论是流量列表、API 集合还是 cURL，Reqable 都能快速生成 API 请求。支持完整的 REST API 测试功能，包括： 编辑请求参数 - 轻松调整请求 URL、Query 参数、路径参数等。 请求头与授权 ]]></description>
+            <content:encoded><![CDATA[<p>一站式代理调试 + API 请求测试解决方案，Reqable = Fiddler + Charles + Postman，让 API 调试更快、更简单！</p>
+<p><img src="https://github.com/user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/8d3798a4-dac7-4221-9111-d83277a890de" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/a538fbbc-3a00-4774-a6d7-bde15a8ccd73" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/b02fcc8c-5d56-4bd6-aa95-7cc00026b56a" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/f3a4a454-cd75-45ed-bf1a-6d1daf2e065f" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/2531dc70-ba42-49b5-a57a-9299ea6cda59" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/b1d2fff3-b03b-4f51-a138-df30fbdb4584" alt="Image"></p>
+<h3>创建 API 请求测试</h3>
+<p>无论是流量列表、API 集合还是 cURL，Reqable 都能快速生成 API 请求。支持完整的 REST API 测试功能，包括：</p>
+<ul>
+<li>编辑请求参数 - 轻松调整请求 URL、Query 参数、路径参数等。</li>
+<li>请求头与授权 - 支持多种认证方式，满足不同 API 需求。</li>
+<li>请求体编辑 - 支持 JSON、FormData、XML、纯文本等多种格式，模拟各种请求场景。</li>
+</ul>
+<h3>请求响应对比</h3>
+<p>通过内置的 可视化比对工具，快速分析不同请求和响应之间的差异，帮助开发者精准定位 API 变化及问题。</p>
+<h3>重写、断点与脚本</h3>
+<p>提供 自定义重写、断点调试 和 Python 脚本 支持，满足各种复杂测试需求：</p>
+<ul>
+<li>拦截请求或响应 - 设定条件精准捕获 API 调用。</li>
+<li>修改或模拟数据 - 在不修改后端代码的情况下，测试不同 API 结果。</li>
+<li>动态调试 API - 通过 Python 脚本实时修改流量，满足高级测试需求。</li>
+</ul>
+<h3>既要好用，也要好看</h3>
+<p>Reqable 提供极简的 UI 设计，支持：</p>
+<ul>
+<li>深色 &#x26; 浅色主题 - 适应不同使用场景，护眼更舒适。</li>
+<li>11 种强调色 - 个性化界面，适配你的工作风格。</li>
+<li>15 种代码配色 - 让代码阅读更清晰，开发更高效。</li>
+</ul>
+<h3>桌面端 + 移动端协同</h3>
+<p>无需手动配置 WiFi 代理，手机流量可自动转发到桌面端进行分析，帮助你：</p>
+<ul>
+<li>高效调试移动端 API - 解决移动端 API 调试痛点，提高终端开发效率。</li>
+<li>实时抓包分析 - 即时查看并处理请求，无需额外工具。</li>
+</ul>
+<p>Reqable，集成 API 调试、代理抓包、请求测试于一体，助你高效开发，极速调试！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/80" target="_blank">#80</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1" length="0" type="image//user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1"/>
+        </item>
         <item>
             <title><![CDATA[MacMusicPlayer 一款优雅简洁的 macOS 菜单栏音乐播放器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/79.html</link>

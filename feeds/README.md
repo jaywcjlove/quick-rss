@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Reqable： 新一代 API 开发调试工具 🚀](https://wangchujiang.com/quick-rss/issue/80.html) 
+
+![](https://github.com/user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1)
+
+一站式代理调试 + API 请求测试解决方案，Reqable = Fiddler + Charles + Postman，让 API 调试更快、更简单！ 创建 API 请求测试 无论是流量列表、API 集合还是 cURL，Reqable 都能快速生成 API 请求。支持完整的 REST API 测试功能，包括： 编辑请求参数 - 轻松调整请求 URL、Query 参数、路径参数等。 请求头与授权  ([#80](https://github.com/jaywcjlove/quick-rss/issues/80) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MacMusicPlayer 一款优雅简洁的 macOS 菜单栏音乐播放器](https://wangchujiang.com/quick-rss/issue/79.html) 
 
 ![](https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d)

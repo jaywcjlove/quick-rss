@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Cog：一款开源音频播放器](https://wangchujiang.com/quick-rss/issue/81.html) 
+
+![](https://github.com/user-attachments/assets/3cf77884-88e8-4eeb-970f-853048d0b251)
+
+Cog 是一款由 Vincent Spader 开发的开源音频播放器，遵循 GPL 协议，致力于提供高质量的音频播放体验。如果你正在寻找一款简洁、功能强大的音频播放器，Cog 可能正是你需要的工具。 为什么选择 Cog？ 开源且免费：Cog 完全免费，且是开源的，用户可以根据需要修改代码，甚至贡献自己的改进。 支持多种音频格式：Cog 支持多种音频格式，特别适合音频爱好者和专业人士使用。 简洁直观 ([#81](https://github.com/jaywcjlove/quick-rss/issues/81) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Reqable： 新一代 API 开发调试工具 🚀](https://wangchujiang.com/quick-rss/issue/80.html) 
 
 ![](https://github.com/user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1)

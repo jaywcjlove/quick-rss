@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "82",
+            "content_html": "<p>Tempo 是一款 macOS 应用，旨在简化 Git 操作，提供直观的图形用户界面。它使用 SwiftUI 和 AppKit 开发，替代了基于命令行的 Git 操作，为 macOS 用户提供了一个清晰易用的界面。你无需再输入繁琐的命令，轻松点击按钮就能高效地管理 Git 任务，专注于编码。</p>\n<p><img src=\"https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/15da3eee-0467-4580-adfe-b13e1663ae7a\" alt=\"Image\"></p>\n<p>此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API 执行按块（hunk）提交。由于该应用使用了 GPT-4o-mini，它的费用相对较低，让你在使用时无需过多担心成本（API 费用为每百万输入 token 15 美分，每百万输出 token 60 美分）。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/82\" target=\"_blank\">#82</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/82.html",
+            "title": "Tempo：支持 AI 的简洁高效 macOS GUI  Git 客户端（开源）",
+            "summary": "Tempo 是一款 macOS 应用，旨在简化 Git 操作，提供直观的图形用户界面。它使用 SwiftUI 和 AppKit 开发，替代了基于命令行的 Git 操作，为 macOS 用户提供了一个清晰易用的界面。你无需再输入繁琐的命令，轻松点击按钮就能高效地管理 Git 任务，专注于编码。 此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API ",
+            "image": "https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870",
+            "date_modified": "2025-03-07T01:20:11.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "81",
             "content_html": "<p>Cog 是一款由 Vincent Spader 开发的开源音频播放器，遵循 GPL 协议，致力于提供高质量的音频播放体验。如果你正在寻找一款简洁、功能强大的音频播放器，Cog 可能正是你需要的工具。</p>\n<img width=\"643\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3cf77884-88e8-4eeb-970f-853048d0b251\">\n<h3>为什么选择 Cog？</h3>\n<ol>\n<li>开源且免费：Cog 完全免费，且是开源的，用户可以根据需要修改代码，甚至贡献自己的改进。</li>\n<li>支持多种音频格式：Cog 支持多种音频格式，特别适合音频爱好者和专业人士使用。</li>\n<li>简洁直观的界面：Cog 提供了一个简单而直观的界面，用户可以专注于音乐本身，而不被复杂的设置所困扰。</li>\n<li>强大的扩展性：Cog 的库文件包含了多个解码和标签处理库，这些库都可以在 Xcode 中编译运行，扩展性和兼容性非常好。</li>\n</ol>\n<h3>结语</h3>\n<p>如果你热爱音乐并且希望尝试一款简洁而功能强大的音频播放器，Cog 是一个值得尝试的好选择。它的开源精神和不断更新的功能使其成为一款非常适合长期使用的工具。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/81\" target=\"_blank\">#81</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/81.html",

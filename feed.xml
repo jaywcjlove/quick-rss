@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-03-06T02:17:10.982Z</updated>
+    <updated>2025-03-07T01:21:24.764Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Tempo：支持 AI 的简洁高效 macOS GUI  Git 客户端（开源）]]></title>
+        <id>82</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/82.html"/>
+        <updated>2025-03-07T01:20:11.000Z</updated>
+        <summary type="html"><![CDATA[Tempo 是一款 macOS 应用，旨在简化 Git 操作，提供直观的图形用户界面。它使用 SwiftUI 和 AppKit 开发，替代了基于命令行的 Git 操作，为 macOS 用户提供了一个清晰易用的界面。你无需再输入繁琐的命令，轻松点击按钮就能高效地管理 Git 任务，专注于编码。 此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API ]]></summary>
+        <content type="html"><![CDATA[<p>Tempo 是一款 macOS 应用，旨在简化 Git 操作，提供直观的图形用户界面。它使用 SwiftUI 和 AppKit 开发，替代了基于命令行的 Git 操作，为 macOS 用户提供了一个清晰易用的界面。你无需再输入繁琐的命令，轻松点击按钮就能高效地管理 Git 任务，专注于编码。</p>
+<p><img src="https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/15da3eee-0467-4580-adfe-b13e1663ae7a" alt="Image"></p>
+<p>此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API 执行按块（hunk）提交。由于该应用使用了 GPT-4o-mini，它的费用相对较低，让你在使用时无需过多担心成本（API 费用为每百万输入 token 15 美分，每百万输出 token 60 美分）。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/82" target="_blank">#82</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cog：一款开源音频播放器]]></title>
         <id>81</id>

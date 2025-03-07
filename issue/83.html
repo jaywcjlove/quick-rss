@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yaak：开源桌面 API 客户端，支持 macOS/Linux/Windows Quick RSS</title>
+    <meta name="description" content="Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/83.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提">
+    <meta property="twitter:description" content="Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.1">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.1"></script>
+    <script src="../js/dark-mode.js?v=1.34.1"></script>
+    <script src="../js/markdown-style.js?v=1.34.1"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="yaak开源桌面-api-客户端支持-macoslinuxwindows"><a aria-hidden="true" tabindex="-1" href="#yaak开源桌面-api-客户端支持-macoslinuxwindows" class="anchor"><span class="icon icon-link"></span></a>Yaak：开源桌面 API 客户端，支持 macOS/Linux/Windows</h1>
+        <p>Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提供了现代化的开发体验和强大的功能。</p>
+        <p>
+          <img src="https://github.com/user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948" alt="">
+        </p>
+        <p>功能亮点：</p>
+        <ul>
+          <li>🪂 从 Postman、Insomnia、OpenAPI、Swagger 或 Curl 导入数据。</li>
+          <li>📤 支持通过 REST、GraphQL、SSE、WebSocket 或 gRPC 发送请求。</li>
+          <li>🔐 自动使用 OAuth 2.0、JWT 令牌、基本认证等方式授权请求。</li>
+          <li>🔎 使用 JSONPath 或 XPath 查询过滤响应体。</li>
+          <li>⛓️ 链接多个请求，动态引用值。</li>
+          <li>📂 将请求组织到工作区和嵌套文件夹中。</li>
+          <li>🧮 使用环境变量轻松切换生产和开发环境。</li>
+          <li>🏷️ 使用模板标签发送动态值，如 UUID 或时间戳。</li>
+          <li>🎨 从多种内置主题中选择，或创建自己的主题。</li>
+          <li>💽 将工作区数据镜像到目录，便于与 Git 或 Dropbox 集成。</li>
+          <li>📜 查看每个请求的响应历史。</li>
+          <li>🔌 创建自定义插件，用于认证、模板标签等功能。</li>
+          <li>🛜 配置代理以访问防火墙屏蔽的 API。</li>
+        </ul>
+        <p>Yaak 为开发者提供了灵活高效的 API 测试和管理工具，旨在提高开发过程中的生产力。作为开源项目，Yaak 欢迎社区的参与和贡献，帮助其不断完善和拓展功能。</p>
+        <p>👉 <a href="https://github.com/mountain-loop/yaak">https://github.com/mountain-loop/yaak</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/mountain-loop/yaak" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/83" target="_blank">#83</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.1"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.1
+    </div>
+    <script src="../js/tocbot.js?v=1.34.1"></script>
+  </body>
+</html>

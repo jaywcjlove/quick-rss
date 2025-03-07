@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Tempo：支持 AI 的简洁高效 macOS GUI  Git 客户端（开源）](https://wangchujiang.com/quick-rss/issue/82.html) 
+
+![](https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870)
+
+Tempo 是一款 macOS 应用，旨在简化 Git 操作，提供直观的图形用户界面。它使用 SwiftUI 和 AppKit 开发，替代了基于命令行的 Git 操作，为 macOS 用户提供了一个清晰易用的界面。你无需再输入繁琐的命令，轻松点击按钮就能高效地管理 Git 任务，专注于编码。 此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API  ([#82](https://github.com/jaywcjlove/quick-rss/issues/82) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Cog：一款开源音频播放器](https://wangchujiang.com/quick-rss/issue/81.html) 
 
 ![](https://github.com/user-attachments/assets/3cf77884-88e8-4eeb-970f-853048d0b251)

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "83",
+            "content_html": "<p>Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提供了现代化的开发体验和强大的功能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948\" alt=\"\"></p>\n<p>功能亮点：</p>\n<ul>\n<li>🪂 从 Postman、Insomnia、OpenAPI、Swagger 或 Curl 导入数据。</li>\n<li>📤 支持通过 REST、GraphQL、SSE、WebSocket 或 gRPC 发送请求。</li>\n<li>🔐 自动使用 OAuth 2.0、JWT 令牌、基本认证等方式授权请求。</li>\n<li>🔎 使用 JSONPath 或 XPath 查询过滤响应体。</li>\n<li>⛓️ 链接多个请求，动态引用值。</li>\n<li>📂 将请求组织到工作区和嵌套文件夹中。</li>\n<li>🧮 使用环境变量轻松切换生产和开发环境。</li>\n<li>🏷️ 使用模板标签发送动态值，如 UUID 或时间戳。</li>\n<li>🎨 从多种内置主题中选择，或创建自己的主题。</li>\n<li>💽 将工作区数据镜像到目录，便于与 Git 或 Dropbox 集成。</li>\n<li>📜 查看每个请求的响应历史。</li>\n<li>🔌 创建自定义插件，用于认证、模板标签等功能。</li>\n<li>🛜 配置代理以访问防火墙屏蔽的 API。</li>\n</ul>\n<p>Yaak 为开发者提供了灵活高效的 API 测试和管理工具，旨在提高开发过程中的生产力。作为开源项目，Yaak 欢迎社区的参与和贡献，帮助其不断完善和拓展功能。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/83\" target=\"_blank\">#83</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/83.html",
+            "title": "Yaak：开源桌面 API 客户端，支持 macOS/Linux/Windows",
+            "summary": "Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提供了现代化的开发体验和强大的功能。 功能亮点： 🪂 从 Postman、Insomnia、OpenAPI、Swagger 或 Curl 导入数据。 📤 支持",
+            "image": "https://github.com/user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948",
+            "date_modified": "2025-03-07T02:21:31.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "82",
             "content_html": "<p>Tempo 是一款 macOS 应用，旨在简化 Git 操作，提供直观的图形用户界面。它使用 SwiftUI 和 AppKit 开发，替代了基于命令行的 Git 操作，为 macOS 用户提供了一个清晰易用的界面。你无需再输入繁琐的命令，轻松点击按钮就能高效地管理 Git 任务，专注于编码。</p>\n<p><img src=\"https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/15da3eee-0467-4580-adfe-b13e1663ae7a\" alt=\"Image\"></p>\n<p>此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API 执行按块（hunk）提交。由于该应用使用了 GPT-4o-mini，它的费用相对较低，让你在使用时无需过多担心成本（API 费用为每百万输入 token 15 美分，每百万输出 token 60 美分）。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/82\" target=\"_blank\">#82</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/82.html",

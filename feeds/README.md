@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Yaak：开源桌面 API 客户端，支持 macOS/Linux/Windows](https://wangchujiang.com/quick-rss/issue/83.html) 
+
+![](https://github.com/user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948)
+
+Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提供了现代化的开发体验和强大的功能。 功能亮点： 🪂 从 Postman、Insomnia、OpenAPI、Swagger 或 Curl 导入数据。 📤 支持 ([#83](https://github.com/jaywcjlove/quick-rss/issues/83) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Tempo：支持 AI 的简洁高效 macOS GUI  Git 客户端（开源）](https://wangchujiang.com/quick-rss/issue/82.html) 
 
 ![](https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870)

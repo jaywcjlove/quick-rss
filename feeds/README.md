@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Apple AI - 你的 macOS 菜单栏智能助手](https://wangchujiang.com/quick-rss/issue/84.html) 
+
+![](https://github.com/user-attachments/assets/18536764-0893-434a-a1f0-b0355b70ec64)
+
+Apple AI 是一款原生 macOS 菜单栏应用，集成了 ChatGPT、Claude、GitHub Copilot、Perplexity、DeepSeek、Grok 等顶级 AI 助手，为你提供便捷、高效的智能体验。 主要特性： 🚀 一键访问 - 菜单栏快捷调用所有 AI 助手 ⚡ 原生性能 - 运行流畅，占用资源少 🧠 持久会话 - 重启应用仍可保持上下文 🎨 个性化主题 - 支持深 ([#84](https://github.com/jaywcjlove/quick-rss/issues/84) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Yaak：开源桌面 API 客户端，支持 macOS/Linux/Windows](https://wangchujiang.com/quick-rss/issue/83.html) 
 
 ![](https://github.com/user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948)

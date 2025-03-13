@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-03-07T02:21:52.671Z</updated>
+    <updated>2025-03-13T13:28:50.101Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,37 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Apple AI - 你的 macOS 菜单栏智能助手]]></title>
+        <id>84</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/84.html"/>
+        <updated>2025-03-13T13:28:22.000Z</updated>
+        <summary type="html"><![CDATA[Apple AI 是一款原生 macOS 菜单栏应用，集成了 ChatGPT、Claude、GitHub Copilot、Perplexity、DeepSeek、Grok 等顶级 AI 助手，为你提供便捷、高效的智能体验。 主要特性： 🚀 一键访问 - 菜单栏快捷调用所有 AI 助手 ⚡ 原生性能 - 运行流畅，占用资源少 🧠 持久会话 - 重启应用仍可保持上下文 🎨 个性化主题 - 支持深]]></summary>
+        <content type="html"><![CDATA[<p>Apple AI 是一款原生 macOS 菜单栏应用，集成了 ChatGPT、Claude、GitHub Copilot、Perplexity、DeepSeek、Grok 等顶级 AI 助手，为你提供便捷、高效的智能体验。</p>
+<p><img src="https://github.com/user-attachments/assets/18536764-0893-434a-a1f0-b0355b70ec64" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/87800e99-5ff0-43db-b5da-ab664a2669ec" alt="Image"></p>
+<h3>主要特性：</h3>
+<p>🚀 一键访问 - 菜单栏快捷调用所有 AI 助手
+⚡ 原生性能 - 运行流畅，占用资源少
+🧠 持久会话 - 重启应用仍可保持上下文
+🎨 个性化主题 - 支持深色/浅色模式及自定义配色
+🔍 智能历史 - 快速搜索并回顾对话记录
+🔒 隐私优先 - 所有数据默认本地存储</p>
+<p>简洁高效，让 AI 更贴近你的 macOS 体验！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/84" target="_blank">#84</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yaak：开源桌面 API 客户端，支持 macOS/Linux/Windows]]></title>
         <id>83</id>

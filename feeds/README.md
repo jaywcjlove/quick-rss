@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [RightMenu Master v1.17.0 发布！强化你的 Finder 右键菜单！](https://wangchujiang.com/quick-rss/issue/86.html) 
+
+![](https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467)
+
+一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。 📥 下载：https://apps.apple.com/app/rightmenu-master/6737160756 💬 反馈：https://github.com/jaywcjlove/rightmenu-master 本次更新 ✨  ([#86](https://github.com/jaywcjlove/quick-rss/issues/86) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [electerm：一款强大的开源跨平台终端工具](https://wangchujiang.com/quick-rss/issue/85.html) 
 
 ![](https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c)

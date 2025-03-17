@@ -1,5 +1,19 @@
 [
   {
+    "id": "86",
+    "url": "https://wangchujiang.com/quick-rss/issue/86.html",
+    "title": "RightMenu Master v1.17.0 发布！强化你的 Finder 右键菜单！",
+    "content_html": "<p>一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。</p>\n<p><img src=\"https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467\" alt=\"\"></p>\n<p>📥 下载：<a href=\"https://apps.apple.com/app/rightmenu-master/6737160756\">https://apps.apple.com/app/rightmenu-master/6737160756</a>\n💬 反馈：<a href=\"https://github.com/jaywcjlove/rightmenu-master\">https://github.com/jaywcjlove/rightmenu-master</a></p>\n<h3>本次更新</h3>\n<p>✨ 新增菜单栏文件展示 &#x26; 文件夹图标<br>\n🐞 菜单栏授权优化 &#x26; 国际化问题</p>\n<p><img src=\"https://github.com/user-attachments/assets/b1e35bfb-60f8-4525-8c8b-27ae1183a813\" alt=\"Image\"></p>",
+    "summary": "一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。 📥 下载：https://apps.apple.com/app/rightmenu-master/6737160756 💬 反馈：https://github.com/jaywcjlove/rightmenu-master ### 本次更",
+    "banner_image": "https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467",
+    "date_published": "2025-03-17T14:16:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。\n\n![](https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467)\n\n📥 下载：https://apps.apple.com/app/rightmenu-master/6737160756\n💬 反馈：https://github.com/jaywcjlove/rightmenu-master\n\n### 本次更新\n\n✨ 新增菜单栏文件展示 & 文件夹图标  \n🐞 菜单栏授权优化 & 国际化问题  \n\n![Image](https://github.com/user-attachments/assets/b1e35bfb-60f8-4525-8c8b-27ae1183a813)"
+  },
+  {
     "id": "85",
     "url": "https://wangchujiang.com/quick-rss/issue/85.html",
     "title": "electerm：一款强大的开源跨平台终端工具",

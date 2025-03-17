@@ -1,5 +1,19 @@
 [
   {
+    "id": "85",
+    "url": "https://wangchujiang.com/quick-rss/issue/85.html",
+    "title": "electerm：一款强大的开源跨平台终端工具",
+    "content_html": "<p>如果你需要一个功能强大的终端客户端来处理各种远程连接任务，electerm 是一个值得推荐的工具。它支持 SSH、Telnet、串口、RDP、VNC 和 SFTP，适用于 Linux、macOS 和 Windows 等多个平台。无论你是开发者、系统管理员，还是对远程管理有需求的用户，electerm 都能提供便捷的终端连接体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c\" alt=\"Image\"></p>\n<p>最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web 版（electerm-web），可以直接在浏览器中运行，包括移动设备的支持，方便用户随时随地进行远程管理。此外，Docker 镜像 版本让你可以轻松部署它到服务器或容器环境中，极大地提高了灵活性。</p>\n<p>作为开源项目，electerm 让开发者能够根据自己的需求进行定制，同时享受社区提供的持续更新和改进。如果你正在寻找一款跨平台、多功能且易于使用的终端工具，electerm 无疑是一个理想的选择。</p>",
+    "summary": "如果你需要一个功能强大的终端客户端来处理各种远程连接任务，electerm 是一个值得推荐的工具。它支持 SSH、Telnet、串口、RDP、VNC 和 SFTP，适用于 Linux、macOS 和 Windows 等多个平台。无论你是开发者、系统管理员，还是对远程管理有需求的用户，electerm 都能提供便捷的终端连接体验。 最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web ",
+    "banner_image": "https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c",
+    "date_published": "2025-03-17T13:31:43Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "如果你需要一个功能强大的终端客户端来处理各种远程连接任务，electerm 是一个值得推荐的工具。它支持 SSH、Telnet、串口、RDP、VNC 和 SFTP，适用于 Linux、macOS 和 Windows 等多个平台。无论你是开发者、系统管理员，还是对远程管理有需求的用户，electerm 都能提供便捷的终端连接体验。\n\n![Image](https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c)\n\n最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web 版（electerm-web），可以直接在浏览器中运行，包括移动设备的支持，方便用户随时随地进行远程管理。此外，Docker 镜像 版本让你可以轻松部署它到服务器或容器环境中，极大地提高了灵活性。\n\n作为开源项目，electerm 让开发者能够根据自己的需求进行定制，同时享受社区提供的持续更新和改进。如果你正在寻找一款跨平台、多功能且易于使用的终端工具，electerm 无疑是一个理想的选择。"
+  },
+  {
     "id": "84",
     "url": "https://wangchujiang.com/quick-rss/issue/84.html",
     "title": "Apple AI - 你的 macOS 菜单栏智能助手",

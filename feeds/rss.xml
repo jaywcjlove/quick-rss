@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 13 Mar 2025 13:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 13:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[electerm：一款强大的开源跨平台终端工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/85.html</link>
+            <guid>85</guid>
+            <pubDate>Mon, 17 Mar 2025 13:31:43 GMT</pubDate>
+            <description><![CDATA[如果你需要一个功能强大的终端客户端来处理各种远程连接任务，electerm 是一个值得推荐的工具。它支持 SSH、Telnet、串口、RDP、VNC 和 SFTP，适用于 Linux、macOS 和 Windows 等多个平台。无论你是开发者、系统管理员，还是对远程管理有需求的用户，electerm 都能提供便捷的终端连接体验。 最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web ]]></description>
+            <content:encoded><![CDATA[<p>如果你需要一个功能强大的终端客户端来处理各种远程连接任务，electerm 是一个值得推荐的工具。它支持 SSH、Telnet、串口、RDP、VNC 和 SFTP，适用于 Linux、macOS 和 Windows 等多个平台。无论你是开发者、系统管理员，还是对远程管理有需求的用户，electerm 都能提供便捷的终端连接体验。</p>
+<p><img src="https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c" alt="Image"></p>
+<p>最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web 版（electerm-web），可以直接在浏览器中运行，包括移动设备的支持，方便用户随时随地进行远程管理。此外，Docker 镜像 版本让你可以轻松部署它到服务器或容器环境中，极大地提高了灵活性。</p>
+<p>作为开源项目，electerm 让开发者能够根据自己的需求进行定制，同时享受社区提供的持续更新和改进。如果你正在寻找一款跨平台、多功能且易于使用的终端工具，electerm 无疑是一个理想的选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/85" target="_blank">#85</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c" length="0" type="image//user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c"/>
+        </item>
         <item>
             <title><![CDATA[Apple AI - 你的 macOS 菜单栏智能助手]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/84.html</link>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [electerm：一款强大的开源跨平台终端工具](https://wangchujiang.com/quick-rss/issue/85.html) 
+
+![](https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c)
+
+如果你需要一个功能强大的终端客户端来处理各种远程连接任务，electerm 是一个值得推荐的工具。它支持 SSH、Telnet、串口、RDP、VNC 和 SFTP，适用于 Linux、macOS 和 Windows 等多个平台。无论你是开发者、系统管理员，还是对远程管理有需求的用户，electerm 都能提供便捷的终端连接体验。 最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web  ([#85](https://github.com/jaywcjlove/quick-rss/issues/85) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Apple AI - 你的 macOS 菜单栏智能助手](https://wangchujiang.com/quick-rss/issue/84.html) 
 
 ![](https://github.com/user-attachments/assets/18536764-0893-434a-a1f0-b0355b70ec64)

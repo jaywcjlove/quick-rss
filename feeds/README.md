@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Docs：一个开源的协作笔记、维基和文档平台，Notion 或 Outline 的开源替代方案](https://wangchujiang.com/quick-rss/issue/88.html) 
+
+![](https://github.com/user-attachments/assets/b7c07694-0c95-4fce-9e17-09cfe2a984fd)
+
+Docs 是一个开源的协作笔记、维基和文档平台，旨在提供可扩展的团队协作体验。它采用 Django 和 React 构建，是 Notion 或 Outline 的开源替代方案。 ￼ 主要特点： 协作写作： Docs 提供简单的协作编辑功能，避免了 Markdown 格式的复杂性，帮助团队专注于内容创作。 离线支持： 即使在离线状态下，您也可以继续编辑，待网络恢复后，您的修改将自动同步。 简洁美观： ([#88](https://github.com/jaywcjlove/quick-rss/issues/88) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Folder：开源 Google Drive 替代自托管数字资产管理解决方案，帮助用户存储、组织和共享文件与文件夹。](https://wangchujiang.com/quick-rss/issue/87.html) 
 
 ![](https://github.com/user-attachments/assets/1ac4b7c7-9271-4b3d-baaa-5d7639d93a67)

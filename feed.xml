@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-03-17T13:32:12.023Z</updated>
+    <updated>2025-03-17T14:16:48.873Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,34 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[RightMenu Master v1.17.0 发布！强化你的 Finder 右键菜单！]]></title>
+        <id>86</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/86.html"/>
+        <updated>2025-03-17T14:16:18.000Z</updated>
+        <summary type="html"><![CDATA[一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。 📥 下载：https://apps.apple.com/app/rightmenu-master/6737160756 💬 反馈：https://github.com/jaywcjlove/rightmenu-master 本次更新 ✨ ]]></summary>
+        <content type="html"><![CDATA[<p>一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。</p>
+<p><img src="https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467" alt=""></p>
+<p>📥 下载：<a href="https://apps.apple.com/app/rightmenu-master/6737160756">https://apps.apple.com/app/rightmenu-master/6737160756</a>
+💬 反馈：<a href="https://github.com/jaywcjlove/rightmenu-master">https://github.com/jaywcjlove/rightmenu-master</a></p>
+<h3>本次更新</h3>
+<p>✨ 新增菜单栏文件展示 &#x26; 文件夹图标<br>
+🐞 菜单栏授权优化 &#x26; 国际化问题</p>
+<p><img src="https://github.com/user-attachments/assets/b1e35bfb-60f8-4525-8c8b-27ae1183a813" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/86" target="_blank">#86</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[electerm：一款强大的开源跨平台终端工具]]></title>
         <id>85</id>

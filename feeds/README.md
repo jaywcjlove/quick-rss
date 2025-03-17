@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Folder：开源 Google Drive 替代自托管数字资产管理解决方案，帮助用户存储、组织和共享文件与文件夹。](https://wangchujiang.com/quick-rss/issue/87.html) 
+
+![](https://github.com/user-attachments/assets/1ac4b7c7-9271-4b3d-baaa-5d7639d93a67)
+
+Folder 是一款开源的无服务器数字资产管理（DAM）软件，旨在帮助用户存储、组织和共享文件与文件夹。 主要特点： Google Drive 替代方案：Folder 允许用户存储文件、管理资产，并通过内容分发网络（CDN）进行分发。 适用于 AI 和现代工作流程：Folder 为 AI 和现代工作流程提供优化，支持大规模文件处理和高效访问。 自托管：用户可以将 Folder 部署在自己的服务器上 ([#87](https://github.com/jaywcjlove/quick-rss/issues/87) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [RightMenu Master v1.17.0 发布！强化你的 Finder 右键菜单！](https://wangchujiang.com/quick-rss/issue/86.html) 
 
 ![](https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467)

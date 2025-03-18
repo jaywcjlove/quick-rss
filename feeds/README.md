@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Videoer v1 发布：强大的视频格式批量转换工具，支持音频批量提取和字幕添加提取](https://wangchujiang.com/quick-rss/issue/89.html) 
+
+![](https://github.com/user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c)
+
+Videoer 是一款功能强大的视频格式转换工具，支持 MP4、MKV、M4V、MOV、WEBM、AVI、GIF 等格式之间的相互转换。无论是单个文件转换还是批量处理，都能轻松完成。同时，Videoer 还提供音频提取、字幕管理等多种实用功能，让你的视频处理更加高效便捷。 📥 下载：https://apps.apple.com/app/videoer/6742680573 💬 反馈：https ([#89](https://github.com/jaywcjlove/quick-rss/issues/89) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Docs：一个开源的协作笔记、维基和文档平台，Notion 或 Outline 的开源替代方案](https://wangchujiang.com/quick-rss/issue/88.html) 
 
 ![](https://github.com/user-attachments/assets/b7c07694-0c95-4fce-9e17-09cfe2a984fd)

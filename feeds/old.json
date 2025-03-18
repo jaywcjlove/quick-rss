@@ -1,5 +1,19 @@
 [
   {
+    "id": "89",
+    "url": "https://wangchujiang.com/quick-rss/issue/89.html",
+    "title": "Videoer v1 发布：强大的视频格式批量转换工具，支持音频批量提取和字幕添加提取",
+    "content_html": "<p>Videoer 是一款功能强大的视频格式转换工具，支持 MP4、MKV、M4V、MOV、WEBM、AVI、GIF 等格式之间的相互转换。无论是单个文件转换还是批量处理，都能轻松完成。同时，Videoer 还提供音频提取、字幕管理等多种实用功能，让你的视频处理更加高效便捷。</p>\n<p>📥 下载：<a href=\"https://apps.apple.com/app/videoer/6742680573\">https://apps.apple.com/app/videoer/6742680573</a><br>\n💬 反馈：<a href=\"https://github.com/jaywcjlove/videoer\">https://github.com/jaywcjlove/videoer</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/eb5e1375-e2ca-42c9-9173-6f2d01e3412e\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/bc84f11c-d17e-410f-8bc7-29f3ae334836\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c3e6700b-edaa-4fbc-ad06-9884c52832be\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/ca2567c7-1c5b-42e7-9123-84c220cf4333\" alt=\"\"></p>\n<h3>◈ 主要功能 ◈</h3>\n<p>■ 转换视频 - 轻松转换各种主流视频格式，如 MP4、MKV、M4V、MOV、WEBM、AVI、GIF。\n■ 提取音频 - 从视频中提取音频，并导出为 mp3, aac, wav, flac, alac, ogg, opus, ac3, eac3, dts, truehd 等格式。\n■ 导出字幕 - 解析并提取视频内嵌或外挂的字幕文件（如 SRT、ASS、VTT）。\n■ 添加字幕 - 在视频中嵌入字幕，支持多种字幕格式，增强观看体验。\n■ 批量转换视频 - 支持多个视频文件同时转换，提升处理效率。\n■ 转换大于 1G 的视频 - 轻松处理大文件，保证转换质量。\n■ 批量提取音频 - 批量从多个视频中提取音频，适用于音频剪辑或归档。</p>\n<p>无论是视频剪辑爱好者、内容创作者，还是需要频繁处理视频文件的专业用户，Videoer 都能满足你的需求，让视频转换变得更加简单高效！</p>",
+    "summary": "Videoer 是一款功能强大的视频格式转换工具，支持 MP4、MKV、M4V、MOV、WEBM、AVI、GIF 等格式之间的相互转换。无论是单个文件转换还是批量处理，都能轻松完成。同时，Videoer 还提供音频提取、字幕管理等多种实用功能，让你的视频处理更加高效便捷。 📥 下载：https://apps.apple.com/app/videoer/6742680573 💬 反馈：https",
+    "banner_image": "https://github.com/user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c",
+    "date_published": "2025-03-18T15:15:24Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Videoer 是一款功能强大的视频格式转换工具，支持 MP4、MKV、M4V、MOV、WEBM、AVI、GIF 等格式之间的相互转换。无论是单个文件转换还是批量处理，都能轻松完成。同时，Videoer 还提供音频提取、字幕管理等多种实用功能，让你的视频处理更加高效便捷。\n\n\n📥 下载：https://apps.apple.com/app/videoer/6742680573  \n💬 反馈：https://github.com/jaywcjlove/videoer  \n\n![](https://github.com/user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c)\n\n![](https://github.com/user-attachments/assets/eb5e1375-e2ca-42c9-9173-6f2d01e3412e)\n\n![](https://github.com/user-attachments/assets/bc84f11c-d17e-410f-8bc7-29f3ae334836)\n\n![](https://github.com/user-attachments/assets/c3e6700b-edaa-4fbc-ad06-9884c52832be)\n\n![](https://github.com/user-attachments/assets/ca2567c7-1c5b-42e7-9123-84c220cf4333)\n\n### ◈ 主要功能 ◈  \n\n■ 转换视频 - 轻松转换各种主流视频格式，如 MP4、MKV、M4V、MOV、WEBM、AVI、GIF。\n■ 提取音频 - 从视频中提取音频，并导出为 mp3, aac, wav, flac, alac, ogg, opus, ac3, eac3, dts, truehd 等格式。\n■ 导出字幕 - 解析并提取视频内嵌或外挂的字幕文件（如 SRT、ASS、VTT）。\n■ 添加字幕 - 在视频中嵌入字幕，支持多种字幕格式，增强观看体验。\n■ 批量转换视频 - 支持多个视频文件同时转换，提升处理效率。\n■ 转换大于 1G 的视频 - 轻松处理大文件，保证转换质量。\n■ 批量提取音频 - 批量从多个视频中提取音频，适用于音频剪辑或归档。\n\n无论是视频剪辑爱好者、内容创作者，还是需要频繁处理视频文件的专业用户，Videoer 都能满足你的需求，让视频转换变得更加简单高效！"
+  },
+  {
     "id": "88",
     "url": "https://wangchujiang.com/quick-rss/issue/88.html",
     "title": "Docs：一个开源的协作笔记、维基和文档平台，Notion 或 Outline 的开源替代方案",

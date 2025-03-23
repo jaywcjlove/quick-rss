@@ -1,5 +1,19 @@
 [
   {
+    "id": "90",
+    "url": "https://wangchujiang.com/quick-rss/issue/90.html",
+    "title": "MD2Card：将 Markdown 文档转换为精美的知识卡片，支持多种风格的免费 web 应用",
+    "content_html": "<img width=\"1379\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08\">\n<p>MD2Card 是一款简单易用的 Markdown 转知识卡片工具，旨在帮助用户轻松创建精美的知识卡片。它支持多种主题风格，包括温暖柔和、简约高级灰、梦幻渐变、清新自然等多种设计，适用于各种创作需求。无论你是在做学习笔记、整理知识，还是进行内容分享，MD2Card 都能帮助你高效完成。</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/9e27de60-16a6-4da5-a5f0-9cc720bea6d3?title=MD2Card&#x26;rehype=video\"></video>\n<p>该应用支持完整的 Markdown 语法，包括标题、列表、代码块和表格等，用户可以快速将 Markdown 文档转化为精美的卡片，同时享受实时预览和自动分页功能。它还具备响应式设计和暗色模式，带来更加舒适的使用体验。此外，MD2Card 还支持一键导出为图片，方便你与他人分享或保存。</p>\n<img width=\"1255\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/711b4c3e-3832-4f31-a076-925d3300409c\">\n<p>MD2Card 完全免费，支持一键开始创作，提供了多达 15 种风格，满足不同用户的创作需求。立即体验，轻松高效地创作你的知识卡片！</p>",
+    "summary": "MD2Card 是一款简单易用的 Markdown 转知识卡片工具，旨在帮助用户轻松创建精美的知识卡片。它支持多种主题风格，包括温暖柔和、简约高级灰、梦幻渐变、清新自然等多种设计，适用于各种创作需求。无论你是在做学习笔记、整理知识，还是进行内容分享，MD2Card 都能帮助你高效完成。 https://github.com/user-attachments/assets/9e27de60-16a6",
+    "banner_image": null,
+    "date_published": "2025-03-22T02:11:21Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "<img width=\"1379\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08\" />\n\nMD2Card 是一款简单易用的 Markdown 转知识卡片工具，旨在帮助用户轻松创建精美的知识卡片。它支持多种主题风格，包括温暖柔和、简约高级灰、梦幻渐变、清新自然等多种设计，适用于各种创作需求。无论你是在做学习笔记、整理知识，还是进行内容分享，MD2Card 都能帮助你高效完成。\n\nhttps://github.com/user-attachments/assets/9e27de60-16a6-4da5-a5f0-9cc720bea6d3?title=MD2Card&rehype=video\n\n该应用支持完整的 Markdown 语法，包括标题、列表、代码块和表格等，用户可以快速将 Markdown 文档转化为精美的卡片，同时享受实时预览和自动分页功能。它还具备响应式设计和暗色模式，带来更加舒适的使用体验。此外，MD2Card 还支持一键导出为图片，方便你与他人分享或保存。\n\n<img width=\"1255\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/711b4c3e-3832-4f31-a076-925d3300409c\" />\n\nMD2Card 完全免费，支持一键开始创作，提供了多达 15 种风格，满足不同用户的创作需求。立即体验，轻松高效地创作你的知识卡片！"
+  },
+  {
     "id": "89",
     "url": "https://wangchujiang.com/quick-rss/issue/89.html",
     "title": "Videoer v1 发布：强大的视频格式批量转换工具，支持音频批量提取和字幕添加提取",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MD2Card：将 Markdown 文档转换为精美的知识卡片，支持多种风格的免费 web 应用](https://wangchujiang.com/quick-rss/issue/90.html) 
+
+![](https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08)
+
+MD2Card 是一款简单易用的 Markdown 转知识卡片工具，旨在帮助用户轻松创建精美的知识卡片。它支持多种主题风格，包括温暖柔和、简约高级灰、梦幻渐变、清新自然等多种设计，适用于各种创作需求。无论你是在做学习笔记、整理知识，还是进行内容分享，MD2Card 都能帮助你高效完成。 该应用支持完整的 Markdown 语法，包括标题、列表、代码块和表格等，用户可以快速将 Markdown 文档 ([#90](https://github.com/jaywcjlove/quick-rss/issues/90) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Videoer v1 发布：强大的视频格式批量转换工具，支持音频批量提取和字幕添加提取](https://wangchujiang.com/quick-rss/issue/89.html) 
 
 ![](https://github.com/user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c)

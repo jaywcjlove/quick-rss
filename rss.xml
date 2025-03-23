@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 18 Mar 2025 15:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 09:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,25 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MD2Card：将 Markdown 文档转换为精美的知识卡片，支持多种风格的免费 web 应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/90.html</link>
+            <guid>90</guid>
+            <pubDate>Sat, 22 Mar 2025 02:11:21 GMT</pubDate>
+            <description><![CDATA[MD2Card 是一款简单易用的 Markdown 转知识卡片工具，旨在帮助用户轻松创建精美的知识卡片。它支持多种主题风格，包括温暖柔和、简约高级灰、梦幻渐变、清新自然等多种设计，适用于各种创作需求。无论你是在做学习笔记、整理知识，还是进行内容分享，MD2Card 都能帮助你高效完成。 该应用支持完整的 Markdown 语法，包括标题、列表、代码块和表格等，用户可以快速将 Markdown 文档]]></description>
+            <content:encoded><![CDATA[<img width="1379" alt="Image" src="https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08">
+<p>MD2Card 是一款简单易用的 Markdown 转知识卡片工具，旨在帮助用户轻松创建精美的知识卡片。它支持多种主题风格，包括温暖柔和、简约高级灰、梦幻渐变、清新自然等多种设计，适用于各种创作需求。无论你是在做学习笔记、整理知识，还是进行内容分享，MD2Card 都能帮助你高效完成。</p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/9e27de60-16a6-4da5-a5f0-9cc720bea6d3?title=MD2Card&#x26;rehype=video"></video>
+<p>该应用支持完整的 Markdown 语法，包括标题、列表、代码块和表格等，用户可以快速将 Markdown 文档转化为精美的卡片，同时享受实时预览和自动分页功能。它还具备响应式设计和暗色模式，带来更加舒适的使用体验。此外，MD2Card 还支持一键导出为图片，方便你与他人分享或保存。</p>
+<img width="1255" alt="Image" src="https://github.com/user-attachments/assets/711b4c3e-3832-4f31-a076-925d3300409c">
+<p>MD2Card 完全免费，支持一键开始创作，提供了多达 15 种风格，满足不同用户的创作需求。立即体验，轻松高效地创作你的知识卡片！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/90" target="_blank">#90</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08" length="0" type="image//user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08"/>
+        </item>
         <item>
             <title><![CDATA[Videoer v1 发布：强大的视频格式批量转换工具，支持音频批量提取和字幕添加提取]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/89.html</link>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [QuickRecorder: 多功能、轻量化、高性能的 macOS 屏幕录制工具](https://wangchujiang.com/quick-rss/issue/91.html) 
+
+![](https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5)
+
+QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。 这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄 ([#91](https://github.com/jaywcjlove/quick-rss/issues/91) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MD2Card：将 Markdown 文档转换为精美的知识卡片，支持多种风格的免费 web 应用](https://wangchujiang.com/quick-rss/issue/90.html) 
 
 ![](https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08)

@@ -1,5 +1,19 @@
 [
   {
+    "id": "91",
+    "url": "https://wangchujiang.com/quick-rss/issue/91.html",
+    "title": "QuickRecorder: 多功能、轻量化、高性能的 macOS 屏幕录制工具",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5\" alt=\"Image\"></p>\n<p>QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。</p>\n<p>这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄像头画面。对于低版本的 macOS 用户，也可以使用悬浮窗模式实现类似效果。此外，QuickRecorder 还支持 HEVC with Alpha 特性，允许在输出文件中包含 Alpha 通道，兼容 iMovie 与 FCPX，极大增强了后期处理的灵活性。</p>\n<p>无论是专业录制还是简单的日常需求，QuickRecorder 都是你值得拥有的最佳选择。</p>",
+    "summary": "QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。 这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄",
+    "banner_image": "https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5",
+    "date_published": "2025-03-25T06:56:45Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![Image](https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5)\n\nQuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。\n\n这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄像头画面。对于低版本的 macOS 用户，也可以使用悬浮窗模式实现类似效果。此外，QuickRecorder 还支持 HEVC with Alpha 特性，允许在输出文件中包含 Alpha 通道，兼容 iMovie 与 FCPX，极大增强了后期处理的灵活性。\n\n无论是专业录制还是简单的日常需求，QuickRecorder 都是你值得拥有的最佳选择。"
+  },
+  {
     "id": "90",
     "url": "https://wangchujiang.com/quick-rss/issue/90.html",
     "title": "MD2Card：将 Markdown 文档转换为精美的知识卡片，支持多种风格的免费 web 应用",

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 23 Mar 2025 09:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 06:57:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[QuickRecorder: 多功能、轻量化、高性能的 macOS 屏幕录制工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/91.html</link>
+            <guid>91</guid>
+            <pubDate>Tue, 25 Mar 2025 06:56:45 GMT</pubDate>
+            <description><![CDATA[QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。 这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5" alt="Image"></p>
+<p>QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。</p>
+<p>这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄像头画面。对于低版本的 macOS 用户，也可以使用悬浮窗模式实现类似效果。此外，QuickRecorder 还支持 HEVC with Alpha 特性，允许在输出文件中包含 Alpha 通道，兼容 iMovie 与 FCPX，极大增强了后期处理的灵活性。</p>
+<p>无论是专业录制还是简单的日常需求，QuickRecorder 都是你值得拥有的最佳选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/91" target="_blank">#91</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5" length="0" type="image//user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5"/>
+        </item>
         <item>
             <title><![CDATA[MD2Card：将 Markdown 文档转换为精美的知识卡片，支持多种风格的免费 web 应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/90.html</link>

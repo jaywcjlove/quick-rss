@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Drawnix：一款简洁、开源的在线白板工具](https://wangchujiang.com/quick-rss/issue/92.html) 
+
+![](https://github.com/user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f)
+
+在线白板工具 Drawnix —— 名字源于绘画(Draw)与凤凰(Phoenix)的灵感交织。 Drawnix 的定位是一个开箱即用、开源、免费的在线白板工具产品， 集思维导图、流程图、画笔于一体，目前它刚启动几个月，还在持续迭代基础功能，大家有做流程图、思维导图的需求时不妨试一试，有任何的缺陷或者基础交互问题我都会及时跟进处理。 👉 体验地址：https://drawnix.com/ 👉  ([#92](https://github.com/jaywcjlove/quick-rss/issues/92) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [QuickRecorder: 多功能、轻量化、高性能的 macOS 屏幕录制工具](https://wangchujiang.com/quick-rss/issue/91.html) 
 
 ![](https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5)

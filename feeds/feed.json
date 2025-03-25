@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "92",
+            "content_html": "<p>在线白板工具 Drawnix —— 名字源于绘画(Draw)与凤凰(Phoenix)的灵感交织。</p>\n<p><img src=\"https://github.com/user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f\" alt=\"Image\"></p>\n<p>Drawnix 的定位是一个开箱即用、开源、免费的在线白板工具产品， 集思维导图、流程图、画笔于一体，目前它刚启动几个月，还在持续迭代基础功能，大家有做流程图、思维导图的需求时不妨试一试，有任何的缺陷或者基础交互问题我都会及时跟进处理。</p>\n<p>👉 体验地址：<a href=\"https://drawnix.com/\">https://drawnix.com/</a>\n👉 开源仓库：<a href=\"https://github.com/plait-board/drawnix\">https://github.com/plait-board/drawnix</a></p>\n<h3>特性</h3>\n<ul>\n<li>💯 免费 + 开源</li>\n<li>⚒️ 思维导图、流程图</li>\n<li>🖌 画笔（新增 🔥🔥🔥）</li>\n<li>😀 插入 Iconfont 表情（🚧 支持中...）</li>\n<li>🚀 基于插件机制 - 可灵活扩展</li>\n<li>🖼️ 📃 导出为 PNG, JPG, JSON</li>\n<li>💾 自动保存（浏览器缓存）</li>\n<li>⚡ 编辑特性：撤销、重做、复制、粘贴等</li>\n<li>🌌 无限画布：缩放、滚动、</li>\n<li>🎨 主题模式</li>\n<li>📱 移动设备适配</li>\n<li>🎨 支持 mermaid 图标</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/92\" target=\"_blank\">#92</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/92.html",
+            "title": "Drawnix：一款简洁、开源的在线白板工具",
+            "summary": "在线白板工具 Drawnix —— 名字源于绘画(Draw)与凤凰(Phoenix)的灵感交织。 Drawnix 的定位是一个开箱即用、开源、免费的在线白板工具产品， 集思维导图、流程图、画笔于一体，目前它刚启动几个月，还在持续迭代基础功能，大家有做流程图、思维导图的需求时不妨试一试，有任何的缺陷或者基础交互问题我都会及时跟进处理。 👉 体验地址：https://drawnix.com/ 👉 ",
+            "image": "https://github.com/user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f",
+            "date_modified": "2025-03-25T07:01:48.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "91",
             "content_html": "<p><img src=\"https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5\" alt=\"Image\"></p>\n<p>QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。</p>\n<p>这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄像头画面。对于低版本的 macOS 用户，也可以使用悬浮窗模式实现类似效果。此外，QuickRecorder 还支持 HEVC with Alpha 特性，允许在输出文件中包含 Alpha 通道，兼容 iMovie 与 FCPX，极大增强了后期处理的灵活性。</p>\n<p>无论是专业录制还是简单的日常需求，QuickRecorder 都是你值得拥有的最佳选择。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/91\" target=\"_blank\">#91</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/91.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Notion Exporter：可以将 Notion 导出为长图、卡片、富文本等多种格式的浏览器插件，可以分享到小红书、公众号等平台](https://wangchujiang.com/quick-rss/issue/94.html) 
+
+![](https://github.com/user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250)
+
+🌟 对于需要在多个媒体平台发布内容的用户，Notion Exporter 帮助用户将同一份内容转成多种格式，比如小红书图文、公众号富文本、即刻纯文本等，未来还会支持知乎、推特等等。得益于 Notion 优秀的编辑体验和强大的文档管理，让 Notion 成为用户的自媒体内容创作中心。 🔗 官网：https://notionexporter.com/ 📺 视频：https://www.bilib ([#94](https://github.com/jaywcjlove/quick-rss/issues/94) - [@Shanshi66](https://github.com/Shanshi66))
 ## [WiseMindAI：必备 AI 本地知识库，支持10+大语言模型，数据完全本地化，文档总结、对话、笔记、海报生成等](https://wangchujiang.com/quick-rss/issue/93.html) 
 
 ![](https://github.com/user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e)

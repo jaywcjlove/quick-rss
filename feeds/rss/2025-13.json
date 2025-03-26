@@ -1,5 +1,19 @@
 [
   {
+    "id": "94",
+    "url": "https://wangchujiang.com/quick-rss/issue/94.html",
+    "title": "Notion Exporter：可以将 Notion 导出为长图、卡片、富文本等多种格式的浏览器插件，可以分享到小红书、公众号等平台",
+    "content_html": "<p>🌟 对于需要在多个媒体平台发布内容的用户，Notion Exporter 帮助用户将同一份内容转成多种格式，比如小红书图文、公众号富文本、即刻纯文本等，未来还会支持知乎、推特等等。得益于 Notion 优秀的编辑体验和强大的文档管理，让 Notion 成为用户的自媒体内容创作中心。</p>\n<p>🔗 官网：<a href=\"https://notionexporter.com/\">https://notionexporter.com/</a>\n📺  视频：<a href=\"https://www.bilibili.com/video/BV1teXGYXEqR/?vd_source=6e7e6d6b3fcba82e73e370771f853af0\">https://www.bilibili.com/video/BV1teXGYXEqR/?vd_source=6e7e6d6b3fcba82e73e370771f853af0</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250\" alt=\"Image\"></p>\n<p>💪 Notion Exporter 支持了大部分 Notion 基础组件，包括表格、代码等，后续也会支持更多。也支持所有文字颜色，包括下划线、删除线、高亮等。</p>\n<p><img src=\"https://github.com/user-attachments/assets/f19701d8-4ce3-4f96-87d8-48b168df1a37\" alt=\"Image\"></p>\n<p>💯 为了满足用户的个性化需求，Notion Exporter 针对每一种格式都开发了一套强大的模板定制系统，模板样式、颜色、字体、布局、各种组件样式等等都可以进行自定义。</p>\n<p><img src=\"https://github.com/user-attachments/assets/a1e703f3-15d6-49df-8696-f66660a6a0e0\" alt=\"Image\"></p>",
+    "summary": "🌟 对于需要在多个媒体平台发布内容的用户，Notion Exporter 帮助用户将同一份内容转成多种格式，比如小红书图文、公众号富文本、即刻纯文本等，未来还会支持知乎、推特等等。得益于 Notion 优秀的编辑体验和强大的文档管理，让 Notion 成为用户的自媒体内容创作中心。 🔗 官网：https://notionexporter.com/ 📺 视频：https://www.bilib",
+    "banner_image": "https://github.com/user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250",
+    "date_published": "2025-03-26T09:09:19Z",
+    "author": {
+      "name": "Shanshi66",
+      "link": "https://avatars.githubusercontent.com/u/8945794?v=4"
+    },
+    "markdownContent": "🌟 对于需要在多个媒体平台发布内容的用户，Notion Exporter 帮助用户将同一份内容转成多种格式，比如小红书图文、公众号富文本、即刻纯文本等，未来还会支持知乎、推特等等。得益于 Notion 优秀的编辑体验和强大的文档管理，让 Notion 成为用户的自媒体内容创作中心。\n\n🔗 官网：https://notionexporter.com/\n📺  视频：https://www.bilibili.com/video/BV1teXGYXEqR/?vd_source=6e7e6d6b3fcba82e73e370771f853af0\n\n![Image](https://github.com/user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250)\n\n💪 Notion Exporter 支持了大部分 Notion 基础组件，包括表格、代码等，后续也会支持更多。也支持所有文字颜色，包括下划线、删除线、高亮等。\n\n![Image](https://github.com/user-attachments/assets/f19701d8-4ce3-4f96-87d8-48b168df1a37)\n\n💯 为了满足用户的个性化需求，Notion Exporter 针对每一种格式都开发了一套强大的模板定制系统，模板样式、颜色、字体、布局、各种组件样式等等都可以进行自定义。\n\n![Image](https://github.com/user-attachments/assets/a1e703f3-15d6-49df-8696-f66660a6a0e0)"
+  },
+  {
     "id": "93",
     "url": "https://wangchujiang.com/quick-rss/issue/93.html",
     "title": "WiseMindAI：必备 AI 本地知识库，支持10+大语言模型，数据完全本地化，文档总结、对话、笔记、海报生成等",

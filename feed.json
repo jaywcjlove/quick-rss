@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "93",
+            "content_html": "<p>🌟 WiseMindAI 是一款融合了 AI 功能的本地知识库产品。创建知识库并总结📑、与知识库对话💬、生成知识卡片📏，全都能轻松搞定！</p>\n<p>🌹 如果你使用过 ima、Cherry Studio，应该会喜欢 WiseMindAI，它就像是 ima + Cherry Studio 的本地化升级版，功能更强大，使用也更安心～</p>\n<p>💯 WiseMindAI 最让人放心的，就是数据保存在本地。不管是断网，还是应用停运，你的数据都绝对安全😎！再也不用因为数据丢失而感到糟心了～</p>\n<p>🔗 官方网址：<a href=\"https://wisemind-ai.com/\">https://wisemind-ai.com/</a>\n📺 视频介绍：<a href=\"https://space.bilibili.com/174378454/lists/5062350\">https://space.bilibili.com/174378454/lists/5062350</a></p>\n<p>👉 我还写了一篇文章带你快速掌握 WiseMindAI！<a href=\"https://mp.weixin.qq.com/s/FmvGxFPKNjhAwD7M2OTaHw\">https://mp.weixin.qq.com/s/FmvGxFPKNjhAwD7M2OTaHw</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/cd8e6b00-aa66-4d2c-a4fb-ca7c7c60da0d\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/2d0b8840-44d0-4d98-971a-1ed62542ea9b\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/2deae7e7-c9c6-4852-8bb5-a3169a467c07\" alt=\"Image\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/93\" target=\"_blank\">#93</a> • \n      <a href=\"https://github.com/pingan8787\" target=\"_blank\">@pingan8787</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/93.html",
+            "title": "WiseMindAI：必备 AI 本地知识库，支持10+大语言模型，数据完全本地化，文档总结、对话、笔记、海报生成等",
+            "summary": "🌟 WiseMindAI 是一款融合了 AI 功能的本地知识库产品。创建知识库并总结📑、与知识库对话💬、生成知识卡片📏，全都能轻松搞定！ 🌹 如果你使用过 ima、Cherry Studio，应该会喜欢 WiseMindAI，它就像是 ima + Cherry Studio 的本地化升级版，功能更强大，使用也更安心～ 💯 WiseMindAI 最让人放心的，就是数据保存在本地。不管是断",
+            "image": "https://github.com/user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e",
+            "date_modified": "2025-03-25T23:42:17.000Z",
+            "author": {
+                "name": "pingan8787",
+                "url": "https://avatars.githubusercontent.com/u/22870463?v=4"
+            }
+        },
+        {
             "id": "92",
             "content_html": "<p>在线白板工具 Drawnix —— 名字源于绘画(Draw)与凤凰(Phoenix)的灵感交织。</p>\n<p><img src=\"https://github.com/user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f\" alt=\"Image\"></p>\n<p>Drawnix 的定位是一个开箱即用、开源、免费的在线白板工具产品， 集思维导图、流程图、画笔于一体，目前它刚启动几个月，还在持续迭代基础功能，大家有做流程图、思维导图的需求时不妨试一试，有任何的缺陷或者基础交互问题我都会及时跟进处理。</p>\n<p>👉 体验地址：<a href=\"https://drawnix.com/\">https://drawnix.com/</a>\n👉 开源仓库：<a href=\"https://github.com/plait-board/drawnix\">https://github.com/plait-board/drawnix</a></p>\n<h3>特性</h3>\n<ul>\n<li>💯 免费 + 开源</li>\n<li>⚒️ 思维导图、流程图</li>\n<li>🖌 画笔（新增 🔥🔥🔥）</li>\n<li>😀 插入 Iconfont 表情（🚧 支持中...）</li>\n<li>🚀 基于插件机制 - 可灵活扩展</li>\n<li>🖼️ 📃 导出为 PNG, JPG, JSON</li>\n<li>💾 自动保存（浏览器缓存）</li>\n<li>⚡ 编辑特性：撤销、重做、复制、粘贴等</li>\n<li>🌌 无限画布：缩放、滚动、</li>\n<li>🎨 主题模式</li>\n<li>📱 移动设备适配</li>\n<li>🎨 支持 mermaid 图标</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/92\" target=\"_blank\">#92</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/92.html",

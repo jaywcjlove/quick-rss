@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-03-25T07:02:45.320Z</updated>
+    <updated>2025-03-26T05:51:02.414Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,36 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[WiseMindAI：必备 AI 本地知识库，支持10+大语言模型，数据完全本地化，文档总结、对话、笔记、海报生成等]]></title>
+        <id>93</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/93.html"/>
+        <updated>2025-03-25T23:42:17.000Z</updated>
+        <summary type="html"><![CDATA[🌟 WiseMindAI 是一款融合了 AI 功能的本地知识库产品。创建知识库并总结📑、与知识库对话💬、生成知识卡片📏，全都能轻松搞定！ 🌹 如果你使用过 ima、Cherry Studio，应该会喜欢 WiseMindAI，它就像是 ima + Cherry Studio 的本地化升级版，功能更强大，使用也更安心～ 💯 WiseMindAI 最让人放心的，就是数据保存在本地。不管是断]]></summary>
+        <content type="html"><![CDATA[<p>🌟 WiseMindAI 是一款融合了 AI 功能的本地知识库产品。创建知识库并总结📑、与知识库对话💬、生成知识卡片📏，全都能轻松搞定！</p>
+<p>🌹 如果你使用过 ima、Cherry Studio，应该会喜欢 WiseMindAI，它就像是 ima + Cherry Studio 的本地化升级版，功能更强大，使用也更安心～</p>
+<p>💯 WiseMindAI 最让人放心的，就是数据保存在本地。不管是断网，还是应用停运，你的数据都绝对安全😎！再也不用因为数据丢失而感到糟心了～</p>
+<p>🔗 官方网址：<a href="https://wisemind-ai.com/">https://wisemind-ai.com/</a>
+📺 视频介绍：<a href="https://space.bilibili.com/174378454/lists/5062350">https://space.bilibili.com/174378454/lists/5062350</a></p>
+<p>👉 我还写了一篇文章带你快速掌握 WiseMindAI！<a href="https://mp.weixin.qq.com/s/FmvGxFPKNjhAwD7M2OTaHw">https://mp.weixin.qq.com/s/FmvGxFPKNjhAwD7M2OTaHw</a></p>
+<p><img src="https://github.com/user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/cd8e6b00-aa66-4d2c-a4fb-ca7c7c60da0d" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/2d0b8840-44d0-4d98-971a-1ed62542ea9b" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/2deae7e7-c9c6-4852-8bb5-a3169a467c07" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/93" target="_blank">#93</a> • 
+      <a href="https://github.com/pingan8787" target="_blank">@pingan8787</a>
+      ]]></content>
+        <author>
+            <name>pingan8787</name>
+            <uri>https://avatars.githubusercontent.com/u/22870463?v=4</uri>
+        </author>
+        <contributor>
+            <name>pingan8787</name>
+            <uri>https://avatars.githubusercontent.com/u/22870463?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drawnix：一款简洁、开源的在线白板工具]]></title>
         <id>92</id>

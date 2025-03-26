@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [WiseMindAI：必备 AI 本地知识库，支持10+大语言模型，数据完全本地化，文档总结、对话、笔记、海报生成等](https://wangchujiang.com/quick-rss/issue/93.html) 
+
+![](https://github.com/user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e)
+
+🌟 WiseMindAI 是一款融合了 AI 功能的本地知识库产品。创建知识库并总结📑、与知识库对话💬、生成知识卡片📏，全都能轻松搞定！ 🌹 如果你使用过 ima、Cherry Studio，应该会喜欢 WiseMindAI，它就像是 ima + Cherry Studio 的本地化升级版，功能更强大，使用也更安心～ 💯 WiseMindAI 最让人放心的，就是数据保存在本地。不管是断 ([#93](https://github.com/jaywcjlove/quick-rss/issues/93) - [@pingan8787](https://github.com/pingan8787))
 ## [Drawnix：一款简洁、开源的在线白板工具](https://wangchujiang.com/quick-rss/issue/92.html) 
 
 ![](https://github.com/user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f)

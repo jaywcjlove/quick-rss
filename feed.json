@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "96",
+            "content_html": "<p>正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。</p>\n<p><img src=\"https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c76348d7-de57-4d07-9357-7d3cde0a2869\" alt=\"Image\"></p>\n<p>借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。</p>\n<h3>主要特点：</h3>\n<ol>\n<li>多种云存储支持：无缝连接 Google Drive、Amazon S3、NextCloud、WebDAV、FTP、SFTP 等多个存储服务。</li>\n<li>实时通知：通过 Webhooks、电子邮件和多种通知服务（如 Pushbullet、Gotify、Pushover）获取即时更新。</li>\n<li>高级传输调度：使用 Cron 表达式进行灵活的自动化传输。非常适合备份和同步任务。</li>\n<li>实时传输监控：跟踪文件传输的字节数和数量，并提供详细的日志和状态更新。</li>\n<li>元数据跟踪：完整的文件历史记录和详细信息，包括处理时间戳、文件大小和哈希值。</li>\n<li>多线程传输：通过并发文件处理和自动队列管理来提升性能。</li>\n<li>安全性：基于角色的访问控制、多种身份验证选项和安全密码管理。</li>\n</ol>\n<p>无论您是企业用户需要管理文件传输，还是个人用户想要可靠的同步，GoMFT 都能提供出色的性能、灵活性和易用性。</p>\n<p>立即开始 使用 GoMFT！访问 GoMFT 并释放高效文件传输的力量。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/96\" target=\"_blank\">#96</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/96.html",
+            "title": "GoMFT：最终的 Web 管理型文件传输 web 应用",
+            "summary": "正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。 借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。 主要特点： 多种云存储支持：无缝连接 Google D",
+            "image": "https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615",
+            "date_modified": "2025-03-27T11:00:44.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "95",
             "content_html": "<p>使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。</p>\n<p><img src=\"https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7\" alt=\"Image\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/66795b54-0670-4ba8-9640-21e645c7fd87?title=Bekuto3D&#x26;rehype=video\"></video>\n<p>无论您从事 3D 打印 还是 3D 网站开发，Bekuto 3D 都是将您的创意付诸实践的完美工具。从原型设计到互动 3D 资产，可能性无穷无尽！</p>\n<h3>主要特点：</h3>\n<ol>\n<li>轻松将 SVG 文件转换为 3D 模型</li>\n<li>支持导出为 STL、OBJ 或 GLTF 格式</li>\n<li>适用于 3D 打印 和 3D 网站开发</li>\n</ol>\n<p>准备好体验了吗？访问 <a href=\"https://bekuto3d.ayaka.io/\">bekuto3d.ayaka.io</a> 开始创建吧！🌐</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/95\" target=\"_blank\">#95</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/95.html",

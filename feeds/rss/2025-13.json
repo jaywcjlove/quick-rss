@@ -1,5 +1,19 @@
 [
   {
+    "id": "96",
+    "url": "https://wangchujiang.com/quick-rss/issue/96.html",
+    "title": "GoMFT：最终的 Web 管理型文件传输 web 应用",
+    "content_html": "<p>正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。</p>\n<p><img src=\"https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c76348d7-de57-4d07-9357-7d3cde0a2869\" alt=\"Image\"></p>\n<p>借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。</p>\n<h3>主要特点：</h3>\n<ol>\n<li>多种云存储支持：无缝连接 Google Drive、Amazon S3、NextCloud、WebDAV、FTP、SFTP 等多个存储服务。</li>\n<li>实时通知：通过 Webhooks、电子邮件和多种通知服务（如 Pushbullet、Gotify、Pushover）获取即时更新。</li>\n<li>高级传输调度：使用 Cron 表达式进行灵活的自动化传输。非常适合备份和同步任务。</li>\n<li>实时传输监控：跟踪文件传输的字节数和数量，并提供详细的日志和状态更新。</li>\n<li>元数据跟踪：完整的文件历史记录和详细信息，包括处理时间戳、文件大小和哈希值。</li>\n<li>多线程传输：通过并发文件处理和自动队列管理来提升性能。</li>\n<li>安全性：基于角色的访问控制、多种身份验证选项和安全密码管理。</li>\n</ol>\n<p>无论您是企业用户需要管理文件传输，还是个人用户想要可靠的同步，GoMFT 都能提供出色的性能、灵活性和易用性。</p>\n<p>立即开始 使用 GoMFT！访问 GoMFT 并释放高效文件传输的力量。</p>",
+    "summary": "正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。 借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。 ### 主要特点： 1. 多种云存储支持：无缝连接 G",
+    "banner_image": "https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615",
+    "date_published": "2025-03-27T11:00:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。\n\n![Image](https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615)\n\n![Image](https://github.com/user-attachments/assets/c76348d7-de57-4d07-9357-7d3cde0a2869)\n\n借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。\n\n### 主要特点：\n\n1. 多种云存储支持：无缝连接 Google Drive、Amazon S3、NextCloud、WebDAV、FTP、SFTP 等多个存储服务。\n1. 实时通知：通过 Webhooks、电子邮件和多种通知服务（如 Pushbullet、Gotify、Pushover）获取即时更新。\n1. 高级传输调度：使用 Cron 表达式进行灵活的自动化传输。非常适合备份和同步任务。\n1. 实时传输监控：跟踪文件传输的字节数和数量，并提供详细的日志和状态更新。\n1. 元数据跟踪：完整的文件历史记录和详细信息，包括处理时间戳、文件大小和哈希值。\n1. 多线程传输：通过并发文件处理和自动队列管理来提升性能。\n1. 安全性：基于角色的访问控制、多种身份验证选项和安全密码管理。\n\n无论您是企业用户需要管理文件传输，还是个人用户想要可靠的同步，GoMFT 都能提供出色的性能、灵活性和易用性。\n\n立即开始 使用 GoMFT！访问 GoMFT 并释放高效文件传输的力量。"
+  },
+  {
     "id": "95",
     "url": "https://wangchujiang.com/quick-rss/issue/95.html",
     "title": "Bekuto 3D：将您的 SVG 设计转换成令人惊叹的 3D 模型",

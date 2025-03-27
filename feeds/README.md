@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [GoMFT：最终的 Web 管理型文件传输 web 应用](https://wangchujiang.com/quick-rss/issue/96.html) 
+
+![](https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615)
+
+正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。 借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。 主要特点： 多种云存储支持：无缝连接 Google D ([#96](https://github.com/jaywcjlove/quick-rss/issues/96) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Bekuto 3D：将您的 SVG 设计转换成令人惊叹的 3D 模型](https://wangchujiang.com/quick-rss/issue/95.html) 
 
 ![](https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7)

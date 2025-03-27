@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Bekuto 3D：将您的 SVG 设计转换成令人惊叹的 3D 模型](https://wangchujiang.com/quick-rss/issue/95.html) 
+
+![](https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7)
+
+使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。 无论您从事 3D 打印 还是 3D 网站开发，Bekuto 3D 都是将您的创意付诸实践的完美工具。从原型设计到互动 3D 资产，可能性无穷无尽！ 主要特点： 轻松将 SVG 文件转换为 3D 模型 支持导出为 STL、OBJ ([#95](https://github.com/jaywcjlove/quick-rss/issues/95) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Notion Exporter：可以将 Notion 导出为长图、卡片、富文本等多种格式的浏览器插件，可以分享到小红书、公众号等平台](https://wangchujiang.com/quick-rss/issue/94.html) 
 
 ![](https://github.com/user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250)

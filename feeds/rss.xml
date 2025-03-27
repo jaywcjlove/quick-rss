@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 26 Mar 2025 09:49:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 10:51:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bekuto 3D：将您的 SVG 设计转换成令人惊叹的 3D 模型]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/95.html</link>
+            <guid>95</guid>
+            <pubDate>Thu, 27 Mar 2025 10:50:36 GMT</pubDate>
+            <description><![CDATA[使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。 无论您从事 3D 打印 还是 3D 网站开发，Bekuto 3D 都是将您的创意付诸实践的完美工具。从原型设计到互动 3D 资产，可能性无穷无尽！ 主要特点： 轻松将 SVG 文件转换为 3D 模型 支持导出为 STL、OBJ]]></description>
+            <content:encoded><![CDATA[<p>使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。</p>
+<p><img src="https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7" alt="Image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/66795b54-0670-4ba8-9640-21e645c7fd87?title=Bekuto3D&#x26;rehype=video"></video>
+<p>无论您从事 3D 打印 还是 3D 网站开发，Bekuto 3D 都是将您的创意付诸实践的完美工具。从原型设计到互动 3D 资产，可能性无穷无尽！</p>
+<h3>主要特点：</h3>
+<ol>
+<li>轻松将 SVG 文件转换为 3D 模型</li>
+<li>支持导出为 STL、OBJ 或 GLTF 格式</li>
+<li>适用于 3D 打印 和 3D 网站开发</li>
+</ol>
+<p>准备好体验了吗？访问 <a href="https://bekuto3d.ayaka.io/">bekuto3d.ayaka.io</a> 开始创建吧！🌐</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/95" target="_blank">#95</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7" length="0" type="image//user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7"/>
+        </item>
         <item>
             <title><![CDATA[Notion Exporter：可以将 Notion 导出为长图、卡片、富文本等多种格式的浏览器插件，可以分享到小红书、公众号等平台]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/94.html</link>

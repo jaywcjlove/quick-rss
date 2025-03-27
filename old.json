@@ -1,5 +1,19 @@
 [
   {
+    "id": "95",
+    "url": "https://wangchujiang.com/quick-rss/issue/95.html",
+    "title": "Bekuto 3D：将您的 SVG 设计转换成令人惊叹的 3D 模型",
+    "content_html": "<p>使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。</p>\n<p><img src=\"https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7\" alt=\"Image\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/66795b54-0670-4ba8-9640-21e645c7fd87?title=Bekuto3D&#x26;rehype=video\"></video>\n<p>无论您从事 3D 打印 还是 3D 网站开发，Bekuto 3D 都是将您的创意付诸实践的完美工具。从原型设计到互动 3D 资产，可能性无穷无尽！</p>\n<h3>主要特点：</h3>\n<ol>\n<li>轻松将 SVG 文件转换为 3D 模型</li>\n<li>支持导出为 STL、OBJ 或 GLTF 格式</li>\n<li>适用于 3D 打印 和 3D 网站开发</li>\n</ol>\n<p>准备好体验了吗？访问 <a href=\"https://bekuto3d.ayaka.io/\">bekuto3d.ayaka.io</a> 开始创建吧！🌐</p>",
+    "summary": "使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。 https://github.com/user-attachments/assets/66795b54-0670-4ba8-9640-21e645c7fd87?title=Bekuto3D&rehype=video 无论您从事",
+    "banner_image": "https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7",
+    "date_published": "2025-03-27T10:50:36Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。\n\n![Image](https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7)\n\n\nhttps://github.com/user-attachments/assets/66795b54-0670-4ba8-9640-21e645c7fd87?title=Bekuto3D&rehype=video\n\n无论您从事 3D 打印 还是 3D 网站开发，Bekuto 3D 都是将您的创意付诸实践的完美工具。从原型设计到互动 3D 资产，可能性无穷无尽！\n\n### 主要特点：\n\n1. 轻松将 SVG 文件转换为 3D 模型\n2. 支持导出为 STL、OBJ 或 GLTF 格式\n3. 适用于 3D 打印 和 3D 网站开发\n\n准备好体验了吗？访问 [bekuto3d.ayaka.io](https://bekuto3d.ayaka.io/) 开始创建吧！🌐"
+  },
+  {
     "id": "94",
     "url": "https://wangchujiang.com/quick-rss/issue/94.html",
     "title": "Notion Exporter：可以将 Notion 导出为长图、卡片、富文本等多种格式的浏览器插件，可以分享到小红书、公众号等平台",

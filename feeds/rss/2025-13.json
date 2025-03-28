@@ -1,5 +1,19 @@
 [
   {
+    "id": "99",
+    "url": "https://wangchujiang.com/quick-rss/issue/99.html",
+    "title": "NetNewsWire：免费开源的 macOS RSS 阅读器，让阅读更高效！",
+    "content_html": "<p>NetNewsWire 是一款免费且开源的 macOS RSS 阅读器，帮你高效追踪喜爱的博客和新闻网站。无需频繁刷新网页，NetNewsWire 会自动为你获取最新内容，让阅读变得轻松便捷。</p>\n<p><img src=\"https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/222b1a72-3846-45ac-9c98-3ff17a2a101a\" alt=\"Image\"></p>\n<p>如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。</p>\n<p>回归纯粹，拒绝干扰，尽享高质量阅读体验！\n立即下载，体验这款免费、高效的 macOS 与 iOS 原生应用！</p>",
+    "summary": "NetNewsWire 是一款免费且开源的 macOS RSS 阅读器，帮你高效追踪喜爱的博客和新闻网站。无需频繁刷新网页，NetNewsWire 会自动为你获取最新内容，让阅读变得轻松便捷。 如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。 回归纯粹，拒绝干扰，尽享高质",
+    "banner_image": "https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e",
+    "date_published": "2025-03-28T01:15:55Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "NetNewsWire 是一款免费且开源的 macOS RSS 阅读器，帮你高效追踪喜爱的博客和新闻网站。无需频繁刷新网页，NetNewsWire 会自动为你获取最新内容，让阅读变得轻松便捷。\n\n![Image](https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e)\n\n![Image](https://github.com/user-attachments/assets/222b1a72-3846-45ac-9c98-3ff17a2a101a)\n\n如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。\n\n回归纯粹，拒绝干扰，尽享高质量阅读体验！\n立即下载，体验这款免费、高效的 macOS 与 iOS 原生应用！"
+  },
+  {
     "id": "98",
     "url": "https://wangchujiang.com/quick-rss/issue/98.html",
     "title": "Peninsula：开源的 macOS 刘海的窗口管理器和消息中心",

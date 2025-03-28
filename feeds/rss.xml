@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 28 Mar 2025 00:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 01:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,25 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NetNewsWire：免费开源的 macOS RSS 阅读器，让阅读更高效！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/99.html</link>
+            <guid>99</guid>
+            <pubDate>Fri, 28 Mar 2025 01:15:55 GMT</pubDate>
+            <description><![CDATA[NetNewsWire 是一款免费且开源的 macOS RSS 阅读器，帮你高效追踪喜爱的博客和新闻网站。无需频繁刷新网页，NetNewsWire 会自动为你获取最新内容，让阅读变得轻松便捷。 如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。 回归纯粹，拒绝干扰，尽享高质]]></description>
+            <content:encoded><![CDATA[<p>NetNewsWire 是一款免费且开源的 macOS RSS 阅读器，帮你高效追踪喜爱的博客和新闻网站。无需频繁刷新网页，NetNewsWire 会自动为你获取最新内容，让阅读变得轻松便捷。</p>
+<p><img src="https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/222b1a72-3846-45ac-9c98-3ff17a2a101a" alt="Image"></p>
+<p>如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。</p>
+<p>回归纯粹，拒绝干扰，尽享高质量阅读体验！
+立即下载，体验这款免费、高效的 macOS 与 iOS 原生应用！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/99" target="_blank">#99</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e" length="0" type="image//user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e"/>
+        </item>
         <item>
             <title><![CDATA[Peninsula：开源的 macOS 刘海的窗口管理器和消息中心]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/98.html</link>

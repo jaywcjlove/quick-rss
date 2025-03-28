@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [NetNewsWire：免费开源的 macOS RSS 阅读器，让阅读更高效！](https://wangchujiang.com/quick-rss/issue/99.html) 
+
+![](https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e)
+
+NetNewsWire 是一款免费且开源的 macOS RSS 阅读器，帮你高效追踪喜爱的博客和新闻网站。无需频繁刷新网页，NetNewsWire 会自动为你获取最新内容，让阅读变得轻松便捷。 如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。 回归纯粹，拒绝干扰，尽享高质 ([#99](https://github.com/jaywcjlove/quick-rss/issues/99) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Peninsula：开源的 macOS 刘海的窗口管理器和消息中心](https://wangchujiang.com/quick-rss/issue/98.html) 
 
 ![](https://github.com/user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128)

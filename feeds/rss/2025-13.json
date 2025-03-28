@@ -1,5 +1,19 @@
 [
   {
+    "id": "97",
+    "url": "https://wangchujiang.com/quick-rss/issue/97.html",
+    "title": "BiliMusic: 开源的 macOS 桌面程序，优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐",
+    "content_html": "<p>一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6\" alt=\"Image\"></p>\n<h3>✨ 特性</h3>\n<p>🎵 播放收藏夹中的音频\n🎨 简洁优雅的界面设计\n📱 响应式布局，支持多种屏幕尺寸\n🔄 多收藏夹管理与切换\n🎯 支持视频播放模式\n⌨️ 媒体快捷键支持\n🌙 暗黑模式（开发中）\n🤖 AI 驱动的开发流程</p>",
+    "summary": "一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。 ### ✨ 特性 🎵 播放收藏夹中的音频 🎨 简洁优雅的界面设计 📱 响应式布局，支持多种屏幕尺寸 🔄 多收藏夹管理与切换 🎯 支持视频播放模式 ⌨️ 媒体快捷键支持 🌙 暗黑模式（开发中） 🤖 AI 驱动的开发流程",
+    "banner_image": "https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6",
+    "date_published": "2025-03-28T00:08:03Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。\n\n![Image](https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6)\n\n### ✨ 特性\n\n🎵 播放收藏夹中的音频\n🎨 简洁优雅的界面设计\n📱 响应式布局，支持多种屏幕尺寸\n🔄 多收藏夹管理与切换\n🎯 支持视频播放模式\n⌨️ 媒体快捷键支持\n🌙 暗黑模式（开发中）\n🤖 AI 驱动的开发流程"
+  },
+  {
     "id": "96",
     "url": "https://wangchujiang.com/quick-rss/issue/96.html",
     "title": "GoMFT：最终的 Web 管理型文件传输 web 应用",

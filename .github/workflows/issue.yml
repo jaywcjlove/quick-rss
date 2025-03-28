@@ -67,13 +67,17 @@ jobs:
       - name: Comment on Issue
         uses: actions/github-script@v7
         if: steps.get_modifier.outputs.modifier == 'jaywcjlove' 
+        env:
+          ISSUE_ID: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const issue_number = process.env.ISSUE_ID;
+            const issue_title = process.env.ISSUE_TITLE;
             const owner = 'jaywcjlove';
             const repo = 'quick-rss';
-            const comment_body = `🚀 自动发布完成！请查看最新内容：[查看 Issue 生成后的网页](https://wangchujiang.com/quick-rss/issue/${issue_number}.html) 🎉`;
+            const comment_body = `🚀 自动发布完成！请查看：[${issue_title}](https://wangchujiang.com/quick-rss/issue/${issue_number}.html) 🎉`;
 
             await github.rest.issues.createComment({
               owner,

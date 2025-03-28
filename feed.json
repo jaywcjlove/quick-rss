@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "101",
+            "content_html": "<p><img src=\"https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/7edc4043-e2fc-48e8-b69b-da23cc4581e9\" alt=\"Image\"></p>\n<p>StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。</p>\n<h3>主要功能</h3>\n<ol>\n<li>循环监控：实时监控直播间，开播即录。</li>\n<li>定时任务：根据设定时间自动检查直播间状态并录制。</li>\n<li>多种输出格式：支持 ts、flv、mkv、mov、mp4、mp3 等格式。</li>\n<li>自动转码：录制完成后自动转换为 MP4 格式。</li>\n<li>消息推送：提供开播通知，及时提醒用户。</li>\n</ol>\n<p>StreamCap 帮助用户轻松录制并管理直播内容，适用于个人主播和需要批量录制多个平台的用户。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/101\" target=\"_blank\">#101</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/101.html",
+            "title": "StreamCap：基于 FFmpeg 和 StreamGet 的多平台直播流自动录制与转码工具",
+            "summary": "StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。 主要功",
+            "image": "https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0",
+            "date_modified": "2025-03-28T08:56:13.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "100",
             "content_html": "<p>KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。</p>\n<p><img src=\"https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/46c9d1ee-7417-43f3-acd2-2ad1d3c8c6cd\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/05fe84ed-0a4c-4867-a63c-25f4d1aad271\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/4e6f5466-aa39-4d92-aded-8ed08a92567e\" alt=\"Image\"></p>\n<p>💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。\n🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。\n☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、Google Drive、OneDrive 等云服务。</p>\n<p>无论是本地文件还是云端存储，KeeWeb 都能为你提供安全便捷的密码管理方案！ 🚀</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/100\" target=\"_blank\">#100</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/100.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [KeeWeb: 免费开源的密码管理器，有桌面版和 Web 版，兼容 Keepass 格式](https://wangchujiang.com/quick-rss/issue/100.html) 
+
+![](https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c)
+
+KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。 💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。 🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。 ☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、G ([#100](https://github.com/jaywcjlove/quick-rss/issues/100) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [NetNewsWire：免费开源的 macOS RSS 阅读器，让阅读更高效！](https://wangchujiang.com/quick-rss/issue/99.html) 
 
 ![](https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e)

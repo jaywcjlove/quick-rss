@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 28 Mar 2025 01:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 01:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,28 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KeeWeb: 免费开源的密码管理器，有桌面版和 Web 版，兼容 Keepass 格式]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/100.html</link>
+            <guid>100</guid>
+            <pubDate>Fri, 28 Mar 2025 01:32:36 GMT</pubDate>
+            <description><![CDATA[KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。 💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。 🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。 ☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、G]]></description>
+            <content:encoded><![CDATA[<p>KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。</p>
+<p><img src="https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/46c9d1ee-7417-43f3-acd2-2ad1d3c8c6cd" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/05fe84ed-0a4c-4867-a63c-25f4d1aad271" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/4e6f5466-aa39-4d92-aded-8ed08a92567e" alt="Image"></p>
+<p>💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。
+🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。
+☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、Google Drive、OneDrive 等云服务。</p>
+<p>无论是本地文件还是云端存储，KeeWeb 都能为你提供安全便捷的密码管理方案！ 🚀</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/100" target="_blank">#100</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c" length="0" type="image//user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c"/>
+        </item>
         <item>
             <title><![CDATA[NetNewsWire：免费开源的 macOS RSS 阅读器，让阅读更高效！]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/99.html</link>

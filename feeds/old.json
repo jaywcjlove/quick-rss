@@ -1,5 +1,19 @@
 [
   {
+    "id": "98",
+    "url": "https://wangchujiang.com/quick-rss/issue/98.html",
+    "title": "Peninsula：开源的 macOS 刘海的窗口管理器和消息中心",
+    "content_html": "<p>Peninsula 是一款专为 macOS 设计的 刘海工具应用，帮助你更高效地管理 Mac。它集 窗口切换、通知管理、文件存储 于一体，让你的 Dynamic Peninsula（动态刘海）变得更加实用！</p>\n<h3>特色功能</h3>\n<h4>✅ 增强版 Cmd-Tab 应用切换器</h4>\n<ol>\n<li>替代默认的 Cmd-Tab，提供更顺畅的多任务切换体验</li>\n<li>Cmd + Tab：切换到下一个应用</li>\n<li>Cmd + Shift + Tab：切换到上一个应用</li>\n<li>Cmd + Esc：退出切换器，不做任何操作</li>\n</ol>\n<img width=\"820\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128\">\n<h4>✅ 一键开启 Peninsula 窗口管理</h4>\n<p>点击刘海区域，即可快速调出 Peninsula 界面，再次点击切换不同功能窗口，点击刘海外部即可退出。</p>\n<p>目前提供 5 种 Peninsula 窗口：</p>\n<ol>\n<li>📌 应用切换器：显示当前屏幕所有运行的应用</li>\n<li>🔔 通知中心：管理你关注的通知应用</li>\n<li>📂 文件暂存区：快速存取临时文件</li>\n<li>🔧 菜单：基础操作（如退出 Peninsula）</li>\n<li>⚙️ 设置中心：个性化配置 Peninsula</li>\n</ol>\n<img width=\"821\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3f6ad768-88a1-4d91-9012-57efadb9a815\">\n<h4>✅ 智能通知管理</h4>\n<ol>\n<li>可自定义添加你最关心的通知应用</li>\n<li>当有通知时，Peninsula 会在 刘海右侧显示图标，点击即可打开</li>\n<li>6.18 秒后，自动变成 未读通知计数，点击数字即可进入通知中心</li>\n</ol>\n<img width=\"820\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ab1b23f3-720d-44f8-8d78-26b8e0687344\">\n<p>Peninsula 让 macOS 刘海从装饰变为真正的生产力工具！立即体验，让你的 Mac 更加智能高效！ 🚀</p>",
+    "summary": "Peninsula 是一款专为 macOS 设计的 刘海工具应用，帮助你更高效地管理 Mac。它集 窗口切换、通知管理、文件存储 于一体，让你的 Dynamic Peninsula（动态刘海）变得更加实用！ ### 特色功能 #### ✅ 增强版 Cmd-Tab 应用切换器 1. 替代默认的 Cmd-Tab，提供更顺畅的多任务切换体验 1. Cmd + Tab：切换到下一个应用 1. Cmd + ",
+    "banner_image": null,
+    "date_published": "2025-03-28T00:46:46Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Peninsula 是一款专为 macOS 设计的 刘海工具应用，帮助你更高效地管理 Mac。它集 窗口切换、通知管理、文件存储 于一体，让你的 Dynamic Peninsula（动态刘海）变得更加实用！\n\n### 特色功能\n\n#### ✅ 增强版 Cmd-Tab 应用切换器\n\n1. 替代默认的 Cmd-Tab，提供更顺畅的多任务切换体验\n1. Cmd + Tab：切换到下一个应用\n1. Cmd + Shift + Tab：切换到上一个应用\n1. Cmd + Esc：退出切换器，不做任何操作\n\n<img width=\"820\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128\" />\n\n#### ✅ 一键开启 Peninsula 窗口管理\n\n点击刘海区域，即可快速调出 Peninsula 界面，再次点击切换不同功能窗口，点击刘海外部即可退出。\n\n目前提供 5 种 Peninsula 窗口：\n\n1. 📌 应用切换器：显示当前屏幕所有运行的应用\n1. 🔔 通知中心：管理你关注的通知应用\n1. 📂 文件暂存区：快速存取临时文件\n1. 🔧 菜单：基础操作（如退出 Peninsula）\n1. ⚙️ 设置中心：个性化配置 Peninsula\n\n<img width=\"821\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3f6ad768-88a1-4d91-9012-57efadb9a815\" />\n\n####  ✅ 智能通知管理\n\n1. 可自定义添加你最关心的通知应用\n1. 当有通知时，Peninsula 会在 刘海右侧显示图标，点击即可打开\n1. 6.18 秒后，自动变成 未读通知计数，点击数字即可进入通知中心\n\n<img width=\"820\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ab1b23f3-720d-44f8-8d78-26b8e0687344\" />\n\nPeninsula 让 macOS 刘海从装饰变为真正的生产力工具！立即体验，让你的 Mac 更加智能高效！ 🚀"
+  },
+  {
     "id": "97",
     "url": "https://wangchujiang.com/quick-rss/issue/97.html",
     "title": "BiliMusic: 开源的 macOS 桌面程序，优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐",

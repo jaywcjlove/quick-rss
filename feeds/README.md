@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Peninsula：开源的 macOS 刘海的窗口管理器和消息中心](https://wangchujiang.com/quick-rss/issue/98.html) 
+
+![](https://github.com/user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128)
+
+Peninsula 是一款专为 macOS 设计的 刘海工具应用，帮助你更高效地管理 Mac。它集 窗口切换、通知管理、文件存储 于一体，让你的 Dynamic Peninsula（动态刘海）变得更加实用！ 特色功能 ✅ 增强版 Cmd-Tab 应用切换器 替代默认的 Cmd-Tab，提供更顺畅的多任务切换体验 Cmd + Tab：切换到下一个应用 Cmd + Shift + Tab：切换到上一个 ([#98](https://github.com/jaywcjlove/quick-rss/issues/98) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BiliMusic: 开源的 macOS 桌面程序，优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐](https://wangchujiang.com/quick-rss/issue/97.html) 
 
 ![](https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6)

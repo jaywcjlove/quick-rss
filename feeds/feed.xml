@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-03-28T00:08:24.842Z</updated>
+    <updated>2025-03-28T00:47:11.250Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,55 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Peninsula：开源的 macOS 刘海的窗口管理器和消息中心]]></title>
+        <id>98</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/98.html"/>
+        <updated>2025-03-28T00:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Peninsula 是一款专为 macOS 设计的 刘海工具应用，帮助你更高效地管理 Mac。它集 窗口切换、通知管理、文件存储 于一体，让你的 Dynamic Peninsula（动态刘海）变得更加实用！ 特色功能 ✅ 增强版 Cmd-Tab 应用切换器 替代默认的 Cmd-Tab，提供更顺畅的多任务切换体验 Cmd + Tab：切换到下一个应用 Cmd + Shift + Tab：切换到上一个]]></summary>
+        <content type="html"><![CDATA[<p>Peninsula 是一款专为 macOS 设计的 刘海工具应用，帮助你更高效地管理 Mac。它集 窗口切换、通知管理、文件存储 于一体，让你的 Dynamic Peninsula（动态刘海）变得更加实用！</p>
+<h3>特色功能</h3>
+<h4>✅ 增强版 Cmd-Tab 应用切换器</h4>
+<ol>
+<li>替代默认的 Cmd-Tab，提供更顺畅的多任务切换体验</li>
+<li>Cmd + Tab：切换到下一个应用</li>
+<li>Cmd + Shift + Tab：切换到上一个应用</li>
+<li>Cmd + Esc：退出切换器，不做任何操作</li>
+</ol>
+<img width="820" alt="Image" src="https://github.com/user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128">
+<h4>✅ 一键开启 Peninsula 窗口管理</h4>
+<p>点击刘海区域，即可快速调出 Peninsula 界面，再次点击切换不同功能窗口，点击刘海外部即可退出。</p>
+<p>目前提供 5 种 Peninsula 窗口：</p>
+<ol>
+<li>📌 应用切换器：显示当前屏幕所有运行的应用</li>
+<li>🔔 通知中心：管理你关注的通知应用</li>
+<li>📂 文件暂存区：快速存取临时文件</li>
+<li>🔧 菜单：基础操作（如退出 Peninsula）</li>
+<li>⚙️ 设置中心：个性化配置 Peninsula</li>
+</ol>
+<img width="821" alt="Image" src="https://github.com/user-attachments/assets/3f6ad768-88a1-4d91-9012-57efadb9a815">
+<h4>✅ 智能通知管理</h4>
+<ol>
+<li>可自定义添加你最关心的通知应用</li>
+<li>当有通知时，Peninsula 会在 刘海右侧显示图标，点击即可打开</li>
+<li>6.18 秒后，自动变成 未读通知计数，点击数字即可进入通知中心</li>
+</ol>
+<img width="820" alt="Image" src="https://github.com/user-attachments/assets/ab1b23f3-720d-44f8-8d78-26b8e0687344">
+<p>Peninsula 让 macOS 刘海从装饰变为真正的生产力工具！立即体验，让你的 Mac 更加智能高效！ 🚀</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/98" target="_blank">#98</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BiliMusic: 开源的 macOS 桌面程序，优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐]]></title>
         <id>97</id>

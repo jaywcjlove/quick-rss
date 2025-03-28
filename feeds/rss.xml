@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 28 Mar 2025 01:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 08:56:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,31 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[StreamCap：基于 FFmpeg 和 StreamGet 的多平台直播流自动录制与转码工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/101.html</link>
+            <guid>101</guid>
+            <pubDate>Fri, 28 Mar 2025 08:56:13 GMT</pubDate>
+            <description><![CDATA[StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。 主要功]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/7edc4043-e2fc-48e8-b69b-da23cc4581e9" alt="Image"></p>
+<p>StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。</p>
+<h3>主要功能</h3>
+<ol>
+<li>循环监控：实时监控直播间，开播即录。</li>
+<li>定时任务：根据设定时间自动检查直播间状态并录制。</li>
+<li>多种输出格式：支持 ts、flv、mkv、mov、mp4、mp3 等格式。</li>
+<li>自动转码：录制完成后自动转换为 MP4 格式。</li>
+<li>消息推送：提供开播通知，及时提醒用户。</li>
+</ol>
+<p>StreamCap 帮助用户轻松录制并管理直播内容，适用于个人主播和需要批量录制多个平台的用户。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/101" target="_blank">#101</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0" length="0" type="image//user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0"/>
+        </item>
         <item>
             <title><![CDATA[KeeWeb: 免费开源的密码管理器，有桌面版和 Web 版，兼容 Keepass 格式]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/100.html</link>

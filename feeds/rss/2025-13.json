@@ -1,5 +1,19 @@
 [
   {
+    "id": "101",
+    "url": "https://wangchujiang.com/quick-rss/issue/101.html",
+    "title": "StreamCap：基于 FFmpeg 和 StreamGet 的多平台直播流自动录制与转码工具",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/7edc4043-e2fc-48e8-b69b-da23cc4581e9\" alt=\"Image\"></p>\n<p>StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。</p>\n<h3>主要功能</h3>\n<ol>\n<li>循环监控：实时监控直播间，开播即录。</li>\n<li>定时任务：根据设定时间自动检查直播间状态并录制。</li>\n<li>多种输出格式：支持 ts、flv、mkv、mov、mp4、mp3 等格式。</li>\n<li>自动转码：录制完成后自动转换为 MP4 格式。</li>\n<li>消息推送：提供开播通知，及时提醒用户。</li>\n</ol>\n<p>StreamCap 帮助用户轻松录制并管理直播内容，适用于个人主播和需要批量录制多个平台的用户。</p>",
+    "summary": "StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。 ###",
+    "banner_image": "https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0",
+    "date_published": "2025-03-28T08:56:13Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![Image](https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0)\n\n![Image](https://github.com/user-attachments/assets/7edc4043-e2fc-48e8-b69b-da23cc4581e9)\n\nStreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。\n\n### 主要功能\n\n1. 循环监控：实时监控直播间，开播即录。\n2. 定时任务：根据设定时间自动检查直播间状态并录制。\n3. 多种输出格式：支持 ts、flv、mkv、mov、mp4、mp3 等格式。\n4. 自动转码：录制完成后自动转换为 MP4 格式。\n5. 消息推送：提供开播通知，及时提醒用户。\n\nStreamCap 帮助用户轻松录制并管理直播内容，适用于个人主播和需要批量录制多个平台的用户。"
+  },
+  {
     "id": "100",
     "url": "https://wangchujiang.com/quick-rss/issue/100.html",
     "title": "KeeWeb: 免费开源的密码管理器，有桌面版和 Web 版，兼容 Keepass 格式",

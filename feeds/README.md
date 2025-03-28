@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [StreamCap：基于 FFmpeg 和 StreamGet 的多平台直播流自动录制与转码工具](https://wangchujiang.com/quick-rss/issue/101.html) 
+
+![](https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0)
+
+StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。 主要功 ([#101](https://github.com/jaywcjlove/quick-rss/issues/101) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [KeeWeb: 免费开源的密码管理器，有桌面版和 Web 版，兼容 Keepass 格式](https://wangchujiang.com/quick-rss/issue/100.html) 
 
 ![](https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c)

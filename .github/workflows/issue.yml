@@ -20,6 +20,10 @@ jobs:
           # 将修改者 login 写入环境变量
           echo "MODIFIER=$MODIFIER" >> $GITHUB_ENV
   
+      - name: Debug modifier output
+        run: |
+          echo "Modifier output is: ${{ steps.get_modifier.outputs.modifier }}"
+
       - uses: actions/checkout@v4
         if: steps.get_modifier.outputs.modifier == 'jaywcjlove' 
         

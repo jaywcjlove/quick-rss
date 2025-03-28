@@ -1,5 +1,19 @@
 [
   {
+    "id": "100",
+    "url": "https://wangchujiang.com/quick-rss/issue/100.html",
+    "title": "KeeWeb: 免费开源的密码管理器，有桌面版和 Web 版，兼容 Keepass 格式",
+    "content_html": "<p>KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。</p>\n<p><img src=\"https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/46c9d1ee-7417-43f3-acd2-2ad1d3c8c6cd\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/05fe84ed-0a4c-4867-a63c-25f4d1aad271\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/4e6f5466-aa39-4d92-aded-8ed08a92567e\" alt=\"Image\"></p>\n<p>💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。\n🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。\n☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、Google Drive、OneDrive 等云服务。</p>\n<p>无论是本地文件还是云端存储，KeeWeb 都能为你提供安全便捷的密码管理方案！ 🚀</p>",
+    "summary": "KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。 💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。 🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。 ☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、G",
+    "banner_image": "https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c",
+    "date_published": "2025-03-28T01:32:36Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。\n\n![Image](https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c)\n\n![Image](https://github.com/user-attachments/assets/46c9d1ee-7417-43f3-acd2-2ad1d3c8c6cd)\n\n![Image](https://github.com/user-attachments/assets/05fe84ed-0a4c-4867-a63c-25f4d1aad271)\n\n![Image](https://github.com/user-attachments/assets/4e6f5466-aa39-4d92-aded-8ed08a92567e)\n\n💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。\n🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。\n☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、Google Drive、OneDrive 等云服务。\n\n无论是本地文件还是云端存储，KeeWeb 都能为你提供安全便捷的密码管理方案！ 🚀"
+  },
+  {
     "id": "99",
     "url": "https://wangchujiang.com/quick-rss/issue/99.html",
     "title": "NetNewsWire：免费开源的 macOS RSS 阅读器，让阅读更高效！",

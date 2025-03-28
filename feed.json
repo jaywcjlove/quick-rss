@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "97",
+            "content_html": "<p>一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6\" alt=\"Image\"></p>\n<h3>✨ 特性</h3>\n<p>🎵 播放收藏夹中的音频\n🎨 简洁优雅的界面设计\n📱 响应式布局，支持多种屏幕尺寸\n🔄 多收藏夹管理与切换\n🎯 支持视频播放模式\n⌨️ 媒体快捷键支持\n🌙 暗黑模式（开发中）\n🤖 AI 驱动的开发流程</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/97\" target=\"_blank\">#97</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/97.html",
+            "title": "BiliMusic: 开源的 macOS 桌面程序，优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐",
+            "summary": "一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。 ✨ 特性 🎵 播放收藏夹中的音频 🎨 简洁优雅的界面设计 📱 响应式布局，支持多种屏幕尺寸 🔄 多收藏夹管理与切换 🎯 支持视频播放模式 ⌨️ 媒体快捷键支持 🌙 暗黑模式（开发中） 🤖 AI 驱动的开发流程",
+            "image": "https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6",
+            "date_modified": "2025-03-28T00:08:03.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "96",
             "content_html": "<p>正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。</p>\n<p><img src=\"https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c76348d7-de57-4d07-9357-7d3cde0a2869\" alt=\"Image\"></p>\n<p>借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。</p>\n<h3>主要特点：</h3>\n<ol>\n<li>多种云存储支持：无缝连接 Google Drive、Amazon S3、NextCloud、WebDAV、FTP、SFTP 等多个存储服务。</li>\n<li>实时通知：通过 Webhooks、电子邮件和多种通知服务（如 Pushbullet、Gotify、Pushover）获取即时更新。</li>\n<li>高级传输调度：使用 Cron 表达式进行灵活的自动化传输。非常适合备份和同步任务。</li>\n<li>实时传输监控：跟踪文件传输的字节数和数量，并提供详细的日志和状态更新。</li>\n<li>元数据跟踪：完整的文件历史记录和详细信息，包括处理时间戳、文件大小和哈希值。</li>\n<li>多线程传输：通过并发文件处理和自动队列管理来提升性能。</li>\n<li>安全性：基于角色的访问控制、多种身份验证选项和安全密码管理。</li>\n</ol>\n<p>无论您是企业用户需要管理文件传输，还是个人用户想要可靠的同步，GoMFT 都能提供出色的性能、灵活性和易用性。</p>\n<p>立即开始 使用 GoMFT！访问 GoMFT 并释放高效文件传输的力量。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/96\" target=\"_blank\">#96</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/96.html",

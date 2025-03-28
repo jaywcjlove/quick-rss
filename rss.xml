@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 27 Mar 2025 11:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 00:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BiliMusic: 开源的 macOS 桌面程序，优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/97.html</link>
+            <guid>97</guid>
+            <pubDate>Fri, 28 Mar 2025 00:08:03 GMT</pubDate>
+            <description><![CDATA[一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。 ✨ 特性 🎵 播放收藏夹中的音频 🎨 简洁优雅的界面设计 📱 响应式布局，支持多种屏幕尺寸 🔄 多收藏夹管理与切换 🎯 支持视频播放模式 ⌨️ 媒体快捷键支持 🌙 暗黑模式（开发中） 🤖 AI 驱动的开发流程]]></description>
+            <content:encoded><![CDATA[<p>一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。</p>
+<p><img src="https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6" alt="Image"></p>
+<h3>✨ 特性</h3>
+<p>🎵 播放收藏夹中的音频
+🎨 简洁优雅的界面设计
+📱 响应式布局，支持多种屏幕尺寸
+🔄 多收藏夹管理与切换
+🎯 支持视频播放模式
+⌨️ 媒体快捷键支持
+🌙 暗黑模式（开发中）
+🤖 AI 驱动的开发流程</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/97" target="_blank">#97</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6" length="0" type="image//user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6"/>
+        </item>
         <item>
             <title><![CDATA[GoMFT：最终的 Web 管理型文件传输 web 应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/96.html</link>

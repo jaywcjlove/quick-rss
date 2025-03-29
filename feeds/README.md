@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DeepPDF：AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件](https://wangchujiang.com/quick-rss/issue/102.html) 
+
+![](https://github.com/user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a)
+
+DeepPDF支持PDF翻译、对话、总结。 其中特色是：AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件。 网站地址：https://deeppdf.ai/pdf-translator ([#102](https://github.com/jaywcjlove/quick-rss/issues/102) - [@icaohongyuan](https://github.com/icaohongyuan))
 ## [StreamCap：基于 FFmpeg 和 StreamGet 的多平台直播流自动录制与转码工具](https://wangchujiang.com/quick-rss/issue/101.html) 
 
 ![](https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0)

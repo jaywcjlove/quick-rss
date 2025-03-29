@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-03-28T08:56:41.694Z</updated>
+    <updated>2025-03-29T17:47:36.261Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[DeepPDF：AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件]]></title>
+        <id>102</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/102.html"/>
+        <updated>2025-03-29T16:48:48.000Z</updated>
+        <summary type="html"><![CDATA[DeepPDF支持PDF翻译、对话、总结。 其中特色是：AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件。 网站地址：https://deeppdf.ai/pdf-translator]]></summary>
+        <content type="html"><![CDATA[<p>DeepPDF支持PDF翻译、对话、总结。</p>
+<p>其中特色是：<strong>AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件</strong>。</p>
+<p>网站地址：<a href="https://deeppdf.ai/pdf-translator">https://deeppdf.ai/pdf-translator</a></p>
+<p><img src="https://github.com/user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/102" target="_blank">#102</a> • 
+      <a href="https://github.com/icaohongyuan" target="_blank">@icaohongyuan</a>
+      ]]></content>
+        <author>
+            <name>icaohongyuan</name>
+            <uri>https://avatars.githubusercontent.com/u/38719977?v=4</uri>
+        </author>
+        <contributor>
+            <name>icaohongyuan</name>
+            <uri>https://avatars.githubusercontent.com/u/38719977?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StreamCap：基于 FFmpeg 和 StreamGet 的多平台直播流自动录制与转码工具]]></title>
         <id>101</id>

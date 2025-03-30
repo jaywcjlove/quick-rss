@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Topit: 在 macOS 上将你的任何窗口强制置顶的应用](https://wangchujiang.com/quick-rss/issue/104.html) 
+
+![](https://github.com/user-attachments/assets/3c1c1c9d-fc69-4308-8374-203e5486c3df)
+
+在 macOS 上将你的任何窗口强制置顶的应用，如果你经常在多任务之间切换，或者需要同时处理多个窗口，Topit 是一款非常实用的工具。它可以轻松地将任意应用程序的窗口固定在屏幕的顶部，让你随时保持重要内容的可见性。 ([#104](https://github.com/jaywcjlove/quick-rss/issues/104) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Mac Mouse Fix：一款能够提升鼠标体验的应用，让你的 $10 鼠标比 Apple Trackpad 更强大！](https://wangchujiang.com/quick-rss/issue/103.html) 
 
 ![](https://github.com/user-attachments/assets/a7cc71c7-9a97-4965-8d9a-ff8874fba283)

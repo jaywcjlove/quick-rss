@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Mac Mouse Fix：一款能够提升鼠标体验的应用，让你的 $10 鼠标比 Apple Trackpad 更强大！](https://wangchujiang.com/quick-rss/issue/103.html) 
+
+![](https://github.com/user-attachments/assets/a7cc71c7-9a97-4965-8d9a-ff8874fba283)
+
+Mac Mouse Fix 是一款能够提升鼠标体验的应用，它将你的第三方鼠标转变成与 Apple Trackpad 或 Logitech MX Master 同样精准且舒适的输入设备。即使是普通的鼠标，借助这款应用，也能带来类似 Trackpad 的流畅自然操作感。 功能亮点： 模拟 Trackpad 手势：Mac Mouse Fix 为你的鼠标带来了 Apple Trackpad 的手势功能，例 ([#103](https://github.com/jaywcjlove/quick-rss/issues/103) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DeepPDF：AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件](https://wangchujiang.com/quick-rss/issue/102.html) 
 
 ![](https://github.com/user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a)

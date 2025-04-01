@@ -1,5 +1,19 @@
 [
   {
+    "id": "105",
+    "url": "https://wangchujiang.com/quick-rss/issue/105.html",
+    "title": "FocusCursor: 够清晰地突出显示光标的位置，让光标的移动和点击一目了然",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7\" alt=\"Image\">\n<img src=\"https://github.com/user-attachments/assets/5753a2e9-0313-45dc-b3c4-a7b1f9efb0f3\" alt=\"Image\">\n<img src=\"https://github.com/user-attachments/assets/20e598e3-a2b6-4eed-8956-a65ac07176e6\" alt=\"Image\"></p>\n<p>这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。</p>\n<p>📥 下载: <a href=\"https://apps.apple.com/app/FocusCursor/6743495172\">https://apps.apple.com/app/FocusCursor/6743495172</a><br>\n💬 反馈: <a href=\"https://github.com/jaywcjlove/focus-cursor\">https://github.com/jaywcjlove/focus-cursor</a></p>\n<h3>主要功能</h3>\n<p>■ 鼠标跟随：显示一个圆圈或圆形跟随光标移动。<br>\n■ 鼠标点击：点击时出现动画效果，突出显示点击动作。<br>\n■ 鼠标遮罩：聚焦光标所在区域，其他区域变暗，增强聚焦效果。</p>",
+    "summary": "这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。 📥 下载: https://apps.apple.com/app/FocusCursor/6743495172 💬 反馈: https://github.com/jaywcjlove/focus-cu",
+    "banner_image": "https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7",
+    "date_published": "2025-04-01T19:34:00Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![Image](https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7)\n![Image](https://github.com/user-attachments/assets/5753a2e9-0313-45dc-b3c4-a7b1f9efb0f3)\n![Image](https://github.com/user-attachments/assets/20e598e3-a2b6-4eed-8956-a65ac07176e6)\n\n这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。\n\n\n📥 下载: https://apps.apple.com/app/FocusCursor/6743495172  \n💬 反馈: https://github.com/jaywcjlove/focus-cursor  \n\n### 主要功能\n\n■ 鼠标跟随：显示一个圆圈或圆形跟随光标移动。   \n■ 鼠标点击：点击时出现动画效果，突出显示点击动作。    \n■ 鼠标遮罩：聚焦光标所在区域，其他区域变暗，增强聚焦效果。"
+  },
+  {
     "id": "104",
     "url": "https://wangchujiang.com/quick-rss/issue/104.html",
     "title": "Topit: 在 macOS 上将你的任何窗口强制置顶的应用",

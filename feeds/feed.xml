@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-03-30T19:38:47.406Z</updated>
+    <updated>2025-04-01T19:34:27.672Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,36 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[FocusCursor: 够清晰地突出显示光标的位置，让光标的移动和点击一目了然]]></title>
+        <id>105</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/105.html"/>
+        <updated>2025-04-01T19:34:00.000Z</updated>
+        <summary type="html"><![CDATA[这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。 📥 下载: https://apps.apple.com/app/FocusCursor/6743495172 💬 反馈: https://github.com/jaywcjlove/focus-cu]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7" alt="Image">
+<img src="https://github.com/user-attachments/assets/5753a2e9-0313-45dc-b3c4-a7b1f9efb0f3" alt="Image">
+<img src="https://github.com/user-attachments/assets/20e598e3-a2b6-4eed-8956-a65ac07176e6" alt="Image"></p>
+<p>这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。</p>
+<p>📥 下载: <a href="https://apps.apple.com/app/FocusCursor/6743495172">https://apps.apple.com/app/FocusCursor/6743495172</a><br>
+💬 反馈: <a href="https://github.com/jaywcjlove/focus-cursor">https://github.com/jaywcjlove/focus-cursor</a></p>
+<h3>主要功能</h3>
+<p>■ 鼠标跟随：显示一个圆圈或圆形跟随光标移动。<br>
+■ 鼠标点击：点击时出现动画效果，突出显示点击动作。<br>
+■ 鼠标遮罩：聚焦光标所在区域，其他区域变暗，增强聚焦效果。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/105" target="_blank">#105</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topit: 在 macOS 上将你的任何窗口强制置顶的应用]]></title>
         <id>104</id>

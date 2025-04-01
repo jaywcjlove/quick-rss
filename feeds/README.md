@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [FocusCursor: 够清晰地突出显示光标的位置，让光标的移动和点击一目了然](https://wangchujiang.com/quick-rss/issue/105.html) 
+
+![](https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7)
+
+这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。 📥 下载: https://apps.apple.com/app/FocusCursor/6743495172 💬 反馈: https://github.com/jaywcjlove/focus-cu ([#105](https://github.com/jaywcjlove/quick-rss/issues/105) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Topit: 在 macOS 上将你的任何窗口强制置顶的应用](https://wangchujiang.com/quick-rss/issue/104.html) 
 
 ![](https://github.com/user-attachments/assets/3c1c1c9d-fc69-4308-8374-203e5486c3df)

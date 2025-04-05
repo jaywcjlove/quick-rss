@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [EcuBus-Pro: 一种用于汽车维修和故障诊断的开源工具，主要用于读取和分析汽车电子控制单元（ECU）的数据](https://wangchujiang.com/quick-rss/issue/106.html) 
+
+![](https://github.com/user-attachments/assets/5ece19f9-5c9a-4ac3-9b60-bdbc56482f79)
+
+如果你正在寻找一款功能强大、免费的汽车ECU诊断工具，EcuBus-Pro 无疑是一个值得关注的开源选择。它为汽车电子控制单元（ECU）的开发与测试提供了全面的解决方案，具有许多商业工具所不具备的优势。 主要特点： 🆓 开源免费：EcuBus-Pro完全免费，且开源，意味着你可以随时查看和修改源代码，按需定制功能，适合开发者和研究者使用。 🚀 现代化、直观的用户界面：界面设计简洁易用，即使是初 ([#106](https://github.com/jaywcjlove/quick-rss/issues/106) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [FocusCursor: 够清晰地突出显示光标的位置，让光标的移动和点击一目了然](https://wangchujiang.com/quick-rss/issue/105.html) 
 
 ![](https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7)

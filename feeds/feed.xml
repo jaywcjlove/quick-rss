@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-04-01T19:34:27.672Z</updated>
+    <updated>2025-04-05T03:32:50.084Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,44 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[EcuBus-Pro: 一种用于汽车维修和故障诊断的开源工具，主要用于读取和分析汽车电子控制单元（ECU）的数据]]></title>
+        <id>106</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/106.html"/>
+        <updated>2025-04-05T03:31:58.000Z</updated>
+        <summary type="html"><![CDATA[如果你正在寻找一款功能强大、免费的汽车ECU诊断工具，EcuBus-Pro 无疑是一个值得关注的开源选择。它为汽车电子控制单元（ECU）的开发与测试提供了全面的解决方案，具有许多商业工具所不具备的优势。 主要特点： 🆓 开源免费：EcuBus-Pro完全免费，且开源，意味着你可以随时查看和修改源代码，按需定制功能，适合开发者和研究者使用。 🚀 现代化、直观的用户界面：界面设计简洁易用，即使是初]]></summary>
+        <content type="html"><![CDATA[<p>如果你正在寻找一款功能强大、免费的汽车ECU诊断工具，EcuBus-Pro 无疑是一个值得关注的开源选择。它为汽车电子控制单元（ECU）的开发与测试提供了全面的解决方案，具有许多商业工具所不具备的优势。</p>
+<p><img src="https://github.com/user-attachments/assets/5ece19f9-5c9a-4ac3-9b60-bdbc56482f79" alt="Image"></p>
+<h3>主要特点：</h3>
+<ul>
+<li>🆓 开源免费：EcuBus-Pro完全免费，且开源，意味着你可以随时查看和修改源代码，按需定制功能，适合开发者和研究者使用。</li>
+<li>🚀 现代化、直观的用户界面：界面设计简洁易用，即使是初学者也能快速上手，帮助你更高效地进行汽车诊断和开发。</li>
+<li>💻 跨平台支持：支持Windows、Linux和MacOS，确保不同操作系统的用户都能轻松使用。</li>
+<li>🔌 多硬件支持：支持PEAK、KVASER、ZLG、Toomoss等主流硬件，兼容CAN、CAN-FD和LIN协议，能够连接多种车辆诊断接口。</li>
+<li>🛠️ 全面诊断功能：支持CAN/CAN-FD、DoIP、LIN等多种诊断协议，帮助你快速发现和解决车辆中的故障问题。</li>
+<li>📝 脚本化功能：基于TypeScript的高级自动化脚本功能，让你可以自定义诊断流程，提高工作效率。</li>
+<li>🧪 HIL测试框架：提供硬件在环（HIL）测试功能，有助于进行更为复杂的系统测试和验证。</li>
+<li>📊 数据库支持：支持LIN LDF文件的编辑与导出，CAN DBC文件的查看，方便你进行协议配置和数据分析。</li>
+<li>📈 实时数据可视化：支持实时信号图形化显示和分析，让你直观地查看ECU的各项参数和性能指标。</li>
+<li>⌨️ 命令行工具：提供全功能命令行接口，适用于自动化与集成，方便高级用户和开发者进行批量操作和定制化扩展。</li>
+</ul>
+<p>为什么选择EcuBus-Pro？</p>
+<p>EcuBus-Pro作为一款开源工具，不仅能够提供和商业工具相同甚至更强大的功能，而且它的自由定制性和跨平台支持，使得它成为汽车ECU开发、测试和维护的理想选择。无论你是汽车行业的专业人士，还是对汽车诊断有兴趣的开发者，EcuBus-Pro都能为你提供强大的支持。</p>
+<p>赶快试试EcuBus-Pro，体验开源软件带来的无限可能吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/106" target="_blank">#106</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FocusCursor: 够清晰地突出显示光标的位置，让光标的移动和点击一目了然]]></title>
         <id>105</id>

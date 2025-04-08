@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 05 Apr 2025 03:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 02:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,86 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DevHub：离线开发者工具应用，支持开发者的日常任务]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/107.html</link>
+            <guid>107</guid>
+            <pubDate>Tue, 08 Apr 2025 02:12:47 GMT</pubDate>
+            <description><![CDATA[DevHub是一个功能丰富的离线应用程序，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。 我正在积极开发中，并树立了一个大胆的目标：每周发布更新。我努力保持紧凑的足迹，旨在策划一个包含100多个小工具的广泛集合，为开发人员提供多样化的工具。这一举措体现了我对持续提升的承诺，提供丰富的工具，以赋能开发人员。DevHub不仅仅是一个编码伴侣； 已完成的工具如下： ■ 文件信息 ■]]></description>
+            <content:encoded><![CDATA[<p>DevHub是一个功能丰富的离线应用程序，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。</p>
+<p><img src="https://github.com/user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9" alt="Image">
+<img src="https://github.com/user-attachments/assets/ca3fe647-d75e-4bb6-8056-9a6b7680fb71" alt="Image">
+<img src="https://github.com/user-attachments/assets/1f70e38c-0766-43ff-a5e8-a7d03d8526e7" alt="Image">
+<img src="https://github.com/user-attachments/assets/75cc8586-aa99-423e-a55e-5152cbf08d98" alt="Image">
+<img src="https://github.com/user-attachments/assets/e6072caa-a581-443e-b60f-04da5a64c86e" alt="Image">
+<img src="https://github.com/user-attachments/assets/d6b92319-4cd1-4516-9e72-88b39899bb01" alt="Image">
+<img src="https://github.com/user-attachments/assets/6df805a6-e75e-4f7b-860d-0ac35a8d249a" alt="Image"></p>
+<p>我正在积极开发中，并树立了一个大胆的目标：每周发布更新。我努力保持紧凑的足迹，旨在策划一个包含100多个小工具的广泛集合，为开发人员提供多样化的工具。这一举措体现了我对持续提升的承诺，提供丰富的工具，以赋能开发人员。DevHub不仅仅是一个编码伴侣；</p>
+<p>已完成的工具如下：</p>
+<p>■ 文件信息<br>
+■ 图片文本识别<br>
+■ 文件名提取助手<br>
+■ SSL 管理<br>
+■ 图片水印<br>
+■ NPM 统计<br>
+■ 文本卡片<br>
+■ 应用图标<br>
+■ 模糊隐私<br>
+■ 图片颜色提取<br>
+■ 突显光标<br>
+■ 背景填充<br>
+■ API 请求<br>
+■ 正则表达式测试<br>
+■ Chmod 计算器<br>
+■ Crontab 生成器<br>
+■ 日期转换器<br>
+■ 设备信息<br>
+■ 密码生成器<br>
+■ 生命倒计时<br>
+■ 温度转换器<br>
+■ 文本转语音<br>
+■ PX/REM 转换器<br>
+■ 条形码生成器<br>
+■ 随机数生成器<br>
+■ 数据大小转换器<br>
+■ QRCode 读取/生成器<br>
+■ WiFi 二维码生成器<br>
+■ 事件二维码生成器<br>
+■ 名片二维码生成器<br>
+■ 随机端口生成器<br>
+■ RSA 密钥生成器<br>
+■ 颜色转换器<br>
+■ 随机颜色<br>
+■ 精密计时器<br>
+■ ASCII 转字符串<br>
+■ 字符串转 ASCII<br>
+■ 哈希生成器<br>
+■ 基本验证生成器<br>
+■ EXIF 查看器<br>
+■ 图片转 Base64<br>
+■ ICO 转换器<br>
+■ HTML 编码/解码<br>
+■ HTML 预览<br>
+■ 字符串浏览器<br>
+■ 文本转 Base64<br>
+■ 文本转Unicode<br>
+■ 文本案例<br>
+■ 文本比对<br>
+■ 字数统计器<br>
+■ 摩尔斯电码<br>
+■ JSON 格式化器<br>
+■ 乱数假文生成器<br>
+■ UUID 生成器<br>
+■ URL解析器<br>
+■ URL 编码/解码</p>
+<p>随着我们持续完善和扩展 DevHub，使其成为全球开发者不可或缺的资源。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/107" target="_blank">#107</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9" length="0" type="image//user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9"/>
+        </item>
         <item>
             <title><![CDATA[EcuBus-Pro: 一种用于汽车维修和故障诊断的开源工具，主要用于读取和分析汽车电子控制单元（ECU）的数据]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/106.html</link>

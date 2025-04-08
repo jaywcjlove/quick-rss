@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DevHub：离线开发者工具应用，支持开发者的日常任务](https://wangchujiang.com/quick-rss/issue/107.html) 
+
+![](https://github.com/user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9)
+
+DevHub是一个功能丰富的离线应用程序，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。 我正在积极开发中，并树立了一个大胆的目标：每周发布更新。我努力保持紧凑的足迹，旨在策划一个包含100多个小工具的广泛集合，为开发人员提供多样化的工具。这一举措体现了我对持续提升的承诺，提供丰富的工具，以赋能开发人员。DevHub不仅仅是一个编码伴侣； 已完成的工具如下： ■ 文件信息 ■ ([#107](https://github.com/jaywcjlove/quick-rss/issues/107) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [EcuBus-Pro: 一种用于汽车维修和故障诊断的开源工具，主要用于读取和分析汽车电子控制单元（ECU）的数据](https://wangchujiang.com/quick-rss/issue/106.html) 
 
 ![](https://github.com/user-attachments/assets/5ece19f9-5c9a-4ac3-9b60-bdbc56482f79)

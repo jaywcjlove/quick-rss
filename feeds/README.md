@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [LibreTV：一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务](https://wangchujiang.com/quick-rss/issue/108.html) 
+
+![](https://github.com/user-attachments/assets/68728ea9-7639-4fd3-a02a-823312e520e2)
+
+LibreTV是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目采用纯前端技术构建，可轻松部署在各类静态网站托管服务上。 👉 本项目基于 https://github.com/bestK/tv 👉 演示站：https://libretv.is-an.org/ ✨ 主要特性 🔍 多源视频搜索功能，覆盖电影、电视剧等内容 ([#108](https://github.com/jaywcjlove/quick-rss/issues/108) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DevHub：离线开发者工具应用，支持开发者的日常任务](https://wangchujiang.com/quick-rss/issue/107.html) 
 
 ![](https://github.com/user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9)

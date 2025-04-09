@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [KeyClicker：一个模拟机械键盘和打字机的真实打字声的应用](https://wangchujiang.com/quick-rss/issue/109.html) 
+
+![](https://github.com/user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4)
+
+KeyClicker 为用户带来真实的键盘打字声音体验，再现机械键盘与打字机的敲击感受，并支持在桌面上显示按下的快捷键，适用于会议、教学或视频教程制作等场合。 📥 下载：https://apps.apple.com/app/key-clicker/6740425504 💬 反馈：https://github.com/jaywcjlove/key-clicker ([#109](https://github.com/jaywcjlove/quick-rss/issues/109) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [LibreTV：一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务](https://wangchujiang.com/quick-rss/issue/108.html) 
 
 ![](https://github.com/user-attachments/assets/68728ea9-7639-4fd3-a02a-823312e520e2)

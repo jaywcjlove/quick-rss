@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 09 Apr 2025 02:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 20:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,27 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KeyClicker：一个模拟机械键盘和打字机的真实打字声的应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/109.html</link>
+            <guid>109</guid>
+            <pubDate>Wed, 09 Apr 2025 20:26:40 GMT</pubDate>
+            <description><![CDATA[KeyClicker 为用户带来真实的键盘打字声音体验，再现机械键盘与打字机的敲击感受，并支持在桌面上显示按下的快捷键，适用于会议、教学或视频教程制作等场合。 📥 下载：https://apps.apple.com/app/key-clicker/6740425504 💬 反馈：https://github.com/jaywcjlove/key-clicker]]></description>
+            <content:encoded><![CDATA[<p>KeyClicker 为用户带来真实的键盘打字声音体验，再现机械键盘与打字机的敲击感受，并支持在桌面上显示按下的快捷键，适用于会议、教学或视频教程制作等场合。</p>
+<p>📥 下载：<a href="https://apps.apple.com/app/key-clicker/6740425504">https://apps.apple.com/app/key-clicker/6740425504</a>
+💬 反馈：<a href="https://github.com/jaywcjlove/key-clicker">https://github.com/jaywcjlove/key-clicker</a></p>
+<p><img src="https://github.com/user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4" alt="KeyClicker"></p>
+<p><img src="https://github.com/user-attachments/assets/c662fbee-87a9-493e-bb3d-93b9f454ff53" alt="KeyClicker"></p>
+<p><img src="https://github.com/user-attachments/assets/0df21d35-df62-42fa-9549-b57f6afa5990" alt="KeyClicker"></p>
+<p><img src="https://github.com/user-attachments/assets/0f8121b0-75ff-4e93-a9e0-d021cb3ea015" alt="KeyClicker"></p>
+<p><img src="https://github.com/user-attachments/assets/00742c5d-9f19-4dc8-97fa-0323d18569ef" alt="KeyClicker"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/109" target="_blank">#109</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4" length="0" type="image//user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4"/>
+        </item>
         <item>
             <title><![CDATA[LibreTV：一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/108.html</link>

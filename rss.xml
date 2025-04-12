@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 09 Apr 2025 20:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 15:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,37 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Xcodes：最好用的 Xcode 多版本管理神器，开发者必备利器！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/110.html</link>
+            <guid>110</guid>
+            <pubDate>Sat, 12 Apr 2025 15:34:14 GMT</pubDate>
+            <description><![CDATA[如果你经常在 Mac 上开发 iOS、macOS、watchOS 或 visionOS 应用，肯定遇到过来回切换 Xcode 版本的麻烦事。要手动下载、解压、配置 xcode-select，过程繁琐又耗时。而现在，有了 Xcodes.app，这些麻烦事全都能轻松搞定！ 📦 Xcodes.app 是一款专为开发者设计的 Xcode 多版本管理工具，功能非常强大： 📋 自动列出所有 Xcode 版]]></description>
+            <content:encoded><![CDATA[<p>如果你经常在 Mac 上开发 iOS、macOS、watchOS 或 visionOS 应用，肯定遇到过来回切换 Xcode 版本的麻烦事。要手动下载、解压、配置 xcode-select，过程繁琐又耗时。而现在，有了 Xcodes.app，这些麻烦事全都能轻松搞定！</p>
+<p><img src="https://github.com/user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89" alt="Xcodes"></p>
+<p>📦 Xcodes.app 是一款专为开发者设计的 Xcode 多版本管理工具，功能非常强大：</p>
+<ul>
+<li>📋 自动列出所有 Xcode 版本，无论是官方的，还是来自 Xcode Releases 数据库的版本。</li>
+<li>⚡ 支持多线程下载（集成了 aria2，最多 16 个连接，比普通下载快上 3-5 倍！）</li>
+<li>📥 安装过程全自动，网络断了还能自动续传，根本不用盯着看。</li>
+<li>🔐 支持 Apple ID 登录下载，安全又方便。</li>
+<li>📝 可以直接查看每个 Xcode 版本的更新日志、系统兼容性、包含的 SDK 和编译器版本。</li>
+<li>🌙 支持深色模式，界面清爽好用。</li>
+<li>🔑 兼容硬件安全密钥认证，保护你的开发者账号安全。</li>
+</ul>
+<p>此外，它还能下载各种 Apple 平台的运行时环境（iOS、tvOS、watchOS、visionOS），一键安装，特别适合做跨设备测试的开发者。</p>
+<p>⚠️ 小提示：如果要使用 iOS 18+、tvOS 18+、watchOS 11+ 或 visionOS 2+，记得要安装并激活 Xcode 16.1 Beta 3 及以上版本。</p>
+<p>⸻</p>
+<p>总结一句：
+👉 Xcodes.app 是 macOS 下最好用的 Xcode 多版本管理神器，简单、快捷、高效，开发者必备！</p>
+<p>要不要我帮你配个推广图或者文案标题？😎</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/110" target="_blank">#110</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89" length="0" type="image//user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89"/>
+        </item>
         <item>
             <title><![CDATA[KeyClicker：一个模拟机械键盘和打字机的真实打字声的应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/109.html</link>

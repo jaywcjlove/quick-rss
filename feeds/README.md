@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Xcodes：最好用的 Xcode 多版本管理神器，开发者必备利器！](https://wangchujiang.com/quick-rss/issue/110.html) 
+
+![](https://github.com/user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89)
+
+如果你经常在 Mac 上开发 iOS、macOS、watchOS 或 visionOS 应用，肯定遇到过来回切换 Xcode 版本的麻烦事。要手动下载、解压、配置 xcode-select，过程繁琐又耗时。而现在，有了 Xcodes.app，这些麻烦事全都能轻松搞定！ 📦 Xcodes.app 是一款专为开发者设计的 Xcode 多版本管理工具，功能非常强大： 📋 自动列出所有 Xcode 版 ([#110](https://github.com/jaywcjlove/quick-rss/issues/110) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [KeyClicker：一个模拟机械键盘和打字机的真实打字声的应用](https://wangchujiang.com/quick-rss/issue/109.html) 
 
 ![](https://github.com/user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4)

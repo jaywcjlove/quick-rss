@@ -1,5 +1,19 @@
 [
   {
+    "id": "111",
+    "url": "https://wangchujiang.com/quick-rss/issue/111.html",
+    "title": "ConfigForge: 一个专为 macOS 用户设计的开源 SSH 和 Kubernetes 配置管理工具",
+    "content_html": "<p>ConfigForge 是一款专为 macOS 用户设计的开源配置管理工具，支持 SSH 配置和 Kubernetes 配置的可视化管理。提供简洁直观的图形界面来管理 ~/.ssh/config 和 ~/.kube/config 文件，让您轻松查看、搜索、编辑和管理各类配置，避免直接编辑文本文件的繁琐和错误风险。</p>\n<p><img src=\"https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40\" alt=\"Image\"></p>\n<p>使用方式：</p>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew tap samzong/tap\n</span><span class=\"code-line line-number\" line=\"2\">brew <span class=\"token function\">install</span> configforge\n</span><span class=\"code-line line-number\" line=\"3\">\n</span><span class=\"code-line line-number\" line=\"4\"><span class=\"token comment\"># 当前使用免费开发者账号自签名</span>\n</span><span class=\"code-line line-number\" line=\"5\">xattr <span class=\"token parameter variable\">-dr</span> com.apple.quarantine /Applications/ConfigForge.app\n</span></code></pre>",
+    "summary": "ConfigForge 是一款专为 macOS 用户设计的开源配置管理工具，支持 SSH 配置和 Kubernetes 配置的可视化管理。提供简洁直观的图形界面来管理 ~/.ssh/config 和 ~/.kube/config 文件，让您轻松查看、搜索、编辑和管理各类配置，避免直接编辑文本文件的繁琐和错误风险。 使用方式： ```bash brew tap samzong/tap brew in",
+    "banner_image": "https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40",
+    "date_published": "2025-04-16T15:14:08Z",
+    "author": {
+      "name": "samzong",
+      "link": "https://avatars.githubusercontent.com/u/13782141?v=4"
+    },
+    "markdownContent": "ConfigForge 是一款专为 macOS 用户设计的开源配置管理工具，支持 SSH 配置和 Kubernetes 配置的可视化管理。提供简洁直观的图形界面来管理 ~/.ssh/config 和 ~/.kube/config 文件，让您轻松查看、搜索、编辑和管理各类配置，避免直接编辑文本文件的繁琐和错误风险。\n\n![Image](https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40)\n\n使用方式：\n\n```bash\nbrew tap samzong/tap\nbrew install configforge\n\n# 当前使用免费开发者账号自签名\nxattr -dr com.apple.quarantine /Applications/ConfigForge.app\n```"
+  },
+  {
     "id": "110",
     "url": "https://wangchujiang.com/quick-rss/issue/110.html",
     "title": "Xcodes：最好用的 Xcode 多版本管理神器，开发者必备利器！",

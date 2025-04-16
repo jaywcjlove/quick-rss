@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ConfigForge: 一个专为 macOS 用户设计的开源 SSH 和 Kubernetes 配置管理工具](https://wangchujiang.com/quick-rss/issue/111.html) 
+
+![](https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40)
+
+ConfigForge 是一款专为 macOS 用户设计的开源配置管理工具，支持 SSH 配置和 Kubernetes 配置的可视化管理。提供简洁直观的图形界面来管理 ~/.ssh/config 和 ~/.kube/config 文件，让您轻松查看、搜索、编辑和管理各类配置，避免直接编辑文本文件的繁琐和错误风险。 使用方式： brew tap samzong/tap brew install co ([#111](https://github.com/jaywcjlove/quick-rss/issues/111) - [@samzong](https://github.com/samzong))
 ## [Xcodes：最好用的 Xcode 多版本管理神器，开发者必备利器！](https://wangchujiang.com/quick-rss/issue/110.html) 
 
 ![](https://github.com/user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89)

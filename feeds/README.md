@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [WinDiskWriter：macOS 下的 U 盘 Windows 系统启动盘制作工具](https://wangchujiang.com/quick-rss/issue/112.html) 
+
+![](https://github.com/user-attachments/assets/7cb8a5cc-87dd-4815-9d09-484f13730408)
+
+想在 Mac 上创建一个可启动的 Windows USB 驱动器吗？WinDiskWriter 是 macOS 用户安装 Windows 到 PC、Intel Mac 或虚拟机的完美解决方案。借助这个强大的工具，您可以轻松绕过 Windows 11 的严格要求，创建一个支持 UEFI 和传统 BIOS 模式的通用启动 USB 驱动器。 主要功能： 创建可启动的 Windows 安装 USB 驱动器 ([#112](https://github.com/jaywcjlove/quick-rss/issues/112) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [ConfigForge: 一个专为 macOS 用户设计的开源 SSH 和 Kubernetes 配置管理工具](https://wangchujiang.com/quick-rss/issue/111.html) 
 
 ![](https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40)

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "112",
+            "content_html": "<p>想在 Mac 上创建一个可启动的 Windows USB 驱动器吗？WinDiskWriter 是 macOS 用户安装 Windows 到 PC、Intel Mac 或虚拟机的完美解决方案。借助这个强大的工具，您可以轻松绕过 Windows 11 的严格要求，创建一个支持 UEFI 和传统 BIOS 模式的通用启动 USB 驱动器。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7cb8a5cc-87dd-4815-9d09-484f13730408\" alt=\"\"></p>\n<h3>主要功能：</h3>\n<ul>\n<li>创建可启动的 Windows 安装 USB 驱动器\nWinDiskWriter 支持为各种 Windows 镜像类型创建可启动驱动器，确保任何 Windows 版本的安装过程都顺畅无阻。</li>\n<li>修补 Windows 11 安装程序\n厌倦了 Windows 11 对 TPM、安全启动和最低内存等的限制？WinDiskWriter 允许您绕过这些限制，轻松安装 Windows 11。只需在写入之前点击“修补安装程序要求”即可。</li>\n<li>UEFI 和传统 BIOS 支持\n无论您使用的是现代计算机还是老旧设备，WinDiskWriter 都能为您提供支持。您可以创建一个同时支持 UEFI 和传统 BIOS 模式的 USB 驱动器，确保兼容不支持 EFI 启动的旧系统。</li>\n<li>为 Windows Vista 和 7 添加 EFI 支持\nWindows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您添加 EFI 支持，让这些旧版本的 Windows 能够在现代系统上启动。</li>\n<li>拆分大型 Windows 安装镜像\n新版 Windows ISO 文件通常包含大于 4GB 的安装文件，而 FAT32 文件系统不支持大于 4GB 的文件。WinDiskWriter 会自动为您拆分这些文件，确保与 USB 驱动器的兼容性。</li>\n</ul>\n<p>无论您是在升级 PC、安装到虚拟机，还是想在 Mac 上体验 Windows，WinDiskWriter 都提供了一个简单、可靠的解决方案，让您轻松创建可启动的 USB 驱动器。告别复杂的操作，今天就开始，享受无缝的 Windows 安装体验！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/112\" target=\"_blank\">#112</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/112.html",
+            "title": "WinDiskWriter：macOS 下的 U 盘 Windows 系统启动盘制作工具",
+            "summary": "想在 Mac 上创建一个可启动的 Windows USB 驱动器吗？WinDiskWriter 是 macOS 用户安装 Windows 到 PC、Intel Mac 或虚拟机的完美解决方案。借助这个强大的工具，您可以轻松绕过 Windows 11 的严格要求，创建一个支持 UEFI 和传统 BIOS 模式的通用启动 USB 驱动器。 主要功能： 创建可启动的 Windows 安装 USB 驱动器",
+            "image": "https://github.com/user-attachments/assets/7cb8a5cc-87dd-4815-9d09-484f13730408",
+            "date_modified": "2025-04-16T18:10:37.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "111",
             "content_html": "<p>ConfigForge 是一款专为 macOS 用户设计的开源配置管理工具，支持 SSH 配置和 Kubernetes 配置的可视化管理。提供简洁直观的图形界面来管理 ~/.ssh/config 和 ~/.kube/config 文件，让您轻松查看、搜索、编辑和管理各类配置，避免直接编辑文本文件的繁琐和错误风险。</p>\n<p><img src=\"https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40\" alt=\"Image\"></p>\n<p>使用方式：</p>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew tap samzong/tap\n</span><span class=\"code-line line-number\" line=\"2\">brew <span class=\"token function\">install</span> configforge\n</span><span class=\"code-line line-number\" line=\"3\">\n</span><span class=\"code-line line-number\" line=\"4\"><span class=\"token comment\"># 当前使用免费开发者账号自签名</span>\n</span><span class=\"code-line line-number\" line=\"5\">xattr <span class=\"token parameter variable\">-dr</span> com.apple.quarantine /Applications/ConfigForge.app\n</span></code></pre><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/111\" target=\"_blank\">#111</a> • \n      <a href=\"https://github.com/samzong\" target=\"_blank\">@samzong</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/111.html",

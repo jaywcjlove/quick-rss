@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Tabboost：Chrome 功能增强插件，复制 Arc 精髓，带来更高效的浏览体验！](https://wangchujiang.com/quick-rss/issue/114.html) 
+
+![](https://github.com/user-attachments/assets/d35ffe87-33e0-43a2-a460-844030447a75)
+
+TabBoost是一款提高浏览器标签页效率的Chrome扩展，它提供了一系列便捷功能，如链接预览、分屏浏览、标签页复制等，帮助您更高效地管理和使用Chrome标签页，灵感来源于 Arc Browser。 功能特性 🚀 链接预览: 无需离开当前页面即可预览链接。按住 Command 键 (Mac) 或 Ctrl 键 (Windows - 可配置) 点击链接，即可在当前页面的弹出窗口中打开。 📺  ([#114](https://github.com/jaywcjlove/quick-rss/issues/114) - [@samzong](https://github.com/samzong))
 ## [FileSentinel：一款文件监视器，自动监控 `.zsh_history` 等文件并保存记录，帮助你轻松搜索和回顾最近的终端命令，再也不怕忘记复杂命令](https://wangchujiang.com/quick-rss/issue/113.html) 
 
 ![](https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b)

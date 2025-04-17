@@ -1,5 +1,19 @@
 [
   {
+    "id": "114",
+    "url": "https://wangchujiang.com/quick-rss/issue/114.html",
+    "title": "Tabboost：Chrome 功能增强插件，复制 Arc 精髓，带来更高效的浏览体验！",
+    "content_html": "<p>TabBoost是一款提高浏览器标签页效率的Chrome扩展，它提供了一系列便捷功能，如链接预览、分屏浏览、标签页复制等，帮助您更高效地管理和使用Chrome标签页，灵感来源于 Arc Browser。</p>\n<h4>功能特性</h4>\n<ul>\n<li><strong>🚀 链接预览</strong>: 无需离开当前页面即可预览链接。按住 <code>Command</code> 键 (Mac) 或 <code>Ctrl</code> 键 (Windows - 可配置) 点击链接，即可在当前页面的弹出窗口中打开。</li>\n<li><strong>📺 分屏模式</strong>: 在单个标签页内并排查看两个网页。通过 <code>Shift + Command + Click</code> (Mac) 或类似方式 (Windows) 点击链接触发，或通过扩展菜单激活。非常适合比较内容或多任务处理。</li>\n<li><strong>🧠 智能兼容性处理</strong>: 自动检测无法在预览或分屏中加载的网站（由于 <code>X-Frame-Options</code> 或 CSP 限制），并提供在\"新标签页中打开\"或将其添加到\"忽略列表\"的选项。可在设置中管理忽略列表。</li>\n<li><strong>💾 网页保存确认</strong>: 拦截 <code>Command+S</code> (Mac) 或 <code>Ctrl+S</code> (Windows) 保存快捷键，显示确认对话框，防止意外保存网页而非文件。确认后有3秒时间使用原生保存功能。</li>\n<li><strong>✨ 标签页复制</strong>: 使用快捷键 (<code>Ctrl+M</code> / <code>MacCtrl+M</code>) 快速复制当前标签页。</li>\n<li><strong>🖱️ URL复制</strong>: 使用快捷键 (<code>Alt+C</code> / <code>Shift+Command+C</code>) 一键复制当前页面URL到剪贴板。</li>\n<li><strong>🔧 高度自定义</strong>:\n<ul>\n<li>配置扩展图标点击的默认操作。</li>\n<li>调整预览弹出窗口的大小。</li>\n<li>启用/禁用特定功能（如分屏、忽略列表）。</li>\n<li>在 <code>chrome://extensions/shortcuts</code> 中自定义快捷键。</li>\n</ul>\n</li>\n<li><strong>🔒 安全增强</strong>: 严格的内容安全策略(CSP)和URL验证机制保障扩展安全。</li>\n</ul>\n<h4>截图</h4>\n<p><img src=\"https://github.com/user-attachments/assets/d35ffe87-33e0-43a2-a460-844030447a75\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/b56e2a35-5e00-4e11-9f1f-7fb772404e08\" alt=\"Image\"></p>\n<h4>安装方式</h4>\n<ul>\n<li>正式版： Chrome 插件市场 <a href=\"https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe\">Tabboost</a></li>\n<li>开发版（更新较快）：<a href=\"https://github.com/samzong/chrome-tabboost/releases\">Github Release</a></li>\n</ul>",
+    "summary": "TabBoost是一款提高浏览器标签页效率的Chrome扩展，它提供了一系列便捷功能，如链接预览、分屏浏览、标签页复制等，帮助您更高效地管理和使用Chrome标签页，灵感来源于 Arc Browser。 #### 功能特性 - **🚀 链接预览**: 无需离开当前页面即可预览链接。按住 `Command` 键 (Mac) 或 `Ctrl` 键 (Windows - 可配置) 点击链接，即可在当前",
+    "banner_image": "https://github.com/user-attachments/assets/d35ffe87-33e0-43a2-a460-844030447a75",
+    "date_published": "2025-04-17T04:11:38Z",
+    "author": {
+      "name": "samzong",
+      "link": "https://avatars.githubusercontent.com/u/13782141?v=4"
+    },
+    "markdownContent": "TabBoost是一款提高浏览器标签页效率的Chrome扩展，它提供了一系列便捷功能，如链接预览、分屏浏览、标签页复制等，帮助您更高效地管理和使用Chrome标签页，灵感来源于 Arc Browser。\n\n#### 功能特性\n\n- **🚀 链接预览**: 无需离开当前页面即可预览链接。按住 `Command` 键 (Mac) 或 `Ctrl` 键 (Windows - 可配置) 点击链接，即可在当前页面的弹出窗口中打开。\n- **📺 分屏模式**: 在单个标签页内并排查看两个网页。通过 `Shift + Command + Click` (Mac) 或类似方式 (Windows) 点击链接触发，或通过扩展菜单激活。非常适合比较内容或多任务处理。\n- **🧠 智能兼容性处理**: 自动检测无法在预览或分屏中加载的网站（由于 `X-Frame-Options` 或 CSP 限制），并提供在\"新标签页中打开\"或将其添加到\"忽略列表\"的选项。可在设置中管理忽略列表。\n- **💾 网页保存确认**: 拦截 `Command+S` (Mac) 或 `Ctrl+S` (Windows) 保存快捷键，显示确认对话框，防止意外保存网页而非文件。确认后有3秒时间使用原生保存功能。\n- **✨ 标签页复制**: 使用快捷键 (`Ctrl+M` / `MacCtrl+M`) 快速复制当前标签页。\n- **🖱️ URL复制**: 使用快捷键 (`Alt+C` / `Shift+Command+C`) 一键复制当前页面URL到剪贴板。\n- **🔧 高度自定义**:\n    - 配置扩展图标点击的默认操作。\n    - 调整预览弹出窗口的大小。\n    - 启用/禁用特定功能（如分屏、忽略列表）。\n    - 在 `chrome://extensions/shortcuts` 中自定义快捷键。\n- **🔒 安全增强**: 严格的内容安全策略(CSP)和URL验证机制保障扩展安全。\n\n#### 截图\n\n![Image](https://github.com/user-attachments/assets/d35ffe87-33e0-43a2-a460-844030447a75)\n\n![Image](https://github.com/user-attachments/assets/b56e2a35-5e00-4e11-9f1f-7fb772404e08)\n\n\n#### 安装方式\n\n- 正式版： Chrome 插件市场 [Tabboost](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)\n- 开发版（更新较快）：[Github Release](https://github.com/samzong/chrome-tabboost/releases)"
+  },
+  {
     "id": "113",
     "url": "https://wangchujiang.com/quick-rss/issue/113.html",
     "title": "FileSentinel：一款文件监视器，自动监控 `.zsh_history` 等文件并保存记录，帮助你轻松搜索和回顾最近的终端命令，再也不怕忘记复杂命令",

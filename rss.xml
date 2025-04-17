@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 16 Apr 2025 18:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 02:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,35 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FileSentinel：一款文件监视器，自动监控 `.zsh_history` 等文件并保存记录，帮助你轻松搜索和回顾最近的终端命令，再也不怕忘记复杂命令]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/113.html</link>
+            <guid>113</guid>
+            <pubDate>Thu, 17 Apr 2025 02:00:59 GMT</pubDate>
+            <description><![CDATA[文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 .zsh_history 或 .bash_history 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快速访问命令历史，支持全文搜索，让查询历史记录变得更加方便快捷。 📥 下载：https://apps.apple.com/app/6744690194 💬 反]]></description>
+            <content:encoded><![CDATA[<p>文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 <code>.zsh_history</code> 或 <code>.bash_history</code> 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快速访问命令历史，支持全文搜索，让查询历史记录变得更加方便快捷。</p>
+<p>📥 下载：<a href="https://apps.apple.com/app/6744690194">https://apps.apple.com/app/6744690194</a><br>
+💬 反馈：<a href="https://github.com/jaywcjlove/file-sentinel">https://github.com/jaywcjlove/file-sentinel</a></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/f0b8d5a6-87f3-4066-a587-d987ee968317?title=FileSentinel&#x26;rehype=video"></video>
+<p><img src="https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b" alt="FileSentinel">
+<img src="https://github.com/user-attachments/assets/159605b5-62a4-42f8-945e-10dcdf4231b6" alt="FileSentinel"></p>
+<h2>主要功能</h2>
+<ul>
+<li>命令搜索：快速查找你需要的命令。</li>
+<li>收藏命令：保存常用命令，便于快速访问。</li>
+<li>菜单栏访问：直接从菜单栏访问命令历史，轻松集成。</li>
+<li>自动去重：监听并自动去除重复的命令记录。</li>
+<li>导入历史记录：在监听前导入现有的 Shell 历史记录。</li>
+</ul>
+<p>FileSentinel 是一款用于监听文本变化的工具，利用 macOS 生成的 .zsh_history 文件来追踪终端命令。它支持所有流行的 Shell：zsh（macOS 默认）、bash 和 fish shell，还允许你自行导入其他历史记录文件。</p>
+<p>无论是调试、回顾复杂命令，还是提高工作效率，FileSentinel 都是你轻松浏览终端历史记录的最佳选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/113" target="_blank">#113</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b" length="0" type="image//user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b"/>
+        </item>
         <item>
             <title><![CDATA[WinDiskWriter：macOS 下的 U 盘 Windows 系统启动盘制作工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/112.html</link>

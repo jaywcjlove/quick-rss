@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FileSentinel：一款文件监视器，自动监控 .zsh_history 等文件并保存记录，帮助你轻松搜索和回顾最近的终端命令，再也不怕忘记复杂命令 Quick RSS</title>
+    <meta name="description" content="文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 .zsh_history 或 .bash_history 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/113.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 .zsh_history 或 .bash_history 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - 文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 .zsh_history 或 .bash_history 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快">
+    <meta property="twitter:description" content="文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 .zsh_history 或 .bash_history 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.1">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.1"></script>
+    <script src="../js/dark-mode.js?v=1.34.1"></script>
+    <script src="../js/markdown-style.js?v=1.34.1"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="filesentinel一款文件监视器自动监控-zsh_history-等文件并保存记录帮助你轻松搜索和回顾最近的终端命令再也不怕忘记复杂命令"><a aria-hidden="true" tabindex="-1" href="#filesentinel一款文件监视器自动监控-zsh_history-等文件并保存记录帮助你轻松搜索和回顾最近的终端命令再也不怕忘记复杂命令" class="anchor"><span class="icon icon-link"></span></a>FileSentinel：一款文件监视器，自动监控 <code>.zsh_history</code> 等文件并保存记录，帮助你轻松搜索和回顾最近的终端命令，再也不怕忘记复杂命令</h1>
+        <p>文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 <code>.zsh_history</code> 或 <code>.bash_history</code> 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快速访问命令历史，支持全文搜索，让查询历史记录变得更加方便快捷。</p>
+        <p>📥 下载：<a href="https://apps.apple.com/app/6744690194">https://apps.apple.com/app/6744690194</a><br>💬 反馈：<a href="https://github.com/jaywcjlove/file-sentinel">https://github.com/jaywcjlove/file-sentinel</a></p>
+        <details open class="octicon octicon-video">
+          <summary>
+            <svg aria-hidden="" height="16" width="16" viewBox="0 0 16 16" version="1.1" data-view-component="" class="octicon octicon-device-camera-video">
+              <path fill-rule="evenodd" d="M16 3.75a.75.75 0 00-1.136-.643L11 5.425V4.75A1.75 1.75 0 009.25 3h-7.5A1.75 1.75 0 000 4.75v6.5C0 12.216.784 13 1.75 13h7.5A1.75 1.75 0 0011 11.25v-.675l3.864 2.318A.75.75 0 0016 12.25v-8.5zm-5 5.075l3.5 2.1v-5.85l-3.5 2.1v1.65zM9.5 6.75v-2a.25.25 0 00-.25-.25h-7.5a.25.25 0 00-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-4.5z"></path>
+            </svg><span aria-label="Video description FileSentinel">FileSentinel</span><span class="dropdown-caret"></span>
+          </summary>
+          <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/f0b8d5a6-87f3-4066-a587-d987ee968317?title=FileSentinel&#x26;rehype=video"></video>
+        </details>
+        <p>
+          <img src="https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b" alt="FileSentinel">
+          <img src="https://github.com/user-attachments/assets/159605b5-62a4-42f8-945e-10dcdf4231b6" alt="FileSentinel">
+        </p>
+        <h2 id="主要功能"><a aria-hidden="true" tabindex="-1" href="#主要功能" class="anchor"><span class="icon icon-link"></span></a>主要功能</h2>
+        <ul>
+          <li>命令搜索：快速查找你需要的命令。</li>
+          <li>收藏命令：保存常用命令，便于快速访问。</li>
+          <li>菜单栏访问：直接从菜单栏访问命令历史，轻松集成。</li>
+          <li>自动去重：监听并自动去除重复的命令记录。</li>
+          <li>导入历史记录：在监听前导入现有的 Shell 历史记录。</li>
+        </ul>
+        <p>FileSentinel 是一款用于监听文本变化的工具，利用 macOS 生成的 .zsh_history 文件来追踪终端命令。它支持所有流行的 Shell：zsh（macOS 默认）、bash 和 fish shell，还允许你自行导入其他历史记录文件。</p>
+        <p>无论是调试、回顾复杂命令，还是提高工作效率，FileSentinel 都是你轻松浏览终端历史记录的最佳选择。</p>
+        <p>👉 <a href="https://apps.apple.com/app/6744690194">https://apps.apple.com/app/6744690194</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://apps.apple.com/app/6744690194" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/113" target="_blank">#113</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.1"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.1
+    </div>
+    <script src="../js/tocbot.js?v=1.34.1"></script>
+  </body>
+</html>

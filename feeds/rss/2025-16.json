@@ -1,5 +1,19 @@
 [
   {
+    "id": "113",
+    "url": "https://wangchujiang.com/quick-rss/issue/113.html",
+    "title": "FileSentinel：一款文件监视器，自动监控 `.zsh_history` 等文件并保存记录，帮助你轻松搜索和回顾最近的终端命令，再也不怕忘记复杂命令",
+    "content_html": "<p>文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 <code>.zsh_history</code> 或 <code>.bash_history</code> 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快速访问命令历史，支持全文搜索，让查询历史记录变得更加方便快捷。</p>\n<p>📥 下载：<a href=\"https://apps.apple.com/app/6744690194\">https://apps.apple.com/app/6744690194</a><br>\n💬 反馈：<a href=\"https://github.com/jaywcjlove/file-sentinel\">https://github.com/jaywcjlove/file-sentinel</a></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/f0b8d5a6-87f3-4066-a587-d987ee968317?title=FileSentinel&#x26;rehype=video\"></video>\n<p><img src=\"https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b\" alt=\"FileSentinel\">\n<img src=\"https://github.com/user-attachments/assets/159605b5-62a4-42f8-945e-10dcdf4231b6\" alt=\"FileSentinel\"></p>\n<h2>主要功能</h2>\n<ul>\n<li>命令搜索：快速查找你需要的命令。</li>\n<li>收藏命令：保存常用命令，便于快速访问。</li>\n<li>菜单栏访问：直接从菜单栏访问命令历史，轻松集成。</li>\n<li>自动去重：监听并自动去除重复的命令记录。</li>\n<li>导入历史记录：在监听前导入现有的 Shell 历史记录。</li>\n</ul>\n<p>FileSentinel 是一款用于监听文本变化的工具，利用 macOS 生成的 .zsh_history 文件来追踪终端命令。它支持所有流行的 Shell：zsh（macOS 默认）、bash 和 fish shell，还允许你自行导入其他历史记录文件。</p>\n<p>无论是调试、回顾复杂命令，还是提高工作效率，FileSentinel 都是你轻松浏览终端历史记录的最佳选择。</p>",
+    "summary": "文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 `.zsh_history` 或 `.bash_history` 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快速访问命令历史，支持全文搜索，让查询历史记录变得更加方便快捷。 📥 下载：https://apps.apple.com/app/6744690194 ",
+    "banner_image": "https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b",
+    "date_published": "2025-04-17T02:00:59Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 `.zsh_history` 或 `.bash_history` 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快速访问命令历史，支持全文搜索，让查询历史记录变得更加方便快捷。\n\n📥 下载：https://apps.apple.com/app/6744690194  \n💬 反馈：https://github.com/jaywcjlove/file-sentinel  \n\nhttps://github.com/user-attachments/assets/f0b8d5a6-87f3-4066-a587-d987ee968317?title=FileSentinel&rehype=video\n\n![FileSentinel](https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b)\n![FileSentinel](https://github.com/user-attachments/assets/159605b5-62a4-42f8-945e-10dcdf4231b6)\n\n## 主要功能\n\n- 命令搜索：快速查找你需要的命令。\n- 收藏命令：保存常用命令，便于快速访问。\n- 菜单栏访问：直接从菜单栏访问命令历史，轻松集成。\n- 自动去重：监听并自动去除重复的命令记录。\n- 导入历史记录：在监听前导入现有的 Shell 历史记录。\n\nFileSentinel 是一款用于监听文本变化的工具，利用 macOS 生成的 .zsh_history 文件来追踪终端命令。它支持所有流行的 Shell：zsh（macOS 默认）、bash 和 fish shell，还允许你自行导入其他历史记录文件。\n\n无论是调试、回顾复杂命令，还是提高工作效率，FileSentinel 都是你轻松浏览终端历史记录的最佳选择。"
+  },
+  {
     "id": "112",
     "url": "https://wangchujiang.com/quick-rss/issue/112.html",
     "title": "WinDiskWriter：macOS 下的 U 盘 Windows 系统启动盘制作工具",

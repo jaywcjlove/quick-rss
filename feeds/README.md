@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [FileSentinel：一款文件监视器，自动监控 `.zsh_history` 等文件并保存记录，帮助你轻松搜索和回顾最近的终端命令，再也不怕忘记复杂命令](https://wangchujiang.com/quick-rss/issue/113.html) 
+
+![](https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b)
+
+文件监视器，用于监听文本文件并保存最后一行内容。它可以监控类似 .zsh_history 或 .bash_history 的文件，自动保存 Shell 历史记录，帮助你轻松搜索最近的终端命令，确保你再也不会忘记任何命令。无需打开终端，便可快速访问命令历史，支持全文搜索，让查询历史记录变得更加方便快捷。 📥 下载：https://apps.apple.com/app/6744690194 💬 反 ([#113](https://github.com/jaywcjlove/quick-rss/issues/113) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [WinDiskWriter：macOS 下的 U 盘 Windows 系统启动盘制作工具](https://wangchujiang.com/quick-rss/issue/112.html) 
 
 ![](https://github.com/user-attachments/assets/7cb8a5cc-87dd-4815-9d09-484f13730408)

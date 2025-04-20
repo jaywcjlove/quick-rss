@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BetterDisplay Pro - 显示器控制与增强功能的终极工具](https://wangchujiang.com/quick-rss/issue/116.html) 
+
+![](https://github.com/user-attachments/assets/e492ea1a-3db4-4162-9e52-e50cbc8d6e88)
+
+如果你是一个需要精确控制显示器设置的用户，BetterDisplay Pro 无疑是最强大的工具之一。它不仅让你可以自由调整显示器的分辨率、亮度、音色，还提供了丰富的功能来优化你的显示体验。无论你是专业用户还是日常使用者，BetterDisplay Pro 都能大大提升你的工作效率和使用体验。 主要功能亮点： 全新视频滤镜功能 支持为画中画（PIP）和本地流媒体添加视频滤镜，并且可以通过自流媒体和 ([#116](https://github.com/jaywcjlove/quick-rss/issues/116) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MonitorControl - 高效控制显示器亮度与音量](https://wangchujiang.com/quick-rss/issue/115.html) 
 
 ![](https://github.com/user-attachments/assets/1328a23f-721b-4487-8f1e-9339665cd880)

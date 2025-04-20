@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MonitorControl - 高效控制显示器亮度与音量](https://wangchujiang.com/quick-rss/issue/115.html) 
+
+![](https://github.com/user-attachments/assets/1328a23f-721b-4487-8f1e-9339665cd880)
+
+如果你是一个需要频繁调整显示器亮度和音量的用户，MonitorControl 绝对是你必备的神器。这款完全免费的应用让你可以轻松控制外接显示器的亮度、音量和对比度，并且提供了原生的 OSD 显示效果，支持多种显示器协议和硬件设置。 主要功能亮点： 全面控制显示器设置 无论是亮度、音量还是对比度，MonitorControl 都能帮助你快速调整，满足你的日常需求。 支持原生 OSD 显示 这款应用会 ([#115](https://github.com/jaywcjlove/quick-rss/issues/115) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Tabboost：Chrome 功能增强插件，复制 Arc 精髓，带来更高效的浏览体验！](https://wangchujiang.com/quick-rss/issue/114.html) 
 
 ![](https://github.com/user-attachments/assets/d35ffe87-33e0-43a2-a460-844030447a75)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-04-17T05:11:28.752Z</updated>
+    <updated>2025-04-20T06:59:33.723Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,50 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[MonitorControl - 高效控制显示器亮度与音量]]></title>
+        <id>115</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/115.html"/>
+        <updated>2025-04-20T06:59:02.000Z</updated>
+        <summary type="html"><![CDATA[如果你是一个需要频繁调整显示器亮度和音量的用户，MonitorControl 绝对是你必备的神器。这款完全免费的应用让你可以轻松控制外接显示器的亮度、音量和对比度，并且提供了原生的 OSD 显示效果，支持多种显示器协议和硬件设置。 主要功能亮点： 全面控制显示器设置 无论是亮度、音量还是对比度，MonitorControl 都能帮助你快速调整，满足你的日常需求。 支持原生 OSD 显示 这款应用会]]></summary>
+        <content type="html"><![CDATA[<p>如果你是一个需要频繁调整显示器亮度和音量的用户，MonitorControl 绝对是你必备的神器。这款完全免费的应用让你可以轻松控制外接显示器的亮度、音量和对比度，并且提供了原生的 OSD 显示效果，支持多种显示器协议和硬件设置。</p>
+<p><img src="https://github.com/user-attachments/assets/1328a23f-721b-4487-8f1e-9339665cd880" alt="Image"></p>
+<h3>主要功能亮点：</h3>
+<ol>
+<li>全面控制显示器设置
+无论是亮度、音量还是对比度，MonitorControl 都能帮助你快速调整，满足你的日常需求。</li>
+<li>支持原生 OSD 显示
+这款应用会显示你所调整的亮度和音量的原生 OSD（屏幕显示），让你更加直观地了解当前设置。</li>
+<li>多协议支持
+MonitorControl 支持多种协议来调整亮度，包括 DDC 协议（适用于外接显示器），原生 Apple 协议（适用于 Apple 设备和内置显示器），以及用于软件调光的 Gamma 表格控制等。</li>
+<li>平滑的亮度过渡效果
+亮度调整过程中，MonitorControl 会提供平滑的过渡效果，让调光体验更加自然。</li>
+<li>硬件与软件调光结合
+通过将硬件调光与软件调光无缝结合，MonitorControl 可以扩展显示器的最小亮度范围，让你在低光环境下也能舒适使用。</li>
+<li>亮度同步功能
+你可以同步内置屏幕与外接 Apple 显示器的亮度，甚至将触控条或环境光传感器引起的变化应用到非 Apple 显示器。</li>
+<li>自定义快捷键与高级设置
+支持自定义键盘快捷键，还可以通过简单的设置调整应用的内部工作方式，让它更加符合你的需求。</li>
+<li>简洁的用户界面
+MonitorControl 的界面简洁、低调，能够无缝融入 macOS 的整体美学，使用起来既方便又不干扰其他操作。</li>
+</ol>
+<p>完全免费，体验极致功能！</p>
+<p>最棒的是，MonitorControl 完全免费！它为你提供了强大的显示器控制功能，适合任何需要精细调节显示器亮度和音量的用户。如果你需要更多的亮度控制功能和对更多 Mac 型号和显示器的支持，还可以尝试 BetterDisplay，它提供了更多的高级亮度控制和 XDR/HDR 亮度提升等功能。</p>
+<p>如果你是一个经常需要调整显示器亮度和音量的用户，MonitorControl 无疑是你最佳的选择！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/115" target="_blank">#115</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tabboost：Chrome 功能增强插件，复制 Arc 精髓，带来更高效的浏览体验！]]></title>
         <id>114</id>

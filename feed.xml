@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-04-20T07:05:32.449Z</updated>
+    <updated>2025-04-21T06:32:30.695Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,37 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[pad.ws — 你从未见过的白板开源 IDE！浏览器中的白板+开发环境神器]]></title>
+        <id>117</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/117.html"/>
+        <updated>2025-04-21T06:31:58.000Z</updated>
+        <summary type="html"><![CDATA[认识一下 pad.ws，一款将白板与开发环境合二为一的在线工具 。无论是头脑风暴，还是直接上手编码，一切都流畅自如，完全云端化。 ✨ 核心功能： 🎨 基于 Excalidraw 的交互式白板 💻 内置 终端和 VS Code，直接在浏览器里开发 ☁️ 随时随地访问你的开发环境 🔄 流畅切换创意草图和编码界面 🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机 👉 立刻访]]></summary>
+        <content type="html"><![CDATA[<p>认识一下 <a href="https://github.com/pad-ws/pad.ws">pad.ws</a>，一款将白板与开发环境合二为一的在线工具 。无论是头脑风暴，还是直接上手编码，一切都流畅自如，完全云端化。</p>
+<p><img src="https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39" alt="pad.ws"></p>
+<h3>✨ 核心功能：</h3>
+<ul>
+<li>🎨 基于 Excalidraw 的交互式白板</li>
+<li>💻 内置 终端和 VS Code，直接在浏览器里开发</li>
+<li>☁️ 随时随地访问你的开发环境</li>
+<li>🔄 流畅切换创意草图和编码界面</li>
+<li>🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机</li>
+</ul>
+<p>👉 立刻访问 <a href="https://pad.ws/">pad.ws</a>，体验前所未有的开发方式！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/117" target="_blank">#117</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BetterDisplay Pro - 显示器控制与增强功能的终极工具]]></title>
         <id>116</id>

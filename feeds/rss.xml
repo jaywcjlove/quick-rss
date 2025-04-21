@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 20 Apr 2025 07:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 06:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[pad.ws — 你从未见过的白板开源 IDE！浏览器中的白板+开发环境神器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/117.html</link>
+            <guid>117</guid>
+            <pubDate>Mon, 21 Apr 2025 06:31:58 GMT</pubDate>
+            <description><![CDATA[认识一下 pad.ws，一款将白板与开发环境合二为一的在线工具 。无论是头脑风暴，还是直接上手编码，一切都流畅自如，完全云端化。 ✨ 核心功能： 🎨 基于 Excalidraw 的交互式白板 💻 内置 终端和 VS Code，直接在浏览器里开发 ☁️ 随时随地访问你的开发环境 🔄 流畅切换创意草图和编码界面 🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机 👉 立刻访]]></description>
+            <content:encoded><![CDATA[<p>认识一下 <a href="https://github.com/pad-ws/pad.ws">pad.ws</a>，一款将白板与开发环境合二为一的在线工具 。无论是头脑风暴，还是直接上手编码，一切都流畅自如，完全云端化。</p>
+<p><img src="https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39" alt="pad.ws"></p>
+<h3>✨ 核心功能：</h3>
+<ul>
+<li>🎨 基于 Excalidraw 的交互式白板</li>
+<li>💻 内置 终端和 VS Code，直接在浏览器里开发</li>
+<li>☁️ 随时随地访问你的开发环境</li>
+<li>🔄 流畅切换创意草图和编码界面</li>
+<li>🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机</li>
+</ul>
+<p>👉 立刻访问 <a href="https://pad.ws/">pad.ws</a>，体验前所未有的开发方式！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/117" target="_blank">#117</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39" length="0" type="image//user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39"/>
+        </item>
         <item>
             <title><![CDATA[BetterDisplay Pro - 显示器控制与增强功能的终极工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/116.html</link>

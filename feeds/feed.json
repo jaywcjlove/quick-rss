@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "117",
+            "content_html": "<p>认识一下 <a href=\"https://github.com/pad-ws/pad.ws\">pad.ws</a>，一款将白板与开发环境合二为一的在线工具 。无论是头脑风暴，还是直接上手编码，一切都流畅自如，完全云端化。</p>\n<p><img src=\"https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39\" alt=\"pad.ws\"></p>\n<h3>✨ 核心功能：</h3>\n<ul>\n<li>🎨 基于 Excalidraw 的交互式白板</li>\n<li>💻 内置 终端和 VS Code，直接在浏览器里开发</li>\n<li>☁️ 随时随地访问你的开发环境</li>\n<li>🔄 流畅切换创意草图和编码界面</li>\n<li>🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机</li>\n</ul>\n<p>👉 立刻访问 <a href=\"https://pad.ws/\">pad.ws</a>，体验前所未有的开发方式！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/117\" target=\"_blank\">#117</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/117.html",
+            "title": "pad.ws — 你从未见过的白板开源 IDE！浏览器中的白板+开发环境神器",
+            "summary": "认识一下 pad.ws，一款将白板与开发环境合二为一的在线工具 。无论是头脑风暴，还是直接上手编码，一切都流畅自如，完全云端化。 ✨ 核心功能： 🎨 基于 Excalidraw 的交互式白板 💻 内置 终端和 VS Code，直接在浏览器里开发 ☁️ 随时随地访问你的开发环境 🔄 流畅切换创意草图和编码界面 🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机 👉 立刻访",
+            "image": "https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39",
+            "date_modified": "2025-04-21T06:31:58.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "116",
             "content_html": "<p>如果你是一个需要精确控制显示器设置的用户，BetterDisplay Pro 无疑是最强大的工具之一。它不仅让你可以自由调整显示器的分辨率、亮度、音色，还提供了丰富的功能来优化你的显示体验。无论你是专业用户还是日常使用者，BetterDisplay Pro 都能大大提升你的工作效率和使用体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e492ea1a-3db4-4162-9e52-e50cbc8d6e88\" alt=\"\"></p>\n<h2>主要功能亮点：</h2>\n<ol>\n<li>全新视频滤镜功能\n支持为画中画（PIP）和本地流媒体添加视频滤镜，并且可以通过自流媒体和视频滤镜窗口直接应用滤镜。</li>\n<li>XDR/HDR 亮度增强\n对于支持的显示器，BetterDisplay 提供了 XDR 和 HDR 的额外亮度提升，XDR 显示器亮度可以提升至 1600 尼特，让你体验更强的亮度范围。</li>\n<li>显示器同步与分组功能\n可以同步多个显示器的亮度和其他图像设置，确保所有显示器的画面效果一致。</li>\n<li>支持显示器输入和自动配置\nBetterDisplay 支持通过 DDC 控制显示器的亮度、音量和颜色，并可以自动检测和配置 DDC 能力，确保最佳的显示体验。</li>\n<li>虚拟显示器与多分辨率支持\n创建并管理虚拟显示器，支持不同的纵横比和分辨率，同时支持灵活的显示缩放，让你可以轻松调节显示器的显示效果。</li>\n<li>高级定制与键盘快捷键支持\n支持自定义键盘快捷键，快速控制显示器的亮度和音频。你还可以为系统设置分配喜欢的分辨率，方便一键切换。</li>\n<li>显示器布局保护与调整\n使用锚点创建并保护自适应显示布局，确保在多个显示器间顺畅切换。你还可以通过菜单轻松移动显示器的位置，管理多个显示器的排列。</li>\n<li>支持 EDID 重写与显示信息导出\n支持 Intel 和 Apple Silicon Macs 的 EDID 重写，允许用户导出显示器的详细信息，轻松获取显示器的相关参数。</li>\n<li>其他强大功能\n<ul>\n<li>支持多种显示模式（如 SDR 和 HDR 模式自动切换）。</li>\n<li>通过命令行和自定义 URL 模式集成，提供更灵活的操作选项。</li>\n<li>支持 Night Shift 功能、保护显示器配置、无头 Mac 支持等功能。</li>\n</ul>\n</li>\n</ol>\n<p>为什么选择 BetterDisplay Pro？</p>\n<p>BetterDisplay Pro 是一款功能丰富、操作便捷的显示器控制工具，适用于各种 Mac 用户。无论是专业创作者、开发者，还是普通用户，它都能帮助你轻松管理和优化显示器的设置，提升你的视觉体验。如果你需要更精确的亮度控制、更多的显示器设置选项，BetterDisplay Pro 是你不可错过的工具。</p>\n<p>现在就体验 BetterDisplay Pro，解锁更强大的显示器控制功能吧！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/116\" target=\"_blank\">#116</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/116.html",

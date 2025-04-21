@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [pad.ws — 你从未见过的白板开源 IDE！浏览器中的白板+开发环境神器](https://wangchujiang.com/quick-rss/issue/117.html) 
+
+![](https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39)
+
+认识一下 pad.ws，一款将白板与开发环境合二为一的在线工具 。无论是头脑风暴，还是直接上手编码，一切都流畅自如，完全云端化。 ✨ 核心功能： 🎨 基于 Excalidraw 的交互式白板 💻 内置 终端和 VS Code，直接在浏览器里开发 ☁️ 随时随地访问你的开发环境 🔄 流畅切换创意草图和编码界面 🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机 👉 立刻访 ([#117](https://github.com/jaywcjlove/quick-rss/issues/117) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BetterDisplay Pro - 显示器控制与增强功能的终极工具](https://wangchujiang.com/quick-rss/issue/116.html) 
 
 ![](https://github.com/user-attachments/assets/e492ea1a-3db4-4162-9e52-e50cbc8d6e88)

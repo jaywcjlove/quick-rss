@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 21 Apr 2025 06:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 06:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,34 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PaletteGenius v1.8 发布！颜色管理和屏幕颜色选择器工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/118.html</link>
+            <guid>118</guid>
+            <pubDate>Mon, 21 Apr 2025 06:38:53 GMT</pubDate>
+            <description><![CDATA[PaletteGenius 是一款旨在提高设计师和开发者效率的屏幕颜色选择工具。 📥 下载：https://apps.apple.com/app/palette-genius/6472593276 💬 反馈：https://github.com/jaywcjlove/palette-genius 为什么需要开发这个应用程序呢？ ✦ 我一直在使用系统内置的颜色选择器。它既紧凑又快速，但它也有明显]]></description>
+            <content:encoded><![CDATA[<p>PaletteGenius 是一款旨在提高设计师和开发者效率的屏幕颜色选择工具。</p>
+<p>📥 下载：<a href="https://apps.apple.com/app/palette-genius/6472593276">https://apps.apple.com/app/palette-genius/6472593276</a>
+💬 反馈：<a href="https://github.com/jaywcjlove/palette-genius">https://github.com/jaywcjlove/palette-genius</a></p>
+<p><img src="https://github.com/user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068" alt="Image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/4a37e2aa-fb23-43ad-944c-1812cce4af8a?title=PaletteGenius&#x26;rehype=video"></video>
+<p><img src="https://github.com/user-attachments/assets/f905f478-6932-4b93-a109-02ef89bb9b5b" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/c213d1ef-6519-4de7-9450-0a674025ba31" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/fb4308bf-33ff-492a-8413-259fdfe7b3e5" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/efae7066-e4fb-4711-a2fb-3a2f216f54a5" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/552edf0b-1fc6-42d3-9f60-098cbfac8b8f" alt="Image"></p>
+<h3>为什么需要开发这个应用程序呢？</h3>
+<p>✦ 我一直在使用系统内置的颜色选择器。它既紧凑又快速，但它也有明显的缺点。它无法显示十六进制值，并且不容易复制并转换为其他颜色格式。</p>
+<p>✦ 收集流行的颜色，包括来自流行组件库和标准颜色值的颜色。</p>
+<p>✦ 丰富的颜色代码格式：涵盖主流平台和编程语言（iOS、Android、Swift、Objc、CSS 等），并提供快速代码复制的键盘快捷键。</p>
+<p>✦ 外观：支持浅色和深色模式。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/118" target="_blank">#118</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068" length="0" type="image//user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068"/>
+        </item>
         <item>
             <title><![CDATA[pad.ws — 你从未见过的白板开源 IDE！浏览器中的白板+开发环境神器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/117.html</link>

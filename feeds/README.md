@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [PaletteGenius v1.8 发布！颜色管理和屏幕颜色选择器工具](https://wangchujiang.com/quick-rss/issue/118.html) 
+
+![](https://github.com/user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068)
+
+PaletteGenius 是一款旨在提高设计师和开发者效率的屏幕颜色选择工具。 📥 下载：https://apps.apple.com/app/palette-genius/6472593276 💬 反馈：https://github.com/jaywcjlove/palette-genius 为什么需要开发这个应用程序呢？ ✦ 我一直在使用系统内置的颜色选择器。它既紧凑又快速，但它也有明显 ([#118](https://github.com/jaywcjlove/quick-rss/issues/118) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [pad.ws — 你从未见过的白板开源 IDE！浏览器中的白板+开发环境神器](https://wangchujiang.com/quick-rss/issue/117.html) 
 
 ![](https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39)

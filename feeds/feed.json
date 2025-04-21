@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "118",
+            "content_html": "<p>PaletteGenius 是一款旨在提高设计师和开发者效率的屏幕颜色选择工具。</p>\n<p>📥 下载：<a href=\"https://apps.apple.com/app/palette-genius/6472593276\">https://apps.apple.com/app/palette-genius/6472593276</a>\n💬 反馈：<a href=\"https://github.com/jaywcjlove/palette-genius\">https://github.com/jaywcjlove/palette-genius</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068\" alt=\"Image\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/4a37e2aa-fb23-43ad-944c-1812cce4af8a?title=PaletteGenius&#x26;rehype=video\"></video>\n<p><img src=\"https://github.com/user-attachments/assets/f905f478-6932-4b93-a109-02ef89bb9b5b\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c213d1ef-6519-4de7-9450-0a674025ba31\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/fb4308bf-33ff-492a-8413-259fdfe7b3e5\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/efae7066-e4fb-4711-a2fb-3a2f216f54a5\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/552edf0b-1fc6-42d3-9f60-098cbfac8b8f\" alt=\"Image\"></p>\n<h3>为什么需要开发这个应用程序呢？</h3>\n<p>✦ 我一直在使用系统内置的颜色选择器。它既紧凑又快速，但它也有明显的缺点。它无法显示十六进制值，并且不容易复制并转换为其他颜色格式。</p>\n<p>✦ 收集流行的颜色，包括来自流行组件库和标准颜色值的颜色。</p>\n<p>✦ 丰富的颜色代码格式：涵盖主流平台和编程语言（iOS、Android、Swift、Objc、CSS 等），并提供快速代码复制的键盘快捷键。</p>\n<p>✦ 外观：支持浅色和深色模式。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/118\" target=\"_blank\">#118</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/118.html",
+            "title": "PaletteGenius v1.8 发布！颜色管理和屏幕颜色选择器工具",
+            "summary": "PaletteGenius 是一款旨在提高设计师和开发者效率的屏幕颜色选择工具。 📥 下载：https://apps.apple.com/app/palette-genius/6472593276 💬 反馈：https://github.com/jaywcjlove/palette-genius 为什么需要开发这个应用程序呢？ ✦ 我一直在使用系统内置的颜色选择器。它既紧凑又快速，但它也有明显",
+            "image": "https://github.com/user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068",
+            "date_modified": "2025-04-21T06:38:53.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "117",
             "content_html": "<p>认识一下 <a href=\"https://github.com/pad-ws/pad.ws\">pad.ws</a>，一款将白板与开发环境合二为一的在线工具 。无论是头脑风暴，还是直接上手编码，一切都流畅自如，完全云端化。</p>\n<p><img src=\"https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39\" alt=\"pad.ws\"></p>\n<h3>✨ 核心功能：</h3>\n<ul>\n<li>🎨 基于 Excalidraw 的交互式白板</li>\n<li>💻 内置 终端和 VS Code，直接在浏览器里开发</li>\n<li>☁️ 随时随地访问你的开发环境</li>\n<li>🔄 流畅切换创意草图和编码界面</li>\n<li>🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机</li>\n</ul>\n<p>👉 立刻访问 <a href=\"https://pad.ws/\">pad.ws</a>，体验前所未有的开发方式！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/117\" target=\"_blank\">#117</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/117.html",

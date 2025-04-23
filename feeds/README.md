@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Aural Player: 让音频体验更简单、更个性化的 macOS 播放器](https://wangchujiang.com/quick-rss/issue/120.html) 
+
+![](https://github.com/user-attachments/assets/284bd0b4-f7a4-4861-93c8-3d79acf7e2cc)
+
+Aural Player 是一款专为 macOS 用户设计的音频播放器，灵感来自经典的 Windows 播放器 Winamp。它不仅简洁易用，还提供了强大的自定义功能，旨在让你的音频播放体验更加顺畅和个性化。 项目理念与使命 Aural Player 的诞生源于对音频的热爱，以及开发一个有趣实用应用的初心。尽管时间和知识有限，Aural Player 仍然持续吸收用户社区的宝贵建议，不断完善。这个 ([#120](https://github.com/jaywcjlove/quick-rss/issues/120) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Iconize Folder v1.8.0 发布，单色图标可以设置颜色了。轻松设置文件夹颜色和小图标](https://wangchujiang.com/quick-rss/issue/119.html) 
 
 ![](https://github.com/user-attachments/assets/e761bb87-b1a0-49ee-b989-231d0a5c7ab6)

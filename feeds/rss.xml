@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 23 Apr 2025 10:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 14:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,35 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aural Player: 让音频体验更简单、更个性化的 macOS 播放器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/120.html</link>
+            <guid>120</guid>
+            <pubDate>Wed, 23 Apr 2025 14:12:56 GMT</pubDate>
+            <description><![CDATA[Aural Player 是一款专为 macOS 用户设计的音频播放器，灵感来自经典的 Windows 播放器 Winamp。它不仅简洁易用，还提供了强大的自定义功能，旨在让你的音频播放体验更加顺畅和个性化。 项目理念与使命 Aural Player 的诞生源于对音频的热爱，以及开发一个有趣实用应用的初心。尽管时间和知识有限，Aural Player 仍然持续吸收用户社区的宝贵建议，不断完善。这个]]></description>
+            <content:encoded><![CDATA[<p>Aural Player 是一款专为 macOS 用户设计的音频播放器，灵感来自经典的 Windows 播放器 Winamp。它不仅简洁易用，还提供了强大的自定义功能，旨在让你的音频播放体验更加顺畅和个性化。</p>
+<p><img src="https://github.com/user-attachments/assets/284bd0b4-f7a4-4861-93c8-3d79acf7e2cc" alt=""></p>
+<h2>项目理念与使命</h2>
+<p>Aural Player 的诞生源于对音频的热爱，以及开发一个有趣实用应用的初心。尽管时间和知识有限，Aural Player 仍然持续吸收用户社区的宝贵建议，不断完善。这个应用并不追求“完美”或“最好”，它的目标是提供一个真正简单但功能强大的音频播放器，适合每一位 macOS 用户。</p>
+<h2>主要功能</h2>
+<h3>灵活的界面设计</h3>
+<p>Aural Player 借鉴 Winamp 的模块化设计，支持多种展示模式。你可以根据工作空间自由布局，甚至将它缩小为一个迷你的小部件，或者将它隐藏在 macOS 的菜单栏中，随时调用。</p>
+<h3>个性化定制</h3>
+<p>无论是颜色、字体，还是主题布局，Aural Player 都能让你根据自己的创意品味进行完全定制。你可以保存并重新使用自己调制的主题，让每次播放都充满个人特色。</p>
+<h3>广泛的音频格式支持</h3>
+<p>依靠 FFmpeg 强大的处理能力，Aural Player 支持多种主流音频格式，包括所有 macOS Core Audio 格式，无论你收藏了多少不同格式的音频文件，它都能轻松播放。</p>
+<h3>音效调节与监控</h3>
+<p>Aural Player 提供内置多种音效，并支持 Audio Unit (AU) 插件，让音效调节和监控的可能性几乎没有限制。你还可以尝试内置的可视化效果，让音频体验更加丰富。</p>
+<h3>便捷的操作</h3>
+<p>Aural Player 提供多种便捷的操作方式。你可以使用常见任务的快捷键（例如 EQ 滑块、时间拉伸），自定义的媒体按键，触控板滑动与鼠标功能按钮，还支持与 macOS 控制中心的无缝集成，轻松实现远程控制。</p>
+<p>Aural Player，不仅是一个音频播放器，它是你音频世界的个性化中心。快来体验这一款既简单又强大的 macOS 播放器，发现音频的更多可能性！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/120" target="_blank">#120</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/284bd0b4-f7a4-4861-93c8-3d79acf7e2cc" length="0" type="image//user-attachments/assets/284bd0b4-f7a4-4861-93c8-3d79acf7e2cc"/>
+        </item>
         <item>
             <title><![CDATA[Iconize Folder v1.8.0 发布，单色图标可以设置颜色了。轻松设置文件夹颜色和小图标]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/119.html</link>

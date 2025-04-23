@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Iconize Folder v1.8.0 发布，单色图标可以设置颜色了。轻松设置文件夹颜色和小图标](https://wangchujiang.com/quick-rss/issue/119.html) 
+
+![](https://github.com/user-attachments/assets/e761bb87-b1a0-49ee-b989-231d0a5c7ab6)
+
+使用这个工具，你可以轻松地设置文件夹颜色并添加小图标，提升文件管理的视觉效果，帮助你更高效地管理文件。 从超过 5000 种符号图标中选择独特的图标，或自定义你的色彩方案。你还可以选择十多种预设的鲜艳颜色，或在文件夹图标上添加图片图标，满足个人偏好，赋予文件夹个性化标识，让文件管理更加生动、富有层次感。 📥 下载：https://apps.apple.com/app/id6478772538 � ([#119](https://github.com/jaywcjlove/quick-rss/issues/119) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [PaletteGenius v1.8 发布！颜色管理和屏幕颜色选择器工具](https://wangchujiang.com/quick-rss/issue/118.html) 
 
 ![](https://github.com/user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068)

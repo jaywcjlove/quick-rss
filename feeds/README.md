@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [LX Music: 免费且开源的音乐查找工具](https://wangchujiang.com/quick-rss/issue/121.html) 
+
+![](https://github.com/user-attachments/assets/829311e7-4473-4c42-8494-d8a002c16401)
+
+LX Music 是一款完全免费且开源的音乐查找工具，致力于为用户提供便捷、纯净的音乐体验。无广告、无烦恼，LX Music 将成为你探索和欣赏音乐的理想伙伴。 纯净体验，完全免费 LX Music 的开发初衷是为了学习和研究新技术，因此软件始终保持清爽无广告的界面，不受任何商业化干扰。无论你是想聆听喜爱的歌曲，还是搜索新的音乐作品，LX Music 都能为你提供一个纯粹的环境。 多平台支持，随时 ([#121](https://github.com/jaywcjlove/quick-rss/issues/121) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Aural Player: 让音频体验更简单、更个性化的 macOS 播放器](https://wangchujiang.com/quick-rss/issue/120.html) 
 
 ![](https://github.com/user-attachments/assets/284bd0b4-f7a4-4861-93c8-3d79acf7e2cc)

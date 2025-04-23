@@ -1,5 +1,19 @@
 [
   {
+    "id": "121",
+    "url": "https://wangchujiang.com/quick-rss/issue/121.html",
+    "title": "LX Music: 免费且开源的音乐查找工具",
+    "content_html": "<p>LX Music 是一款完全免费且开源的音乐查找工具，致力于为用户提供便捷、纯净的音乐体验。无广告、无烦恼，LX Music 将成为你探索和欣赏音乐的理想伙伴。</p>\n<p><img src=\"https://github.com/user-attachments/assets/829311e7-4473-4c42-8494-d8a002c16401\" alt=\"Image\"></p>\n<h3>纯净体验，完全免费</h3>\n<p>LX Music 的开发初衷是为了学习和研究新技术，因此软件始终保持清爽无广告的界面，不受任何商业化干扰。无论你是想聆听喜爱的歌曲，还是搜索新的音乐作品，LX Music 都能为你提供一个纯粹的环境。</p>\n<h3>多平台支持，随时随地</h3>\n<p>LX Music 支持在 Linux、macOS、Windows 和 Android 等多个平台上运行，让你可以在任何设备上畅享音乐。目前，虽然尚未支持 iOS 和 HarmonyOS NEXT，但团队仍致力于在未来扩展更多平台，满足更多用户的需求。</p>\n<h3>开源共享，技术学习与交流</h3>\n<p>LX Music 在 GitHub 上开源发布，面向全球开发者和技术爱好者开放。无论你是想贡献代码、学习技术，还是探索更多开发细节，LX Music 都是一个理想的开源项目平台，支持全球开发者进行技术交流与合作。</p>\n<p>总结：LX Music 让你免费、方便地查找和享受音乐，同时提供一个干净、开源的环境，让你随时随地都能感受到音乐的魅力。赶快下载并体验，加入我们共同成长的开源社区！</p>",
+    "summary": "LX Music 是一款完全免费且开源的音乐查找工具，致力于为用户提供便捷、纯净的音乐体验。无广告、无烦恼，LX Music 将成为你探索和欣赏音乐的理想伙伴。 ### 纯净体验，完全免费 LX Music 的开发初衷是为了学习和研究新技术，因此软件始终保持清爽无广告的界面，不受任何商业化干扰。无论你是想聆听喜爱的歌曲，还是搜索新的音乐作品，LX Music 都能为你提供一个纯粹的环境。 ### ",
+    "banner_image": "https://github.com/user-attachments/assets/829311e7-4473-4c42-8494-d8a002c16401",
+    "date_published": "2025-04-23T14:18:36Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "LX Music 是一款完全免费且开源的音乐查找工具，致力于为用户提供便捷、纯净的音乐体验。无广告、无烦恼，LX Music 将成为你探索和欣赏音乐的理想伙伴。\n\n![Image](https://github.com/user-attachments/assets/829311e7-4473-4c42-8494-d8a002c16401)\n\n### 纯净体验，完全免费\n\nLX Music 的开发初衷是为了学习和研究新技术，因此软件始终保持清爽无广告的界面，不受任何商业化干扰。无论你是想聆听喜爱的歌曲，还是搜索新的音乐作品，LX Music 都能为你提供一个纯粹的环境。\n\n### 多平台支持，随时随地\n\nLX Music 支持在 Linux、macOS、Windows 和 Android 等多个平台上运行，让你可以在任何设备上畅享音乐。目前，虽然尚未支持 iOS 和 HarmonyOS NEXT，但团队仍致力于在未来扩展更多平台，满足更多用户的需求。\n\n### 开源共享，技术学习与交流\n\nLX Music 在 GitHub 上开源发布，面向全球开发者和技术爱好者开放。无论你是想贡献代码、学习技术，还是探索更多开发细节，LX Music 都是一个理想的开源项目平台，支持全球开发者进行技术交流与合作。\n\n总结：LX Music 让你免费、方便地查找和享受音乐，同时提供一个干净、开源的环境，让你随时随地都能感受到音乐的魅力。赶快下载并体验，加入我们共同成长的开源社区！"
+  },
+  {
     "id": "120",
     "url": "https://wangchujiang.com/quick-rss/issue/120.html",
     "title": "Aural Player: 让音频体验更简单、更个性化的 macOS 播放器",

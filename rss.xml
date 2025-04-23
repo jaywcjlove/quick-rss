@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 21 Apr 2025 06:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Apr 2025 10:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,37 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iconize Folder v1.8.0 发布，单色图标可以设置颜色了。轻松设置文件夹颜色和小图标]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/119.html</link>
+            <guid>119</guid>
+            <pubDate>Wed, 23 Apr 2025 10:32:40 GMT</pubDate>
+            <description><![CDATA[使用这个工具，你可以轻松地设置文件夹颜色并添加小图标，提升文件管理的视觉效果，帮助你更高效地管理文件。 从超过 5000 种符号图标中选择独特的图标，或自定义你的色彩方案。你还可以选择十多种预设的鲜艳颜色，或在文件夹图标上添加图片图标，满足个人偏好，赋予文件夹个性化标识，让文件管理更加生动、富有层次感。 📥 下载：https://apps.apple.com/app/id6478772538 �]]></description>
+            <content:encoded><![CDATA[<p>使用这个工具，你可以轻松地设置文件夹颜色并添加小图标，提升文件管理的视觉效果，帮助你更高效地管理文件。</p>
+<p><img src="https://github.com/user-attachments/assets/e761bb87-b1a0-49ee-b989-231d0a5c7ab6" alt="Image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/587a6258-db76-4edb-a534-4bfd1dd3b7ec?title=IconizeFolder&#x26;rehype=video"></video>
+<p><img src="https://github.com/user-attachments/assets/7474a15c-aecd-4638-918e-80f2d64869b4" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/43e4aa97-76bb-4e22-a2b0-85ce8bc5ac49" alt="Image"></p>
+<p>从超过 5000 种符号图标中选择独特的图标，或自定义你的色彩方案。你还可以选择十多种预设的鲜艳颜色，或在文件夹图标上添加图片图标，满足个人偏好，赋予文件夹个性化标识，让文件管理更加生动、富有层次感。</p>
+<p>📥 下载：<a href="https://apps.apple.com/app/id6478772538">https://apps.apple.com/app/id6478772538</a><br>
+💬 反馈：<a href="https://github.com/jaywcjlove/IconizeFolder">https://github.com/jaywcjlove/IconizeFolder</a></p>
+<h3>功能特点</h3>
+<ul>
+<li>提供超过 5000 种多样的符号图标</li>
+<li>支持调整符号图标的透明度与大小</li>
+<li>支持设置文件夹图标颜色</li>
+<li>支持为文件夹图标添加图片图标</li>
+<li>支持快速导入文件夹路径到 Dock</li>
+<li>支持将文件夹图标导出为 .icns 格式</li>
+</ul>
+<p>新增的功能包括符号图标的透明度与大小调整、丰富的文件夹颜色选择、以及快速导入文件夹路径到 Dock。你还可以将自定义的文件夹图标导出为 .icns 格式，方便在其他地方使用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/119" target="_blank">#119</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/e761bb87-b1a0-49ee-b989-231d0a5c7ab6" length="0" type="image//user-attachments/assets/e761bb87-b1a0-49ee-b989-231d0a5c7ab6"/>
+        </item>
         <item>
             <title><![CDATA[PaletteGenius v1.8 发布！颜色管理和屏幕颜色选择器工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/118.html</link>

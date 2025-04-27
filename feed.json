@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "122",
+            "content_html": "<p>想让你的动画更具动感和表现力吗？Couverture，一款专为动画设计师和开发者打造的 缓动与弹簧曲线编辑器，帮助你轻松管理、编辑和预览动画曲线，创造出更加生动、真实的动画效果。</p>\n<p><img src=\"https://github.com/user-attachments/assets/3b8e4d0e-09d3-4dd1-afc4-68bf4a58bbc8\" alt=\"Couverture\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/df500c8b-b89b-4920-9a1a-055d978f0de7?title=IconizeFolder&#x26;rehype=video\"></video>\n<h3>为何选择 Couverture？</h3>\n<ol>\n<li>实时预览，精准调控</li>\n</ol>\n<p>在设计动画时，Couverture 提供了直观的实时预览，让你可以随时查看修改效果，快速调整曲线参数，确保动画效果完美呈现。</p>\n<ol start=\"2\">\n<li>轻松导出，广泛兼容</li>\n</ol>\n<p>无论你是为移动应用、网站还是原型设计动画，Couverture 支持将曲线导出为常见的格式，轻松与团队协作或导入其他平台使用。</p>\n<ol start=\"3\">\n<li>超越传统的动画曲线</li>\n</ol>\n<ul>\n<li>缓动曲线：通过调整动画的速度变化，缓动曲线可以精确控制动画的节奏感和流畅度，使你的动画既自然又富有节奏感。</li>\n<li>弹簧曲线：模拟真实的物理运动效果，让动画具有弹性和动感，常用于模拟弹跳、超调效果，带来更加生动的动画体验。</li>\n</ul>\n<h3>让每一帧都充满惊艳的细节</h3>\n<p>Couverture 不仅是一个工具，它是你动画创作的最佳伙伴。无论你是从事应用开发，网站设计，还是制作原型，Couverture 都能帮助你提升动画的质量，让用户在每个细节中感受到动感和美感。</p>\n<p>立即体验，提升你的动画创作技能！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/122\" target=\"_blank\">#122</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/122.html",
+            "title": "Couverture：动画曲线的终极编辑与管理工具",
+            "summary": "想让你的动画更具动感和表现力吗？Couverture，一款专为动画设计师和开发者打造的 缓动与弹簧曲线编辑器，帮助你轻松管理、编辑和预览动画曲线，创造出更加生动、真实的动画效果。 为何选择 Couverture？ 实时预览，精准调控 在设计动画时，Couverture 提供了直观的实时预览，让你可以随时查看修改效果，快速调整曲线参数，确保动画效果完美呈现。 轻松导出，广泛兼容 无论你是为移动应用、",
+            "image": "https://github.com/user-attachments/assets/3b8e4d0e-09d3-4dd1-afc4-68bf4a58bbc8",
+            "date_modified": "2025-04-27T05:05:56.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "121",
             "content_html": "<p>LX Music 是一款完全免费且开源的音乐查找工具，致力于为用户提供便捷、纯净的音乐体验。无广告、无烦恼，LX Music 将成为你探索和欣赏音乐的理想伙伴。</p>\n<p><img src=\"https://github.com/user-attachments/assets/829311e7-4473-4c42-8494-d8a002c16401\" alt=\"Image\"></p>\n<h3>纯净体验，完全免费</h3>\n<p>LX Music 的开发初衷是为了学习和研究新技术，因此软件始终保持清爽无广告的界面，不受任何商业化干扰。无论你是想聆听喜爱的歌曲，还是搜索新的音乐作品，LX Music 都能为你提供一个纯粹的环境。</p>\n<h3>多平台支持，随时随地</h3>\n<p>LX Music 支持在 Linux、macOS、Windows 和 Android 等多个平台上运行，让你可以在任何设备上畅享音乐。目前，虽然尚未支持 iOS 和 HarmonyOS NEXT，但团队仍致力于在未来扩展更多平台，满足更多用户的需求。</p>\n<h3>开源共享，技术学习与交流</h3>\n<p>LX Music 在 GitHub 上开源发布，面向全球开发者和技术爱好者开放。无论你是想贡献代码、学习技术，还是探索更多开发细节，LX Music 都是一个理想的开源项目平台，支持全球开发者进行技术交流与合作。</p>\n<p>总结：LX Music 让你免费、方便地查找和享受音乐，同时提供一个干净、开源的环境，让你随时随地都能感受到音乐的魅力。赶快下载并体验，加入我们共同成长的开源社区！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/121\" target=\"_blank\">#121</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/121.html",

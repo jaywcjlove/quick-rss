@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Couverture：动画曲线的终极编辑与管理工具](https://wangchujiang.com/quick-rss/issue/122.html) 
+
+![](https://github.com/user-attachments/assets/3b8e4d0e-09d3-4dd1-afc4-68bf4a58bbc8)
+
+想让你的动画更具动感和表现力吗？Couverture，一款专为动画设计师和开发者打造的 缓动与弹簧曲线编辑器，帮助你轻松管理、编辑和预览动画曲线，创造出更加生动、真实的动画效果。 为何选择 Couverture？ 实时预览，精准调控 在设计动画时，Couverture 提供了直观的实时预览，让你可以随时查看修改效果，快速调整曲线参数，确保动画效果完美呈现。 轻松导出，广泛兼容 无论你是为移动应用、 ([#122](https://github.com/jaywcjlove/quick-rss/issues/122) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [LX Music: 免费且开源的音乐查找工具](https://wangchujiang.com/quick-rss/issue/121.html) 
 
 ![](https://github.com/user-attachments/assets/829311e7-4473-4c42-8494-d8a002c16401)

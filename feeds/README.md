@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Audioer 发布：超过 20 种音频文件相互批量转换](https://wangchujiang.com/quick-rss/issue/123.html) 
+
+![](https://github.com/user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317)
+
+一键将所有音频文件转换为 MP3 格式！支持多种音频格式之间的相互转换，操作简单，转换便捷。只需将文件拖入应用窗口，调整设置后点击按钮，即可轻松完成转换！ 支持转换的音频格式包括：.aac、.ac3、.aifc、.aiff、.aif、.amr、.au、.caf、.dts、.eac3、.flac、.m4a、.mp2、.mp3、.mp4、.mka、.mov、.ogg、.opus、.ra、.rm、.sp ([#123](https://github.com/jaywcjlove/quick-rss/issues/123) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Couverture：动画曲线的终极编辑与管理工具](https://wangchujiang.com/quick-rss/issue/122.html) 
 
 ![](https://github.com/user-attachments/assets/3b8e4d0e-09d3-4dd1-afc4-68bf4a58bbc8)

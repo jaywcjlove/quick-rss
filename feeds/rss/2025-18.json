@@ -1,5 +1,19 @@
 [
   {
+    "id": "123",
+    "url": "https://wangchujiang.com/quick-rss/issue/123.html",
+    "title": "Audioer 发布：超过 20 种音频文件相互批量转换",
+    "content_html": "<p>一键将所有音频文件转换为 MP3 格式！支持多种音频格式之间的相互转换，操作简单，转换便捷。只需将文件拖入应用窗口，调整设置后点击按钮，即可轻松完成转换！</p>\n<p><img src=\"https://github.com/user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317\" alt=\"Audioer\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/40a526ce-3a0f-46b2-8ecd-2b9a0b25a98e\" alt=\"Audioer\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/fc60b346-1210-42dc-811d-613c8dbf71ad\" alt=\"Audioer\"></p>\n<p>支持转换的音频格式包括：.aac、.ac3、.aifc、.aiff、.aif、.amr、.au、.caf、.dts、.eac3、.flac、.m4a、.mp2、.mp3、.mp4、.mka、.mov、.ogg、.opus、.ra、.rm、.spx、.tta、.voc、.vob、.wav、.webm、.wma</p>\n<p>📥 下载：<a href=\"https://apps.apple.com/app/Audioer/6743841447\">https://apps.apple.com/app/Audioer/6743841447</a><br>\n💬 反馈：<a href=\"https://github.com/jaywcjlove/audioer\">https://github.com/jaywcjlove/audioer</a></p>\n<h3>主要功能</h3>\n<p>■ 音频比特率调整：支持自定义比特率，确保音质符合需求。<br>\n■ 采样率检测：自动检测并适配音频采样率。<br>\n■ 音频通道设置：轻松调整音频的声道数。<br>\n■ 音频元信息修改：支持编辑音频文件的 元数据，如歌手、专辑等信息，方便整理和管理你的音频文件。<br>\n■ 简便操作：只需2步点击，快速完成格式转换。</p>\n<p>我们的应用程序支持几乎所有设备常见的音频格式，转换音乐与编辑元信息从未如此简单！</p>",
+    "summary": "一键将所有音频文件转换为 MP3 格式！支持多种音频格式之间的相互转换，操作简单，转换便捷。只需将文件拖入应用窗口，调整设置后点击按钮，即可轻松完成转换！ 支持转换的音频格式包括：.aac、.ac3、.aifc、.aiff、.aif、.amr、.au、.caf、.dts、.eac3、.flac、.m4a、.mp2、.mp3、.mp4、.mka、.mov、.ogg、.opus、.ra、.rm、.sp",
+    "banner_image": "https://github.com/user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317",
+    "date_published": "2025-04-28T12:23:12Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一键将所有音频文件转换为 MP3 格式！支持多种音频格式之间的相互转换，操作简单，转换便捷。只需将文件拖入应用窗口，调整设置后点击按钮，即可轻松完成转换！\n\n![Audioer](https://github.com/user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317)\n\n![Audioer](https://github.com/user-attachments/assets/40a526ce-3a0f-46b2-8ecd-2b9a0b25a98e)\n\n![Audioer](https://github.com/user-attachments/assets/fc60b346-1210-42dc-811d-613c8dbf71ad)\n\n支持转换的音频格式包括：.aac、.ac3、.aifc、.aiff、.aif、.amr、.au、.caf、.dts、.eac3、.flac、.m4a、.mp2、.mp3、.mp4、.mka、.mov、.ogg、.opus、.ra、.rm、.spx、.tta、.voc、.vob、.wav、.webm、.wma\n\n📥 下载：https://apps.apple.com/app/Audioer/6743841447  \n💬 反馈：https://github.com/jaywcjlove/audioer  \n\n### 主要功能\n\n■ 音频比特率调整：支持自定义比特率，确保音质符合需求。  \n■ 采样率检测：自动检测并适配音频采样率。  \n■ 音频通道设置：轻松调整音频的声道数。  \n■ 音频元信息修改：支持编辑音频文件的 元数据，如歌手、专辑等信息，方便整理和管理你的音频文件。  \n■ 简便操作：只需2步点击，快速完成格式转换。  \n\n我们的应用程序支持几乎所有设备常见的音频格式，转换音乐与编辑元信息从未如此简单！"
+  },
+  {
     "id": "122",
     "url": "https://wangchujiang.com/quick-rss/issue/122.html",
     "title": "Couverture：动画曲线的终极编辑与管理工具",

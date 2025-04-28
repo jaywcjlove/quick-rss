@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 27 Apr 2025 05:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 12:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,33 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Audioer 发布：超过 20 种音频文件相互批量转换]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/123.html</link>
+            <guid>123</guid>
+            <pubDate>Mon, 28 Apr 2025 12:23:12 GMT</pubDate>
+            <description><![CDATA[一键将所有音频文件转换为 MP3 格式！支持多种音频格式之间的相互转换，操作简单，转换便捷。只需将文件拖入应用窗口，调整设置后点击按钮，即可轻松完成转换！ 支持转换的音频格式包括：.aac、.ac3、.aifc、.aiff、.aif、.amr、.au、.caf、.dts、.eac3、.flac、.m4a、.mp2、.mp3、.mp4、.mka、.mov、.ogg、.opus、.ra、.rm、.sp]]></description>
+            <content:encoded><![CDATA[<p>一键将所有音频文件转换为 MP3 格式！支持多种音频格式之间的相互转换，操作简单，转换便捷。只需将文件拖入应用窗口，调整设置后点击按钮，即可轻松完成转换！</p>
+<p><img src="https://github.com/user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317" alt="Audioer"></p>
+<p><img src="https://github.com/user-attachments/assets/40a526ce-3a0f-46b2-8ecd-2b9a0b25a98e" alt="Audioer"></p>
+<p><img src="https://github.com/user-attachments/assets/fc60b346-1210-42dc-811d-613c8dbf71ad" alt="Audioer"></p>
+<p>支持转换的音频格式包括：.aac、.ac3、.aifc、.aiff、.aif、.amr、.au、.caf、.dts、.eac3、.flac、.m4a、.mp2、.mp3、.mp4、.mka、.mov、.ogg、.opus、.ra、.rm、.spx、.tta、.voc、.vob、.wav、.webm、.wma</p>
+<p>📥 下载：<a href="https://apps.apple.com/app/Audioer/6743841447">https://apps.apple.com/app/Audioer/6743841447</a><br>
+💬 反馈：<a href="https://github.com/jaywcjlove/audioer">https://github.com/jaywcjlove/audioer</a></p>
+<h3>主要功能</h3>
+<p>■ 音频比特率调整：支持自定义比特率，确保音质符合需求。<br>
+■ 采样率检测：自动检测并适配音频采样率。<br>
+■ 音频通道设置：轻松调整音频的声道数。<br>
+■ 音频元信息修改：支持编辑音频文件的 元数据，如歌手、专辑等信息，方便整理和管理你的音频文件。<br>
+■ 简便操作：只需2步点击，快速完成格式转换。</p>
+<p>我们的应用程序支持几乎所有设备常见的音频格式，转换音乐与编辑元信息从未如此简单！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/123" target="_blank">#123</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317" length="0" type="image//user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317"/>
+        </item>
         <item>
             <title><![CDATA[Couverture：动画曲线的终极编辑与管理工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/122.html</link>

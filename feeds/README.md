@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [🎧 AlgerMusicPlayer：你的全能网易云第三方音乐播放器，支持 web/macos/windows！](https://wangchujiang.com/quick-rss/issue/124.html) 
+
+![](https://github.com/user-attachments/assets/129ea78c-03ea-427b-ae42-c28079f1bb02)
+
+支持全平台，界面美观，功能强大，让你畅享高品质音乐体验： 🎵 个性音乐推荐，贴近你的喜好 🔐 支持网易云账号登录，播放记录与收藏无缝同步 🎨 沉浸式歌词与桌面歌词窗口，视觉与听觉双重享受 🧩 高度可定制：快捷键、主题、播放行为由你掌控 🎼 歌单、MV、专辑全支持，灰色音乐也能解析播放 💾 支持批量下载，附带歌词与封面信息 🚀 本地服务架构，无需依赖官方 API，安全高效 🛠 自动更 ([#124](https://github.com/jaywcjlove/quick-rss/issues/124) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Audioer 发布：超过 20 种音频文件相互批量转换](https://wangchujiang.com/quick-rss/issue/123.html) 
 
 ![](https://github.com/user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317)

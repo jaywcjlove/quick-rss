@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-04-28T12:23:44.883Z</updated>
+    <updated>2025-04-29T12:36:59.873Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,41 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[🎧 AlgerMusicPlayer：你的全能网易云第三方音乐播放器，支持 web/macos/windows！]]></title>
+        <id>124</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/124.html"/>
+        <updated>2025-04-29T12:36:29.000Z</updated>
+        <summary type="html"><![CDATA[支持全平台，界面美观，功能强大，让你畅享高品质音乐体验： 🎵 个性音乐推荐，贴近你的喜好 🔐 支持网易云账号登录，播放记录与收藏无缝同步 🎨 沉浸式歌词与桌面歌词窗口，视觉与听觉双重享受 🧩 高度可定制：快捷键、主题、播放行为由你掌控 🎼 歌单、MV、专辑全支持，灰色音乐也能解析播放 💾 支持批量下载，附带歌词与封面信息 🚀 本地服务架构，无需依赖官方 API，安全高效 🛠 自动更]]></summary>
+        <content type="html"><![CDATA[<p>支持全平台，界面美观，功能强大，让你畅享高品质音乐体验：</p>
+<p><img src="https://github.com/user-attachments/assets/129ea78c-03ea-427b-ae42-c28079f1bb02" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/9b51de9f-02b2-4efd-bde8-f54715c1824f" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/ea94512c-47dc-45f6-9fb5-2988c6de51ea" alt="Image"></p>
+<ul>
+<li>🎵 个性音乐推荐，贴近你的喜好</li>
+<li>🔐 支持网易云账号登录，播放记录与收藏无缝同步</li>
+<li>🎨 沉浸式歌词与桌面歌词窗口，视觉与听觉双重享受</li>
+<li>🧩 高度可定制：快捷键、主题、播放行为由你掌控</li>
+<li>🎼 歌单、MV、专辑全支持，灰色音乐也能解析播放</li>
+<li>💾 支持批量下载，附带歌词与封面信息</li>
+<li>🚀 本地服务架构，无需依赖官方 API，安全高效</li>
+<li>🛠 自动更新，全平台适配（桌面/Web/Mobile，移动端即将推出）</li>
+</ul>
+<p>AlgerMusicPlayer，不只是播放器，更是你专属的音乐空间。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/124" target="_blank">#124</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Audioer 发布：超过 20 种音频文件相互批量转换]]></title>
         <id>123</id>

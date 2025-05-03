@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-04-29T12:36:59.873Z</updated>
+    <updated>2025-05-03T09:01:53.127Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,40 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Dockit: macOS窗口管理工具，专注于将窗口快速停靠在屏幕边缘并快速预览窗口。]]></title>
+        <id>125</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/125.html"/>
+        <updated>2025-05-03T09:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Dockit 是一款专为 macOS 用户设计的窗口管理工具，旨在提升工作效率并优化桌面体验。它专注于帮助用户快速将窗口停靠在屏幕边缘，并提供直观的窗口预览功能，让多任务处理变得更加简便流畅。 https://github.com/user-attachments/assets/fba3007e-c22a-4d40-81a5-792cff3f17c8 核心功能： 🎯 快速停靠：通过简单的点击，轻]]></summary>
+        <content type="html"><![CDATA[<p>Dockit 是一款专为 macOS 用户设计的窗口管理工具，旨在提升工作效率并优化桌面体验。它专注于帮助用户快速将窗口停靠在屏幕边缘，并提供直观的窗口预览功能，让多任务处理变得更加简便流畅。</p>
+<p><img src="https://github.com/user-attachments/assets/b287b48a-6134-4895-9230-3121c29b8d08" alt="Dockit"></p>
+<p><a href="https://github.com/user-attachments/assets/fba3007e-c22a-4d40-81a5-792cff3f17c8">https://github.com/user-attachments/assets/fba3007e-c22a-4d40-81a5-792cff3f17c8</a></p>
+<h3>核心功能：</h3>
+<ul>
+<li>🎯 快速停靠：通过简单的点击，轻松将窗口停靠到屏幕的左侧或右侧，迅速整理桌面，告别混乱。</li>
+<li>🔄 智能显示：当鼠标悬停在停靠位置时，窗口自动展开；离开时，窗口自动收起，确保桌面整洁。</li>
+<li>⌨️ 快捷键支持：提供强大的快捷键自定义功能，让你可以通过快捷操作轻松完成窗口管理。</li>
+<li>🎛️ 灵活配置：可以自由调整窗口暴露宽度、触发区域等设置，完全根据个人习惯进行定制。</li>
+<li>🔌 自动启动：支持开机自启动，让每次启动 macOS 时，Dockit 都会随时为你准备好。</li>
+<li>🔔 精美通知：提供简洁而富有美感的通知，确保你不会错过任何重要信息。</li>
+</ul>
+<p>无论是处理多个应用程序、保持桌面整洁，还是提高多任务处理的效率，Dockit 都能为你提供无缝的窗口管理体验，助力你更加专注、高效地工作。</p>
+<p>立即下载 Dockit，让你的 macOS 更加智能，工作更轻松！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/125" target="_blank">#125</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎧 AlgerMusicPlayer：你的全能网易云第三方音乐播放器，支持 web/macos/windows！]]></title>
         <id>124</id>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Dockit: macOS窗口管理工具，专注于将窗口快速停靠在屏幕边缘并快速预览窗口。](https://wangchujiang.com/quick-rss/issue/125.html) 
+
+![](https://github.com/user-attachments/assets/b287b48a-6134-4895-9230-3121c29b8d08)
+
+Dockit 是一款专为 macOS 用户设计的窗口管理工具，旨在提升工作效率并优化桌面体验。它专注于帮助用户快速将窗口停靠在屏幕边缘，并提供直观的窗口预览功能，让多任务处理变得更加简便流畅。 https://github.com/user-attachments/assets/fba3007e-c22a-4d40-81a5-792cff3f17c8 核心功能： 🎯 快速停靠：通过简单的点击，轻 ([#125](https://github.com/jaywcjlove/quick-rss/issues/125) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [🎧 AlgerMusicPlayer：你的全能网易云第三方音乐播放器，支持 web/macos/windows！](https://wangchujiang.com/quick-rss/issue/124.html) 
 
 ![](https://github.com/user-attachments/assets/129ea78c-03ea-427b-ae42-c28079f1bb02)

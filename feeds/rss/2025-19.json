@@ -1,5 +1,19 @@
 [
   {
+    "id": "126",
+    "url": "https://wangchujiang.com/quick-rss/issue/126.html",
+    "title": "Museeks: 一款简单、干净、跨平台的音乐播放器",
+    "content_html": "<p>Museeks 旨在提供一个简单易用、界面清爽的音乐播放器。与那些功能繁多的大型音乐播放器不同，它的目标并不是和它们竞争，而是让用户享受轻便的使用体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/386038bc-0648-47c6-9678-2acf5b5cb069\" alt=\"Museeks\"></p>\n<h3>主要功能：</h3>\n<ul>\n<li>💻 跨平台支持（Linux、macOS 和 Windows）</li>\n<li>🎧 支持的格式：mp3、mp4、m4a/aac、flac、wav、ogg、3gpp</li>\n<li>🔄 库自动刷新</li>\n<li>🌟 播放列表功能</li>\n<li>🎼 队列管理</li>\n<li>➰ 随机播放、循环播放</li>\n<li>🌄 支持封面显示</li>\n<li>🤓 暗黑主题</li>\n<li>🚤 播放速度控制</li>\n<li>😴 睡眠模式拦截</li>\n<li>📥 支持 .m3u 导入/导出</li>\n</ul>",
+    "summary": "Museeks 旨在提供一个简单易用、界面清爽的音乐播放器。与那些功能繁多的大型音乐播放器不同，它的目标并不是和它们竞争，而是让用户享受轻便的使用体验。 ### 主要功能： - 💻 跨平台支持（Linux、macOS 和 Windows） - 🎧 支持的格式：mp3、mp4、m4a/aac、flac、wav、ogg、3gpp - 🔄 库自动刷新 - 🌟 播放列表功能 - 🎼 队列管理 -",
+    "banner_image": "https://github.com/user-attachments/assets/386038bc-0648-47c6-9678-2acf5b5cb069",
+    "date_published": "2025-05-04T13:45:06Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Museeks 旨在提供一个简单易用、界面清爽的音乐播放器。与那些功能繁多的大型音乐播放器不同，它的目标并不是和它们竞争，而是让用户享受轻便的使用体验。\n\n![Museeks](https://github.com/user-attachments/assets/386038bc-0648-47c6-9678-2acf5b5cb069)\n\n### 主要功能：\n\n- 💻 跨平台支持（Linux、macOS 和 Windows）\n- 🎧 支持的格式：mp3、mp4、m4a/aac、flac、wav、ogg、3gpp\n- 🔄 库自动刷新\n- 🌟 播放列表功能\n- 🎼 队列管理\n- ➰ 随机播放、循环播放\n- 🌄 支持封面显示\n- 🤓 暗黑主题\n- 🚤 播放速度控制\n- 😴 睡眠模式拦截\n- 📥 支持 .m3u 导入/导出"
+  },
+  {
     "id": "125",
     "url": "https://wangchujiang.com/quick-rss/issue/125.html",
     "title": "Dockit: macOS窗口管理工具，专注于将窗口快速停靠在屏幕边缘并快速预览窗口。",

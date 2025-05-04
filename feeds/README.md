@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Museeks: 一款简单、干净、跨平台的音乐播放器](https://wangchujiang.com/quick-rss/issue/126.html) 
+
+![](https://github.com/user-attachments/assets/386038bc-0648-47c6-9678-2acf5b5cb069)
+
+Museeks 旨在提供一个简单易用、界面清爽的音乐播放器。与那些功能繁多的大型音乐播放器不同，它的目标并不是和它们竞争，而是让用户享受轻便的使用体验。 主要功能： 💻 跨平台支持（Linux、macOS 和 Windows） 🎧 支持的格式：mp3、mp4、m4a/aac、flac、wav、ogg、3gpp 🔄 库自动刷新 🌟 播放列表功能 🎼 队列管理 ➰ 随机播放、循环播放 🌄  ([#126](https://github.com/jaywcjlove/quick-rss/issues/126) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Dockit: macOS窗口管理工具，专注于将窗口快速停靠在屏幕边缘并快速预览窗口。](https://wangchujiang.com/quick-rss/issue/125.html) 
 
 ![](https://github.com/user-attachments/assets/b287b48a-6134-4895-9230-3121c29b8d08)

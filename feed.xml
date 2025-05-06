@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-05-04T13:45:37.902Z</updated>
+    <updated>2025-05-06T04:32:22.193Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,44 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Chord Provider： 为 macOS 原生打造的 ChordPro 查看、编辑和 PDF 导出工具，专为热爱音乐的 Mac 用户设计 🎸]]></title>
+        <id>127</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/127.html"/>
+        <updated>2025-05-06T04:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Chord Provider 是一款为 macOS 原生打造的 ChordPro 文件查看、编辑与导出工具。 它支持语法高亮、和弦图展示、MIDI 播放，并可一键导出 PDF 或整个歌单目录，帮助吉他、尤克里里等弹奏者轻松管理和演奏歌曲。 无论你是编曲创作、排练表演，还是单纯记录灵感，Chord Provider 都提供了顺手的工具和原生体验。支持变调、左手和弦显示、QuickLook 预览，甚至]]></summary>
+        <content type="html"><![CDATA[<p>Chord Provider 是一款为 macOS 原生打造的  <a href="https://www.chordpro.org/">ChordPro</a> 文件查看、编辑与导出工具。
+它支持语法高亮、和弦图展示、MIDI 播放，并可一键导出 PDF 或整个歌单目录，帮助吉他、尤克里里等弹奏者轻松管理和演奏歌曲。</p>
+<p>无论你是编曲创作、排练表演，还是单纯记录灵感，Chord Provider 都提供了顺手的工具和原生体验。支持变调、左手和弦显示、QuickLook 预览，甚至还能播放伴随的音频/视频文件，是一款专为 macOS 用户精心打造的实用型音乐助手。</p>
+<p><img src="https://github.com/user-attachments/assets/ad0673b1-b7d1-4882-a32d-0ff50eb847c9" alt="Chord Provider"></p>
+<h3>特色亮点：</h3>
+<ol>
+<li>支持查看与编辑 ChordPro 文件</li>
+<li>一键导出 PDF，甚至可批量导出文件夹并生成目录</li>
+<li>实时高亮和弦与指令，可自定义配色</li>
+<li>原生支持吉他、guitalele、尤克里里和弦图，并可点击查看所有变调版本</li>
+<li>支持视图中的和弦移调与 Capo 设置（不会修改原文件）</li>
+<li>内建 MIDI 播放功能，支持选定吉他音色</li>
+<li>可播放与 ChordPro 同目录下的音频或视频文件</li>
+<li>全面支持左手和弦模式</li>
+<li>提供 QuickLook 插件和文件缩略图，让 Finder 中也能快速预览</li>
+</ol>
+<p>图标是一把 Olympic White Telecaster，因为开发者对它“一见钟情”。这不是一款商业产品，而是一位 Mac 用户的真诚作品。</p>
+<p>如果你是吉他手，也是 macOS 用户，Chord Provider 值得一试。 🎶</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/127" target="_blank">#127</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Museeks: 一款简单、干净、跨平台的音乐播放器]]></title>
         <id>126</id>

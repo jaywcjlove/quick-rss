@@ -1,5 +1,19 @@
 [
   {
+    "id": "129",
+    "url": "https://wangchujiang.com/quick-rss/issue/129.html",
+    "title": "Hoppscotch: 轻量开源的全能 API 调试工具",
+    "content_html": "<p>如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postman、Insomnia 等工具的强力替代方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42\" alt=\"Hoppscotch\"></p>",
+    "summary": "如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postma",
+    "banner_image": "https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42",
+    "date_published": "2025-05-06T18:24:53Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postman、Insomnia 等工具的强力替代方案。\n\n![Hoppscotch](https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42)"
+  },
+  {
     "id": "128",
     "url": "https://wangchujiang.com/quick-rss/issue/128.html",
     "title": "Hello HTTP: 全能型跨平台接口调试工具，Postman 的高效替代方案",

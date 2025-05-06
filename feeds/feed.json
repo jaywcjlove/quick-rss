@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "130",
+            "content_html": "<p>如果你是 macOS 用户，同时又想优雅地管理 Android 设备，那么 Debloatfy 是你的理想工具。</p>\n<p><img src=\"https://github.com/user-attachments/assets/2a3d17b9-de1e-4b0e-b7f5-711a4afb8455\" alt=\"Debloatfy\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/f09164fb-c27c-4ce2-a3a9-cedf49cea3cf\" alt=\"Debloatfy\"></p>\n<p>这款由 SwiftUI 打造的 macOS 原生应用，让你无需接触终端命令，即可通过 ADB 管理 Android 设备。你可以一键卸载烦人的预装软件、备份和还原重要应用、进行高速文件传输，还能实时查看详细设备信息和操作日志。</p>\n<h3>为什么选择 Debloatfy？</h3>\n<ul>\n<li>🚫 移除预装应用：选中即可批量卸载，让设备清爽如新</li>\n<li>🗂 备份与恢复：重置设备前轻松备份重要应用，之后一键还原</li>\n<li>⚡️ 高速文件传输：在 macOS 与 Android 间高效传输大型文件</li>\n<li>🌙 深色/浅色模式：支持 macOS 深浅主题自动适配</li>\n<li>🔒 完全离线：无需联网，确保隐私安全</li>\n<li>📋 实时日志：每一步操作都有记录，清晰明了</li>\n<li>🍎 原生体验：无需命令行，简洁易用，专为 macOS 用户设计</li>\n</ul>\n<p>Debloatfy 的诞生源于一个开发者对 Android 系统自由性的热爱，也源于对命令行操作的厌倦。现在，它让普通用户也能掌控 Android 设备的一切。</p>\n<p>简洁、强大、专为你而来——Debloatfy，让 Android 管理变得轻松自在。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/130\" target=\"_blank\">#130</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/130.html",
+            "title": "Debloatfy：一款 macOS 应用，可以在不使用终端的情况下管理 Android 设备",
+            "summary": "如果你是 macOS 用户，同时又想优雅地管理 Android 设备，那么 Debloatfy 是你的理想工具。 这款由 SwiftUI 打造的 macOS 原生应用，让你无需接触终端命令，即可通过 ADB 管理 Android 设备。你可以一键卸载烦人的预装软件、备份和还原重要应用、进行高速文件传输，还能实时查看详细设备信息和操作日志。 为什么选择 Debloatfy？ 🚫 移除预装应用：选中",
+            "image": "https://github.com/user-attachments/assets/2a3d17b9-de1e-4b0e-b7f5-711a4afb8455",
+            "date_modified": "2025-05-06T18:51:05.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "129",
             "content_html": "<p>如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postman、Insomnia 等工具的强力替代方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42\" alt=\"Hoppscotch\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/129\" target=\"_blank\">#129</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/129.html",

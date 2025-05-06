@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Debloatfy：一款 macOS 应用，可以在不使用终端的情况下管理 Android 设备](https://wangchujiang.com/quick-rss/issue/130.html) 
+
+![](https://github.com/user-attachments/assets/2a3d17b9-de1e-4b0e-b7f5-711a4afb8455)
+
+如果你是 macOS 用户，同时又想优雅地管理 Android 设备，那么 Debloatfy 是你的理想工具。 这款由 SwiftUI 打造的 macOS 原生应用，让你无需接触终端命令，即可通过 ADB 管理 Android 设备。你可以一键卸载烦人的预装软件、备份和还原重要应用、进行高速文件传输，还能实时查看详细设备信息和操作日志。 为什么选择 Debloatfy？ 🚫 移除预装应用：选中 ([#130](https://github.com/jaywcjlove/quick-rss/issues/130) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Hoppscotch: 轻量开源的全能 API 调试工具](https://wangchujiang.com/quick-rss/issue/129.html) 
 
 ![](https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42)

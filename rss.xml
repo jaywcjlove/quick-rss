@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 06 May 2025 04:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 18:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello HTTP: 全能型跨平台接口调试工具，Postman 的高效替代方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/128.html</link>
+            <guid>128</guid>
+            <pubDate>Tue, 06 May 2025 18:21:19 GMT</pubDate>
+            <description><![CDATA[一款跨平台、可携带的桌面级 HTTP 客户端应用，支持测试 HTTP 和 REST API、WebSocket、GraphQL（含订阅）以及 gRPC 接口。它是 Postman、Insomnia 等工具的高效替代方案，适合开发者调试与接口测试使用。]]></description>
+            <content:encoded><![CDATA[<p>一款跨平台、可携带的桌面级 HTTP 客户端应用，支持测试 HTTP 和 REST API、WebSocket、GraphQL（含订阅）以及 gRPC 接口。它是 Postman、Insomnia 等工具的高效替代方案，适合开发者调试与接口测试使用。</p>
+<p><img src="https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d" alt="Hello HTTP"></p>
+<p><img src="https://github.com/user-attachments/assets/27eef1d4-eabd-4c09-abab-4d2fa540777a" alt="Hello HTTP"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/128" target="_blank">#128</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d" length="0" type="image//user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d"/>
+        </item>
         <item>
             <title><![CDATA[Chord Provider： 为 macOS 原生打造的 ChordPro 查看、编辑和 PDF 导出工具，专为热爱音乐的 Mac 用户设计 🎸]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/127.html</link>

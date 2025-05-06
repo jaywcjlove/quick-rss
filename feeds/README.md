@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Hello HTTP: 全能型跨平台接口调试工具，Postman 的高效替代方案](https://wangchujiang.com/quick-rss/issue/128.html) 
+
+![](https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d)
+
+一款跨平台、可携带的桌面级 HTTP 客户端应用，支持测试 HTTP 和 REST API、WebSocket、GraphQL（含订阅）以及 gRPC 接口。它是 Postman、Insomnia 等工具的高效替代方案，适合开发者调试与接口测试使用。 ([#128](https://github.com/jaywcjlove/quick-rss/issues/128) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Chord Provider： 为 macOS 原生打造的 ChordPro 查看、编辑和 PDF 导出工具，专为热爱音乐的 Mac 用户设计 🎸](https://wangchujiang.com/quick-rss/issue/127.html) 
 
 ![](https://github.com/user-attachments/assets/ad0673b1-b7d1-4882-a32d-0ff50eb847c9)

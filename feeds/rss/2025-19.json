@@ -1,5 +1,19 @@
 [
   {
+    "id": "128",
+    "url": "https://wangchujiang.com/quick-rss/issue/128.html",
+    "title": "Hello HTTP: 全能型跨平台接口调试工具，Postman 的高效替代方案",
+    "content_html": "<p>一款跨平台、可携带的桌面级 HTTP 客户端应用，支持测试 HTTP 和 REST API、WebSocket、GraphQL（含订阅）以及 gRPC 接口。它是 Postman、Insomnia 等工具的高效替代方案，适合开发者调试与接口测试使用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d\" alt=\"Hello HTTP\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/27eef1d4-eabd-4c09-abab-4d2fa540777a\" alt=\"Hello HTTP\"></p>",
+    "summary": "一款跨平台、可携带的桌面级 HTTP 客户端应用，支持测试 HTTP 和 REST API、WebSocket、GraphQL（含订阅）以及 gRPC 接口。它是 Postman、Insomnia 等工具的高效替代方案，适合开发者调试与接口测试使用。",
+    "banner_image": "https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d",
+    "date_published": "2025-05-06T18:21:19Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款跨平台、可携带的桌面级 HTTP 客户端应用，支持测试 HTTP 和 REST API、WebSocket、GraphQL（含订阅）以及 gRPC 接口。它是 Postman、Insomnia 等工具的高效替代方案，适合开发者调试与接口测试使用。\n\n![Hello HTTP](https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d)\n\n![Hello HTTP](https://github.com/user-attachments/assets/27eef1d4-eabd-4c09-abab-4d2fa540777a)"
+  },
+  {
     "id": "127",
     "url": "https://wangchujiang.com/quick-rss/issue/127.html",
     "title": "Chord Provider： 为 macOS 原生打造的 ChordPro 查看、编辑和 PDF 导出工具，专为热爱音乐的 Mac 用户设计 🎸",

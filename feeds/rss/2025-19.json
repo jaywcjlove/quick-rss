@@ -1,5 +1,19 @@
 [
   {
+    "id": "127",
+    "url": "https://wangchujiang.com/quick-rss/issue/127.html",
+    "title": "Chord Provider： 为 macOS 原生打造的 ChordPro 查看、编辑和 PDF 导出工具，专为热爱音乐的 Mac 用户设计 🎸",
+    "content_html": "<p>Chord Provider 是一款为 macOS 原生打造的  <a href=\"https://www.chordpro.org/\">ChordPro</a> 文件查看、编辑与导出工具。\n它支持语法高亮、和弦图展示、MIDI 播放，并可一键导出 PDF 或整个歌单目录，帮助吉他、尤克里里等弹奏者轻松管理和演奏歌曲。</p>\n<p>无论你是编曲创作、排练表演，还是单纯记录灵感，Chord Provider 都提供了顺手的工具和原生体验。支持变调、左手和弦显示、QuickLook 预览，甚至还能播放伴随的音频/视频文件，是一款专为 macOS 用户精心打造的实用型音乐助手。</p>\n<p><img src=\"https://github.com/user-attachments/assets/ad0673b1-b7d1-4882-a32d-0ff50eb847c9\" alt=\"Chord Provider\"></p>\n<h3>特色亮点：</h3>\n<ol>\n<li>支持查看与编辑 ChordPro 文件</li>\n<li>一键导出 PDF，甚至可批量导出文件夹并生成目录</li>\n<li>实时高亮和弦与指令，可自定义配色</li>\n<li>原生支持吉他、guitalele、尤克里里和弦图，并可点击查看所有变调版本</li>\n<li>支持视图中的和弦移调与 Capo 设置（不会修改原文件）</li>\n<li>内建 MIDI 播放功能，支持选定吉他音色</li>\n<li>可播放与 ChordPro 同目录下的音频或视频文件</li>\n<li>全面支持左手和弦模式</li>\n<li>提供 QuickLook 插件和文件缩略图，让 Finder 中也能快速预览</li>\n</ol>\n<p>图标是一把 Olympic White Telecaster，因为开发者对它“一见钟情”。这不是一款商业产品，而是一位 Mac 用户的真诚作品。</p>\n<p>如果你是吉他手，也是 macOS 用户，Chord Provider 值得一试。 🎶</p>",
+    "summary": "Chord Provider 是一款为 macOS 原生打造的 [ChordPro](https://www.chordpro.org/) 文件查看、编辑与导出工具。 它支持语法高亮、和弦图展示、MIDI 播放，并可一键导出 PDF 或整个歌单目录，帮助吉他、尤克里里等弹奏者轻松管理和演奏歌曲。 无论你是编曲创作、排练表演，还是单纯记录灵感，Chord Provider 都提供了顺手的工具和原生体",
+    "banner_image": "https://github.com/user-attachments/assets/ad0673b1-b7d1-4882-a32d-0ff50eb847c9",
+    "date_published": "2025-05-06T04:31:55Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Chord Provider 是一款为 macOS 原生打造的  [ChordPro](https://www.chordpro.org/) 文件查看、编辑与导出工具。\n它支持语法高亮、和弦图展示、MIDI 播放，并可一键导出 PDF 或整个歌单目录，帮助吉他、尤克里里等弹奏者轻松管理和演奏歌曲。\n\n无论你是编曲创作、排练表演，还是单纯记录灵感，Chord Provider 都提供了顺手的工具和原生体验。支持变调、左手和弦显示、QuickLook 预览，甚至还能播放伴随的音频/视频文件，是一款专为 macOS 用户精心打造的实用型音乐助手。\n\n![Chord Provider](https://github.com/user-attachments/assets/ad0673b1-b7d1-4882-a32d-0ff50eb847c9)\n\n### 特色亮点：\n\n1. 支持查看与编辑 ChordPro 文件\n1. 一键导出 PDF，甚至可批量导出文件夹并生成目录\n1. 实时高亮和弦与指令，可自定义配色\n1. 原生支持吉他、guitalele、尤克里里和弦图，并可点击查看所有变调版本\n1. 支持视图中的和弦移调与 Capo 设置（不会修改原文件）\n1. 内建 MIDI 播放功能，支持选定吉他音色\n1. 可播放与 ChordPro 同目录下的音频或视频文件\n1. 全面支持左手和弦模式\n1. 提供 QuickLook 插件和文件缩略图，让 Finder 中也能快速预览\n\n图标是一把 Olympic White Telecaster，因为开发者对它“一见钟情”。这不是一款商业产品，而是一位 Mac 用户的真诚作品。\n\n如果你是吉他手，也是 macOS 用户，Chord Provider 值得一试。 🎶"
+  },
+  {
     "id": "126",
     "url": "https://wangchujiang.com/quick-rss/issue/126.html",
     "title": "Museeks: 一款简单、干净、跨平台的音乐播放器",

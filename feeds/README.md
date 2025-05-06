@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Chord Provider： 为 macOS 原生打造的 ChordPro 查看、编辑和 PDF 导出工具，专为热爱音乐的 Mac 用户设计 🎸](https://wangchujiang.com/quick-rss/issue/127.html) 
+
+![](https://github.com/user-attachments/assets/ad0673b1-b7d1-4882-a32d-0ff50eb847c9)
+
+Chord Provider 是一款为 macOS 原生打造的 ChordPro 文件查看、编辑与导出工具。 它支持语法高亮、和弦图展示、MIDI 播放，并可一键导出 PDF 或整个歌单目录，帮助吉他、尤克里里等弹奏者轻松管理和演奏歌曲。 无论你是编曲创作、排练表演，还是单纯记录灵感，Chord Provider 都提供了顺手的工具和原生体验。支持变调、左手和弦显示、QuickLook 预览，甚至 ([#127](https://github.com/jaywcjlove/quick-rss/issues/127) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Museeks: 一款简单、干净、跨平台的音乐播放器](https://wangchujiang.com/quick-rss/issue/126.html) 
 
 ![](https://github.com/user-attachments/assets/386038bc-0648-47c6-9678-2acf5b5cb069)

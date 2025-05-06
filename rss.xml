@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 06 May 2025 18:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 18:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hoppscotch: 轻量开源的全能 API 调试工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/129.html</link>
+            <guid>129</guid>
+            <pubDate>Tue, 06 May 2025 18:24:53 GMT</pubDate>
+            <description><![CDATA[如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postma]]></description>
+            <content:encoded><![CDATA[<p>如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postman、Insomnia 等工具的强力替代方案。</p>
+<p><img src="https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42" alt="Hoppscotch"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/129" target="_blank">#129</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42" length="0" type="image//user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42"/>
+        </item>
         <item>
             <title><![CDATA[Hello HTTP: 全能型跨平台接口调试工具，Postman 的高效替代方案]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/128.html</link>

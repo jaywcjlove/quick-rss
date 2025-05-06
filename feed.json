@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "129",
+            "content_html": "<p>如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postman、Insomnia 等工具的强力替代方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42\" alt=\"Hoppscotch\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/129\" target=\"_blank\">#129</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/129.html",
+            "title": "Hoppscotch: 轻量开源的全能 API 调试工具",
+            "summary": "如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postma",
+            "image": "https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42",
+            "date_modified": "2025-05-06T18:24:53.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "128",
             "content_html": "<p>一款跨平台、可携带的桌面级 HTTP 客户端应用，支持测试 HTTP 和 REST API、WebSocket、GraphQL（含订阅）以及 gRPC 接口。它是 Postman、Insomnia 等工具的高效替代方案，适合开发者调试与接口测试使用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d\" alt=\"Hello HTTP\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/27eef1d4-eabd-4c09-abab-4d2fa540777a\" alt=\"Hello HTTP\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/128\" target=\"_blank\">#128</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/128.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Pulse: 专为 Apple 平台打造的强大网络日志工具，用于网络请求调试](https://wangchujiang.com/quick-rss/issue/131.html) 
+
+![](https://github.com/user-attachments/assets/a924a205-6c05-4f1f-b4c1-5e59ee7f6294)
+
+Pulse Pro 是一款面向开发者的专业网络日志工具，适用于 macOS 与 iOS 平台。通过集成 Pulse SDK，你可以轻松记录 App 中的所有网络请求，并以多种方式查看、分析与共享日志内容。 📡 实时远程日志查看 使用 Pulse Mac App，你可以在大屏幕上实时查看远程设备发送的日志，也可以随时回顾历史记录。iOS 端同样支持完整查看，移动办公无压力。 🔍 强大的深度搜索  ([#131](https://github.com/jaywcjlove/quick-rss/issues/131) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Debloatfy：一款 macOS 应用，可以在不使用终端的情况下管理 Android 设备](https://wangchujiang.com/quick-rss/issue/130.html) 
 
 ![](https://github.com/user-attachments/assets/2a3d17b9-de1e-4b0e-b7f5-711a4afb8455)

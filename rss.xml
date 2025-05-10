@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 10 May 2025 08:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 May 2025 16:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,32 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Musicer：迷你便捷的本地音乐播放器，支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/133.html</link>
+            <guid>133</guid>
+            <pubDate>Sat, 10 May 2025 16:17:04 GMT</pubDate>
+            <description><![CDATA[迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！ 📥 下载：https://apps.apple.com/app/musicer/6745227444 💬 反馈：https://github.com/jaywcjlove/musicer 核心功能 支持本地音频文件播放 波形进度条显示播放进度 自定义播放器主题颜色 一键切换迷你模式 可在状]]></description>
+            <content:encoded><![CDATA[<p>迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！</p>
+<p><img src="https://github.com/user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7" alt="Musicer"></p>
+<p>📥 下载：<a href="https://apps.apple.com/app/musicer/6745227444">https://apps.apple.com/app/musicer/6745227444</a><br>
+💬 反馈：<a href="https://github.com/jaywcjlove/musicer">https://github.com/jaywcjlove/musicer</a></p>
+<h3>核心功能</h3>
+<ul>
+<li>支持本地音频文件播放</li>
+<li>波形进度条显示播放进度</li>
+<li>自定义播放器主题颜色</li>
+<li>一键切换迷你模式</li>
+<li>可在状态栏中显示并控制播放器</li>
+</ul>
+<p>支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/133" target="_blank">#133</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7" length="0" type="image//user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7"/>
+        </item>
         <item>
             <title><![CDATA[Ollamac：一个专为 Ollama 打造的 macOS 原生应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/132.html</link>

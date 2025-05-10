@@ -1,5 +1,19 @@
 [
   {
+    "id": "132",
+    "url": "https://wangchujiang.com/quick-rss/issue/132.html",
+    "title": "Ollamac：一个专为 Ollama 打造的 macOS 原生应用",
+    "content_html": "<p>如果你在 Mac 上使用 Ollama，不妨试试 Ollamac —— 一个专为 Ollama 打造的 macOS 原生应用，支持所有 Ollama 模型，自定义 Host，内置语法高亮，界面简洁易用，完全免费且开源，非常适合开发者和 AI 用户使用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/9a57fc3d-25fd-4a05-b247-dcd0812c5207\" alt=\"Ollamac\"></p>",
+    "summary": "如果你在 Mac 上使用 Ollama，不妨试试 Ollamac —— 一个专为 Ollama 打造的 macOS 原生应用，支持所有 Ollama 模型，自定义 Host，内置语法高亮，界面简洁易用，完全免费且开源，非常适合开发者和 AI 用户使用。",
+    "banner_image": "https://github.com/user-attachments/assets/9a57fc3d-25fd-4a05-b247-dcd0812c5207",
+    "date_published": "2025-05-10T08:54:29Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "如果你在 Mac 上使用 Ollama，不妨试试 Ollamac —— 一个专为 Ollama 打造的 macOS 原生应用，支持所有 Ollama 模型，自定义 Host，内置语法高亮，界面简洁易用，完全免费且开源，非常适合开发者和 AI 用户使用。\n\n![Ollamac](https://github.com/user-attachments/assets/9a57fc3d-25fd-4a05-b247-dcd0812c5207)"
+  },
+  {
     "id": "131",
     "url": "https://wangchujiang.com/quick-rss/issue/131.html",
     "title": "Pulse: 专为 Apple 平台打造的强大网络日志工具，用于网络请求调试",

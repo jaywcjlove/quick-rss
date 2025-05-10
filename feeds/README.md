@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Ollamac：一个专为 Ollama 打造的 macOS 原生应用](https://wangchujiang.com/quick-rss/issue/132.html) 
+
+![](https://github.com/user-attachments/assets/9a57fc3d-25fd-4a05-b247-dcd0812c5207)
+
+如果你在 Mac 上使用 Ollama，不妨试试 Ollamac —— 一个专为 Ollama 打造的 macOS 原生应用，支持所有 Ollama 模型，自定义 Host，内置语法高亮，界面简洁易用，完全免费且开源，非常适合开发者和 AI 用户使用。 ([#132](https://github.com/jaywcjlove/quick-rss/issues/132) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Pulse: 专为 Apple 平台打造的强大网络日志工具，用于网络请求调试](https://wangchujiang.com/quick-rss/issue/131.html) 
 
 ![](https://github.com/user-attachments/assets/a924a205-6c05-4f1f-b4c1-5e59ee7f6294)

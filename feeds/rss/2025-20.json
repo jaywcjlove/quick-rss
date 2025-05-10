@@ -1,5 +1,19 @@
 [
   {
+    "id": "133",
+    "url": "https://wangchujiang.com/quick-rss/issue/133.html",
+    "title": "Musicer：迷你便捷的本地音乐播放器，支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等",
+    "content_html": "<p>迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！</p>\n<p><img src=\"https://github.com/user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7\" alt=\"Musicer\"></p>\n<p>📥 下载：<a href=\"https://apps.apple.com/app/musicer/6745227444\">https://apps.apple.com/app/musicer/6745227444</a><br>\n💬 反馈：<a href=\"https://github.com/jaywcjlove/musicer\">https://github.com/jaywcjlove/musicer</a></p>\n<h3>核心功能</h3>\n<ul>\n<li>支持本地音频文件播放</li>\n<li>波形进度条显示播放进度</li>\n<li>自定义播放器主题颜色</li>\n<li>一键切换迷你模式</li>\n<li>可在状态栏中显示并控制播放器</li>\n</ul>\n<p>支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等</p>",
+    "summary": "迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！ 📥 下载：https://apps.apple.com/app/musicer/6745227444 💬 反馈：https://github.com/jaywcjlove/musicer ### 核心功能 - 支持本地音频文件播放 - 波形进度条显示播放进度 - 自定义播放器主题颜色 - ",
+    "banner_image": "https://github.com/user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7",
+    "date_published": "2025-05-10T16:17:04Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "迷你便捷的本地音乐播放器，轻巧实用，专为播放本地音频而设计，支持多种常见音频格式，随时随地畅听您的音乐！\n\n![Musicer](https://github.com/user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7)\n\n📥 下载：https://apps.apple.com/app/musicer/6745227444  \n💬 反馈：https://github.com/jaywcjlove/musicer  \n\n### 核心功能\n\n- 支持本地音频文件播放\n- 波形进度条显示播放进度\n- 自定义播放器主题颜色\n- 一键切换迷你模式\n- 可在状态栏中显示并控制播放器\n\n支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等"
+  },
+  {
     "id": "132",
     "url": "https://wangchujiang.com/quick-rss/issue/132.html",
     "title": "Ollamac：一个专为 Ollama 打造的 macOS 原生应用",

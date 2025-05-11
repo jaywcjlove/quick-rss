@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AlgerMusicPlayer: 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制，支持 macOS/Win/Linux/Web](https://wangchujiang.com/quick-rss/issue/134.html) 
+
+![](https://github.com/user-attachments/assets/1643a83b-e299-49af-bd85-aad0666d274f)
+
+厌倦了繁琐臃肿的音乐客户端？Alger Music Player 带你回归纯粹聆听的本质。这是一款基于网易云音乐服务构建的第三方播放器，支持多平台、无广告、界面清爽、体验丝滑，为你打造沉浸式听觉体验。 🔑 核心亮点 🎵 智能音乐推荐，发现你爱的旋律 🔐 支持网易云账号登录，收藏与历史无缝同步 🧠 自定义快捷键，操作随心而动 🎨 沉浸式歌词显示 + 独立桌面歌词窗口，打造动人视觉体验 🌗 ([#134](https://github.com/jaywcjlove/quick-rss/issues/134) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Musicer：迷你便捷的本地音乐播放器，支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等](https://wangchujiang.com/quick-rss/issue/133.html) 
 
 ![](https://github.com/user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7)

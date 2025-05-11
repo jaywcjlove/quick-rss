@@ -1,5 +1,19 @@
 [
   {
+    "id": "134",
+    "url": "https://wangchujiang.com/quick-rss/issue/134.html",
+    "title": "AlgerMusicPlayer: 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制，支持 macOS/Win/Linux/Web",
+    "content_html": "<p>厌倦了繁琐臃肿的音乐客户端？Alger Music Player 带你回归纯粹聆听的本质。这是一款基于网易云音乐服务构建的第三方播放器，支持多平台、无广告、界面清爽、体验丝滑，为你打造沉浸式听觉体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/1643a83b-e299-49af-bd85-aad0666d274f\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/90c9b418-e051-4e50-b257-af4b1130edad\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/971afd5c-0b40-4674-8736-2b641b6585ec\" alt=\"Image\"></p>\n<h3>🔑 核心亮点</h3>\n<ul>\n<li>🎵 智能音乐推荐，发现你爱的旋律</li>\n<li>🔐 支持网易云账号登录，收藏与历史无缝同步</li>\n<li>🧠 自定义快捷键，操作随心而动</li>\n<li>🎨 沉浸式歌词显示 + 独立桌面歌词窗口，打造动人视觉体验</li>\n<li>🌗 一键切换明暗主题，适配不同使用环境</li>\n</ul>\n<h3>🎼 音乐功能一应俱全</h3>\n<ul>\n<li>支持歌单、MV、专辑等完整音乐服务</li>\n<li>解析灰色歌曲资源，听你听不到的歌（基于 @unblockneteasemusic/server）</li>\n<li>高品质试听（需网易云 VIP）</li>\n<li>歌曲支持右键和批量下载，歌词、封面等信息完整保留</li>\n</ul>\n<h3>🚀 技术与平台支持</h3>\n<ul>\n<li>无需依赖公网 API，本地化服务稳定流畅（基于 netease-cloud-music-api）</li>\n<li>自动检测更新，永不过时</li>\n<li>桌面端、Web端、移动端全面适配，Android/iOS 版本正在开发中</li>\n</ul>\n<p>🎧 Alger Music Player —— 不止是播放器，更是属于你的音乐管家。现在就开始畅听，发现更多美好旋律！</p>",
+    "summary": "厌倦了繁琐臃肿的音乐客户端？Alger Music Player 带你回归纯粹聆听的本质。这是一款基于网易云音乐服务构建的第三方播放器，支持多平台、无广告、界面清爽、体验丝滑，为你打造沉浸式听觉体验。 ### 🔑 核心亮点 - 🎵 智能音乐推荐，发现你爱的旋律 - 🔐 支持网易云账号登录，收藏与历史无缝同步 - 🧠 自定义快捷键，操作随心而动 - 🎨 沉浸式歌词显示 + 独立桌面歌词窗口",
+    "banner_image": "https://github.com/user-attachments/assets/1643a83b-e299-49af-bd85-aad0666d274f",
+    "date_published": "2025-05-11T16:01:58Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "厌倦了繁琐臃肿的音乐客户端？Alger Music Player 带你回归纯粹聆听的本质。这是一款基于网易云音乐服务构建的第三方播放器，支持多平台、无广告、界面清爽、体验丝滑，为你打造沉浸式听觉体验。\n\n![Image](https://github.com/user-attachments/assets/1643a83b-e299-49af-bd85-aad0666d274f)\n\n![Image](https://github.com/user-attachments/assets/90c9b418-e051-4e50-b257-af4b1130edad)\n\n![Image](https://github.com/user-attachments/assets/971afd5c-0b40-4674-8736-2b641b6585ec)\n\n### 🔑 核心亮点\n\n- 🎵 智能音乐推荐，发现你爱的旋律\n- 🔐 支持网易云账号登录，收藏与历史无缝同步\n- 🧠 自定义快捷键，操作随心而动\n- 🎨 沉浸式歌词显示 + 独立桌面歌词窗口，打造动人视觉体验\n- 🌗 一键切换明暗主题，适配不同使用环境\n\n### 🎼 音乐功能一应俱全\n\n- 支持歌单、MV、专辑等完整音乐服务\n- 解析灰色歌曲资源，听你听不到的歌（基于 @unblockneteasemusic/server）\n- 高品质试听（需网易云 VIP）\n- 歌曲支持右键和批量下载，歌词、封面等信息完整保留\n\n\n### 🚀 技术与平台支持\n\n- 无需依赖公网 API，本地化服务稳定流畅（基于 netease-cloud-music-api）\n- 自动检测更新，永不过时\n- 桌面端、Web端、移动端全面适配，Android/iOS 版本正在开发中\n\n🎧 Alger Music Player —— 不止是播放器，更是属于你的音乐管家。现在就开始畅听，发现更多美好旋律！"
+  },
+  {
     "id": "133",
     "url": "https://wangchujiang.com/quick-rss/issue/133.html",
     "title": "Musicer：迷你便捷的本地音乐播放器，支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等",

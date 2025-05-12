@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [OrbStack：高效平替 Docker Desktop，打造无缝的 Mac 上高效运行 Docker 和 Linux 体验](https://wangchujiang.com/quick-rss/issue/135.html) 
+
+![](https://github.com/user-attachments/assets/16bd02a0-8e4c-4f16-83a0-58902332b9c7)
+
+OrbStack 让你在 Mac 上无缝、高效地运行 Docker 和 Linux，完全替代 Docker Desktop，带来更轻量、更快速的体验。启动仅需 2 秒，优化网络和磁盘性能，支持 Rosetta x86 模拟，且低 CPU 和磁盘占用，极大提高了性能和电池续航。 通过简洁的设置和双向命令行界面集成，您可以轻松访问文件并支持 VPN、远程 VS Code 和 SSH 代理转发。强大的网 ([#135](https://github.com/jaywcjlove/quick-rss/issues/135) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [AlgerMusicPlayer: 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制，支持 macOS/Win/Linux/Web](https://wangchujiang.com/quick-rss/issue/134.html) 
 
 ![](https://github.com/user-attachments/assets/1643a83b-e299-49af-bd85-aad0666d274f)

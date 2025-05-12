@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-05-11T16:02:30.000Z</updated>
+    <updated>2025-05-12T16:25:10.683Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[OrbStack：高效平替 Docker Desktop，打造无缝的 Mac 上高效运行 Docker 和 Linux 体验]]></title>
+        <id>135</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/135.html"/>
+        <updated>2025-05-12T16:24:43.000Z</updated>
+        <summary type="html"><![CDATA[OrbStack 让你在 Mac 上无缝、高效地运行 Docker 和 Linux，完全替代 Docker Desktop，带来更轻量、更快速的体验。启动仅需 2 秒，优化网络和磁盘性能，支持 Rosetta x86 模拟，且低 CPU 和磁盘占用，极大提高了性能和电池续航。 通过简洁的设置和双向命令行界面集成，您可以轻松访问文件并支持 VPN、远程 VS Code 和 SSH 代理转发。强大的网]]></summary>
+        <content type="html"><![CDATA[<p>OrbStack 让你在 Mac 上无缝、高效地运行 Docker 和 Linux，完全替代 Docker Desktop，带来更轻量、更快速的体验。启动仅需 2 秒，优化网络和磁盘性能，支持 Rosetta x86 模拟，且低 CPU 和磁盘占用，极大提高了性能和电池续航。</p>
+<p><img src="https://github.com/user-attachments/assets/16bd02a0-8e4c-4f16-83a0-58902332b9c7" alt="OrbStack"></p>
+<p>通过简洁的设置和双向命令行界面集成，您可以轻松访问文件并支持 VPN、远程 VS Code 和 SSH 代理转发。强大的网络功能使得 Docker 容器和完整 Linux 发行版的无缝运行成为可能，未来将支持 Kubernetes。</p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/731c86fd-6010-40e2-99ab-d4d3a63b1471?title=OrbStack&#x26;rehype=video"></video>
+<p>通过 OrbStack 的菜单栏应用程序，您可以随时管理容器，简化工作流程，提升开发效率。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/135" target="_blank">#135</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AlgerMusicPlayer: 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制，支持 macOS/Win/Linux/Web]]></title>
         <id>134</id>

@@ -1,5 +1,19 @@
 [
   {
+    "id": "136",
+    "url": "https://wangchujiang.com/quick-rss/issue/136.html",
+    "title": "分析幼儿园到大学全学段教材，包括小学、初中、高中及大学阶段的 PDF 教材和教育资源",
+    "content_html": "<p>分享两个超实用的教育资源仓库，涵盖从幼儿园、小学、初中、高中到大学全学段的教材和学习资料，适合学生、家长、老师、自学者参考使用：</p>\n<h3>全国各阶段 PDF 教材资源（小初高 &#x26; 大学）</h3>\n<p>包含小学、初中、高中以及部分大学课程的教材 PDF 文件，分类清晰，适合快速查阅和下载。</p>\n<p>📚  仓库地址：<a href=\"https://github.com/TapXWorld/ChinaTextbook\">https://github.com/TapXWorld/ChinaTextbook</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/386c26bc-3503-4482-b957-7337e73f3e48\" alt=\"全国各阶段 PDF 教材资源（小初高 &#x26; 大学）\"></p>\n<h3>全学段教育知识图谱与学习资源（从幼儿园到大学）</h3>\n<p>整理了覆盖所有学段的教学大纲、知识结构、课标解析等资源，便于系统性学习与知识梳理。</p>\n<p>📚  仓库地址：<a href=\"https://github.com/mswnlz/edu-knowlege\">https://github.com/mswnlz/edu-knowlege</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/5413a0ac-c9b2-43ed-bb67-a36a0d87ff83\" alt=\"全学段教育知识图谱与学习资源（从幼儿园到大学）\"></p>",
+    "summary": "分享两个超实用的教育资源仓库，涵盖从幼儿园、小学、初中、高中到大学全学段的教材和学习资料，适合学生、家长、老师、自学者参考使用： ### 全国各阶段 PDF 教材资源（小初高 & 大学） 包含小学、初中、高中以及部分大学课程的教材 PDF 文件，分类清晰，适合快速查阅和下载。 📚 仓库地址：https://github.com/TapXWorld/ChinaTextbook ### 全学段教育知",
+    "banner_image": "https://github.com/user-attachments/assets/386c26bc-3503-4482-b957-7337e73f3e48",
+    "date_published": "2025-05-15T04:15:38Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "分享两个超实用的教育资源仓库，涵盖从幼儿园、小学、初中、高中到大学全学段的教材和学习资料，适合学生、家长、老师、自学者参考使用：\n\n### 全国各阶段 PDF 教材资源（小初高 & 大学）\n\n包含小学、初中、高中以及部分大学课程的教材 PDF 文件，分类清晰，适合快速查阅和下载。\n\n📚  仓库地址：https://github.com/TapXWorld/ChinaTextbook\n\n![全国各阶段 PDF 教材资源（小初高 & 大学）](https://github.com/user-attachments/assets/386c26bc-3503-4482-b957-7337e73f3e48)\n\n### 全学段教育知识图谱与学习资源（从幼儿园到大学）\n\n整理了覆盖所有学段的教学大纲、知识结构、课标解析等资源，便于系统性学习与知识梳理。\n\n📚  仓库地址：https://github.com/mswnlz/edu-knowlege\n\n![全学段教育知识图谱与学习资源（从幼儿园到大学）](https://github.com/user-attachments/assets/5413a0ac-c9b2-43ed-bb67-a36a0d87ff83)"
+  },
+  {
     "id": "135",
     "url": "https://wangchujiang.com/quick-rss/issue/135.html",
     "title": "OrbStack：高效平替 Docker Desktop，打造无缝的 Mac 上高效运行 Docker 和 Linux 体验",

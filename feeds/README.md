@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [分析幼儿园到大学全学段教材，包括小学、初中、高中及大学阶段的 PDF 教材和教育资源](https://wangchujiang.com/quick-rss/issue/136.html) 
+
+![](https://github.com/user-attachments/assets/386c26bc-3503-4482-b957-7337e73f3e48)
+
+分享两个超实用的教育资源仓库，涵盖从幼儿园、小学、初中、高中到大学全学段的教材和学习资料，适合学生、家长、老师、自学者参考使用： 全国各阶段 PDF 教材资源（小初高 &#x26; 大学） 包含小学、初中、高中以及部分大学课程的教材 PDF 文件，分类清晰，适合快速查阅和下载。 📚 仓库地址：https://github.com/TapXWorld/ChinaTextbook 全学段教育知识图谱 ([#136](https://github.com/jaywcjlove/quick-rss/issues/136) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [OrbStack：高效平替 Docker Desktop，打造无缝的 Mac 上高效运行 Docker 和 Linux 体验](https://wangchujiang.com/quick-rss/issue/135.html) 
 
 ![](https://github.com/user-attachments/assets/16bd02a0-8e4c-4f16-83a0-58902332b9c7)

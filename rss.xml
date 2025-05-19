@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 19 May 2025 04:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 04:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wave Terminal：重新定义开发体验的图形化终端]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/138.html</link>
+            <guid>138</guid>
+            <pubDate>Mon, 19 May 2025 04:50:05 GMT</pubDate>
+            <description><![CDATA[Wave Terminal 是一款创新的开源终端工具，将传统命令行的高效与图形界面的直观体验完美融合。它不仅支持 Mac、Linux 和 Windows，还内置网页浏览器、文件预览器、AI 助手和强大的编辑器，让你在终端中完成更多工作。 你无需频繁切换窗口，就能预览 Markdown、PDF、图片、视频，甚至直接编辑远程文件。同时，Wave 还支持多种 AI 模型，提供聊天式辅助，帮助你更快解决问]]></description>
+            <content:encoded><![CDATA[<p>Wave Terminal 是一款创新的开源终端工具，将传统命令行的高效与图形界面的直观体验完美融合。它不仅支持 Mac、Linux 和 Windows，还内置网页浏览器、文件预览器、AI 助手和强大的编辑器，让你在终端中完成更多工作。</p>
+<p><img src="https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8" alt="Image"></p>
+<p>你无需频繁切换窗口，就能预览 Markdown、PDF、图片、视频，甚至直接编辑远程文件。同时，Wave 还支持多种 AI 模型，提供聊天式辅助，帮助你更快解决问题。灵活的布局、可自定义主题，以及强大的 wsh 命令系统，使它成为现代开发者的理想选择。</p>
+<p>如果你想要一个真正智能、全能的终端，Wave Terminal 值得一试！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/138" target="_blank">#138</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8" length="0" type="image//user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8"/>
+        </item>
         <item>
             <title><![CDATA[Bruno: 开源 IDE，用于探索和测试 API，承诺永不添加云同步功能]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/137.html</link>

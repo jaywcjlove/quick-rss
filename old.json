@@ -1,5 +1,19 @@
 [
   {
+    "id": "138",
+    "url": "https://wangchujiang.com/quick-rss/issue/138.html",
+    "title": "Wave Terminal：重新定义开发体验的图形化终端",
+    "content_html": "<p>Wave Terminal 是一款创新的开源终端工具，将传统命令行的高效与图形界面的直观体验完美融合。它不仅支持 Mac、Linux 和 Windows，还内置网页浏览器、文件预览器、AI 助手和强大的编辑器，让你在终端中完成更多工作。</p>\n<p><img src=\"https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8\" alt=\"Image\"></p>\n<p>你无需频繁切换窗口，就能预览 Markdown、PDF、图片、视频，甚至直接编辑远程文件。同时，Wave 还支持多种 AI 模型，提供聊天式辅助，帮助你更快解决问题。灵活的布局、可自定义主题，以及强大的 wsh 命令系统，使它成为现代开发者的理想选择。</p>\n<p>如果你想要一个真正智能、全能的终端，Wave Terminal 值得一试！</p>",
+    "summary": "Wave Terminal 是一款创新的开源终端工具，将传统命令行的高效与图形界面的直观体验完美融合。它不仅支持 Mac、Linux 和 Windows，还内置网页浏览器、文件预览器、AI 助手和强大的编辑器，让你在终端中完成更多工作。 你无需频繁切换窗口，就能预览 Markdown、PDF、图片、视频，甚至直接编辑远程文件。同时，Wave 还支持多种 AI 模型，提供聊天式辅助，帮助你更快解决问",
+    "banner_image": "https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8",
+    "date_published": "2025-05-19T04:50:05Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Wave Terminal 是一款创新的开源终端工具，将传统命令行的高效与图形界面的直观体验完美融合。它不仅支持 Mac、Linux 和 Windows，还内置网页浏览器、文件预览器、AI 助手和强大的编辑器，让你在终端中完成更多工作。\n\n![Image](https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8)\n\n你无需频繁切换窗口，就能预览 Markdown、PDF、图片、视频，甚至直接编辑远程文件。同时，Wave 还支持多种 AI 模型，提供聊天式辅助，帮助你更快解决问题。灵活的布局、可自定义主题，以及强大的 wsh 命令系统，使它成为现代开发者的理想选择。\n\n如果你想要一个真正智能、全能的终端，Wave Terminal 值得一试！"
+  },
+  {
     "id": "137",
     "url": "https://wangchujiang.com/quick-rss/issue/137.html",
     "title": "Bruno: 开源 IDE，用于探索和测试 API，承诺永不添加云同步功能",

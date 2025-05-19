@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Wave Terminal：重新定义开发体验的图形化终端](https://wangchujiang.com/quick-rss/issue/138.html) 
+
+![](https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8)
+
+Wave Terminal 是一款创新的开源终端工具，将传统命令行的高效与图形界面的直观体验完美融合。它不仅支持 Mac、Linux 和 Windows，还内置网页浏览器、文件预览器、AI 助手和强大的编辑器，让你在终端中完成更多工作。 你无需频繁切换窗口，就能预览 Markdown、PDF、图片、视频，甚至直接编辑远程文件。同时，Wave 还支持多种 AI 模型，提供聊天式辅助，帮助你更快解决问 ([#138](https://github.com/jaywcjlove/quick-rss/issues/138) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Bruno: 开源 IDE，用于探索和测试 API，承诺永不添加云同步功能](https://wangchujiang.com/quick-rss/issue/137.html) 
 
 ![](https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19)

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "137",
+    "url": "https://wangchujiang.com/quick-rss/issue/137.html",
+    "title": "Bruno: 开源 IDE，用于探索和测试 API，承诺永不添加云同步功能",
+    "content_html": "<p>如果你正在寻找一款专注隐私、支持本地存储的 API 测试工具，Bruno 是一个绝佳选择。作为一个开源的 API 客户端，Bruno 用简洁的纯文本格式（.bru）记录 API 信息，并直接存储在你的本地文件夹中，完全脱离云端依赖。它天然支持 Git 等版本控制工具，方便团队协作和变更管理。</p>\n<p><img src=\"https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19\" alt=\"Bruno\"></p>\n<p>Bruno 致力于离线使用，强调数据掌控权在你手中，是替代 Postman 等传统工具的一股新风。立即体验这款更自由、更安全的 API IDE 吧！</p>\n<p><img src=\"https://github.com/user-attachments/assets/c084e091-8f1a-40ae-a302-dd6409dfe899\" alt=\"Bruno\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/b02b6fa1-a758-42c4-b0d0-233787c4f222\" alt=\"Bruno\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c3e05613-4eb6-4526-b3e6-149abfbfde15\" alt=\"Bruno\"></p>",
+    "summary": "如果你正在寻找一款专注隐私、支持本地存储的 API 测试工具，Bruno 是一个绝佳选择。作为一个开源的 API 客户端，Bruno 用简洁的纯文本格式（.bru）记录 API 信息，并直接存储在你的本地文件夹中，完全脱离云端依赖。它天然支持 Git 等版本控制工具，方便团队协作和变更管理。 Bruno 致力于离线使用，强调数据掌控权在你手中，是替代 Postman 等传统工具的一股新风。立即体验",
+    "banner_image": "https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19",
+    "date_published": "2025-05-19T04:42:29Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "如果你正在寻找一款专注隐私、支持本地存储的 API 测试工具，Bruno 是一个绝佳选择。作为一个开源的 API 客户端，Bruno 用简洁的纯文本格式（.bru）记录 API 信息，并直接存储在你的本地文件夹中，完全脱离云端依赖。它天然支持 Git 等版本控制工具，方便团队协作和变更管理。\n\n![Bruno](https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19)\n\nBruno 致力于离线使用，强调数据掌控权在你手中，是替代 Postman 等传统工具的一股新风。立即体验这款更自由、更安全的 API IDE 吧！\n\n![Bruno](https://github.com/user-attachments/assets/c084e091-8f1a-40ae-a302-dd6409dfe899)\n\n\n![Bruno](https://github.com/user-attachments/assets/b02b6fa1-a758-42c4-b0d0-233787c4f222)\n\n\n![Bruno](https://github.com/user-attachments/assets/c3e05613-4eb6-4526-b3e6-149abfbfde15)"
+  }
+]

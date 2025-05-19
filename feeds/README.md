@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Bruno: 开源 IDE，用于探索和测试 API，承诺永不添加云同步功能](https://wangchujiang.com/quick-rss/issue/137.html) 
+
+![](https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19)
+
+如果你正在寻找一款专注隐私、支持本地存储的 API 测试工具，Bruno 是一个绝佳选择。作为一个开源的 API 客户端，Bruno 用简洁的纯文本格式（.bru）记录 API 信息，并直接存储在你的本地文件夹中，完全脱离云端依赖。它天然支持 Git 等版本控制工具，方便团队协作和变更管理。 Bruno 致力于离线使用，强调数据掌控权在你手中，是替代 Postman 等传统工具的一股新风。立即体验 ([#137](https://github.com/jaywcjlove/quick-rss/issues/137) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [分析幼儿园到大学全学段教材，包括小学、初中、高中及大学阶段的 PDF 教材和教育资源](https://wangchujiang.com/quick-rss/issue/136.html) 
 
 ![](https://github.com/user-attachments/assets/386c26bc-3503-4482-b957-7337e73f3e48)

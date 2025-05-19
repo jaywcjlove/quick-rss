@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 15 May 2025 04:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 04:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,25 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bruno: 开源 IDE，用于探索和测试 API，承诺永不添加云同步功能]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/137.html</link>
+            <guid>137</guid>
+            <pubDate>Mon, 19 May 2025 04:42:29 GMT</pubDate>
+            <description><![CDATA[如果你正在寻找一款专注隐私、支持本地存储的 API 测试工具，Bruno 是一个绝佳选择。作为一个开源的 API 客户端，Bruno 用简洁的纯文本格式（.bru）记录 API 信息，并直接存储在你的本地文件夹中，完全脱离云端依赖。它天然支持 Git 等版本控制工具，方便团队协作和变更管理。 Bruno 致力于离线使用，强调数据掌控权在你手中，是替代 Postman 等传统工具的一股新风。立即体验]]></description>
+            <content:encoded><![CDATA[<p>如果你正在寻找一款专注隐私、支持本地存储的 API 测试工具，Bruno 是一个绝佳选择。作为一个开源的 API 客户端，Bruno 用简洁的纯文本格式（.bru）记录 API 信息，并直接存储在你的本地文件夹中，完全脱离云端依赖。它天然支持 Git 等版本控制工具，方便团队协作和变更管理。</p>
+<p><img src="https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19" alt="Bruno"></p>
+<p>Bruno 致力于离线使用，强调数据掌控权在你手中，是替代 Postman 等传统工具的一股新风。立即体验这款更自由、更安全的 API IDE 吧！</p>
+<p><img src="https://github.com/user-attachments/assets/c084e091-8f1a-40ae-a302-dd6409dfe899" alt="Bruno"></p>
+<p><img src="https://github.com/user-attachments/assets/b02b6fa1-a758-42c4-b0d0-233787c4f222" alt="Bruno"></p>
+<p><img src="https://github.com/user-attachments/assets/c3e05613-4eb6-4526-b3e6-149abfbfde15" alt="Bruno"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/137" target="_blank">#137</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19" length="0" type="image//user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19"/>
+        </item>
         <item>
             <title><![CDATA[分析幼儿园到大学全学段教材，包括小学、初中、高中及大学阶段的 PDF 教材和教育资源]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/136.html</link>

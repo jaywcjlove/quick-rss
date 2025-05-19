@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "137",
+            "content_html": "<p>如果你正在寻找一款专注隐私、支持本地存储的 API 测试工具，Bruno 是一个绝佳选择。作为一个开源的 API 客户端，Bruno 用简洁的纯文本格式（.bru）记录 API 信息，并直接存储在你的本地文件夹中，完全脱离云端依赖。它天然支持 Git 等版本控制工具，方便团队协作和变更管理。</p>\n<p><img src=\"https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19\" alt=\"Bruno\"></p>\n<p>Bruno 致力于离线使用，强调数据掌控权在你手中，是替代 Postman 等传统工具的一股新风。立即体验这款更自由、更安全的 API IDE 吧！</p>\n<p><img src=\"https://github.com/user-attachments/assets/c084e091-8f1a-40ae-a302-dd6409dfe899\" alt=\"Bruno\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/b02b6fa1-a758-42c4-b0d0-233787c4f222\" alt=\"Bruno\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c3e05613-4eb6-4526-b3e6-149abfbfde15\" alt=\"Bruno\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/137\" target=\"_blank\">#137</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/137.html",
+            "title": "Bruno: 开源 IDE，用于探索和测试 API，承诺永不添加云同步功能",
+            "summary": "如果你正在寻找一款专注隐私、支持本地存储的 API 测试工具，Bruno 是一个绝佳选择。作为一个开源的 API 客户端，Bruno 用简洁的纯文本格式（.bru）记录 API 信息，并直接存储在你的本地文件夹中，完全脱离云端依赖。它天然支持 Git 等版本控制工具，方便团队协作和变更管理。 Bruno 致力于离线使用，强调数据掌控权在你手中，是替代 Postman 等传统工具的一股新风。立即体验",
+            "image": "https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19",
+            "date_modified": "2025-05-19T04:42:29.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "136",
             "content_html": "<p>分享两个超实用的教育资源仓库，涵盖从幼儿园、小学、初中、高中到大学全学段的教材和学习资料，适合学生、家长、老师、自学者参考使用：</p>\n<h3>全国各阶段 PDF 教材资源（小初高 &#x26; 大学）</h3>\n<p>包含小学、初中、高中以及部分大学课程的教材 PDF 文件，分类清晰，适合快速查阅和下载。</p>\n<p>📚  仓库地址：<a href=\"https://github.com/TapXWorld/ChinaTextbook\">https://github.com/TapXWorld/ChinaTextbook</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/386c26bc-3503-4482-b957-7337e73f3e48\" alt=\"全国各阶段 PDF 教材资源（小初高 &#x26; 大学）\"></p>\n<h3>全学段教育知识图谱与学习资源（从幼儿园到大学）</h3>\n<p>整理了覆盖所有学段的教学大纲、知识结构、课标解析等资源，便于系统性学习与知识梳理。</p>\n<p>📚  仓库地址：<a href=\"https://github.com/mswnlz/edu-knowlege\">https://github.com/mswnlz/edu-knowlege</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/5413a0ac-c9b2-43ed-bb67-a36a0d87ff83\" alt=\"全学段教育知识图谱与学习资源（从幼儿园到大学）\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/136\" target=\"_blank\">#136</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/136.html",

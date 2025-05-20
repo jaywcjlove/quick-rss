@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "139",
+            "content_html": "<p>如果你正在寻找一款简单高效的 macOS 滚动截图工具，ScrollSnap 是个不错的选择。它是一款开源应用，支持自定义选区、滚动截图自动拼接，并提供灵活的保存方式（桌面、剪贴板、预览等）。直观的界面、可拖拽的菜单和缩略图预览，让你轻松截取长页面内容。ScrollSnap 基于 Swift 开发，结合 AppKit 和 ScreenCaptureKit，界面现代，操作流畅，非常适合开发者和设计师使用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cd3998f4-83be-4d69-a00c-86d04915c6cc\" alt=\"ScrollSnap\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/139\" target=\"_blank\">#139</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/139.html",
+            "title": "ScrollSnap —— macOS 上的开源滚动截图工具",
+            "summary": "如果你正在寻找一款简单高效的 macOS 滚动截图工具，ScrollSnap 是个不错的选择。它是一款开源应用，支持自定义选区、滚动截图自动拼接，并提供灵活的保存方式（桌面、剪贴板、预览等）。直观的界面、可拖拽的菜单和缩略图预览，让你轻松截取长页面内容。ScrollSnap 基于 Swift 开发，结合 AppKit 和 ScreenCaptureKit，界面现代，操作流畅，非常适合开发者和设计师",
+            "image": "https://github.com/user-attachments/assets/cd3998f4-83be-4d69-a00c-86d04915c6cc",
+            "date_modified": "2025-05-20T21:02:07.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "138",
             "content_html": "<p>Wave Terminal 是一款创新的开源终端工具，将传统命令行的高效与图形界面的直观体验完美融合。它不仅支持 Mac、Linux 和 Windows，还内置网页浏览器、文件预览器、AI 助手和强大的编辑器，让你在终端中完成更多工作。</p>\n<p><img src=\"https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8\" alt=\"Image\"></p>\n<p>你无需频繁切换窗口，就能预览 Markdown、PDF、图片、视频，甚至直接编辑远程文件。同时，Wave 还支持多种 AI 模型，提供聊天式辅助，帮助你更快解决问题。灵活的布局、可自定义主题，以及强大的 wsh 命令系统，使它成为现代开发者的理想选择。</p>\n<p>如果你想要一个真正智能、全能的终端，Wave Terminal 值得一试！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/138\" target=\"_blank\">#138</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/138.html",

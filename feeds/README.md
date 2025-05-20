@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ScrollSnap —— macOS 上的开源滚动截图工具](https://wangchujiang.com/quick-rss/issue/139.html) 
+
+![](https://github.com/user-attachments/assets/cd3998f4-83be-4d69-a00c-86d04915c6cc)
+
+如果你正在寻找一款简单高效的 macOS 滚动截图工具，ScrollSnap 是个不错的选择。它是一款开源应用，支持自定义选区、滚动截图自动拼接，并提供灵活的保存方式（桌面、剪贴板、预览等）。直观的界面、可拖拽的菜单和缩略图预览，让你轻松截取长页面内容。ScrollSnap 基于 Swift 开发，结合 AppKit 和 ScreenCaptureKit，界面现代，操作流畅，非常适合开发者和设计师 ([#139](https://github.com/jaywcjlove/quick-rss/issues/139) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Wave Terminal：重新定义开发体验的图形化终端](https://wangchujiang.com/quick-rss/issue/138.html) 
 
 ![](https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8)

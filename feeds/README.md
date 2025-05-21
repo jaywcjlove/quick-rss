@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AI Shorts Video 生成器 - Youtube上热门Baby Podcast视频生成](https://wangchujiang.com/quick-rss/issue/140.html) 
+
+![](https://github.com/user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5)
+
+介绍： 超高水准的对口型应用。最近Youtube上非常火爆的视频类型：babypodcast，流量非常大。做了一个小工具，只需要选择一张图片、一个音频，就可以生成一个高质量的视频。 现况： YouTube上的babypodcast的曝光情况，可以看到已经有人在大批量的发布了： 工具截图： 免费、无需登录、最高支持90s的shorts视频生成 效果视频 https://github.com/user ([#140](https://github.com/jaywcjlove/quick-rss/issues/140) - [@BearSolitarily](https://github.com/BearSolitarily))
 ## [ScrollSnap —— macOS 上的开源滚动截图工具](https://wangchujiang.com/quick-rss/issue/139.html) 
 
 ![](https://github.com/user-attachments/assets/cd3998f4-83be-4d69-a00c-86d04915c6cc)

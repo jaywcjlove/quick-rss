@@ -1,5 +1,19 @@
 [
   {
+    "id": "140",
+    "url": "https://wangchujiang.com/quick-rss/issue/140.html",
+    "title": "AI Shorts Video 生成器 - Youtube上热门Baby Podcast视频生成",
+    "content_html": "<h3>介绍：</h3>\n<p>超高水准的对口型应用。最近Youtube上非常火爆的视频类型：babypodcast，流量非常大。做了一个小工具，只需要选择一张图片、一个音频，就可以生成一个高质量的视频。</p>\n<h3>现况：</h3>\n<p>YouTube上的babypodcast的曝光情况，可以看到已经有人在大批量的发布了：\n<img src=\"https://github.com/user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5\" alt=\"Image\"></p>\n<h3>工具截图：</h3>\n<p><strong>免费、无需登录、最高支持</strong>90s<strong>的shorts视频生成</strong>\n<img src=\"https://github.com/user-attachments/assets/0378bf1d-88b7-49ff-b21a-31228787bdd1\" alt=\"Image\"></p>\n<h3>效果视频</h3>\n<p><a href=\"https://github.com/user-attachments/assets/2f64662f-71e0-45b1-8871-5b9f2a58f8da\">https://github.com/user-attachments/assets/2f64662f-71e0-45b1-8871-5b9f2a58f8da</a></p>",
+    "summary": "### 介绍： 超高水准的对口型应用。最近Youtube上非常火爆的视频类型：babypodcast，流量非常大。做了一个小工具，只需要选择一张图片、一个音频，就可以生成一个高质量的视频。 ### 现况： YouTube上的babypodcast的曝光情况，可以看到已经有人在大批量的发布了： ### 工具截图： **免费、无需登录、最高支持**90s**的shorts视频生成** ### 效果视频",
+    "banner_image": "https://github.com/user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5",
+    "date_published": "2025-05-21T08:01:05Z",
+    "author": {
+      "name": "BearSolitarily",
+      "link": "https://avatars.githubusercontent.com/u/56347949?v=4"
+    },
+    "markdownContent": "### 介绍：\n超高水准的对口型应用。最近Youtube上非常火爆的视频类型：babypodcast，流量非常大。做了一个小工具，只需要选择一张图片、一个音频，就可以生成一个高质量的视频。\n### 现况：\nYouTube上的babypodcast的曝光情况，可以看到已经有人在大批量的发布了：\n![Image](https://github.com/user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5)\n### 工具截图：\n**免费、无需登录、最高支持**90s**的shorts视频生成**\n![Image](https://github.com/user-attachments/assets/0378bf1d-88b7-49ff-b21a-31228787bdd1)\n### 效果视频\nhttps://github.com/user-attachments/assets/2f64662f-71e0-45b1-8871-5b9f2a58f8da"
+  },
+  {
     "id": "139",
     "url": "https://wangchujiang.com/quick-rss/issue/139.html",
     "title": "ScrollSnap —— macOS 上的开源滚动截图工具",

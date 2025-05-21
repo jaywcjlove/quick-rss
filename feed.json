@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "140",
+            "content_html": "<h3>介绍：</h3>\n<p>超高水准的对口型应用。最近Youtube上非常火爆的视频类型：babypodcast，流量非常大。做了一个小工具，只需要选择一张图片、一个音频，就可以生成一个高质量的视频。</p>\n<h3>现况：</h3>\n<p>YouTube上的babypodcast的曝光情况，可以看到已经有人在大批量的发布了：\n<img src=\"https://github.com/user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5\" alt=\"Image\"></p>\n<h3>工具截图：</h3>\n<p><strong>免费、无需登录、最高支持</strong>90s<strong>的shorts视频生成</strong>\n<img src=\"https://github.com/user-attachments/assets/0378bf1d-88b7-49ff-b21a-31228787bdd1\" alt=\"Image\"></p>\n<h3>效果视频</h3>\n<p><a href=\"https://github.com/user-attachments/assets/2f64662f-71e0-45b1-8871-5b9f2a58f8da\">https://github.com/user-attachments/assets/2f64662f-71e0-45b1-8871-5b9f2a58f8da</a></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/140\" target=\"_blank\">#140</a> • \n      <a href=\"https://github.com/BearSolitarily\" target=\"_blank\">@BearSolitarily</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/140.html",
+            "title": "AI Shorts Video 生成器 - Youtube上热门Baby Podcast视频生成",
+            "summary": "介绍： 超高水准的对口型应用。最近Youtube上非常火爆的视频类型：babypodcast，流量非常大。做了一个小工具，只需要选择一张图片、一个音频，就可以生成一个高质量的视频。 现况： YouTube上的babypodcast的曝光情况，可以看到已经有人在大批量的发布了： 工具截图： 免费、无需登录、最高支持90s的shorts视频生成 效果视频 https://github.com/user",
+            "image": "https://github.com/user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5",
+            "date_modified": "2025-05-21T08:01:05.000Z",
+            "author": {
+                "name": "BearSolitarily",
+                "url": "https://avatars.githubusercontent.com/u/56347949?v=4"
+            }
+        },
+        {
             "id": "139",
             "content_html": "<p>如果你正在寻找一款简单高效的 macOS 滚动截图工具，ScrollSnap 是个不错的选择。它是一款开源应用，支持自定义选区、滚动截图自动拼接，并提供灵活的保存方式（桌面、剪贴板、预览等）。直观的界面、可拖拽的菜单和缩略图预览，让你轻松截取长页面内容。ScrollSnap 基于 Swift 开发，结合 AppKit 和 ScreenCaptureKit，界面现代，操作流畅，非常适合开发者和设计师使用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cd3998f4-83be-4d69-a00c-86d04915c6cc\" alt=\"ScrollSnap\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/139\" target=\"_blank\">#139</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/139.html",

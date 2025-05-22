@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [KeyClu：更强大的 Cheatsheet 替代品，Mac 快捷键神器，比 Cheatsheet 更强大的快捷键提示工具](https://wangchujiang.com/quick-rss/issue/141.html) 
+
+![](https://github.com/user-attachments/assets/96501f01-4df8-4f92-9bc7-715833e58cb8)
+
+如果你是 macOS 用户，经常忘记各种快捷键，那你一定要试试 KeyClu。它是一款免费的快捷键提示工具，只需按住 ⌘ Command 键，就能在屏幕上显示当前应用支持的快捷键，简单高效，几乎零学习成本。 很多人可能用过 Cheatsheet，但它已经很久没有更新了。而 KeyClu 不仅完美替代 Cheatsheet，还增加了更多功能，比如支持全局快捷键、主题自定义，响应也更快。对我来说，它已 ([#141](https://github.com/jaywcjlove/quick-rss/issues/141) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [AI Shorts Video 生成器 - Youtube上热门Baby Podcast视频生成](https://wangchujiang.com/quick-rss/issue/140.html) 
 
 ![](https://github.com/user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5)

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "142",
+            "content_html": "<p>Sentry 是一款专为 macOS 打造的安全监控工具，旨在在你离开电脑时，为你的设备保驾护航。无论你是在咖啡店小憩，还是临时离开座位，只需启用 Sentry 模式，它就能实时监测设备状态，侦测任何可疑操作，并自动录制视频作为证据。</p>\n<p><img src=\"https://github.com/user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66\" alt=\"Sentry\"></p>\n<p>Sentry 支持盖子状态、电源连接和网络连接等多项系统监控，并通过声音报警和 Bark 推送通知提醒你可能的入侵行为。所有变化都能被即时捕捉，确保你第一时间知情，第一时间应对。让 Sentry 成为你在公共环境中的安心后盾。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/142\" target=\"_blank\">#142</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/142.html",
+            "title": "Sentry：你的 macOS 安全守卫，在你离开电脑时，为你的设备保驾护航",
+            "summary": "Sentry 是一款专为 macOS 打造的安全监控工具，旨在在你离开电脑时，为你的设备保驾护航。无论你是在咖啡店小憩，还是临时离开座位，只需启用 Sentry 模式，它就能实时监测设备状态，侦测任何可疑操作，并自动录制视频作为证据。 Sentry 支持盖子状态、电源连接和网络连接等多项系统监控，并通过声音报警和 Bark 推送通知提醒你可能的入侵行为。所有变化都能被即时捕捉，确保你第一时间知情，",
+            "image": "https://github.com/user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66",
+            "date_modified": "2025-05-24T06:44:01.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "141",
             "content_html": "<p>如果你是 macOS 用户，经常忘记各种快捷键，那你一定要试试 KeyClu。它是一款免费的快捷键提示工具，只需按住 ⌘ Command 键，就能在屏幕上显示当前应用支持的快捷键，简单高效，几乎零学习成本。</p>\n<p><img src=\"https://github.com/user-attachments/assets/96501f01-4df8-4f92-9bc7-715833e58cb8\" alt=\"KeyClu\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/f29833f9-2e04-449f-bcf2-f4c24a350d30\" alt=\"KeyClu\"></p>\n<p>很多人可能用过 Cheatsheet，但它已经很久没有更新了。而 KeyClu 不仅完美替代 Cheatsheet，还增加了更多功能，比如支持全局快捷键、主题自定义，响应也更快。对我来说，它已经成为新一代的“装机必备”应用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/944a36c9-8696-48e5-9545-493b7c83d9dd\" alt=\"KeyClu\"></p>\n<p>最棒的是，KeyClu 完全免费，体积小巧，不占资源。无论你是开发者、设计师还是普通用户，只要你希望提高工作效率，KeyClu 都值得一试！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/141\" target=\"_blank\">#141</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/141.html",

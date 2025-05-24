@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 22 May 2025 05:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 06:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sentry：你的 macOS 安全守卫，在你离开电脑时，为你的设备保驾护航]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/142.html</link>
+            <guid>142</guid>
+            <pubDate>Sat, 24 May 2025 06:44:01 GMT</pubDate>
+            <description><![CDATA[Sentry 是一款专为 macOS 打造的安全监控工具，旨在在你离开电脑时，为你的设备保驾护航。无论你是在咖啡店小憩，还是临时离开座位，只需启用 Sentry 模式，它就能实时监测设备状态，侦测任何可疑操作，并自动录制视频作为证据。 Sentry 支持盖子状态、电源连接和网络连接等多项系统监控，并通过声音报警和 Bark 推送通知提醒你可能的入侵行为。所有变化都能被即时捕捉，确保你第一时间知情，]]></description>
+            <content:encoded><![CDATA[<p>Sentry 是一款专为 macOS 打造的安全监控工具，旨在在你离开电脑时，为你的设备保驾护航。无论你是在咖啡店小憩，还是临时离开座位，只需启用 Sentry 模式，它就能实时监测设备状态，侦测任何可疑操作，并自动录制视频作为证据。</p>
+<p><img src="https://github.com/user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66" alt="Sentry"></p>
+<p>Sentry 支持盖子状态、电源连接和网络连接等多项系统监控，并通过声音报警和 Bark 推送通知提醒你可能的入侵行为。所有变化都能被即时捕捉，确保你第一时间知情，第一时间应对。让 Sentry 成为你在公共环境中的安心后盾。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/142" target="_blank">#142</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66" length="0" type="image//user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66"/>
+        </item>
         <item>
             <title><![CDATA[KeyClu：更强大的 Cheatsheet 替代品，Mac 快捷键神器，比 Cheatsheet 更强大的快捷键提示工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/141.html</link>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Sentry：你的 macOS 安全守卫，在你离开电脑时，为你的设备保驾护航](https://wangchujiang.com/quick-rss/issue/142.html) 
+
+![](https://github.com/user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66)
+
+Sentry 是一款专为 macOS 打造的安全监控工具，旨在在你离开电脑时，为你的设备保驾护航。无论你是在咖啡店小憩，还是临时离开座位，只需启用 Sentry 模式，它就能实时监测设备状态，侦测任何可疑操作，并自动录制视频作为证据。 Sentry 支持盖子状态、电源连接和网络连接等多项系统监控，并通过声音报警和 Bark 推送通知提醒你可能的入侵行为。所有变化都能被即时捕捉，确保你第一时间知情， ([#142](https://github.com/jaywcjlove/quick-rss/issues/142) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [KeyClu：更强大的 Cheatsheet 替代品，Mac 快捷键神器，比 Cheatsheet 更强大的快捷键提示工具](https://wangchujiang.com/quick-rss/issue/141.html) 
 
 ![](https://github.com/user-attachments/assets/96501f01-4df8-4f92-9bc7-715833e58cb8)

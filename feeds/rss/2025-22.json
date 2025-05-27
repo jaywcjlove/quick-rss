@@ -1,5 +1,19 @@
 [
   {
+    "id": "143",
+    "url": "https://wangchujiang.com/quick-rss/issue/143.html",
+    "title": "Ueli：跨平台快捷键启动器，支持 macOS/Linux/Windows",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/bb5f98b8-8e8d-4962-9c97-96c35e7a5ac1\" alt=\"Image\"></p>\n<p>Ueli 是一款支持 Windows、macOS 和 Linux 的跨平台快捷键启动工具，能快速启动应用、搜索文件、执行扩展功能等，大幅提升工作效率。</p>\n<p>首次启动后即可开始输入关键词搜索。默认使用快捷键 Alt+Space 唤出或隐藏主窗口。使用方向键浏览结果，按回车键启动选中的项目。通过 Cmd+K（macOS） 或 Ctrl+K（其他平台） 可访问更多操作，比如加入或移除收藏项。</p>\n<p>点击左侧导航栏的“扩展”可以开启更多功能模块，每个扩展都有专属设置，支持自定义和个性化配置。通过“设置”界面可进一步定制 Ueli 的行为和外观。</p>\n<p>让 Ueli 成为你的高效启动中心！</p>",
+    "summary": "Ueli 是一款支持 Windows、macOS 和 Linux 的跨平台快捷键启动工具，能快速启动应用、搜索文件、执行扩展功能等，大幅提升工作效率。 首次启动后即可开始输入关键词搜索。默认使用快捷键 Alt+Space 唤出或隐藏主窗口。使用方向键浏览结果，按回车键启动选中的项目。通过 Cmd+K（macOS） 或 Ctrl+K（其他平台） 可访问更多操作，比如加入或移除收藏项。 点击左侧导航栏",
+    "banner_image": "https://github.com/user-attachments/assets/bb5f98b8-8e8d-4962-9c97-96c35e7a5ac1",
+    "date_published": "2025-05-27T13:54:11Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![Image](https://github.com/user-attachments/assets/bb5f98b8-8e8d-4962-9c97-96c35e7a5ac1)\n\nUeli 是一款支持 Windows、macOS 和 Linux 的跨平台快捷键启动工具，能快速启动应用、搜索文件、执行扩展功能等，大幅提升工作效率。\n\n首次启动后即可开始输入关键词搜索。默认使用快捷键 Alt+Space 唤出或隐藏主窗口。使用方向键浏览结果，按回车键启动选中的项目。通过 Cmd+K（macOS） 或 Ctrl+K（其他平台） 可访问更多操作，比如加入或移除收藏项。\n\n点击左侧导航栏的“扩展”可以开启更多功能模块，每个扩展都有专属设置，支持自定义和个性化配置。通过“设置”界面可进一步定制 Ueli 的行为和外观。\n\n让 Ueli 成为你的高效启动中心！"
+  },
+  {
     "id": "142",
     "url": "https://wangchujiang.com/quick-rss/issue/142.html",
     "title": "Sentry：你的 macOS 安全守卫，在你离开电脑时，为你的设备保驾护航",

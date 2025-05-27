@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Ueli：跨平台快捷键启动器，支持 macOS/Linux/Windows](https://wangchujiang.com/quick-rss/issue/143.html) 
+
+![](https://github.com/user-attachments/assets/bb5f98b8-8e8d-4962-9c97-96c35e7a5ac1)
+
+Ueli 是一款支持 Windows、macOS 和 Linux 的跨平台快捷键启动工具，能快速启动应用、搜索文件、执行扩展功能等，大幅提升工作效率。 首次启动后即可开始输入关键词搜索。默认使用快捷键 Alt+Space 唤出或隐藏主窗口。使用方向键浏览结果，按回车键启动选中的项目。通过 Cmd+K（macOS） 或 Ctrl+K（其他平台） 可访问更多操作，比如加入或移除收藏项。 点击左侧导航栏 ([#143](https://github.com/jaywcjlove/quick-rss/issues/143) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Sentry：你的 macOS 安全守卫，在你离开电脑时，为你的设备保驾护航](https://wangchujiang.com/quick-rss/issue/142.html) 
 
 ![](https://github.com/user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66)

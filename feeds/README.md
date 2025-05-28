@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Edit：微软用 Rust 开发开源的轻量终端文本编辑器，致敬经典，焕发新生](https://wangchujiang.com/quick-rss/issue/144.html) 
+
+![](https://github.com/user-attachments/assets/08f6d682-34e6-40a1-863d-c2541892a405)
+
+Edit 是微软开源的一款使用 Rust 开发的终端（TUI）文本编辑器，向经典的 MS-DOS Editor 致敬。它体积小、启动快、跨平台，并融合了类似 VS Code 的现代快捷键和交互体验，是处理简单文本编辑任务的理想选择，适合所有用户，尤其是不熟悉终端操作的用户。 ([#144](https://github.com/jaywcjlove/quick-rss/issues/144) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Ueli：跨平台快捷键启动器，支持 macOS/Linux/Windows](https://wangchujiang.com/quick-rss/issue/143.html) 
 
 ![](https://github.com/user-attachments/assets/bb5f98b8-8e8d-4962-9c97-96c35e7a5ac1)

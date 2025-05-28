@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-05-27T13:54:51.003Z</updated>
+    <updated>2025-05-28T13:36:59.230Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Edit：微软用 Rust 开发开源的轻量终端文本编辑器，致敬经典，焕发新生]]></title>
+        <id>144</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/144.html"/>
+        <updated>2025-05-28T13:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Edit 是微软开源的一款使用 Rust 开发的终端（TUI）文本编辑器，向经典的 MS-DOS Editor 致敬。它体积小、启动快、跨平台，并融合了类似 VS Code 的现代快捷键和交互体验，是处理简单文本编辑任务的理想选择，适合所有用户，尤其是不熟悉终端操作的用户。]]></summary>
+        <content type="html"><![CDATA[<p>Edit 是微软开源的一款使用 Rust 开发的终端（TUI）文本编辑器，向经典的 MS-DOS Editor 致敬。它体积小、启动快、跨平台，并融合了类似 VS Code 的现代快捷键和交互体验，是处理简单文本编辑任务的理想选择，适合所有用户，尤其是不熟悉终端操作的用户。</p>
+<p><img src="https://github.com/user-attachments/assets/08f6d682-34e6-40a1-863d-c2541892a405" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/efdd6f76-972d-4b50-81c9-63dd47dd9514" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/144" target="_blank">#144</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ueli：跨平台快捷键启动器，支持 macOS/Linux/Windows]]></title>
         <id>143</id>

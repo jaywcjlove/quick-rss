@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Pearcleaner：强大而轻量的 macOS 应用卸载与清理工具](https://wangchujiang.com/quick-rss/issue/146.html) 
+
+![](https://github.com/user-attachments/assets/013fd8d9-bead-4f30-9d0d-6a0f216f9ef1)
+
+Pearcleaner 是一款免费、开源、遵循公平许可协议的 macOS 应用卸载器，灵感来自 AppCleaner 和 Sun Knudsen 的隐私指南脚本。它不仅能清理已删除应用残留的孤立文件，还支持开发缓存清理、多语言文件精简、无依赖架构瘦身、菜单栏图标、自定义主题、CLI 支持、Finder 扩展卸载等功能。内置 Sentinel 监控器可在你删除应用后自动清理残留文件，资源占用极低。  ([#146](https://github.com/jaywcjlove/quick-rss/issues/146) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [InputSourcePro：自动切换输入法加上适时的提示](https://wangchujiang.com/quick-rss/issue/145.html) 
 
 ![](https://github.com/user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0)

@@ -1,5 +1,19 @@
 [
   {
+    "id": "146",
+    "url": "https://wangchujiang.com/quick-rss/issue/146.html",
+    "title": "Pearcleaner：强大而轻量的 macOS 应用卸载与清理工具",
+    "content_html": "<p>Pearcleaner 是一款免费、开源、遵循公平许可协议的 macOS 应用卸载器，灵感来自 AppCleaner 和 Sun Knudsen 的隐私指南脚本。它不仅能清理已删除应用残留的孤立文件，还支持开发缓存清理、多语言文件精简、无依赖架构瘦身、菜单栏图标、自定义主题、CLI 支持、Finder 扩展卸载等功能。内置 Sentinel 监控器可在你删除应用后自动清理残留文件，资源占用极低。</p>\n<p><img src=\"https://github.com/user-attachments/assets/013fd8d9-bead-4f30-9d0d-6a0f216f9ef1\" alt=\"Pearcleaner\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/c92617e2-8bae-45a6-a8ba-6d3db729827b\" alt=\"Pearcleaner\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/08be5d36-91c5-42dc-964f-c23b5ec2edd6\" alt=\"Pearcleaner\"></p>\n<p>如果你在寻找一个专业、高效、极度可定制的卸载工具，Pearcleaner 是一个不容错过的选择。</p>",
+    "summary": "Pearcleaner 是一款免费、开源、遵循公平许可协议的 macOS 应用卸载器，灵感来自 AppCleaner 和 Sun Knudsen 的隐私指南脚本。它不仅能清理已删除应用残留的孤立文件，还支持开发缓存清理、多语言文件精简、无依赖架构瘦身、菜单栏图标、自定义主题、CLI 支持、Finder 扩展卸载等功能。内置 Sentinel 监控器可在你删除应用后自动清理残留文件，资源占用极低。 ",
+    "banner_image": "https://github.com/user-attachments/assets/013fd8d9-bead-4f30-9d0d-6a0f216f9ef1",
+    "date_published": "2025-06-04T10:37:46Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Pearcleaner 是一款免费、开源、遵循公平许可协议的 macOS 应用卸载器，灵感来自 AppCleaner 和 Sun Knudsen 的隐私指南脚本。它不仅能清理已删除应用残留的孤立文件，还支持开发缓存清理、多语言文件精简、无依赖架构瘦身、菜单栏图标、自定义主题、CLI 支持、Finder 扩展卸载等功能。内置 Sentinel 监控器可在你删除应用后自动清理残留文件，资源占用极低。\n\n![Pearcleaner](https://github.com/user-attachments/assets/013fd8d9-bead-4f30-9d0d-6a0f216f9ef1)\n\n![Pearcleaner](https://github.com/user-attachments/assets/c92617e2-8bae-45a6-a8ba-6d3db729827b)\n\n![Pearcleaner](https://github.com/user-attachments/assets/08be5d36-91c5-42dc-964f-c23b5ec2edd6)\n\n如果你在寻找一个专业、高效、极度可定制的卸载工具，Pearcleaner 是一个不容错过的选择。"
+  },
+  {
     "id": "145",
     "url": "https://wangchujiang.com/quick-rss/issue/145.html",
     "title": "InputSourcePro：自动切换输入法加上适时的提示",

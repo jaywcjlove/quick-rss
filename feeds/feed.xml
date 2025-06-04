@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-06-04T09:41:16.754Z</updated>
+    <updated>2025-06-04T10:38:22.065Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Pearcleaner：强大而轻量的 macOS 应用卸载与清理工具]]></title>
+        <id>146</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/146.html"/>
+        <updated>2025-06-04T10:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Pearcleaner 是一款免费、开源、遵循公平许可协议的 macOS 应用卸载器，灵感来自 AppCleaner 和 Sun Knudsen 的隐私指南脚本。它不仅能清理已删除应用残留的孤立文件，还支持开发缓存清理、多语言文件精简、无依赖架构瘦身、菜单栏图标、自定义主题、CLI 支持、Finder 扩展卸载等功能。内置 Sentinel 监控器可在你删除应用后自动清理残留文件，资源占用极低。 ]]></summary>
+        <content type="html"><![CDATA[<p>Pearcleaner 是一款免费、开源、遵循公平许可协议的 macOS 应用卸载器，灵感来自 AppCleaner 和 Sun Knudsen 的隐私指南脚本。它不仅能清理已删除应用残留的孤立文件，还支持开发缓存清理、多语言文件精简、无依赖架构瘦身、菜单栏图标、自定义主题、CLI 支持、Finder 扩展卸载等功能。内置 Sentinel 监控器可在你删除应用后自动清理残留文件，资源占用极低。</p>
+<p><img src="https://github.com/user-attachments/assets/013fd8d9-bead-4f30-9d0d-6a0f216f9ef1" alt="Pearcleaner"></p>
+<p><img src="https://github.com/user-attachments/assets/c92617e2-8bae-45a6-a8ba-6d3db729827b" alt="Pearcleaner"></p>
+<p><img src="https://github.com/user-attachments/assets/08be5d36-91c5-42dc-964f-c23b5ec2edd6" alt="Pearcleaner"></p>
+<p>如果你在寻找一个专业、高效、极度可定制的卸载工具，Pearcleaner 是一个不容错过的选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/146" target="_blank">#146</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InputSourcePro：自动切换输入法加上适时的提示]]></title>
         <id>145</id>

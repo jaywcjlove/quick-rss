@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Mousio: 用键盘即可快速移动、点击和拖动鼠标光标](https://wangchujiang.com/quick-rss/issue/147.html) 
+
+![](https://github.com/user-attachments/assets/de4ee3ea-ecc8-45e6-ade1-2c14e688872b)
+
+无需动鼠标，一切尽在指尖！使用键盘即可快速移动、点击和拖动鼠标光标。提升效率，保持专注。 📥 https://apps.apple.com/app/Mousio/6746747327 💬 https://github.com/jaywcjlove/mousio 功能特点 键盘驱动光标控制：使用快捷键即时移动和定位鼠标指针 网格导航模式：通过可调整大小的屏幕网格实现精准导航 多显示器支持：无缝在 ([#147](https://github.com/jaywcjlove/quick-rss/issues/147) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Pearcleaner：强大而轻量的 macOS 应用卸载与清理工具](https://wangchujiang.com/quick-rss/issue/146.html) 
 
 ![](https://github.com/user-attachments/assets/013fd8d9-bead-4f30-9d0d-6a0f216f9ef1)

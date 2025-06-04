@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-06-04T10:38:22.065Z</updated>
+    <updated>2025-06-04T10:44:53.163Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,63 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Mousio: 用键盘即可快速移动、点击和拖动鼠标光标]]></title>
+        <id>147</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/147.html"/>
+        <updated>2025-06-04T10:43:17.000Z</updated>
+        <summary type="html"><![CDATA[无需动鼠标，一切尽在指尖！使用键盘即可快速移动、点击和拖动鼠标光标。提升效率，保持专注。 📥 https://apps.apple.com/app/Mousio/6746747327 💬 https://github.com/jaywcjlove/mousio 功能特点 键盘驱动光标控制：使用快捷键即时移动和定位鼠标指针 网格导航模式：通过可调整大小的屏幕网格实现精准导航 多显示器支持：无缝在]]></summary>
+        <content type="html"><![CDATA[<p>无需动鼠标，一切尽在指尖！使用键盘即可快速移动、点击和拖动鼠标光标。提升效率，保持专注。</p>
+<p><img src="https://github.com/user-attachments/assets/de4ee3ea-ecc8-45e6-ade1-2c14e688872b" alt="Mousio"></p>
+<p>📥 <a href="https://apps.apple.com/app/Mousio/6746747327">https://apps.apple.com/app/Mousio/6746747327</a><br>
+💬 <a href="https://github.com/jaywcjlove/mousio">https://github.com/jaywcjlove/mousio</a></p>
+<h3>功能特点</h3>
+<ul>
+<li><strong>键盘驱动光标控制</strong>：使用快捷键即时移动和定位鼠标指针</li>
+<li><strong>网格导航模式</strong>：通过可调整大小的屏幕网格实现精准导航</li>
+<li><strong>多显示器支持</strong>：无缝在多个显示器之间移动光标</li>
+<li><strong>自定义 Dock 样式启动器</strong>：创建可自定义的 Dock 样式面板，快速访问应用或操作</li>
+</ul>
+<h3>快捷键</h3>
+<p><img src="https://github.com/user-attachments/assets/e8cf73aa-1f48-4374-bdd0-7c458a718fad" alt="Mousio"></p>
+<ul>
+<li>启用键盘鼠标模式：<kbd>Ctrl ⌃</kbd> / <kbd>Cmd ⌘</kbd> / <kbd>Opt ⌥</kbd> 双击</li>
+<li>退出键盘鼠标模式：<kbd>ESC</kbd></li>
+<li>方向键布局：
+<ul>
+<li><kbd>W ↑</kbd> <kbd>A ←</kbd> <kbd>S ↓</kbd> <kbd>D →</kbd></li>
+<li><kbd>H ←</kbd> <kbd>J ↓</kbd> <kbd>K ↑</kbd> <kbd>L →</kbd></li>
+<li><kbd>J ↓</kbd> <kbd>K ↑</kbd> <kbd>I →</kbd> <kbd>L →</kbd></li>
+</ul>
+</li>
+<li>启用网格导航模式：<kbd>C</kbd></li>
+<li>网格导航模式重置搜索：<kbd>删除 ⌫</kbd></li>
+<li>按住 <kbd>空格 ␣</kbd>，配合 <kbd>A</kbd> <kbd>S</kbd> <kbd>W</kbd> <kbd>D</kbd> 移动窗口、选中文本和移动文件</li>
+<li>鼠标左键点击：<kbd>;</kbd> 或 <kbd>:</kbd></li>
+<li>鼠标右键点击：<kbd>'</kbd> 或 <kbd>"</kbd></li>
+<li>鼠标滚轮滚动：
+<ul>
+<li>⬅️ 左滚动：<kbd>U</kbd></li>
+<li>➡️ 右滚动：<kbd>O</kbd></li>
+<li>⬇️ 下滚动：<kbd>N</kbd></li>
+<li>⬆️ 上滚动：<kbd>M</kbd></li>
+</ul>
+</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/147" target="_blank">#147</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pearcleaner：强大而轻量的 macOS 应用卸载与清理工具]]></title>
         <id>146</id>

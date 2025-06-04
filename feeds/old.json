@@ -1,5 +1,19 @@
 [
   {
+    "id": "145",
+    "url": "https://wangchujiang.com/quick-rss/issue/145.html",
+    "title": "InputSourcePro：自动切换输入法加上适时的提示",
+    "content_html": "<p>Input Source Pro 是一款免费的开源 macOS 工具，专为经常切换输入法的多语言用户设计。它可以根据当前应用甚至是特定网站自动切换输入源，大大提升输入效率和使用体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0\" alt=\"Input Source Pro1\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/fcc80883-f4e6-4f9c-b941-e58db25a9112\" alt=\"Input Source Pro2\"></p>\n<p>主要功能包括：</p>\n<ul>\n<li>🥷 智能自动切换：根据不同应用或网站自动切换输入法</li>\n<li>🐈‍⬛ 优雅的输入法指示器：在屏幕上清晰显示当前输入源，支持自定义外观</li>\n<li>⌨️ 自定义快捷键：通过配置快捷键快速切换语言输入</li>\n</ul>\n<p>这是提升多语言用户生产力的得力助手。</p>",
+    "summary": "Input Source Pro 是一款免费的开源 macOS 工具，专为经常切换输入法的多语言用户设计。它可以根据当前应用甚至是特定网站自动切换输入源，大大提升输入效率和使用体验。 主要功能包括： - 🥷 智能自动切换：根据不同应用或网站自动切换输入法 - 🐈‍⬛ 优雅的输入法指示器：在屏幕上清晰显示当前输入源，支持自定义外观 - ⌨️ 自定义快捷键：通过配置快捷键快速切换语言输入 这是提升",
+    "banner_image": "https://github.com/user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0",
+    "date_published": "2025-06-04T09:40:38Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Input Source Pro 是一款免费的开源 macOS 工具，专为经常切换输入法的多语言用户设计。它可以根据当前应用甚至是特定网站自动切换输入源，大大提升输入效率和使用体验。\n\n![Input Source Pro1](https://github.com/user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0)\n\n![Input Source Pro2](https://github.com/user-attachments/assets/fcc80883-f4e6-4f9c-b941-e58db25a9112)\n\n主要功能包括：\n\n- 🥷 智能自动切换：根据不同应用或网站自动切换输入法\n- 🐈‍⬛ 优雅的输入法指示器：在屏幕上清晰显示当前输入源，支持自定义外观\n- ⌨️ 自定义快捷键：通过配置快捷键快速切换语言输入\n\n这是提升多语言用户生产力的得力助手。"
+  },
+  {
     "id": "144",
     "url": "https://wangchujiang.com/quick-rss/issue/144.html",
     "title": "Edit：微软用 Rust 开发开源的轻量终端文本编辑器，致敬经典，焕发新生",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-05-28T13:36:59.230Z</updated>
+    <updated>2025-06-04T09:41:16.754Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,36 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[InputSourcePro：自动切换输入法加上适时的提示]]></title>
+        <id>145</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/145.html"/>
+        <updated>2025-06-04T09:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Input Source Pro 是一款免费的开源 macOS 工具，专为经常切换输入法的多语言用户设计。它可以根据当前应用甚至是特定网站自动切换输入源，大大提升输入效率和使用体验。 主要功能包括： 🥷 智能自动切换：根据不同应用或网站自动切换输入法 🐈‍⬛ 优雅的输入法指示器：在屏幕上清晰显示当前输入源，支持自定义外观 ⌨️ 自定义快捷键：通过配置快捷键快速切换语言输入 这是提升多语言用户生]]></summary>
+        <content type="html"><![CDATA[<p>Input Source Pro 是一款免费的开源 macOS 工具，专为经常切换输入法的多语言用户设计。它可以根据当前应用甚至是特定网站自动切换输入源，大大提升输入效率和使用体验。</p>
+<p><img src="https://github.com/user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0" alt="Input Source Pro1"></p>
+<p><img src="https://github.com/user-attachments/assets/fcc80883-f4e6-4f9c-b941-e58db25a9112" alt="Input Source Pro2"></p>
+<p>主要功能包括：</p>
+<ul>
+<li>🥷 智能自动切换：根据不同应用或网站自动切换输入法</li>
+<li>🐈‍⬛ 优雅的输入法指示器：在屏幕上清晰显示当前输入源，支持自定义外观</li>
+<li>⌨️ 自定义快捷键：通过配置快捷键快速切换语言输入</li>
+</ul>
+<p>这是提升多语言用户生产力的得力助手。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/145" target="_blank">#145</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Edit：微软用 Rust 开发开源的轻量终端文本编辑器，致敬经典，焕发新生]]></title>
         <id>144</id>

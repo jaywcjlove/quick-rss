@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 28 May 2025 13:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 09:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,29 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[InputSourcePro：自动切换输入法加上适时的提示]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/145.html</link>
+            <guid>145</guid>
+            <pubDate>Wed, 04 Jun 2025 09:40:38 GMT</pubDate>
+            <description><![CDATA[Input Source Pro 是一款免费的开源 macOS 工具，专为经常切换输入法的多语言用户设计。它可以根据当前应用甚至是特定网站自动切换输入源，大大提升输入效率和使用体验。 主要功能包括： 🥷 智能自动切换：根据不同应用或网站自动切换输入法 🐈‍⬛ 优雅的输入法指示器：在屏幕上清晰显示当前输入源，支持自定义外观 ⌨️ 自定义快捷键：通过配置快捷键快速切换语言输入 这是提升多语言用户生]]></description>
+            <content:encoded><![CDATA[<p>Input Source Pro 是一款免费的开源 macOS 工具，专为经常切换输入法的多语言用户设计。它可以根据当前应用甚至是特定网站自动切换输入源，大大提升输入效率和使用体验。</p>
+<p><img src="https://github.com/user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0" alt="Input Source Pro1"></p>
+<p><img src="https://github.com/user-attachments/assets/fcc80883-f4e6-4f9c-b941-e58db25a9112" alt="Input Source Pro2"></p>
+<p>主要功能包括：</p>
+<ul>
+<li>🥷 智能自动切换：根据不同应用或网站自动切换输入法</li>
+<li>🐈‍⬛ 优雅的输入法指示器：在屏幕上清晰显示当前输入源，支持自定义外观</li>
+<li>⌨️ 自定义快捷键：通过配置快捷键快速切换语言输入</li>
+</ul>
+<p>这是提升多语言用户生产力的得力助手。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/145" target="_blank">#145</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0" length="0" type="image//user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0"/>
+        </item>
         <item>
             <title><![CDATA[Edit：微软用 Rust 开发开源的轻量终端文本编辑器，致敬经典，焕发新生]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/144.html</link>

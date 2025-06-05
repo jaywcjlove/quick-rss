@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 04 Jun 2025 10:44:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 04:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stats：轻量级 macOS 系统监控工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/148.html</link>
+            <guid>148</guid>
+            <pubDate>Thu, 05 Jun 2025 04:42:33 GMT</pubDate>
+            <description><![CDATA[Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。]]></description>
+            <content:encoded><![CDATA[<p>Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。</p>
+<p><img src="https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240" alt="Stats"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/148" target="_blank">#148</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240" length="0" type="image//user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240"/>
+        </item>
         <item>
             <title><![CDATA[Mousio: 用键盘即可快速移动、点击和拖动鼠标光标]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/147.html</link>

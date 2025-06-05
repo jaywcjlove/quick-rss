@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Stats：轻量级 macOS 系统监控工具](https://wangchujiang.com/quick-rss/issue/148.html) 
+
+![](https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240)
+
+Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。 ([#148](https://github.com/jaywcjlove/quick-rss/issues/148) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Mousio: 用键盘即可快速移动、点击和拖动鼠标光标](https://wangchujiang.com/quick-rss/issue/147.html) 
 
 ![](https://github.com/user-attachments/assets/de4ee3ea-ecc8-45e6-ade1-2c14e688872b)

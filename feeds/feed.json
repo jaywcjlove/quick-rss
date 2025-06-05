@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "148",
+            "content_html": "<p>Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。</p>\n<p><img src=\"https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240\" alt=\"Stats\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/148\" target=\"_blank\">#148</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/148.html",
+            "title": "Stats：轻量级 macOS 系统监控工具",
+            "summary": "Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。",
+            "image": "https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240",
+            "date_modified": "2025-06-05T04:42:33.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "147",
             "content_html": "<p>无需动鼠标，一切尽在指尖！使用键盘即可快速移动、点击和拖动鼠标光标。提升效率，保持专注。</p>\n<p><img src=\"https://github.com/user-attachments/assets/de4ee3ea-ecc8-45e6-ade1-2c14e688872b\" alt=\"Mousio\"></p>\n<p>📥 <a href=\"https://apps.apple.com/app/Mousio/6746747327\">https://apps.apple.com/app/Mousio/6746747327</a><br>\n💬 <a href=\"https://github.com/jaywcjlove/mousio\">https://github.com/jaywcjlove/mousio</a></p>\n<h3>功能特点</h3>\n<ul>\n<li><strong>键盘驱动光标控制</strong>：使用快捷键即时移动和定位鼠标指针</li>\n<li><strong>网格导航模式</strong>：通过可调整大小的屏幕网格实现精准导航</li>\n<li><strong>多显示器支持</strong>：无缝在多个显示器之间移动光标</li>\n<li><strong>自定义 Dock 样式启动器</strong>：创建可自定义的 Dock 样式面板，快速访问应用或操作</li>\n</ul>\n<h3>快捷键</h3>\n<p><img src=\"https://github.com/user-attachments/assets/e8cf73aa-1f48-4374-bdd0-7c458a718fad\" alt=\"Mousio\"></p>\n<ul>\n<li>启用键盘鼠标模式：<kbd>Ctrl ⌃</kbd> / <kbd>Cmd ⌘</kbd> / <kbd>Opt ⌥</kbd> 双击</li>\n<li>退出键盘鼠标模式：<kbd>ESC</kbd></li>\n<li>方向键布局：\n<ul>\n<li><kbd>W ↑</kbd> <kbd>A ←</kbd> <kbd>S ↓</kbd> <kbd>D →</kbd></li>\n<li><kbd>H ←</kbd> <kbd>J ↓</kbd> <kbd>K ↑</kbd> <kbd>L →</kbd></li>\n<li><kbd>J ↓</kbd> <kbd>K ↑</kbd> <kbd>I →</kbd> <kbd>L →</kbd></li>\n</ul>\n</li>\n<li>启用网格导航模式：<kbd>C</kbd></li>\n<li>网格导航模式重置搜索：<kbd>删除 ⌫</kbd></li>\n<li>按住 <kbd>空格 ␣</kbd>，配合 <kbd>A</kbd> <kbd>S</kbd> <kbd>W</kbd> <kbd>D</kbd> 移动窗口、选中文本和移动文件</li>\n<li>鼠标左键点击：<kbd>;</kbd> 或 <kbd>:</kbd></li>\n<li>鼠标右键点击：<kbd>'</kbd> 或 <kbd>\"</kbd></li>\n<li>鼠标滚轮滚动：\n<ul>\n<li>⬅️ 左滚动：<kbd>U</kbd></li>\n<li>➡️ 右滚动：<kbd>O</kbd></li>\n<li>⬇️ 下滚动：<kbd>N</kbd></li>\n<li>⬆️ 上滚动：<kbd>M</kbd></li>\n</ul>\n</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/147\" target=\"_blank\">#147</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/147.html",

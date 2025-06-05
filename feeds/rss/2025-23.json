@@ -1,5 +1,19 @@
 [
   {
+    "id": "148",
+    "url": "https://wangchujiang.com/quick-rss/issue/148.html",
+    "title": "Stats：轻量级 macOS 系统监控工具",
+    "content_html": "<p>Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。</p>\n<p><img src=\"https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240\" alt=\"Stats\"></p>",
+    "summary": "Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。",
+    "banner_image": "https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240",
+    "date_published": "2025-06-05T04:42:33Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。\n\n![Stats](https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240)"
+  },
+  {
     "id": "147",
     "url": "https://wangchujiang.com/quick-rss/issue/147.html",
     "title": "Mousio: 用键盘即可快速移动、点击和拖动鼠标光标",

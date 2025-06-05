@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-06-04T10:44:53.163Z</updated>
+    <updated>2025-06-05T04:43:51.504Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,28 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Stats：轻量级 macOS 系统监控工具]]></title>
+        <id>148</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/148.html"/>
+        <updated>2025-06-05T04:42:33.000Z</updated>
+        <summary type="html"><![CDATA[Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。]]></summary>
+        <content type="html"><![CDATA[<p>Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。</p>
+<p><img src="https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240" alt="Stats"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/148" target="_blank">#148</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mousio: 用键盘即可快速移动、点击和拖动鼠标光标]]></title>
         <id>147</id>

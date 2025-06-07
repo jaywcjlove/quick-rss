@@ -1,5 +1,19 @@
 [
   {
+    "id": "151",
+    "url": "https://wangchujiang.com/quick-rss/issue/151.html",
+    "title": "RsyncUI – 图形化管理 rsync 的 macOS 应用",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09\" alt=\"RsyncUI\"></p>\n<p>RsyncUI 是一个基于 SwiftUI 开发的 macOS 应用，适用于 macOS Sonoma 及更高版本。它为命令行工具 rsync 提供了图形用户界面，使文件同步任务的管理和参数配置更加直观便捷。RsyncUI 本身不执行同步操作，而是通过简化 rsync 的使用流程，提高效率与易用性。</p>",
+    "summary": "RsyncUI 是一个基于 SwiftUI 开发的 macOS 应用，适用于 macOS Sonoma 及更高版本。它为命令行工具 rsync 提供了图形用户界面，使文件同步任务的管理和参数配置更加直观便捷。RsyncUI 本身不执行同步操作，而是通过简化 rsync 的使用流程，提高效率与易用性。",
+    "banner_image": "https://github.com/user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09",
+    "date_published": "2025-06-07T23:16:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![RsyncUI](https://github.com/user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09)\n\nRsyncUI 是一个基于 SwiftUI 开发的 macOS 应用，适用于 macOS Sonoma 及更高版本。它为命令行工具 rsync 提供了图形用户界面，使文件同步任务的管理和参数配置更加直观便捷。RsyncUI 本身不执行同步操作，而是通过简化 rsync 的使用流程，提高效率与易用性。"
+  },
+  {
     "id": "150",
     "url": "https://wangchujiang.com/quick-rss/issue/150.html",
     "title": "AltTab：把 Windows 风格的窗口切换带到 macOS",

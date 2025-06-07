@@ -1,0 +1,16 @@
+[
+  {
+    "id": "149",
+    "url": "https://wangchujiang.com/quick-rss/issue/149.html",
+    "title": "Rectangle：免费开源的 macOS 窗口管理利器",
+    "content_html": "<p>Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4\" alt=\"Rectangle\"></p>",
+    "summary": "Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。",
+    "banner_image": "https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4",
+    "date_published": "2025-06-07T09:33:34Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。\n\n![Rectangle](https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4)"
+  }
+]

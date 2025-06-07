@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Rectangle：免费开源的 macOS 窗口管理利器](https://wangchujiang.com/quick-rss/issue/149.html) 
+
+![](https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4)
+
+Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。 ([#149](https://github.com/jaywcjlove/quick-rss/issues/149) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Stats：轻量级 macOS 系统监控工具](https://wangchujiang.com/quick-rss/issue/148.html) 
 
 ![](https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240)

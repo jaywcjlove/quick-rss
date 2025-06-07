@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-06-07T09:34:07.750Z</updated>
+    <updated>2025-06-07T09:59:58.033Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,28 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[AltTab：把 Windows 风格的窗口切换带到 macOS]]></title>
+        <id>150</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/150.html"/>
+        <updated>2025-06-07T09:59:28.000Z</updated>
+        <summary type="html"><![CDATA[AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 Alt + Tab 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4" alt="AltTab"></p>
+<p>AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 <kbd>Alt</kbd> + <kbd>Tab</kbd> 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/150" target="_blank">#150</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rectangle：免费开源的 macOS 窗口管理利器]]></title>
         <id>149</id>

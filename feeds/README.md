@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AltTab：把 Windows 风格的窗口切换带到 macOS](https://wangchujiang.com/quick-rss/issue/150.html) 
+
+![](https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4)
+
+AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 Alt + Tab 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。 ([#150](https://github.com/jaywcjlove/quick-rss/issues/150) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Rectangle：免费开源的 macOS 窗口管理利器](https://wangchujiang.com/quick-rss/issue/149.html) 
 
 ![](https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4)

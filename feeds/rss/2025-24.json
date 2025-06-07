@@ -1,5 +1,19 @@
 [
   {
+    "id": "150",
+    "url": "https://wangchujiang.com/quick-rss/issue/150.html",
+    "title": "AltTab：把 Windows 风格的窗口切换带到 macOS",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4\" alt=\"AltTab\"></p>\n<p>AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 <kbd>Alt</kbd> + <kbd>Tab</kbd> 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。</p>",
+    "summary": "AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 Alt + Tab 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。",
+    "banner_image": "https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4",
+    "date_published": "2025-06-07T09:59:28Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![AltTab](https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4)\n\nAltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 <kbd>Alt</kbd> + <kbd>Tab</kbd> 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。"
+  },
+  {
     "id": "149",
     "url": "https://wangchujiang.com/quick-rss/issue/149.html",
     "title": "Rectangle：免费开源的 macOS 窗口管理利器",

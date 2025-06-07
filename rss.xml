@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 07 Jun 2025 09:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jun 2025 23:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RsyncUI – 图形化管理 rsync 的 macOS 应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/151.html</link>
+            <guid>151</guid>
+            <pubDate>Sat, 07 Jun 2025 23:16:32 GMT</pubDate>
+            <description><![CDATA[RsyncUI 是一个基于 SwiftUI 开发的 macOS 应用，适用于 macOS Sonoma 及更高版本。它为命令行工具 rsync 提供了图形用户界面，使文件同步任务的管理和参数配置更加直观便捷。RsyncUI 本身不执行同步操作，而是通过简化 rsync 的使用流程，提高效率与易用性。]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09" alt="RsyncUI"></p>
+<p>RsyncUI 是一个基于 SwiftUI 开发的 macOS 应用，适用于 macOS Sonoma 及更高版本。它为命令行工具 rsync 提供了图形用户界面，使文件同步任务的管理和参数配置更加直观便捷。RsyncUI 本身不执行同步操作，而是通过简化 rsync 的使用流程，提高效率与易用性。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/151" target="_blank">#151</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09" length="0" type="image//user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09"/>
+        </item>
         <item>
             <title><![CDATA[AltTab：把 Windows 风格的窗口切换带到 macOS]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/150.html</link>

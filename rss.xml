@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 07 Jun 2025 09:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jun 2025 09:59:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AltTab：把 Windows 风格的窗口切换带到 macOS]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/150.html</link>
+            <guid>150</guid>
+            <pubDate>Sat, 07 Jun 2025 09:59:28 GMT</pubDate>
+            <description><![CDATA[AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 Alt + Tab 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4" alt="AltTab"></p>
+<p>AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 <kbd>Alt</kbd> + <kbd>Tab</kbd> 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/150" target="_blank">#150</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4" length="0" type="image//user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4"/>
+        </item>
         <item>
             <title><![CDATA[Rectangle：免费开源的 macOS 窗口管理利器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/149.html</link>

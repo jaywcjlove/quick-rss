@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-06-05T04:43:51.504Z</updated>
+    <updated>2025-06-07T09:34:07.750Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,28 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Rectangle：免费开源的 macOS 窗口管理利器]]></title>
+        <id>149</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/149.html"/>
+        <updated>2025-06-07T09:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。]]></summary>
+        <content type="html"><![CDATA[<p>Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。</p>
+<p><img src="https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4" alt="Rectangle"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/149" target="_blank">#149</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stats：轻量级 macOS 系统监控工具]]></title>
         <id>148</id>

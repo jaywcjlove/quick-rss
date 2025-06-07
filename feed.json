@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "149",
+            "content_html": "<p>Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4\" alt=\"Rectangle\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/149\" target=\"_blank\">#149</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/149.html",
+            "title": "Rectangle：免费开源的 macOS 窗口管理利器",
+            "summary": "Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。",
+            "image": "https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4",
+            "date_modified": "2025-06-07T09:33:34.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "148",
             "content_html": "<p>Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。</p>\n<p><img src=\"https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240\" alt=\"Stats\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/148\" target=\"_blank\">#148</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/148.html",

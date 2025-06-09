@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Menu Bar Search：快速搜索当前应用菜单的 Alfred 工作流](https://wangchujiang.com/quick-rss/issue/152.html) 
+
+![](https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b)
+
+Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键触发。 ([#152](https://github.com/jaywcjlove/quick-rss/issues/152) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [RsyncUI – 图形化管理 rsync 的 macOS 应用](https://wangchujiang.com/quick-rss/issue/151.html) 
 
 ![](https://github.com/user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09)

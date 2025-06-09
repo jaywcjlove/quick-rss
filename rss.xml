@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 07 Jun 2025 23:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jun 2025 11:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Menu Bar Search：快速搜索当前应用菜单的 Alfred 工作流]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/152.html</link>
+            <guid>152</guid>
+            <pubDate>Mon, 09 Jun 2025 11:27:10 GMT</pubDate>
+            <description><![CDATA[Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键触发。]]></description>
+            <content:encoded><![CDATA[<p>Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键触发。</p>
+<p><img src="https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b" alt="Menu Bar Search1"></p>
+<p><img src="https://github.com/user-attachments/assets/3f470dbb-0ae1-45cf-a390-406bbacdfa19" alt="Menu Bar Search2"></p>
+<p><img src="https://github.com/user-attachments/assets/31884046-07b9-4f7c-8821-f76e425d5bf6" alt="Menu Bar Search3"></p>
+<p><img src="https://github.com/user-attachments/assets/72a468bc-66a1-4a5b-a3ae-ef4ff789209b" alt="Menu Bar Search4"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/152" target="_blank">#152</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b" length="0" type="image//user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b"/>
+        </item>
         <item>
             <title><![CDATA[RsyncUI – 图形化管理 rsync 的 macOS 应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/151.html</link>

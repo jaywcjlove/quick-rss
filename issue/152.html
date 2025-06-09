@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Bar Search：快速搜索当前应用菜单的 Alfred 工作流 Quick RSS</title>
+    <meta name="description" content="Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/152.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键">
+    <meta property="twitter:description" content="Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.1">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.1"></script>
+    <script src="../js/dark-mode.js?v=1.34.1"></script>
+    <script src="../js/markdown-style.js?v=1.34.1"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="menu-bar-search快速搜索当前应用菜单的-alfred-工作流"><a aria-hidden="true" tabindex="-1" href="#menu-bar-search快速搜索当前应用菜单的-alfred-工作流" class="anchor"><span class="icon icon-link"></span></a>Menu Bar Search：快速搜索当前应用菜单的 Alfred 工作流</h1>
+        <p>Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键触发。</p>
+        <p>
+          <img src="https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b" alt="Menu Bar Search1">
+        </p>
+        <p>
+          <img src="https://github.com/user-attachments/assets/3f470dbb-0ae1-45cf-a390-406bbacdfa19" alt="Menu Bar Search2">
+        </p>
+        <p>
+          <img src="https://github.com/user-attachments/assets/31884046-07b9-4f7c-8821-f76e425d5bf6" alt="Menu Bar Search3">
+        </p>
+        <p>
+          <img src="https://github.com/user-attachments/assets/72a468bc-66a1-4a5b-a3ae-ef4ff789209b" alt="Menu Bar Search4">
+        </p>
+        <p>👉 <a href="https://github.com/BenziAhamed/Menu-Bar-Search">https://github.com/BenziAhamed/Menu-Bar-Search</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/BenziAhamed/Menu-Bar-Search" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/152" target="_blank">#152</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.1"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.1
+    </div>
+    <script src="../js/tocbot.js?v=1.34.1"></script>
+  </body>
+</html>

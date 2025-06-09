@@ -1,5 +1,19 @@
 [
   {
+    "id": "152",
+    "url": "https://wangchujiang.com/quick-rss/issue/152.html",
+    "title": "Menu Bar Search：快速搜索当前应用菜单的 Alfred 工作流",
+    "content_html": "<p>Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键触发。</p>\n<p><img src=\"https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b\" alt=\"Menu Bar Search1\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/3f470dbb-0ae1-45cf-a390-406bbacdfa19\" alt=\"Menu Bar Search2\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/31884046-07b9-4f7c-8821-f76e425d5bf6\" alt=\"Menu Bar Search3\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/72a468bc-66a1-4a5b-a3ae-ef4ff789209b\" alt=\"Menu Bar Search4\"></p>",
+    "summary": "Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键触发。",
+    "banner_image": "https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b",
+    "date_published": "2025-06-09T11:27:10Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Menu Bar Search 是一款 Alfred 工作流，帮助你快速搜索并访问当前前台 macOS 应用的菜单项。只需输入 m 加上关键词，例如 m new tab 或 m cw（匹配“Close Window”），支持模糊匹配及快捷键触发。\n\n![Menu Bar Search1](https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b)\n\n![Menu Bar Search2](https://github.com/user-attachments/assets/3f470dbb-0ae1-45cf-a390-406bbacdfa19)\n\n![Menu Bar Search3](https://github.com/user-attachments/assets/31884046-07b9-4f7c-8821-f76e425d5bf6)\n\n![Menu Bar Search4](https://github.com/user-attachments/assets/72a468bc-66a1-4a5b-a3ae-ef4ff789209b)"
+  },
+  {
     "id": "151",
     "url": "https://wangchujiang.com/quick-rss/issue/151.html",
     "title": "RsyncUI – 图形化管理 rsync 的 macOS 应用",

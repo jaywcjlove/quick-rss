@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>国行 macOS 15.4.1 上永久启用 Apple AI，无需关闭 SIP 或运行后台服务 Quick RSS</title>
+    <meta name="description" content="一种在MacOS 15.4.1（目前测试15.5 beta 4/public beta3也可）上，无需长期运行后台服务，也无需长期禁用SIP，即可永久稳定开启中国销售Mac设备上Apple AI的方法。">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/153.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="一种在MacOS 15.4.1（目前测试15.5 beta 4/public beta3也可）上，无需长期运行后台服务，也无需长期禁用SIP，即可永久稳定开启中国销售Mac设备上Apple AI的方法。">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - 一种在MacOS 15.4.1（目前测试15.5 beta 4/public beta3也可）上，无需长期运行后台服务，也无需长期禁用SIP，即可永久稳定开启中国销售Mac设备上Apple AI的方法。">
+    <meta property="twitter:description" content="一种在MacOS 15.4.1（目前测试15.5 beta 4/public beta3也可）上，无需长期运行后台服务，也无需长期禁用SIP，即可永久稳定开启中国销售Mac设备上Apple AI的方法。">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.1">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.1">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.1"></script>
+    <script src="../js/dark-mode.js?v=1.34.1"></script>
+    <script src="../js/markdown-style.js?v=1.34.1"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="国行-macos-1541-上永久启用-apple-ai无需关闭-sip-或运行后台服务"><a aria-hidden="true" tabindex="-1" href="#国行-macos-1541-上永久启用-apple-ai无需关闭-sip-或运行后台服务" class="anchor"><span class="icon icon-link"></span></a>国行 macOS 15.4.1 上永久启用 Apple AI，无需关闭 SIP 或运行后台服务</h1>
+        <p>一种在MacOS 15.4.1（目前测试15.5 beta 4/public beta3也可）上，无需长期运行后台服务，也无需长期禁用SIP，即可永久稳定开启中国销售Mac设备上Apple AI的方法。</p>
+        <p><strong>2.0版本已上线，支持相册的“消除（Clean Up）”功能开启！</strong></p>
+        <img width="1411" alt="截屏2025-05-04 09 42 49" src="https://github.com/user-attachments/assets/eeb7a4ef-2d6d-46d5-8305-dd2daaafcd04">
+        <p>
+          TODO：
+          目前尚不知道能否实现的功能：
+        </p>
+        <ul>
+          <li>登录非AI启用区Apple ID账号（如中国区）时</li>
+          <li>外置硬盘安装macOS时</li>
+          <li>系统语言与Siri语言不一致时</li>
+        </ul>
+        <p>在<code>/private/var/db/eligibilityd/eligibility.plist</code> 这个系统文件中，有相关的代码，但目前还不知道要怎么改，才能去掉这些限制。</p>
+        <p>由于本人没有相关设备/账号，欢迎你根据现有代码进行尝试，并反馈你的测试结果。</p>
+        <h2 id="工作原理概述"><a aria-hidden="true" tabindex="-1" href="#工作原理概述" class="anchor"><span class="icon icon-link"></span></a>工作原理概述</h2>
+        <p>该脚本的主要思想是通过以下步骤尝试绕过 Apple 对 Apple 智能的启用检查：</p>
+        <ol>
+          <li>下载并执行一个<a href="https://github.com/CatMe0w/zouxian">外部的第三方脚本</a>，该脚本会暂时注入eligibiltyd，使其向系统数据库输出该机型支持AI的信息（具体功能请参考该脚本的源仓库）。</li>
+          <li>修改 <code>/private/var/db/eligibilityd/eligibility.plist</code> 这个系统文件，特别是调整其中关于设备区域码 (OS_ELIGIBILITY_INPUT_DEVICE_REGION_CODE) 和外部启动盘 (OS_ELIGIBILITY_INPUT_EXTERNAL_BOOT_DRIVE) 的检查值，禁止系统用这些参数来作为功能开启的前提条件。</li>
+          <li>通过修改文件权限和设置 <code>uchg</code> (immutable) 标记，锁定修改后的数据库文件状态。</li>
+        </ol>
+        <h2 id="前置条件"><a aria-hidden="true" tabindex="-1" href="#前置条件" class="anchor"><span class="icon icon-link"></span></a>前置条件</h2>
+        <ol>
+          <li>一台运行兼容 macOS 版本的 Mac (M1或以上CPU，macOS 15.1或以上版本)。</li>
+          <li>管理员权限，因为脚本使用 <code>sudo</code> 执行特权命令。</li>
+          <li><strong>登录iCloud的Apple ID不能是中国区</strong>（美区肯定没问题，其他区未知）。</li>
+          <li><strong>系统地区设置为“美国”，系统语言、Siri语言均设置为<code>简体中文（普通话）/中国</code>或<code>English(USA)</code>——设置为其他不支持Apple AI的区域会导致开启失败。</strong></li>
+          <li>稳定的互联网连接以下载脚本。</li>
+          <li>SIP (System Integrity Protection) 已禁用。<strong>（破解完成后可重新开启，不影响AI功能）</strong></li>
+        </ol>
+        <h2 id="执行步骤"><a aria-hidden="true" tabindex="-1" href="#执行步骤" class="anchor"><span class="icon icon-link"></span></a>执行步骤</h2>
+        <p>请严格按照以下步骤操作：</p>
+        <h3 id="步骤-1-禁用-system-integrity-protection-sip"><a aria-hidden="true" tabindex="-1" href="#步骤-1-禁用-system-integrity-protection-sip" class="anchor"><span class="icon icon-link"></span></a>步骤 1: 禁用 System Integrity Protection (SIP)</h3>
+        <p>如果 SIP 已经禁用，可以跳过此步骤。如果未禁用，您必须手动禁用它：</p>
+        <ol>
+          <li><strong>重启 Mac</strong>。</li>
+          <li>在 Mac 启动时，长按开机键，直到进入 macOS 恢复模式，途中你可能需要输入几次密码。</li>
+          <li>在屏幕顶部的菜单栏中，选择 <strong>实用工具 (Utilities)</strong> > <strong>终端 (Terminal)</strong>。</li>
+          <li>在终端窗口中，输入以下命令并按回车：
+            <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">csrutil disable
+</span></code><input type="hidden" value="csrutil disable
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+          </li>
+          <li>按y键确认，之后您会看到一条 SIP 已禁用的消息。</li>
+          <li>在终端中，输入 <code>reboot</code> 并按回车，或者从 Apple 菜单中选择 <strong>重启 (Restart)</strong> 退出恢复模式并启动 Mac。</li>
+        </ol>
+        <h3 id="步骤-2-下载并运行脚本"><a aria-hidden="true" tabindex="-1" href="#步骤-2-下载并运行脚本" class="anchor"><span class="icon icon-link"></span></a>步骤 2: 下载并运行脚本</h3>
+        <p><strong>单命令快速执行方法:</strong></p>
+        <p>如果您完全信任本脚本，可以使用以下单命令直接执行：</p>
+        <p><strong>最新2.11脚本（推荐先尝试）：</strong></p>
+        <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">curl</span> <span class="token parameter variable">-sL</span> https://raw.githubusercontent.com/kanshurichard/enableAppleAI/main/enable_ai.sh <span class="token operator">|</span> <span class="token function">bash</span>
+</span></code><input type="hidden" value="curl -sL https://raw.githubusercontent.com/kanshurichard/enableAppleAI/main/enable_ai.sh | bash
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+        <p>如果本版遇到问题，请您去提Issue。同时可以尝试2.0旧版：</p>
+        <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">curl</span> <span class="token parameter variable">-sL</span> https://raw.githubusercontent.com/kanshurichard/enableAppleAI/main/enable_ai_old.sh <span class="token operator">|</span> <span class="token function">bash</span>
+</span></code><input type="hidden" value="curl -sL https://raw.githubusercontent.com/kanshurichard/enableAppleAI/main/enable_ai_old.sh | bash
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+        <p><strong>如果在国内访问困难，请尝试以下国内加速地址：</strong></p>
+        <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">curl</span> <span class="token parameter variable">-sL</span> https://cdn.jsdelivr.net/gh/kanshurichard/enableAppleAI@main/enable_ai.sh <span class="token operator">|</span> <span class="token function">bash</span>
+</span></code><input type="hidden" value="curl -sL https://cdn.jsdelivr.net/gh/kanshurichard/enableAppleAI@main/enable_ai.sh | bash
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+        <p><strong>手动执行脚本:</strong></p>
+        <ol>
+          <li>打开 <strong>终端 (Terminal)</strong> 应用程序。</li>
+          <li>使用 <code>curl</code> 下载脚本文件到当前目录：
+            <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">curl</span> <span class="token parameter variable">-O</span> https://raw.githubusercontent.com/kanshurichard/enableAppleAI/main/enable_ai.sh
+</span></code><input type="hidden" value="curl -O https://raw.githubusercontent.com/kanshurichard/enableAppleAI/main/enable_ai.sh
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+          </li>
+          <li><strong>审查脚本内容：</strong> 使用文本编辑器或命令行工具（如 <code>cat enable_ai.sh</code>）仔细阅读下载的 <code>enable_ai.sh</code> 文件，确保您理解它将执行的操作。</li>
+          <li>赋予脚本执行权限：
+            <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">chmod</span> +x enable_ai.sh
+</span></code><input type="hidden" value="chmod +x enable_ai.sh
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+          </li>
+          <li>执行脚本：
+            <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">./enable_ai.sh
+</span></code><input type="hidden" value="./enable_ai.sh
+"><div onclick="copied(this)" class="copied"><svg class="octicon-copy" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path></svg><svg class="octicon-check" aria-hidden="true" viewBox="0 0 16 16" fill="currentColor" height="12" width="12"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg></div></pre>
+          </li>
+        </ol>
+        <h3 id="步骤-3-按照脚本提示操作"><a aria-hidden="true" tabindex="-1" href="#步骤-3-按照脚本提示操作" class="anchor"><span class="icon icon-link"></span></a>步骤 3: 按照脚本提示操作</h3>
+        <p>脚本运行过程中会输出当前执行的步骤，并可能在某个阶段暂停，提示您去“系统设置”中检查 Apple 智能是否已经显示为开启状态。</p>
+        <ul>
+          <li>如果 Apple 智能已经显示，请按 Y 键继续脚本的剩余部分。</li>
+          <li>如果 Apple 智能未显示为开启，请按 N 键，脚本会自动恢复所有已有的修改。之后您可以重试一次，或来这里提交Issues。</li>
+        </ul>
+        <h3 id="步骤-4-重启并最终确认"><a aria-hidden="true" tabindex="-1" href="#步骤-4-重启并最终确认" class="anchor"><span class="icon icon-link"></span></a>步骤 4: 重启并最终确认</h3>
+        <p>脚本完成执行后：</p>
+        <ol>
+          <li><strong>重启您的 Mac。</strong></li>
+          <li>重启后，再次前往 <strong>系统设置 (System Settings)</strong> > <strong>通用 (General)</strong> > <strong>Apple 智能 (Apple Intelligence)</strong> 检查功能状态。</li>
+          <li>如果 Apple 智能仍为开启状态，并且您希望恢复系统的安全性，<strong>强烈建议</strong>您再次进入恢复模式，执行 <code>csrutil enable</code> 命令重新启用 SIP。</li>
+        </ol>
+        <h2 id="故障排除与反馈"><a aria-hidden="true" tabindex="-1" href="#故障排除与反馈" class="anchor"><span class="icon icon-link"></span></a>故障排除与反馈</h2>
+        <ul>
+          <li>如果脚本执行过程中遇到错误，请检查终端输出的错误信息。</li>
+          <li>如果按照步骤执行后 Apple 智能未能成功启用，或者出现其他异常，您也可以在本项目的 GitHub Issues 中提交问题。</li>
+        </ul>
+        <h2 id="常见问题"><a aria-hidden="true" tabindex="-1" href="#常见问题" class="anchor"><span class="icon icon-link"></span></a>常见问题</h2>
+        <p><strong>问：如何卸载？</strong><br>答：只要在关闭SIP后，重新运行一遍脚本，到了问你是否看到AI功能出现的那一步，按“N”选否，脚本就会自动解锁所有已锁定文件。再次重启电脑后，系统就会自动用原始系统文件替代修改后的文件，相当于卸载所有对系统的更改。此时可以重新开启SIP。</p>
+        <p><strong>问：能否在登录国区账号为iCloud时开启AI？</strong><br>答：目前还不可以，但有人进行了相关尝试，并（可能）<a href="https://github.com/kanshurichard/enableAppleAI/issues/6">找到了一种变通的方法</a>。</p>
+        <p><strong>问：执行eligibilityd相关的注入代码时报错，怎么办？</strong><br>答：这个问题已有多个报告，基本都是之前运行过其他开启AI的代码，比如 <a href="https://github.com/Kyle-Ye/XcodeLLMEligible/">XcodeLLMEligible</a> 。我猜测由于该项目代码会尝试用自制程序替代系统自带的eligibilityd，导致现在代码无法注入真正的eligibilityd。请尝试用各种方式卸载之前破解残留的内容，还不行的话可能只能重装系统了。</p>
+        <p><strong>问：开启AI后，Siri调用的仍然是百度百科这类国内工具，ChatGPT也无法正常调用，怎么办？</strong><br>答：Siri并不使用机型代码，而是使用你的IP地址，判断是否调用国内服务（如百度），即使在外版机型上，也是这样的。请考虑将所有相关URL放入代理名单，如需更多帮助，可参考：<a href="https://nsringo.github.io%E3%80%82">https://nsringo.github.io。</a></p>
+        <p><strong>问：图乐园（Image Playground）无法创建图片的原因？</strong><br>答：图乐园目前不支持中文语言下创建图片，请将系统语言改为英语（美国），即可正常使用。</p>
+        <p><strong>问：是否能开启繁体中文的AI？</strong><br>答：不可以，因为Apple到目前（2025.5）为止都没有支持繁体中文AI，因而你无法下载到相关语言文件。为开启AI，请确保系统相关语言设置为简体中文（或其他受到支持的语言）。</p>
+        <p>👉 <a href="https://github.com/kanshurichard/enableAppleAI">https://github.com/kanshurichard/enableAppleAI</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/kanshurichard/enableAppleAI" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/153" target="_blank">#153</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.1"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.1
+    </div>
+    <script src="../js/tocbot.js?v=1.34.1"></script>
+  </body>
+</html>

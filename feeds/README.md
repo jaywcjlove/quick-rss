@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [国行 macOS 15.4.1 上永久启用 Apple AI，无需关闭 SIP 或运行后台服务](https://wangchujiang.com/quick-rss/issue/153.html) 
+
+![](https://github.com/user-attachments/assets/eeb7a4ef-2d6d-46d5-8305-dd2daaafcd04)
+
+一种在MacOS 15.4.1（目前测试15.5 beta 4/public beta3也可）上，无需长期运行后台服务，也无需长期禁用SIP，即可永久稳定开启中国销售Mac设备上Apple AI的方法。 2.0版本已上线，支持相册的“消除（Clean Up）”功能开启！ TODO： 目前尚不知道能否实现的功能： 登录非AI启用区Apple ID账号（如中国区）时 外置硬盘安装macOS时 系统语言 ([#153](https://github.com/jaywcjlove/quick-rss/issues/153) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Menu Bar Search：快速搜索当前应用菜单的 Alfred 工作流](https://wangchujiang.com/quick-rss/issue/152.html) 
 
 ![](https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b)

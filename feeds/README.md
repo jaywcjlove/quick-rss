@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Mousio Hint 发布，通过显示快捷键提示，帮助你用键盘快速定位鼠标指针，显著提升操作效率](https://wangchujiang.com/quick-rss/issue/154.html) 
+
+![](https://github.com/user-attachments/assets/a5392a69-611f-4925-a412-ce6d4196ba20)
+
+Mousio Hint 是一款辅助增强工具，它与主应用 Mousio 协同工作，旨在通过键盘大幅提升您的系统操作效率。 Mousio Hint 的核心功能是在屏幕上的界面元素旁生成快捷键提示。通过这些提示，您可以用键盘快速将鼠标指针移动到目标位置，完全无需手动操作鼠标。 Mousio 主应用支持在沙盒模式下运行，但 Mousio Hint 因为需要访问并定位界面元素，所以无法在沙盒环境中正常使用。 ([#154](https://github.com/jaywcjlove/quick-rss/issues/154) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [国行 macOS 15.4.1 上永久启用 Apple AI，无需关闭 SIP 或运行后台服务](https://wangchujiang.com/quick-rss/issue/153.html) 
 
 ![](https://github.com/user-attachments/assets/eeb7a4ef-2d6d-46d5-8305-dd2daaafcd04)

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "155",
+            "content_html": "<p>Sidekick 是一款专为 macOS 打造的本地 AI 应用，支持直接读取你电脑中的文件、文件夹和网页内容进行对话，无需安装任何额外软件，也无需联网。所有对话完全离线进行，保障数据隐私安全。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b074d73b-fa72-4177-9f11-908d71df9499\" alt=\"Image\"></p>\n<p>这款应用内置推理引擎，可运行本地大语言模型，同时也兼容 OpenAI API，为你提供多种模型选择。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b70eb610-5e44-4312-9fea-13274d724919\" alt=\"Image\"></p>\n<p>你可以为 Sidekick 设置多个“专家”，比如“计算机科学”“文学”“数学”等，每个专家都可以配置相关资源。Sidekick 采用 RAG（检索增强生成）技术，无论资源量多大，都能高效找到与你问题相关的信息。</p>\n<p><img src=\"https://github.com/user-attachments/assets/99f8d3be-4aa7-4c99-94f5-cebc7242488a\" alt=\"Image\"></p>\n<p>只需将文件拖入输入框，即可让 Sidekick 即刻读取内容并开始分析。若需要最新资料，也可启用网页搜索，快速获取实时信息，极大提升研究效率。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/155\" target=\"_blank\">#155</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/155.html",
+            "title": "Sidekick：你的本地 AI 助手",
+            "summary": "Sidekick 是一款专为 macOS 打造的本地 AI 应用，支持直接读取你电脑中的文件、文件夹和网页内容进行对话，无需安装任何额外软件，也无需联网。所有对话完全离线进行，保障数据隐私安全。 这款应用内置推理引擎，可运行本地大语言模型，同时也兼容 OpenAI API，为你提供多种模型选择。 你可以为 Sidekick 设置多个“专家”，比如“计算机科学”“文学”“数学”等，每个专家都可以配置",
+            "image": "https://github.com/user-attachments/assets/b074d73b-fa72-4177-9f11-908d71df9499",
+            "date_modified": "2025-06-16T17:35:06.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "154",
             "content_html": "<p>Mousio Hint 是一款辅助增强工具，它与主应用 <a href=\"https://apps.apple.com/app/Mousio/6746747327\">Mousio</a> 协同工作，旨在<strong>通过键盘大幅提升您的系统操作效率</strong>。</p>\n<p><img src=\"https://github.com/user-attachments/assets/a5392a69-611f-4925-a412-ce6d4196ba20\" alt=\"Mousio Hint\"></p>\n<p>Mousio Hint 的核心功能是在屏幕上的界面元素旁生成<strong>快捷键提示</strong>。通过这些提示，您可以用键盘快速将鼠标指针移动到目标位置，完全无需手动操作鼠标。</p>\n<p><img src=\"https://github.com/user-attachments/assets/072ffcb2-4dc8-4108-9ad8-7b2ef1faee0e\" alt=\"Mousio Hint\"></p>\n<p><a href=\"https://apps.apple.com/app/Mousio/6746747327\">Mousio</a> 主应用支持在沙盒模式下运行，但 Mousio Hint 因为需要访问并定位界面元素，所以<strong>无法在沙盒环境中正常使用</strong>。请注意，Mousio Hint 本质上是一个辅助定位工具，它通过设置与 Mousio 进行联动。</p>\n<p><img src=\"https://github.com/user-attachments/assets/eeeea670-2d91-4500-8f2d-122f77f968c0\" alt=\"Mousio Hint\"></p>\n<p>在某些应用程序中，如果系统无法完整获取所有界面元素，您可以直接使用 Mousio。在这种情况下，操作体验会更像在玩游戏，您可以<strong>精确控制鼠标光标的位置</strong>。</p>\n<p>👉 <a href=\"https://github.com/jaywcjlove/mousio-hint\">https://github.com/jaywcjlove/mousio-hint</a></p>\n<p>结合 <a href=\"https://apps.apple.com/app/Mousio/6746747327\">Mousio</a> 提供的以下强大功能：</p>\n<ul>\n<li>⌨️ 键盘滚轮控制</li>\n<li>🎯 光标精准移动</li>\n<li>🧭 网格导航与焦点定位</li>\n</ul>\n<p>您将能够实现<strong>几乎完全脱离鼠标的高效操作体验</strong>。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/154\" target=\"_blank\">#154</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/154.html",

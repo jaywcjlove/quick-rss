@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Sidekick：你的本地 AI 助手](https://wangchujiang.com/quick-rss/issue/155.html) 
+
+![](https://github.com/user-attachments/assets/b074d73b-fa72-4177-9f11-908d71df9499)
+
+Sidekick 是一款专为 macOS 打造的本地 AI 应用，支持直接读取你电脑中的文件、文件夹和网页内容进行对话，无需安装任何额外软件，也无需联网。所有对话完全离线进行，保障数据隐私安全。 这款应用内置推理引擎，可运行本地大语言模型，同时也兼容 OpenAI API，为你提供多种模型选择。 你可以为 Sidekick 设置多个“专家”，比如“计算机科学”“文学”“数学”等，每个专家都可以配置 ([#155](https://github.com/jaywcjlove/quick-rss/issues/155) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Mousio Hint 发布，通过显示快捷键提示，帮助你用键盘快速定位鼠标指针，显著提升操作效率](https://wangchujiang.com/quick-rss/issue/154.html) 
 
 ![](https://github.com/user-attachments/assets/a5392a69-611f-4925-a412-ce6d4196ba20)

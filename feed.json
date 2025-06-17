@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "156",
+            "content_html": "<p>NodePass是一款通用、轻量的TCP/UDP隧道解决方案。它基于创新的三层架构（服务端-客户端-主控）构建，优雅地实现了控制与数据通道的分离，同时提供直观的零配置命令语法。系统通过预建立连接的主动连接池消除了延迟，结合分级TLS安全选项与优化的数据传输机制，性能表现卓越。其最具特色的功能之一是TCP与UDP之间的无缝协议转换，让应用能够跨越协议受限的网络进行通信。其能够智能适应网络波动，即使在复杂环境中也能保持稳定性能，同时高效利用系统资源。无论是穿越防火墙和NAT，还是连接复杂的代理配置，它都为DevOps专业人员和系统管理员提供了一个兼具先进功能与卓越易用性的完美平衡方案。</p>\n<img width=\"721\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb\">\n<img width=\"735\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/72712c39-dff9-4f45-8dd0-b89899a1ed87\">\n<img width=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f87e233d-75d2-4482-a182-b435716b0412\">\n<img width=\"703\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5316123c-8a86-42b1-9757-df03db38585e\">\n<h2>核心功能</h2>\n<h3>🔀 多种操作模式</h3>\n<ul>\n<li>服务端模式接受传入隧道连接并提供可配置的安全选项</li>\n<li>客户端模式用于建立与隧道服务端的出站连接</li>\n<li>主控模式提供RESTful API进行动态实例管理</li>\n</ul>\n<h3>🌍 协议支持</h3>\n<ul>\n<li>TCP隧道传输与持久连接管理</li>\n<li>UDP数据报转发与可配置的缓冲区大小</li>\n<li>两种协议的智能路由机制</li>\n</ul>\n<h3>🛡️ 安全选项</h3>\n<ul>\n<li>TLS模式0：在可信网络中获得最大速度的无加密模式</li>\n<li>TLS模式1：使用自签名证书提供快速安全设置</li>\n<li>TLS模式2：使用自定义证书验证实现企业级安全</li>\n</ul>\n<h3>⚡ 性能特性</h3>\n<ul>\n<li>智能连接池，具备实时容量自适应功能</li>\n<li>基于网络状况的动态间隔调整</li>\n<li>高负载下保持最小资源占用</li>\n</ul>\n<h3>🧰 简单配置</h3>\n<ul>\n<li>零配置文件设计</li>\n<li>简洁的命令行参数</li>\n<li>环境变量支持性能精细调优</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/156\" target=\"_blank\">#156</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/156.html",
+            "title": "NodePass：开源的内网穿透工具，现已支持图形界面，提供实时隧道监控、流量统计与端点管理功能，操作更直观高效",
+            "summary": "NodePass是一款通用、轻量的TCP/UDP隧道解决方案。它基于创新的三层架构（服务端-客户端-主控）构建，优雅地实现了控制与数据通道的分离，同时提供直观的零配置命令语法。系统通过预建立连接的主动连接池消除了延迟，结合分级TLS安全选项与优化的数据传输机制，性能表现卓越。其最具特色的功能之一是TCP与UDP之间的无缝协议转换，让应用能够跨越协议受限的网络进行通信。其能够智能适应网络波动，即使在",
+            "image": "https://github.com/user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb",
+            "date_modified": "2025-06-17T03:14:51.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "155",
             "content_html": "<p>Sidekick 是一款专为 macOS 打造的本地 AI 应用，支持直接读取你电脑中的文件、文件夹和网页内容进行对话，无需安装任何额外软件，也无需联网。所有对话完全离线进行，保障数据隐私安全。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b074d73b-fa72-4177-9f11-908d71df9499\" alt=\"Image\"></p>\n<p>这款应用内置推理引擎，可运行本地大语言模型，同时也兼容 OpenAI API，为你提供多种模型选择。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b70eb610-5e44-4312-9fea-13274d724919\" alt=\"Image\"></p>\n<p>你可以为 Sidekick 设置多个“专家”，比如“计算机科学”“文学”“数学”等，每个专家都可以配置相关资源。Sidekick 采用 RAG（检索增强生成）技术，无论资源量多大，都能高效找到与你问题相关的信息。</p>\n<p><img src=\"https://github.com/user-attachments/assets/99f8d3be-4aa7-4c99-94f5-cebc7242488a\" alt=\"Image\"></p>\n<p>只需将文件拖入输入框，即可让 Sidekick 即刻读取内容并开始分析。若需要最新资料，也可启用网页搜索，快速获取实时信息，极大提升研究效率。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/155\" target=\"_blank\">#155</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/155.html",

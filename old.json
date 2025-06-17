@@ -1,5 +1,19 @@
 [
   {
+    "id": "156",
+    "url": "https://wangchujiang.com/quick-rss/issue/156.html",
+    "title": "NodePass：开源的内网穿透工具，现已支持图形界面，提供实时隧道监控、流量统计与端点管理功能，操作更直观高效",
+    "content_html": "<p>NodePass是一款通用、轻量的TCP/UDP隧道解决方案。它基于创新的三层架构（服务端-客户端-主控）构建，优雅地实现了控制与数据通道的分离，同时提供直观的零配置命令语法。系统通过预建立连接的主动连接池消除了延迟，结合分级TLS安全选项与优化的数据传输机制，性能表现卓越。其最具特色的功能之一是TCP与UDP之间的无缝协议转换，让应用能够跨越协议受限的网络进行通信。其能够智能适应网络波动，即使在复杂环境中也能保持稳定性能，同时高效利用系统资源。无论是穿越防火墙和NAT，还是连接复杂的代理配置，它都为DevOps专业人员和系统管理员提供了一个兼具先进功能与卓越易用性的完美平衡方案。</p>\n<img width=\"721\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb\">\n<img width=\"735\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/72712c39-dff9-4f45-8dd0-b89899a1ed87\">\n<img width=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f87e233d-75d2-4482-a182-b435716b0412\">\n<img width=\"703\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5316123c-8a86-42b1-9757-df03db38585e\">\n<h2>核心功能</h2>\n<h3>🔀 多种操作模式</h3>\n<ul>\n<li>服务端模式接受传入隧道连接并提供可配置的安全选项</li>\n<li>客户端模式用于建立与隧道服务端的出站连接</li>\n<li>主控模式提供RESTful API进行动态实例管理</li>\n</ul>\n<h3>🌍 协议支持</h3>\n<ul>\n<li>TCP隧道传输与持久连接管理</li>\n<li>UDP数据报转发与可配置的缓冲区大小</li>\n<li>两种协议的智能路由机制</li>\n</ul>\n<h3>🛡️ 安全选项</h3>\n<ul>\n<li>TLS模式0：在可信网络中获得最大速度的无加密模式</li>\n<li>TLS模式1：使用自签名证书提供快速安全设置</li>\n<li>TLS模式2：使用自定义证书验证实现企业级安全</li>\n</ul>\n<h3>⚡ 性能特性</h3>\n<ul>\n<li>智能连接池，具备实时容量自适应功能</li>\n<li>基于网络状况的动态间隔调整</li>\n<li>高负载下保持最小资源占用</li>\n</ul>\n<h3>🧰 简单配置</h3>\n<ul>\n<li>零配置文件设计</li>\n<li>简洁的命令行参数</li>\n<li>环境变量支持性能精细调优</li>\n</ul>",
+    "summary": "NodePass是一款通用、轻量的TCP/UDP隧道解决方案。它基于创新的三层架构（服务端-客户端-主控）构建，优雅地实现了控制与数据通道的分离，同时提供直观的零配置命令语法。系统通过预建立连接的主动连接池消除了延迟，结合分级TLS安全选项与优化的数据传输机制，性能表现卓越。其最具特色的功能之一是TCP与UDP之间的无缝协议转换，让应用能够跨越协议受限的网络进行通信。其能够智能适应网络波动，即使在",
+    "banner_image": null,
+    "date_published": "2025-06-17T03:14:51Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "NodePass是一款通用、轻量的TCP/UDP隧道解决方案。它基于创新的三层架构（服务端-客户端-主控）构建，优雅地实现了控制与数据通道的分离，同时提供直观的零配置命令语法。系统通过预建立连接的主动连接池消除了延迟，结合分级TLS安全选项与优化的数据传输机制，性能表现卓越。其最具特色的功能之一是TCP与UDP之间的无缝协议转换，让应用能够跨越协议受限的网络进行通信。其能够智能适应网络波动，即使在复杂环境中也能保持稳定性能，同时高效利用系统资源。无论是穿越防火墙和NAT，还是连接复杂的代理配置，它都为DevOps专业人员和系统管理员提供了一个兼具先进功能与卓越易用性的完美平衡方案。\n\n<img width=\"721\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb\" />\n\n<img width=\"735\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/72712c39-dff9-4f45-8dd0-b89899a1ed87\" />\n\n<img width=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f87e233d-75d2-4482-a182-b435716b0412\" />\n\n<img width=\"703\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5316123c-8a86-42b1-9757-df03db38585e\" />\n\n## 核心功能\n\n### 🔀 多种操作模式\n\n- 服务端模式接受传入隧道连接并提供可配置的安全选项\n- 客户端模式用于建立与隧道服务端的出站连接\n- 主控模式提供RESTful API进行动态实例管理\n\n###  🌍 协议支持\n\n- TCP隧道传输与持久连接管理\n- UDP数据报转发与可配置的缓冲区大小\n- 两种协议的智能路由机制\n\n###  🛡️ 安全选项\n\n- TLS模式0：在可信网络中获得最大速度的无加密模式\n- TLS模式1：使用自签名证书提供快速安全设置\n- TLS模式2：使用自定义证书验证实现企业级安全\n\n###  ⚡ 性能特性\n\n- 智能连接池，具备实时容量自适应功能\n- 基于网络状况的动态间隔调整\n- 高负载下保持最小资源占用\n\n###  🧰 简单配置\n\n- 零配置文件设计\n- 简洁的命令行参数\n- 环境变量支持性能精细调优"
+  },
+  {
     "id": "155",
     "url": "https://wangchujiang.com/quick-rss/issue/155.html",
     "title": "Sidekick：你的本地 AI 助手",

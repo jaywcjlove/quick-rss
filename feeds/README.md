@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [NodePass：开源的内网穿透工具，现已支持图形界面，提供实时隧道监控、流量统计与端点管理功能，操作更直观高效](https://wangchujiang.com/quick-rss/issue/156.html) 
+
+![](https://github.com/user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb)
+
+NodePass是一款通用、轻量的TCP/UDP隧道解决方案。它基于创新的三层架构（服务端-客户端-主控）构建，优雅地实现了控制与数据通道的分离，同时提供直观的零配置命令语法。系统通过预建立连接的主动连接池消除了延迟，结合分级TLS安全选项与优化的数据传输机制，性能表现卓越。其最具特色的功能之一是TCP与UDP之间的无缝协议转换，让应用能够跨越协议受限的网络进行通信。其能够智能适应网络波动，即使在 ([#156](https://github.com/jaywcjlove/quick-rss/issues/156) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Sidekick：你的本地 AI 助手](https://wangchujiang.com/quick-rss/issue/155.html) 
 
 ![](https://github.com/user-attachments/assets/b074d73b-fa72-4177-9f11-908d71df9499)

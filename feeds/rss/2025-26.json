@@ -1,0 +1,16 @@
+[
+  {
+    "id": "157",
+    "url": "https://wangchujiang.com/quick-rss/issue/157.html",
+    "title": "IINA — 专为 macOS 打造的现代视频播放器",
+    "content_html": "<p>IINA 是一款专为 macOS 设计的现代视频播放器，基于强大的 mpv 内核，提供出色的视频解码能力，支持 macOS 10.15 及以上版本。IINA 拥有丰富的功能，包括字幕支持、播放列表、章节导航、画中画、触控栏高级支持、自定义界面与配色方案、独立的音乐模式、视频缩略图、在线字幕搜索与智能匹配、播放历史记录以及便捷的音视频滤镜调节。</p>\n<img width=\"728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35\">\n<img width=\"755\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ae4984e0-2f2a-47aa-96c0-c6ccd63d0866\">\n<p>用户还可以根据个人习惯自定义键盘、鼠标、触控板和手势操作。对于高级用户，IINA 也支持 mpv 配置文件和脚本扩展，同时还提供命令行工具与浏览器扩展插件。作为一款持续更新中的开源项目，IINA 是 macOS 用户观看视频和聆听音乐的理想选择。</p>",
+    "summary": "IINA 是一款专为 macOS 设计的现代视频播放器，基于强大的 mpv 内核，提供出色的视频解码能力，支持 macOS 10.15 及以上版本。IINA 拥有丰富的功能，包括字幕支持、播放列表、章节导航、画中画、触控栏高级支持、自定义界面与配色方案、独立的音乐模式、视频缩略图、在线字幕搜索与智能匹配、播放历史记录以及便捷的音视频滤镜调节。 用户还可以根据个人习惯自定义键盘、鼠标、触控板和手势操",
+    "banner_image": null,
+    "date_published": "2025-06-22T05:01:10Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "IINA 是一款专为 macOS 设计的现代视频播放器，基于强大的 mpv 内核，提供出色的视频解码能力，支持 macOS 10.15 及以上版本。IINA 拥有丰富的功能，包括字幕支持、播放列表、章节导航、画中画、触控栏高级支持、自定义界面与配色方案、独立的音乐模式、视频缩略图、在线字幕搜索与智能匹配、播放历史记录以及便捷的音视频滤镜调节。\n\n<img width=\"728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35\" />\n\n<img width=\"755\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ae4984e0-2f2a-47aa-96c0-c6ccd63d0866\" />\n\n用户还可以根据个人习惯自定义键盘、鼠标、触控板和手势操作。对于高级用户，IINA 也支持 mpv 配置文件和脚本扩展，同时还提供命令行工具与浏览器扩展插件。作为一款持续更新中的开源项目，IINA 是 macOS 用户观看视频和聆听音乐的理想选择。"
+  }
+]

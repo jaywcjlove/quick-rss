@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [IINA — 专为 macOS 打造的现代视频播放器](https://wangchujiang.com/quick-rss/issue/157.html) 
+
+![](https://github.com/user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35)
+
+IINA 是一款专为 macOS 设计的现代视频播放器，基于强大的 mpv 内核，提供出色的视频解码能力，支持 macOS 10.15 及以上版本。IINA 拥有丰富的功能，包括字幕支持、播放列表、章节导航、画中画、触控栏高级支持、自定义界面与配色方案、独立的音乐模式、视频缩略图、在线字幕搜索与智能匹配、播放历史记录以及便捷的音视频滤镜调节。 用户还可以根据个人习惯自定义键盘、鼠标、触控板和手势操 ([#157](https://github.com/jaywcjlove/quick-rss/issues/157) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [NodePass：开源的内网穿透工具，现已支持图形界面，提供实时隧道监控、流量统计与端点管理功能，操作更直观高效](https://wangchujiang.com/quick-rss/issue/156.html) 
 
 ![](https://github.com/user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb)

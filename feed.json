@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "157",
+            "content_html": "<p>IINA 是一款专为 macOS 设计的现代视频播放器，基于强大的 mpv 内核，提供出色的视频解码能力，支持 macOS 10.15 及以上版本。IINA 拥有丰富的功能，包括字幕支持、播放列表、章节导航、画中画、触控栏高级支持、自定义界面与配色方案、独立的音乐模式、视频缩略图、在线字幕搜索与智能匹配、播放历史记录以及便捷的音视频滤镜调节。</p>\n<img width=\"728\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35\">\n<img width=\"755\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ae4984e0-2f2a-47aa-96c0-c6ccd63d0866\">\n<p>用户还可以根据个人习惯自定义键盘、鼠标、触控板和手势操作。对于高级用户，IINA 也支持 mpv 配置文件和脚本扩展，同时还提供命令行工具与浏览器扩展插件。作为一款持续更新中的开源项目，IINA 是 macOS 用户观看视频和聆听音乐的理想选择。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/157\" target=\"_blank\">#157</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/157.html",
+            "title": "IINA — 专为 macOS 打造的现代视频播放器",
+            "summary": "IINA 是一款专为 macOS 设计的现代视频播放器，基于强大的 mpv 内核，提供出色的视频解码能力，支持 macOS 10.15 及以上版本。IINA 拥有丰富的功能，包括字幕支持、播放列表、章节导航、画中画、触控栏高级支持、自定义界面与配色方案、独立的音乐模式、视频缩略图、在线字幕搜索与智能匹配、播放历史记录以及便捷的音视频滤镜调节。 用户还可以根据个人习惯自定义键盘、鼠标、触控板和手势操",
+            "image": "https://github.com/user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35",
+            "date_modified": "2025-06-22T05:01:10.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "156",
             "content_html": "<p>NodePass是一款通用、轻量的TCP/UDP隧道解决方案。它基于创新的三层架构（服务端-客户端-主控）构建，优雅地实现了控制与数据通道的分离，同时提供直观的零配置命令语法。系统通过预建立连接的主动连接池消除了延迟，结合分级TLS安全选项与优化的数据传输机制，性能表现卓越。其最具特色的功能之一是TCP与UDP之间的无缝协议转换，让应用能够跨越协议受限的网络进行通信。其能够智能适应网络波动，即使在复杂环境中也能保持稳定性能，同时高效利用系统资源。无论是穿越防火墙和NAT，还是连接复杂的代理配置，它都为DevOps专业人员和系统管理员提供了一个兼具先进功能与卓越易用性的完美平衡方案。</p>\n<img width=\"721\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb\">\n<img width=\"735\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/72712c39-dff9-4f45-8dd0-b89899a1ed87\">\n<img width=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f87e233d-75d2-4482-a182-b435716b0412\">\n<img width=\"703\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5316123c-8a86-42b1-9757-df03db38585e\">\n<h2>核心功能</h2>\n<h3>🔀 多种操作模式</h3>\n<ul>\n<li>服务端模式接受传入隧道连接并提供可配置的安全选项</li>\n<li>客户端模式用于建立与隧道服务端的出站连接</li>\n<li>主控模式提供RESTful API进行动态实例管理</li>\n</ul>\n<h3>🌍 协议支持</h3>\n<ul>\n<li>TCP隧道传输与持久连接管理</li>\n<li>UDP数据报转发与可配置的缓冲区大小</li>\n<li>两种协议的智能路由机制</li>\n</ul>\n<h3>🛡️ 安全选项</h3>\n<ul>\n<li>TLS模式0：在可信网络中获得最大速度的无加密模式</li>\n<li>TLS模式1：使用自签名证书提供快速安全设置</li>\n<li>TLS模式2：使用自定义证书验证实现企业级安全</li>\n</ul>\n<h3>⚡ 性能特性</h3>\n<ul>\n<li>智能连接池，具备实时容量自适应功能</li>\n<li>基于网络状况的动态间隔调整</li>\n<li>高负载下保持最小资源占用</li>\n</ul>\n<h3>🧰 简单配置</h3>\n<ul>\n<li>零配置文件设计</li>\n<li>简洁的命令行参数</li>\n<li>环境变量支持性能精细调优</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/156\" target=\"_blank\">#156</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/156.html",

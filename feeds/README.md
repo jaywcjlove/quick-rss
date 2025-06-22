@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Gifski — 高质量 GIF 制作工具](https://wangchujiang.com/quick-rss/issue/158.html) 
+
+![](https://github.com/user-attachments/assets/af45e706-be4a-4e87-8d05-5f293e8d5beb)
+
+Gifski 是一款 macOS 上的高质量 GIF 转换工具，基于 gifski 编码器，利用 pngquant 的高级功能（如跨帧调色板和时间抖动）高效地将视频转换为色彩丰富、流畅的 GIF 动画，支持最高 50 FPS，非常适合在 Dribbble 等平台展示设计作品。 它支持 macOS 系统支持的视频格式（如 .mp4、.mov，编码为 H264、HEVC、ProRes 等），并且提供了 ([#158](https://github.com/jaywcjlove/quick-rss/issues/158) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [IINA — 专为 macOS 打造的现代视频播放器](https://wangchujiang.com/quick-rss/issue/157.html) 
 
 ![](https://github.com/user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35)

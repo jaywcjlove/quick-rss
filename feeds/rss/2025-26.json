@@ -1,5 +1,19 @@
 [
   {
+    "id": "158",
+    "url": "https://wangchujiang.com/quick-rss/issue/158.html",
+    "title": "Gifski — 高质量 GIF 制作工具",
+    "content_html": "<p>Gifski 是一款 macOS 上的高质量 GIF 转换工具，基于 gifski 编码器，利用 pngquant 的高级功能（如跨帧调色板和时间抖动）高效地将视频转换为色彩丰富、流畅的 GIF 动画，支持最高 50 FPS，非常适合在 Dribbble 等平台展示设计作品。</p>\n<p><img src=\"https://github.com/user-attachments/assets/af45e706-be4a-4e87-8d05-5f293e8d5beb\" alt=\"Image\"></p>\n<p>它支持 macOS 系统支持的视频格式（如 .mp4、.mov，编码为 H264、HEVC、ProRes 等），并且提供了丰富的参数设置，包括尺寸调整、播放速度、帧率、画质、循环模式、反向播放（Bounce 效果）等，灵活满足不同需求。</p>\n<p><img src=\"https://github.com/user-attachments/assets/15267ddb-fd44-44a9-a889-809ea7601a77\" alt=\"Image\"></p>\n<p>Gifski 还内置分享扩展和系统服务，用户可直接通过 macOS 的“共享”菜单或“服务”菜单快速将视频转换为 GIF，支持屏幕录制分享，操作便捷。</p>\n<p>如果你正在寻找一款高效且支持丰富调节选项的 GIF 制作工具，Gifski 是非常值得推荐的选择。</p>",
+    "summary": "Gifski 是一款 macOS 上的高质量 GIF 转换工具，基于 gifski 编码器，利用 pngquant 的高级功能（如跨帧调色板和时间抖动）高效地将视频转换为色彩丰富、流畅的 GIF 动画，支持最高 50 FPS，非常适合在 Dribbble 等平台展示设计作品。 它支持 macOS 系统支持的视频格式（如 .mp4、.mov，编码为 H264、HEVC、ProRes 等），并且提供了",
+    "banner_image": "https://github.com/user-attachments/assets/af45e706-be4a-4e87-8d05-5f293e8d5beb",
+    "date_published": "2025-06-22T05:08:31Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Gifski 是一款 macOS 上的高质量 GIF 转换工具，基于 gifski 编码器，利用 pngquant 的高级功能（如跨帧调色板和时间抖动）高效地将视频转换为色彩丰富、流畅的 GIF 动画，支持最高 50 FPS，非常适合在 Dribbble 等平台展示设计作品。\n\n![Image](https://github.com/user-attachments/assets/af45e706-be4a-4e87-8d05-5f293e8d5beb)\n\n它支持 macOS 系统支持的视频格式（如 .mp4、.mov，编码为 H264、HEVC、ProRes 等），并且提供了丰富的参数设置，包括尺寸调整、播放速度、帧率、画质、循环模式、反向播放（Bounce 效果）等，灵活满足不同需求。\n\n![Image](https://github.com/user-attachments/assets/15267ddb-fd44-44a9-a889-809ea7601a77)\n\nGifski 还内置分享扩展和系统服务，用户可直接通过 macOS 的“共享”菜单或“服务”菜单快速将视频转换为 GIF，支持屏幕录制分享，操作便捷。\n\n如果你正在寻找一款高效且支持丰富调节选项的 GIF 制作工具，Gifski 是非常值得推荐的选择。"
+  },
+  {
     "id": "157",
     "url": "https://wangchujiang.com/quick-rss/issue/157.html",
     "title": "IINA — 专为 macOS 打造的现代视频播放器",

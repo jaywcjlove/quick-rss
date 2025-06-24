@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MountMate：一款简单高效的 macOS 菜单栏外接硬盘管理工具](https://wangchujiang.com/quick-rss/issue/161.html) 
+
+![](https://github.com/user-attachments/assets/b439b119-2b41-4e56-95ae-75ddd3cce918)
+
+对于经常连接外接硬盘的 Mac 用户来说，持续不断的磁盘噪音和系统卡顿一直是个令人头疼的问题。MountMate 正是为了解决这一痛点而诞生——这是一款干净、轻量、原生的 macOS 工具，专注于一件事：让用户轻松管理外接磁盘，优化使用体验。 🧩 什么是 MountMate？ MountMate 是一款极简风格的 macOS 菜单栏应用，提供一键挂载/卸载外接磁盘的功能。用户无需再打开“磁盘工具 ([#161](https://github.com/jaywcjlove/quick-rss/issues/161) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Vidwall 发布！支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸，拖拽视频即可一键美化桌面，让你的桌面动起来，焕发更多乐趣！](https://wangchujiang.com/quick-rss/issue/160.html) 
 
 ![](https://github.com/user-attachments/assets/0d470fd4-a4cd-4703-b258-fccdf6656af9)

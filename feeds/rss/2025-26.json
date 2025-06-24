@@ -1,5 +1,19 @@
 [
   {
+    "id": "160",
+    "url": "https://wangchujiang.com/quick-rss/issue/160.html",
+    "title": "Vidwall 发布！支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸，拖拽视频即可一键美化桌面，让你的桌面动起来，焕发更多乐趣！",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/0d470fd4-a4cd-4703-b258-fccdf6656af9\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/174c61bf-df25-4d55-a0b2-42d06cc50d58\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/1831b570-f05e-4b4e-801c-09be9edca28e\" alt=\"Image\"></p>\n<p>将 4K 视频设置为动态桌面壁纸，支持 MP4、MOV 格式。\n只需将视频拖拽到应用界面，点击即可应用为动态壁纸。</p>\n<p>为桌面设置动态壁纸，让桌面更加生动有趣！</p>",
+    "summary": "将 4K 视频设置为动态桌面壁纸，支持 MP4、MOV 格式。 只需将视频拖拽到应用界面，点击即可应用为动态壁纸。 为桌面设置动态壁纸，让桌面更加生动有趣！",
+    "banner_image": "https://github.com/user-attachments/assets/0d470fd4-a4cd-4703-b258-fccdf6656af9",
+    "date_published": "2025-06-24T13:55:53Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![Image](https://github.com/user-attachments/assets/0d470fd4-a4cd-4703-b258-fccdf6656af9)\n\n![Image](https://github.com/user-attachments/assets/174c61bf-df25-4d55-a0b2-42d06cc50d58)\n\n![Image](https://github.com/user-attachments/assets/1831b570-f05e-4b4e-801c-09be9edca28e)\n\n\n将 4K 视频设置为动态桌面壁纸，支持 MP4、MOV 格式。\n只需将视频拖拽到应用界面，点击即可应用为动态壁纸。\n\n为桌面设置动态壁纸，让桌面更加生动有趣！"
+  },
+  {
     "id": "159",
     "url": "https://wangchujiang.com/quick-rss/issue/159.html",
     "title": "Monet Vision 一个可进行多模型比较的图片生成器",

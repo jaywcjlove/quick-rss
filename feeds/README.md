@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Vidwall 发布！支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸，拖拽视频即可一键美化桌面，让你的桌面动起来，焕发更多乐趣！](https://wangchujiang.com/quick-rss/issue/160.html) 
+
+![](https://github.com/user-attachments/assets/0d470fd4-a4cd-4703-b258-fccdf6656af9)
+
+将 4K 视频设置为动态桌面壁纸，支持 MP4、MOV 格式。 只需将视频拖拽到应用界面，点击即可应用为动态壁纸。 为桌面设置动态壁纸，让桌面更加生动有趣！ ([#160](https://github.com/jaywcjlove/quick-rss/issues/160) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Monet Vision 一个可进行多模型比较的图片生成器](https://wangchujiang.com/quick-rss/issue/159.html) 
 
 ![](https://github.com/user-attachments/assets/13487661-bf67-46b0-a289-57d14bee431f)

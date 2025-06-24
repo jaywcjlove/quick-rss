@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 22 Jun 2025 05:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 13:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,51 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monet Vision 一个可进行多模型比较的图片生成器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/159.html</link>
+            <guid>159</guid>
+            <pubDate>Tue, 24 Jun 2025 03:54:45 GMT</pubDate>
+            <description><![CDATA[一个可进行多模型比较的图片生成器 ✨ 核心特色 🚀 多模型集成 集成业界顶尖的AI图像生成引擎，包括： GPT-4o - OpenAI最新多模态模型 Flux系列 - 高质量艺术风格生成 Imagen系列 - Google先进图像合成技术 Stable Diffusion - 开源社区首选模型 📐 智能尺寸适配 内置主流图片规格预设，满足不同应用场景： 社交媒体标准尺寸 电商产品展示规格 品牌]]></description>
+            <content:encoded><![CDATA[<h2>一个可进行多模型比较的图片生成器</h2>
+<p>✨ 核心特色
+🚀 多模型集成 集成业界顶尖的AI图像生成引擎，包括：</p>
+<p><img src="https://github.com/user-attachments/assets/13487661-bf67-46b0-a289-57d14bee431f" alt="Image"></p>
+<ul>
+<li>GPT-4o - OpenAI最新多模态模型</li>
+<li>Flux系列 - 高质量艺术风格生成</li>
+<li>Imagen系列 - Google先进图像合成技术</li>
+<li>Stable Diffusion - 开源社区首选模型</li>
+</ul>
+<p>📐 智能尺寸适配 内置主流图片规格预设，满足不同应用场景：</p>
+<ul>
+<li>社交媒体标准尺寸</li>
+<li>电商产品展示规格</li>
+<li>品牌视觉设计比例</li>
+<li>自定义尺寸支持</li>
+</ul>
+<p>⚡ 并行对比生成 一键启动多模型同时创作，实时对比不同AI引擎的表现：</p>
+<p><img src="https://github.com/user-attachments/assets/919be0c3-d4c4-4e8d-a85a-ee6b57dfa405" alt="Image"></p>
+<ul>
+<li>并行处理，提升创作效率</li>
+<li>直观对比，选择最佳结果</li>
+<li>风格差异一目了然</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/259e7e32-b7b6-4b95-8aa8-1e6038e7a183" alt="Image"></p>
+<p>🎯 智能后期编辑 生成结果可进行专业级二次优化：</p>
+<p><img src="https://github.com/user-attachments/assets/3e12a8bb-a420-4ec0-941e-64b8d6eecb94" alt="Image"></p>
+<ul>
+<li>AI驱动的图像增强</li>
+<li>细节调整与风格微调</li>
+<li>创意元素添加与修改</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/159" target="_blank">#159</a> • 
+      <a href="https://github.com/seekton" target="_blank">@seekton</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/13487661-bf67-46b0-a289-57d14bee431f" length="0" type="image//user-attachments/assets/13487661-bf67-46b0-a289-57d14bee431f"/>
+        </item>
         <item>
             <title><![CDATA[Gifski — 高质量 GIF 制作工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/158.html</link>

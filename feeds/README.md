@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Monet Vision 一个可进行多模型比较的图片生成器](https://wangchujiang.com/quick-rss/issue/159.html) 
+
+![](https://github.com/user-attachments/assets/13487661-bf67-46b0-a289-57d14bee431f)
+
+一个可进行多模型比较的图片生成器 ✨ 核心特色 🚀 多模型集成 集成业界顶尖的AI图像生成引擎，包括： GPT-4o - OpenAI最新多模态模型 Flux系列 - 高质量艺术风格生成 Imagen系列 - Google先进图像合成技术 Stable Diffusion - 开源社区首选模型 📐 智能尺寸适配 内置主流图片规格预设，满足不同应用场景： 社交媒体标准尺寸 电商产品展示规格 品牌 ([#159](https://github.com/jaywcjlove/quick-rss/issues/159) - [@seekton](https://github.com/seekton))
 ## [Gifski — 高质量 GIF 制作工具](https://wangchujiang.com/quick-rss/issue/158.html) 
 
 ![](https://github.com/user-attachments/assets/af45e706-be4a-4e87-8d05-5f293e8d5beb)

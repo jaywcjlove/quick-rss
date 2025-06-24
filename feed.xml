@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-06-24T13:52:21.378Z</updated>
+    <updated>2025-06-24T13:56:36.273Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,32 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Vidwall 发布！支持将 4K 视频（MP4、MOV 格式）设置为动态壁纸，拖拽视频即可一键美化桌面，让你的桌面动起来，焕发更多乐趣！]]></title>
+        <id>160</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/160.html"/>
+        <updated>2025-06-24T13:55:53.000Z</updated>
+        <summary type="html"><![CDATA[将 4K 视频设置为动态桌面壁纸，支持 MP4、MOV 格式。 只需将视频拖拽到应用界面，点击即可应用为动态壁纸。 为桌面设置动态壁纸，让桌面更加生动有趣！]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/0d470fd4-a4cd-4703-b258-fccdf6656af9" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/174c61bf-df25-4d55-a0b2-42d06cc50d58" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/1831b570-f05e-4b4e-801c-09be9edca28e" alt="Image"></p>
+<p>将 4K 视频设置为动态桌面壁纸，支持 MP4、MOV 格式。
+只需将视频拖拽到应用界面，点击即可应用为动态壁纸。</p>
+<p>为桌面设置动态壁纸，让桌面更加生动有趣！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/160" target="_blank">#160</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monet Vision 一个可进行多模型比较的图片生成器]]></title>
         <id>159</id>

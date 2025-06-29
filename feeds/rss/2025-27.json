@@ -1,0 +1,16 @@
+[
+  {
+    "id": "162",
+    "url": "https://wangchujiang.com/quick-rss/issue/162.html",
+    "title": "SuperCorners — 让你的 Mac 屏幕角落焕发新生",
+    "content_html": "<p>SuperCorners 是一款 macOS 应用，基于系统的「热角」功能进行增强。相比原生功能，它提供了更多触发区域、更灵活的控制以及更智能的自动化，让每一个屏幕角落都成为你高效工作的利器。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e3abd4a3-e977-44ca-97c4-6a49bf90f8cd\" alt=\"SuperCorners\"></p>\n<h3>主要功能特色：</h3>\n<ul>\n<li>额外触发区域：不仅仅是四个角，还可以在屏幕边缘中部触发动作</li>\n<li>启动应用：直接从角落/边缘快速启动常用应用</li>\n<li>运行快捷指令：集成 macOS 快捷指令，一步执行自动化</li>\n<li>打开文件与文件夹：无需繁琐操作，快速访问常用资源</li>\n<li>运行 AppleScript 或 Shell 脚本：极客必备，效率工具再提升</li>\n<li>打开网页：将任意网址绑定到屏幕角落</li>\n<li>执行系统命令：锁屏、睡眠等系统操作一触即发</li>\n<li>内置工具访问：快速启动工具，提高操作效率</li>\n<li>菜单栏组件：所有角落动作集中管理，随时掌控</li>\n<li>视觉反馈：轻量提示通知，明确每一步操作状态</li>\n<li>高度可配置：按需启用/禁用任意角落或区域，自定义行为</li>\n<li>原生开发体验：使用 Swift 与 SwiftUI 构建，体验丝滑，完美融入 macOS</li>\n</ul>",
+    "summary": "SuperCorners 是一款 macOS 应用，基于系统的「热角」功能进行增强。相比原生功能，它提供了更多触发区域、更灵活的控制以及更智能的自动化，让每一个屏幕角落都成为你高效工作的利器。 ### 主要功能特色： - 额外触发区域：不仅仅是四个角，还可以在屏幕边缘中部触发动作 - 启动应用：直接从角落/边缘快速启动常用应用 - 运行快捷指令：集成 macOS 快捷指令，一步执行自动化 - 打开",
+    "banner_image": "https://github.com/user-attachments/assets/e3abd4a3-e977-44ca-97c4-6a49bf90f8cd",
+    "date_published": "2025-06-29T10:25:45Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "SuperCorners 是一款 macOS 应用，基于系统的「热角」功能进行增强。相比原生功能，它提供了更多触发区域、更灵活的控制以及更智能的自动化，让每一个屏幕角落都成为你高效工作的利器。\n\n![SuperCorners](https://github.com/user-attachments/assets/e3abd4a3-e977-44ca-97c4-6a49bf90f8cd)\n\n### 主要功能特色：\n\n- 额外触发区域：不仅仅是四个角，还可以在屏幕边缘中部触发动作\n- 启动应用：直接从角落/边缘快速启动常用应用\n- 运行快捷指令：集成 macOS 快捷指令，一步执行自动化\n- 打开文件与文件夹：无需繁琐操作，快速访问常用资源\n- 运行 AppleScript 或 Shell 脚本：极客必备，效率工具再提升\n- 打开网页：将任意网址绑定到屏幕角落\n- 执行系统命令：锁屏、睡眠等系统操作一触即发\n- 内置工具访问：快速启动工具，提高操作效率\n- 菜单栏组件：所有角落动作集中管理，随时掌控\n- 视觉反馈：轻量提示通知，明确每一步操作状态\n- 高度可配置：按需启用/禁用任意角落或区域，自定义行为\n- 原生开发体验：使用 Swift 与 SwiftUI 构建，体验丝滑，完美融入 macOS"
+  }
+]

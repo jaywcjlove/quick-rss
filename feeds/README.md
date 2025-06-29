@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SuperCorners — 让你的 Mac 屏幕角落焕发新生](https://wangchujiang.com/quick-rss/issue/162.html) 
+
+![](https://github.com/user-attachments/assets/e3abd4a3-e977-44ca-97c4-6a49bf90f8cd)
+
+SuperCorners 是一款 macOS 应用，基于系统的「热角」功能进行增强。相比原生功能，它提供了更多触发区域、更灵活的控制以及更智能的自动化，让每一个屏幕角落都成为你高效工作的利器。 主要功能特色： 额外触发区域：不仅仅是四个角，还可以在屏幕边缘中部触发动作 启动应用：直接从角落/边缘快速启动常用应用 运行快捷指令：集成 macOS 快捷指令，一步执行自动化 打开文件与文件夹：无需繁琐操 ([#162](https://github.com/jaywcjlove/quick-rss/issues/162) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MountMate：一款简单高效的 macOS 菜单栏外接硬盘管理工具](https://wangchujiang.com/quick-rss/issue/161.html) 
 
 ![](https://github.com/user-attachments/assets/b439b119-2b41-4e56-95ae-75ddd3cce918)

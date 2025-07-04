@@ -1,5 +1,19 @@
 [
   {
+    "id": "163",
+    "url": "https://wangchujiang.com/quick-rss/issue/163.html",
+    "title": "WR.DO：开源可自部署的域名服务平台，支持基于自有域名创建子域名、短链接和邮箱地址，并提供完整的 API 接口",
+    "content_html": "<p><strong>WR.DO</strong> 是一个开源、可自部署的域名服务平台，集成了短链服务、临时邮箱、子域名管理与开放 API，帮助你基于自己的域名快速构建灵活、高效的网络服务系统。</p>\n<p><img src=\"https://github.com/user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/b61ebb43-8526-4019-a89f-5ae77f081afe\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/419f55e2-76f3-475e-a661-992c2eb08ca8\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/041b8a42-35c7-4211-8604-74ca08294638\" alt=\"Image\"></p>",
+    "summary": "**WR.DO** 是一个开源、可自部署的域名服务平台，集成了短链服务、临时邮箱、子域名管理与开放 API，帮助你基于自己的域名快速构建灵活、高效的网络服务系统。",
+    "banner_image": "https://github.com/user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a",
+    "date_published": "2025-07-04T06:14:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**WR.DO** 是一个开源、可自部署的域名服务平台，集成了短链服务、临时邮箱、子域名管理与开放 API，帮助你基于自己的域名快速构建灵活、高效的网络服务系统。\n\n![Image](https://github.com/user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a)\n\n![Image](https://github.com/user-attachments/assets/b61ebb43-8526-4019-a89f-5ae77f081afe)\n\n![Image](https://github.com/user-attachments/assets/419f55e2-76f3-475e-a661-992c2eb08ca8)\n\n![Image](https://github.com/user-attachments/assets/041b8a42-35c7-4211-8604-74ca08294638)"
+  },
+  {
     "id": "162",
     "url": "https://wangchujiang.com/quick-rss/issue/162.html",
     "title": "SuperCorners — 让你的 Mac 屏幕角落焕发新生",

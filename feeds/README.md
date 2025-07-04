@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [WR.DO：开源可自部署的域名服务平台，支持基于自有域名创建子域名、短链接和邮箱地址，并提供完整的 API 接口](https://wangchujiang.com/quick-rss/issue/163.html) 
+
+![](https://github.com/user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a)
+
+WR.DO 是一个开源、可自部署的域名服务平台，集成了短链服务、临时邮箱、子域名管理与开放 API，帮助你基于自己的域名快速构建灵活、高效的网络服务系统。 ([#163](https://github.com/jaywcjlove/quick-rss/issues/163) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SuperCorners — 让你的 Mac 屏幕角落焕发新生](https://wangchujiang.com/quick-rss/issue/162.html) 
 
 ![](https://github.com/user-attachments/assets/e3abd4a3-e977-44ca-97c4-6a49bf90f8cd)

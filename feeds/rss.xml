@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 29 Jun 2025 10:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 06:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WR.DO：开源可自部署的域名服务平台，支持基于自有域名创建子域名、短链接和邮箱地址，并提供完整的 API 接口]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/163.html</link>
+            <guid>163</guid>
+            <pubDate>Fri, 04 Jul 2025 06:14:44 GMT</pubDate>
+            <description><![CDATA[WR.DO 是一个开源、可自部署的域名服务平台，集成了短链服务、临时邮箱、子域名管理与开放 API，帮助你基于自己的域名快速构建灵活、高效的网络服务系统。]]></description>
+            <content:encoded><![CDATA[<p><strong>WR.DO</strong> 是一个开源、可自部署的域名服务平台，集成了短链服务、临时邮箱、子域名管理与开放 API，帮助你基于自己的域名快速构建灵活、高效的网络服务系统。</p>
+<p><img src="https://github.com/user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/b61ebb43-8526-4019-a89f-5ae77f081afe" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/419f55e2-76f3-475e-a661-992c2eb08ca8" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/041b8a42-35c7-4211-8604-74ca08294638" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/163" target="_blank">#163</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a" length="0" type="image//user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a"/>
+        </item>
         <item>
             <title><![CDATA[SuperCorners — 让你的 Mac 屏幕角落焕发新生]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/162.html</link>

@@ -1,5 +1,19 @@
 [
   {
+    "id": "164",
+    "url": "https://wangchujiang.com/quick-rss/issue/164.html",
+    "title": "Kanba：为独立开发者打造的 Trello 开源替代品",
+    "content_html": "<p>Kanba 是一款专为独立开发者和小团队设计的项目管理工具，简单、轻量、无负担。\n没有复杂设置，没有臃肿功能，只有你需要的核心：<strong>看板 + 协作 + 高效体验</strong>。</p>\n<img alt=\"Image\" src=\"https://github.com/user-attachments/assets/41a16a69-d402-4176-9ce9-fd5b183fa221\">\n<ul>\n<li>✅ 支持无限项目与协作成员</li>\n<li>🌗 暗黑/浅色模式随心切换</li>\n<li>⚡ 现代技术栈构建，界面响应迅速</li>\n<li>💬 与 Supabase 和 Stripe 无缝集成</li>\n<li>🧩 使用 Tailwind CSS + shadcn/ui 打造简洁 UI</li>\n<li>🛠️ 开源免费，完全自主可控</li>\n</ul>",
+    "summary": "Kanba 是一款专为独立开发者和小团队设计的项目管理工具，简单、轻量、无负担。 没有复杂设置，没有臃肿功能，只有你需要的核心：**看板 + 协作 + 高效体验**。 * ✅ 支持无限项目与协作成员 * 🌗 暗黑/浅色模式随心切换 * ⚡ 现代技术栈构建，界面响应迅速 * 💬 与 Supabase 和 Stripe 无缝集成 * 🧩 使用 Tailwind CSS + shadcn/ui 打",
+    "banner_image": null,
+    "date_published": "2025-07-06T08:17:11Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Kanba 是一款专为独立开发者和小团队设计的项目管理工具，简单、轻量、无负担。\n没有复杂设置，没有臃肿功能，只有你需要的核心：**看板 + 协作 + 高效体验**。\n\n<img alt=\"Image\" src=\"https://github.com/user-attachments/assets/41a16a69-d402-4176-9ce9-fd5b183fa221\" />\n\n* ✅ 支持无限项目与协作成员\n* 🌗 暗黑/浅色模式随心切换\n* ⚡ 现代技术栈构建，界面响应迅速\n* 💬 与 Supabase 和 Stripe 无缝集成\n* 🧩 使用 Tailwind CSS + shadcn/ui 打造简洁 UI\n* 🛠️ 开源免费，完全自主可控"
+  },
+  {
     "id": "163",
     "url": "https://wangchujiang.com/quick-rss/issue/163.html",
     "title": "WR.DO：开源可自部署的域名服务平台，支持基于自有域名创建子域名、短链接和邮箱地址，并提供完整的 API 接口",

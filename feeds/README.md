@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Kanba：为独立开发者打造的 Trello 开源替代品](https://wangchujiang.com/quick-rss/issue/164.html) 
+
+![](https://github.com/user-attachments/assets/41a16a69-d402-4176-9ce9-fd5b183fa221)
+
+Kanba 是一款专为独立开发者和小团队设计的项目管理工具，简单、轻量、无负担。 没有复杂设置，没有臃肿功能，只有你需要的核心：看板 + 协作 + 高效体验。 ✅ 支持无限项目与协作成员 🌗 暗黑/浅色模式随心切换 ⚡ 现代技术栈构建，界面响应迅速 💬 与 Supabase 和 Stripe 无缝集成 🧩 使用 Tailwind CSS + shadcn/ui 打造简洁 UI 🛠️ 开源免 ([#164](https://github.com/jaywcjlove/quick-rss/issues/164) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [WR.DO：开源可自部署的域名服务平台，支持基于自有域名创建子域名、短链接和邮箱地址，并提供完整的 API 接口](https://wangchujiang.com/quick-rss/issue/163.html) 
 
 ![](https://github.com/user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a)

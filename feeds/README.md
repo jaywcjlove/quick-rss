@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Joplin：免费开源 + Markdown + 加密同步，笔记管理新选择](https://wangchujiang.com/quick-rss/issue/165.html) 
+
+![](https://github.com/user-attachments/assets/47bac232-12cb-44c7-ad71-fb36900383f8)
+
+如果你正在寻找一款注重隐私、安全同步、跨平台支持的笔记应用，Joplin 会是非常值得一试的选择。它完全开源、免费，支持 Windows、macOS、Linux、Android 和 iOS 等主流平台，还提供浏览器剪藏插件，方便保存网页和截图。 Joplin 支持 Markdown 格式，能导入 Evernote 的笔记，并提供端到端加密，通过 Dropbox、OneDrive、Nextcloud ([#165](https://github.com/jaywcjlove/quick-rss/issues/165) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Kanba：为独立开发者打造的 Trello 开源替代品](https://wangchujiang.com/quick-rss/issue/164.html) 
 
 ![](https://github.com/user-attachments/assets/41a16a69-d402-4176-9ce9-fd5b183fa221)

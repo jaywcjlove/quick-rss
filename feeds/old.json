@@ -1,5 +1,19 @@
 [
   {
+    "id": "165",
+    "url": "https://wangchujiang.com/quick-rss/issue/165.html",
+    "title": "Joplin：免费开源 + Markdown + 加密同步，笔记管理新选择",
+    "content_html": "<p>如果你正在寻找一款注重隐私、安全同步、跨平台支持的笔记应用，Joplin 会是非常值得一试的选择。它完全开源、免费，支持 Windows、macOS、Linux、Android 和 iOS 等主流平台，还提供浏览器剪藏插件，方便保存网页和截图。</p>\n<p><img src=\"https://github.com/user-attachments/assets/47bac232-12cb-44c7-ad71-fb36900383f8\" alt=\"Joplin\"></p>\n<p>Joplin 支持 Markdown 格式，能导入 Evernote 的笔记，并提供端到端加密，通过 Dropbox、OneDrive、Nextcloud 或官方的 Joplin Cloud 进行同步。它还是“离线优先”设计，即使断网也可以随时访问笔记内容。</p>\n<p><img src=\"https://github.com/user-attachments/assets/ff8cfba3-9c85-41f3-b410-880e9a36b945\" alt=\"Image\"></p>\n<p>强大的全文搜索、插件扩展、自定义主题让你可以根据需求打造个性化的写作/笔记环境。不管是日常记录、任务管理还是技术文档，Joplin 都能胜任。</p>",
+    "summary": "如果你正在寻找一款注重隐私、安全同步、跨平台支持的笔记应用，Joplin 会是非常值得一试的选择。它完全开源、免费，支持 Windows、macOS、Linux、Android 和 iOS 等主流平台，还提供浏览器剪藏插件，方便保存网页和截图。 Joplin 支持 Markdown 格式，能导入 Evernote 的笔记，并提供端到端加密，通过 Dropbox、OneDrive、Nextcloud",
+    "banner_image": "https://github.com/user-attachments/assets/47bac232-12cb-44c7-ad71-fb36900383f8",
+    "date_published": "2025-07-07T12:32:13Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "如果你正在寻找一款注重隐私、安全同步、跨平台支持的笔记应用，Joplin 会是非常值得一试的选择。它完全开源、免费，支持 Windows、macOS、Linux、Android 和 iOS 等主流平台，还提供浏览器剪藏插件，方便保存网页和截图。\n\n![Joplin](https://github.com/user-attachments/assets/47bac232-12cb-44c7-ad71-fb36900383f8)\n\nJoplin 支持 Markdown 格式，能导入 Evernote 的笔记，并提供端到端加密，通过 Dropbox、OneDrive、Nextcloud 或官方的 Joplin Cloud 进行同步。它还是“离线优先”设计，即使断网也可以随时访问笔记内容。\n\n![Image](https://github.com/user-attachments/assets/ff8cfba3-9c85-41f3-b410-880e9a36b945)\n\n强大的全文搜索、插件扩展、自定义主题让你可以根据需求打造个性化的写作/笔记环境。不管是日常记录、任务管理还是技术文档，Joplin 都能胜任。"
+  },
+  {
     "id": "164",
     "url": "https://wangchujiang.com/quick-rss/issue/164.html",
     "title": "Kanba：为独立开发者打造的 Trello 开源替代品",

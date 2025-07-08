@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 07 Jul 2025 12:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 15:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Window Glue：一款 macOS 菜单栏工具，可将两个窗口粘连同步操作]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/166.html</link>
+            <guid>166</guid>
+            <pubDate>Tue, 08 Jul 2025 15:38:42 GMT</pubDate>
+            <description><![CDATA[一个简单的 macOS 菜单栏小工具，可以将两个窗口“粘合”在一起，使它们（大部分情况下）像一个窗口那样协同移动和调整大小。]]></description>
+            <content:encoded><![CDATA[<p>一个简单的 macOS 菜单栏小工具，可以将两个窗口“粘合”在一起，使它们（大部分情况下）像一个窗口那样协同移动和调整大小。</p>
+<p><img src="https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/166" target="_blank">#166</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073" length="0" type="image//user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073"/>
+        </item>
         <item>
             <title><![CDATA[Joplin：免费开源 + Markdown + 加密同步，笔记管理新选择]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/165.html</link>

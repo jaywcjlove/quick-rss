@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Window Glue：一款 macOS 菜单栏工具，可将两个窗口粘连同步操作](https://wangchujiang.com/quick-rss/issue/166.html) 
+
+![](https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073)
+
+一个简单的 macOS 菜单栏小工具，可以将两个窗口“粘合”在一起，使它们（大部分情况下）像一个窗口那样协同移动和调整大小。 ([#166](https://github.com/jaywcjlove/quick-rss/issues/166) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Joplin：免费开源 + Markdown + 加密同步，笔记管理新选择](https://wangchujiang.com/quick-rss/issue/165.html) 
 
 ![](https://github.com/user-attachments/assets/47bac232-12cb-44c7-ad71-fb36900383f8)

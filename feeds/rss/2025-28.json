@@ -1,5 +1,19 @@
 [
   {
+    "id": "166",
+    "url": "https://wangchujiang.com/quick-rss/issue/166.html",
+    "title": "Window Glue：一款 macOS 菜单栏工具，可将两个窗口粘连同步操作",
+    "content_html": "<p>一个简单的 macOS 菜单栏小工具，可以将两个窗口“粘合”在一起，使它们（大部分情况下）像一个窗口那样协同移动和调整大小。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073\" alt=\"Image\"></p>",
+    "summary": "一个简单的 macOS 菜单栏小工具，可以将两个窗口“粘合”在一起，使它们（大部分情况下）像一个窗口那样协同移动和调整大小。",
+    "banner_image": "https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073",
+    "date_published": "2025-07-08T15:38:42Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个简单的 macOS 菜单栏小工具，可以将两个窗口“粘合”在一起，使它们（大部分情况下）像一个窗口那样协同移动和调整大小。\n\n![Image](https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073)"
+  },
+  {
     "id": "165",
     "url": "https://wangchujiang.com/quick-rss/issue/165.html",
     "title": "Joplin：免费开源 + Markdown + 加密同步，笔记管理新选择",

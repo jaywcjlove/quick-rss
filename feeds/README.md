@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Zealot: 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库](https://wangchujiang.com/quick-rss/issue/167.html) 
+
+![](https://github.com/user-attachments/assets/edef4502-5896-4fcc-b908-e1b5fa04192d)
+
+Zealot 是一款专为企业和开发者打造的自部署应用交付平台，聚焦于 CI/CD 自动化、测试分发、设备管理和多平台支持。它可无缝接入任意 CI 系统，帮助团队统一管理打包、上传、签名、分发等流程 —— 从构建到交付一步到位，真正实现 交付自动化 + 应用托管。 💡 核心特性 🌏 多平台支持：支持 macOS、iOS、Android（apk/aab）、Windows、Linux 应用全平台分发 ([#167](https://github.com/jaywcjlove/quick-rss/issues/167) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Window Glue：一款 macOS 菜单栏工具，可将两个窗口粘连同步操作](https://wangchujiang.com/quick-rss/issue/166.html) 
 
 ![](https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073)

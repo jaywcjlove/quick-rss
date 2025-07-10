@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-07-09T12:10:25.276Z</updated>
+    <updated>2025-07-10T03:16:39.345Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,41 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Petrichor：macOS 上的离线音乐播放器]]></title>
+        <id>168</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/168.html"/>
+        <updated>2025-07-10T03:16:10.000Z</updated>
+        <summary type="html"><![CDATA[如果你厌倦了臃肿的音乐软件，只想安静地听听本地收藏的音乐，那么 Petrichor 值得一试！它是一款专为 macOS 打造的离线音乐播放器，简洁、美观、快速，完全无需联网即可使用。 ✨ 核心亮点： 按文件夹映射本地音乐，清晰浏览你的音乐库 支持播放队列与播放列表的交互式管理 快速搜索上千首歌曲，轻松定位目标曲目 支持专辑/艺术家/年份等信息跳转浏览 菜单栏与 Dock 控制播放，完美集成 mac]]></summary>
+        <content type="html"><![CDATA[<p>如果你厌倦了臃肿的音乐软件，只想安静地听听本地收藏的音乐，那么 <strong>Petrichor</strong> 值得一试！它是一款专为 macOS 打造的离线音乐播放器，简洁、美观、快速，完全无需联网即可使用。</p>
+<img width="2900" height="2144" alt="Image" src="https://github.com/user-attachments/assets/cfcbf240-f66f-4b60-8a46-a24b8f3748be">
+<img width="2858" height="2056" alt="Image" src="https://github.com/user-attachments/assets/f5317163-d3c4-4c6b-a89c-8a96e1fb8e32">
+<img width="2946" height="2144" alt="Image" src="https://github.com/user-attachments/assets/8f00d168-499d-4dcd-a29d-40095021a96b">
+<img width="2946" height="2144" alt="Image" src="https://github.com/user-attachments/assets/0d955031-83ac-4bab-a91f-6b544db0cbac">
+<p>✨ <strong>核心亮点：</strong></p>
+<ul>
+<li>按文件夹映射本地音乐，清晰浏览你的音乐库</li>
+<li>支持播放队列与播放列表的交互式管理</li>
+<li>快速搜索上千首歌曲，轻松定位目标曲目</li>
+<li>支持专辑/艺术家/年份等信息跳转浏览</li>
+<li>菜单栏与 Dock 控制播放，完美集成 macOS 原生体验</li>
+<li>可将常听内容固定在侧边栏，快速访问喜欢的音乐</li>
+<li>暗黑模式支持，界面更美观</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/168" target="_blank">#168</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zealot: 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库]]></title>
         <id>167</id>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Petrichor：macOS 上的离线音乐播放器](https://wangchujiang.com/quick-rss/issue/168.html) 
+
+![](https://github.com/user-attachments/assets/cfcbf240-f66f-4b60-8a46-a24b8f3748be)
+
+如果你厌倦了臃肿的音乐软件，只想安静地听听本地收藏的音乐，那么 Petrichor 值得一试！它是一款专为 macOS 打造的离线音乐播放器，简洁、美观、快速，完全无需联网即可使用。 ✨ 核心亮点： 按文件夹映射本地音乐，清晰浏览你的音乐库 支持播放队列与播放列表的交互式管理 快速搜索上千首歌曲，轻松定位目标曲目 支持专辑/艺术家/年份等信息跳转浏览 菜单栏与 Dock 控制播放，完美集成 mac ([#168](https://github.com/jaywcjlove/quick-rss/issues/168) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Zealot: 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库](https://wangchujiang.com/quick-rss/issue/167.html) 
 
 ![](https://github.com/user-attachments/assets/edef4502-5896-4fcc-b908-e1b5fa04192d)

@@ -1,5 +1,19 @@
 [
   {
+    "id": "169",
+    "url": "https://wangchujiang.com/quick-rss/issue/169.html",
+    "title": "DockDoor：把 Windows 的窗口管理体验带到你的 macOS 上！",
+    "content_html": "<p>免费开源 · macOS 专属窗口增强工具</p>\n<p>你是否怀念 Windows 上便捷直观的 Alt+Tab？想在 macOS 上也能预览所有打开的窗口？现在，DockDoor 就能为你带来熟悉而高效的窗口管理体验！</p>\n<img src=\"https://github.com/user-attachments/assets/a0b060d5-bfb0-4aaa-a7c3-80a8ad47f5ba\">\n<h3>✨ 核心亮点</h3>\n<h4>🔲 Dock 应用预览</h4>\n<p>将鼠标悬停在 Dock 中的图标上，即可查看该应用下所有打开的窗口预览。无需切换焦点，直接点击或操作你想要的窗口。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cd92afe0-521a-4d7d-be34-c5dfdf788494\" alt=\"\"></p>\n<h4>🔄 Alt+Tab 风格窗口切换</h4>\n<p>使用 Option+Tab（Alt+Tab）切换窗口，就像在 Windows 上一样！支持实时预览，让你一目了然地找到所需窗口。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e33a2a7c-de47-40d6-b49d-576b440ff89d\" alt=\"Image\"></p>\n<h4>✖️ 中键关闭窗口</h4>\n<p>想关闭某个窗口？只需在预览图上中键点击，无需切换应用，快速清理你的工作区。</p>\n<h4>🖱️ 窗口拖拽支持</h4>\n<p>直接从 Dock 预览中拖动窗口至其他应用，实现真正的跨应用窗口整理，彻底解放鼠标操作。</p>\n<h4>🧹 一键关闭/最小化所有窗口</h4>\n<p>清空工作区，只需鼠标悬停几秒，即可批量关闭或最小化某应用的全部窗口。</p>\n<h4>🧩 可自定义布局样式</h4>\n<p>无论是窗口切换器，还是 Dock 预览，都可自定义布局风格、排列方式与大小，完全匹配你的使用习惯。</p>",
+    "summary": "免费开源 · macOS 专属窗口增强工具 你是否怀念 Windows 上便捷直观的 Alt+Tab？想在 macOS 上也能预览所有打开的窗口？现在，DockDoor 就能为你带来熟悉而高效的窗口管理体验！ ### ✨ 核心亮点 #### 🔲 Dock 应用预览 将鼠标悬停在 Dock 中的图标上，即可查看该应用下所有打开的窗口预览。无需切换焦点，直接点击或操作你想要的窗口。 #### 🔄 ",
+    "banner_image": "https://github.com/user-attachments/assets/cd92afe0-521a-4d7d-be34-c5dfdf788494",
+    "date_published": "2025-07-11T07:47:30Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "免费开源 · macOS 专属窗口增强工具\n\n你是否怀念 Windows 上便捷直观的 Alt+Tab？想在 macOS 上也能预览所有打开的窗口？现在，DockDoor 就能为你带来熟悉而高效的窗口管理体验！\n\n<img src=\"https://github.com/user-attachments/assets/a0b060d5-bfb0-4aaa-a7c3-80a8ad47f5ba\" />\n\n### ✨ 核心亮点\n\n#### 🔲 Dock 应用预览\n\n将鼠标悬停在 Dock 中的图标上，即可查看该应用下所有打开的窗口预览。无需切换焦点，直接点击或操作你想要的窗口。\n\n![](https://github.com/user-attachments/assets/cd92afe0-521a-4d7d-be34-c5dfdf788494)\n\n#### 🔄 Alt+Tab 风格窗口切换\n\n使用 Option+Tab（Alt+Tab）切换窗口，就像在 Windows 上一样！支持实时预览，让你一目了然地找到所需窗口。\n\n![Image](https://github.com/user-attachments/assets/e33a2a7c-de47-40d6-b49d-576b440ff89d)\n\n#### ✖️ 中键关闭窗口\n\n想关闭某个窗口？只需在预览图上中键点击，无需切换应用，快速清理你的工作区。\n\n####  🖱️ 窗口拖拽支持\n\n直接从 Dock 预览中拖动窗口至其他应用，实现真正的跨应用窗口整理，彻底解放鼠标操作。\n\n####  🧹 一键关闭/最小化所有窗口\n\n清空工作区，只需鼠标悬停几秒，即可批量关闭或最小化某应用的全部窗口。\n\n####  🧩 可自定义布局样式\n\n无论是窗口切换器，还是 Dock 预览，都可自定义布局风格、排列方式与大小，完全匹配你的使用习惯。"
+  },
+  {
     "id": "168",
     "url": "https://wangchujiang.com/quick-rss/issue/168.html",
     "title": "Petrichor：macOS 上的离线音乐播放器",

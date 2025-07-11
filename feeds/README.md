@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DockDoor：把 Windows 的窗口管理体验带到你的 macOS 上！](https://wangchujiang.com/quick-rss/issue/169.html) 
+
+![](https://github.com/user-attachments/assets/a0b060d5-bfb0-4aaa-a7c3-80a8ad47f5ba)
+
+免费开源 · macOS 专属窗口增强工具 你是否怀念 Windows 上便捷直观的 Alt+Tab？想在 macOS 上也能预览所有打开的窗口？现在，DockDoor 就能为你带来熟悉而高效的窗口管理体验！ ✨ 核心亮点 🔲 Dock 应用预览 将鼠标悬停在 Dock 中的图标上，即可查看该应用下所有打开的窗口预览。无需切换焦点，直接点击或操作你想要的窗口。 🔄 Alt+Tab 风格窗口切换 ([#169](https://github.com/jaywcjlove/quick-rss/issues/169) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Petrichor：macOS 上的离线音乐播放器](https://wangchujiang.com/quick-rss/issue/168.html) 
 
 ![](https://github.com/user-attachments/assets/cfcbf240-f66f-4b60-8a46-a24b8f3748be)

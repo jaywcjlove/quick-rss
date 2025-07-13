@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-07-11T07:47:52.314Z</updated>
+    <updated>2025-07-13T13:07:02.289Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,28 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[torrra：在终端中搜索和下载种子的利器]]></title>
+        <id>170</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/170.html"/>
+        <updated>2025-07-13T13:01:12.000Z</updated>
+        <summary type="html"><![CDATA[torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。]]></summary>
+        <content type="html"><![CDATA[<p>torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。</p>
+<p><img src="https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/170" target="_blank">#170</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DockDoor：把 Windows 的窗口管理体验带到你的 macOS 上！]]></title>
         <id>169</id>

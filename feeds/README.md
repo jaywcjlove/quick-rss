@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [torrra：在终端中搜索和下载种子的利器](https://wangchujiang.com/quick-rss/issue/170.html) 
+
+![](https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599)
+
+torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。 ([#170](https://github.com/jaywcjlove/quick-rss/issues/170) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DockDoor：把 Windows 的窗口管理体验带到你的 macOS 上！](https://wangchujiang.com/quick-rss/issue/169.html) 
 
 ![](https://github.com/user-attachments/assets/a0b060d5-bfb0-4aaa-a7c3-80a8ad47f5ba)

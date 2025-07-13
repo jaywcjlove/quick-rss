@@ -1,0 +1,16 @@
+[
+  {
+    "id": "170",
+    "url": "https://wangchujiang.com/quick-rss/issue/170.html",
+    "title": "torrra：在终端中搜索和下载种子的利器",
+    "content_html": "<p>torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599\" alt=\"Image\"></p>",
+    "summary": "torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。",
+    "banner_image": "https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599",
+    "date_published": "2025-07-13T13:01:12Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。\n\n![Image](https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599)"
+  }
+]

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "170",
+            "content_html": "<p>torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599\" alt=\"Image\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/170\" target=\"_blank\">#170</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/170.html",
+            "title": "torrra：在终端中搜索和下载种子的利器",
+            "summary": "torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。",
+            "image": "https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599",
+            "date_modified": "2025-07-13T13:01:12.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "169",
             "content_html": "<p>免费开源 · macOS 专属窗口增强工具</p>\n<p>你是否怀念 Windows 上便捷直观的 Alt+Tab？想在 macOS 上也能预览所有打开的窗口？现在，DockDoor 就能为你带来熟悉而高效的窗口管理体验！</p>\n<img src=\"https://github.com/user-attachments/assets/a0b060d5-bfb0-4aaa-a7c3-80a8ad47f5ba\">\n<h3>✨ 核心亮点</h3>\n<h4>🔲 Dock 应用预览</h4>\n<p>将鼠标悬停在 Dock 中的图标上，即可查看该应用下所有打开的窗口预览。无需切换焦点，直接点击或操作你想要的窗口。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cd92afe0-521a-4d7d-be34-c5dfdf788494\" alt=\"\"></p>\n<h4>🔄 Alt+Tab 风格窗口切换</h4>\n<p>使用 Option+Tab（Alt+Tab）切换窗口，就像在 Windows 上一样！支持实时预览，让你一目了然地找到所需窗口。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e33a2a7c-de47-40d6-b49d-576b440ff89d\" alt=\"Image\"></p>\n<h4>✖️ 中键关闭窗口</h4>\n<p>想关闭某个窗口？只需在预览图上中键点击，无需切换应用，快速清理你的工作区。</p>\n<h4>🖱️ 窗口拖拽支持</h4>\n<p>直接从 Dock 预览中拖动窗口至其他应用，实现真正的跨应用窗口整理，彻底解放鼠标操作。</p>\n<h4>🧹 一键关闭/最小化所有窗口</h4>\n<p>清空工作区，只需鼠标悬停几秒，即可批量关闭或最小化某应用的全部窗口。</p>\n<h4>🧩 可自定义布局样式</h4>\n<p>无论是窗口切换器，还是 Dock 预览，都可自定义布局风格、排列方式与大小，完全匹配你的使用习惯。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/169\" target=\"_blank\">#169</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/169.html",

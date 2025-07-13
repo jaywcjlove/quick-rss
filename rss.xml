@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 11 Jul 2025 07:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 13:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[torrra：在终端中搜索和下载种子的利器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/170.html</link>
+            <guid>170</guid>
+            <pubDate>Sun, 13 Jul 2025 13:01:12 GMT</pubDate>
+            <description><![CDATA[torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。]]></description>
+            <content:encoded><![CDATA[<p>torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。</p>
+<p><img src="https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/170" target="_blank">#170</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599" length="0" type="image//user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599"/>
+        </item>
         <item>
             <title><![CDATA[DockDoor：把 Windows 的窗口管理体验带到你的 macOS 上！]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/169.html</link>

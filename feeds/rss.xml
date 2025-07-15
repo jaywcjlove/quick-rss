@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 13 Jul 2025 13:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 12:57:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,69 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stapler-mini：macOS 键盘映射利器！助你轻松导出 Karabiner 配置]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/171.html</link>
+            <guid>171</guid>
+            <pubDate>Tue, 15 Jul 2025 12:56:26 GMT</pubDate>
+            <description><![CDATA[你是否羡慕过那些机械键盘玩家炫酷的按键组合、自定义分层（Layer）、Tap-Hold 操作？现在，就算你用的是 MacBook 自带键盘、普通蓝牙键盘甚至鼠标，也可以轻松实现这一切 🧠 Stapler-mini 是什么？ Stapler-mini 是一款面向 Karabiner-Elements 的图形化 JSON 配置生成器，适用于 macOS Sonoma 14.0 及以上版本。它的目标是]]></description>
+            <content:encoded><![CDATA[<img alt="Image" src="https://github.com/user-attachments/assets/a78f046f-6296-4018-8c24-b79af181e9f8">
+<img src="https://github.com/user-attachments/assets/80f35af2-df76-46e1-b4d2-4433f8f159b5">
+<img src="https://github.com/user-attachments/assets/2087a1b3-f236-4da2-9483-ffa7eff21816">
+<img src="https://github.com/user-attachments/assets/c30af949-a27f-4cd1-bd80-8c7c5310c133">
+<p>你是否羡慕过那些机械键盘玩家炫酷的按键组合、自定义分层（Layer）、Tap-Hold 操作？现在，就算你用的是 MacBook 自带键盘、普通蓝牙键盘甚至鼠标，也可以轻松实现这一切</p>
+<h2>🧠 Stapler-mini 是什么？</h2>
+<p>Stapler-mini 是一款面向 <a href="https://karabiner-elements.pqrs.org/">Karabiner-Elements</a> 的图形化 JSON 配置生成器，适用于 macOS Sonoma 14.0 及以上版本。它的目标是：</p>
+<blockquote>
+<p><strong>把复杂的键盘定制变成人人都会的可视化操作</strong></p>
+</blockquote>
+<p>即便你没有使用自定义键盘，也可以通过它快速实现：</p>
+<ul>
+<li>🔁 <strong>Remap 键位重映射</strong></li>
+<li>⏱️ <strong>Tap-Hold 点按/长按分离操作</strong></li>
+<li>🧱 <strong>Layer 分层控制（如长按空格切换方向键层）</strong></li>
+<li>🎯 <strong>Combo 多键组合触发功能</strong></li>
+<li>🧩 <strong>Macro 宏命令：一键完成多步骤操作</strong></li>
+<li>🎚️ <strong>条件触发：App、输入法、触控板手指数</strong></li>
+</ul>
+<h2>✨ 核心亮点</h2>
+<ul>
+<li>✅ 最多可同时配置 3 个设备（支持鼠标！）</li>
+<li>✅ 完全本地运行，隐私友好</li>
+<li>✅ 拖拽式操作，无需编程</li>
+<li>✅ 快速导出 Karabiner 配置文件</li>
+<li>✅ Tap 与 Hold 行为可独立绑定不同操作</li>
+<li>✅ 支持复杂宏操作组合</li>
+</ul>
+<h2>🎯 实用场景示例</h2>
+<ul>
+<li>⌨️ 长按空格键进入方向键层，提升编辑效率</li>
+<li>🖱️ 鼠标左键在 Layer 1 中变身为 <code>⌘ + W</code></li>
+<li>👆 双指触控板手势激活特定功能，仅限指定 App 生效</li>
+<li>🔁 点按 Caps Lock 为 Esc，长按变为 Control</li>
+<li>⌘F + J 组合键触发 Spotlight 搜索</li>
+</ul>
+<h2>🛠 快速上手指南</h2>
+<ol>
+<li>点击左上角 <code>＋</code> 创建布局，选择目标设备</li>
+<li>拖拽操作进行 Remap、Tap-Hold、Layer、Combo 设置</li>
+<li>点击右上角 <code>Export</code>，导出 JSON 文件并导入至 Karabiner-Elements</li>
+<li>打开 Karabiner，启用新配置并添加规则即可生效！</li>
+</ol>
+<h2>🧑‍💻 谁适合使用？</h2>
+<ul>
+<li>喜欢折腾键盘的极客 &#x26; 开发者</li>
+<li>Karabiner 用户但不想写 JSON 的朋友</li>
+<li>想用 MacBook 内建键盘复刻 HHKB 层级体验</li>
+<li>追求极致效率的写作者、编辑、设计师</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/171" target="_blank">#171</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a78f046f-6296-4018-8c24-b79af181e9f8" length="0" type="image//user-attachments/assets/a78f046f-6296-4018-8c24-b79af181e9f8"/>
+        </item>
         <item>
             <title><![CDATA[torrra：在终端中搜索和下载种子的利器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/170.html</link>

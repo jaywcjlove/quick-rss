@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Stapler-mini：macOS 键盘映射利器！助你轻松导出 Karabiner 配置](https://wangchujiang.com/quick-rss/issue/171.html) 
+
+![](https://github.com/user-attachments/assets/a78f046f-6296-4018-8c24-b79af181e9f8)
+
+你是否羡慕过那些机械键盘玩家炫酷的按键组合、自定义分层（Layer）、Tap-Hold 操作？现在，就算你用的是 MacBook 自带键盘、普通蓝牙键盘甚至鼠标，也可以轻松实现这一切 🧠 Stapler-mini 是什么？ Stapler-mini 是一款面向 Karabiner-Elements 的图形化 JSON 配置生成器，适用于 macOS Sonoma 14.0 及以上版本。它的目标是 ([#171](https://github.com/jaywcjlove/quick-rss/issues/171) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [torrra：在终端中搜索和下载种子的利器](https://wangchujiang.com/quick-rss/issue/170.html) 
 
 ![](https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599)

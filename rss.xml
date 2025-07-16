@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 16 Jul 2025 17:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 17:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,42 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DockAnchor：让你的 Dock 安分守己！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/174.html</link>
+            <guid>174</guid>
+            <pubDate>Wed, 16 Jul 2025 17:39:44 GMT</pubDate>
+            <description><![CDATA[在使用多显示器的 macOS 系统中，Dock 总是自动跟着光标“乱跑”？DockAnchor 正是为此而生！ DockAnchor 是一款轻量、原生的 macOS 工具，它能让你的 Dock 锁定在指定屏幕上，避免因意外触发而分散注意力。无须终端脚本，无需重启 Dock，系统级防护，从源头解决烦恼。 🚀 功能亮点： 锁定 Dock 到指定屏幕，再也不会被“乱跑的 Dock”打断思路 自动启动、]]></description>
+            <content:encoded><![CDATA[<p>在使用多显示器的 macOS 系统中，Dock 总是自动跟着光标“乱跑”？DockAnchor 正是为此而生！</p>
+<p><strong>DockAnchor</strong> 是一款轻量、原生的 macOS 工具，它能让你的 Dock 锁定在指定屏幕上，避免因意外触发而分散注意力。无须终端脚本，无需重启 Dock，系统级防护，从源头解决烦恼。</p>
+<img alt="DockAnchor" src="https://github.com/user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc">
+<img alt="DockAnchor" src="https://github.com/user-attachments/assets/4b6170f2-5246-4ed8-8bf3-aabaa5873792">
+<img alt="DockAnchor" src="https://github.com/user-attachments/assets/df79bf68-8377-4a93-ab00-7f94b1113c7e">
+<h4>🚀 功能亮点：</h4>
+<ul>
+<li><strong>锁定 Dock 到指定屏幕</strong>，再也不会被“乱跑的 Dock”打断思路</li>
+<li><strong>自动启动、后台运行</strong>，你几乎感觉不到它的存在</li>
+<li><strong>实时检测显示器变动</strong>，支持断开/重连后的自动回退机制</li>
+<li><strong>友好显示器命名</strong>，轻松选择哪块屏幕是你的 Dock 主场</li>
+<li><strong>菜单栏快捷访问</strong>，状态一目了然，设置即点即用</li>
+<li><strong>系统级拦截鼠标行为</strong>，不重启 Dock、不闪屏，稳定优雅</li>
+<li><strong>自动检查更新</strong>，始终保持最新状态</li>
+</ul>
+<h3>💻 适合谁？</h3>
+<ul>
+<li>多屏办公的开发者、设计师</li>
+<li>想要更专注、更稳定桌面体验的用户</li>
+<li>不想因 Dock 跑偏而分心的你</li>
+</ul>
+<p>让 Dock 听话，就用 DockAnchor。
+立即体验，让多显示器环境更高效、更安静。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/174" target="_blank">#174</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc" length="0" type="image//user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc"/>
+        </item>
         <item>
             <title><![CDATA[Hidden Bar：一款帮你隐藏菜单栏图标，让你的桌面更整洁、更专注的 macOS 应用。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/173.html</link>

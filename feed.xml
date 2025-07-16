@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-07-16T17:18:39.332Z</updated>
+    <updated>2025-07-16T17:24:03.237Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,42 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Hidden Bar：一款帮你隐藏菜单栏图标，让你的桌面更整洁、更专注的 macOS 应用。]]></title>
+        <id>173</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/173.html"/>
+        <updated>2025-07-16T17:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Hidden Bar 是一款简单却强大的 macOS 工具，帮你隐藏菜单栏图标，让你的桌面更整洁、更专注。 🧰 主要功能： 🧼 一键隐藏菜单栏图标，恢复清爽界面 🚀 启动即运行，自动整理不再手动 ⏱ 支持自动隐藏，5 到 60 秒随你定 🎹 全局快捷键切换，随时显隐自如 📏 支持全菜单栏模式，空间利用最大化 🌍 完善的 RTL（从右到左语言）支持 🛠 安装简单： $ brew ins]]></summary>
+        <content type="html"><![CDATA[<img alt="Hidden Bar" src="https://github.com/user-attachments/assets/6a43ca60-08a5-464b-8a22-76d69e11cb08">
+<img alt="Hidden Bar" src="https://github.com/user-attachments/assets/f174090e-87be-48b7-9ebe-d069b7732a44">
+<p><strong>Hidden Bar</strong> 是一款简单却强大的 macOS 工具，帮你隐藏菜单栏图标，让你的桌面更整洁、更专注。</p>
+<h3>🧰 主要功能：</h3>
+<ul>
+<li>🧼 一键隐藏菜单栏图标，恢复清爽界面</li>
+<li>🚀 启动即运行，自动整理不再手动</li>
+<li>⏱ 支持自动隐藏，5 到 60 秒随你定</li>
+<li>🎹 全局快捷键切换，随时显隐自如</li>
+<li>📏 支持全菜单栏模式，空间利用最大化</li>
+<li>🌍 完善的 RTL（从右到左语言）支持</li>
+</ul>
+<h4>🛠 安装简单：</h4>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">$ brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> hiddenbar
+</span></code></pre>
+<p>立即试试 Hidden Bar，让菜单栏告别杂乱，恢复极简之美！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/173" target="_blank">#173</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mos：让你的鼠标滚动顺滑如丝——体验触控板般的滚动享受！]]></title>
         <id>172</id>

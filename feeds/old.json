@@ -1,5 +1,19 @@
 [
   {
+    "id": "172",
+    "url": "https://wangchujiang.com/quick-rss/issue/172.html",
+    "title": "Mos：让你的鼠标滚动顺滑如丝——体验触控板般的滚动享受！",
+    "content_html": "<img alt=\"Mos\" src=\"https://github.com/user-attachments/assets/7964ee03-1578-4e04-b44e-3f65fcf2bbf7\">\n<p>还在忍受鼠标滚动时的生硬顿挫感？这款为 macOS 打造的小工具，专为改善鼠标滚动体验而生，让你的滚轮焕然一新，媲美原生触控板的顺滑体验！</p>\n<h3>🌟主要特性：</h3>\n<ul>\n<li>🚀 <strong>超级顺滑滚动体验</strong>：重塑鼠标滚动手感，让滚轮也能“丝滑到底”；</li>\n<li>🔄 <strong>独立滚动方向设置</strong>：触控板和鼠标分开控制，鼠标方向反转不再影响触控板；</li>\n<li>🎛️ <strong>滚动曲线自由调节</strong>：根据个人喜好定制滚动速度与惯性，滚得多快你说了算；</li>\n<li>🧩 <strong>应用级控制机制</strong>：通过黑/白名单管理，在不同 App 中灵活开启或关闭效果；</li>\n<li>📊 <strong>实时可视化滚动监控</strong>：内置图形化监控窗口，让滚动行为一目了然；</li>\n<li>🛠️ <strong>纯 Swift4 开发，轻巧高效</strong>：原生 macOS 体验，稳定运行不占资源。</li>\n</ul>\n<p>无论你是程序员、设计师，还是日常办公用户，这款工具都将极大提升你的工作流舒适度。试试看，让你的鼠标滚动从此告别卡顿，尽享丝滑！</p>\n<p>Mos可通过<a href=\"https://brew.sh/\">Homebrew</a>来安装:</p>\n<pre class=\"language-shell\"><code class=\"language-shell code-highlight\"><span class=\"code-line line-number\" line=\"1\">$ brew <span class=\"token function\">install</span> <span class=\"token parameter variable\">--cask</span> mos\n</span></code></pre>",
+    "summary": "还在忍受鼠标滚动时的生硬顿挫感？这款为 macOS 打造的小工具，专为改善鼠标滚动体验而生，让你的滚轮焕然一新，媲美原生触控板的顺滑体验！ ### 🌟主要特性： * 🚀 **超级顺滑滚动体验**：重塑鼠标滚动手感，让滚轮也能“丝滑到底”； * 🔄 **独立滚动方向设置**：触控板和鼠标分开控制，鼠标方向反转不再影响触控板； * 🎛️ **滚动曲线自由调节**：根据个人喜好定制滚动速度与惯性",
+    "banner_image": null,
+    "date_published": "2025-07-16T17:17:57Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "<img alt=\"Mos\" src=\"https://github.com/user-attachments/assets/7964ee03-1578-4e04-b44e-3f65fcf2bbf7\" />\n\n还在忍受鼠标滚动时的生硬顿挫感？这款为 macOS 打造的小工具，专为改善鼠标滚动体验而生，让你的滚轮焕然一新，媲美原生触控板的顺滑体验！\n\n### 🌟主要特性：\n\n* 🚀 **超级顺滑滚动体验**：重塑鼠标滚动手感，让滚轮也能“丝滑到底”；\n* 🔄 **独立滚动方向设置**：触控板和鼠标分开控制，鼠标方向反转不再影响触控板；\n* 🎛️ **滚动曲线自由调节**：根据个人喜好定制滚动速度与惯性，滚得多快你说了算；\n* 🧩 **应用级控制机制**：通过黑/白名单管理，在不同 App 中灵活开启或关闭效果；\n* 📊 **实时可视化滚动监控**：内置图形化监控窗口，让滚动行为一目了然；\n* 🛠️ **纯 Swift4 开发，轻巧高效**：原生 macOS 体验，稳定运行不占资源。\n\n无论你是程序员、设计师，还是日常办公用户，这款工具都将极大提升你的工作流舒适度。试试看，让你的鼠标滚动从此告别卡顿，尽享丝滑！\n\nMos可通过[Homebrew](https://brew.sh/)来安装:\n\n```shell\n$ brew install --cask mos\n```"
+  },
+  {
     "id": "171",
     "url": "https://wangchujiang.com/quick-rss/issue/171.html",
     "title": "Stapler-mini：macOS 键盘映射利器！助你轻松导出 Karabiner 配置",

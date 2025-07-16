@@ -1,5 +1,19 @@
 [
   {
+    "id": "174",
+    "url": "https://wangchujiang.com/quick-rss/issue/174.html",
+    "title": "DockAnchor：让你的 Dock 安分守己！",
+    "content_html": "<p>在使用多显示器的 macOS 系统中，Dock 总是自动跟着光标“乱跑”？DockAnchor 正是为此而生！</p>\n<p><strong>DockAnchor</strong> 是一款轻量、原生的 macOS 工具，它能让你的 Dock 锁定在指定屏幕上，避免因意外触发而分散注意力。无须终端脚本，无需重启 Dock，系统级防护，从源头解决烦恼。</p>\n<img alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc\">\n<img alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/4b6170f2-5246-4ed8-8bf3-aabaa5873792\">\n<img alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/df79bf68-8377-4a93-ab00-7f94b1113c7e\">\n<h4>🚀 功能亮点：</h4>\n<ul>\n<li><strong>锁定 Dock 到指定屏幕</strong>，再也不会被“乱跑的 Dock”打断思路</li>\n<li><strong>自动启动、后台运行</strong>，你几乎感觉不到它的存在</li>\n<li><strong>实时检测显示器变动</strong>，支持断开/重连后的自动回退机制</li>\n<li><strong>友好显示器命名</strong>，轻松选择哪块屏幕是你的 Dock 主场</li>\n<li><strong>菜单栏快捷访问</strong>，状态一目了然，设置即点即用</li>\n<li><strong>系统级拦截鼠标行为</strong>，不重启 Dock、不闪屏，稳定优雅</li>\n<li><strong>自动检查更新</strong>，始终保持最新状态</li>\n</ul>\n<h3>💻 适合谁？</h3>\n<ul>\n<li>多屏办公的开发者、设计师</li>\n<li>想要更专注、更稳定桌面体验的用户</li>\n<li>不想因 Dock 跑偏而分心的你</li>\n</ul>\n<p>让 Dock 听话，就用 DockAnchor。\n立即体验，让多显示器环境更高效、更安静。</p>",
+    "summary": "在使用多显示器的 macOS 系统中，Dock 总是自动跟着光标“乱跑”？DockAnchor 正是为此而生！ **DockAnchor** 是一款轻量、原生的 macOS 工具，它能让你的 Dock 锁定在指定屏幕上，避免因意外触发而分散注意力。无须终端脚本，无需重启 Dock，系统级防护，从源头解决烦恼。 #### 🚀 功能亮点： * **锁定 Dock 到指定屏幕**，再也不会被“乱跑的 ",
+    "banner_image": null,
+    "date_published": "2025-07-16T17:39:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "在使用多显示器的 macOS 系统中，Dock 总是自动跟着光标“乱跑”？DockAnchor 正是为此而生！\n\n**DockAnchor** 是一款轻量、原生的 macOS 工具，它能让你的 Dock 锁定在指定屏幕上，避免因意外触发而分散注意力。无须终端脚本，无需重启 Dock，系统级防护，从源头解决烦恼。\n\n<img alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc\" />\n\n<img  alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/4b6170f2-5246-4ed8-8bf3-aabaa5873792\" />\n\n<img  alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/df79bf68-8377-4a93-ab00-7f94b1113c7e\" />\n\n#### 🚀 功能亮点：\n\n* **锁定 Dock 到指定屏幕**，再也不会被“乱跑的 Dock”打断思路\n* **自动启动、后台运行**，你几乎感觉不到它的存在\n* **实时检测显示器变动**，支持断开/重连后的自动回退机制\n* **友好显示器命名**，轻松选择哪块屏幕是你的 Dock 主场\n* **菜单栏快捷访问**，状态一目了然，设置即点即用\n* **系统级拦截鼠标行为**，不重启 Dock、不闪屏，稳定优雅\n* **自动检查更新**，始终保持最新状态\n\n### 💻 适合谁？\n\n* 多屏办公的开发者、设计师\n* 想要更专注、更稳定桌面体验的用户\n* 不想因 Dock 跑偏而分心的你\n\n让 Dock 听话，就用 DockAnchor。\n立即体验，让多显示器环境更高效、更安静。"
+  },
+  {
     "id": "173",
     "url": "https://wangchujiang.com/quick-rss/issue/173.html",
     "title": "Hidden Bar：一款帮你隐藏菜单栏图标，让你的桌面更整洁、更专注的 macOS 应用。",

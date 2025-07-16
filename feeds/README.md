@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DockAnchor：让你的 Dock 安分守己！](https://wangchujiang.com/quick-rss/issue/174.html) 
+
+![](https://github.com/user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc)
+
+在使用多显示器的 macOS 系统中，Dock 总是自动跟着光标“乱跑”？DockAnchor 正是为此而生！ DockAnchor 是一款轻量、原生的 macOS 工具，它能让你的 Dock 锁定在指定屏幕上，避免因意外触发而分散注意力。无须终端脚本，无需重启 Dock，系统级防护，从源头解决烦恼。 🚀 功能亮点： 锁定 Dock 到指定屏幕，再也不会被“乱跑的 Dock”打断思路 自动启动、 ([#174](https://github.com/jaywcjlove/quick-rss/issues/174) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Hidden Bar：一款帮你隐藏菜单栏图标，让你的桌面更整洁、更专注的 macOS 应用。](https://wangchujiang.com/quick-rss/issue/173.html) 
 
 ![](https://github.com/user-attachments/assets/6a43ca60-08a5-464b-8a22-76d69e11cb08)

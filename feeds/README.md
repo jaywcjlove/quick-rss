@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Hidden Bar：一款帮你隐藏菜单栏图标，让你的桌面更整洁、更专注的 macOS 应用。](https://wangchujiang.com/quick-rss/issue/173.html) 
+
+![](https://github.com/user-attachments/assets/6a43ca60-08a5-464b-8a22-76d69e11cb08)
+
+Hidden Bar 是一款简单却强大的 macOS 工具，帮你隐藏菜单栏图标，让你的桌面更整洁、更专注。 🧰 主要功能： 🧼 一键隐藏菜单栏图标，恢复清爽界面 🚀 启动即运行，自动整理不再手动 ⏱ 支持自动隐藏，5 到 60 秒随你定 🎹 全局快捷键切换，随时显隐自如 📏 支持全菜单栏模式，空间利用最大化 🌍 完善的 RTL（从右到左语言）支持 🛠 安装简单： $ brew ins ([#173](https://github.com/jaywcjlove/quick-rss/issues/173) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Mos：让你的鼠标滚动顺滑如丝——体验触控板般的滚动享受！](https://wangchujiang.com/quick-rss/issue/172.html) 
 
 ![](https://github.com/user-attachments/assets/7964ee03-1578-4e04-b44e-3f65fcf2bbf7)

@@ -1,5 +1,19 @@
 [
   {
+    "id": "173",
+    "url": "https://wangchujiang.com/quick-rss/issue/173.html",
+    "title": "Hidden Bar：一款帮你隐藏菜单栏图标，让你的桌面更整洁、更专注的 macOS 应用。",
+    "content_html": "<img alt=\"Hidden Bar\" src=\"https://github.com/user-attachments/assets/6a43ca60-08a5-464b-8a22-76d69e11cb08\">\n<img alt=\"Hidden Bar\" src=\"https://github.com/user-attachments/assets/f174090e-87be-48b7-9ebe-d069b7732a44\">\n<p><strong>Hidden Bar</strong> 是一款简单却强大的 macOS 工具，帮你隐藏菜单栏图标，让你的桌面更整洁、更专注。</p>\n<h3>🧰 主要功能：</h3>\n<ul>\n<li>🧼 一键隐藏菜单栏图标，恢复清爽界面</li>\n<li>🚀 启动即运行，自动整理不再手动</li>\n<li>⏱ 支持自动隐藏，5 到 60 秒随你定</li>\n<li>🎹 全局快捷键切换，随时显隐自如</li>\n<li>📏 支持全菜单栏模式，空间利用最大化</li>\n<li>🌍 完善的 RTL（从右到左语言）支持</li>\n</ul>\n<h4>🛠 安装简单：</h4>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">$ brew <span class=\"token function\">install</span> <span class=\"token parameter variable\">--cask</span> hiddenbar\n</span></code></pre>\n<p>立即试试 Hidden Bar，让菜单栏告别杂乱，恢复极简之美！</p>",
+    "summary": "**Hidden Bar** 是一款简单却强大的 macOS 工具，帮你隐藏菜单栏图标，让你的桌面更整洁、更专注。 ### 🧰 主要功能： * 🧼 一键隐藏菜单栏图标，恢复清爽界面 * 🚀 启动即运行，自动整理不再手动 * ⏱ 支持自动隐藏，5 到 60 秒随你定 * 🎹 全局快捷键切换，随时显隐自如 * 📏 支持全菜单栏模式，空间利用最大化 * 🌍 完善的 RTL（从右到左语言）支持",
+    "banner_image": null,
+    "date_published": "2025-07-16T17:23:30Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "<img alt=\"Hidden Bar\" src=\"https://github.com/user-attachments/assets/6a43ca60-08a5-464b-8a22-76d69e11cb08\" />\n\n<img alt=\"Hidden Bar\" src=\"https://github.com/user-attachments/assets/f174090e-87be-48b7-9ebe-d069b7732a44\" />\n\n**Hidden Bar** 是一款简单却强大的 macOS 工具，帮你隐藏菜单栏图标，让你的桌面更整洁、更专注。\n\n### 🧰 主要功能：\n\n* 🧼 一键隐藏菜单栏图标，恢复清爽界面\n* 🚀 启动即运行，自动整理不再手动\n* ⏱ 支持自动隐藏，5 到 60 秒随你定\n* 🎹 全局快捷键切换，随时显隐自如\n* 📏 支持全菜单栏模式，空间利用最大化\n* 🌍 完善的 RTL（从右到左语言）支持\n\n#### 🛠 安装简单：\n\n```bash\n$ brew install --cask hiddenbar\n```\n\n立即试试 Hidden Bar，让菜单栏告别杂乱，恢复极简之美！"
+  },
+  {
     "id": "172",
     "url": "https://wangchujiang.com/quick-rss/issue/172.html",
     "title": "Mos：让你的鼠标滚动顺滑如丝——体验触控板般的滚动享受！",

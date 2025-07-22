@@ -1,0 +1,16 @@
+[
+  {
+    "id": "175",
+    "url": "https://wangchujiang.com/quick-rss/issue/175.html",
+    "title": "TrackWeight：把你的 MacBook 触控板变成精准的数字秤！",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863\" alt=\"\"></p>\n<p>TrackWeight 是一款 macOS 应用程序，它将 MacBook 自带的 Force Touch 触控板 变成一台精密的电子秤。无需额外硬件，只需一根手指和一个轻巧的物体，就能完成称重操作。</p>\n<p>✅ 使用方法简单：</p>\n<ol>\n<li>打开应用</li>\n<li>用手指轻触触控板</li>\n<li>在保持接触的同时，放上你想称的物体</li>\n<li>保持最小压力接触，屏幕上就会显示出它的重量！</li>\n</ol>\n<p>🔍 它是怎么实现的？</p>\n<p>TrackWeight 利用了 macOS 上强大的 Multi-Touch 私有库，配合触控板中的压力传感器，获取到原本无法访问的压力数据。这些数据经过精准校准后，直接转换为 克（grams） 为单位的重量数值。</p>\n<p>🧪 准确度经过验证：</p>\n<p>我们通过将 MacBook 放在传统电子秤上，同时称重和记录触控板压力数据，完成了对不同重量区间的精密校准。结果令人惊喜：TrackWeight 获取的数据，天生就是以“克”为单位！</p>",
+    "summary": "TrackWeight 是一款 macOS 应用程序，它将 MacBook 自带的 Force Touch 触控板 变成一台精密的电子秤。无需额外硬件，只需一根手指和一个轻巧的物体，就能完成称重操作。 ✅ 使用方法简单： 1. 打开应用 2. 用手指轻触触控板 3. 在保持接触的同时，放上你想称的物体 4. 保持最小压力接触，屏幕上就会显示出它的重量！ 🔍 它是怎么实现的？ TrackWeigh",
+    "banner_image": "https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863",
+    "date_published": "2025-07-22T04:23:54Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![](https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863)\n\nTrackWeight 是一款 macOS 应用程序，它将 MacBook 自带的 Force Touch 触控板 变成一台精密的电子秤。无需额外硬件，只需一根手指和一个轻巧的物体，就能完成称重操作。\n\n✅ 使用方法简单：\n\n1. 打开应用\n2. 用手指轻触触控板\n3. 在保持接触的同时，放上你想称的物体\n4. 保持最小压力接触，屏幕上就会显示出它的重量！\n\n🔍 它是怎么实现的？\n\nTrackWeight 利用了 macOS 上强大的 Multi-Touch 私有库，配合触控板中的压力传感器，获取到原本无法访问的压力数据。这些数据经过精准校准后，直接转换为 克（grams） 为单位的重量数值。\n\n🧪 准确度经过验证：\n\n我们通过将 MacBook 放在传统电子秤上，同时称重和记录触控板压力数据，完成了对不同重量区间的精密校准。结果令人惊喜：TrackWeight 获取的数据，天生就是以“克”为单位！"
+  }
+]

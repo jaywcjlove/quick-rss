@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TrackWeight：把你的 MacBook 触控板变成精准的数字秤！](https://wangchujiang.com/quick-rss/issue/175.html) 
+
+![](https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863)
+
+TrackWeight 是一款 macOS 应用程序，它将 MacBook 自带的 Force Touch 触控板 变成一台精密的电子秤。无需额外硬件，只需一根手指和一个轻巧的物体，就能完成称重操作。 ✅ 使用方法简单： 打开应用 用手指轻触触控板 在保持接触的同时，放上你想称的物体 保持最小压力接触，屏幕上就会显示出它的重量！ 🔍 它是怎么实现的？ TrackWeight 利用了 macOS  ([#175](https://github.com/jaywcjlove/quick-rss/issues/175) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DockAnchor：让你的 Dock 安分守己！](https://wangchujiang.com/quick-rss/issue/174.html) 
 
 ![](https://github.com/user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc)

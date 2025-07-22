@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "175",
+            "content_html": "<p><img src=\"https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863\" alt=\"\"></p>\n<p>TrackWeight 是一款 macOS 应用程序，它将 MacBook 自带的 Force Touch 触控板 变成一台精密的电子秤。无需额外硬件，只需一根手指和一个轻巧的物体，就能完成称重操作。</p>\n<p>✅ 使用方法简单：</p>\n<ol>\n<li>打开应用</li>\n<li>用手指轻触触控板</li>\n<li>在保持接触的同时，放上你想称的物体</li>\n<li>保持最小压力接触，屏幕上就会显示出它的重量！</li>\n</ol>\n<p>🔍 它是怎么实现的？</p>\n<p>TrackWeight 利用了 macOS 上强大的 Multi-Touch 私有库，配合触控板中的压力传感器，获取到原本无法访问的压力数据。这些数据经过精准校准后，直接转换为 克（grams） 为单位的重量数值。</p>\n<p>🧪 准确度经过验证：</p>\n<p>我们通过将 MacBook 放在传统电子秤上，同时称重和记录触控板压力数据，完成了对不同重量区间的精密校准。结果令人惊喜：TrackWeight 获取的数据，天生就是以“克”为单位！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/175\" target=\"_blank\">#175</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/175.html",
+            "title": "TrackWeight：把你的 MacBook 触控板变成精准的数字秤！",
+            "summary": "TrackWeight 是一款 macOS 应用程序，它将 MacBook 自带的 Force Touch 触控板 变成一台精密的电子秤。无需额外硬件，只需一根手指和一个轻巧的物体，就能完成称重操作。 ✅ 使用方法简单： 打开应用 用手指轻触触控板 在保持接触的同时，放上你想称的物体 保持最小压力接触，屏幕上就会显示出它的重量！ 🔍 它是怎么实现的？ TrackWeight 利用了 macOS ",
+            "image": "https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863",
+            "date_modified": "2025-07-22T04:23:54.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "174",
             "content_html": "<p>在使用多显示器的 macOS 系统中，Dock 总是自动跟着光标“乱跑”？DockAnchor 正是为此而生！</p>\n<p><strong>DockAnchor</strong> 是一款轻量、原生的 macOS 工具，它能让你的 Dock 锁定在指定屏幕上，避免因意外触发而分散注意力。无须终端脚本，无需重启 Dock，系统级防护，从源头解决烦恼。</p>\n<img alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc\">\n<img alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/4b6170f2-5246-4ed8-8bf3-aabaa5873792\">\n<img alt=\"DockAnchor\" src=\"https://github.com/user-attachments/assets/df79bf68-8377-4a93-ab00-7f94b1113c7e\">\n<h4>🚀 功能亮点：</h4>\n<ul>\n<li><strong>锁定 Dock 到指定屏幕</strong>，再也不会被“乱跑的 Dock”打断思路</li>\n<li><strong>自动启动、后台运行</strong>，你几乎感觉不到它的存在</li>\n<li><strong>实时检测显示器变动</strong>，支持断开/重连后的自动回退机制</li>\n<li><strong>友好显示器命名</strong>，轻松选择哪块屏幕是你的 Dock 主场</li>\n<li><strong>菜单栏快捷访问</strong>，状态一目了然，设置即点即用</li>\n<li><strong>系统级拦截鼠标行为</strong>，不重启 Dock、不闪屏，稳定优雅</li>\n<li><strong>自动检查更新</strong>，始终保持最新状态</li>\n</ul>\n<h3>💻 适合谁？</h3>\n<ul>\n<li>多屏办公的开发者、设计师</li>\n<li>想要更专注、更稳定桌面体验的用户</li>\n<li>不想因 Dock 跑偏而分心的你</li>\n</ul>\n<p>让 Dock 听话，就用 DockAnchor。\n立即体验，让多显示器环境更高效、更安静。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/174\" target=\"_blank\">#174</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/174.html",

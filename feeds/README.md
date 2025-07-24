@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Sticky：快速记录的便签工具](https://wangchujiang.com/quick-rss/issue/176.html) 
+
+![](https://github.com/user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae)
+
+Sticky 是一款轻量级、启动迅速的便签应用，让你随时随地记录灵感、笔记、待办事项或任何重要信息。无需复杂设置，打开即写，专注记录每一个闪现的想法。 ([#176](https://github.com/jaywcjlove/quick-rss/issues/176) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [TrackWeight：把你的 MacBook 触控板变成精准的数字秤！](https://wangchujiang.com/quick-rss/issue/175.html) 
 
 ![](https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863)

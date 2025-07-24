@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "176",
+            "content_html": "<p>Sticky 是一款轻量级、启动迅速的便签应用，让你随时随地记录灵感、笔记、待办事项或任何重要信息。无需复杂设置，打开即写，专注记录每一个闪现的想法。</p>\n<img alt=\"Sticky\" src=\"https://github.com/user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/176\" target=\"_blank\">#176</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/176.html",
+            "title": "Sticky：快速记录的便签工具",
+            "summary": "Sticky 是一款轻量级、启动迅速的便签应用，让你随时随地记录灵感、笔记、待办事项或任何重要信息。无需复杂设置，打开即写，专注记录每一个闪现的想法。",
+            "image": "https://github.com/user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae",
+            "date_modified": "2025-07-24T05:33:47.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "175",
             "content_html": "<p><img src=\"https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863\" alt=\"\"></p>\n<p>TrackWeight 是一款 macOS 应用程序，它将 MacBook 自带的 Force Touch 触控板 变成一台精密的电子秤。无需额外硬件，只需一根手指和一个轻巧的物体，就能完成称重操作。</p>\n<p>✅ 使用方法简单：</p>\n<ol>\n<li>打开应用</li>\n<li>用手指轻触触控板</li>\n<li>在保持接触的同时，放上你想称的物体</li>\n<li>保持最小压力接触，屏幕上就会显示出它的重量！</li>\n</ol>\n<p>🔍 它是怎么实现的？</p>\n<p>TrackWeight 利用了 macOS 上强大的 Multi-Touch 私有库，配合触控板中的压力传感器，获取到原本无法访问的压力数据。这些数据经过精准校准后，直接转换为 克（grams） 为单位的重量数值。</p>\n<p>🧪 准确度经过验证：</p>\n<p>我们通过将 MacBook 放在传统电子秤上，同时称重和记录触控板压力数据，完成了对不同重量区间的精密校准。结果令人惊喜：TrackWeight 获取的数据，天生就是以“克”为单位！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/175\" target=\"_blank\">#175</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/175.html",

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 22 Jul 2025 04:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 05:34:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sticky：快速记录的便签工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/176.html</link>
+            <guid>176</guid>
+            <pubDate>Thu, 24 Jul 2025 05:33:47 GMT</pubDate>
+            <description><![CDATA[Sticky 是一款轻量级、启动迅速的便签应用，让你随时随地记录灵感、笔记、待办事项或任何重要信息。无需复杂设置，打开即写，专注记录每一个闪现的想法。]]></description>
+            <content:encoded><![CDATA[<p>Sticky 是一款轻量级、启动迅速的便签应用，让你随时随地记录灵感、笔记、待办事项或任何重要信息。无需复杂设置，打开即写，专注记录每一个闪现的想法。</p>
+<img alt="Sticky" src="https://github.com/user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/176" target="_blank">#176</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae" length="0" type="image//user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae"/>
+        </item>
         <item>
             <title><![CDATA[TrackWeight：把你的 MacBook 触控板变成精准的数字秤！]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/175.html</link>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Web for macOS — SwiftUI 打造的本地 AI 浏览器](https://wangchujiang.com/quick-rss/issue/177.html) 
+
+![](https://github.com/user-attachments/assets/a235a08d-174f-4f41-8326-90a5a22ba2df)
+
+Web 是一款专为 macOS 打造的极简浏览器，采用 SwiftUI 原生构建，仅 10.9 MB，支持 Apple Silicon 本地 AI 功能。无论是日常浏览还是智能辅助，这款浏览器都追求极致轻量与隐私保护。 🧠 集成本地 AI：基于 Apple MLX + MLX Swift 实现内容分析与智能摘要，AI 运算全部在设备本地完成。 🧭 核心功能：支持多标签页管理、下载管理、快捷键操 ([#177](https://github.com/jaywcjlove/quick-rss/issues/177) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Sticky：快速记录的便签工具](https://wangchujiang.com/quick-rss/issue/176.html) 
 
 ![](https://github.com/user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae)

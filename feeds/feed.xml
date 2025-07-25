@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-07-24T05:34:13.085Z</updated>
+    <updated>2025-07-25T13:55:48.150Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,34 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Web for macOS — SwiftUI 打造的本地 AI 浏览器]]></title>
+        <id>177</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/177.html"/>
+        <updated>2025-07-25T13:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Web 是一款专为 macOS 打造的极简浏览器，采用 SwiftUI 原生构建，仅 10.9 MB，支持 Apple Silicon 本地 AI 功能。无论是日常浏览还是智能辅助，这款浏览器都追求极致轻量与隐私保护。 🧠 集成本地 AI：基于 Apple MLX + MLX Swift 实现内容分析与智能摘要，AI 运算全部在设备本地完成。 🧭 核心功能：支持多标签页管理、下载管理、快捷键操]]></summary>
+        <content type="html"><![CDATA[<p><strong>Web 是一款专为 macOS 打造的极简浏览器</strong>，采用 SwiftUI 原生构建，仅 10.9 MB，支持 Apple Silicon 本地 AI 功能。无论是日常浏览还是智能辅助，这款浏览器都追求极致轻量与隐私保护。</p>
+<p><img src="https://github.com/user-attachments/assets/a235a08d-174f-4f41-8326-90a5a22ba2df" alt="Web for macOS"></p>
+<ul>
+<li>🧠 <strong>集成本地 AI</strong>：基于 Apple MLX + MLX Swift 实现内容分析与智能摘要，AI 运算全部在设备本地完成。</li>
+<li>🧭 <strong>核心功能</strong>：支持多标签页管理、下载管理、快捷键操作、隐私模式、广告拦截等。</li>
+<li>🔐 <strong>注重隐私</strong>：支持私密浏览、密码管理、可控的隐私设置。</li>
+<li>🧪 仍在持续开发中，但已可尝鲜体验本地 AI 浏览器的未来。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/177" target="_blank">#177</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sticky：快速记录的便签工具]]></title>
         <id>176</id>

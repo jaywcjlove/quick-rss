@@ -1,5 +1,19 @@
 [
   {
+    "id": "177",
+    "url": "https://wangchujiang.com/quick-rss/issue/177.html",
+    "title": "Web for macOS — SwiftUI 打造的本地 AI 浏览器",
+    "content_html": "<p><strong>Web 是一款专为 macOS 打造的极简浏览器</strong>，采用 SwiftUI 原生构建，仅 10.9 MB，支持 Apple Silicon 本地 AI 功能。无论是日常浏览还是智能辅助，这款浏览器都追求极致轻量与隐私保护。</p>\n<p><img src=\"https://github.com/user-attachments/assets/a235a08d-174f-4f41-8326-90a5a22ba2df\" alt=\"Web for macOS\"></p>\n<ul>\n<li>🧠 <strong>集成本地 AI</strong>：基于 Apple MLX + MLX Swift 实现内容分析与智能摘要，AI 运算全部在设备本地完成。</li>\n<li>🧭 <strong>核心功能</strong>：支持多标签页管理、下载管理、快捷键操作、隐私模式、广告拦截等。</li>\n<li>🔐 <strong>注重隐私</strong>：支持私密浏览、密码管理、可控的隐私设置。</li>\n<li>🧪 仍在持续开发中，但已可尝鲜体验本地 AI 浏览器的未来。</li>\n</ul>",
+    "summary": "**Web 是一款专为 macOS 打造的极简浏览器**，采用 SwiftUI 原生构建，仅 10.9 MB，支持 Apple Silicon 本地 AI 功能。无论是日常浏览还是智能辅助，这款浏览器都追求极致轻量与隐私保护。 * 🧠 **集成本地 AI**：基于 Apple MLX + MLX Swift 实现内容分析与智能摘要，AI 运算全部在设备本地完成。 * 🧭 **核心功能**：支持",
+    "banner_image": "https://github.com/user-attachments/assets/a235a08d-174f-4f41-8326-90a5a22ba2df",
+    "date_published": "2025-07-25T13:55:08Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**Web 是一款专为 macOS 打造的极简浏览器**，采用 SwiftUI 原生构建，仅 10.9 MB，支持 Apple Silicon 本地 AI 功能。无论是日常浏览还是智能辅助，这款浏览器都追求极致轻量与隐私保护。\n\n![Web for macOS](https://github.com/user-attachments/assets/a235a08d-174f-4f41-8326-90a5a22ba2df)\n\n* 🧠 **集成本地 AI**：基于 Apple MLX + MLX Swift 实现内容分析与智能摘要，AI 运算全部在设备本地完成。\n* 🧭 **核心功能**：支持多标签页管理、下载管理、快捷键操作、隐私模式、广告拦截等。\n* 🔐 **注重隐私**：支持私密浏览、密码管理、可控的隐私设置。\n* 🧪 仍在持续开发中，但已可尝鲜体验本地 AI 浏览器的未来。"
+  },
+  {
     "id": "176",
     "url": "https://wangchujiang.com/quick-rss/issue/176.html",
     "title": "Sticky：快速记录的便签工具",

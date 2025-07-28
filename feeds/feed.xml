@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-07-25T13:55:48.150Z</updated>
+    <updated>2025-07-28T04:06:55.043Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,43 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[MoonTV：跨平台影视聚合播放器，随时随地畅享免费影视]]></title>
+        <id>178</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/178.html"/>
+        <updated>2025-07-28T04:06:30.000Z</updated>
+        <summary type="html"><![CDATA[想要一个开箱即用的影视播放器？MoonTV 就是你的理想选择！ 它基于 Next.js 14 + Tailwind CSS + TypeScript 打造，界面简洁，体验丝滑，支持多平台部署，轻松获取海量免费影视资源。 🌟 核心亮点： 🔍 多源聚合搜索：内置多个资源站点，一次搜索立返全网资源。 📄 详细影片信息：展示剧集、演员、年份、简介等完整资料。 ▶️ 流畅播放体验：内置 HLS.js ]]></summary>
+        <content type="html"><![CDATA[<p>想要一个开箱即用的影视播放器？MoonTV 就是你的理想选择！
+它基于 Next.js 14 + Tailwind CSS + TypeScript 打造，界面简洁，体验丝滑，支持多平台部署，轻松获取海量免费影视资源。</p>
+<img alt="MoonTV" src="https://github.com/user-attachments/assets/935d4aeb-0cca-427b-a732-a87b8343595e">
+<img alt="MoonTV" src="https://github.com/user-attachments/assets/211b3040-39ab-4a0b-9fbd-9f1b2b98821d">
+<img alt="MoonTV" src="https://github.com/user-attachments/assets/3140eca4-bd20-4949-85c3-615b9eb191b0">
+<h2>🌟 核心亮点：</h2>
+<ul>
+<li>🔍 多源聚合搜索：内置多个资源站点，一次搜索立返全网资源。</li>
+<li>📄 详细影片信息：展示剧集、演员、年份、简介等完整资料。</li>
+<li>▶️ 流畅播放体验：内置 HLS.js + ArtPlayer，支持在线播放。</li>
+<li>❤️ 多端收藏/进度同步：支持 Redis/D1 存储，数据云端保存。</li>
+<li>📱 PWA 支持：支持离线缓存，可安装到桌面/主屏，媲美原生 App。</li>
+<li>🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适配各种设备。</li>
+<li>🚀 极速部署：支持 Docker 一键部署，也可免费部署至 Vercel、Cloudflare。</li>
+<li>👿 智能去广告（实验）：自动跳过视频片段广告，看片更清爽。</li>
+</ul>
+<p>🧩 支持多种部署方式，源码开源，欢迎自由搭建和二次开发！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/178" target="_blank">#178</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web for macOS — SwiftUI 打造的本地 AI 浏览器]]></title>
         <id>177</id>

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "178",
+    "url": "https://wangchujiang.com/quick-rss/issue/178.html",
+    "title": "MoonTV：跨平台影视聚合播放器，随时随地畅享免费影视",
+    "content_html": "<p>想要一个开箱即用的影视播放器？MoonTV 就是你的理想选择！\n它基于 Next.js 14 + Tailwind CSS + TypeScript 打造，界面简洁，体验丝滑，支持多平台部署，轻松获取海量免费影视资源。</p>\n<img alt=\"MoonTV\" src=\"https://github.com/user-attachments/assets/935d4aeb-0cca-427b-a732-a87b8343595e\">\n<img alt=\"MoonTV\" src=\"https://github.com/user-attachments/assets/211b3040-39ab-4a0b-9fbd-9f1b2b98821d\">\n<img alt=\"MoonTV\" src=\"https://github.com/user-attachments/assets/3140eca4-bd20-4949-85c3-615b9eb191b0\">\n<h2>🌟 核心亮点：</h2>\n<ul>\n<li>🔍 多源聚合搜索：内置多个资源站点，一次搜索立返全网资源。</li>\n<li>📄 详细影片信息：展示剧集、演员、年份、简介等完整资料。</li>\n<li>▶️ 流畅播放体验：内置 HLS.js + ArtPlayer，支持在线播放。</li>\n<li>❤️ 多端收藏/进度同步：支持 Redis/D1 存储，数据云端保存。</li>\n<li>📱 PWA 支持：支持离线缓存，可安装到桌面/主屏，媲美原生 App。</li>\n<li>🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适配各种设备。</li>\n<li>🚀 极速部署：支持 Docker 一键部署，也可免费部署至 Vercel、Cloudflare。</li>\n<li>👿 智能去广告（实验）：自动跳过视频片段广告，看片更清爽。</li>\n</ul>\n<p>🧩 支持多种部署方式，源码开源，欢迎自由搭建和二次开发！</p>",
+    "summary": "想要一个开箱即用的影视播放器？MoonTV 就是你的理想选择！ 它基于 Next.js 14 + Tailwind CSS + TypeScript 打造，界面简洁，体验丝滑，支持多平台部署，轻松获取海量免费影视资源。 🌟 核心亮点： - - 🔍 多源聚合搜索：内置多个资源站点，一次搜索立返全网资源。 - 📄 详细影片信息：展示剧集、演员、年份、简介等完整资料。 - ▶️ 流畅播放体验：内置",
+    "banner_image": null,
+    "date_published": "2025-07-28T04:06:30Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "想要一个开箱即用的影视播放器？MoonTV 就是你的理想选择！\n它基于 Next.js 14 + Tailwind CSS + TypeScript 打造，界面简洁，体验丝滑，支持多平台部署，轻松获取海量免费影视资源。\n\n<img alt=\"MoonTV\" src=\"https://github.com/user-attachments/assets/935d4aeb-0cca-427b-a732-a87b8343595e\" />\n\n<img  alt=\"MoonTV\" src=\"https://github.com/user-attachments/assets/211b3040-39ab-4a0b-9fbd-9f1b2b98821d\" />\n\n<img  alt=\"MoonTV\" src=\"https://github.com/user-attachments/assets/3140eca4-bd20-4949-85c3-615b9eb191b0\" />\n\n🌟 核心亮点：\n- \n- 🔍 多源聚合搜索：内置多个资源站点，一次搜索立返全网资源。\n- 📄 详细影片信息：展示剧集、演员、年份、简介等完整资料。\n- ▶️ 流畅播放体验：内置 HLS.js + ArtPlayer，支持在线播放。\n- ❤️ 多端收藏/进度同步：支持 Redis/D1 存储，数据云端保存。\n- 📱 PWA 支持：支持离线缓存，可安装到桌面/主屏，媲美原生 App。\n- 🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适配各种设备。\n- 🚀 极速部署：支持 Docker 一键部署，也可免费部署至 Vercel、Cloudflare。\n- 👿 智能去广告（实验）：自动跳过视频片段广告，看片更清爽。\n\n🧩 支持多种部署方式，源码开源，欢迎自由搭建和二次开发！"
+  }
+]

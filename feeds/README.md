@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MoonTV：跨平台影视聚合播放器，随时随地畅享免费影视](https://wangchujiang.com/quick-rss/issue/178.html) 
+
+![](https://github.com/user-attachments/assets/935d4aeb-0cca-427b-a732-a87b8343595e)
+
+想要一个开箱即用的影视播放器？MoonTV 就是你的理想选择！ 它基于 Next.js 14 + Tailwind CSS + TypeScript 打造，界面简洁，体验丝滑，支持多平台部署，轻松获取海量免费影视资源。 🌟 核心亮点： 🔍 多源聚合搜索：内置多个资源站点，一次搜索立返全网资源。 📄 详细影片信息：展示剧集、演员、年份、简介等完整资料。 ▶️ 流畅播放体验：内置 HLS.js  ([#178](https://github.com/jaywcjlove/quick-rss/issues/178) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Web for macOS — SwiftUI 打造的本地 AI 浏览器](https://wangchujiang.com/quick-rss/issue/177.html) 
 
 ![](https://github.com/user-attachments/assets/a235a08d-174f-4f41-8326-90a5a22ba2df)

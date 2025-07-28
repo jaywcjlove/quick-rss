@@ -1,5 +1,19 @@
 [
   {
+    "id": "179",
+    "url": "https://wangchujiang.com/quick-rss/issue/179.html",
+    "title": "RomM：模拟器游戏玩家必备的 ROM 管理器",
+    "content_html": "<p>这是一个基于 Python 开发的 ROM 管理和模拟器平台，支持在浏览器中直接运行游戏。用户可通过简洁的 Web 界面，轻松扫描本地游戏、自动抓取游戏封面、统一管理多平台 ROM 资源，兼容 400 多种游戏平台。</p>\n<img alt=\"RomM\" src=\"https://github.com/user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355\">\n<img alt=\"RomM\" src=\"https://github.com/user-attachments/assets/88ee459d-10a7-4aaf-aab1-1757789821f6\">\n<img alt=\"RomM\" src=\"https://github.com/user-attachments/assets/8760a541-da11-45fe-9338-2fd375505df0\">",
+    "summary": "这是一个基于 Python 开发的 ROM 管理和模拟器平台，支持在浏览器中直接运行游戏。用户可通过简洁的 Web 界面，轻松扫描本地游戏、自动抓取游戏封面、统一管理多平台 ROM 资源，兼容 400 多种游戏平台。",
+    "banner_image": null,
+    "date_published": "2025-07-28T04:48:47Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一个基于 Python 开发的 ROM 管理和模拟器平台，支持在浏览器中直接运行游戏。用户可通过简洁的 Web 界面，轻松扫描本地游戏、自动抓取游戏封面、统一管理多平台 ROM 资源，兼容 400 多种游戏平台。\n\n<img alt=\"RomM\" src=\"https://github.com/user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355\" />\n\n<img alt=\"RomM\" src=\"https://github.com/user-attachments/assets/88ee459d-10a7-4aaf-aab1-1757789821f6\" />\n\n<img  alt=\"RomM\" src=\"https://github.com/user-attachments/assets/8760a541-da11-45fe-9338-2fd375505df0\" />"
+  },
+  {
     "id": "178",
     "url": "https://wangchujiang.com/quick-rss/issue/178.html",
     "title": "MoonTV：跨平台影视聚合播放器，随时随地畅享免费影视",

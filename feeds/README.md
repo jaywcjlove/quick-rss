@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [RomM：模拟器游戏玩家必备的 ROM 管理器](https://wangchujiang.com/quick-rss/issue/179.html) 
+
+![](https://github.com/user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355)
+
+这是一个基于 Python 开发的 ROM 管理和模拟器平台，支持在浏览器中直接运行游戏。用户可通过简洁的 Web 界面，轻松扫描本地游戏、自动抓取游戏封面、统一管理多平台 ROM 资源，兼容 400 多种游戏平台。 ([#179](https://github.com/jaywcjlove/quick-rss/issues/179) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MoonTV：跨平台影视聚合播放器，随时随地畅享免费影视](https://wangchujiang.com/quick-rss/issue/178.html) 
 
 ![](https://github.com/user-attachments/assets/935d4aeb-0cca-427b-a732-a87b8343595e)

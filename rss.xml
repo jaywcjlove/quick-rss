@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 28 Jul 2025 04:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 04:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RomM：模拟器游戏玩家必备的 ROM 管理器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/179.html</link>
+            <guid>179</guid>
+            <pubDate>Mon, 28 Jul 2025 04:48:47 GMT</pubDate>
+            <description><![CDATA[这是一个基于 Python 开发的 ROM 管理和模拟器平台，支持在浏览器中直接运行游戏。用户可通过简洁的 Web 界面，轻松扫描本地游戏、自动抓取游戏封面、统一管理多平台 ROM 资源，兼容 400 多种游戏平台。]]></description>
+            <content:encoded><![CDATA[<p>这是一个基于 Python 开发的 ROM 管理和模拟器平台，支持在浏览器中直接运行游戏。用户可通过简洁的 Web 界面，轻松扫描本地游戏、自动抓取游戏封面、统一管理多平台 ROM 资源，兼容 400 多种游戏平台。</p>
+<img alt="RomM" src="https://github.com/user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355">
+<img alt="RomM" src="https://github.com/user-attachments/assets/88ee459d-10a7-4aaf-aab1-1757789821f6">
+<img alt="RomM" src="https://github.com/user-attachments/assets/8760a541-da11-45fe-9338-2fd375505df0"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/179" target="_blank">#179</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355" length="0" type="image//user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355"/>
+        </item>
         <item>
             <title><![CDATA[MoonTV：跨平台影视聚合播放器，随时随地畅享免费影视]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/178.html</link>

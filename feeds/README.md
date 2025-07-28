@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Monotype：一款有趣且极简的写作应用，带来真实打字机的手感，专为专注、流畅与乐趣而设计。](https://wangchujiang.com/quick-rss/issue/180.html) 
+
+![](https://github.com/user-attachments/assets/652a9865-31f5-4bf8-9754-1c4765512eeb)
+
+厌倦了杂乱的写作应用？Monotype 是一款专注、离线优先的写作工具，在 Mac 上带来如同真实打字机的写作体验。 没有格式、没有标签、没有干扰，它重新唤起写作的乐趣与流畅感。页面滚动方式仿佛老式打字机，让你的视线始终聚焦，思绪不被打断。 ([#180](https://github.com/jaywcjlove/quick-rss/issues/180) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [RomM：模拟器游戏玩家必备的 ROM 管理器](https://wangchujiang.com/quick-rss/issue/179.html) 
 
 ![](https://github.com/user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355)

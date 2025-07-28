@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 28 Jul 2025 04:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 16:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Monotype：一款有趣且极简的写作应用，带来真实打字机的手感，专为专注、流畅与乐趣而设计。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/180.html</link>
+            <guid>180</guid>
+            <pubDate>Mon, 28 Jul 2025 16:46:17 GMT</pubDate>
+            <description><![CDATA[厌倦了杂乱的写作应用？Monotype 是一款专注、离线优先的写作工具，在 Mac 上带来如同真实打字机的写作体验。 没有格式、没有标签、没有干扰，它重新唤起写作的乐趣与流畅感。页面滚动方式仿佛老式打字机，让你的视线始终聚焦，思绪不被打断。]]></description>
+            <content:encoded><![CDATA[<p>厌倦了杂乱的写作应用？Monotype 是一款专注、离线优先的写作工具，在 Mac 上带来如同真实打字机的写作体验。</p>
+<p><img src="https://github.com/user-attachments/assets/652a9865-31f5-4bf8-9754-1c4765512eeb" alt="Monotype"></p>
+<p>没有格式、没有标签、没有干扰，它重新唤起写作的乐趣与流畅感。页面滚动方式仿佛老式打字机，让你的视线始终聚焦，思绪不被打断。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/180" target="_blank">#180</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/652a9865-31f5-4bf8-9754-1c4765512eeb" length="0" type="image//user-attachments/assets/652a9865-31f5-4bf8-9754-1c4765512eeb"/>
+        </item>
         <item>
             <title><![CDATA[RomM：模拟器游戏玩家必备的 ROM 管理器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/179.html</link>

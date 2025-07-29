@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 28 Jul 2025 16:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 17:34:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FlowVision：为macOS设计的瀑布流式图片浏览器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/181.html</link>
+            <guid>181</guid>
+            <pubDate>Tue, 29 Jul 2025 17:33:42 GMT</pubDate>
+            <description><![CDATA[一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。]]></description>
+            <content:encoded><![CDATA[<p>一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。</p>
+<img alt="FlowVision" src="https://github.com/user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/181" target="_blank">#181</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a" length="0" type="image//user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a"/>
+        </item>
         <item>
             <title><![CDATA[Monotype：一款有趣且极简的写作应用，带来真实打字机的手感，专为专注、流畅与乐趣而设计。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/180.html</link>

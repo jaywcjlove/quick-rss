@@ -1,5 +1,19 @@
 [
   {
+    "id": "181",
+    "url": "https://wangchujiang.com/quick-rss/issue/181.html",
+    "title": "FlowVision：为macOS设计的瀑布流式图片浏览器",
+    "content_html": "<p>一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。</p>\n<img alt=\"FlowVision\" src=\"https://github.com/user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a\">",
+    "summary": "一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。",
+    "banner_image": null,
+    "date_published": "2025-07-29T17:33:42Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。\n\n<img alt=\"FlowVision\" src=\"https://github.com/user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a\" />"
+  },
+  {
     "id": "180",
     "url": "https://wangchujiang.com/quick-rss/issue/180.html",
     "title": "Monotype：一款有趣且极简的写作应用，带来真实打字机的手感，专为专注、流畅与乐趣而设计。",

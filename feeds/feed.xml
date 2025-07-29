@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-07-28T16:46:39.093Z</updated>
+    <updated>2025-07-29T17:34:09.007Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,28 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[FlowVision：为macOS设计的瀑布流式图片浏览器]]></title>
+        <id>181</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/181.html"/>
+        <updated>2025-07-29T17:33:42.000Z</updated>
+        <summary type="html"><![CDATA[一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。]]></summary>
+        <content type="html"><![CDATA[<p>一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。</p>
+<img alt="FlowVision" src="https://github.com/user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/181" target="_blank">#181</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monotype：一款有趣且极简的写作应用，带来真实打字机的手感，专为专注、流畅与乐趣而设计。]]></title>
         <id>180</id>

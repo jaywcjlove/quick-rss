@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [FlowVision：为macOS设计的瀑布流式图片浏览器](https://wangchujiang.com/quick-rss/issue/181.html) 
+
+![](https://github.com/user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a)
+
+一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。 ([#181](https://github.com/jaywcjlove/quick-rss/issues/181) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Monotype：一款有趣且极简的写作应用，带来真实打字机的手感，专为专注、流畅与乐趣而设计。](https://wangchujiang.com/quick-rss/issue/180.html) 
 
 ![](https://github.com/user-attachments/assets/652a9865-31f5-4bf8-9754-1c4765512eeb)

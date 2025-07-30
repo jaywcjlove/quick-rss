@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-07-29T17:34:09.007Z</updated>
+    <updated>2025-07-30T18:52:22.632Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,38 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[DeskPad — 让屏幕共享更清晰]]></title>
+        <id>182</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/182.html"/>
+        <updated>2025-07-30T18:51:59.000Z</updated>
+        <summary type="html"><![CDATA[在远程演示或线上会议中，你是否遇到过这样的困扰：为了展示多个应用操作，不得不分享整个屏幕，但你的显示器分辨率太高，观众根本看不清内容？ 🎯 DeskPad 正是为此而生。 它可以创建一个虚拟显示器，并将内容镜像到一个独立的应用窗口中。你只需共享这个窗口，就能为观众提供一个清晰、专注、适配任意屏幕尺寸的演示画面。 ✅ 应用特点： 虚拟屏幕共享，无需切换主显示器 自定义窗口尺寸，适配观众设备 保持私]]></summary>
+        <content type="html"><![CDATA[<p>在远程演示或线上会议中，你是否遇到过这样的困扰：为了展示多个应用操作，不得不分享整个屏幕，但你的显示器分辨率太高，观众根本看不清内容？</p>
+<img alt="DeskPad — 让屏幕共享更清晰" src="https://github.com/user-attachments/assets/8c84e985-8c79-4351-824a-364462d78dfb">
+<p>🎯 DeskPad 正是为此而生。</p>
+<p>它可以创建一个虚拟显示器，并将内容镜像到一个独立的应用窗口中。你只需共享这个窗口，就能为观众提供一个清晰、专注、适配任意屏幕尺寸的演示画面。</p>
+<p>✅ 应用特点：</p>
+<ul>
+<li>虚拟屏幕共享，无需切换主显示器</li>
+<li>自定义窗口尺寸，适配观众设备</li>
+<li>保持私密性，避免分享多余内容</li>
+<li>非常适合线上教学、代码演示、产品介绍等场景</li>
+</ul>
+<p>无论你是开发者、讲师、还是演示达人，DeskPad 都能让你的屏幕共享体验更专业、更清晰、更高效。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/182" target="_blank">#182</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FlowVision：为macOS设计的瀑布流式图片浏览器]]></title>
         <id>181</id>

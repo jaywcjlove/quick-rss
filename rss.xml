@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 29 Jul 2025 17:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jul 2025 18:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,31 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DeskPad — 让屏幕共享更清晰]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/182.html</link>
+            <guid>182</guid>
+            <pubDate>Wed, 30 Jul 2025 18:51:59 GMT</pubDate>
+            <description><![CDATA[在远程演示或线上会议中，你是否遇到过这样的困扰：为了展示多个应用操作，不得不分享整个屏幕，但你的显示器分辨率太高，观众根本看不清内容？ 🎯 DeskPad 正是为此而生。 它可以创建一个虚拟显示器，并将内容镜像到一个独立的应用窗口中。你只需共享这个窗口，就能为观众提供一个清晰、专注、适配任意屏幕尺寸的演示画面。 ✅ 应用特点： 虚拟屏幕共享，无需切换主显示器 自定义窗口尺寸，适配观众设备 保持私]]></description>
+            <content:encoded><![CDATA[<p>在远程演示或线上会议中，你是否遇到过这样的困扰：为了展示多个应用操作，不得不分享整个屏幕，但你的显示器分辨率太高，观众根本看不清内容？</p>
+<img alt="DeskPad — 让屏幕共享更清晰" src="https://github.com/user-attachments/assets/8c84e985-8c79-4351-824a-364462d78dfb">
+<p>🎯 DeskPad 正是为此而生。</p>
+<p>它可以创建一个虚拟显示器，并将内容镜像到一个独立的应用窗口中。你只需共享这个窗口，就能为观众提供一个清晰、专注、适配任意屏幕尺寸的演示画面。</p>
+<p>✅ 应用特点：</p>
+<ul>
+<li>虚拟屏幕共享，无需切换主显示器</li>
+<li>自定义窗口尺寸，适配观众设备</li>
+<li>保持私密性，避免分享多余内容</li>
+<li>非常适合线上教学、代码演示、产品介绍等场景</li>
+</ul>
+<p>无论你是开发者、讲师、还是演示达人，DeskPad 都能让你的屏幕共享体验更专业、更清晰、更高效。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/182" target="_blank">#182</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8c84e985-8c79-4351-824a-364462d78dfb" length="0" type="image//user-attachments/assets/8c84e985-8c79-4351-824a-364462d78dfb"/>
+        </item>
         <item>
             <title><![CDATA[FlowVision：为macOS设计的瀑布流式图片浏览器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/181.html</link>

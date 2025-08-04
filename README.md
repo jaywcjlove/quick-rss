@@ -77,4 +77,4544 @@ Here are some recommended RSS feeds. Feel free to share your favorite RSS feeds 
 site: Quick RSS
 title: A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease. - 
 keywords: Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager
--->
+-->default.cpp:1:1: error: unknown type name 'get_module'
+get_module
+^
+default.cpp:2:1: error: expected unqualified-id
+===
+^
+default.cpp:8:66: error: non-ASCII characters are not allowed outside of literals and identifiers
+**get_module命令** 用于获取Linux内核模块的详细信息。
+                                                  ^~
+default.cpp:71:92: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                        ^~
+default.cpp:71:213: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                   ^~
+default.cpp:71:297: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                              ^~
+default.cpp:71:404: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                                                                                                       ^~
+default.cpp:71:535: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                                                                                                                                                                                                  ^~
+default.cpp:76:379: error: non-ASCII characters are not allowed outside of literals and identifiers
+2. tailf check文件增长时，使用的是文件名， 用stat系统调用；而tail -f 则使用的是已打开的文件描述符； 注：tail 也可以做到类似跟踪文件名的效果； 但是tail总是使用fstat系统调用，而不是stat系统调用；结果就是：默认情况下，当tail的文件被偷偷删除时，tail是不知道的，而tailf是知道的。
+                                                                                                                                                                                                                                                                                ^~
+default.cpp:81:98: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf logfile # 动态跟踪日志文件logfile，最初的时候打印文件的最后10行内容。
+                                                                         ^~
+default.cpp:95:28: error: non-ASCII characters are not allowed outside of literals and identifiers
+目标：指定目标日志。
+                  ^~
+default.cpp:110:185: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                              ^~
+default.cpp:110:260: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                                                                                 ^~
+default.cpp:110:350: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                                                                                                                                             ^~
+default.cpp:112:55: error: non-ASCII characters are not allowed outside of literals and identifiers
+只有文件主和超级用户才可以使用该命令。
+                                    ^~
+default.cpp:123:6: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+    ^
+default.cpp:123:9: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+     ^
+default.cpp:123:34: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+                       ^
+default.cpp:123:39: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+                          ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=] 
+20 errors generated.
+get_module
+===
+
+获取Linux内核模块的详细信息
+
+## 补充说明
+
+**get_module命令** 用于获取Linux内核模块的详细信息。
+
+###  语法
+
+```shell
+get_module 模块名
+```
+
+###  实例
+
+使用lsmod命令查看内核模块：
+
+```shell
+lsmod | head -5
+Module                  Size  Used by
+ipv6                  272801  15
+xfrm_nalgo             13381  1 ipv6
+crypto_api             12609  1 xfrm_nalgo
+ip_conntrack_ftp       11569  0
+```
+
+使用get_module命令查看模块详细信息：
+
+```shell
+get_module ipv6
+        refcnt               : 15
+        srcversion           : 8CC9C024755B4483E56C0EF
+
+Parameters:
+        autoconf             : 1
+        disable              : 0
+        disable_ipv6         : 0
+Sections:
+        .altinstr_replacement : 0xf8f1a3cf
+        .altinstructions     : 0xf8f1d03c
+        .bss                 : 0xf8f36000
+        .data.read_mostly    : 0xf8f34d20
+        .data                : 0xf8f2f7a0
+        .exit.text           : 0xf8f1a234
+        .gnu.linkonce.this_module : 0xf8f34e00
+        .init.data           : 0xf8a16a60
+        .init.text           : 0xf8a16000
+        .module_sig          : 0xf8f37960
+        .rodata.str1.1       : 0xf8f1ae46
+        .rodata              : 0xf8f1a420
+        .smp_locks           : 0xf8f1d150
+        .strtab              : 0xf8f29840
+        .symtab              : 0xf8f24000
+        .text                : 0xf8ef5000
+        __kcrctab            : 0xf8f1de70
+        __kcrctab_gpl        : 0xf8f1d9cc
+        __ksymtab            : 0xf8f1dd78
+        __ksymtab_gpl        : 0xf8f1d954
+        __ksymtab_strings    : 0xf8f1da44
+        __param              : 0xf8f1da08
+        __versions           : 0xf8f1df00
+tailf
+===
+
+在屏幕上显示指定文件的末尾若干行内容，通常用于日志文件的跟踪输出
+
+## 补充说明
+
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+
+tailf和tail -f的区别
+
+1. tailf 总是从文件开头一点一点的读， 而tail -f 则是从文件尾部开始读
+2. tailf check文件增长时，使用的是文件名， 用stat系统调用；而tail -f 则使用的是已打开的文件描述符； 注：tail 也可以做到类似跟踪文件名的效果； 但是tail总是使用fstat系统调用，而不是stat系统调用；结果就是：默认情况下，当tail的文件被偷偷删除时，tail是不知道的，而tailf是知道的。
+
+###  语法
+
+```shell
+tailf logfile # 动态跟踪日志文件logfile，最初的时候打印文件的最后10行内容。
+```
+
+###  选项
+
+```shell
+-n, --lines NUMBER  # 输出最后数行
+-NUMBER             # 与NUMBER相同 `-n NUMBER'
+-V, --version       # 输出版本信息并退出
+-h, --help          # 显示帮助并退出
+```
+
+###  参数
+
+目标：指定目标日志。
+
+### 实例
+
+```shell
+tailf log/WEB.LOG 
+tailf -n 5 log2014.log   # 显示文件最后5行内容
+```
+chown
+===
+
+用来变更文件或目录的拥有者或所属群组
+
+## 补充说明
+
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+
+只有文件主和超级用户才可以使用该命令。
+
+###  语法
+
+```shell
+chown(选项)(参数)
+```
+
+###  选项
+
+```shell
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+-f或--quite或——silent：不显示错误信息；
+-h或--no-dereference：只对符号连接的文件作修改，而不更改其他任何相关文件；
+-R或——recursive：递归处理，将指定目录下的所有文件及子目录一并处理；
+-v或——version：显示指令执行过程；
+--dereference：效果和“-h”参数相同；
+--help：在线帮助；
+--reference=<参考文件或目录>：把指定文件或目录的拥有者与所属群组全部设成和参考文件或目录的拥有者与所属群组相同；
+--version：显示版本信息。
+```
+
+###  参数
+
+用户：组：指定所有者和所属工作组。当省略“：组”，仅改变文件所有者；  
+文件：指定要改变所有者和工作组的文件列表。支持多个文件和目标，支持shell通配符。
+
+###  实例
+
+将目录`/usr/meng`及其下面的所有文件、子目录的文件主改成 liu：
+
+```shell
+chown -R liu /usr/meng
+```
+xauth
+===
+
+显示和编辑被用于连接X服务器的认证信息
+
+## 补充说明
+
+**xauth命令** 用于显示和编辑被用于连接X服务器的认证信息。
+
+###  语法
+
+```shell
+xauth(选项)(参数)
+```
+
+###  选项
+
+```shell
+-f：不使用默认的认证文件，而使用指定的认证文件；
+-q：安静模式，不打印未请求的状态信息；
+-v：详细模式，打印指定的各种操作信息；
+-i：忽略认证文件锁定；
+-b：执行任何操作，终端认证文件锁定。
+```
+
+###  参数
+
+*   add：添加认证条目到认证文件中；
+*   extract：将指定的设备内容加入到指定的密码文件中；
+*   info：显示授权文件相关信息；
+*   exit：退出交互模式；
+*   list：列出给定的显示设备的内容；
+*   merge：合并多个授权文件内容；
+*   extract：将指定设备内容写入指定的授权文件；
+*   nextrct：将指定设备内容写入指定的授权文件；
+*   nmerge：合并多个授权文件内容；
+*   remove：删除指定显示设备的授权条目；
+*   source：从指定文件读取包含xauth的内容指令。
+[
+  {
+    "id": "36",
+    "url": "https://wangchujiang.com/quick-rss/issue/36.html",
+    "title": "Copi：安全、轻量的 macOS 剪贴板替代工具",
+    "content_html": "<p>Copi 是一款开源、轻量且安全的 macOS 系统剪贴板替代工具。它不仅具备与系统剪贴板相同的复制粘贴功能，还通过独特的安全机制，确保您的剪贴板内容不会被第三方应用程序访问，从而有效保护您的隐私数据。</p>\n<p><img src=\"https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806\" alt=\"image\"></p>\n<h2>为什么需要 Copi？</h2>\n<p>如今，剪贴板攻击和内容泄露问题时有发生，尤其当用户需要复制和粘贴敏感信息时。Copi 提供了一个更安全的替代方案，避免剪贴板替换攻击及内容泄露。对于以下用户群体，Copi 是一个理想的工具：</p>\n<ul>\n<li><strong>数字货币拥有者</strong>：频繁复制粘贴钱包地址和密钥的用户更容易遭受剪贴板攻击。</li>\n<li><strong>敏感信息处理者</strong>：需要安全处理密码、个人身份信息等敏感数据的用户。</li>\n<li><strong>系统剪贴板不信任者</strong>：不想让系统内其他应用程序获取剪贴板内容的用户。</li>\n</ul>\n<h2>Copi 的使用方式</h2>\n<p>Copi 设计了多种便捷的使用方式，让用户可以轻松在日常操作中安全复制和粘贴内容：</p>\n<h3>1. 快捷操作栏模式</h3>\n<p><img src=\"https://github.com/user-attachments/assets/2e1e81bd-444c-4a56-955d-13bf0b29ad28\" alt=\"image\"></p>\n<p>当您开启 Copi 的“Action Bar”后，选中文字时，文字上方会自动弹出用于安全复制和粘贴的快捷按钮。通过鼠标点击，您可以快速将文字复制到 Copi 剪贴板中，并进行后续操作。在输入框中长按还可显示粘贴选项，方便用户安全粘贴文字。</p>\n<h3>2. 快捷键模式</h3>\n<p><img src=\"https://github.com/user-attachments/assets/72ac1042-b056-41ff-a924-bcbca452126a\" alt=\"image\"></p>\n<p>您可以为 Copi 设置专属的快捷键，用于安全复制和粘贴操作。无论是文件中的文本，还是浏览器中的内容，只需通过设定的快捷键，您便能使用 Copi 进行安全的剪贴板操作，提升工作效率。</p>\n<h3>3. 覆盖系统快捷键</h3>\n<p><img src=\"https://github.com/user-attachments/assets/899bf4f1-9c45-4607-8b95-e8be24377d48\" alt=\"image\"></p>\n<p>Copi 还支持覆盖系统的默认复制粘贴快捷键。一旦启用此功能，所有的复制和粘贴操作将自动通过 Copi 的安全渠道进行，用户无需额外操作即可享受更高的安全性。</p>\n<h2>安全性如何保障？</h2>\n<p><img src=\"https://github.com/user-attachments/assets/2e0da110-0d12-47a3-8015-9b2135697ece\" alt=\"image\"></p>\n<p>Copi 采用了系统的自定义“服务”功能来获取和粘贴文字，而不再通过系统剪贴板。这意味着，传统针对“系统剪贴板”的攻击行为将无法对 Copi 生效。同时，由于 Copi 是开源软件，用户可以查看其代码，确保没有任何恶意操作，进一步增强了信任度和安全性。</p>\n<h2>为什么选择 Copi？</h2>\n<ol>\n<li><strong>开源</strong>：所有代码公开透明，用户可以随时审查。</li>\n<li><strong>隐私保护</strong>：第三方应用无法访问 Copi 中的剪贴板内容，有效防止数据泄露。</li>\n<li><strong>多种操作模式</strong>：便捷的操作栏、快捷键以及覆盖系统快捷键的功能，满足不同用户的使用习惯。</li>\n</ol>\n<p>总之，Copi 是一款致力于为 macOS 用户提供安全、便捷的剪贴板替代方案的工具。无论是个人隐私数据的保护，还是应对越来越复杂的剪贴板攻击，Copi 都能够为您提供全方位的保障。</p>",
+    "summary": "Copi 是一款开源、轻量且安全的 macOS 系统剪贴板替代工具。它不仅具备与系统剪贴板相同的复制粘贴功能，还通过独特的安全机制，确保您的剪贴板内容不会被第三方应用程序访问，从而有效保护您的隐私数据。 ## 为什么需要 Copi？ 如今，剪贴板攻击和内容泄露问题时有发生，尤其当用户需要复制和粘贴敏感信息时。Copi 提供了一个更安全的替代方案，避免剪贴板替换攻击及内容泄露。对于以下用户群体，Co",
+    "banner_image": "https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806",
+    "date_published": "2024-09-27T07:13:19Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Copi 是一款开源、轻量且安全的 macOS 系统剪贴板替代工具。它不仅具备与系统剪贴板相同的复制粘贴功能，还通过独特的安全机制，确保您的剪贴板内容不会被第三方应用程序访问，从而有效保护您的隐私数据。\r\n\r\n![image](https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806)\r\n\r\n\r\n## 为什么需要 Copi？\r\n\r\n如今，剪贴板攻击和内容泄露问题时有发生，尤其当用户需要复制和粘贴敏感信息时。Copi 提供了一个更安全的替代方案，避免剪贴板替换攻击及内容泄露。对于以下用户群体，Copi 是一个理想的工具：\r\n\r\n- **数字货币拥有者**：频繁复制粘贴钱包地址和密钥的用户更容易遭受剪贴板攻击。\r\n- **敏感信息处理者**：需要安全处理密码、个人身份信息等敏感数据的用户。\r\n- **系统剪贴板不信任者**：不想让系统内其他应用程序获取剪贴板内容的用户。\r\n\r\n## Copi 的使用方式\r\n\r\nCopi 设计了多种便捷的使用方式，让用户可以轻松在日常操作中安全复制和粘贴内容：\r\n\r\n### 1. 快捷操作栏模式\r\n\r\n![image](https://github.com/user-attachments/assets/2e1e81bd-444c-4a56-955d-13bf0b29ad28)\r\n\r\n\r\n当您开启 Copi 的“Action Bar”后，选中文字时，文字上方会自动弹出用于安全复制和粘贴的快捷按钮。通过鼠标点击，您可以快速将文字复制到 Copi 剪贴板中，并进行后续操作。在输入框中长按还可显示粘贴选项，方便用户安全粘贴文字。\r\n\r\n### 2. 快捷键模式\r\n\r\n![image](https://github.com/user-attachments/assets/72ac1042-b056-41ff-a924-bcbca452126a)\r\n\r\n您可以为 Copi 设置专属的快捷键，用于安全复制和粘贴操作。无论是文件中的文本，还是浏览器中的内容，只需通过设定的快捷键，您便能使用 Copi 进行安全的剪贴板操作，提升工作效率。\r\n\r\n### 3. 覆盖系统快捷键\r\n\r\n![image](https://github.com/user-attachments/assets/899bf4f1-9c45-4607-8b95-e8be24377d48)\r\n\r\nCopi 还支持覆盖系统的默认复制粘贴快捷键。一旦启用此功能，所有的复制和粘贴操作将自动通过 Copi 的安全渠道进行，用户无需额外操作即可享受更高的安全性。\r\n\r\n## 安全性如何保障？\r\n\r\n![image](https://github.com/user-attachments/assets/2e0da110-0d12-47a3-8015-9b2135697ece)\r\n\r\n\r\nCopi 采用了系统的自定义“服务”功能来获取和粘贴文字，而不再通过系统剪贴板。这意味着，传统针对“系统剪贴板”的攻击行为将无法对 Copi 生效。同时，由于 Copi 是开源软件，用户可以查看其代码，确保没有任何恶意操作，进一步增强了信任度和安全性。\r\n\r\n## 为什么选择 Copi？\r\n\r\n1. **开源**：所有代码公开透明，用户可以随时审查。\r\n2. **隐私保护**：第三方应用无法访问 Copi 中的剪贴板内容，有效防止数据泄露。\r\n3. **多种操作模式**：便捷的操作栏、快捷键以及覆盖系统快捷键的功能，满足不同用户的使用习惯。\r\n\r\n总之，Copi 是一款致力于为 macOS 用户提供安全、便捷的剪贴板替代方案的工具。无论是个人隐私数据的保护，还是应对越来越复杂的剪贴板攻击，Copi 都能够为您提供全方位的保障。"
+  },
+  {
+    "id": "35",
+    "url": "https://wangchujiang.com/quick-rss/issue/35.html",
+    "title": "Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本",
+    "content_html": "<p>Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本。它支持从 Apple Developer 网站或 Xcode Releases 获取最新版本，并通过高速下载工具 aria2 提供更快的下载速度。Xcodes 还可自动处理网络中断，确保安装流程顺利完成。用户无需手动操作，只需点击按钮即可轻松激活所需的 Xcode 版本。应用支持深色和浅色模式，方便用户查看发行说明、兼容性等详细信息，是开发者管理 Xcode 的高效助手。</p>\n<p><img src=\"https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831\" alt=\"image\"></p>\n<p>如果你正在寻找 Xcodes.app 的命令行版本，可以试试 xcodes。</p>\n<p><strong>功能：</strong></p>\n<ul>\n<li>从 Xcode Releases 数据或 Apple Developer 网站列出所有可用的 Xcode 版本。</li>\n<li>全自动安装任何版本的 Xcode，从开始到结束无需人工干预。Xcodes 使用 aria2，支持多达 16 个连接，比 URLSession 快 3-5 倍。</li>\n<li>网络错误时自动恢复安装。</li>\n<li>下载 Xcode 版本需要 Apple ID。</li>\n<li>只需点击一个按钮，通过 xcode-select 激活所需版本。</li>\n<li>查看 Xcode Releases 提供的发行说明、操作系统兼容性、包含的 SDK 和编译器。</li>\n<li>支持深色/浅色模式。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/548fc213-7f50-4614-b624-378c4ac0046d\" alt=\"image\"></p>",
+    "summary": "Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本。它支持从 Apple Developer 网站或 Xcode Releases 获取最新版本，并通过高速下载工具 aria2 提供更快的下载速度。Xcodes 还可自动处理网络中断，确保安装流程顺利完成。用户无需手动操作，只需点击按钮即可轻松激活所需的 Xcode 版本。应用支持深色和浅色模式，",
+    "banner_image": "https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831",
+    "date_published": "2024-09-26T19:28:14Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本。它支持从 Apple Developer 网站或 Xcode Releases 获取最新版本，并通过高速下载工具 aria2 提供更快的下载速度。Xcodes 还可自动处理网络中断，确保安装流程顺利完成。用户无需手动操作，只需点击按钮即可轻松激活所需的 Xcode 版本。应用支持深色和浅色模式，方便用户查看发行说明、兼容性等详细信息，是开发者管理 Xcode 的高效助手。\r\n\r\n![image](https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831)\r\n\r\n\r\n如果你正在寻找 Xcodes.app 的命令行版本，可以试试 xcodes。\r\n\r\n**功能：**\r\n\r\n- 从 Xcode Releases 数据或 Apple Developer 网站列出所有可用的 Xcode 版本。\r\n- 全自动安装任何版本的 Xcode，从开始到结束无需人工干预。Xcodes 使用 aria2，支持多达 16 个连接，比 URLSession 快 3-5 倍。\r\n- 网络错误时自动恢复安装。\r\n- 下载 Xcode 版本需要 Apple ID。\r\n- 只需点击一个按钮，通过 xcode-select 激活所需版本。\r\n- 查看 Xcode Releases 提供的发行说明、操作系统兼容性、包含的 SDK 和编译器。\r\n- 支持深色/浅色模式。\r\n\r\n![image](https://github.com/user-attachments/assets/548fc213-7f50-4614-b624-378c4ac0046d)"
+  },
+  {
+    "id": "34",
+    "url": "https://wangchujiang.com/quick-rss/issue/34.html",
+    "title": "Yorumi：为开发者打造的深海宁静配色方案 VIM 编辑器",
+    "content_html": "<p>对于长时间盯着代码的开发者来说，拥有一个舒适且赏心悦目的配色方案至关重要。现在向你介绍 <strong>Yorumi</strong>，一个深思熟虑设计的深海配色方案，旨在为你的编码环境带来平静与放松，同时保持高效、清晰的视觉体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054\" alt=\"image\"></p>\n<h3>深海般的宁静体验</h3>\n<p>Yorumi 以低对比度、柔和的色彩调和各类 UI 组件，营造出宁静的深海氛围。这不仅仅是另一个暗黑主题——它更像是一种提升专注力和放松感的体验，非常适合深夜的编码时光。深海色调带来的平和氛围让你在长时间编码时不再因刺眼的对比色感到疲惫。</p>\n<h3>清晰易读的文本</h3>\n<p>虽然 Yorumi 的背景和 UI 组件保持着低对比度，营造了宁静的效果，但在文本的处理上，它独具匠心。通过大约 8:1 的对比度，代码始终保持清晰锐利，即使在长时间编码中，也能确保良好的可读性。无论是浏览大块代码还是调试复杂函数，清晰的文本减少了眼睛的疲劳，提升了你的工作效率。</p>\n<h3>深夜编码的最佳选择</h3>\n<p>Yorumi 在深夜的编码马拉松中展现出它的独特优势。低对比度的配色方案减轻了眼睛的压力，让你能够长时间专注于工作。想象一下，在夜晚的宁静中，你像坐在一个舒适的小角落，代码在深海色调的柔和光芒下流畅地书写，这就是 Yorumi 的精髓所在。</p>\n<h3>减少眼疲劳，增添代码魔力</h3>\n<p>在众多开发者为眼部疲劳和视觉负担所困扰的世界里，Yorumi 提供了美学与功能性的完美平衡。它让你在保持高生产力的同时，体验舒适的视觉感受。不再需要在深夜对着刺眼的屏幕眯眼，也不再为看清代码而感到吃力。Yorumi 让你保持冷静、专注，并且在最佳状态下编码。</p>\n<h3>潜入 Yorumi 的宁静世界</h3>\n<p>如果你正在寻找一个能够为你的开发环境带来平静，同时确保代码清晰、高效的配色方案，Yorumi 将是你的不二选择。无论是通宵达旦地编码，还是在工作时追求舒适与专注，Yorumi 都能为你提供完美的宁静与清晰结合的体验。</p>\n<p>现在就潜入 Yorumi 的宁静世界，让它为你的编码体验带来凉爽、平静与专注。你的眼睛——以及你的代码——都会感谢你。</p>",
+    "summary": "对于长时间盯着代码的开发者来说，拥有一个舒适且赏心悦目的配色方案至关重要。现在向你介绍 **Yorumi**，一个深思熟虑设计的深海配色方案，旨在为你的编码环境带来平静与放松，同时保持高效、清晰的视觉体验。 ### 深海般的宁静体验 Yorumi 以低对比度、柔和的色彩调和各类 UI 组件，营造出宁静的深海氛围。这不仅仅是另一个暗黑主题——它更像是一种提升专注力和放松感的体验，非常适合深夜的编码时",
+    "banner_image": "https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054",
+    "date_published": "2024-09-26T10:13:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "对于长时间盯着代码的开发者来说，拥有一个舒适且赏心悦目的配色方案至关重要。现在向你介绍 **Yorumi**，一个深思熟虑设计的深海配色方案，旨在为你的编码环境带来平静与放松，同时保持高效、清晰的视觉体验。\r\n\r\n![image](https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054)\r\n\r\n### 深海般的宁静体验\r\n\r\nYorumi 以低对比度、柔和的色彩调和各类 UI 组件，营造出宁静的深海氛围。这不仅仅是另一个暗黑主题——它更像是一种提升专注力和放松感的体验，非常适合深夜的编码时光。深海色调带来的平和氛围让你在长时间编码时不再因刺眼的对比色感到疲惫。\r\n\r\n### 清晰易读的文本\r\n\r\n虽然 Yorumi 的背景和 UI 组件保持着低对比度，营造了宁静的效果，但在文本的处理上，它独具匠心。通过大约 8:1 的对比度，代码始终保持清晰锐利，即使在长时间编码中，也能确保良好的可读性。无论是浏览大块代码还是调试复杂函数，清晰的文本减少了眼睛的疲劳，提升了你的工作效率。\r\n\r\n### 深夜编码的最佳选择\r\n\r\nYorumi 在深夜的编码马拉松中展现出它的独特优势。低对比度的配色方案减轻了眼睛的压力，让你能够长时间专注于工作。想象一下，在夜晚的宁静中，你像坐在一个舒适的小角落，代码在深海色调的柔和光芒下流畅地书写，这就是 Yorumi 的精髓所在。\r\n\r\n### 减少眼疲劳，增添代码魔力\r\n\r\n在众多开发者为眼部疲劳和视觉负担所困扰的世界里，Yorumi 提供了美学与功能性的完美平衡。它让你在保持高生产力的同时，体验舒适的视觉感受。不再需要在深夜对着刺眼的屏幕眯眼，也不再为看清代码而感到吃力。Yorumi 让你保持冷静、专注，并且在最佳状态下编码。\r\n\r\n### 潜入 Yorumi 的宁静世界\r\n\r\n如果你正在寻找一个能够为你的开发环境带来平静，同时确保代码清晰、高效的配色方案，Yorumi 将是你的不二选择。无论是通宵达旦地编码，还是在工作时追求舒适与专注，Yorumi 都能为你提供完美的宁静与清晰结合的体验。\r\n\r\n现在就潜入 Yorumi 的宁静世界，让它为你的编码体验带来凉爽、平静与专注。你的眼睛——以及你的代码——都会感谢你。"
+  },
+  {
+    "id": "33",
+    "url": "https://wangchujiang.com/quick-rss/issue/33.html",
+    "title": "Transition.css：简化网页动画的开源工具",
+    "content_html": "<p>在现代网页设计中，动画效果不仅能提升用户体验，还能有效引导用户的注意力。Transition.css 是一个开源的 CSS 动画库，旨在简化网页中的过渡动画，使得开发者能够轻松地为网页元素添加动态效果。无论是设计师还是开发者，都能从中受益。</p>\n<p><img src=\"https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57\" alt=\"kitchen-sink\"></p>\n<h3>基本使用</h3>\n<p>要使用 Transition.css，首先需要引入 CSS 文件。可以通过 NPM 安装，也可以直接使用 CDN 链接。以下是基本的引入方式：</p>\n<ol>\n<li>\n<p><strong>通过 NPM 安装</strong>：</p>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\"><span class=\"token function\">npm</span> i transition-style\n</span></code></pre>\n<p>然后在 CSS 文件中导入：</p>\n<pre class=\"language-css\"><code class=\"language-css code-highlight\"><span class=\"code-line line-number\" line=\"1\"><span class=\"token atrule\"><span class=\"token rule\">@import</span> <span class=\"token string\">\"transition-style\"</span><span class=\"token punctuation\">;</span></span>\n</span></code></pre>\n</li>\n<li>\n<p><strong>通过 CDN 引入</strong>：\r\n直接在 HTML 中添加链接：</p>\n<pre class=\"language-html\"><code class=\"language-html code-highlight\"><span class=\"code-line line-number\" line=\"1\"><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&#x3C;</span>link</span> <span class=\"token attr-name\">rel</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>stylesheet<span class=\"token punctuation\">\"</span></span> <span class=\"token attr-name\">href</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>https://unpkg.com/transition-style<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">></span></span>\n</span></code></pre>\n</li>\n</ol>\n<p>在添加了 Transition.css 之后，开发者只需在 HTML 元素上设置相应的 <code>transition-style</code> 属性，就可以实现动画效果。例如：</p>\n<p><img src=\"https://github.com/user-attachments/assets/a0341d5f-6118-4a79-896b-836c9cee1027\" alt=\"wipe-up\"></p>\n<pre class=\"language-html\"><code class=\"language-html code-highlight\"><span class=\"code-line line-number\" line=\"1\"><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&#x3C;</span>div</span> <span class=\"token attr-name\">transition-style</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>in:wipe:up<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">></span></span>\r\n</span><span class=\"code-line line-number\" line=\"2\">  👍\r\n</span><span class=\"code-line line-number\" line=\"3\"><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&#x3C;/</span>div</span><span class=\"token punctuation\">></span></span>\n</span></code></pre>\n<p>通过这种简单的方式，用户就可以看到精美的动画效果。</p>\n<h3>版本更新与新功能</h3>\n<p>Transition.css 最近推出了 2.0 版本，增加了许多新特性，包括 CSS Grid 布局、全新的 UI 设计和新的组件系统等。这些更新使得工具更加快速和易于访问，让开发者和设计师都能更加高效地工作。</p>\n<h3>分类与定制</h3>\n<p>Transition.css 提供了多个分类的样式包，用户可以根据需要引入特定的样式包。例如：</p>\n<ul>\n<li><strong>Circles</strong>：<code>https://unpkg.com/transition-style/transition.circles.min.css</code></li>\n<li><strong>Squares</strong>：<code>https://unpkg.com/transition-style/transition.squares.min.css</code></li>\n<li><strong>Polygons</strong>：<code>https://unpkg.com/transition-style/transition.polygons.min.css</code></li>\n<li><strong>Wipes</strong>：<code>https://unpkg.com/transition-style/transition.wipes.min.css</code></li>\n</ul>\n<p>此外，还有一个名为“The Hackpack”的选项，允许开发者仅导入自定义属性和基本样式，从而实现更多的过渡组合和控制，适应不同的开发环境。</p>\n<h3>快速测试功能</h3>\n<p>为了让开发者能在几乎任何现有网站上尝试 Transition.css，提供了一个书签小工具。用户只需将以下代码复制到书签中，便可在浏览器中使用：</p>\n<pre class=\"language-javascript\"><code class=\"language-javascript code-highlight\"><span class=\"code-line line-number\" line=\"1\"><span class=\"token literal-property property\">javascript</span><span class=\"token operator\">:</span><span class=\"token punctuation\">(</span><span class=\"token keyword\">function</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">{</span><span class=\"token keyword\">var</span> a<span class=\"token operator\">=</span><span class=\"token dom variable\">document</span><span class=\"token punctuation\">.</span><span class=\"token method function property-access\">createElement</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"link\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>a<span class=\"token punctuation\">.</span><span class=\"token property-access\">rel</span><span class=\"token operator\">=</span><span class=\"token string\">\"stylesheet\"</span><span class=\"token punctuation\">;</span>a<span class=\"token punctuation\">.</span><span class=\"token property-access\">href</span><span class=\"token operator\">=</span><span class=\"token string\">\"https://unpkg.com/transition-style\"</span><span class=\"token punctuation\">;</span><span class=\"token dom variable\">document</span><span class=\"token punctuation\">.</span><span class=\"token property-access\">head</span><span class=\"token punctuation\">.</span><span class=\"token method function property-access\">append</span><span class=\"token punctuation\">(</span>a<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span><span class=\"token punctuation\">}</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n</span></code></pre>\n<p>使用这个书签后，用户可以在网页上快速体验 Transition.css 的效果，无需修改网站的原始代码。</p>\n<h3>高级用法</h3>\n<p>Transition.css 的设计思路是基于属性的方式，使得每次只能有一个动画状态。这种状态机的方法有效避免了类名冲突的问题。用户可以使用 <code>@keyframes</code> 来定义自定义动画，并通过 CSS 自定义属性来实现动画的持续时间、缓动效果和延迟等参数。例如：</p>\n<p><img src=\"https://github.com/user-attachments/assets/d3fb4503-25d5-4bbe-880c-8c9a5ee87225\" alt=\"opposing-corner-fold\"></p>\n<pre class=\"language-css\"><code class=\"language-css code-highlight\"><span class=\"code-line line-number\" line=\"1\"><span class=\"token selector\"><span class=\"token class\">.main--state-in</span></span> <span class=\"token punctuation\">{</span>\r\n</span><span class=\"code-line line-number\" line=\"2\">  <span class=\"token property\">animation</span><span class=\"token punctuation\">:</span> wipe-in-left<span class=\"token punctuation\">;</span>\r\n</span><span class=\"code-line line-number\" line=\"3\">  <span class=\"token property\">animation-duration</span><span class=\"token punctuation\">:</span> <span class=\"token number\">2</span><span class=\"token unit\">s</span><span class=\"token punctuation\">;</span>\r\n</span><span class=\"code-line line-number\" line=\"4\">  <span class=\"token property\">animation-fill-mode</span><span class=\"token punctuation\">:</span> both<span class=\"token punctuation\">;</span>\r\n</span><span class=\"code-line line-number\" line=\"5\"><span class=\"token punctuation\">}</span>\n</span></code></pre>\n<p>对于想要进一步定制的用户，Transition.css 允许用户定义自定义过渡效果，例如：</p>\n<pre class=\"language-css\"><code class=\"language-css code-highlight\"><span class=\"code-line line-number\" line=\"1\"><span class=\"token atrule\"><span class=\"token rule\">@keyframes</span> circle-swoop</span> <span class=\"token punctuation\">{</span>\r\n</span><span class=\"code-line line-number\" line=\"2\">  <span class=\"token selector\">from</span> <span class=\"token punctuation\">{</span>\r\n</span><span class=\"code-line line-number\" line=\"3\">    <span class=\"token property\">clip-path</span><span class=\"token punctuation\">:</span> <span class=\"token function\">var</span><span class=\"token punctuation\">(</span><span class=\"token variable\">--circle-top-right-out</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\r\n</span><span class=\"code-line line-number\" line=\"4\">  <span class=\"token punctuation\">}</span>\r\n</span><span class=\"code-line line-number\" line=\"5\">  <span class=\"token selector\">to</span> <span class=\"token punctuation\">{</span>\r\n</span><span class=\"code-line line-number\" line=\"6\">    <span class=\"token property\">clip-path</span><span class=\"token punctuation\">:</span> <span class=\"token function\">var</span><span class=\"token punctuation\">(</span><span class=\"token variable\">--circle-bottom-right-in</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\r\n</span><span class=\"code-line line-number\" line=\"7\">  <span class=\"token punctuation\">}</span>\r\n</span><span class=\"code-line line-number\" line=\"8\"><span class=\"token punctuation\">}</span>\r\n</span><span class=\"code-line line-number\" line=\"9\">\r\n</span><span class=\"code-line line-number\" line=\"10\"><span class=\"token selector\"><span class=\"token class\">.--in-custom</span></span> <span class=\"token punctuation\">{</span>\r\n</span><span class=\"code-line line-number\" line=\"11\">  <span class=\"token variable\">--transition__duration</span><span class=\"token punctuation\">:</span> <span class=\"token number\">1</span><span class=\"token unit\">s</span><span class=\"token punctuation\">;</span>\r\n</span><span class=\"code-line line-number\" line=\"12\">  <span class=\"token variable\">--transition__easing</span><span class=\"token punctuation\">:</span> ease-in-out<span class=\"token punctuation\">;</span>\r\n</span><span class=\"code-line line-number\" line=\"13\">  <span class=\"token property\">animation-name</span><span class=\"token punctuation\">:</span> circle-swoop<span class=\"token punctuation\">;</span>\r\n</span><span class=\"code-line line-number\" line=\"14\"><span class=\"token punctuation\">}</span>\n</span></code></pre>\n<p>使用这样的方式，开发者可以发挥创意，创建独特的动画效果。</p>\n<h3>总结</h3>\n<p>Transition.css 是一个强大的工具，旨在简化网页动画的实现过程。无论是简单的过渡效果还是复杂的自定义动画，Transition.css 都能为开发者提供所需的灵活性和控制力。通过简单的引入和使用方式，用户能够迅速提升网页的交互性和美观度。Transition.css 的开源特性也让其在开发者社区中得到了广泛的支持和应用，是现代网页设计中不可或缺的一部分。</p>",
+    "summary": "在现代网页设计中，动画效果不仅能提升用户体验，还能有效引导用户的注意力。Transition.css 是一个开源的 CSS 动画库，旨在简化网页中的过渡动画，使得开发者能够轻松地为网页元素添加动态效果。无论是设计师还是开发者，都能从中受益。 ### 基本使用 要使用 Transition.css，首先需要引入 CSS 文件。可以通过 NPM 安装，也可以直接使用 CDN 链接。以下是基本的引入方式",
+    "banner_image": "https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57",
+    "date_published": "2024-09-24T19:29:25Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "在现代网页设计中，动画效果不仅能提升用户体验，还能有效引导用户的注意力。Transition.css 是一个开源的 CSS 动画库，旨在简化网页中的过渡动画，使得开发者能够轻松地为网页元素添加动态效果。无论是设计师还是开发者，都能从中受益。\r\n\r\n![kitchen-sink](https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57)\r\n\r\n\r\n### 基本使用\r\n\r\n要使用 Transition.css，首先需要引入 CSS 文件。可以通过 NPM 安装，也可以直接使用 CDN 链接。以下是基本的引入方式：\r\n\r\n1. **通过 NPM 安装**：\r\n   ```bash\r\n   npm i transition-style\r\n   ```\r\n   然后在 CSS 文件中导入：\r\n   ```css\r\n   @import \"transition-style\";\r\n   ```\r\n\r\n2. **通过 CDN 引入**：\r\n   直接在 HTML 中添加链接：\r\n   ```html\r\n   <link rel=\"stylesheet\" href=\"https://unpkg.com/transition-style\">\r\n   ```\r\n\r\n在添加了 Transition.css 之后，开发者只需在 HTML 元素上设置相应的 `transition-style` 属性，就可以实现动画效果。例如：\r\n\r\n![wipe-up](https://github.com/user-attachments/assets/a0341d5f-6118-4a79-896b-836c9cee1027)\r\n\r\n```html\r\n<div transition-style=\"in:wipe:up\">\r\n  👍\r\n</div>\r\n```\r\n\r\n通过这种简单的方式，用户就可以看到精美的动画效果。\r\n\r\n### 版本更新与新功能\r\n\r\nTransition.css 最近推出了 2.0 版本，增加了许多新特性，包括 CSS Grid 布局、全新的 UI 设计和新的组件系统等。这些更新使得工具更加快速和易于访问，让开发者和设计师都能更加高效地工作。\r\n\r\n### 分类与定制\r\n\r\nTransition.css 提供了多个分类的样式包，用户可以根据需要引入特定的样式包。例如：\r\n- **Circles**：`https://unpkg.com/transition-style/transition.circles.min.css`\r\n- **Squares**：`https://unpkg.com/transition-style/transition.squares.min.css`\r\n- **Polygons**：`https://unpkg.com/transition-style/transition.polygons.min.css`\r\n- **Wipes**：`https://unpkg.com/transition-style/transition.wipes.min.css`\r\n\r\n此外，还有一个名为“The Hackpack”的选项，允许开发者仅导入自定义属性和基本样式，从而实现更多的过渡组合和控制，适应不同的开发环境。\r\n\r\n### 快速测试功能\r\n\r\n为了让开发者能在几乎任何现有网站上尝试 Transition.css，提供了一个书签小工具。用户只需将以下代码复制到书签中，便可在浏览器中使用：\r\n\r\n```javascript\r\njavascript:(function(){var a=document.createElement(\"link\");a.rel=\"stylesheet\";a.href=\"https://unpkg.com/transition-style\";document.head.append(a);})();\r\n```\r\n\r\n使用这个书签后，用户可以在网页上快速体验 Transition.css 的效果，无需修改网站的原始代码。\r\n\r\n### 高级用法\r\n\r\nTransition.css 的设计思路是基于属性的方式，使得每次只能有一个动画状态。这种状态机的方法有效避免了类名冲突的问题。用户可以使用 `@keyframes` 来定义自定义动画，并通过 CSS 自定义属性来实现动画的持续时间、缓动效果和延迟等参数。例如：\r\n\r\n![opposing-corner-fold](https://github.com/user-attachments/assets/d3fb4503-25d5-4bbe-880c-8c9a5ee87225)\r\n\r\n```css\r\n.main--state-in {\r\n  animation: wipe-in-left;\r\n  animation-duration: 2s;\r\n  animation-fill-mode: both;\r\n}\r\n```\r\n\r\n对于想要进一步定制的用户，Transition.css 允许用户定义自定义过渡效果，例如：\r\n\r\n```css\r\n@keyframes circle-swoop {\r\n  from {\r\n    clip-path: var(--circle-top-right-out);\r\n  }\r\n  to {\r\n    clip-path: var(--circle-bottom-right-in);\r\n  }\r\n}\r\n\r\n.--in-custom {\r\n  --transition__duration: 1s;\r\n  --transition__easing: ease-in-out;\r\n  animation-name: circle-swoop;\r\n}\r\n```\r\n\r\n使用这样的方式，开发者可以发挥创意，创建独特的动画效果。\r\n\r\n### 总结\r\n\r\nTransition.css 是一个强大的工具，旨在简化网页动画的实现过程。无论是简单的过渡效果还是复杂的自定义动画，Transition.css 都能为开发者提供所需的灵活性和控制力。通过简单的引入和使用方式，用户能够迅速提升网页的交互性和美观度。Transition.css 的开源特性也让其在开发者社区中得到了广泛的支持和应用，是现代网页设计中不可或缺的一部分。"
+  },
+  {
+    "id": "32",
+    "url": "https://wangchujiang.com/quick-rss/issue/32.html",
+    "title": "Penpot：开源设计工具，促进设计与代码的协作",
+    "content_html": "<p>Penpot 是首个开源设计工具，旨在实现设计师与开发者之间的无缝协作。它为设计师提供了一个强大的平台，可以创建令人惊叹的设计、交互原型和大规模设计系统，同时开发者可以轻松获得现成的代码，简化工作流程，提升效率。最重要的是，Penpot 在设计与开发之间消除了传统交接过程中的种种摩擦。</p>\n<p><img src=\"https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866\" alt=\"image\"></p>\n<p><a href=\"https://github.com/user-attachments/assets/0b73e123-e39f-40e4-8234-497000ae7024\"></a></p>\n<h3>浏览器访问与自托管</h3>\n<p>Penpot 可以通过浏览器访问，也可以选择自行托管。它基于 web，支持开放标准（如 SVG、CSS 和 HTML），使得团队可以灵活运用不同的工具和技术。更重要的是，Penpot 完全免费，让所有设计师和开发者都能平等地使用这个强大的工具。</p>\n<h3>重大更新：2.0版本</h3>\n<p>Penpot 最近推出的 2.0 版本，标志着该平台进入了一个全新的阶段。此次更新引入了突破性的 CSS Grid 布局功能，进行了全面的用户界面重新设计，推出了新的组件系统，以及其他更多的功能。更新后，Penpot 的运行速度更快，用户体验更佳，特别是在可访问性方面进行了增强，确保所有用户都能方便地使用这一工具。</p>\n<h3>为什么选择 Penpot？</h3>\n<p>Penpot 将设计表达为代码，使设计师能够尽情发挥创造力，同时也能确保开发者能够美丽地实现这些设计，形成双向协作的良好氛围。在 Penpot 的帮助下，设计师和开发者之间的沟通更加顺畅，能够共同实现高质量的产品。</p>\n<h3>为开发者而设计</h3>\n<p><img src=\"https://github.com/user-attachments/assets/c1912b31-9200-4373-ba7f-63e7fcf4e05a\" alt=\"image\"></p>\n<p>Penpot 的设计目标是服务于设计师和开发者，创造一个流畅的设计与代码流程。用户可以选择实时协作的模式，也可以独立工作。在实时协作中，团队成员可以共同查看和编辑设计，确保所有人的想法都能及时反映在作品中。</p>\n<h3>检查模式</h3>\n<p>Penpot 提供了一个检查模式，用户可以使用现成的代码，简化工作流程，提升效率。检查选项卡可以即时访问 SVG、CSS 和 HTML 代码，帮助开发者快速了解设计背后的实现方式，减少了沟通中的误解。</p>\n<h3>自托管实例</h3>\n<p>对于企业或团队，Penpot 还提供了自托管的选项，用户可以完全掌控自己的协作设计工具。用户可以选择使用 Penpot 的云服务，或者部署自己的 Penpot 服务器，从而实现更高的安全性和灵活性。</p>\n<h3>集成能力</h3>\n<p>Penpot 支持通过 Webhook 和可通过访问令牌访问的 API，轻松与开发工具链进行集成。这种集成能力让 Penpot 能够无缝嵌入到现有的工作流程中，提高了团队的工作效率。</p>\n<h3>设计的优势</h3>\n<p>使用 Penpot，用户可以设计出可共享和重用的库；将设计元素转化为组件和令牌，以便实现可重用性和可扩展性；构建逼真的用户流程和交互，提升设计的质量和用户体验。</p>\n<h2>总结</h2>\n<p>总之，Penpot 作为一款开源设计工具，通过提供强大的功能和灵活的协作方式，促进了设计师与开发者之间的有效沟通与合作。无论是设计复杂的用户界面，还是快速生成现成的代码，Penpot 都能帮助团队实现更高效的工作流程。选择 Penpot，意味着选择了一个更为开放与创新的设计未来。</p>",
+    "summary": "Penpot 是首个开源设计工具，旨在实现设计师与开发者之间的无缝协作。它为设计师提供了一个强大的平台，可以创建令人惊叹的设计、交互原型和大规模设计系统，同时开发者可以轻松获得现成的代码，简化工作流程，提升效率。最重要的是，Penpot 在设计与开发之间消除了传统交接过程中的种种摩擦。 [](https://github.com/user-attachments/assets/0b73e123-e",
+    "banner_image": "https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866",
+    "date_published": "2024-09-24T19:20:39Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Penpot 是首个开源设计工具，旨在实现设计师与开发者之间的无缝协作。它为设计师提供了一个强大的平台，可以创建令人惊叹的设计、交互原型和大规模设计系统，同时开发者可以轻松获得现成的代码，简化工作流程，提升效率。最重要的是，Penpot 在设计与开发之间消除了传统交接过程中的种种摩擦。\r\n\r\n![image](https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866)\r\n\r\n[](https://github.com/user-attachments/assets/0b73e123-e39f-40e4-8234-497000ae7024)\r\n\r\n### 浏览器访问与自托管\r\n\r\nPenpot 可以通过浏览器访问，也可以选择自行托管。它基于 web，支持开放标准（如 SVG、CSS 和 HTML），使得团队可以灵活运用不同的工具和技术。更重要的是，Penpot 完全免费，让所有设计师和开发者都能平等地使用这个强大的工具。\r\n\r\n### 重大更新：2.0版本\r\n\r\nPenpot 最近推出的 2.0 版本，标志着该平台进入了一个全新的阶段。此次更新引入了突破性的 CSS Grid 布局功能，进行了全面的用户界面重新设计，推出了新的组件系统，以及其他更多的功能。更新后，Penpot 的运行速度更快，用户体验更佳，特别是在可访问性方面进行了增强，确保所有用户都能方便地使用这一工具。\r\n\r\n### 为什么选择 Penpot？\r\n\r\nPenpot 将设计表达为代码，使设计师能够尽情发挥创造力，同时也能确保开发者能够美丽地实现这些设计，形成双向协作的良好氛围。在 Penpot 的帮助下，设计师和开发者之间的沟通更加顺畅，能够共同实现高质量的产品。\r\n\r\n### 为开发者而设计\r\n\r\n![image](https://github.com/user-attachments/assets/c1912b31-9200-4373-ba7f-63e7fcf4e05a)\r\n\r\nPenpot 的设计目标是服务于设计师和开发者，创造一个流畅的设计与代码流程。用户可以选择实时协作的模式，也可以独立工作。在实时协作中，团队成员可以共同查看和编辑设计，确保所有人的想法都能及时反映在作品中。\r\n\r\n### 检查模式\r\n\r\nPenpot 提供了一个检查模式，用户可以使用现成的代码，简化工作流程，提升效率。检查选项卡可以即时访问 SVG、CSS 和 HTML 代码，帮助开发者快速了解设计背后的实现方式，减少了沟通中的误解。\r\n\r\n### 自托管实例\r\n\r\n对于企业或团队，Penpot 还提供了自托管的选项，用户可以完全掌控自己的协作设计工具。用户可以选择使用 Penpot 的云服务，或者部署自己的 Penpot 服务器，从而实现更高的安全性和灵活性。\r\n\r\n### 集成能力\r\n\r\nPenpot 支持通过 Webhook 和可通过访问令牌访问的 API，轻松与开发工具链进行集成。这种集成能力让 Penpot 能够无缝嵌入到现有的工作流程中，提高了团队的工作效率。\r\n\r\n### 设计的优势\r\n\r\n使用 Penpot，用户可以设计出可共享和重用的库；将设计元素转化为组件和令牌，以便实现可重用性和可扩展性；构建逼真的用户流程和交互，提升设计的质量和用户体验。\r\n\r\n## 总结\r\n\r\n总之，Penpot 作为一款开源设计工具，通过提供强大的功能和灵活的协作方式，促进了设计师与开发者之间的有效沟通与合作。无论是设计复杂的用户界面，还是快速生成现成的代码，Penpot 都能帮助团队实现更高效的工作流程。选择 Penpot，意味着选择了一个更为开放与创新的设计未来。"
+  },
+  {
+    "id": "31",
+    "url": "https://wangchujiang.com/quick-rss/issue/31.html",
+    "title": "YesPlayMusic: 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "content_html": "<p>全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。</p>\n<p><img src=\"https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a\" alt=\"\"></p>\n<h3>全新技术栈——Vue.js 全家桶</h3>\n<p>本次更新最大的亮点之一就是使用了 Vue.js 全家桶进行开发。Vue.js 是一款优秀的渐进式 JavaScript 框架，它让开发者能够以更快的速度和更高的效率构建复杂的前端应用程序。通过 Vue.js，全新的 2.0 Alpha 版本不仅在性能上有所提升，而且使得整体界面响应更为迅速流畅，用户在操作中能够感受到明显的提升。</p>\n<h3>功能丰富的多媒体体验</h3>\n<p><img src=\"https://github.com/user-attachments/assets/65a70134-39a3-4b46-ab35-28c4ea543676\" alt=\"\"></p>\n<p>2.0 Alpha 测试版引入了诸多与音乐播放相关的新功能，包括网易云账号登录的支持，用户可以通过扫码、手机或邮箱进行登录，快速访问自己的音乐库。新的版本还支持 MV 播放和歌词显示，提供了更为完整的多媒体体验。此外，私人 FM 和每日推荐歌曲功能也被集成，用户可以根据自己的音乐喜好发现更多内容。</p>\n<p>对于不喜欢社交功能的用户，本次更新也是一个福音——该版本完全移除了社交功能，专注于提供更纯粹的音乐播放体验。同时，海外用户也能够通过登录网易云账号直接播放音乐，方便了全球范围内的用户使用。</p>\n<h3>独特的解锁体验 —— UnblockNeteaseMusic</h3>\n<p>为了让用户能够无缝体验音乐，2.0 Alpha 版本集成了 UnblockNeteaseMusic 插件。该插件会自动使用其他音源替换网易云音乐中因版权问题变灰的歌曲链接。虽然网页版暂不支持这一功能，但它的加入极大增强了音乐库的完整性和可访问性。用户还可以自行安装 yt-dlp，以支持 YouTube 音源的播放。</p>\n<h3>个性化体验和智能功能</h3>\n<p>新版本还具备每日自动签到功能，用户无需手动操作就能在手机端和电脑端同时完成签到。与此同时，版本增加了 Light/Dark Mode 的自动切换功能，界面风格会根据用户的系统设定或时间自动变化，为用户提供了更加舒适的视觉体验。对于拥有 Touch Bar 的设备，还支持使用 Touch Bar 进行音乐播放控制，增加了设备的交互性。</p>\n<p>此外，用户可以将该版本作为 PWA（渐进式 Web 应用）安装到桌面，通过 Chrome 或 Edge 浏览器点击地址栏的 ➕ 图标，快速将应用添加到电脑上，体验类似原生应用的操作感受。</p>\n<h3>丰富的其他功能</h3>\n<p>新版本还支持 Last.fm Scrobble，用户可以通过 Last.fm 跟踪自己的音乐收听记录。音乐云盘的支持让用户能够上传并管理自己的音乐文件。对于键盘爱好者，该版本还提供了自定义快捷键和全局快捷键功能，允许用户快速执行常用操作。此外，还支持 Mpris，多平台的媒体播放控制将变得更加轻松。</p>\n<p>Web 版本体验：<a href=\"https://music.qier222.com/\">https://music.qier222.com/</a></p>\n<p>总的来说，2.0 Alpha 版本带来了众多强大且实用的功能更新，为用户提供了更加流畅、个性化的音乐播放体验。未来的版本中，开发者还会引入更多功能，持续优化用户体验。对于喜爱网易云音乐并希望探索更多功能的用户来说，这无疑是一个值得尝试的版本。</p>",
+    "summary": "全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。 ### 全新",
+    "banner_image": "https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a",
+    "date_published": "2024-09-24T07:23:48Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。\r\n\r\n![](https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a)\r\n\r\n### 全新技术栈——Vue.js 全家桶\r\n\r\n本次更新最大的亮点之一就是使用了 Vue.js 全家桶进行开发。Vue.js 是一款优秀的渐进式 JavaScript 框架，它让开发者能够以更快的速度和更高的效率构建复杂的前端应用程序。通过 Vue.js，全新的 2.0 Alpha 版本不仅在性能上有所提升，而且使得整体界面响应更为迅速流畅，用户在操作中能够感受到明显的提升。\r\n\r\n### 功能丰富的多媒体体验\r\n\r\n![](https://github.com/user-attachments/assets/65a70134-39a3-4b46-ab35-28c4ea543676)\r\n\r\n2.0 Alpha 测试版引入了诸多与音乐播放相关的新功能，包括网易云账号登录的支持，用户可以通过扫码、手机或邮箱进行登录，快速访问自己的音乐库。新的版本还支持 MV 播放和歌词显示，提供了更为完整的多媒体体验。此外，私人 FM 和每日推荐歌曲功能也被集成，用户可以根据自己的音乐喜好发现更多内容。\r\n\r\n对于不喜欢社交功能的用户，本次更新也是一个福音——该版本完全移除了社交功能，专注于提供更纯粹的音乐播放体验。同时，海外用户也能够通过登录网易云账号直接播放音乐，方便了全球范围内的用户使用。\r\n\r\n### 独特的解锁体验 —— UnblockNeteaseMusic\r\n\r\n为了让用户能够无缝体验音乐，2.0 Alpha 版本集成了 UnblockNeteaseMusic 插件。该插件会自动使用其他音源替换网易云音乐中因版权问题变灰的歌曲链接。虽然网页版暂不支持这一功能，但它的加入极大增强了音乐库的完整性和可访问性。用户还可以自行安装 yt-dlp，以支持 YouTube 音源的播放。\r\n\r\n### 个性化体验和智能功能\r\n\r\n新版本还具备每日自动签到功能，用户无需手动操作就能在手机端和电脑端同时完成签到。与此同时，版本增加了 Light/Dark Mode 的自动切换功能，界面风格会根据用户的系统设定或时间自动变化，为用户提供了更加舒适的视觉体验。对于拥有 Touch Bar 的设备，还支持使用 Touch Bar 进行音乐播放控制，增加了设备的交互性。\r\n\r\n此外，用户可以将该版本作为 PWA（渐进式 Web 应用）安装到桌面，通过 Chrome 或 Edge 浏览器点击地址栏的 ➕ 图标，快速将应用添加到电脑上，体验类似原生应用的操作感受。\r\n\r\n### 丰富的其他功能\r\n\r\n新版本还支持 Last.fm Scrobble，用户可以通过 Last.fm 跟踪自己的音乐收听记录。音乐云盘的支持让用户能够上传并管理自己的音乐文件。对于键盘爱好者，该版本还提供了自定义快捷键和全局快捷键功能，允许用户快速执行常用操作。此外，还支持 Mpris，多平台的媒体播放控制将变得更加轻松。\r\n\r\nWeb 版本体验：https://music.qier222.com/\r\n\r\n总的来说，2.0 Alpha 版本带来了众多强大且实用的功能更新，为用户提供了更加流畅、个性化的音乐播放体验。未来的版本中，开发者还会引入更多功能，持续优化用户体验。对于喜爱网易云音乐并希望探索更多功能的用户来说，这无疑是一个值得尝试的版本。"
+  },
+  {
+    "id": "30",
+    "url": "https://wangchujiang.com/quick-rss/issue/30.html",
+    "title": "历史性时刻！全新 HTTP 方法 QUERY 提议成为 GET 和 POST 的替代方案",
+    "content_html": "<p>HTTP QUERY 方法旨在提供一种新的请求方式，它允许通过请求体传递复杂的查询参数，而无需将参数嵌入到URL中。与GET类似，QUERY是安全且幂等的，不会改变资源的状态；与POST类似，它支持请求体的使用。该方法特别适合大规模查询数据的情况，避免了URI长度限制。QUERY响应支持缓存，并允许服务器通过返回Location或Content-Location字段来提供查询结果或执行重复查询。</p>\n<p><img src=\"https://github.com/user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df\" alt=\"image\"></p>\n<p>✨ 像 GET 一样，不修改资源状态。<br>\n📦 像 POST 一样，可以在请求中发送 body。<br>\n💾 响应可被缓存。</p>\n<p>HTTP协议中的“QUERY”方法作为一种全新请求方式，旨在弥补GET和POST的不足，特别是在处理复杂查询时提供更多灵活性和高效性。下面将从背景、工作原理、优势、使用场景、安全性等多个方面详细介绍“QUERY”方法。</p>\n<h3>1. 背景与起源</h3>\n<p>在现有的HTTP方法中，GET和POST是最常见的请求方式。GET方法用于从服务器检索资源，它通过URL传递参数。这种方式虽然直观，但有时会遇到实际问题，比如URL长度的限制以及复杂查询参数的嵌入不便。而POST方法则允许通过请求体发送数据，常用于数据提交或执行不安全操作的场景。然而，POST操作并不被认为是安全和幂等的，并且通常会引起服务器的状态变化，因此并不适合那些需要重复执行且不改变资源状态的查询。</p>\n<p>针对这些限制，HTTP工作组提出了“QUERY”方法，它结合了GET和POST的优点：一方面，它允许通过请求体发送复杂的查询参数，解决了URL长度限制的问题；另一方面，它确保了请求是安全和幂等的，不会对服务器资源产生副作用。</p>\n<h3>2. QUERY方法的工作原理</h3>\n<p>“QUERY”方法的核心是通过请求体传递查询数据，而非通过URL。这意味着查询参数可以更加复杂和详细，无需受限于URL的长度限制。例如，传统的GET请求可能会包含以下内容：</p>\n<pre class=\"language-plaintext\"><code class=\"language-plaintext code-highlight\"><span class=\"code-line line-number\" line=\"1\">GET /feed?q=foo&#x26;limit=10&#x26;sort=-published HTTP/1.1\r\n</span><span class=\"code-line line-number\" line=\"2\">Host: example.org\n</span></code></pre>\n<p>然而，当查询参数变得更为复杂、甚至达到数千字节时，GET请求可能无法再承载如此大量的数据。在这种情况下，使用QUERY方法可以将查询数据放在请求体中，而不受URL长度的限制：</p>\n<pre class=\"language-plaintext\"><code class=\"language-plaintext code-highlight\"><span class=\"code-line line-number\" line=\"1\">QUERY /feed HTTP/1.1\r\n</span><span class=\"code-line line-number\" line=\"2\">Host: example.org\r\n</span><span class=\"code-line line-number\" line=\"3\">Content-Type: application/x-www-form-urlencoded\r\n</span><span class=\"code-line line-number\" line=\"4\">\r\n</span><span class=\"code-line line-number\" line=\"5\">q=foo&#x26;limit=10&#x26;sort=-published\n</span></code></pre>\n<p>在这个例子中，查询参数被放置在请求体中，解决了URL长度的问题。同时，QUERY方法保持了GET的安全性和幂等性，这意味着无论请求执行多少次，服务器资源的状态都不会发生变化。</p>\n<h3>3. 安全性与幂等性</h3>\n<p>“安全性”（safe）和“幂等性”（idempotent）是HTTP请求方法的重要属性。安全性意味着请求不会修改服务器上的资源，幂等性则表示同一请求多次执行的结果是相同的。</p>\n<p>GET方法和HEAD方法都被认为是安全和幂等的，因为它们仅用于获取资源，不会对资源状态产生影响。POST方法则不具备这些属性，因为它常常用于创建、修改或删除资源。QUERY方法在这方面与GET类似：它是安全的，也具有幂等性。无论QUERY请求执行多少次，资源的状态都不会发生变化，这使得它非常适合用于只读查询场景。</p>\n<p>此外，QUERY方法允许服务器响应时返回各种HTTP状态码。例如，当查询成功但没有返回任何数据时，服务器可以返回204 No Content；当查询结果较大时，服务器还可以通过3xx重定向指向查询结果的另一个资源。</p>\n<h3>4. 缓存与性能优化</h3>\n<p>与GET方法类似，QUERY方法的响应是可缓存的。这意味着在某些情况下，服务器返回的查询结果可以被缓存下来，用于后续的请求。缓存可以显著提高应用程序的性能，尤其是对于一些耗时较长、结果不频繁变化的查询。</p>\n<p>具体来说，QUERY方法的缓存机制依赖于HTTP缓存规范（[HTTP-CACHING]），其缓存键不仅包括请求的URI，还包括请求体的内容。因此，缓存机制可以识别具有相同查询内容的请求，并复用缓存结果。为了提高缓存效率，QUERY请求的缓存键可以通过内容归一化（normalization）来去除语义上不重要的差异。例如，服务器可以去除请求体中的编码信息或根据内容格式的规范进行归一化处理。</p>\n<p>这种缓存机制不仅减少了服务器的负载，还可以大幅提高查询的响应速度，特别是在大规模查询或高并发访问的场景下。</p>\n<h3>5. QUERY方法的应用场景</h3>\n<p>QUERY方法的设计初衷是解决一些GET方法难以处理的问题，尤其是在需要发送大量查询数据的场景中。以下是一些典型的使用场景：</p>\n<ul>\n<li><strong>复杂查询操作</strong>：当查询参数过多或包含嵌套结构时，使用QUERY可以避免URL长度限制，同时简化查询参数的组织方式。</li>\n<li><strong>分页与过滤操作</strong>：在RESTful API设计中，分页和过滤是常见需求。通过QUERY方法，开发者可以轻松传递复杂的过滤条件，而不需要担心URI的长度。</li>\n<li><strong>日志与分析查询</strong>：一些应用需要针对大量数据进行复杂的分析查询，QUERY方法允许将这些查询参数放在请求体中，同时确保查询操作是安全且幂等的。</li>\n</ul>\n<h3>6. QUERY方法的语法与请求头字段</h3>\n<p>与其他HTTP方法类似，QUERY方法允许开发者在请求中使用多种媒体类型。例如，开发者可以通过Content-Type头字段指定查询参数的格式，如application/json或application/x-www-form-urlencoded。同时，服务器也可以通过返回的Accept-Query头字段表明它支持哪些查询格式。例如：</p>\n<pre class=\"language-plaintext\"><code class=\"language-plaintext code-highlight\"><span class=\"code-line line-number\" line=\"1\">Accept-Query: application/json, application/xml\n</span></code></pre>\n<p>这种机制允许客户端和服务器之间就查询格式进行协商，确保请求和响应的兼容性。</p>\n<h3>7. 安全考虑</h3>\n<p>QUERY方法在安全性方面与其他HTTP方法类似，尤其是与GET方法。在某些情况下，使用QUERY方法传递查询参数而不是通过URI，可以提高查询的隐私性，因为URI可能会被日志记录下来。而请求体中的内容则相对更为隐私，不会被URL日志记录。</p>\n<p>不过，需要注意的是，如果服务器为QUERY请求生成了一个临时资源（例如通过Location或Content-Location头字段），应确保该资源的URI不会以明文形式暴露原始的查询内容，以避免潜在的安全风险。</p>\n<h3>8. IANA注册</h3>\n<p>根据规范，QUERY方法已经被提交到IANA（互联网号码分配机构）进行注册。未来，QUERY方法将成为HTTP协议的一部分，与GET、POST等方法共同为开发者提供更多的请求选择。</p>\n<h3>9. 总结</h3>\n<p>HTTP的QUERY方法为开发者提供了一种在不影响资源状态的前提下，执行复杂查询的新方式。它结合了GET和POST的优点，允许通过请求体传递大量查询参数，同时确保查询是安全和幂等的。通过引入缓存机制和灵活的请求体支持，QUERY方法适合于许多复杂的查询场景，并为提升应用性能提供了可能。</p>\n<p>这一方法的提出不仅解决了当前HTTP请求方式的一些局限性，还为未来的Web应用开发提供了更多的可能性。开发者可以通过合理使用QUERY方法，优化查询操作的效率和安全性，从而构建更高效、更可靠的应用。</p>",
+    "summary": "HTTP QUERY 方法旨在提供一种新的请求方式，它允许通过请求体传递复杂的查询参数，而无需将参数嵌入到URL中。与GET类似，QUERY是安全且幂等的，不会改变资源的状态；与POST类似，它支持请求体的使用。该方法特别适合大规模查询数据的情况，避免了URI长度限制。QUERY响应支持缓存，并允许服务器通过返回Location或Content-Location字段来提供查询结果或执行重复查询。 ",
+    "banner_image": "https://github.com/user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df",
+    "date_published": "2024-09-23T15:30:27Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "HTTP QUERY 方法旨在提供一种新的请求方式，它允许通过请求体传递复杂的查询参数，而无需将参数嵌入到URL中。与GET类似，QUERY是安全且幂等的，不会改变资源的状态；与POST类似，它支持请求体的使用。该方法特别适合大规模查询数据的情况，避免了URI长度限制。QUERY响应支持缓存，并允许服务器通过返回Location或Content-Location字段来提供查询结果或执行重复查询。\r\n\r\n![image](https://github.com/user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df)\r\n\r\n\r\n✨ 像 GET 一样，不修改资源状态。  \r\n📦 像 POST 一样，可以在请求中发送 body。  \r\n💾 响应可被缓存。  \r\n\r\nHTTP协议中的“QUERY”方法作为一种全新请求方式，旨在弥补GET和POST的不足，特别是在处理复杂查询时提供更多灵活性和高效性。下面将从背景、工作原理、优势、使用场景、安全性等多个方面详细介绍“QUERY”方法。\r\n\r\n### 1. 背景与起源\r\n\r\n在现有的HTTP方法中，GET和POST是最常见的请求方式。GET方法用于从服务器检索资源，它通过URL传递参数。这种方式虽然直观，但有时会遇到实际问题，比如URL长度的限制以及复杂查询参数的嵌入不便。而POST方法则允许通过请求体发送数据，常用于数据提交或执行不安全操作的场景。然而，POST操作并不被认为是安全和幂等的，并且通常会引起服务器的状态变化，因此并不适合那些需要重复执行且不改变资源状态的查询。\r\n\r\n针对这些限制，HTTP工作组提出了“QUERY”方法，它结合了GET和POST的优点：一方面，它允许通过请求体发送复杂的查询参数，解决了URL长度限制的问题；另一方面，它确保了请求是安全和幂等的，不会对服务器资源产生副作用。\r\n\r\n### 2. QUERY方法的工作原理\r\n\r\n“QUERY”方法的核心是通过请求体传递查询数据，而非通过URL。这意味着查询参数可以更加复杂和详细，无需受限于URL的长度限制。例如，传统的GET请求可能会包含以下内容：\r\n\r\n```plaintext\r\nGET /feed?q=foo&limit=10&sort=-published HTTP/1.1\r\nHost: example.org\r\n```\r\n\r\n然而，当查询参数变得更为复杂、甚至达到数千字节时，GET请求可能无法再承载如此大量的数据。在这种情况下，使用QUERY方法可以将查询数据放在请求体中，而不受URL长度的限制：\r\n\r\n```plaintext\r\nQUERY /feed HTTP/1.1\r\nHost: example.org\r\nContent-Type: application/x-www-form-urlencoded\r\n\r\nq=foo&limit=10&sort=-published\r\n```\r\n\r\n在这个例子中，查询参数被放置在请求体中，解决了URL长度的问题。同时，QUERY方法保持了GET的安全性和幂等性，这意味着无论请求执行多少次，服务器资源的状态都不会发生变化。\r\n\r\n### 3. 安全性与幂等性\r\n\r\n“安全性”（safe）和“幂等性”（idempotent）是HTTP请求方法的重要属性。安全性意味着请求不会修改服务器上的资源，幂等性则表示同一请求多次执行的结果是相同的。\r\n\r\nGET方法和HEAD方法都被认为是安全和幂等的，因为它们仅用于获取资源，不会对资源状态产生影响。POST方法则不具备这些属性，因为它常常用于创建、修改或删除资源。QUERY方法在这方面与GET类似：它是安全的，也具有幂等性。无论QUERY请求执行多少次，资源的状态都不会发生变化，这使得它非常适合用于只读查询场景。\r\n\r\n此外，QUERY方法允许服务器响应时返回各种HTTP状态码。例如，当查询成功但没有返回任何数据时，服务器可以返回204 No Content；当查询结果较大时，服务器还可以通过3xx重定向指向查询结果的另一个资源。\r\n\r\n### 4. 缓存与性能优化\r\n\r\n与GET方法类似，QUERY方法的响应是可缓存的。这意味着在某些情况下，服务器返回的查询结果可以被缓存下来，用于后续的请求。缓存可以显著提高应用程序的性能，尤其是对于一些耗时较长、结果不频繁变化的查询。\r\n\r\n具体来说，QUERY方法的缓存机制依赖于HTTP缓存规范（[HTTP-CACHING]），其缓存键不仅包括请求的URI，还包括请求体的内容。因此，缓存机制可以识别具有相同查询内容的请求，并复用缓存结果。为了提高缓存效率，QUERY请求的缓存键可以通过内容归一化（normalization）来去除语义上不重要的差异。例如，服务器可以去除请求体中的编码信息或根据内容格式的规范进行归一化处理。\r\n\r\n这种缓存机制不仅减少了服务器的负载，还可以大幅提高查询的响应速度，特别是在大规模查询或高并发访问的场景下。\r\n\r\n### 5. QUERY方法的应用场景\r\n\r\nQUERY方法的设计初衷是解决一些GET方法难以处理的问题，尤其是在需要发送大量查询数据的场景中。以下是一些典型的使用场景：\r\n\r\n- **复杂查询操作**：当查询参数过多或包含嵌套结构时，使用QUERY可以避免URL长度限制，同时简化查询参数的组织方式。\r\n- **分页与过滤操作**：在RESTful API设计中，分页和过滤是常见需求。通过QUERY方法，开发者可以轻松传递复杂的过滤条件，而不需要担心URI的长度。\r\n- **日志与分析查询**：一些应用需要针对大量数据进行复杂的分析查询，QUERY方法允许将这些查询参数放在请求体中，同时确保查询操作是安全且幂等的。\r\n\r\n### 6. QUERY方法的语法与请求头字段\r\n\r\n与其他HTTP方法类似，QUERY方法允许开发者在请求中使用多种媒体类型。例如，开发者可以通过Content-Type头字段指定查询参数的格式，如application/json或application/x-www-form-urlencoded。同时，服务器也可以通过返回的Accept-Query头字段表明它支持哪些查询格式。例如：\r\n\r\n```plaintext\r\nAccept-Query: application/json, application/xml\r\n```\r\n\r\n这种机制允许客户端和服务器之间就查询格式进行协商，确保请求和响应的兼容性。\r\n\r\n### 7. 安全考虑\r\n\r\nQUERY方法在安全性方面与其他HTTP方法类似，尤其是与GET方法。在某些情况下，使用QUERY方法传递查询参数而不是通过URI，可以提高查询的隐私性，因为URI可能会被日志记录下来。而请求体中的内容则相对更为隐私，不会被URL日志记录。\r\n\r\n不过，需要注意的是，如果服务器为QUERY请求生成了一个临时资源（例如通过Location或Content-Location头字段），应确保该资源的URI不会以明文形式暴露原始的查询内容，以避免潜在的安全风险。\r\n\r\n### 8. IANA注册\r\n\r\n根据规范，QUERY方法已经被提交到IANA（互联网号码分配机构）进行注册。未来，QUERY方法将成为HTTP协议的一部分，与GET、POST等方法共同为开发者提供更多的请求选择。\r\n\r\n### 9. 总结\r\n\r\nHTTP的QUERY方法为开发者提供了一种在不影响资源状态的前提下，执行复杂查询的新方式。它结合了GET和POST的优点，允许通过请求体传递大量查询参数，同时确保查询是安全和幂等的。通过引入缓存机制和灵活的请求体支持，QUERY方法适合于许多复杂的查询场景，并为提升应用性能提供了可能。\r\n\r\n这一方法的提出不仅解决了当前HTTP请求方式的一些局限性，还为未来的Web应用开发提供了更多的可能性。开发者可以通过合理使用QUERY方法，优化查询操作的效率和安全性，从而构建更高效、更可靠的应用。"
+  },
+  {
+    "id": "29",
+    "url": "https://wangchujiang.com/quick-rss/issue/29.html",
+    "title": "BestOfJS: 比项目较过去12个月在 GitHub 上增加的星标数",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153\" alt=\"image\"></p>\n<p>探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！</p>\n<h2>热门项目</h2>\n<p><img src=\"https://github.com/user-attachments/assets/7010ac1a-fa58-4d6a-ae10-bc7612c787d7\" alt=\"image\"></p>\n<p>按过去 24 小时内新增的星标数量排名</p>\n<h2>最新添加的项目</h2>\n<p><img src=\"https://github.com/user-attachments/assets/a475e95b-ecfe-4382-afb5-4682ac28669b\" alt=\"image\"></p>\n<p>Best of JS 中最新添加的项目</p>\n<h2>2024 年 8 月排名</h2>\n<p><img src=\"https://github.com/user-attachments/assets/ec121adf-e510-45d2-8e67-6ac35ee43fdf\" alt=\"image\"></p>\n<p>按上个月新增的星标数量排名</p>",
+    "summary": "探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！ ## 热门项目 按过去 24 小时内新增的星标数量排名 ## 最新添加的项目 Best of JS 中最新添加的项目 ## 2024 年 8 月排名 按上个月新增的星标数量排名",
+    "banner_image": "https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153",
+    "date_published": "2024-09-23T12:28:24Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![image](https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153)\r\n\r\n探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！\r\n\r\n## 热门项目\r\n\r\n![image](https://github.com/user-attachments/assets/7010ac1a-fa58-4d6a-ae10-bc7612c787d7)\r\n\r\n按过去 24 小时内新增的星标数量排名\r\n\r\n## 最新添加的项目\r\n\r\n![image](https://github.com/user-attachments/assets/a475e95b-ecfe-4382-afb5-4682ac28669b)\r\n\r\nBest of JS 中最新添加的项目\r\n\r\n## 2024 年 8 月排名\r\n\r\n![image](https://github.com/user-attachments/assets/ec121adf-e510-45d2-8e67-6ac35ee43fdf)\r\n\r\n按上个月新增的星标数量排名"
+  },
+  {
+    "id": "28",
+    "url": "https://wangchujiang.com/quick-rss/issue/28.html",
+    "title": "BBackupp：完美的 iOS 备份解决方案",
+    "content_html": "<p>在今天的数据时代，确保移动设备数据的安全与完整至关重要。<strong>BBackupp</strong> 是一款全新的 iOS 备份软件，提供了丰富的功能，让备份过程变得简单、高效，并且具备高度的灵活性。不论是想要手动备份，还是自动化备份，BBackupp 都能够为用户提供最合适的解决方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa\" alt=\"\"></p>\n<h3>轻松备份 iOS 设备</h3>\n<p>使用 BBackupp，用户可以轻松实现对 iOS 设备的完整备份。操作简单，无需繁琐的设置，让用户能够快速上手，立即保护宝贵的数据。</p>\n<h3>实时文件进度监控</h3>\n<p>在备份过程中，BBackupp 提供了详细的文件进度监控，用户可以清楚地看到每个文件的备份状态，确保一切顺利进行。</p>\n<h3>本地存储单次备份</h3>\n<p>对于只需要一次性备份的用户，BBackupp 允许将备份文件存储到本地，方便之后的管理与访问。</p>\n<h3>无线备份支持</h3>\n<p>BBackupp 支持通过 IP 地址进行无线备份，让备份过程更加灵活、便捷。无论你身处家中还是办公室，都可以通过网络将设备备份到目标存储位置。</p>\n<h3>自动化与定时备份</h3>\n<p>通过设置备份计划，用户可以自动化定期备份，完全告别手动备份的烦恼。BBackupp 会按设定好的时间自动执行备份任务，确保数据随时最新。</p>\n<h3>端到端加密确保安全</h3>\n<p>在数据安全性方面，BBackupp 提供了端到端加密，确保备份文件在存储和传输过程中免受外部威胁。</p>\n<h3>兼容多种存储方式</h3>\n<p>BBackupp 不仅支持本地存储，还兼容 SFTP、S3 等多种存储方式，满足不同用户的备份需求。</p>\n<h3>快照技术</h3>\n<p>BBackupp 采用了快照技术进行备份，使得用户能够快速创建多个备份点，轻松管理多个时间点的数据状态。</p>\n<h3>应用安装包自动下载</h3>\n<p>为了进一步提升使用体验，BBackupp 自动从 App Store 下载并保存应用安装包，帮助用户在需要时快速恢复设备中的应用。</p>\n<h3>备份过程通知</h3>\n<p>备份过程中，BBackupp 还会通过通知系统向用户更新进展。无论是备份完成还是出现问题，用户都会第一时间知晓，完全掌控整个过程。</p>\n<h3>健康检查</h3>\n<p>BBackupp 提供了一个简单的活跃状态检查功能，通过发送 GET 请求，用户可以快速确认备份服务器是否正常运行。</p>",
+    "summary": "在今天的数据时代，确保移动设备数据的安全与完整至关重要。**BBackupp** 是一款全新的 iOS 备份软件，提供了丰富的功能，让备份过程变得简单、高效，并且具备高度的灵活性。不论是想要手动备份，还是自动化备份，BBackupp 都能够为用户提供最合适的解决方案。 ### 轻松备份 iOS 设备 使用 BBackupp，用户可以轻松实现对 iOS 设备的完整备份。操作简单，无需繁琐的设置，让用",
+    "banner_image": "https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa",
+    "date_published": "2024-09-23T03:27:22Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    }
+  },
+  {
+    "id": "27",
+    "url": "https://wangchujiang.com/quick-rss/issue/27.html",
+    "title": "BLEUnlock: 让你的 Mac 更智能的锁定与解锁",
+    "content_html": "<p>在这个快节奏的时代，安全性与便利性并重。BLEUnlock 是一款小巧的菜单栏工具，利用蓝牙低功耗（BLE）技术，让你可以通过你的 iPhone、Apple Watch 或其他 BLE 设备轻松锁定和解锁你的 Mac。</p>\n<p><img src=\"https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f\" alt=\"\"></p>\n<h3>无需额外的 iPhone 应用</h3>\n<p>BLEUnlock 直接在你的 Mac 上运行，无需安装额外的 iPhone 应用，简化了使用流程。</p>\n<h3>兼容多种 BLE 设备</h3>\n<p>这款工具支持任何定期发送信号的 BLE 设备，只要其静态 MAC 地址保持不变，便能实现锁定与解锁。</p>\n<h3>自动解锁</h3>\n<p>当你的 BLE 设备靠近 Mac 时，BLEUnlock 会自动为你解锁，无需输入密码，极大提升了使用便利性。</p>\n<h3>自动锁定</h3>\n<p>一旦 BLE 设备远离 Mac，系统会立即锁定，有效保护你的数据安全。</p>\n<h3>自定义脚本</h3>\n<p>用户可以选择在锁定或解锁时运行自定义脚本，满足不同场景下的个性化需求。</p>\n<h3>唤醒显示屏</h3>\n<p>在你的 Mac 进入显示屏睡眠模式时，BLEUnlock 可选择性唤醒设备，让你随时可以使用。</p>\n<h3>音乐/视频控制</h3>\n<p>当你离开或返回时，BLEUnlock 可以选择性地暂停和恢复音乐或视频播放，提升观影体验。</p>\n<h3>安全存储密码</h3>\n<p>密码会安全地存储在系统钥匙串中，确保你的信息得到充分保护。</p>",
+    "summary": "在这个快节奏的时代，安全性与便利性并重。BLEUnlock 是一款小巧的菜单栏工具，利用蓝牙低功耗（BLE）技术，让你可以通过你的 iPhone、Apple Watch 或其他 BLE 设备轻松锁定和解锁你的 Mac。 ### 无需额外的 iPhone 应用 BLEUnlock 直接在你的 Mac 上运行，无需安装额外的 iPhone 应用，简化了使用流程。 ### 兼容多种 BLE 设备 这款工",
+    "banner_image": "https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f",
+    "date_published": "2024-09-22T07:47:42Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    }
+  },
+  {
+    "id": "26",
+    "url": "https://wangchujiang.com/quick-rss/issue/26.html",
+    "title": "PrettyClean：macOS 最佳磁盘清理工具",
+    "content_html": "<p>在 macOS 系统中，保持磁盘整洁和系统流畅至关重要。<strong>PrettyClean</strong> 正是为此而生，它是一款专为 macOS 设计的强大而小巧的磁盘清理工具。无论您的设备是 Intel 处理器的 Mac，还是最新的 Apple Silicon 设备，PrettyClean 都能帮助您优化系统性能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a\" alt=\"image\"></p>\n<h2>多芯片支持</h2>\n<p>PrettyClean 完美支持 <strong>Intel</strong> 和 <strong>Apple Silicon</strong> 芯片，包括 <strong>M1/M2</strong> 系列。通过充分利用您的硬件性能，PrettyClean 能够快速、彻底地扫描您的系统，确保以最快的速度释放宝贵的磁盘空间。</p>\n<h2>小巧而强大</h2>\n<p>虽然 PrettyClean 的安装包小于 <strong>6MB</strong>，但它功能强大、性能卓越。尽管体积轻便，它依然提供全面的功能和极高的效率，确保您的系统始终保持最佳状态。</p>\n<h2>多种扫描策略</h2>\n<p><img src=\"https://github.com/user-attachments/assets/ffdd31e1-ec7f-41e7-8202-2bc7d817e534\" alt=\"image\"></p>\n<p>PrettyClean 拥有多种专业的扫描策略，专门针对用户文件、系统缓存、应用生成的临时文件以及下载文件夹中的安装包等各类占用空间的文件进行深入扫描，帮助您尽可能多地释放磁盘空间。</p>\n<h2>隐私安全保障</h2>\n<p>隐私安全始终是 PrettyClean 的核心理念之一。它公开所有扫描过程，您可以清晰地看到每个被扫描的文件。<strong>PrettyClean 承诺绝不会上传任何扫描信息</strong>，确保您的隐私得到严格保护。</p>\n<h2>开发者模式</h2>\n<p><img src=\"https://github.com/user-attachments/assets/acb33871-38b4-4561-aab8-ba808a581a7d\" alt=\"image\"></p>\n<p>作为一款独特的工具，PrettyClean 专门为开发者设计了开发者模式，支持扫描和清理主流开发工具产生的编译缓存文件。这使它成为目前市场上唯一支持开发者选项的磁盘清理工具，非常适合程序员和开发者使用。</p>",
+    "summary": "在 macOS 系统中，保持磁盘整洁和系统流畅至关重要。**PrettyClean** 正是为此而生，它是一款专为 macOS 设计的强大而小巧的磁盘清理工具。无论您的设备是 Intel 处理器的 Mac，还是最新的 Apple Silicon 设备，PrettyClean 都能帮助您优化系统性能。 ## 多芯片支持 PrettyClean 完美支持 **Intel** 和 **Apple Sil",
+    "banner_image": "https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a",
+    "date_published": "2024-09-22T03:43:50Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "在 macOS 系统中，保持磁盘整洁和系统流畅至关重要。**PrettyClean** 正是为此而生，它是一款专为 macOS 设计的强大而小巧的磁盘清理工具。无论您的设备是 Intel 处理器的 Mac，还是最新的 Apple Silicon 设备，PrettyClean 都能帮助您优化系统性能。\r\n\r\n![image](https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a)\r\n\r\n## 多芯片支持\r\n\r\nPrettyClean 完美支持 **Intel** 和 **Apple Silicon** 芯片，包括 **M1/M2** 系列。通过充分利用您的硬件性能，PrettyClean 能够快速、彻底地扫描您的系统，确保以最快的速度释放宝贵的磁盘空间。\r\n\r\n## 小巧而强大\r\n\r\n虽然 PrettyClean 的安装包小于 **6MB**，但它功能强大、性能卓越。尽管体积轻便，它依然提供全面的功能和极高的效率，确保您的系统始终保持最佳状态。\r\n\r\n## 多种扫描策略\r\n\r\n![image](https://github.com/user-attachments/assets/ffdd31e1-ec7f-41e7-8202-2bc7d817e534)\r\n\r\n\r\nPrettyClean 拥有多种专业的扫描策略，专门针对用户文件、系统缓存、应用生成的临时文件以及下载文件夹中的安装包等各类占用空间的文件进行深入扫描，帮助您尽可能多地释放磁盘空间。\r\n\r\n## 隐私安全保障\r\n\r\n隐私安全始终是 PrettyClean 的核心理念之一。它公开所有扫描过程，您可以清晰地看到每个被扫描的文件。**PrettyClean 承诺绝不会上传任何扫描信息**，确保您的隐私得到严格保护。\r\n\r\n## 开发者模式\r\n\r\n![image](https://github.com/user-attachments/assets/acb33871-38b4-4561-aab8-ba808a581a7d)\r\n\r\n作为一款独特的工具，PrettyClean 专门为开发者设计了开发者模式，支持扫描和清理主流开发工具产生的编译缓存文件。这使它成为目前市场上唯一支持开发者选项的磁盘清理工具，非常适合程序员和开发者使用。"
+  },
+  {
+    "id": "25",
+    "url": "https://wangchujiang.com/quick-rss/issue/25.html",
+    "title": "Swift Regex：基于 Swift 的 Web 正则表达式测试应用",
+    "content_html": "<p>Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。</p>\n<p><img src=\"https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/0083d41b-51ea-4032-aea6-8d12956a925e\" alt=\"image\"></p>",
+    "summary": "Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。",
+    "banner_image": "https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3",
+    "date_published": "2024-09-21T12:34:26Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。\r\n\r\n![image](https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3)\r\n\r\n![image](https://github.com/user-attachments/assets/0083d41b-51ea-4032-aea6-8d12956a925e)"
+  },
+  {
+    "id": "24",
+    "url": "https://wangchujiang.com/quick-rss/issue/24.html",
+    "title": "🍒 Cherry Studio：多平台支持的桌面 LLM 客户端",
+    "content_html": "<p>Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e\" alt=\"image\"></p>\n<h3>🌟 主要功能</h3>\n<ul>\n<li><strong>支持多个 LLM 提供商</strong>：无论你使用的是哪家 LLM 服务，Cherry Studio 都能为你提供兼容支持。</li>\n<li><strong>创建多个助手</strong>：允许用户在客户端内创建多个智能助手，根据不同场景灵活应对。</li>\n<li><strong>创建多个主题</strong>：用户可以根据需要创建多个对话主题，便于分类管理和组织。</li>\n<li><strong>支持多个模型在同一对话中回答问题</strong>：在同一次对话中可以调用多个不同的模型进行回答，提升答案的多样性和准确性。</li>\n<li><strong>拖拽排序功能</strong>：支持拖拽式的排序操作，简化管理流程。</li>\n<li><strong>代码高亮</strong>：提供代码高亮功能，便于阅读和处理代码内容。</li>\n<li><strong>Mermaid 图表支持</strong>：内置 Mermaid 图表支持，用户可以在应用中方便地创建和展示流程图、序列图等。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/01e60ce0-015d-4e89-b748-c16b9b611096\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/a103911f-8ddb-4264-b5b9-903fff7865b1\" alt=\"image\"></p>\n<p><strong>Cherry Studio</strong> 是一款功能丰富且灵活的 LLM 客户端工具，无论你是开发者、学生，还是内容创作者，都可以利用它实现智能对话和数据分析的高效管理。</p>",
+    "summary": "Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。 ### 🌟 主要功能 - **支持多个 LLM 提供商**：无论你使用的是哪家 LLM 服务，Cherry Studio 都能为你提供兼容支持。 - **创建多个助手**：允许用户在客户端内创建多个智能助手，根据不同场景灵活应对。",
+    "banner_image": "https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e",
+    "date_published": "2024-09-21T10:11:21Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。\r\n\r\n![image](https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e)\r\n\r\n### 🌟 主要功能\r\n\r\n- **支持多个 LLM 提供商**：无论你使用的是哪家 LLM 服务，Cherry Studio 都能为你提供兼容支持。\r\n- **创建多个助手**：允许用户在客户端内创建多个智能助手，根据不同场景灵活应对。\r\n- **创建多个主题**：用户可以根据需要创建多个对话主题，便于分类管理和组织。\r\n- **支持多个模型在同一对话中回答问题**：在同一次对话中可以调用多个不同的模型进行回答，提升答案的多样性和准确性。\r\n- **拖拽排序功能**：支持拖拽式的排序操作，简化管理流程。\r\n- **代码高亮**：提供代码高亮功能，便于阅读和处理代码内容。\r\n- **Mermaid 图表支持**：内置 Mermaid 图表支持，用户可以在应用中方便地创建和展示流程图、序列图等。\r\n\r\n![image](https://github.com/user-attachments/assets/01e60ce0-015d-4e89-b748-c16b9b611096)\r\n\r\n![image](https://github.com/user-attachments/assets/a103911f-8ddb-4264-b5b9-903fff7865b1)\r\n\r\n**Cherry Studio** 是一款功能丰富且灵活的 LLM 客户端工具，无论你是开发者、学生，还是内容创作者，都可以利用它实现智能对话和数据分析的高效管理。"
+  },
+  {
+    "id": "23",
+    "url": "https://wangchujiang.com/quick-rss/issue/23.html",
+    "title": "Fellmonger: 支持多种大型语言模型（LLM）的原生客户端，是一个展示使用 Swift 6 开发的原生桌面应用的示例项目",
+    "content_html": "<p>Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d\" alt=\"\"></p>\n<p>📚 <strong>Fellmonger</strong> 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS 和 Windows 桌面应用开发。虽然该项目是为个人学习而构建，但也希望它能为其他开发者提供启发和帮助 😄。</p>\n<p><img src=\"https://github.com/user-attachments/assets/3c182895-1f08-47fb-85fd-dbc53a925c62\" alt=\"\"></p>\n<h3>项目现状与改进空间</h3>\n<p>项目的复杂度已经足以模拟真实的应用程序，但目前还处于原型阶段。为了让它达到生产级别，仍有一些地方需要改进，包括：</p>\n<ul>\n<li>UI/图标的进一步打磨</li>\n<li>功能的增强</li>\n<li>性能优化</li>\n<li>更完善的错误处理</li>\n<li>安装程序的改进</li>\n</ul>\n<p>这些改进将使 Fellmonger 从原型走向一个可以真正投入使用的生产级应用。</p>",
+    "summary": "Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。 📚 **Fellmonger** 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS",
+    "banner_image": "https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d",
+    "date_published": "2024-09-21T08:51:14Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。\r\n\r\n![](https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d)\r\n\r\n📚 **Fellmonger** 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS 和 Windows 桌面应用开发。虽然该项目是为个人学习而构建，但也希望它能为其他开发者提供启发和帮助 😄。\r\n\r\n![](https://github.com/user-attachments/assets/3c182895-1f08-47fb-85fd-dbc53a925c62)\r\n\r\n### 项目现状与改进空间\r\n\r\n项目的复杂度已经足以模拟真实的应用程序，但目前还处于原型阶段。为了让它达到生产级别，仍有一些地方需要改进，包括：\r\n\r\n- UI/图标的进一步打磨\r\n- 功能的增强\r\n- 性能优化\r\n- 更完善的错误处理\r\n- 安装程序的改进\r\n\r\n这些改进将使 Fellmonger 从原型走向一个可以真正投入使用的生产级应用。"
+  },
+  {
+    "id": "22",
+    "url": "https://wangchujiang.com/quick-rss/issue/22.html",
+    "title": "Maccy：专注高效的 macOS 剪贴板管理器的开源应用",
+    "content_html": "<p>Maccy 是一款轻量级的 macOS 剪贴板管理工具，设计简洁，功能专注。它的使命非常明确：为你保存复制历史，让你随时快速访问，极简而高效。</p>\n<p><img src=\"https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8\" alt=\"\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/afa54290-515f-4023-aab4-3c147ca3ee3d?rehype=video\"></video>\n<p><strong>简单纯粹，无多余功能</strong></p>\n<p>与许多复杂的剪贴板管理器不同，Maccy 只做一件事：保存你复制的内容并提供快速访问。没有繁杂的额外功能，使用过程不会让你感到负担。</p>\n<p><strong>轻量快速，始终高效</strong></p>\n<p>Maccy 极其轻量，运行速度极快。你可以在一瞬间打开剪贴板历史并搜索你需要的内容，丝毫不影响工作流。它的设计理念就是让你专注于手头的任务，不被分心。</p>\n<p><strong>键盘优先操作，效率更高</strong></p>\n<p>Maccy 允许你完全通过键盘操作。只需输入关键词，找到你想要的历史记录并按下 Enter，整个过程无需触碰鼠标，提升了工作效率。</p>\n<p><strong>注重隐私与安全</strong></p>\n<p>Maccy 非常重视用户隐私。如果你使用密码管理器，它移除剪贴板中的敏感信息时，Maccy 也会同步清除。所有数据都仅保存在本地电脑上，确保信息安全无虞。</p>\n<p><strong>原生设计，简洁美观</strong></p>\n<p>Maccy 使用 macOS 的原生 UI 设计，界面极简且符合用户的直觉。它的外观和使用体验与 macOS 系统融为一体，不会因复杂的设计打扰你的工作。</p>\n<p><strong>开源且永久免费</strong></p>\n<p>作为一个开源项目，Maccy 使用 MIT 许可证，完全免费。你可以在 GitHub 上查看、修改它的源代码，根据自己的需求做出调整。它的开源性质确保了你对软件的完全掌控。</p>\n<h1>结语</h1>\n<p>如果你在寻找一款轻量、高效、且安全的剪贴板管理器，Maccy 是你不二的选择。它用简洁的设计和强大的功能，让你专注于工作，同时随时掌握你的剪贴板历史。</p>\n<p>Maccy 为追求效率和简约的 macOS 用户提供了理想的剪贴板管理解决方案，值得一试。</p>",
+    "summary": "Maccy 是一款轻量级的 macOS 剪贴板管理工具，设计简洁，功能专注。它的使命非常明确：为你保存复制历史，让你随时快速访问，极简而高效。 https://github.com/user-attachments/assets/afa54290-515f-4023-aab4-3c147ca3ee3d?rehype=video **简单纯粹，无多余功能** 与许多复杂的剪贴板管理器不同，Maccy",
+    "banner_image": "https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8",
+    "date_published": "2024-09-21T04:49:33Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Maccy 是一款轻量级的 macOS 剪贴板管理工具，设计简洁，功能专注。它的使命非常明确：为你保存复制历史，让你随时快速访问，极简而高效。\r\n\r\n![](https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8)\r\n\r\nhttps://github.com/user-attachments/assets/afa54290-515f-4023-aab4-3c147ca3ee3d?rehype=video\r\n\r\n\r\n**简单纯粹，无多余功能**\r\n\r\n与许多复杂的剪贴板管理器不同，Maccy 只做一件事：保存你复制的内容并提供快速访问。没有繁杂的额外功能，使用过程不会让你感到负担。\r\n\r\n**轻量快速，始终高效**\r\n\r\nMaccy 极其轻量，运行速度极快。你可以在一瞬间打开剪贴板历史并搜索你需要的内容，丝毫不影响工作流。它的设计理念就是让你专注于手头的任务，不被分心。\r\n\r\n**键盘优先操作，效率更高**\r\n\r\nMaccy 允许你完全通过键盘操作。只需输入关键词，找到你想要的历史记录并按下 Enter，整个过程无需触碰鼠标，提升了工作效率。\r\n\r\n**注重隐私与安全**\r\n\r\nMaccy 非常重视用户隐私。如果你使用密码管理器，它移除剪贴板中的敏感信息时，Maccy 也会同步清除。所有数据都仅保存在本地电脑上，确保信息安全无虞。\r\n\r\n**原生设计，简洁美观**\r\n\r\nMaccy 使用 macOS 的原生 UI 设计，界面极简且符合用户的直觉。它的外观和使用体验与 macOS 系统融为一体，不会因复杂的设计打扰你的工作。\r\n\r\n**开源且永久免费**\r\n\r\n作为一个开源项目，Maccy 使用 MIT 许可证，完全免费。你可以在 GitHub 上查看、修改它的源代码，根据自己的需求做出调整。它的开源性质确保了你对软件的完全掌控。\r\n# 结语\r\n\r\n如果你在寻找一款轻量、高效、且安全的剪贴板管理器，Maccy 是你不二的选择。它用简洁的设计和强大的功能，让你专注于工作，同时随时掌握你的剪贴板历史。\r\n\r\nMaccy 为追求效率和简约的 macOS 用户提供了理想的剪贴板管理解决方案，值得一试。"
+  }
+[
+  {
+    "id": "76",
+    "url": "https://wangchujiang.com/quick-rss/issue/76.html",
+    "title": "VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！",
+    "content_html": "<p>VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀</p>\n<p><img src=\"https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550\" alt=\"Image\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400?title=VoiceInk&#x26;rehype=video\"></video>\n<h3>功能亮点：</h3>\n<ul>\n<li>🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时</li>\n<li>🔒 隐私优先：100% 离线处理，确保数据不离开设备</li>\n<li>⚡ 强力模式：智能应用检测，根据使用的应用自动调整设置</li>\n<li>🧠 上下文感知：智能 AI 理解屏幕内容并适应环境</li>\n<li>🎯 全局快捷键：可配置的快捷键，快速录音和按键对讲功能</li>\n<li>📝 个性化词典：训练 AI 理解您的专有术语、行业术语和智能文本替换</li>\n<li>🔄 智能模式：快速切换适配不同写作风格和环境的 AI 模式</li>\n<li>🤖 AI 助手：内置语音助手，类似 ChatGPT 的对话助手</li>\n</ul>",
+    "summary": "VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀 https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400?title=VoiceInk&rehype=video ### 功能亮点： - 🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时 - 🔒",
+    "banner_image": "https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550",
+    "date_published": "2025-02-28T09:11:48Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀\n\n![Image](https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550)\n\nhttps://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400?title=VoiceInk&rehype=video\n\n### 功能亮点：\n\n- 🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时\n- 🔒 隐私优先：100% 离线处理，确保数据不离开设备\n- ⚡ 强力模式：智能应用检测，根据使用的应用自动调整设置\n- 🧠 上下文感知：智能 AI 理解屏幕内容并适应环境\n- 🎯 全局快捷键：可配置的快捷键，快速录音和按键对讲功能\n- 📝 个性化词典：训练 AI 理解您的专有术语、行业术语和智能文本替换\n- 🔄 智能模式：快速切换适配不同写作风格和环境的 AI 模式\n- 🤖 AI 助手：内置语音助手，类似 ChatGPT 的对话助手"
+  },
+  {
+    "id": "75",
+    "url": "https://wangchujiang.com/quick-rss/issue/75.html",
+    "title": "设置 macOS Launchpad 启动台显示更多应用图标",
+    "content_html": "<p>要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875\" alt=\"\"></p>\n<p>设置 Launchpad 图标 10 行 10列</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">defaults write com.apple.dock springboard-rows -int 10\n</span><span class=\"code-line line-number\" line=\"2\">defaults write com.apple.dock springboard-columns -int 10;killall Dock\n</span></code></pre>\n<p>重置成默认 Launchpad 行列</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">defaults delete com.apple.dock springboard-rows\n</span><span class=\"code-line line-number\" line=\"2\">defaults delete com.apple.dock springboard-columns;killall Dock\n</span></code></pre>",
+    "summary": "要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。 设置 Launchpad 图标 10 行 10列 ``` defaults write com.apple.dock springboard-rows -int 10 defaults write com.apple.dock springboar",
+    "banner_image": "https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875",
+    "date_published": "2025-02-27T03:55:52Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。\n\n![](https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875)\n\n设置 Launchpad 图标 10 行 10列\n\n```\ndefaults write com.apple.dock springboard-rows -int 10\ndefaults write com.apple.dock springboard-columns -int 10;killall Dock\n```\n\n重置成默认 Launchpad 行列\n\n```\ndefaults delete com.apple.dock springboard-rows\ndefaults delete com.apple.dock springboard-columns;killall Dock\n```"
+  },
+  {
+    "id": "74",
+    "url": "https://wangchujiang.com/quick-rss/issue/74.html",
+    "title": "Pulse Pro 是一款专为 Apple 平台设计的网络日志工具",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/88604921-2cc8-4b79-b365-5171337ebc1f\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/dad7dbc7-bc95-460c-9d3b-6acc128c8eb5\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/9c773152-1d5c-4056-ad6e-b3cf3c20dc61\" alt=\"Image\"></p>\n<p>通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。</p>",
+    "summary": "通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。",
+    "banner_image": "https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e",
+    "date_published": "2025-02-26T19:43:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![Image](https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e)\n\n![Image](https://github.com/user-attachments/assets/88604921-2cc8-4b79-b365-5171337ebc1f)\n\n![Image](https://github.com/user-attachments/assets/dad7dbc7-bc95-460c-9d3b-6acc128c8eb5)\n\n![Image](https://github.com/user-attachments/assets/9c773152-1d5c-4056-ad6e-b3cf3c20dc61)\n\n通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。"
+  },
+  {
+    "id": "73",
+    "url": "https://wangchujiang.com/quick-rss/issue/73.html",
+    "title": "DNS Easy Switcher：简单的 macOS 菜单栏应用，可以快速切换不同的 DNS 提供商",
+    "content_html": "<p>DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP 提供的 DNS）并管理自己的 DNS 服务器。</p>\n<p><img src=\"https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57\" alt=\"Image\"></p>\n<p>应用支持测试 DNS 速度，帮助你找到最快的 DNS 提供商，并通过 Touch ID 进行 DNS 更改身份验证。集成在 macOS 菜单栏，设置在应用启动之间得以保存，同时支持 IPv4 和 IPv6。让你轻松管理网络设置，提升上网体验！</p>",
+    "summary": "DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP",
+    "banner_image": "https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57",
+    "date_published": "2025-02-26T04:11:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP 提供的 DNS）并管理自己的 DNS 服务器。\n\n![Image](https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57)\n\n应用支持测试 DNS 速度，帮助你找到最快的 DNS 提供商，并通过 Touch ID 进行 DNS 更改身份验证。集成在 macOS 菜单栏，设置在应用启动之间得以保存，同时支持 IPv4 和 IPv6。让你轻松管理网络设置，提升上网体验！"
+  },
+  {
+    "id": "72",
+    "url": "https://wangchujiang.com/quick-rss/issue/72.html",
+    "title": "TheBoringNotch：一个开源的 Mac 刘海工具",
+    "content_html": "<p>TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。</p>\n<p><img src=\"https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064\" alt=\"Image\"></p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/19b87973-4b3a-4853-b532-7e82d1d6b040?title=TheBoringNotch&#x26;rehype=video\"></video>",
+    "summary": "TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。 https://github.com/user-attachments/assets/19b87973-4b3a-4853-b532-7e82d1d6b040?title=TheBoringNotch&rehype",
+    "banner_image": "https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064",
+    "date_published": "2025-02-23T17:27:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。\n\n![Image](https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064)\n\nhttps://github.com/user-attachments/assets/19b87973-4b3a-4853-b532-7e82d1d6b040?title=TheBoringNotch&rehype=video"
+  },
+  {
+    "id": "71",
+    "url": "https://wangchujiang.com/quick-rss/issue/71.html",
+    "title": "Beszel：开源的轻量服务器监控工具平台",
+    "content_html": "<p>一款开源的轻量服务器监控工具平台——Beszel，它提供了包括 Docker 统计信息、历史数据以及告警功能。界面简洁友好，操作起来非常方便，值得借鉴一些产品的交互设计。</p>\n<img width=\"591\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec\">\n<img width=\"598\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f9441191-b7c2-4766-b3a5-df8d5e7ddd5f\">\n<h3>主要特点：</h3>\n<ul>\n<li>轻量级：比主流解决方案更小巧，资源占用更少。</li>\n<li>简单易用：易于设置，不需要暴露在公共互联网中。</li>\n<li>Docker 统计：追踪每个容器的 CPU、内存、网络使用历史。</li>\n<li>告警功能：支持配置 CPU、内存、磁盘、带宽、温度和状态等多种告警。</li>\n<li>多用户支持：用户可以管理自己的系统，管理员可以跨用户共享系统。</li>\n<li>OAuth / OIDC：支持多种 OAuth2 提供商，且可以禁用密码认证。</li>\n<li>自动备份：支持从磁盘或兼容 S3 的存储中保存和恢复数据。</li>\n<li>REST API：可以在自己的脚本和应用中使用或更新数据。</li>\n</ul>\n<p>如果你在寻找一个轻量且功能丰富的服务器监控工具，Beszel 无疑是一个不错的选择！</p>",
+    "summary": "一款开源的轻量服务器监控工具平台——Beszel，它提供了包括 Docker 统计信息、历史数据以及告警功能。界面简洁友好，操作起来非常方便，值得借鉴一些产品的交互设计。 ### 主要特点： - 轻量级：比主流解决方案更小巧，资源占用更少。 - 简单易用：易于设置，不需要暴露在公共互联网中。 - Docker 统计：追踪每个容器的 CPU、内存、网络使用历史。 - 告警功能：支持配置 CPU、内存",
+    "banner_image": null,
+    "date_published": "2025-02-23T17:20:25Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款开源的轻量服务器监控工具平台——Beszel，它提供了包括 Docker 统计信息、历史数据以及告警功能。界面简洁友好，操作起来非常方便，值得借鉴一些产品的交互设计。\n\n<img width=\"591\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec\" />\n\n<img width=\"598\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f9441191-b7c2-4766-b3a5-df8d5e7ddd5f\" />\n\n### 主要特点：\n\n- 轻量级：比主流解决方案更小巧，资源占用更少。\n- 简单易用：易于设置，不需要暴露在公共互联网中。\n- Docker 统计：追踪每个容器的 CPU、内存、网络使用历史。\n- 告警功能：支持配置 CPU、内存、磁盘、带宽、温度和状态等多种告警。\n- 多用户支持：用户可以管理自己的系统，管理员可以跨用户共享系统。\n- OAuth / OIDC：支持多种 OAuth2 提供商，且可以禁用密码认证。\n- 自动备份：支持从磁盘或兼容 S3 的存储中保存和恢复数据。\n- REST API：可以在自己的脚本和应用中使用或更新数据。\n\n如果你在寻找一个轻量且功能丰富的服务器监控工具，Beszel 无疑是一个不错的选择！"
+  },
+  {
+    "id": "70",
+    "url": "https://wangchujiang.com/quick-rss/issue/70.html",
+    "title": "Cherry Studio：是你所期望的最棒的 AI 对话 客户端 🤖",
+    "content_html": "<p>Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。</p>\n<p><img src=\"https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/a3d6992b-4631-441b-883a-6c0cc9349f01\" alt=\"Image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/702a554d-06fc-40bc-9a2a-26f8153677d4\" alt=\"Image\"></p>\n<h3>🌟 主要特性</h3>\n<p><img src=\"https://github.com/user-attachments/assets/995910f3-177a-4d1e-97ea-04e3b009ba36\" alt=\"\"></p>\n<ol>\n<li>\n<p><strong>多样化 LLM 服务支持</strong>：</p>\n<ul>\n<li>☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等</li>\n<li>🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等</li>\n<li>💻 支持 Ollama、LM Studio 本地模型部署</li>\n</ul>\n</li>\n<li>\n<p><strong>智能助手与对话</strong>：</p>\n<ul>\n<li>📚 内置 300+ 预配置 AI 助手</li>\n<li>🤖 支持自定义创建专属助手</li>\n<li>💬 多模型同时对话，获得多样化观点</li>\n</ul>\n</li>\n<li>\n<p><strong>文档与数据处理</strong>：</p>\n<ul>\n<li>📄 支持文本、图片、Office、PDF 等多种格式</li>\n<li>☁️ WebDAV 文件管理与数据备份</li>\n<li>📊 Mermaid 图表可视化</li>\n<li>💻 代码高亮显示</li>\n</ul>\n</li>\n<li>\n<p><strong>实用工具集成</strong>：</p>\n<ul>\n<li>🔍 全局搜索功能</li>\n<li>📝 话题管理系统</li>\n<li>🔤 AI 驱动的翻译功能</li>\n<li>🎯 拖拽排序</li>\n<li>🔌 小程序支持</li>\n</ul>\n</li>\n<li>\n<p><strong>优质使用体验</strong>：</p>\n<ul>\n<li>🖥️ Windows、Mac、Linux 跨平台支持</li>\n<li>📦 开箱即用，无需配置环境</li>\n<li>🎨 支持明暗主题与透明窗口</li>\n<li>📝 完整的 Markdown 渲染</li>\n<li>🤲 便捷的内容分享功能</li>\n</ul>\n</li>\n</ol>",
+    "summary": "Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。 ### 🌟 主要特性 1. **多样化 LLM 服务支持**： - ☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等 - 🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等",
+    "banner_image": "https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73",
+    "date_published": "2025-02-23T17:12:34Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。\n\n![Image](https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73)\n\n![Image](https://github.com/user-attachments/assets/a3d6992b-4631-441b-883a-6c0cc9349f01)\n\n![Image](https://github.com/user-attachments/assets/702a554d-06fc-40bc-9a2a-26f8153677d4)\n\n### 🌟 主要特性\n\n![](https://github.com/user-attachments/assets/995910f3-177a-4d1e-97ea-04e3b009ba36)\n\n1. **多样化 LLM 服务支持**：\n\n   - ☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等\n   - 🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等\n   - 💻 支持 Ollama、LM Studio 本地模型部署\n\n2. **智能助手与对话**：\n\n   - 📚 内置 300+ 预配置 AI 助手\n   - 🤖 支持自定义创建专属助手\n   - 💬 多模型同时对话，获得多样化观点\n\n3. **文档与数据处理**：\n\n   - 📄 支持文本、图片、Office、PDF 等多种格式\n   - ☁️ WebDAV 文件管理与数据备份\n   - 📊 Mermaid 图表可视化\n   - 💻 代码高亮显示\n\n4. **实用工具集成**：\n\n   - 🔍 全局搜索功能\n   - 📝 话题管理系统\n   - 🔤 AI 驱动的翻译功能\n   - 🎯 拖拽排序\n   - 🔌 小程序支持\n\n5. **优质使用体验**：\n   - 🖥️ Windows、Mac、Linux 跨平台支持\n   - 📦 开箱即用，无需配置环境\n   - 🎨 支持明暗主题与透明窗口\n   - 📝 完整的 Markdown 渲染\n   - 🤲 便捷的内容分享功能"
+  },
+  {
+    "id": "69",
+    "url": "https://wangchujiang.com/quick-rss/issue/69.html",
+    "title": "MoePush - 基于 NextJS + Cloudflare 技术栈构建的消息推送服务✨",
+    "content_html": "<p>一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨</p>\n<p><img src=\"https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/1e7bb2f4-d752-4366-8ea0-d5c470728227\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/255fe979-7cea-4716-9f1d-ecb4e4cbf987\" alt=\"\"></p>\n<h3>特性</h3>\n<ul>\n<li>📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。</li>\n<li>🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。</li>\n<li>💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。</li>\n<li>🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。</li>\n</ul>\n<h3>已支持渠道</h3>\n<ul>\n<li>钉钉机器人</li>\n<li>企业微信应用</li>\n<li>企业微信机器人</li>\n<li>Telegram 机器人</li>\n</ul>",
+    "summary": "一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ ### 特性 - 📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。 - 🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。 - 💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。 - 🎨精美 UI ：使用 shadcn/ui 组件库，提供精",
+    "banner_image": "https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3",
+    "date_published": "2025-02-23T08:43:50Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨\n\n![](https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3)\n\n![](https://github.com/user-attachments/assets/1e7bb2f4-d752-4366-8ea0-d5c470728227)\n\n![](https://github.com/user-attachments/assets/255fe979-7cea-4716-9f1d-ecb4e4cbf987)\n\n### 特性\n\n- 📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。\n- 🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。\n- 💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。\n- 🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。\n\n\n### 已支持渠道\n\n- 钉钉机器人\n- 企业微信应用\n- 企业微信机器人\n- Telegram 机器人"
+  }
+][
+  {
+    "id": "21",
+    "url": "https://wangchujiang.com/quick-rss/issue/21.html",
+    "title": "Certimate: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期",
+    "content_html": "<p>🔒 <strong>Certimate</strong> 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题：</p>\n<p><img src=\"https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22\" alt=\"\"></p>\n<p>😱 <strong>操作麻烦</strong>：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。\r\n😭 <strong>易于遗忘</strong>：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。</p>\n<p><img src=\"https://github.com/user-attachments/assets/87b11403-e38a-4431-811e-a891acf7b77d\" alt=\"\"></p>\n<p><strong>Certimate</strong> 旨在解决这些痛点，具有以下特点：</p>\n<ul>\n<li><strong>操作简单</strong>：全自动申请、部署和续期 SSL 证书，无需人工干预，极大减轻了维护负担。</li>\n<li><strong>支持私有部署</strong>：只需下载二进制文件即可运行，支持 Docker 镜像，整个过程透明可审计，确保用户对每一步都有掌控。</li>\n<li><strong>数据安全</strong>：所有数据均存储在本地，不会保存在服务商的服务器，确保数据安全性。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/5c5e5378-056e-4156-8c85-f5d16bb299e4\" alt=\"\"></p>\n<p>选择 <strong>Certimate</strong>，让域名证书管理变得简单、安全、高效！</p>",
+    "summary": "🔒 **Certimate** 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题： 😱 **操作麻烦**：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。 😭 **易于遗忘**：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。 **Certimate** 旨",
+    "banner_image": "https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22",
+    "date_published": "2024-09-20T12:00:30Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "🔒 **Certimate** 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题：\r\n\r\n![](https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22)\r\n\r\n😱 **操作麻烦**：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。\r\n😭 **易于遗忘**：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。\r\n\r\n![](https://github.com/user-attachments/assets/87b11403-e38a-4431-811e-a891acf7b77d)\r\n\r\n**Certimate** 旨在解决这些痛点，具有以下特点：\r\n\r\n- **操作简单**：全自动申请、部署和续期 SSL 证书，无需人工干预，极大减轻了维护负担。\r\n- **支持私有部署**：只需下载二进制文件即可运行，支持 Docker 镜像，整个过程透明可审计，确保用户对每一步都有掌控。\r\n- **数据安全**：所有数据均存储在本地，不会保存在服务商的服务器，确保数据安全性。\r\n\r\n![](https://github.com/user-attachments/assets/5c5e5378-056e-4156-8c85-f5d16bb299e4)\r\n\r\n选择 **Certimate**，让域名证书管理变得简单、安全、高效！"
+  },
+  {
+    "id": "20",
+    "url": "https://wangchujiang.com/quick-rss/issue/20.html",
+    "title": "free-for.dev 为开发人员提供的大量免费资源！ 主机、数据库、CDN、API、域名等",
+    "content_html": "<p>这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。</p>\n<p><img src=\"https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30\" alt=\"image\"></p>\n<p>本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务。由于这些边界有时可能模糊不清，列表内容是带有一定主观性的，若某些贡献未被采纳，请不必感到不满。</p>\n<p>这个列表是通过1600多位贡献者的 Pull Requests、审查和想法汇集而成的，任何人都可以通过提交 Pull Requests 来帮助更新列表中的内容，包括添加新的免费服务或移除那些已变更或停用的服务。</p>\n<p>通过此列表，开发者可以更轻松地发现适合其需求的免费工具和服务，从而提高开发效率并降低成本。</p>",
+    "summary": "这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。 本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务",
+    "banner_image": "https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30",
+    "date_published": "2024-09-19T13:27:59Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。\r\n\r\n![image](https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30)\r\n\r\n\r\n本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务。由于这些边界有时可能模糊不清，列表内容是带有一定主观性的，若某些贡献未被采纳，请不必感到不满。\r\n\r\n这个列表是通过1600多位贡献者的 Pull Requests、审查和想法汇集而成的，任何人都可以通过提交 Pull Requests 来帮助更新列表中的内容，包括添加新的免费服务或移除那些已变更或停用的服务。\r\n\r\n通过此列表，开发者可以更轻松地发现适合其需求的免费工具和服务，从而提高开发效率并降低成本。"
+  },
+  {
+    "id": "19",
+    "url": "https://wangchujiang.com/quick-rss/issue/19.html",
+    "title": "PlayCover 支持在 Apple Silicon 设备上运行 iOS 应用和游戏",
+    "content_html": "<p>PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6\" alt=\"\"></p>\n<p>PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄像头移动、左右点击以及个性化按键映射，类似于流行的 Android 模拟器 Bluestacks 的按键映射系统。</p>\n<p>这款软件最初是为了在 Apple Silicon 设备上运行《原神》而开发的，但现已支持更广泛的应用程序。尽管如此，仍有一些游戏不受支持，或者可能会遇到一些小问题。</p>\n<p>PlayCover 提供了流畅的游戏和应用体验，是 Apple Silicon 设备用户探索 iOS 应用新玩法的理想选择。</p>",
+    "summary": "PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。 PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄",
+    "banner_image": "https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6",
+    "date_published": "2024-09-19T10:15:38Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。\r\n\r\n![](https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6)\r\n\r\nPlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄像头移动、左右点击以及个性化按键映射，类似于流行的 Android 模拟器 Bluestacks 的按键映射系统。\r\n\r\n这款软件最初是为了在 Apple Silicon 设备上运行《原神》而开发的，但现已支持更广泛的应用程序。尽管如此，仍有一些游戏不受支持，或者可能会遇到一些小问题。\r\n\r\nPlayCover 提供了流畅的游戏和应用体验，是 Apple Silicon 设备用户探索 iOS 应用新玩法的理想选择。"
+  },
+  {
+    "id": "18",
+    "url": "https://wangchujiang.com/quick-rss/issue/18.html",
+    "title": "NPM Chart：一键将你的 npm 下载量转换为精美的可分享图表",
+    "content_html": "<p>一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。</p>\n<p><img src=\"https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd\" alt=\"\"></p>\n<p>可以完美展示你项目的成长和社区影响力！</p>\n<p><img src=\"https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f\" alt=\"\"></p>",
+    "summary": "一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。 可以完美展示你项目的成长和社区影响力！",
+    "banner_image": "https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd",
+    "date_published": "2024-09-18T18:42:53Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。\r\n\r\n![](https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd)\r\n\r\n可以完美展示你项目的成长和社区影响力！\r\n\r\n![](https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f)"
+  },
+  {
+    "id": "17",
+    "url": "https://wangchujiang.com/quick-rss/issue/17.html",
+    "title": "Artificial Analysis：大模型能力、价格、速度对比的工具",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568\" alt=\"\"></p>\n<p>深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情</p>",
+    "summary": "深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情",
+    "banner_image": "https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568",
+    "date_published": "2024-09-18T13:49:31Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![](https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568)\r\n\r\n深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情"
+  },
+  {
+    "id": "16",
+    "url": "https://wangchujiang.com/quick-rss/issue/16.html",
+    "title": "XcodeLLMEligible - Xcode 使用 AI 代码补全",
+    "content_html": "<p>Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次</p>\n<p><img src=\"https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e\" alt=\"image\"></p>\n<p>Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本</p>",
+    "summary": "Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次 Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本",
+    "banner_image": "https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e",
+    "date_published": "2024-09-18T12:34:48Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次\r\n\r\n![image](https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e)\r\n\r\nXcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本"
+  },
+  {
+    "id": "15",
+    "url": "https://wangchujiang.com/quick-rss/issue/15.html",
+    "title": "Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案",
+    "content_html": "<p>Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。</p>\n<p><img src=\"https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3\" alt=\"image\"></p>\n<p>Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，<a href=\"https://appwrite.io/docs\">等多种服务</a>。</p>\n<p>Appwrite 使用高拓展性的微服务架构。此外，Appwrite 支持多种 API（REST、WebSocket 和 即将推出的 GraphQL），来迎合您的个性化开发习惯。</p>\n<p><img src=\"https://github.com/user-attachments/assets/329d22c7-4946-4951-b457-eb5f31f512a9\" alt=\"image\"></p>\n<p>Appwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。</p>",
+    "summary": "Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。 Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，[等多种服务](https://appwrite.",
+    "banner_image": "https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3",
+    "date_published": "2024-09-17T17:37:41Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。\r\n\r\n![image](https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3)\r\n\r\n\r\nAppwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，[等多种服务](https://appwrite.io/docs)。\r\n\r\nAppwrite 使用高拓展性的微服务架构。此外，Appwrite 支持多种 API（REST、WebSocket 和 即将推出的 GraphQL），来迎合您的个性化开发习惯。\r\n\r\n![image](https://github.com/user-attachments/assets/329d22c7-4946-4951-b457-eb5f31f512a9)\r\n\r\nAppwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。"
+  },
+  {
+    "id": "14",
+    "url": "https://wangchujiang.com/quick-rss/issue/14.html",
+    "title": "静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术",
+    "content_html": "<p>这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。</p>\n<p><img src=\"https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f\" alt=\"\"></p>",
+    "summary": "这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。",
+    "banner_image": "https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa",
+    "date_published": "2024-09-17T16:27:51Z",
+    "author": {
+      "name": "Innei",
+      "link": "https://avatars.githubusercontent.com/u/41265413?v=4"
+    },
+    "markdownContent": "这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。\r\n\r\n![](https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa)\r\n\r\n![](https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f)"
+  },
+  {
+    "id": "13",
+    "url": "https://wangchujiang.com/quick-rss/issue/13.html",
+    "title": "Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端",
+    "content_html": "<p>本应用内置 <a href=\"https://github.com/apple/ml-stable-diffusion\">Apple 的 Core ML Stable Diffusion 框架</a> 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能</p>\n<p><img src=\"https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb\" alt=\"\"></p>\n<p>🌐 生成图像无需联网\r\n🖼️ 支持图像转图像 &#x26; ControlNet\r\n🗂️ EXIF 信息中存储关键词\r\n🔍 使用 RealESRGAN 放大图像\r\n💾 自动保存 &#x26; 恢复图像\r\n🛠️ 自定义 Stable Diffusion Core ML 模型\r\n🖥️ 使用 SwiftUI 开发</p>",
+    "summary": "本应用内置 [Apple 的 Core ML Stable Diffusion 框架](https://github.com/apple/ml-stable-diffusion) 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能 🌐 生成图像无需联网 🖼️ 支持图像转图像 & ControlNet 🗂️ EXIF 信息中存储关键词 🔍 使用 RealESRGAN ",
+    "banner_image": "https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb",
+    "date_published": "2024-09-17T10:27:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "本应用内置 [Apple 的 Core ML Stable Diffusion 框架](https://github.com/apple/ml-stable-diffusion) 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能\r\n\r\n![](https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb)\r\n\r\n\r\n🌐 生成图像无需联网\r\n🖼️ 支持图像转图像 & ControlNet\r\n🗂️ EXIF 信息中存储关键词\r\n🔍 使用 RealESRGAN 放大图像\r\n💾 自动保存 & 恢复图像\r\n🛠️ 自定义 Stable Diffusion Core ML 模型\r\n🖥️ 使用 SwiftUI 开发"
+  },
+  {
+    "id": "12",
+    "url": "https://wangchujiang.com/quick-rss/issue/12.html",
+    "title": "App Rejection Fixes: 搜集 Apple 应用上架被拒绝的解决方案",
+    "content_html": "<p>此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865\" alt=\"\"></p>\n<p>它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&#x26;rehype=video\"></video>",
+    "summary": "此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。 https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Reject",
+    "banner_image": "https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865",
+    "date_published": "2024-09-17T09:34:00Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。\r\n\r\n![](https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865)\r\n\r\n它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。\r\n\r\nhttps://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&rehype=video"
+  },
+  {
+    "id": "11",
+    "url": "https://wangchujiang.com/quick-rss/issue/11.html",
+    "title": "Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写 ",
+    "content_html": "<p>Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622\" alt=\"\"></p>\n<p>不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。</p>",
+    "summary": "Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。 不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成",
+    "banner_image": "https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622",
+    "date_published": "2024-09-17T09:24:58Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。\r\n\r\n![](https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622)\r\n\r\n不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。"
+  },
+  {
+    "id": "10",
+    "url": "https://wangchujiang.com/quick-rss/issue/10.html",
+    "title": "Ghchart：Github贡献图表作为图像，嵌入你的博客",
+    "content_html": "<p>📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客</p>\n<p><img src=\"https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036\" alt=\"image\"></p>\n<p>你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方：</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">&#x3C;img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\n</span></code></pre>\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah&#x27;s Github chart\">\n<p>回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！</p>\n<p><strong>颜色方案</strong></p>\n<p>我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 <code>https://ghchart.rshah.org/&#x3C;HEX-COLOR>/2016rshah</code> 并将 <code>&#x3C;HEX-COLOR></code> 替换为你想要的颜色的十六进制代码（不包括前导的 <code>#</code> 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">&#x3C;img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />\n</span></code></pre>\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah&#x27;s Blue Github Chart\">",
+    "summary": "📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客 你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方： ``` ``` 回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！ **颜色方案** 我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表",
+    "banner_image": "https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036",
+    "date_published": "2024-09-17T09:11:19Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客\r\n\r\n![image](https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036)\r\n\r\n你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方：\r\n\r\n```\r\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\r\n```\r\n\r\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\r\n\r\n回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！\r\n\r\n**颜色方案**\r\n\r\n我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 `https://ghchart.rshah.org/<HEX-COLOR>/2016rshah` 并将 `<HEX-COLOR>` 替换为你想要的颜色的十六进制代码（不包括前导的 `#` 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：\r\n\r\n```\r\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />\r\n```\r\n\r\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />"
+  },
+  {
+    "id": "9",
+    "url": "https://wangchujiang.com/quick-rss/issue/9.html",
+    "title": "OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！",
+    "content_html": "<p>这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c\" alt=\"image\"></p>\n<p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p>",
+    "summary": "这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。",
+    "banner_image": "https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c",
+    "date_published": "2024-09-16T17:31:14Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。\r\n\r\n![image](https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c)\r\n\r\n\r\n该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。"
+  },
+  {
+    "id": "8",
+    "url": "https://wangchujiang.com/quick-rss/issue/8.html",
+    "title": "rathole：安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 ",
+    "content_html": "<p>安全、稳定、高性能的内网穿透工具，用 Rust 语言编写</p>\n<p><img src=\"https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399\" alt=\"rathole\"></p>\n<p>rathole，类似于 <a href=\"https://github.com/fatedier/frp\">frp</a> 和 <a href=\"https://github.com/inconshreveable/ngrok\">ngrok</a>，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。</p>\n<p>同类型的内网穿透工具</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<table><thead><tr><th>名称</th><th>Star</th></tr></thead><tbody><tr><td><a href=\"https://github.com/fatedier/frp\">frp</a></td><td><img src=\"https://img.shields.io/github/stars/fatedier/frp.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/inlets/inlets-pro\">inlets</a></td><td><img src=\"https://img.shields.io/github/stars/inlets/inlets-pro.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/inconshreveable/ngrok\">ngrok</a></td><td><img src=\"https://img.shields.io/github/stars/inconshreveable/ngrok.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/pgrok/pgrok\">pgrok</a></td><td><img src=\"https://img.shields.io/github/stars/pgrok/pgrok.svg\" alt=\"\"></td></tr><tr><td><del><a href=\"https://github.com/cnlh/easyProxy\">easyProxy</a></del></td><td><img src=\"https://img.shields.io/github/stars/cnlh/easyProxy.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://natapp.cn/\">natapp</a></td><td>-</td></tr><tr><td><a href=\"https://github.com/ehang-io/nps\">nps</a></td><td><img src=\"https://img.shields.io/github/stars/ehang-io/nps.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/jpillora/chisel\">chisel</a></td><td><img src=\"https://img.shields.io/github/stars/jpillora/chisel.svg\" alt=\"\"></td></tr></tbody></table>",
+    "summary": "安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 rathole，类似于 [frp](https://github.com/fatedier/frp) 和 [ngrok](https://github.com/inconshreveable/ngrok)，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。 同类型的内网穿透工具 | 名称 | Star | | ---",
+    "banner_image": "https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399",
+    "date_published": "2024-09-16T16:32:58Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "安全、稳定、高性能的内网穿透工具，用 Rust 语言编写\r\n\r\n![rathole](https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399)\r\n\r\nrathole，类似于 [frp](https://github.com/fatedier/frp) 和 [ngrok](https://github.com/inconshreveable/ngrok)，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。\r\n\r\n\r\n同类型的内网穿透工具\r\n\r\n|  名称 | Star |\r\n|  ---- | ---- |\r\n| [frp](https://github.com/fatedier/frp) |  ![](https://img.shields.io/github/stars/fatedier/frp.svg)  |\r\n| [inlets](https://github.com/inlets/inlets-pro) |  ![](https://img.shields.io/github/stars/inlets/inlets-pro.svg)  |\r\n| [ngrok](https://github.com/inconshreveable/ngrok) |  ![](https://img.shields.io/github/stars/inconshreveable/ngrok.svg)  |\r\n| [pgrok](https://github.com/pgrok/pgrok) |  ![](https://img.shields.io/github/stars/pgrok/pgrok.svg)  |\r\n| ~~[easyProxy](https://github.com/cnlh/easyProxy)~~ |  ![](https://img.shields.io/github/stars/cnlh/easyProxy.svg)  |\r\n| [natapp](https://natapp.cn/) | - |\r\n| [nps](https://github.com/ehang-io/nps) |  ![](https://img.shields.io/github/stars/ehang-io/nps.svg) |\r\n| [chisel](https://github.com/jpillora/chisel) |  ![](https://img.shields.io/github/stars/jpillora/chisel.svg) |"
+  },
+  {
+    "id": "7",
+    "url": "https://wangchujiang.com/quick-rss/issue/7.html",
+    "title": "IP查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电",
+    "content_html": "<p>ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。</p>\n<p><img src=\"https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc\" alt=\"image\"></p>\n<p>支持命令行显示</p>\n<p><img src=\"https://github.com/user-attachments/assets/bcb1675b-8f4a-4c31-bef5-373246bf94e1\" alt=\"image\"></p>\n<p>支持嵌入图片显示 IP，下面是嵌入图片示例</p>\n<a href=\"https://ip.im\">\n  <img src=\"https://ip.im/img\" alt=\"My IP Address\" width=\"215\" height=\"70\">\n</a>\n<p>另外还有一些为爱发电的，IP 查询工具： <a href=\"https://ip.sy/\">https://ip.sy/</a></p>",
+    "summary": "ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。 支持命令行显示 支持嵌入图片显示 IP，下面是嵌入图片示例 另外还有一些为爱发电的，IP 查询工具： https://ip.sy/",
+    "banner_image": "https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc",
+    "date_published": "2024-09-16T16:18:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。\r\n\r\n![image](https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc)\r\n\r\n支持命令行显示\r\n\r\n![image](https://github.com/user-attachments/assets/bcb1675b-8f4a-4c31-bef5-373246bf94e1)\r\n\r\n支持嵌入图片显示 IP，下面是嵌入图片示例\r\n\r\n<a href=\"https://ip.im\">\r\n  <img src=\"https://ip.im/img\" alt=\"My IP Address\" width=\"215\" height=\"70\" />\r\n</a>\r\n\r\n另外还有一些为爱发电的，IP 查询工具： https://ip.sy/"
+  },
+  {
+    "id": "6",
+    "url": "https://wangchujiang.com/quick-rss/issue/6.html",
+    "title": "Dub: 开源的短链接服务",
+    "content_html": "<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>\n<p><img src=\"https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png\" alt=\"\"></p>",
+    "summary": "一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接",
+    "banner_image": "https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png",
+    "date_published": "2024-09-15T10:59:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接\r\n\r\n![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)"
+  },
+  {
+    "id": "5",
+    "url": "https://wangchujiang.com/quick-rss/issue/5.html",
+    "title": "Docmost: 是一个开源的协作文档和 Wiki 应用",
+    "content_html": "<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee\" alt=\"image\"></p>\n<p><strong>功能介绍</strong></p>\n<ul>\n<li><strong>实时协作编辑器</strong>：与他人实时协作编辑页面。</li>\n<li><strong>绘图功能</strong>：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。</li>\n<li><strong>工作空间</strong>：按团队、项目或部门组织页面，以便更好地协作。</li>\n<li><strong>权限管理</strong>：通过简单易懂的权限设置轻松控制内容访问。</li>\n<li><strong>群组功能</strong>：通过群组轻松为用户授予统一权限。</li>\n<li><strong>评论功能</strong>：为页面添加评论，以便更好地沟通和反馈。</li>\n<li><strong>页面历史</strong>：通过完整的版本历史跟踪页面更改。</li>\n<li><strong>嵌套导航</strong>：通过侧边栏可以嵌套和重新排序页面。</li>\n<li><strong>搜索功能</strong>：通过强大的搜索功能快速找到所需信息。</li>\n<li><strong>文件附件</strong>：将文件附加到页面，便于参考和共享。</li>\n<li><strong>导入/导出</strong>：支持轻松导入和导出 Markdown 和 HTML 格式的页面。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe\" alt=\"image\"></p>",
+    "summary": "一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。 **功能介绍** - **实时协作编辑器**：与他人实时协作编辑页面。 - **绘图功能**：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。 - **工作空间**：按团队、项目或部门组织页面，以便更好地协作。 - **权限管理**：通过简单易懂的权限设置轻松控制内容访问",
+    "banner_image": "https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee",
+    "date_published": "2024-09-15T08:05:12Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。\r\n\r\n![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)\r\n\r\n\r\n**功能介绍**\r\n\r\n- **实时协作编辑器**：与他人实时协作编辑页面。\r\n- **绘图功能**：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。\r\n- **工作空间**：按团队、项目或部门组织页面，以便更好地协作。\r\n- **权限管理**：通过简单易懂的权限设置轻松控制内容访问。\r\n- **群组功能**：通过群组轻松为用户授予统一权限。\r\n- **评论功能**：为页面添加评论，以便更好地沟通和反馈。\r\n- **页面历史**：通过完整的版本历史跟踪页面更改。\r\n- **嵌套导航**：通过侧边栏可以嵌套和重新排序页面。\r\n- **搜索功能**：通过强大的搜索功能快速找到所需信息。\r\n- **文件附件**：将文件附加到页面，便于参考和共享。\r\n- **导入/导出**：支持轻松导入和导出 Markdown 和 HTML 格式的页面。\r\n\r\n![image](https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5)\r\n\r\n![image](https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe)"
+  },
+  {
+    "id": "4",
+    "url": "https://wangchujiang.com/quick-rss/issue/4.html",
+    "title": "Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器",
+    "content_html": "<p>Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。</p>\n<p>👉 <a href=\"https://github.com/jaywcjlove/quick-rss\">https://github.com/jaywcjlove/quick-rss</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668\" alt=\"image\"></p>",
+    "summary": "Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。 👉 https://github.com/jaywcjlove/quick-rss",
+    "banner_image": "https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668",
+    "date_published": "2024-09-14T19:35:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "mar[
+  {
+    "id": "21",
+    "url": "https://wangchujiang.com/quick-rss/issue/21.html",
+    "title": "Certimate: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期",
+    "content_html": "<p>🔒 <strong>Certimate</strong> 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题：</p>\n<p><img src=\"https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22\" alt=\"\"></p>\n<p>😱 <strong>操作麻烦</strong>：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。\r\n😭 <strong>易于遗忘</strong>：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。</p>\n<p><img src=\"https://github.com/user-attachments/assets/87b11403-e38a-4431-811e-a891acf7b77d\" alt=\"\"></p>\n<p><strong>Certimate</strong> 旨在解决这些痛点，具有以下特点：</p>\n<ul>\n<li><strong>操作简单</strong>：全自动申请、部署和续期 SSL 证书，无需人工干预，极大减轻了维护负担。</li>\n<li><strong>支持私有部署</strong>：只需下载二进制文件即可运行，支持 Docker 镜像，整个过程透明可审计，确保用户对每一步都有掌控。</li>\n<li><strong>数据安全</strong>：所有数据均存储在本地，不会保存在服务商的服务器，确保数据安全性。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/5c5e5378-056e-4156-8c85-f5d16bb299e4\" alt=\"\"></p>\n<p>选择 <strong>Certimate</strong>，让域名证书管理变得简单、安全、高效！</p>",
+    "summary": "🔒 **Certimate** 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题： 😱 **操作麻烦**：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。 😭 **易于遗忘**：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。 **Certimate** 旨",
+    "banner_image": "https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22",
+    "date_published": "2024-09-20T12:00:30Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "🔒 **Certimate** 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题：\r\n\r\n![](https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22)\r\n\r\n😱 **操作麻烦**：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。\r\n😭 **易于遗忘**：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。\r\n\r\n![](https://github.com/user-attachments/assets/87b11403-e38a-4431-811e-a891acf7b77d)\r\n\r\n**Certimate** 旨在解决这些痛点，具有以下特点：\r\n\r\n- **操作简单**：全自动申请、部署和续期 SSL 证书，无需人工干预，极大减轻了维护负担。\r\n- **支持私有部署**：只需下载二进制文件即可运行，支持 Docker 镜像，整个过程透明可审计，确保用户对每一步都有掌控。\r\n- **数据安全**：所有数据均存储在本地，不会保存在服务商的服务器，确保数据安全性。\r\n\r\n![](https://github.com/user-attachments/assets/5c5e5378-056e-4156-8c85-f5d16bb299e4)\r\n\r\n选择 **Certimate**，让域名证书管理变得简单、安全、高效！"
+  },
+  {
+    "id": "20",
+    "url": "https://wangchujiang.com/quick-rss/issue/20.html",
+    "title": "free-for.dev 为开发人员提供的大量免费资源！ 主机、数据库、CDN、API、域名等",
+    "content_html": "<p>这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。</p>\n<p><img src=\"https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30\" alt=\"image\"></p>\n<p>本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务。由于这些边界有时可能模糊不清，列表内容是带有一定主观性的，若某些贡献未被采纳，请不必感到不满。</p>\n<p>这个列表是通过1600多位贡献者的 Pull Requests、审查和想法汇集而成的，任何人都可以通过提交 Pull Requests 来帮助更新列表中的内容，包括添加新的免费服务或移除那些已变更或停用的服务。</p>\n<p>通过此列表，开发者可以更轻松地发现适合其需求的免费工具和服务，从而提高开发效率并降低成本。</p>",
+    "summary": "这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。 本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务",
+    "banner_image": "https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30",
+    "date_published": "2024-09-19T13:27:59Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。\r\n\r\n![image](https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30)\r\n\r\n\r\n本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务。由于这些边界有时可能模糊不清，列表内容是带有一定主观性的，若某些贡献未被采纳，请不必感到不满。\r\n\r\n这个列表是通过1600多位贡献者的 Pull Requests、审查和想法汇集而成的，任何人都可以通过提交 Pull Requests 来帮助更新列表中的内容，包括添加新的免费服务或移除那些已变更或停用的服务。\r\n\r\n通过此列表，开发者可以更轻松地发现适合其需求的免费工具和服务，从而提高开发效率并降低成本。"
+  },
+  {
+    "id": "19",
+    "url": "https://wangchujiang.com/quick-rss/issue/19.html",
+    "title": "PlayCover 支持在 Apple Silicon 设备上运行 iOS 应用和游戏",
+    "content_html": "<p>PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6\" alt=\"\"></p>\n<p>PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄像头移动、左右点击以及个性化按键映射，类似于流行的 Android 模拟器 Bluestacks 的按键映射系统。</p>\n<p>这款软件最初是为了在 Apple Silicon 设备上运行《原神》而开发的，但现已支持更广泛的应用程序。尽管如此，仍有一些游戏不受支持，或者可能会遇到一些小问题。</p>\n<p>PlayCover 提供了流畅的游戏和应用体验，是 Apple Silicon 设备用户探索 iOS 应用新玩法的理想选择。</p>",
+    "summary": "PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。 PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄",
+    "banner_image": "https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6",
+    "date_published": "2024-09-19T10:15:38Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。\r\n\r\n![](https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6)\r\n\r\nPlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄像头移动、左右点击以及个性化按键映射，类似于流行的 Android 模拟器 Bluestacks 的按键映射系统。\r\n\r\n这款软件最初是为了在 Apple Silicon 设备上运行《原神》而开发的，但现已支持更广泛的应用程序。尽管如此，仍有一些游戏不受支持，或者可能会遇到一些小问题。\r\n\r\nPlayCover 提供了流畅的游戏和应用体验，是 Apple Silicon 设备用户探索 iOS 应用新玩法的理想选择。"
+  },
+  {
+    "id": "18",
+    "url": "https://wangchujiang.com/quick-rss/issue/18.html",
+    "title": "NPM Chart：一键将你的 npm 下载量转换为精美的可分享图表",
+    "content_html": "<p>一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。</p>\n<p><img src=\"https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd\" alt=\"\"></p>\n<p>可以完美展示你项目的成长和社区影响力！</p>\n<p><img src=\"https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f\" alt=\"\"></p>",
+    "summary": "一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。 可以完美展示你项目的成长和社区影响力！",
+    "banner_image": "https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd",
+    "date_published": "2024-09-18T18:42:53Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。\r\n\r\n![](https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd)\r\n\r\n可以完美展示你项目的成长和社区影响力！\r\n\r\n![](https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f)"
+  },
+  {
+    "id": "17",
+    "url": "https://wangchujiang.com/quick-rss/issue/17.html",
+    "title": "Artificial Analysis：大模型能力、价格、速度对比的工具",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568\" alt=\"\"></p>\n<p>深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情</p>",
+    "summary": "深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情",
+    "banner_image": "https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568",
+    "date_published": "2024-09-18T13:49:31Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![](https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568)\r\n\r\n深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情"
+  },
+  {
+    "id": "16",
+    "url": "https://wangchujiang.com/quick-rss/issue/16.html",
+    "title": "XcodeLLMEligible - Xcode 使用 AI 代码补全",
+    "content_html": "<p>Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次</p>\n<p><img src=\"https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e\" alt=\"image\"></p>\n<p>Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本</p>",
+    "summary": "Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次 Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本",
+    "banner_image": "https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e",
+    "date_published": "2024-09-18T12:34:48Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次\r\n\r\n![image](https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e)\r\n\r\nXcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本"
+  },
+  {
+    "id": "15",
+    "url": "https://wangchujiang.com/quick-rss/issue/15.html",
+    "title": "Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案",
+    "content_html": "<p>Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。</p>\n<p><img src=\"https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3\" alt=\"image\"></p>\n<p>Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，<a href=\"https://appwrite.io/docs\">等多种服务</a>。</p>\n<p>Appwrite 使用高拓展性的微服务架构。此外，Appwrite 支持多种 API（REST、WebSocket 和 即将推出的 GraphQL），来迎合您的个性化开发习惯。</p>\n<p><img src=\"https://github.com/user-attachments/assets/329d22c7-4946-4951-b457-eb5f31f512a9\" alt=\"image\"></p>\n<p>Appwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。</p>",
+    "summary": "Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。 Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，[等多种服务](https://appwrite.",
+    "banner_image": "https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3",
+    "date_published": "2024-09-17T17:37:41Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。\r\n\r\n![image](https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3)\r\n\r\n\r\nAppwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，[等多种服务](https://appwrite.io/docs)。\r\n\r\nAppwrite 使用高拓展性的微服务架构。此外，Appwrite 支持多种 API（REST、WebSocket 和 即将推出的 GraphQL），来迎合您的个性化开发习惯。\r\n\r\n![image](https://github.com/user-attachments/assets/329d22c7-4946-4951-b457-eb5f31f512a9)\r\n\r\nAppwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。"
+  },
+  {
+    "id": "14",
+    "url": "https://wangchujiang.com/quick-rss/issue/14.html",
+    "title": "静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术",
+    "content_html": "<p>这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。</p>\n<p><img src=\"https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa\" alt=\"\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f\" alt=\"\"></p>",
+    "summary": "这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。",
+    "banner_image": "https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa",
+    "date_published": "2024-09-17T16:27:51Z",
+    "author": {
+      "name": "Innei",
+      "link": "https://avatars.githubusercontent.com/u/41265413?v=4"
+    },
+    "markdownContent": "这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。\r\n\r\n![](https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa)\r\n\r\n![](https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f)"
+  },
+  {
+    "id": "13",
+    "url": "https://wangchujiang.com/quick-rss/issue/13.html",
+    "title": "Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端",
+    "content_html": "<p>本应用内置 <a href=\"https://github.com/apple/ml-stable-diffusion\">Apple 的 Core ML Stable Diffusion 框架</a> 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能</p>\n<p><img src=\"https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb\" alt=\"\"></p>\n<p>🌐 生成图像无需联网\r\n🖼️ 支持图像转图像 &#x26; ControlNet\r\n🗂️ EXIF 信息中存储关键词\r\n🔍 使用 RealESRGAN 放大图像\r\n💾 自动保存 &#x26; 恢复图像\r\n🛠️ 自定义 Stable Diffusion Core ML 模型\r\n🖥️ 使用 SwiftUI 开发</p>",
+    "summary": "本应用内置 [Apple 的 Core ML Stable Diffusion 框架](https://github.com/apple/ml-stable-diffusion) 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能 🌐 生成图像无需联网 🖼️ 支持图像转图像 & ControlNet 🗂️ EXIF 信息中存储关键词 🔍 使用 RealESRGAN ",
+    "banner_image": "https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb",
+    "date_published": "2024-09-17T10:27:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "本应用内置 [Apple 的 Core ML Stable Diffusion 框架](https://github.com/apple/ml-stable-diffusion) 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能\r\n\r\n![](https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb)\r\n\r\n\r\n🌐 生成图像无需联网\r\n🖼️ 支持图像转图像 & ControlNet\r\n🗂️ EXIF 信息中存储关键词\r\n🔍 使用 RealESRGAN 放大图像\r\n💾 自动保存 & 恢复图像\r\n🛠️ 自定义 Stable Diffusion Core ML 模型\r\n🖥️ 使用 SwiftUI 开发"
+  },
+  {
+    "id": "12",
+    "url": "https://wangchujiang.com/quick-rss/issue/12.html",
+    "title": "App Rejection Fixes: 搜集 Apple 应用上架被拒绝的解决方案",
+    "content_html": "<p>此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865\" alt=\"\"></p>\n<p>它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&#x26;rehype=video\"></video>",
+    "summary": "此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。 https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Reject",
+    "banner_image": "https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865",
+    "date_published": "2024-09-17T09:34:00Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。\r\n\r\n![](https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865)\r\n\r\n它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。\r\n\r\nhttps://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&rehype=video"
+  },
+  {
+    "id": "11",
+    "url": "https://wangchujiang.com/quick-rss/issue/11.html",
+    "title": "Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写 ",
+    "content_html": "<p>Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622\" alt=\"\"></p>\n<p>不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。</p>",
+    "summary": "Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。 不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成",
+    "banner_image": "https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622",
+    "date_published": "2024-09-17T09:24:58Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。\r\n\r\n![](https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622)\r\n\r\n不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。"
+  },
+  {
+    "id": "10",
+    "url": "https://wangchujiang.com/quick-rss/issue/10.html",
+    "title": "Ghchart：Github贡献图表作为图像，嵌入你的博客",
+    "content_html": "<p>📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客</p>\n<p><img src=\"https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036\" alt=\"image\"></p>\n<p>你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方：</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">&#x3C;img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\n</span></code></pre>\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah&#x27;s Github chart\">\n<p>回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！</p>\n<p><strong>颜色方案</strong></p>\n<p>我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 <code>https://ghchart.rshah.org/&#x3C;HEX-COLOR>/2016rshah</code> 并将 <code>&#x3C;HEX-COLOR></code> 替换为你想要的颜色的十六进制代码（不包括前导的 <code>#</code> 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">&#x3C;img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />\n</span></code></pre>\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah&#x27;s Blue Github Chart\">",
+    "summary": "📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客 你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方： ``` ``` 回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！ **颜色方案** 我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表",
+    "banner_image": "https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036",
+    "date_published": "2024-09-17T09:11:19Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客\r\n\r\n![image](https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036)\r\n\r\n你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方：\r\n\r\n```\r\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\r\n```\r\n\r\n<img src=\"https://ghchart.rshah.org/jaywcjlove\" alt=\"2016rshah's Github chart\" />\r\n\r\n回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！\r\n\r\n**颜色方案**\r\n\r\n我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 `https://ghchart.rshah.org/<HEX-COLOR>/2016rshah` 并将 `<HEX-COLOR>` 替换为你想要的颜色的十六进制代码（不包括前导的 `#` 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：\r\n\r\n```\r\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />\r\n```\r\n\r\n<img src=\"https://ghchart.rshah.org/409ba5/jaywcjlove\" alt=\"2016rshah's Blue Github Chart\" />"
+  },
+  {
+    "id": "9",
+    "url": "https://wangchujiang.com/quick-rss/issue/9.html",
+    "title": "OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！",
+    "content_html": "<p>这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c\" alt=\"image\"></p>\n<p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p>",
+    "summary": "这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。",
+    "banner_image": "https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c",
+    "date_published": "2024-09-16T17:31:14Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。\r\n\r\n![image](https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c)\r\n\r\n\r\n该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。"
+  },
+  {
+    "id": "8",
+    "url": "https://wangchujiang.com/quick-rss/issue/8.html",
+    "title": "rathole：安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 ",
+    "content_html": "<p>安全、稳定、高性能的内网穿透工具，用 Rust 语言编写</p>\n<p><img src=\"https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399\" alt=\"rathole\"></p>\n<p>rathole，类似于 <a href=\"https://github.com/fatedier/frp\">frp</a> 和 <a href=\"https://github.com/inconshreveable/ngrok\">ngrok</a>，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。</p>\n<p>同类型的内网穿透工具</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<table><thead><tr><th>名称</th><th>Star</th></tr></thead><tbody><tr><td><a href=\"https://github.com/fatedier/frp\">frp</a></td><td><img src=\"https://img.shields.io/github/stars/fatedier/frp.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/inlets/inlets-pro\">inlets</a></td><td><img src=\"https://img.shields.io/github/stars/inlets/inlets-pro.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/inconshreveable/ngrok\">ngrok</a></td><td><img src=\"https://img.shields.io/github/stars/inconshreveable/ngrok.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/pgrok/pgrok\">pgrok</a></td><td><img src=\"https://img.shields.io/github/stars/pgrok/pgrok.svg\" alt=\"\"></td></tr><tr><td><del><a href=\"https://github.com/cnlh/easyProxy\">easyProxy</a></del></td><td><img src=\"https://img.shields.io/github/stars/cnlh/easyProxy.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://natapp.cn/\">natapp</a></td><td>-</td></tr><tr><td><a href=\"https://github.com/ehang-io/nps\">nps</a></td><td><img src=\"https://img.shields.io/github/stars/ehang-io/nps.svg\" alt=\"\"></td></tr><tr><td><a href=\"https://github.com/jpillora/chisel\">chisel</a></td><td><img src=\"https://img.shields.io/github/stars/jpillora/chisel.svg\" alt=\"\"></td></tr></tbody></table>",
+    "summary": "安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 rathole，类似于 [frp](https://github.com/fatedier/frp) 和 [ngrok](https://github.com/inconshreveable/ngrok)，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。 同类型的内网穿透工具 | 名称 | Star | | ---",
+    "banner_image": "https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399",
+    "date_published": "2024-09-16T16:32:58Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "安全、稳定、高性能的内网穿透工具，用 Rust 语言编写\r\n\r\n![rathole](https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399)\r\n\r\nrathole，类似于 [frp](https://github.com/fatedier/frp) 和 [ngrok](https://github.com/inconshreveable/ngrok)，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。\r\n\r\n\r\n同类型的内网穿透工具\r\n\r\n|  名称 | Star |\r\n|  ---- | ---- |\r\n| [frp](https://github.com/fatedier/frp) |  ![](https://img.shields.io/github/stars/fatedier/frp.svg)  |\r\n| [inlets](https://github.com/inlets/inlets-pro) |  ![](https://img.shields.io/github/stars/inlets/inlets-pro.svg)  |\r\n| [ngrok](https://github.com/inconshreveable/ngrok) |  ![](https://img.shields.io/github/stars/inconshreveable/ngrok.svg)  |\r\n| [pgrok](https://github.com/pgrok/pgrok) |  ![](https://img.shields.io/github/stars/pgrok/pgrok.svg)  |\r\n| ~~[easyProxy](https://github.com/cnlh/easyProxy)~~ |  ![](https://img.shields.io/github/stars/cnlh/easyProxy.svg)  |\r\n| [natapp](https://natapp.cn/) | - |\r\n| [nps](https://github.com/ehang-io/nps) |  ![](https://img.shields.io/github/stars/ehang-io/nps.svg) |\r\n| [chisel](https://github.com/jpillora/chisel) |  ![](https://img.shields.io/github/stars/jpillora/chisel.svg) |"
+  },
+  {
+    "id": "7",
+    "url": "https://wangchujiang.com/quick-rss/issue/7.html",
+    "title": "IP查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电",
+    "content_html": "<p>ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。</p>\n<p><img src=\"https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc\" alt=\"image\"></p>\n<p>支持命令行显示</p>\n<p><img src=\"https://github.com/user-attachments/assets/bcb1675b-8f4a-4c31-bef5-373246bf94e1\" alt=\"image\"></p>\n<p>支持嵌入图片显示 IP，下面是嵌入图片示例</p>\n<a href=\"https://ip.im\">\n  <img src=\"https://ip.im/img\" alt=\"My IP Address\" width=\"215\" height=\"70\">\n</a>\n<p>另外还有一些为爱发电的，IP 查询工具： <a href=\"https://ip.sy/\">https://ip.sy/</a></p>",
+    "summary": "ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。 支持命令行显示 支持嵌入图片显示 IP，下面是嵌入图片示例 另外还有一些为爱发电的，IP 查询工具： https://ip.sy/",
+    "banner_image": "https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc",
+    "date_published": "2024-09-16T16:18:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。\r\n\r\n![image](https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc)\r\n\r\n支持命令行显示\r\n\r\n![image](https://github.com/user-attachments/assets/bcb1675b-8f4a-4c31-bef5-373246bf94e1)\r\n\r\n支持嵌入图片显示 IP，下面是嵌入图片示例\r\n\r\n<a href=\"https://ip.im\">\r\n  <img src=\"https://ip.im/img\" alt=\"My IP Address\" width=\"215\" height=\"70\" />\r\n</a>\r\n\r\n另外还有一些为爱发电的，IP 查询工具： https://ip.sy/"
+  },
+  {
+    "id": "6",
+    "url": "https://wangchujiang.com/quick-rss/issue/6.html",
+    "title": "Dub: 开源的短链接服务",
+    "content_html": "<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>\n<p><img src=\"https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png\" alt=\"\"></p>",
+    "summary": "一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接",
+    "banner_image": "https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png",
+    "date_published": "2024-09-15T10:59:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接\r\n\r\n![](https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png)"
+  },
+  {
+    "id": "5",
+    "url": "https://wangchujiang.com/quick-rss/issue/5.html",
+    "title": "Docmost: 是一个开源的协作文档和 Wiki 应用",
+    "content_html": "<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee\" alt=\"image\"></p>\n<p><strong>功能介绍</strong></p>\n<ul>\n<li><strong>实时协作编辑器</strong>：与他人实时协作编辑页面。</li>\n<li><strong>绘图功能</strong>：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。</li>\n<li><strong>工作空间</strong>：按团队、项目或部门组织页面，以便更好地协作。</li>\n<li><strong>权限管理</strong>：通过简单易懂的权限设置轻松控制内容访问。</li>\n<li><strong>群组功能</strong>：通过群组轻松为用户授予统一权限。</li>\n<li><strong>评论功能</strong>：为页面添加评论，以便更好地沟通和反馈。</li>\n<li><strong>页面历史</strong>：通过完整的版本历史跟踪页面更改。</li>\n<li><strong>嵌套导航</strong>：通过侧边栏可以嵌套和重新排序页面。</li>\n<li><strong>搜索功能</strong>：通过强大的搜索功能快速找到所需信息。</li>\n<li><strong>文件附件</strong>：将文件附加到页面，便于参考和共享。</li>\n<li><strong>导入/导出</strong>：支持轻松导入和导出 Markdown 和 HTML 格式的页面。</li>\n</ul>\n<p><img src=\"https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5\" alt=\"image\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe\" alt=\"image\"></p>",
+    "summary": "一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。 **功能介绍** - **实时协作编辑器**：与他人实时协作编辑页面。 - **绘图功能**：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。 - **工作空间**：按团队、项目或部门组织页面，以便更好地协作。 - **权限管理**：通过简单易懂的权限设置轻松控制内容访问",
+    "banner_image": "https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee",
+    "date_published": "2024-09-15T08:05:12Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。\r\n\r\n![image](https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee)\r\n\r\n\r\n**功能介绍**\r\n\r\n- **实时协作编辑器**：与他人实时协作编辑页面。\r\n- **绘图功能**：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。\r\n- **工作空间**：按团队、项目或部门组织页面，以便更好地协作。\r\n- **权限管理**：通过简单易懂的权限设置轻松控制内容访问。\r\n- **群组功能**：通过群组轻松为用户授予统一权限。\r\n- **评论功能**：为页面添加评论，以便更好地沟通和反馈。\r\n- **页面历史**：通过完整的版本历史跟踪页面更改。\r\n- **嵌套导航**：通过侧边栏可以嵌套和重新排序页面。\r\n- **搜索功能**：通过强大的搜索功能快速找到所需信息。\r\n- **文件附件**：将文件附加到页面，便于参考和共享。\r\n- **导入/导出**：支持轻松导入和导出 Markdown 和 HTML 格式的页面。\r\n\r\n![image](https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5)\r\n\r\n![image](https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe)"
+  },
+  {
+    "id": "4",
+    "url": "https://wangchujiang.com/quick-rss/issue/4.html",
+    "title": "Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器",
+    "content_html": "<p>Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。</p>\n<p>👉 <a href=\"https://github.com/jaywcjlove/quick-rss\">https://github.com/jaywcjlove/quick-rss</a></p>\n<p><img src=\"https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668\" alt=\"image\"></p>",
+    "summary": "Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。 👉 https://github.com/jaywcjlove/quick-rss",
+    "banner_image": "https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668",
+    "date_published": "2024-09-14T19:35:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "mark
+</span><span class="code-line line-number" line="15">        tableView<span class="token punctuation">.</span><span class="token function">addTableColumn</span><span class="token punctuation">(</span>column<span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="16">        tableView<span class="token punctuation">.</span>delegate <span class="token operator">=</span> context<span class="token punctuation">.</span>coordinator
+</span><span class="code-line line-number" line="17">        tableView<span class="token punctuation">.</span>dataSource <span class="token operator">=</span> context<span class="token punctuation">.</span>coordinator
+</span><span class="code-line line-number" line="18">
+</span><span class="code-line line-number" line="19">        <span class="token keyword">let</span> view <span class="token operator">=</span> <span class="token class-name">NSScrollView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="20">
+</span><span class="code-line line-number" line="21">        view<span class="token punctuation">.</span>documentView <span class="token operator">=</span> tableView
+</span><span class="code-line line-number" line="22">
+</span><span class="code-line line-number" line="23">        <span class="token keyword">return</span> view
+</span><span class="code-line line-number" line="24">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="25">
+</span><span class="code-line line-number" line="26">    <span class="token keyword">func</span> <span class="token function-definition function">updateNSView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> nsView<span class="token punctuation">:</span> <span class="token class-name">NSScrollView</span><span class="token punctuation">,</span> context<span class="token punctuation">:</span> <span class="token class-name">Context</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="27">        <span class="token keyword">let</span> tableView <span class="token operator">=</span> nsView<span class="token punctuation">.</span>documentView <span class="token keyword">as</span><span class="token operator">!</span> <span class="token class-name">NSTableView</span>
+</span><span class="code-line line-number" line="28">
+</span><span class="code-line line-number" line="29">        tableView<span class="token punctuation">.</span><span class="token function">reloadData</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="30">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="31"><span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="32">
+</span><span class="code-line line-number" line="33"><span class="token keyword">extension</span> <span class="token class-name">EventsTableView</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="34">    <span class="token keyword">final</span> <span class="token keyword">class</span> <span class="token class-name">Coordinator</span><span class="token punctuation">:</span> <span class="token class-name">NSObject</span><span class="token punctuation">,</span> <span class="token class-name">NSTableViewDataSource</span><span class="token punctuation">,</span> <span class="token class-name">NSTableViewDelegate</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="35">        <span class="token keyword">var</span> parent<span class="token punctuation">:</span> <span class="token class-name">EventsTableView</span>
+</span><span class="code-line line-number" line="36">
+</span><span class="code-line line-number" line="37">        <span class="token keyword">init</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> parent<span class="token punctuation">:</span> <span class="token class-name">EventsTableView</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="38">            <span class="token keyword">self</span><span class="token punctuation">.</span>parent <span class="token operator">=</span> parent
+</span><span class="code-line line-number" line="39">        <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="40">
+</span><span class="code-line line-number" line="41">        <span class="token keyword">func</span> <span class="token function-definition function">numberOfRows</span><span class="token punctuation">(</span><span class="token keyword">in</span> tableView<span class="token punctuation">:</span> <span class="token class-name">NSTableView</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">Int</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="42">            <span class="token keyword">return</span> parent<span class="token punctuation">.</span>events<span class="token punctuation">.</span>count
+</span><span class="code-line line-number" line="43">        <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="44">
+</span><span class="code-line line-number" line="45">        <span class="token keyword">func</span> <span class="token function-definition function">tableView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> tableView<span class="token punctuation">:</span> <span class="token class-name">NSTableView</span><span class="token punctuation">,</span> viewFor tableColumn<span class="token punctuation">:</span> <span class="token class-name">NSTableColumn</span><span class="token operator">?</span><span class="token punctuation">,</span> row<span class="token punctuation">:</span> <span class="token class-name">Int</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">NSView</span><span class="token operator">?</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="46">            <span class="token keyword">let</span> reusedView <span class="token operator">=</span> tableView<span class="token punctuation">.</span><span class="token function">makeView</span><span class="token punctuation">(</span>withIdentifier<span class="token punctuation">:</span> <span class="token punctuation">.</span>exampleColumn<span class="token punctuation">,</span> owner<span class="token punctuation">:</span> <span class="token keyword">self</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="47">            <span class="token keyword">let</span> view <span class="token operator">=</span> reusedView <span class="token keyword">as</span><span class="token operator">?</span> <span class="token class-name">NSTextField</span> <span class="token operator">??</span> <span class="token class-name">NSTextField</span><span class="token punctuation">(</span>labelWithString<span class="token punctuation">:</span> <span class="token string-literal"><span class="token string">""</span></span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="48">
+</span><span class="code-line line-number" line="49">            view<span class="token punctuation">.</span>stringValue <span class="token operator">=</span> parent<span class="token punctuation">.</span>events<span class="token punctuation">[</span>row<span class="token punctuation">]</span>
+</span><span class="code-line line-number" line="50">
+</span><span class="code-line line-number" line="51">            <span class="token keyword">return</span> view
+</span><span class="code-line line-number" line="52">        <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="53">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="54"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>我之前提到一切都在正常运行。但是，当我进一步实验时，很快发现即使我在更新时重新加载表视图，其内容也始终没有变化。</p>
+<p>当然，事后看来，问题显而易见。你可能已经注意到了。如果没有发现，也别感到糟糕，因为我花了不少时间调试和思考，才完全明白问题出在哪里。</p>
+<h3>父级？</h3>
+<p>SwiftUI 的互操作性围绕着一个包装视图 <code>EventsTableView</code> 及其协调器 <code>Coordinator</code> 展开。这个协调器实例会在视图需要更改时作为上下文传递回去。包装视图和协调器之间的这种关系至关重要，理解它们的生命周期关系也同样重要。</p>
+<p>SwiftUI 的视图在正常执行期间会非常频繁地被重新创建，这很正常。但你的协调器实例只会创建一次，并尽可能地被重用。这其实是非常标准的值类型/引用类型的行为。当协调器将包装视图作为初始化参数时，它会拷贝那个视图的第一次实例化的版本。而当 SwiftUI 包装视图被重新创建时，这个拷贝并不会更新。</p>
+<p>我的问题在于，<code>Coordinator</code> 创建时，父级属性及其相关事件只被复制了一次，然后就再也没有更新过。当我意识到这一点时，我觉得自己有点蠢。视图是值类型，当然它不会更新！但我也不想对自己太苛刻，因为这种协调器捕获父级视图的模式非常普遍。许多关于这一主题的博客文章中都存在这种模式。包括苹果的（表面上是权威的）<a href="https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit">教程</a>，都使用了这种父级模式。我猜这就是问题的根源。</p>
+<h3>捕获属性</h3>
+<p>在我的案例中，解决方案其实很简单。关键是要在协调器实例中捕获并更新数据。</p>
+<pre class="language-swift"><code class="language-swift code-highlight"><span class="code-line line-number" line="1"><span class="token keyword">struct</span> <span class="token class-name">EventsTableView</span><span class="token punctuation">:</span> <span class="token class-name">NSViewRepresentable</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="2">    <span class="token keyword">var</span> events<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">String</span><span class="token punctuation">]</span>
+</span><span class="code-line line-number" line="3">
+</span><span class="code-line line-number" line="4">    <span class="token keyword">func</span> <span class="token function-definition function">makeCoordinator</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">Coordinator</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="5">        <span class="token class-name">Coordinator</span><span class="token punctuation">(</span>events<span class="token punctuation">:</span> events<span class="token punctuation">)</span> <span class="token comment">// &#x3C;- 这里！</span>
+</span><span class="code-line line-number" line="6">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="7">
+</span><span class="code-line line-number" line="8">    <span class="token comment">// 省略部分代码...</span>
+</span><span class="code-line line-number" line="9">
+</span><span class="code-line line-number" line="10">    <span class="token keyword">func</span> <span class="token function-definition function">updateNSView</span><span class="token punctuation">(</span><span class="token omit keyword">_</span> nsView<span class="token punctuation">:</span> <span class="token class-name">NSScrollView</span><span class="token punctuation">,</span> context<span class="token punctuation">:</span> <span class="token class-name">Context</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="11">        context<span class="token punctuation">.</span>coordinator<span class="token punctuation">.</span>events <span class="token operator">=</span> events <span class="token comment">// &#x3C;- 这里也是！</span>
+</span><span class="code-line line-number" line="12">
+</span><span class="code-line line-number" line="13">        <span class="token keyword">let</span> tableView <span class="token operator">=</span> nsView<span class="token punctuation">.</span>documentView <span class="token keyword">as</span><span class="token operator">!</span> <span class="token class-name">NSTableView</span>
+</span><span class="code-line line-number" line="14">        tableView<span class="token punctuation">.</span><span class="token function">reloadData</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="15">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="16"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>当我完全意识到协调器实例是长期存在的时，捕获父视图就毫无意义了。但是，它确实让我误以为我有一个引用类型的关系，而这种关系是可行的。如果这个属性被称为 <code>firstParent</code> 或者 <code>creatingView</code>，也许我就不会犯这个错误了。</p>
+<h3>永远不要捕获父视图</h3>
+<p>经历了这一切后，我不确定是否能想到任何一个你需要捕获 <code>Coordinator</code> 创建视图副本的理由。如果你知道这种父视图-协调器模式可能有用的原因，请告诉我。不过即便有一些合适的场景，我仍然认为这种模式太容易让人困惑，就像我一样，因此最好还是避免使用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/41" target="_blank">#41</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mythic：在 Mac 上玩 Windows 游戏的最佳方式，一个开源的 macOS 游戏启动器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/40.html</link>
+            <guid>40</guid>
+            <pubDate>Thu, 03 Oct 2024 21:37:22 GMT</pubDate>
+            <description><![CDATA[Mythic 是一个开源的 macOS 游戏启动器，旨在通过我们对苹果游戏移植工具的实现来支持多种启动器，让您轻松玩 Windows 游戏。 在 Mac 上游戏从未如此简单 是时候抛弃所有虚拟机、Wine 和订阅服务了。 导入您自己的游戏 觉得 Epic 不够？直接将您的 macOS 或 Windows® 游戏导入 Mythic，其余的交给我们。 多个启动器，一站式管理 从外部启动器、Epic 或]]></description>
+            <content:encoded><![CDATA[<p>Mythic 是一个开源的 macOS 游戏启动器，旨在通过我们对苹果游戏移植工具的实现来支持多种启动器，让您轻松玩 Windows 游戏。</p>
+<p><img src="https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb" alt="image"></p>
+<h3>在 Mac 上游戏从未如此简单</h3>
+<p>是时候抛弃所有虚拟机、Wine 和订阅服务了。</p>
+<h3>导入您自己的游戏</h3>
+<p><img src="https://github.com/user-attachments/assets/1a369693-7f3c-4aa4-87c9-a63b7ecf2c51" alt="image"></p>
+<p>觉得 Epic 不够？直接将您的 macOS 或 Windows® 游戏导入 Mythic，其余的交给我们。</p>
+<h3>多个启动器，一站式管理</h3>
+<p><img src="https://github.com/user-attachments/assets/91beb868-0d41-4cda-9abe-4c080dd3b120" alt="image"></p>
+<p>从外部启动器、Epic 或自行安装，轻松设置和启动所有游戏。</p>
+<h3>虚拟化您的游戏环境</h3>
+<p><img src="https://github.com/user-attachments/assets/500f32b0-be5a-46c1-85a2-bd1ddfc7a2dd" alt="image"></p>
+<p>在 Mythic 中创建多个 Windows® 环境，确保所有游戏安全隔离，互不干扰。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/40" target="_blank">#40</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb" length="0" type="image//user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb"/>
+        </item>
+        <item>
+            <title><![CDATA[Nginx UI：轻松管理您的 Nginx 服务器的开源网页界面]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/39.html</link>
+            <guid>39</guid>
+            <pubDate>Thu, 03 Oct 2024 05:57:31 GMT</pubDate>
+            <description><![CDATA[Nginx UI 是一个功能强大的 Nginx 网页管理界面 具有以下特点： 在线统计：实时监控服务器指标，包括 CPU 使用率、内存使用率、负载平均值和磁盘使用情况。 在线 ChatGPT 助手：提供即时帮助。 一键部署和自动续期的 Let’s Encrypt 证书：简化 SSL 证书管理。 在线配置编辑：使用自定义的 NgxConfigEditor（用户友好的块编辑器）或 Ace 代码编辑器（]]></description>
+            <content:encoded><![CDATA[<p>Nginx UI 是一个功能强大的 Nginx 网页管理界面</p>
+<p><img src="https://github.com/user-attachments/assets/db83fa88-6670-4683-a7b2-3784184cd03a" alt="image"></p>
+<h3>具有以下特点：</h3>
+<ul>
+<li><strong>在线统计</strong>：实时监控服务器指标，包括 CPU 使用率、内存使用率、负载平均值和磁盘使用情况。</li>
+<li><strong>在线 ChatGPT 助手</strong>：提供即时帮助。</li>
+<li><strong>一键部署和自动续期的 Let’s Encrypt 证书</strong>：简化 SSL 证书管理。</li>
+<li><strong>在线配置编辑</strong>：使用自定义的 NgxConfigEditor（用户友好的块编辑器）或 Ace 代码编辑器（支持 Nginx 配置语法高亮）进行配置编辑。</li>
+<li><strong>在线查看 Nginx 日志</strong>：便于监控和调试。</li>
+<li><strong>轻量级架构</strong>：使用 Go 和 Vue 编写，分发为单个可执行二进制文件。</li>
+<li><strong>自动测试配置文件</strong>：在保存配置后自动重新加载 Nginx。</li>
+<li><strong>Web 终端</strong>：提供命令行界面。</li>
+<li><strong>暗模式和响应式设计</strong>：适配各种设备。</li>
+</ul>
+<h3>国际化支持</h3>
+<p>Nginx UI 支持多种语言，包括：</p>
+<ul>
+<li>英语</li>
+<li>简体中文</li>
+<li>繁体中文</li>
+</ul>
+<h3>使用说明</h3>
+<p>在首次运行 Nginx UI 时，请访问 <code>http://&#x3C;your_server_ip>:&#x3C;listen_port></code> 进行后续配置。可以通过终端运行 Nginx UI，支持在后台运行以及通过 systemd 管理服务。</p>
+<h3>安装平台</h3>
+<p>Nginx UI 支持以下平台：</p>
+<ul>
+<li>macOS 11 Big Sur 及更高版本（amd64 / arm64）</li>
+<li>Linux 2.6.23 及更高版本（x86 / amd64 / arm64 / armv5 / armv6 / armv7）</li>
+<li>FreeBSD、OpenBSD、Dragonfly BSD、Openwrt 等</li>
+</ul>
+<p>您可以访问最新发布页面下载最新版本或使用 Linux 安装脚本。</p>
+<h3>使用 Docker 部署</h3>
+<p>我们的 Docker 镜像 <code>uozi/nginx-ui:latest</code> 基于最新的 Nginx 镜像，可以用来替换主机上的 Nginx。通过将容器的 80 和 443 端口发布到主机，您可以轻松切换。</p>
+<p><strong>注意</strong>：</p>
+<ul>
+<li>使用该容器时，请确保映射到 <code>/etc/nginx</code> 的卷为空。</li>
+<li>如果您希望托管静态文件，可以映射目录到容器。</li>
+</ul>
+<p><strong>部署步骤</strong>：</p>
+<ol>
+<li>
+<p>安装 Docker。</p>
+</li>
+<li>
+<p>然后使用以下命令部署 Nginx UI：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">docker</span> run <span class="token parameter variable">-dit</span> <span class="token punctuation">\</span>
+</span><span class="code-line line-number" line="2">  <span class="token parameter variable">--name</span><span class="token operator">=</span>nginx-ui <span class="token punctuation">\</span>
+</span><span class="code-line line-number" line="3">  <span class="token parameter variable">--restart</span><span class="token operator">=</span>always <span class="token punctuation">\</span>
+</span><span class="code-line line-number" line="4">  <span class="token parameter variable">-e</span> <span class="token assign-left variable">TZ</span><span class="token operator">=</span>Asia/Shanghai <span class="token punctuation">\</span>
+</span><span class="code-line line-number" line="5">  <span class="token parameter variable">-v</span> /mnt/user/appdata/nginx:/etc/nginx <span class="token punctuation">\</span>
+</span><span class="code-line line-number" line="6">  <span class="token parameter variable">-v</span> /mnt/user/appdata/nginx-ui:/etc/nginx-ui <span class="token punctuation">\</span>
+</span><span class="code-line line-number" line="7">  <span class="token parameter variable">-p</span> <span class="token number">8080</span>:80 <span class="token parameter variable">-p</span> <span class="token number">8443</span>:443 <span class="token punctuation">\</span>
+</span><span class="code-line line-number" line="8">  uozi/nginx-ui:latest
+</span></code></pre>
+</li>
+<li>
+<p>当您的 Docker 容器运行时，通过 <code>http://&#x3C;your_server_ip>:8080/install</code> 登录 Nginx UI 面板。</p>
+</li>
+</ol>
+<p>Nginx UI 使得 Nginx 的管理变得更加简单和直观，非常适合需要监控和配置 Nginx 的用户。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/39" target="_blank">#39</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/db83fa88-6670-4683-a7b2-3784184cd03a" length="0" type="image//user-attachments/assets/db83fa88-6670-4683-a7b2-3784184cd03a"/>
+        </item>
+        <item>
+            <title><![CDATA[轻松释放存储空间：使用 NPKILL 一键清理过时的 node_modules 文件夹]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/38.html</link>
+            <guid>38</guid>
+            <pubDate>Mon, 30 Sep 2024 05:12:23 GMT</pubDate>
+            <description><![CDATA[NPKILL 是一个非常实用的命令行工具，专门帮助开发者清理系统中的 node_modules 目录，从而释放大量空间。如果你经常在本地运行 Node.js 项目，你可能已经注意到这些 node_modules 文件夹会随着时间堆积，浪费了大量的存储空间。NPKILL 解决了这个问题，让你轻松找到并删除不再需要的 node_modules 文件夹。 工具亮点： 释放空间：NPKILL 能够列出你系]]></description>
+            <content:encoded><![CDATA[<p>NPKILL 是一个非常实用的命令行工具，专门帮助开发者清理系统中的 <code>node_modules</code> 目录，从而释放大量空间。如果你经常在本地运行 Node.js 项目，你可能已经注意到这些 <code>node_modules</code> 文件夹会随着时间堆积，浪费了大量的存储空间。NPKILL 解决了这个问题，让你轻松找到并删除不再需要的 <code>node_modules</code> 文件夹。</p>
+<p><img src="https://github.com/user-attachments/assets/41b0ea83-c684-4be4-9798-3b7476c630a5" alt="image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/bfd81005-fe4a-4341-9ab7-3a489c98aa4c?rehype=video"></video>
+<h3>工具亮点：</h3>
+<ol>
+<li><strong>释放空间</strong>：NPKILL 能够列出你系统中的所有 <code>node_modules</code> 文件夹，显示它们占用的空间，并让你选择删除，从而清理系统中的垃圾文件。</li>
+<li><strong>高效快速</strong>：NPKILL 是用 TypeScript 编写的，搜索速度极快，优化了性能，让清理工作变得更为轻松。</li>
+<li><strong>简易操作</strong>：只需简单几个按键即可删除文件夹。通过上下箭头移动选择，按 <code>Space</code> 或 <code>Del</code> 键删除选中的 <code>node_modules</code>，使用体验非常顺畅。</li>
+<li><strong>多样化功能</strong>：NPKILL 支持按路径或大小排序，支持从指定目录开始扫描，还可以通过参数过滤不需要删除的文件夹。</li>
+</ol>
+<h3>安装与使用：</h3>
+<p>你可以直接通过 <code>npx</code> 命令使用 NPKILL，甚至无需安装：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">npx npkill
+</span></code></pre>
+<p>当然，如果你更喜欢全局安装，也可以使用以下命令：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">npm</span> i <span class="token parameter variable">-g</span> npkill
+</span></code></pre>
+<h3>操作指南：</h3>
+<p>运行命令后，NPKILL 会开始扫描当前目录中的 <code>node_modules</code> 文件夹。你可以通过上下箭头（或者 <code>j</code> 和 <code>k</code> 键）来移动选项，按下 <code>Space</code> 或 <code>Del</code> 键来删除选中的文件夹。按下 <code>o</code> 键可以打开当前选中文件夹的目录，按 <code>Q</code> 或 <code>Ctrl + C</code> 退出程序。</p>
+<h3>注意事项：</h3>
+<p>删除某些系统中的 <code>node_modules</code> 目录可能会导致应用无法正常工作。NPKILL 会通过 ⚠️ 警示符号标记这些重要文件夹，请在删除时保持谨慎。</p>
+<h3>示例：</h3>
+<p>删除项目目录中的所有 <code>node_modules</code>：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">npkill <span class="token parameter variable">-d</span> ~/projects
+</span></code></pre>
+<p>列出 <code>dist</code> 文件夹并显示错误信息：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">npkill <span class="token parameter variable">--target</span> dist <span class="token parameter variable">-e</span>
+</span></code></pre>
+<p>自动删除备份目录中的所有 <code>node_modules</code> 文件夹：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">npkill <span class="token parameter variable">-d</span> ~/backups/ --delete-all
+</span></code></pre>
+<h3>未来开发计划：</h3>
+<p>NPKILL 未来还会推出更多功能，包括进一步提升性能、减少依赖、支持按使用时间筛选文件夹、展示树状目录等。</p>
+<p>如果你想让你的系统更干净、更高效，NPKILL 是一款非常值得一试的工具！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/38" target="_blank">#38</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/41b0ea83-c684-4be4-9798-3b7476c630a5" length="0" type="image//user-attachments/assets/41b0ea83-c684-4be4-9798-3b7476c630a5"/>
+        </item>
+        <item>
+            <title><![CDATA[个性化你的 macOS Big Sur：开源替换图标项目]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/37.html</link>
+            <guid>37</guid>
+            <pubDate>Sun, 29 Sep 2024 00:24:38 GMT</pubDate>
+            <description><![CDATA[这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。 更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 @elrumo 维]]></description>
+            <content:encoded><![CDATA[<p>这个开源项目为 macOS Big Sur 用户提供了替换应用图标的资源库，帮助用户自定义系统外观。项目的所有图标均符合 macOS Big Sur 的视觉风格，用户可以通过访问 macOSicons.com 查看图标库并提交自己设计的新图标。</p>
+<p><img src="https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179" alt="image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa?rehype=video"></video>
+<p>更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 <a href="https://x.com/elrumo">@elrumo</a> 维护，支持社区互动和反馈。</p>
+<p><img src="https://github.com/user-attachments/assets/bac552fd-9b06-447c-9be4-9da1ce5ecbee" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/37" target="_blank">#37</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179" length="0" type="image//user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179"/>
+        </item>
+        <item>
+            <title><![CDATA[Copi：安全、轻量的 macOS 剪贴板替代工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/36.html</link>
+            <guid>36</guid>
+            <pubDate>Fri, 27 Sep 2024 07:13:19 GMT</pubDate>
+            <description><![CDATA[Copi 是一款开源、轻量且安全的 macOS 系统剪贴板替代工具。它不仅具备与系统剪贴板相同的复制粘贴功能，还通过独特的安全机制，确保您的剪贴板内容不会被第三方应用程序访问，从而有效保护您的隐私数据。 为什么需要 Copi？ 如今，剪贴板攻击和内容泄露问题时有发生，尤其当用户需要复制和粘贴敏感信息时。Copi 提供了一个更安全的替代方案，避免剪贴板替换攻击及内容泄露。对于以下用户群体，Copi ]]></description>
+            <content:encoded><![CDATA[<p>Copi 是一款开源、轻量且安全的 macOS 系统剪贴板替代工具。它不仅具备与系统剪贴板相同的复制粘贴功能，还通过独特的安全机制，确保您的剪贴板内容不会被第三方应用程序访问，从而有效保护您的隐私数据。</p>
+<p><img src="https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806" alt="image"></p>
+<h2>为什么需要 Copi？</h2>
+<p>如今，剪贴板攻击和内容泄露问题时有发生，尤其当用户需要复制和粘贴敏感信息时。Copi 提供了一个更安全的替代方案，避免剪贴板替换攻击及内容泄露。对于以下用户群体，Copi 是一个理想的工具：</p>
+<ul>
+<li><strong>数字货币拥有者</strong>：频繁复制粘贴钱包地址和密钥的用户更容易遭受剪贴板攻击。</li>
+<li><strong>敏感信息处理者</strong>：需要安全处理密码、个人身份信息等敏感数据的用户。</li>
+<li><strong>系统剪贴板不信任者</strong>：不想让系统内其他应用程序获取剪贴板内容的用户。</li>
+</ul>
+<h2>Copi 的使用方式</h2>
+<p>Copi 设计了多种便捷的使用方式，让用户可以轻松在日常操作中安全复制和粘贴内容：</p>
+<h3>1. 快捷操作栏模式</h3>
+<p><img src="https://github.com/user-attachments/assets/2e1e81bd-444c-4a56-955d-13bf0b29ad28" alt="image"></p>
+<p>当您开启 Copi 的“Action Bar”后，选中文字时，文字上方会自动弹出用于安全复制和粘贴的快捷按钮。通过鼠标点击，您可以快速将文字复制到 Copi 剪贴板中，并进行后续操作。在输入框中长按还可显示粘贴选项，方便用户安全粘贴文字。</p>
+<h3>2. 快捷键模式</h3>
+<p><img src="https://github.com/user-attachments/assets/72ac1042-b056-41ff-a924-bcbca452126a" alt="image"></p>
+<p>您可以为 Copi 设置专属的快捷键，用于安全复制和粘贴操作。无论是文件中的文本，还是浏览器中的内容，只需通过设定的快捷键，您便能使用 Copi 进行安全的剪贴板操作，提升工作效率。</p>
+<h3>3. 覆盖系统快捷键</h3>
+<p><img src="https://github.com/user-attachments/assets/899bf4f1-9c45-4607-8b95-e8be24377d48" alt="image"></p>
+<p>Copi 还支持覆盖系统的默认复制粘贴快捷键。一旦启用此功能，所有的复制和粘贴操作将自动通过 Copi 的安全渠道进行，用户无需额外操作即可享受更高的安全性。</p>
+<h2>安全性如何保障？</h2>
+<p><img src="https://github.com/user-attachments/assets/2e0da110-0d12-47a3-8015-9b2135697ece" alt="image"></p>
+<p>Copi 采用了系统的自定义“服务”功能来获取和粘贴文字，而不再通过系统剪贴板。这意味着，传统针对“系统剪贴板”的攻击行为将无法对 Copi 生效。同时，由于 Copi 是开源软件，用户可以查看其代码，确保没有任何恶意操作，进一步增强了信任度和安全性。</p>
+<h2>为什么选择 Copi？</h2>
+<ol>
+<li><strong>开源</strong>：所有代码公开透明，用户可以随时审查。</li>
+<li><strong>隐私保护</strong>：第三方应用无法访问 Copi 中的剪贴板内容，有效防止数据泄露。</li>
+<li><strong>多种操作模式</strong>：便捷的操作栏、快捷键以及覆盖系统快捷键的功能，满足不同用户的使用习惯。</li>
+</ol>
+<p>总之，Copi 是一款致力于为 macOS 用户提供安全、便捷的剪贴板替代方案的工具。无论是个人隐私数据的保护，还是应对越来越复杂的剪贴板攻击，Copi 都能够为您提供全方位的保障。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/36" target="_blank">#36</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806" length="0" type="image//user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806"/>
+        </item>
+        <item>
+            <title><![CDATA[Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/35.html</link>
+            <guid>35</guid>
+            <pubDate>Thu, 26 Sep 2024 19:28:14 GMT</pubDate>
+            <description><![CDATA[Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本。它支持从 Apple Developer 网站或 Xcode Releases 获取最新版本，并通过高速下载工具 aria2 提供更快的下载速度。Xcodes 还可自动处理网络中断，确保安装流程顺利完成。用户无需手动操作，只需点击按钮即可轻松激活所需的 Xcode 版本。应用支持深色和浅色模式，]]></description>
+            <content:encoded><![CDATA[<p>Xcodes 是一款简化 Xcode 安装与切换的工具，只需点击几下鼠标即可管理多个 Xcode 版本。它支持从 Apple Developer 网站或 Xcode Releases 获取最新版本，并通过高速下载工具 aria2 提供更快的下载速度。Xcodes 还可自动处理网络中断，确保安装流程顺利完成。用户无需手动操作，只需点击按钮即可轻松激活所需的 Xcode 版本。应用支持深色和浅色模式，方便用户查看发行说明、兼容性等详细信息，是开发者管理 Xcode 的高效助手。</p>
+<p><img src="https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831" alt="image"></p>
+<p>如果你正在寻找 Xcodes.app 的命令行版本，可以试试 xcodes。</p>
+<p><strong>功能：</strong></p>
+<ul>
+<li>从 Xcode Releases 数据或 Apple Developer 网站列出所有可用的 Xcode 版本。</li>
+<li>全自动安装任何版本的 Xcode，从开始到结束无需人工干预。Xcodes 使用 aria2，支持多达 16 个连接，比 URLSession 快 3-5 倍。</li>
+<li>网络错误时自动恢复安装。</li>
+<li>下载 Xcode 版本需要 Apple ID。</li>
+<li>只需点击一个按钮，通过 xcode-select 激活所需版本。</li>
+<li>查看 Xcode Releases 提供的发行说明、操作系统兼容性、包含的 SDK 和编译器。</li>
+<li>支持深色/浅色模式。</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/548fc213-7f50-4614-b624-378c4ac0046d" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/35" target="_blank">#35</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831" length="0" type="image//user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831"/>
+        </item>
+        <item>
+            <title><![CDATA[Yorumi：为开发者打造的深海宁静配色方案 VIM 编辑器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/34.html</link>
+            <guid>34</guid>
+            <pubDate>Thu, 26 Sep 2024 10:13:32 GMT</pubDate>
+            <description><![CDATA[对于长时间盯着代码的开发者来说，拥有一个舒适且赏心悦目的配色方案至关重要。现在向你介绍 Yorumi，一个深思熟虑设计的深海配色方案，旨在为你的编码环境带来平静与放松，同时保持高效、清晰的视觉体验。 深海般的宁静体验 Yorumi 以低对比度、柔和的色彩调和各类 UI 组件，营造出宁静的深海氛围。这不仅仅是另一个暗黑主题——它更像是一种提升专注力和放松感的体验，非常适合深夜的编码时光。深海色调带来]]></description>
+            <content:encoded><![CDATA[<p>对于长时间盯着代码的开发者来说，拥有一个舒适且赏心悦目的配色方案至关重要。现在向你介绍 <strong>Yorumi</strong>，一个深思熟虑设计的深海配色方案，旨在为你的编码环境带来平静与放松，同时保持高效、清晰的视觉体验。</p>
+<p><img src="https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054" alt="image"></p>
+<h3>深海般的宁静体验</h3>
+<p>Yorumi 以低对比度、柔和的色彩调和各类 UI 组件，营造出宁静的深海氛围。这不仅仅是另一个暗黑主题——它更像是一种提升专注力和放松感的体验，非常适合深夜的编码时光。深海色调带来的平和氛围让你在长时间编码时不再因刺眼的对比色感到疲惫。</p>
+<h3>清晰易读的文本</h3>
+<p>虽然 Yorumi 的背景和 UI 组件保持着低对比度，营造了宁静的效果，但在文本的处理上，它独具匠心。通过大约 8:1 的对比度，代码始终保持清晰锐利，即使在长时间编码中，也能确保良好的可读性。无论是浏览大块代码还是调试复杂函数，清晰的文本减少了眼睛的疲劳，提升了你的工作效率。</p>
+<h3>深夜编码的最佳选择</h3>
+<p>Yorumi 在深夜的编码马拉松中展现出它的独特优势。低对比度的配色方案减轻了眼睛的压力，让你能够长时间专注于工作。想象一下，在夜晚的宁静中，你像坐在一个舒适的小角落，代码在深海色调的柔和光芒下流畅地书写，这就是 Yorumi 的精髓所在。</p>
+<h3>减少眼疲劳，增添代码魔力</h3>
+<p>在众多开发者为眼部疲劳和视觉负担所困扰的世界里，Yorumi 提供了美学与功能性的完美平衡。它让你在保持高生产力的同时，体验舒适的视觉感受。不再需要在深夜对着刺眼的屏幕眯眼，也不再为看清代码而感到吃力。Yorumi 让你保持冷静、专注，并且在最佳状态下编码。</p>
+<h3>潜入 Yorumi 的宁静世界</h3>
+<p>如果你正在寻找一个能够为你的开发环境带来平静，同时确保代码清晰、高效的配色方案，Yorumi 将是你的不二选择。无论是通宵达旦地编码，还是在工作时追求舒适与专注，Yorumi 都能为你提供完美的宁静与清晰结合的体验。</p>
+<p>现在就潜入 Yorumi 的宁静世界，让它为你的编码体验带来凉爽、平静与专注。你的眼睛——以及你的代码——都会感谢你。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/34" target="_blank">#34</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054" length="0" type="image//user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054"/>
+        </item>
+        <item>
+            <title><![CDATA[Transition.css：简化网页动画的开源工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/33.html</link>
+            <guid>33</guid>
+            <pubDate>Tue, 24 Sep 2024 19:29:25 GMT</pubDate>
+            <description><![CDATA[在现代网页设计中，动画效果不仅能提升用户体验，还能有效引导用户的注意力。Transition.css 是一个开源的 CSS 动画库，旨在简化网页中的过渡动画，使得开发者能够轻松地为网页元素添加动态效果。无论是设计师还是开发者，都能从中受益。 基本使用 要使用 Transition.css，首先需要引入 CSS 文件。可以通过 NPM 安装，也可以直接使用 CDN 链接。以下是基本的引入方式： 通过]]></description>
+            <content:encoded><![CDATA[<p>在现代网页设计中，动画效果不仅能提升用户体验，还能有效引导用户的注意力。Transition.css 是一个开源的 CSS 动画库，旨在简化网页中的过渡动画，使得开发者能够轻松地为网页元素添加动态效果。无论是设计师还是开发者，都能从中受益。</p>
+<p><img src="https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57" alt="kitchen-sink"></p>
+<h3>基本使用</h3>
+<p>要使用 Transition.css，首先需要引入 CSS 文件。可以通过 NPM 安装，也可以直接使用 CDN 链接。以下是基本的引入方式：</p>
+<ol>
+<li>
+<p><strong>通过 NPM 安装</strong>：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">npm</span> i transition-style
+</span></code></pre>
+<p>然后在 CSS 文件中导入：</p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line line-number" line="1"><span class="token atrule"><span class="token rule">@import</span> <span class="token string">"transition-style"</span><span class="token punctuation">;</span></span>
+</span></code></pre>
+</li>
+<li>
+<p><strong>通过 CDN 引入</strong>：
+直接在 HTML 中添加链接：</p>
+<pre class="language-html"><code class="language-html code-highlight"><span class="code-line line-number" line="1"><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>link</span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>https://unpkg.com/transition-style<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+</span></code></pre>
+</li>
+</ol>
+<p>在添加了 Transition.css 之后，开发者只需在 HTML 元素上设置相应的 <code>transition-style</code> 属性，就可以实现动画效果。例如：</p>
+<p><img src="https://github.com/user-attachments/assets/a0341d5f-6118-4a79-896b-836c9cee1027" alt="wipe-up"></p>
+<pre class="language-html"><code class="language-html code-highlight"><span class="code-line line-number" line="1"><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;</span>div</span> <span class="token attr-name">transition-style</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>in:wipe:up<span class="token punctuation">"</span></span><span class="token punctuation">></span></span>
+</span><span class="code-line line-number" line="2">  👍
+</span><span class="code-line line-number" line="3"><span class="token tag"><span class="token tag"><span class="token punctuation">&#x3C;/</span>div</span><span class="token punctuation">></span></span>
+</span></code></pre>
+<p>通过这种简单的方式，用户就可以看到精美的动画效果。</p>
+<h3>版本更新与新功能</h3>
+<p>Transition.css 最近推出了 2.0 版本，增加了许多新特性，包括 CSS Grid 布局、全新的 UI 设计和新的组件系统等。这些更新使得工具更加快速和易于访问，让开发者和设计师都能更加高效地工作。</p>
+<h3>分类与定制</h3>
+<p>Transition.css 提供了多个分类的样式包，用户可以根据需要引入特定的样式包。例如：</p>
+<ul>
+<li><strong>Circles</strong>：<code>https://unpkg.com/transition-style/transition.circles.min.css</code></li>
+<li><strong>Squares</strong>：<code>https://unpkg.com/transition-style/transition.squares.min.css</code></li>
+<li><strong>Polygons</strong>：<code>https://unpkg.com/transition-style/transition.polygons.min.css</code></li>
+<li><strong>Wipes</strong>：<code>https://unpkg.com/transition-style/transition.wipes.min.css</code></li>
+</ul>
+<p>此外，还有一个名为“The Hackpack”的选项，允许开发者仅导入自定义属性和基本样式，从而实现更多的过渡组合和控制，适应不同的开发环境。</p>
+<h3>快速测试功能</h3>
+<p>为了让开发者能在几乎任何现有网站上尝试 Transition.css，提供了一个书签小工具。用户只需将以下代码复制到书签中，便可在浏览器中使用：</p>
+<pre class="language-javascript"><code class="language-javascript code-highlight"><span class="code-line line-number" line="1"><span class="token literal-property property">javascript</span><span class="token operator">:</span><span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token keyword">var</span> a<span class="token operator">=</span><span class="token dom variable">document</span><span class="token punctuation">.</span><span class="token method function property-access">createElement</span><span class="token punctuation">(</span><span class="token string">"link"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>a<span class="token punctuation">.</span><span class="token property-access">rel</span><span class="token operator">=</span><span class="token string">"stylesheet"</span><span class="token punctuation">;</span>a<span class="token punctuation">.</span><span class="token property-access">href</span><span class="token operator">=</span><span class="token string">"https://unpkg.com/transition-style"</span><span class="token punctuation">;</span><span class="token dom variable">document</span><span class="token punctuation">.</span><span class="token property-access">head</span><span class="token punctuation">.</span><span class="token method function property-access">append</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span></code></pre>
+<p>使用这个书签后，用户可以在网页上快速体验 Transition.css 的效果，无需修改网站的原始代码。</p>
+<h3>高级用法</h3>
+<p>Transition.css 的设计思路是基于属性的方式，使得每次只能有一个动画状态。这种状态机的方法有效避免了类名冲突的问题。用户可以使用 <code>@keyframes</code> 来定义自定义动画，并通过 CSS 自定义属性来实现动画的持续时间、缓动效果和延迟等参数。例如：</p>
+<p><img src="https://github.com/user-attachments/assets/d3fb4503-25d5-4bbe-880c-8c9a5ee87225" alt="opposing-corner-fold"></p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line line-number" line="1"><span class="token selector"><span class="token class">.main--state-in</span></span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="2">  <span class="token property">animation</span><span class="token punctuation">:</span> wipe-in-left<span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="3">  <span class="token property">animation-duration</span><span class="token punctuation">:</span> <span class="token number">2</span><span class="token unit">s</span><span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="4">  <span class="token property">animation-fill-mode</span><span class="token punctuation">:</span> both<span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="5"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>对于想要进一步定制的用户，Transition.css 允许用户定义自定义过渡效果，例如：</p>
+<pre class="language-css"><code class="language-css code-highlight"><span class="code-line line-number" line="1"><span class="token atrule"><span class="token rule">@keyframes</span> circle-swoop</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="2">  <span class="token selector">from</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="3">    <span class="token property">clip-path</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span><span class="token variable">--circle-top-right-out</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="4">  <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="5">  <span class="token selector">to</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="6">    <span class="token property">clip-path</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span><span class="token variable">--circle-bottom-right-in</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="7">  <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="8"><span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="9">
+</span><span class="code-line line-number" line="10"><span class="token selector"><span class="token class">.--in-custom</span></span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="11">  <span class="token variable">--transition__duration</span><span class="token punctuation">:</span> <span class="token number">1</span><span class="token unit">s</span><span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="12">  <span class="token variable">--transition__easing</span><span class="token punctuation">:</span> ease-in-out<span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="13">  <span class="token property">animation-name</span><span class="token punctuation">:</span> circle-swoop<span class="token punctuation">;</span>
+</span><span class="code-line line-number" line="14"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>使用这样的方式，开发者可以发挥创意，创建独特的动画效果。</p>
+<h3>总结</h3>
+<p>Transition.css 是一个强大的工具，旨在简化网页动画的实现过程。无论是简单的过渡效果还是复杂的自定义动画，Transition.css 都能为开发者提供所需的灵活性和控制力。通过简单的引入和使用方式，用户能够迅速提升网页的交互性和美观度。Transition.css 的开源特性也让其在开发者社区中得到了广泛的支持和应用，是现代网页设计中不可或缺的一部分。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/33" target="_blank">#33</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57" length="0" type="image//user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57"/>
+        </item>
+        <item>
+            <title><![CDATA[Penpot：开源设计工具，促进设计与代码的协作]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/32.html</link>
+            <guid>32</guid>
+            <pubDate>Tue, 24 Sep 2024 19:20:39 GMT</pubDate>
+            <description><![CDATA[Penpot 是首个开源设计工具，旨在实现设计师与开发者之间的无缝协作。它为设计师提供了一个强大的平台，可以创建令人惊叹的设计、交互原型和大规模设计系统，同时开发者可以轻松获得现成的代码，简化工作流程，提升效率。最重要的是，Penpot 在设计与开发之间消除了传统交接过程中的种种摩擦。 浏览器访问与自托管 Penpot 可以通过浏览器访问，也可以选择自行托管。它基于 web，支持开放标准（如 SV]]></description>
+            <content:encoded><![CDATA[<p>Penpot 是首个开源设计工具，旨在实现设计师与开发者之间的无缝协作。它为设计师提供了一个强大的平台，可以创建令人惊叹的设计、交互原型和大规模设计系统，同时开发者可以轻松获得现成的代码，简化工作流程，提升效率。最重要的是，Penpot 在设计与开发之间消除了传统交接过程中的种种摩擦。</p>
+<p><img src="https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866" alt="image"></p>
+<p><a href="https://github.com/user-attachments/assets/0b73e123-e39f-40e4-8234-497000ae7024"></a></p>
+<h3>浏览器访问与自托管</h3>
+<p>Penpot 可以通过浏览器访问，也可以选择自行托管。它基于 web，支持开放标准（如 SVG、CSS 和 HTML），使得团队可以灵活运用不同的工具和技术。更重要的是，Penpot 完全免费，让所有设计师和开发者都能平等地使用这个强大的工具。</p>
+<h3>重大更新：2.0版本</h3>
+<p>Penpot 最近推出的 2.0 版本，标志着该平台进入了一个全新的阶段。此次更新引入了突破性的 CSS Grid 布局功能，进行了全面的用户界面重新设计，推出了新的组件系统，以及其他更多的功能。更新后，Penpot 的运行速度更快，用户体验更佳，特别是在可访问性方面进行了增强，确保所有用户都能方便地使用这一工具。</p>
+<h3>为什么选择 Penpot？</h3>
+<p>Penpot 将设计表达为代码，使设计师能够尽情发挥创造力，同时也能确保开发者能够美丽地实现这些设计，形成双向协作的良好氛围。在 Penpot 的帮助下，设计师和开发者之间的沟通更加顺畅，能够共同实现高质量的产品。</p>
+<h3>为开发者而设计</h3>
+<p><img src="https://github.com/user-attachments/assets/c1912b31-9200-4373-ba7f-63e7fcf4e05a" alt="image"></p>
+<p>Penpot 的设计目标是服务于设计师和开发者，创造一个流畅的设计与代码流程。用户可以选择实时协作的模式，也可以独立工作。在实时协作中，团队成员可以共同查看和编辑设计，确保所有人的想法都能及时反映在作品中。</p>
+<h3>检查模式</h3>
+<p>Penpot 提供了一个检查模式，用户可以使用现成的代码，简化工作流程，提升效率。检查选项卡可以即时访问 SVG、CSS 和 HTML 代码，帮助开发者快速了解设计背后的实现方式，减少了沟通中的误解。</p>
+<h3>自托管实例</h3>
+<p>对于企业或团队，Penpot 还提供了自托管的选项，用户可以完全掌控自己的协作设计工具。用户可以选择使用 Penpot 的云服务，或者部署自己的 Penpot 服务器，从而实现更高的安全性和灵活性。</p>
+<h3>集成能力</h3>
+<p>Penpot 支持通过 Webhook 和可通过访问令牌访问的 API，轻松与开发工具链进行集成。这种集成能力让 Penpot 能够无缝嵌入到现有的工作流程中，提高了团队的工作效率。</p>
+<h3>设计的优势</h3>
+<p>使用 Penpot，用户可以设计出可共享和重用的库；将设计元素转化为组件和令牌，以便实现可重用性和可扩展性；构建逼真的用户流程和交互，提升设计的质量和用户体验。</p>
+<h2>总结</h2>
+<p>总之，Penpot 作为一款开源设计工具，通过提供强大的功能和灵活的协作方式，促进了设计师与开发者之间的有效沟通与合作。无论是设计复杂的用户界面，还是快速生成现成的代码，Penpot 都能帮助团队实现更高效的工作流程。选择 Penpot，意味着选择了一个更为开放与创新的设计未来。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/32" target="_blank">#32</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866" length="0" type="image//user-attachments/assets/3f994566-83ee-4278-906a-89883e717866"/>
+        </item>
+        <item>
+            <title><![CDATA[YesPlayMusic: 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/31.html</link>
+            <guid>31</guid>
+            <pubDate>Tue, 24 Sep 2024 07:23:48 GMT</pubDate>
+            <description><![CDATA[全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。 全新技术栈—]]></description>
+            <content:encoded><![CDATA[<p>全新 2.0 Alpha 测试版已经发布，带来了众多令人期待的新功能和优化体验。本次版本的发布标志着该项目进入了一个新的里程碑，同时也为用户提供了更加便捷、流畅的使用体验。你可以在项目的 Releases 页面下载该版本，体验全新的 2.0 Alpha 版本。随着此次发布，当前的旧版本将进入维护模式，除非出现重大 bug，否则不会再更新任何新功能。下面，我们将深入探讨这一版本的亮点。</p>
+<p><img src="https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a" alt=""></p>
+<h3>全新技术栈——Vue.js 全家桶</h3>
+<p>本次更新最大的亮点之一就是使用了 Vue.js 全家桶进行开发。Vue.js 是一款优秀的渐进式 JavaScript 框架，它让开发者能够以更快的速度和更高的效率构建复杂的前端应用程序。通过 Vue.js，全新的 2.0 Alpha 版本不仅在性能上有所提升，而且使得整体界面响应更为迅速流畅，用户在操作中能够感受到明显的提升。</p>
+<h3>功能丰富的多媒体体验</h3>
+<p><img src="https://github.com/user-attachments/assets/65a70134-39a3-4b46-ab35-28c4ea543676" alt=""></p>
+<p>2.0 Alpha 测试版引入了诸多与音乐播放相关的新功能，包括网易云账号登录的支持，用户可以通过扫码、手机或邮箱进行登录，快速访问自己的音乐库。新的版本还支持 MV 播放和歌词显示，提供了更为完整的多媒体体验。此外，私人 FM 和每日推荐歌曲功能也被集成，用户可以根据自己的音乐喜好发现更多内容。</p>
+<p>对于不喜欢社交功能的用户，本次更新也是一个福音——该版本完全移除了社交功能，专注于提供更纯粹的音乐播放体验。同时，海外用户也能够通过登录网易云账号直接播放音乐，方便了全球范围内的用户使用。</p>
+<h3>独特的解锁体验 —— UnblockNeteaseMusic</h3>
+<p>为了让用户能够无缝体验音乐，2.0 Alpha 版本集成了 UnblockNeteaseMusic 插件。该插件会自动使用其他音源替换网易云音乐中因版权问题变灰的歌曲链接。虽然网页版暂不支持这一功能，但它的加入极大增强了音乐库的完整性和可访问性。用户还可以自行安装 yt-dlp，以支持 YouTube 音源的播放。</p>
+<h3>个性化体验和智能功能</h3>
+<p>新版本还具备每日自动签到功能，用户无需手动操作就能在手机端和电脑端同时完成签到。与此同时，版本增加了 Light/Dark Mode 的自动切换功能，界面风格会根据用户的系统设定或时间自动变化，为用户提供了更加舒适的视觉体验。对于拥有 Touch Bar 的设备，还支持使用 Touch Bar 进行音乐播放控制，增加了设备的交互性。</p>
+<p>此外，用户可以将该版本作为 PWA（渐进式 Web 应用）安装到桌面，通过 Chrome 或 Edge 浏览器点击地址栏的 ➕ 图标，快速将应用添加到电脑上，体验类似原生应用的操作感受。</p>
+<h3>丰富的其他功能</h3>
+<p>新版本还支持 Last.fm Scrobble，用户可以通过 Last.fm 跟踪自己的音乐收听记录。音乐云盘的支持让用户能够上传并管理自己的音乐文件。对于键盘爱好者，该版本还提供了自定义快捷键和全局快捷键功能，允许用户快速执行常用操作。此外，还支持 Mpris，多平台的媒体播放控制将变得更加轻松。</p>
+<p>Web 版本体验：<a href="https://music.qier222.com/">https://music.qier222.com/</a></p>
+<p>总的来说，2.0 Alpha 版本带来了众多强大且实用的功能更新，为用户提供了更加流畅、个性化的音乐播放体验。未来的版本中，开发者还会引入更多功能，持续优化用户体验。对于喜爱网易云音乐并希望探索更多功能的用户来说，这无疑是一个值得尝试的版本。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/31" target="_blank">#31</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a" length="0" type="image//user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a"/>
+        </item>
+        <item>
+            <title><![CDATA[历史性时刻！全新 HTTP 方法 QUERY 提议成为 GET 和 POST 的替代方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/30.html</link>
+            <guid>30</guid>
+            <pubDate>Mon, 23 Sep 2024 15:30:27 GMT</pubDate>
+            <description><![CDATA[HTTP QUERY 方法旨在提供一种新的请求方式，它允许通过请求体传递复杂的查询参数，而无需将参数嵌入到URL中。与GET类似，QUERY是安全且幂等的，不会改变资源的状态；与POST类似，它支持请求体的使用。该方法特别适合大规模查询数据的情况，避免了URI长度限制。QUERY响应支持缓存，并允许服务器通过返回Location或Content-Location字段来提供查询结果或执行重复查询。 ]]></description>
+            <content:encoded><![CDATA[<p>HTTP QUERY 方法旨在提供一种新的请求方式，它允许通过请求体传递复杂的查询参数，而无需将参数嵌入到URL中。与GET类似，QUERY是安全且幂等的，不会改变资源的状态；与POST类似，它支持请求体的使用。该方法特别适合大规模查询数据的情况，避免了URI长度限制。QUERY响应支持缓存，并允许服务器通过返回Location或Content-Location字段来提供查询结果或执行重复查询。</p>
+<p><img src="https://github.com/user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df" alt="image"></p>
+<p>✨ 像 GET 一样，不修改资源状态。<br>
+📦 像 POST 一样，可以在请求中发送 body。<br>
+💾 响应可被缓存。</p>
+<p>HTTP协议中的“QUERY”方法作为一种全新请求方式，旨在弥补GET和POST的不足，特别是在处理复杂查询时提供更多灵活性和高效性。下面将从背景、工作原理、优势、使用场景、安全性等多个方面详细介绍“QUERY”方法。</p>
+<h3>1. 背景与起源</h3>
+<p>在现有的HTTP方法中，GET和POST是最常见的请求方式。GET方法用于从服务器检索资源，它通过URL传递参数。这种方式虽然直观，但有时会遇到实际问题，比如URL长度的限制以及复杂查询参数的嵌入不便。而POST方法则允许通过请求体发送数据，常用于数据提交或执行不安全操作的场景。然而，POST操作并不被认为是安全和幂等的，并且通常会引起服务器的状态变化，因此并不适合那些需要重复执行且不改变资源状态的查询。</p>
+<p>针对这些限制，HTTP工作组提出了“QUERY”方法，它结合了GET和POST的优点：一方面，它允许通过请求体发送复杂的查询参数，解决了URL长度限制的问题；另一方面，它确保了请求是安全和幂等的，不会对服务器资源产生副作用。</p>
+<h3>2. QUERY方法的工作原理</h3>
+<p>“QUERY”方法的核心是通过请求体传递查询数据，而非通过URL。这意味着查询参数可以更加复杂和详细，无需受限于URL的长度限制。例如，传统的GET请求可能会包含以下内容：</p>
+<pre class="language-plaintext"><code class="language-plaintext code-highlight"><span class="code-line line-number" line="1">GET /feed?q=foo&#x26;limit=10&#x26;sort=-published HTTP/1.1
+</span><span class="code-line line-number" line="2">Host: example.org
+</span></code></pre>
+<p>然而，当查询参数变得更为复杂、甚至达到数千字节时，GET请求可能无法再承载如此大量的数据。在这种情况下，使用QUERY方法可以将查询数据放在请求体中，而不受URL长度的限制：</p>
+<pre class="language-plaintext"><code class="language-plaintext code-highlight"><span class="code-line line-number" line="1">QUERY /feed HTTP/1.1
+</span><span class="code-line line-number" line="2">Host: example.org
+</span><span class="code-line line-number" line="3">Content-Type: application/x-www-form-urlencoded
+</span><span class="code-line line-number" line="4">
+</span><span class="code-line line-number" line="5">q=foo&#x26;limit=10&#x26;sort=-published
+</span></code></pre>
+<p>在这个例子中，查询参数被放置在请求体中，解决了URL长度的问题。同时，QUERY方法保持了GET的安全性和幂等性，这意味着无论请求执行多少次，服务器资源的状态都不会发生变化。</p>
+<h3>3. 安全性与幂等性</h3>
+<p>“安全性”（safe）和“幂等性”（idempotent）是HTTP请求方法的重要属性。安全性意味着请求不会修改服务器上的资源，幂等性则表示同一请求多次执行的结果是相同的。</p>
+<p>GET方法和HEAD方法都被认为是安全和幂等的，因为它们仅用于获取资源，不会对资源状态产生影响。POST方法则不具备这些属性，因为它常常用于创建、修改或删除资源。QUERY方法在这方面与GET类似：它是安全的，也具有幂等性。无论QUERY请求执行多少次，资源的状态都不会发生变化，这使得它非常适合用于只读查询场景。</p>
+<p>此外，QUERY方法允许服务器响应时返回各种HTTP状态码。例如，当查询成功但没有返回任何数据时，服务器可以返回204 No Content；当查询结果较大时，服务器还可以通过3xx重定向指向查询结果的另一个资源。</p>
+<h3>4. 缓存与性能优化</h3>
+<p>与GET方法类似，QUERY方法的响应是可缓存的。这意味着在某些情况下，服务器返回的查询结果可以被缓存下来，用于后续的请求。缓存可以显著提高应用程序的性能，尤其是对于一些耗时较长、结果不频繁变化的查询。</p>
+<p>具体来说，QUERY方法的缓存机制依赖于HTTP缓存规范（[HTTP-CACHING]），其缓存键不仅包括请求的URI，还包括请求体的内容。因此，缓存机制可以识别具有相同查询内容的请求，并复用缓存结果。为了提高缓存效率，QUERY请求的缓存键可以通过内容归一化（normalization）来去除语义上不重要的差异。例如，服务器可以去除请求体中的编码信息或根据内容格式的规范进行归一化处理。</p>
+<p>这种缓存机制不仅减少了服务器的负载，还可以大幅提高查询的响应速度，特别是在大规模查询或高并发访问的场景下。</p>
+<h3>5. QUERY方法的应用场景</h3>
+<p>QUERY方法的设计初衷是解决一些GET方法难以处理的问题，尤其是在需要发送大量查询数据的场景中。以下是一些典型的使用场景：</p>
+<ul>
+<li><strong>复杂查询操作</strong>：当查询参数过多或包含嵌套结构时，使用QUERY可以避免URL长度限制，同时简化查询参数的组织方式。</li>
+<li><strong>分页与过滤操作</strong>：在RESTful API设计中，分页和过滤是常见需求。通过QUERY方法，开发者可以轻松传递复杂的过滤条件，而不需要担心URI的长度。</li>
+<li><strong>日志与分析查询</strong>：一些应用需要针对大量数据进行复杂的分析查询，QUERY方法允许将这些查询参数放在请求体中，同时确保查询操作是安全且幂等的。</li>
+</ul>
+<h3>6. QUERY方法的语法与请求头字段</h3>
+<p>与其他HTTP方法类似，QUERY方法允许开发者在请求中使用多种媒体类型。例如，开发者可以通过Content-Type头字段指定查询参数的格式，如application/json或application/x-www-form-urlencoded。同时，服务器也可以通过返回的Accept-Query头字段表明它支持哪些查询格式。例如：</p>
+<pre class="language-plaintext"><code class="language-plaintext code-highlight"><span class="code-line line-number" line="1">Accept-Query: application/json, application/xml
+</span></code></pre>
+<p>这种机制允许客户端和服务器之间就查询格式进行协商，确保请求和响应的兼容性。</p>
+<h3>7. 安全考虑</h3>
+<p>QUERY方法在安全性方面与其他HTTP方法类似，尤其是与GET方法。在某些情况下，使用QUERY方法传递查询参数而不是通过URI，可以提高查询的隐私性，因为URI可能会被日志记录下来。而请求体中的内容则相对更为隐私，不会被URL日志记录。</p>
+<p>不过，需要注意的是，如果服务器为QUERY请求生成了一个临时资源（例如通过Location或Content-Location头字段），应确保该资源的URI不会以明文形式暴露原始的查询内容，以避免潜在的安全风险。</p>
+<h3>8. IANA注册</h3>
+<p>根据规范，QUERY方法已经被提交到IANA（互联网号码分配机构）进行注册。未来，QUERY方法将成为HTTP协议的一部分，与GET、POST等方法共同为开发者提供更多的请求选择。</p>
+<h3>9. 总结</h3>
+<p>HTTP的QUERY方法为开发者提供了一种在不影响资源状态的前提下，执行复杂查询的新方式。它结合了GET和POST的优点，允许通过请求体传递大量查询参数，同时确保查询是安全和幂等的。通过引入缓存机制和灵活的请求体支持，QUERY方法适合于许多复杂的查询场景，并为提升应用性能提供了可能。</p>
+<p>这一方法的提出不仅解决了当前HTTP请求方式的一些局限性，还为未来的Web应用开发提供了更多的可能性。开发者可以通过合理使用QUERY方法，优化查询操作的效率和安全性，从而构建更高效、更可靠的应用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/30" target="_blank">#30</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df" length="0" type="image//user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df"/>
+        </item>
+        <item>
+            <title><![CDATA[BestOfJS: 比项目较过去12个月在 GitHub 上增加的星标数]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/29.html</link>
+            <guid>29</guid>
+            <pubDate>Mon, 23 Sep 2024 12:28:24 GMT</pubDate>
+            <description><![CDATA[探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！ 热门项目 按过去 24 小时内新增的星标数量排名 最新添加的项目 Best of JS 中最新添加的项目 2024 年 8 月排名 按上个月新增的星标数量排名]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153" alt="image"></p>
+<p>探索最受欢迎的开源项目和关于 Web 平台的最新趋势：React、Vue.js、Node.js、Deno、Bun…… JavaScript、TypeScript 及其生态圈的精彩世界尽在其中！</p>
+<h2>热门项目</h2>
+<p><img src="https://github.com/user-attachments/assets/7010ac1a-fa58-4d6a-ae10-bc7612c787d7" alt="image"></p>
+<p>按过去 24 小时内新增的星标数量排名</p>
+<h2>最新添加的项目</h2>
+<p><img src="https://github.com/user-attachments/assets/a475e95b-ecfe-4382-afb5-4682ac28669b" alt="image"></p>
+<p>Best of JS 中最新添加的项目</p>
+<h2>2024 年 8 月排名</h2>
+<p><img src="https://github.com/user-attachments/assets/ec121adf-e510-45d2-8e67-6ac35ee43fdf" alt="image"></p>
+<p>按上个月新增的星标数量排名</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/29" target="_blank">#29</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153" length="0" type="image//user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153"/>
+        </item>
+        <item>
+            <title><![CDATA[BBackupp：完美的 iOS 备份解决方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/28.html</link>
+            <guid>28</guid>
+            <pubDate>Mon, 23 Sep 2024 03:27:22 GMT</pubDate>
+            <description><![CDATA[在今天的数据时代，确保移动设备数据的安全与完整至关重要。BBackupp 是一款全新的 iOS 备份软件，提供了丰富的功能，让备份过程变得简单、高效，并且具备高度的灵活性。不论是想要手动备份，还是自动化备份，BBackupp 都能够为用户提供最合适的解决方案。 轻松备份 iOS 设备 使用 BBackupp，用户可以轻松实现对 iOS 设备的完整备份。操作简单，无需繁琐的设置，让用户能够快速上手，]]></description>
+            <content:encoded><![CDATA[<p>在今天的数据时代，确保移动设备数据的安全与完整至关重要。<strong>BBackupp</strong> 是一款全新的 iOS 备份软件，提供了丰富的功能，让备份过程变得简单、高效，并且具备高度的灵活性。不论是想要手动备份，还是自动化备份，BBackupp 都能够为用户提供最合适的解决方案。</p>
+<p><img src="https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa" alt=""></p>
+<h3>轻松备份 iOS 设备</h3>
+<p>使用 BBackupp，用户可以轻松实现对 iOS 设备的完整备份。操作简单，无需繁琐的设置，让用户能够快速上手，立即保护宝贵的数据。</p>
+<h3>实时文件进度监控</h3>
+<p>在备份过程中，BBackupp 提供了详细的文件进度监控，用户可以清楚地看到每个文件的备份状态，确保一切顺利进行。</p>
+<h3>本地存储单次备份</h3>
+<p>对于只需要一次性备份的用户，BBackupp 允许将备份文件存储到本地，方便之后的管理与访问。</p>
+<h3>无线备份支持</h3>
+<p>BBackupp 支持通过 IP 地址进行无线备份，让备份过程更加灵活、便捷。无论你身处家中还是办公室，都可以通过网络将设备备份到目标存储位置。</p>
+<h3>自动化与定时备份</h3>
+<p>通过设置备份计划，用户可以自动化定期备份，完全告别手动备份的烦恼。BBackupp 会按设定好的时间自动执行备份任务，确保数据随时最新。</p>
+<h3>端到端加密确保安全</h3>
+<p>在数据安全性方面，BBackupp 提供了端到端加密，确保备份文件在存储和传输过程中免受外部威胁。</p>
+<h3>兼容多种存储方式</h3>
+<p>BBackupp 不仅支持本地存储，还兼容 SFTP、S3 等多种存储方式，满足不同用户的备份需求。</p>
+<h3>快照技术</h3>
+<p>BBackupp 采用了快照技术进行备份，使得用户能够快速创建多个备份点，轻松管理多个时间点的数据状态。</p>
+<h3>应用安装包自动下载</h3>
+<p>为了进一步提升使用体验，BBackupp 自动从 App Store 下载并保存应用安装包，帮助用户在需要时快速恢复设备中的应用。</p>
+<h3>备份过程通知</h3>
+<p>备份过程中，BBackupp 还会通过通知系统向用户更新进展。无论是备份完成还是出现问题，用户都会第一时间知晓，完全掌控整个过程。</p>
+<h3>健康检查</h3>
+<p>BBackupp 提供了一个简单的活跃状态检查功能，通过发送 GET 请求，用户可以快速确认备份服务器是否正常运行。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/28" target="_blank">#28</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa" length="0" type="image//user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa"/>
+        </item>
+        <item>
+            <title><![CDATA[BLEUnlock: 让你的 Mac 更智能的锁定与解锁]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/27.html</link>
+            <guid>27</guid>
+            <pubDate>Sun, 22 Sep 2024 07:47:42 GMT</pubDate>
+            <description><![CDATA[在这个快节奏的时代，安全性与便利性并重。BLEUnlock 是一款小巧的菜单栏工具，利用蓝牙低功耗（BLE）技术，让你可以通过你的 iPhone、Apple Watch 或其他 BLE 设备轻松锁定和解锁你的 Mac。 无需额外的 iPhone 应用 BLEUnlock 直接在你的 Mac 上运行，无需安装额外的 iPhone 应用，简化了使用流程。 兼容多种 BLE 设备 这款工具支持任何定期发]]></description>
+            <content:encoded><![CDATA[<p>在这个快节奏的时代，安全性与便利性并重。BLEUnlock 是一款小巧的菜单栏工具，利用蓝牙低功耗（BLE）技术，让你可以通过你的 iPhone、Apple Watch 或其他 BLE 设备轻松锁定和解锁你的 Mac。</p>
+<p><img src="https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f" alt=""></p>
+<h3>无需额外的 iPhone 应用</h3>
+<p>BLEUnlock 直接在你的 Mac 上运行，无需安装额外的 iPhone 应用，简化了使用流程。</p>
+<h3>兼容多种 BLE 设备</h3>
+<p>这款工具支持任何定期发送信号的 BLE 设备，只要其静态 MAC 地址保持不变，便能实现锁定与解锁。</p>
+<h3>自动解锁</h3>
+<p>当你的 BLE 设备靠近 Mac 时，BLEUnlock 会自动为你解锁，无需输入密码，极大提升了使用便利性。</p>
+<h3>自动锁定</h3>
+<p>一旦 BLE 设备远离 Mac，系统会立即锁定，有效保护你的数据安全。</p>
+<h3>自定义脚本</h3>
+<p>用户可以选择在锁定或解锁时运行自定义脚本，满足不同场景下的个性化需求。</p>
+<h3>唤醒显示屏</h3>
+<p>在你的 Mac 进入显示屏睡眠模式时，BLEUnlock 可选择性唤醒设备，让你随时可以使用。</p>
+<h3>音乐/视频控制</h3>
+<p>当你离开或返回时，BLEUnlock 可以选择性地暂停和恢复音乐或视频播放，提升观影体验。</p>
+<h3>安全存储密码</h3>
+<p>密码会安全地存储在系统钥匙串中，确保你的信息得到充分保护。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/27" target="_blank">#27</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f" length="0" type="image//user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f"/>
+        </item>
+        <item>
+            <title><![CDATA[PrettyClean：macOS 最佳磁盘清理工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/26.html</link>
+            <guid>26</guid>
+            <pubDate>Sun, 22 Sep 2024 03:43:50 GMT</pubDate>
+            <description><![CDATA[在 macOS 系统中，保持磁盘整洁和系统流畅至关重要。PrettyClean 正是为此而生，它是一款专为 macOS 设计的强大而小巧的磁盘清理工具。无论您的设备是 Intel 处理器的 Mac，还是最新的 Apple Silicon 设备，PrettyClean 都能帮助您优化系统性能。 多芯片支持 PrettyClean 完美支持 Intel 和 Apple Silicon 芯片，包括 M1]]></description>
+            <content:encoded><![CDATA[<p>在 macOS 系统中，保持磁盘整洁和系统流畅至关重要。<strong>PrettyClean</strong> 正是为此而生，它是一款专为 macOS 设计的强大而小巧的磁盘清理工具。无论您的设备是 Intel 处理器的 Mac，还是最新的 Apple Silicon 设备，PrettyClean 都能帮助您优化系统性能。</p>
+<p><img src="https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a" alt="image"></p>
+<h2>多芯片支持</h2>
+<p>PrettyClean 完美支持 <strong>Intel</strong> 和 <strong>Apple Silicon</strong> 芯片，包括 <strong>M1/M2</strong> 系列。通过充分利用您的硬件性能，PrettyClean 能够快速、彻底地扫描您的系统，确保以最快的速度释放宝贵的磁盘空间。</p>
+<h2>小巧而强大</h2>
+<p>虽然 PrettyClean 的安装包小于 <strong>6MB</strong>，但它功能强大、性能卓越。尽管体积轻便，它依然提供全面的功能和极高的效率，确保您的系统始终保持最佳状态。</p>
+<h2>多种扫描策略</h2>
+<p><img src="https://github.com/user-attachments/assets/ffdd31e1-ec7f-41e7-8202-2bc7d817e534" alt="image"></p>
+<p>PrettyClean 拥有多种专业的扫描策略，专门针对用户文件、系统缓存、应用生成的临时文件以及下载文件夹中的安装包等各类占用空间的文件进行深入扫描，帮助您尽可能多地释放磁盘空间。</p>
+<h2>隐私安全保障</h2>
+<p>隐私安全始终是 PrettyClean 的核心理念之一。它公开所有扫描过程，您可以清晰地看到每个被扫描的文件。<strong>PrettyClean 承诺绝不会上传任何扫描信息</strong>，确保您的隐私得到严格保护。</p>
+<h2>开发者模式</h2>
+<p><img src="https://github.com/user-attachments/assets/acb33871-38b4-4561-aab8-ba808a581a7d" alt="image"></p>
+<p>作为一款独特的工具，PrettyClean 专门为开发者设计了开发者模式，支持扫描和清理主流开发工具产生的编译缓存文件。这使它成为目前市场上唯一支持开发者选项的磁盘清理工具，非常适合程序员和开发者使用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/26" target="_blank">#26</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a" length="0" type="image//user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a"/>
+        </item>
+        <item>
+            <title><![CDATA[Swift Regex：基于 Swift 的 Web 正则表达式测试应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/25.html</link>
+            <guid>25</guid>
+            <pubDate>Sat, 21 Sep 2024 12:34:26 GMT</pubDate>
+            <description><![CDATA[Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。]]></description>
+            <content:encoded><![CDATA[<p>Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。</p>
+<p><img src="https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/0083d41b-51ea-4032-aea6-8d12956a925e" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/25" target="_blank">#25</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3" length="0" type="image//user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3"/>
+        </item>
+        <item>
+            <title><![CDATA[🍒 Cherry Studio：多平台支持的桌面 LLM 客户端]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/24.html</link>
+            <guid>24</guid>
+            <pubDate>Sat, 21 Sep 2024 10:11:21 GMT</pubDate>
+            <description><![CDATA[Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。 🌟 主要功能 支持多个 LLM 提供商：无论你使用的是哪家 LLM 服务，Cherry Studio 都能为你提供兼容支持。 创建多个助手：允许用户在客户端内创建多个智能助手，根据不同场景灵活应对。 创建多个主题：用户可以根据需要]]></description>
+            <content:encoded><![CDATA[<p>Cherry Studio 是一款支持多种大型语言模型（LLM）提供商的桌面客户端，兼容 Windows、Mac 和 Linux 平台，为用户提供了强大的跨平台功能。</p>
+<p><img src="https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e" alt="image"></p>
+<h3>🌟 主要功能</h3>
+<ul>
+<li><strong>支持多个 LLM 提供商</strong>：无论你使用的是哪家 LLM 服务，Cherry Studio 都能为你提供兼容支持。</li>
+<li><strong>创建多个助手</strong>：允许用户在客户端内创建多个智能助手，根据不同场景灵活应对。</li>
+<li><strong>创建多个主题</strong>：用户可以根据需要创建多个对话主题，便于分类管理和组织。</li>
+<li><strong>支持多个模型在同一对话中回答问题</strong>：在同一次对话中可以调用多个不同的模型进行回答，提升答案的多样性和准确性。</li>
+<li><strong>拖拽排序功能</strong>：支持拖拽式的排序操作，简化管理流程。</li>
+<li><strong>代码高亮</strong>：提供代码高亮功能，便于阅读和处理代码内容。</li>
+<li><strong>Mermaid 图表支持</strong>：内置 Mermaid 图表支持，用户可以在应用中方便地创建和展示流程图、序列图等。</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/01e60ce0-015d-4e89-b748-c16b9b611096" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/a103911f-8ddb-4264-b5b9-903fff7865b1" alt="image"></p>
+<p><strong>Cherry Studio</strong> 是一款功能丰富且灵活的 LLM 客户端工具，无论你是开发者、学生，还是内容创作者，都可以利用它实现智能对话和数据分析的高效管理。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/24" target="_blank">#24</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e" length="0" type="image//user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e"/>
+        </item>
+        <item>
+            <title><![CDATA[Fellmonger: 支持多种大型语言模型（LLM）的原生客户端，是一个展示使用 Swift 6 开发的原生桌面应用的示例项目]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/23.html</link>
+            <guid>23</guid>
+            <pubDate>Sat, 21 Sep 2024 08:51:14 GMT</pubDate>
+            <description><![CDATA[Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。 📚 Fellmonger 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS 和 W]]></description>
+            <content:encoded><![CDATA[<p>Fellmonger 是一个展示使用 Swift 6 开发的原生桌面应用的示例项目，支持 macOS 和 Windows 平台。它不仅是一个跨平台的应用程序，更是一个支持多种大型语言模型（LLM）的原生客户端，兼容 Ollama、OpenAI 和 Anthropic 的 LLM。</p>
+<p><img src="https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d" alt=""></p>
+<p>📚 <strong>Fellmonger</strong> 主要作为一个学习资源，帮助开发者探索如何使用 Swift 进行跨平台的 macOS 和 Windows 桌面应用开发。虽然该项目是为个人学习而构建，但也希望它能为其他开发者提供启发和帮助 😄。</p>
+<p><img src="https://github.com/user-attachments/assets/3c182895-1f08-47fb-85fd-dbc53a925c62" alt=""></p>
+<h3>项目现状与改进空间</h3>
+<p>项目的复杂度已经足以模拟真实的应用程序，但目前还处于原型阶段。为了让它达到生产级别，仍有一些地方需要改进，包括：</p>
+<ul>
+<li>UI/图标的进一步打磨</li>
+<li>功能的增强</li>
+<li>性能优化</li>
+<li>更完善的错误处理</li>
+<li>安装程序的改进</li>
+</ul>
+<p>这些改进将使 Fellmonger 从原型走向一个可以真正投入使用的生产级应用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/23" target="_blank">#23</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d" length="0" type="image//user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d"/>
+        </item>
+        <item>
+            <title><![CDATA[Maccy：专注高效的 macOS 剪贴板管理器的开源应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/22.html</link>
+            <guid>22</guid>
+            <pubDate>Sat, 21 Sep 2024 04:49:33 GMT</pubDate>
+            <description><![CDATA[Maccy 是一款轻量级的 macOS 剪贴板管理工具，设计简洁，功能专注。它的使命非常明确：为你保存复制历史，让你随时快速访问，极简而高效。 简单纯粹，无多余功能 与许多复杂的剪贴板管理器不同，Maccy 只做一件事：保存你复制的内容并提供快速访问。没有繁杂的额外功能，使用过程不会让你感到负担。 轻量快速，始终高效 Maccy 极其轻量，运行速度极快。你可以在一瞬间打开剪贴板历史并搜索你需要的内]]></description>
+            <content:encoded><![CDATA[<p>Maccy 是一款轻量级的 macOS 剪贴板管理工具，设计简洁，功能专注。它的使命非常明确：为你保存复制历史，让你随时快速访问，极简而高效。</p>
+<p><img src="https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8" alt=""></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/afa54290-515f-4023-aab4-3c147ca3ee3d?rehype=video"></video>
+<p><strong>简单纯粹，无多余功能</strong></p>
+<p>与许多复杂的剪贴板管理器不同，Maccy 只做一件事：保存你复制的内容并提供快速访问。没有繁杂的额外功能，使用过程不会让你感到负担。</p>
+<p><strong>轻量快速，始终高效</strong></p>
+<p>Maccy 极其轻量，运行速度极快。你可以在一瞬间打开剪贴板历史并搜索你需要的内容，丝毫不影响工作流。它的设计理念就是让你专注于手头的任务，不被分心。</p>
+<p><strong>键盘优先操作，效率更高</strong></p>
+<p>Maccy 允许你完全通过键盘操作。只需输入关键词，找到你想要的历史记录并按下 Enter，整个过程无需触碰鼠标，提升了工作效率。</p>
+<p><strong>注重隐私与安全</strong></p>
+<p>Maccy 非常重视用户隐私。如果你使用密码管理器，它移除剪贴板中的敏感信息时，Maccy 也会同步清除。所有数据都仅保存在本地电脑上，确保信息安全无虞。</p>
+<p><strong>原生设计，简洁美观</strong></p>
+<p>Maccy 使用 macOS 的原生 UI 设计，界面极简且符合用户的直觉。它的外观和使用体验与 macOS 系统融为一体，不会因复杂的设计打扰你的工作。</p>
+<p><strong>开源且永久免费</strong></p>
+<p>作为一个开源项目，Maccy 使用 MIT 许可证，完全免费。你可以在 GitHub 上查看、修改它的源代码，根据自己的需求做出调整。它的开源性质确保了你对软件的完全掌控。</p>
+<h1>结语</h1>
+<p>如果你在寻找一款轻量、高效、且安全的剪贴板管理器，Maccy 是你不二的选择。它用简洁的设计和强大的功能，让你专注于工作，同时随时掌握你的剪贴板历史。</p>
+<p>Maccy 为追求效率和简约的 macOS 用户提供了理想的剪贴板管理解决方案，值得一试。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/22" target="_blank">#22</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8" length="0" type="image//user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8"/>
+        </item>
+        <item>
+            <title><![CDATA[Certimate: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/21.html</link>
+            <guid>21</guid>
+            <pubDate>Fri, 20 Sep 2024 12:00:30 GMT</pubDate>
+            <description><![CDATA[🔒 Certimate 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题： 😱 操作麻烦：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。 😭 易于遗忘：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。 Certimate 旨在解决这些痛点，具有以下特点： ]]></description>
+            <content:encoded><![CDATA[<p>🔒 <strong>Certimate</strong> 是一款专为个人产品和小企业运维而设计的工具，帮助用户轻松管理多个域名的 SSL 证书。在手动申请证书时，常常面临以下问题：</p>
+<p><img src="https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22" alt=""></p>
+<p>😱 <strong>操作麻烦</strong>：虽然申请和部署证书并不困难，但在管理多个域名时，这个过程会变得非常繁琐。
+😭 <strong>易于遗忘</strong>：当前的免费证书有效期仅为 90 天，定期续期的要求增加了工作负担，容易造成网站无法访问。</p>
+<p><img src="https://github.com/user-attachments/assets/87b11403-e38a-4431-811e-a891acf7b77d" alt=""></p>
+<p><strong>Certimate</strong> 旨在解决这些痛点，具有以下特点：</p>
+<ul>
+<li><strong>操作简单</strong>：全自动申请、部署和续期 SSL 证书，无需人工干预，极大减轻了维护负担。</li>
+<li><strong>支持私有部署</strong>：只需下载二进制文件即可运行，支持 Docker 镜像，整个过程透明可审计，确保用户对每一步都有掌控。</li>
+<li><strong>数据安全</strong>：所有数据均存储在本地，不会保存在服务商的服务器，确保数据安全性。</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/5c5e5378-056e-4156-8c85-f5d16bb299e4" alt=""></p>
+<p>选择 <strong>Certimate</strong>，让域名证书管理变得简单、安全、高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/21" target="_blank">#21</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22" length="0" type="image//user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22"/>
+        </item>
+        <item>
+            <title><![CDATA[free-for.dev 为开发人员提供的大量免费资源！ 主机、数据库、CDN、API、域名等]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/20.html</link>
+            <guid>20</guid>
+            <pubDate>Thu, 19 Sep 2024 13:27:59 GMT</pubDate>
+            <description><![CDATA[这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。 本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务]]></description>
+            <content:encoded><![CDATA[<p>这是一个专为开发者和开源作者提供的免费服务列表，帮助他们快速找到适合的免费开发工具。虽然目前有很多服务提供免费套餐，但要找到所有这些服务并做出明智的选择往往需要花费大量时间。</p>
+<p><img src="https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30" alt="image"></p>
+<p>本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务。由于这些边界有时可能模糊不清，列表内容是带有一定主观性的，若某些贡献未被采纳，请不必感到不满。</p>
+<p>这个列表是通过1600多位贡献者的 Pull Requests、审查和想法汇集而成的，任何人都可以通过提交 Pull Requests 来帮助更新列表中的内容，包括添加新的免费服务或移除那些已变更或停用的服务。</p>
+<p>通过此列表，开发者可以更轻松地发现适合其需求的免费工具和服务，从而提高开发效率并降低成本。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/20" target="_blank">#20</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30" length="0" type="image//user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30"/>
+        </item>
+        <item>
+            <title><![CDATA[PlayCover 支持在 Apple Silicon 设备上运行 iOS 应用和游戏]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/19.html</link>
+            <guid>19</guid>
+            <pubDate>Thu, 19 Sep 2024 10:15:38 GMT</pubDate>
+            <description><![CDATA[PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。 PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄]]></description>
+            <content:encoded><![CDATA[<p>PlayCover 是一款专为在搭载 Apple Silicon 的 macOS 12.0 或更新版本设备上运行 iOS 应用和游戏的软件。它通过将应用程序包装到一个模拟 iPad 的环境中，让应用能够原生运行并展现出色的性能。</p>
+<p><img src="https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6" alt=""></p>
+<p>PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄像头移动、左右点击以及个性化按键映射，类似于流行的 Android 模拟器 Bluestacks 的按键映射系统。</p>
+<p>这款软件最初是为了在 Apple Silicon 设备上运行《原神》而开发的，但现已支持更广泛的应用程序。尽管如此，仍有一些游戏不受支持，或者可能会遇到一些小问题。</p>
+<p>PlayCover 提供了流畅的游戏和应用体验，是 Apple Silicon 设备用户探索 iOS 应用新玩法的理想选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/19" target="_blank">#19</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6" length="0" type="image//user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6"/>
+        </item>
+        <item>
+            <title><![CDATA[NPM Chart：一键将你的 npm 下载量转换为精美的可分享图表]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/18.html</link>
+            <guid>18</guid>
+            <pubDate>Wed, 18 Sep 2024 18:42:53 GMT</pubDate>
+            <description><![CDATA[一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。 可以完美展示你项目的成长和社区影响力！]]></description>
+            <content:encoded><![CDATA[<p>一键将你的 npm 下载量转换为精美的可分享图表（支持 PNG/SVG）。</p>
+<p><img src="https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd" alt=""></p>
+<p>可以完美展示你项目的成长和社区影响力！</p>
+<p><img src="https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/18" target="_blank">#18</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd" length="0" type="image//user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd"/>
+        </item>
+        <item>
+            <title><![CDATA[Artificial Analysis：大模型能力、价格、速度对比的工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/17.html</link>
+            <guid>17</guid>
+            <pubDate>Wed, 18 Sep 2024 13:49:31 GMT</pubDate>
+            <description><![CDATA[深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568" alt=""></p>
+<p>深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/17" target="_blank">#17</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568" length="0" type="image//user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568"/>
+        </item>
+        <item>
+            <title><![CDATA[XcodeLLMEligible - Xcode 使用 AI 代码补全]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/16.html</link>
+            <guid>16</guid>
+            <pubDate>Wed, 18 Sep 2024 12:34:48 GMT</pubDate>
+            <description><![CDATA[Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次 Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本]]></description>
+            <content:encoded><![CDATA[<p>Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次</p>
+<p><img src="https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e" alt="image"></p>
+<p>Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/16" target="_blank">#16</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e" length="0" type="image//user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e"/>
+        </item>
+        <item>
+            <title><![CDATA[Appwrite - 适用于 Web、移动和 Flutter 开发人员的安全后端服务器，Firebase 替代方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/15.html</link>
+            <guid>15</guid>
+            <pubDate>Tue, 17 Sep 2024 17:37:41 GMT</pubDate>
+            <description><![CDATA[Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。 Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，等多种服务。 Appwrite 使用高拓展性的微服]]></description>
+            <content:encoded><![CDATA[<p>Appwrite 是一个基于 Docker 的端到端开发者平台，其容器化的微服务库可应用于网页端，移动端，以及后端。Appwrite 通过视觉化界面简化了从零开始编写 API 的繁琐过程，在保证软件安全的前提下为开发者创造了一个高效的开发环境。</p>
+<p><img src="https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3" alt="image"></p>
+<p>Appwrite 可以提供给开发者用户验证，外部授权，用户数据读写检索，文件储存，图像处理，云函数计算，<a href="https://appwrite.io/docs">等多种服务</a>。</p>
+<p>Appwrite 使用高拓展性的微服务架构。此外，Appwrite 支持多种 API（REST、WebSocket 和 即将推出的 GraphQL），来迎合您的个性化开发习惯。</p>
+<p><img src="https://github.com/user-attachments/assets/329d22c7-4946-4951-b457-eb5f31f512a9" alt="image"></p>
+<p>Appwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/15" target="_blank">#15</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3" length="0" type="image//user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3"/>
+        </item>
+        <item>
+            <title><![CDATA[静かな森 - 专注于分享技术文章的个人博客，内容涵盖 React 等前端开发技术]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/14.html</link>
+            <guid>14</guid>
+            <pubDate>Tue, 17 Sep 2024 16:27:51 GMT</pubDate>
+            <description><![CDATA[这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。]]></description>
+            <content:encoded><![CDATA[<p>这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。</p>
+<p><img src="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/14" target="_blank">#14</a> • 
+      <a href="https://github.com/Innei" target="_blank">@Innei</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" length="0" type="image//user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa"/>
+        </item>
+        <item>
+            <title><![CDATA[Mochi Diffusion 在 macOS 上原生运行 Stable Diffusion 的客户端]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/13.html</link>
+            <guid>13</guid>
+            <pubDate>Tue, 17 Sep 2024 10:27:18 GMT</pubDate>
+            <description><![CDATA[本应用内置 Apple 的 Core ML Stable Diffusion 框架 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能 🌐 生成图像无需联网 🖼️ 支持图像转图像 &#x26; ControlNet 🗂️ EXIF 信息中存储关键词 🔍 使用 RealESRGAN 放大图像 💾 自动保存 &#x26; 恢复图像 🛠️ 自定义 Stable Dif]]></description>
+            <content:encoded><![CDATA[<p>本应用内置 <a href="https://github.com/apple/ml-stable-diffusion">Apple 的 Core ML Stable Diffusion 框架</a> 以实现在搭载 Apple 芯片的 Mac 上用极低的内存占用发挥出最优性能</p>
+<p><img src="https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb" alt=""></p>
+<p>🌐 生成图像无需联网
+🖼️ 支持图像转图像 &#x26; ControlNet
+🗂️ EXIF 信息中存储关键词
+🔍 使用 RealESRGAN 放大图像
+💾 自动保存 &#x26; 恢复图像
+🛠️ 自定义 Stable Diffusion Core ML 模型
+🖥️ 使用 SwiftUI 开发</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/13" target="_blank">#13</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb" length="0" type="image//user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb"/>
+        </item>
+        <item>
+            <title><![CDATA[App Rejection Fixes: 搜集 Apple 应用上架被拒绝的解决方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/12.html</link>
+            <guid>12</guid>
+            <pubDate>Tue, 17 Sep 2024 09:34:00 GMT</pubDate>
+            <description><![CDATA[此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。 它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。]]></description>
+            <content:encoded><![CDATA[<p>此仓库记录了应用在 App Store 审核过程中被拒绝的各种原因，并提供了相应的解决方案。</p>
+<p><img src="https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865" alt=""></p>
+<p>它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。</p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&#x26;rehype=video"></video><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/12" target="_blank">#12</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865" length="0" type="image//user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865"/>
+        </item>
+        <item>
+            <title><![CDATA[Gitness: 一个基于 Docker 的持续集成平台，使用 Go 语言编写]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/11.html</link>
+            <guid>11</guid>
+            <pubDate>Tue, 17 Sep 2024 09:24:58 GMT</pubDate>
+            <description><![CDATA[Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。 不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成]]></description>
+            <content:encoded><![CDATA[<p>Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。</p>
+<p><img src="https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622" alt=""></p>
+<p>不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/11" target="_blank">#11</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622" length="0" type="image//user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghchart：Github贡献图表作为图像，嵌入你的博客]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/10.html</link>
+            <guid>10</guid>
+            <pubDate>Tue, 17 Sep 2024 09:11:19 GMT</pubDate>
+            <description><![CDATA[📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客 你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方： &#x3C;img src="https://ghchart.rshah.org/jaywcjlove" alt="2016rshah's Github chart" /> 回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，]]></description>
+            <content:encoded><![CDATA[<p>📅 嵌入 GitHub 贡献图表作为图片，嵌入你的博客</p>
+<p><img src="https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036" alt="image"></p>
+<p>你可以使用以下代码将 GitHub 贡献图表嵌入到任何地方：</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">&#x3C;img src="https://ghchart.rshah.org/jaywcjlove" alt="2016rshah's Github chart" />
+</span></code></pre>
+<img src="https://ghchart.rshah.org/jaywcjlove" alt="2016rshah&#x27;s Github chart">
+<p>回顾一整年，看看自己的工作进度是一件非常棒的事情，而那个绿色的小日历图表是我最喜欢的数据可视化之一。不过，它不应该只局限于 GitHub 网站上显示，你可以将它放到任何你想要的地方！</p>
+<p><strong>颜色方案</strong></p>
+<p>我们还支持自定义颜色方案！你可以提供任何基础颜色，我们会为图表生成相应的色调。只需访问 <code>https://ghchart.rshah.org/&#x3C;HEX-COLOR>/2016rshah</code> 并将 <code>&#x3C;HEX-COLOR></code> 替换为你想要的颜色的十六进制代码（不包括前导的 <code>#</code> 符号）。例如，如果你想要一个以 #409ba5 为主题的蓝色图表，你可以访问以下链接：</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">&#x3C;img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah's Blue Github Chart" />
+</span></code></pre>
+<img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah&#x27;s Blue Github Chart"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/10" target="_blank">#10</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036" length="0" type="image//user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenCore Legacy Patcher 2.0.0 发布， 83 款不受支持的 Mac 型号也能运行 macOS Sequoia！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/9.html</link>
+            <guid>9</guid>
+            <pubDate>Mon, 16 Sep 2024 17:31:14 GMT</pubDate>
+            <description><![CDATA[这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。 该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。]]></description>
+            <content:encoded><![CDATA[<p>这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。</p>
+<p><img src="https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c" alt="image"></p>
+<p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/9" target="_blank">#9</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c" length="0" type="image//user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c"/>
+        </item>
+        <item>
+            <title><![CDATA[rathole：安全、稳定、高性能的内网穿透工具，用 Rust 语言编写]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/8.html</link>
+            <guid>8</guid>
+            <pubDate>Mon, 16 Sep 2024 16:32:58 GMT</pubDate>
+            <description><![CDATA[安全、稳定、高性能的内网穿透工具，用 Rust 语言编写 rathole，类似于 frp 和 ngrok，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。 同类型的内网穿透工具 名称StarfrpinletsngrokpgrokeasyProxynatapp-npschisel]]></description>
+            <content:encoded><![CDATA[<p>安全、稳定、高性能的内网穿透工具，用 Rust 语言编写</p>
+<p><img src="https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399" alt="rathole"></p>
+<p>rathole，类似于 <a href="https://github.com/fatedier/frp">frp</a> 和 <a href="https://github.com/inconshreveable/ngrok">ngrok</a>，可以让 NAT 后的设备上的服务通过具有公网 IP 的服务器暴露在公网上。</p>
+<p>同类型的内网穿透工具</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>名称</th><th>Star</th></tr></thead><tbody><tr><td><a href="https://github.com/fatedier/frp">frp</a></td><td><img src="https://img.shields.io/github/stars/fatedier/frp.svg" alt=""></td></tr><tr><td><a href="https://github.com/inlets/inlets-pro">inlets</a></td><td><img src="https://img.shields.io/github/stars/inlets/inlets-pro.svg" alt=""></td></tr><tr><td><a href="https://github.com/inconshreveable/ngrok">ngrok</a></td><td><img src="https://img.shields.io/github/stars/inconshreveable/ngrok.svg" alt=""></td></tr><tr><td><a href="https://github.com/pgrok/pgrok">pgrok</a></td><td><img src="https://img.shields.io/github/stars/pgrok/pgrok.svg" alt=""></td></tr><tr><td><del><a href="https://github.com/cnlh/easyProxy">easyProxy</a></del></td><td><img src="https://img.shields.io/github/stars/cnlh/easyProxy.svg" alt=""></td></tr><tr><td><a href="https://natapp.cn/">natapp</a></td><td>-</td></tr><tr><td><a href="https://github.com/ehang-io/nps">nps</a></td><td><img src="https://img.shields.io/github/stars/ehang-io/nps.svg" alt=""></td></tr><tr><td><a href="https://github.com/jpillora/chisel">chisel</a></td><td><img src="https://img.shields.io/github/stars/jpillora/chisel.svg" alt=""></td></tr></tbody></table><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/8" target="_blank">#8</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399" length="0" type="image//user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399"/>
+        </item>
+        <item>
+            <title><![CDATA[IP查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/7.html</link>
+            <guid>7</guid>
+            <pubDate>Mon, 16 Sep 2024 16:18:18 GMT</pubDate>
+            <description><![CDATA[ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。 支持命令行显示 支持嵌入图片显示 IP，下面是嵌入图片示例 另外还有一些为爱发电的，IP 查询工具： https://ip.sy/]]></description>
+            <content:encoded><![CDATA[<p>ip查询，国内国外的精度都很好，无广告，无查询限制，纯为爱发电。</p>
+<p><img src="https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc" alt="image"></p>
+<p>支持命令行显示</p>
+<p><img src="https://github.com/user-attachments/assets/bcb1675b-8f4a-4c31-bef5-373246bf94e1" alt="image"></p>
+<p>支持嵌入图片显示 IP，下面是嵌入图片示例</p>
+<a href="https://ip.im">
+  <img src="https://ip.im/img" alt="My IP Address" width="215" height="70">
+</a>
+<p>另外还有一些为爱发电的，IP 查询工具： <a href="https://ip.sy/">https://ip.sy/</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/7" target="_blank">#7</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc" length="0" type="image//user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc"/>
+        </item>
+        <item>
+            <title><![CDATA[Dub: 开源的短链接服务]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/6.html</link>
+            <guid>6</guid>
+            <pubDate>Sun, 15 Sep 2024 10:59:44 GMT</pubDate>
+            <description><![CDATA[一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接]]></description>
+            <content:encoded><![CDATA[<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>
+<p><img src="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/6" target="_blank">#6</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Docmost: 是一个开源的协作文档和 Wiki 应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/5.html</link>
+            <guid>5</guid>
+            <pubDate>Sun, 15 Sep 2024 08:05:12 GMT</pubDate>
+            <description><![CDATA[一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。 功能介绍 实时协作编辑器：与他人实时协作编辑页面。 绘图功能：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。 工作空间：按团队、项目或部门组织页面，以便更好地协作。 权限管理：通过简单易懂的权限设置轻松控制内容访问。 群组功能：通过群组轻松为用户授予统一权限。 评论功能]]></description>
+            <content:encoded><![CDATA[<p>一款开源协作文档和维基软件。它是 Confluence 和 Notions 等软件的开源替代品。</p>
+<p><img src="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" alt="image"></p>
+<p><strong>功能介绍</strong></p>
+<ul>
+<li><strong>实时协作编辑器</strong>：与他人实时协作编辑页面。</li>
+<li><strong>绘图功能</strong>：内置支持 Draw.io、Excalidraw 和 Mermaid 绘图工具。</li>
+<li><strong>工作空间</strong>：按团队、项目或部门组织页面，以便更好地协作。</li>
+<li><strong>权限管理</strong>：通过简单易懂的权限设置轻松控制内容访问。</li>
+<li><strong>群组功能</strong>：通过群组轻松为用户授予统一权限。</li>
+<li><strong>评论功能</strong>：为页面添加评论，以便更好地沟通和反馈。</li>
+<li><strong>页面历史</strong>：通过完整的版本历史跟踪页面更改。</li>
+<li><strong>嵌套导航</strong>：通过侧边栏可以嵌套和重新排序页面。</li>
+<li><strong>搜索功能</strong>：通过强大的搜索功能快速找到所需信息。</li>
+<li><strong>文件附件</strong>：将文件附加到页面，便于参考和共享。</li>
+<li><strong>导入/导出</strong>：支持轻松导入和导出 Markdown 和 HTML 格式的页面。</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/5" target="_blank">#5</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" length="0" type="image//user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee"/>
+        </item>
+        <item>
+            <title><![CDATA[Quick RSS v1.0 发布，一款易于使用、私密且直观的桌面 RSS 阅读器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/4.html</link>
+            <guid>4</guid>
+            <pubDate>Sat, 14 Sep 2024 19:35:32 GMT</pubDate>
+            <description><![CDATA[Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。 👉 https://github.com/jaywcjlove/quick-rss]]></description>
+            <content:encoded><![CDATA[<p>Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。</p>
+<p>👉 <a href="https://github.com/jaywcjlove/quick-rss">https://github.com/jaywcjlove/quick-rss</a></p>
+<p><img src="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/4" target="_blank">#4</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" length="0" type="image//user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668"/>
+        </item>
+    </channel>
+</rss>            <content:encoded><![CDATA[<p>ConfigForge 是一款专为 macOS 用户设计的开源配置管理工具，支持 SSH 配置和 Kubernetes 配置的可视化管理。提供简洁直观的图形界面来管理 ~/.ssh/config 和 ~/.kube/config 文件，让您轻松查看、搜索、编辑和管理各类配置，避免直接编辑文本文件的繁琐和错误风险。</p>
+<p><img src="https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40" alt="Image"></p>
+<p>使用方式：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap samzong/tap
+</span><span class="code-line line-number" line="2">brew <span class="token function">install</span> configforge
+</span><span class="code-line line-number" line="3">
+</span><span class="code-line line-number" line="4"><span class="token comment"># 当前使用免费开发者账号自签名</span>
+</span><span class="code-line line-number" line="5">xattr <span class="token parameter variable">-dr</span> com.apple.quarantine /Applications/ConfigForge.app
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/111" target="_blank">#111</a> • 
+      <a href="https://github.com/samzong" target="_blank">@samzong</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40" length="0" type="image//user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40"/>
+        </item>
+        <item>
+            <title><![CDATA[Xcodes：最好用的 Xcode 多版本管理神器，开发者必备利器！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/110.html</link>
+            <guid>110</guid>
+            <pubDate>Sat, 12 Apr 2025 15:34:14 GMT</pubDate>
+            <description><![CDATA[如果你经常在 Mac 上开发 iOS、macOS、watchOS 或 visionOS 应用，肯定遇到过来回切换 Xcode 版本的麻烦事。要手动下载、解压、配置 xcode-select，过程繁琐又耗时。而现在，有了 Xcodes.app，这些麻烦事全都能轻松搞定！ 📦 Xcodes.app 是一款专为开发者设计的 Xcode 多版本管理工具，功能非常强大： 📋 自动列出所有 Xcode 版]]></description>
+            <content:encoded><![CDATA[<p>如果你经常在 Mac 上开发 iOS、macOS、watchOS 或 visionOS 应用，肯定遇到过来回切换 Xcode 版本的麻烦事。要手动下载、解压、配置 xcode-select，过程繁琐又耗时。而现在，有了 Xcodes.app，这些麻烦事全都能轻松搞定！</p>
+<p><img src="https://github.com/user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89" alt="Xcodes"></p>
+<p>📦 Xcodes.app 是一款专为开发者设计的 Xcode 多版本管理工具，功能非常强大：</p>
+<ul>
+<li>📋 自动列出所有 Xcode 版本，无论是官方的，还是来自 Xcode Releases 数据库的版本。</li>
+<li>⚡ 支持多线程下载（集成了 aria2，最多 16 个连接，比普通下载快上 3-5 倍！）</li>
+<li>📥 安装过程全自动，网络断了还能自动续传，根本不用盯着看。</li>
+<li>🔐 支持 Apple ID 登录下载，安全又方便。</li>
+<li>📝 可以直接查看每个 Xcode 版本的更新日志、系统兼容性、包含的 SDK 和编译器版本。</li>
+<li>🌙 支持深色模式，界面清爽好用。</li>
+<li>🔑 兼容硬件安全密钥认证，保护你的开发者账号安全。</li>
+</ul>
+<p>此外，它还能下载各种 Apple 平台的运行时环境（iOS、tvOS、watchOS、visionOS），一键安装，特别适合做跨设备测试的开发者。</p>
+<p>⚠️ 小提示：如果要使用 iOS 18+、tvOS 18+、watchOS 11+ 或 visionOS 2+，记得要安装并激活 Xcode 16.1 Beta 3 及以上版本。</p>
+<p>⸻</p>
+<p>总结一句：
+👉 Xcodes.app 是 macOS 下最好用的 Xcode 多版本管理神器，简单、快捷、高效，开发者必备！</p>
+<p>要不要我帮你配个推广图或者文案标题？😎</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/110" target="_blank">#110</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89" length="0" type="image//user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89"/>
+        </item>
+        <item>
+            <title><![CDATA[KeyClicker：一个模拟机械键盘和打字机的真实打字声的应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/109.html</link>
+            <guid>109</guid>
+            <pubDate>Wed, 09 Apr 2025 20:26:40 GMT</pubDate>
+            <description><![CDATA[KeyClicker 为用户带来真实的键盘打字声音体验，再现机械键盘与打字机的敲击感受，并支持在桌面上显示按下的快捷键，适用于会议、教学或视频教程制作等场合。 📥 下载：https://apps.apple.com/app/key-clicker/6740425504 💬 反馈：https://github.com/jaywcjlove/key-clicker]]></description>
+            <content:encoded><![CDATA[<p>KeyClicker 为用户带来真实的键盘打字声音体验，再现机械键盘与打字机的敲击感受，并支持在桌面上显示按下的快捷键，适用于会议、教学或视频教程制作等场合。</p>
+<p>📥 下载：<a href="https://apps.apple.com/app/key-clicker/6740425504">https://apps.apple.com/app/key-clicker/6740425504</a>
+💬 反馈：<a href="https://github.com/jaywcjlove/key-clicker">https://github.com/jaywcjlove/key-clicker</a></p>
+<p><img src="https://github.com/user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4" alt="KeyClicker"></p>
+<p><img src="https://github.com/user-attachments/assets/c662fbee-87a9-493e-bb3d-93b9f454ff53" alt="KeyClicker"></p>
+<p><img src="https://github.com/user-attachments/assets/0df21d35-df62-42fa-9549-b57f6afa5990" alt="KeyClicker"></p>
+<p><img src="https://github.com/user-attachments/assets/0f8121b0-75ff-4e93-a9e0-d021cb3ea015" alt="KeyClicker"></p>
+<p><img src="https://github.com/user-attachments/assets/00742c5d-9f19-4dc8-97fa-0323d18569ef" alt="KeyClicker"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/109" target="_blank">#109</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4" length="0" type="image//user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4"/>
+        </item>
+        <item>
+            <title><![CDATA[LibreTV：一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/108.html</link>
+            <guid>108</guid>
+            <pubDate>Wed, 09 Apr 2025 02:50:45 GMT</pubDate>
+            <description><![CDATA[LibreTV是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目采用纯前端技术构建，可轻松部署在各类静态网站托管服务上。 👉 本项目基于 https://github.com/bestK/tv 👉 演示站：https://libretv.is-an.org/ ✨ 主要特性 🔍 多源视频搜索功能，覆盖电影、电视剧等内容]]></description>
+            <content:encoded><![CDATA[<p>LibreTV是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目采用纯前端技术构建，可轻松部署在各类静态网站托管服务上。</p>
+<p><img src="https://github.com/user-attachments/assets/68728ea9-7639-4fd3-a02a-823312e520e2" alt="LibreTV"></p>
+<p><img src="https://github.com/user-attachments/assets/bcc2c59e-8672-41ec-9d3d-e5a6610ec936" alt="LibreTV"></p>
+<p>👉 本项目基于 <a href="https://github.com/bestK/tv">https://github.com/bestK/tv</a><br>
+👉 演示站：<a href="https://libretv.is-an.org/">https://libretv.is-an.org/</a></p>
+<h2>✨ 主要特性</h2>
+<ul>
+<li>🔍 多源视频搜索功能，覆盖电影、电视剧等内容</li>
+<li>📱 响应式设计，完美支持电脑、平板和手机</li>
+<li>🌐 聚合多个视频源，自动提取播放链接</li>
+<li>🔄 支持自定义API接口，灵活扩展</li>
+<li>💾 本地存储搜索历史，提升使用体验</li>
+<li>🚀 纯静态部署，无需后端服务器</li>
+<li>🛡️ 内置广告过滤功能，提供更干净的观影体验</li>
+<li>🎬 自定义视频播放器，支持HLS流媒体格式</li>
+</ul>
+<h2>📹 视频源支持说明</h2>
+<p>LibreTV 默认支持以下几种视频源接口：</p>
+<ul>
+<li>黑木耳影视 (heimuer)</li>
+<li>非凡影视 (ffzy)</li>
+<li>天涯资源 (tyyszy)</li>
+<li>…</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/108" target="_blank">#108</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/68728ea9-7639-4fd3-a02a-823312e520e2" length="0" type="image//user-attachments/assets/68728ea9-7639-4fd3-a02a-823312e520e2"/>
+        </item>
+        <item>
+            <title><![CDATA[DevHub：离线开发者工具应用，支持开发者的日常任务]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/107.html</link>
+            <guid>107</guid>
+            <pubDate>Tue, 08 Apr 2025 02:12:47 GMT</pubDate>
+            <description><![CDATA[DevHub是一个功能丰富的离线应用程序，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。 我正在积极开发中，并树立了一个大胆的目标：每周发布更新。我努力保持紧凑的足迹，旨在策划一个包含100多个小工具的广泛集合，为开发人员提供多样化的工具。这一举措体现了我对持续提升的承诺，提供丰富的工具，以赋能开发人员。DevHub不仅仅是一个编码伴侣； 已完成的工具如下： ■ 文件信息 ■]]></description>
+            <content:encoded><![CDATA[<p>DevHub是一个功能丰富的离线应用程序，经过精心打造，旨在支持开发人员的日常任务，并确保其数据的最高安全性。</p>
+<p><img src="https://github.com/user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9" alt="Image">
+<img src="https://github.com/user-attachments/assets/ca3fe647-d75e-4bb6-8056-9a6b7680fb71" alt="Image">
+<img src="https://github.com/user-attachments/assets/1f70e38c-0766-43ff-a5e8-a7d03d8526e7" alt="Image">
+<img src="https://github.com/user-attachments/assets/75cc8586-aa99-423e-a55e-5152cbf08d98" alt="Image">
+<img src="https://github.com/user-attachments/assets/e6072caa-a581-443e-b60f-04da5a64c86e" alt="Image">
+<img src="https://github.com/user-attachments/assets/d6b92319-4cd1-4516-9e72-88b39899bb01" alt="Image">
+<img src="https://github.com/user-attachments/assets/6df805a6-e75e-4f7b-860d-0ac35a8d249a" alt="Image"></p>
+<p>我正在积极开发中，并树立了一个大胆的目标：每周发布更新。我努力保持紧凑的足迹，旨在策划一个包含100多个小工具的广泛集合，为开发人员提供多样化的工具。这一举措体现了我对持续提升的承诺，提供丰富的工具，以赋能开发人员。DevHub不仅仅是一个编码伴侣；</p>
+<p>已完成的工具如下：</p>
+<p>■ 文件信息<br>
+■ 图片文本识别<br>
+■ 文件名提取助手<br>
+■ SSL 管理<br>
+■ 图片水印<br>
+■ NPM 统计<br>
+■ 文本卡片<br>
+■ 应用图标<br>
+■ 模糊隐私<br>
+■ 图片颜色提取<br>
+■ 突显光标<br>
+■ 背景填充<br>
+■ API 请求<br>
+■ 正则表达式测试<br>
+■ Chmod 计算器<br>
+■ Crontab 生成器<br>
+■ 日期转换器<br>
+■ 设备信息<br>
+■ 密码生成器<br>
+■ 生命倒计时<br>
+■ 温度转换器<br>
+■ 文本转语音<br>
+■ PX/REM 转换器<br>
+■ 条形码生成器<br>
+■ 随机数生成器<br>
+■ 数据大小转换器<br>
+■ QRCode 读取/生成器<br>
+■ WiFi 二维码生成器<br>
+■ 事件二维码生成器<br>
+■ 名片二维码生成器<br>
+■ 随机端口生成器<br>
+■ RSA 密钥生成器<br>
+■ 颜色转换器<br>
+■ 随机颜色<br>
+■ 精密计时器<br>
+■ ASCII 转字符串<br>
+■ 字符串转 ASCII<br>
+■ 哈希生成器<br>
+■ 基本验证生成器<br>
+■ EXIF 查看器<br>
+■ 图片转 Base64<br>
+■ ICO 转换器<br>
+■ HTML 编码/解码<br>
+■ HTML 预览<br>
+■ 字符串浏览器<br>
+■ 文本转 Base64<br>
+■ 文本转Unicode<br>
+■ 文本案例<br>
+■ 文本比对<br>
+■ 字数统计器<br>
+■ 摩尔斯电码<br>
+■ JSON 格式化器<br>
+■ 乱数假文生成器<br>
+■ UUID 生成器<br>
+■ URL解析器<br>
+■ URL 编码/解码</p>
+<p>随着我们持续完善和扩展 DevHub，使其成为全球开发者不可或缺的资源。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/107" target="_blank">#107</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9" length="0" type="image//user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9"/>
+        </item>
+        <item>
+            <title><![CDATA[EcuBus-Pro: 一种用于汽车维修和故障诊断的开源工具，主要用于读取和分析汽车电子控制单元（ECU）的数据]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/106.html</link>
+            <guid>106</guid>
+            <pubDate>Sat, 05 Apr 2025 03:31:58 GMT</pubDate>
+            <description><![CDATA[如果你正在寻找一款功能强大、免费的汽车ECU诊断工具，EcuBus-Pro 无疑是一个值得关注的开源选择。它为汽车电子控制单元（ECU）的开发与测试提供了全面的解决方案，具有许多商业工具所不具备的优势。 主要特点： 🆓 开源免费：EcuBus-Pro完全免费，且开源，意味着你可以随时查看和修改源代码，按需定制功能，适合开发者和研究者使用。 🚀 现代化、直观的用户界面：界面设计简洁易用，即使是初]]></description>
+            <content:encoded><![CDATA[<p>如果你正在寻找一款功能强大、免费的汽车ECU诊断工具，EcuBus-Pro 无疑是一个值得关注的开源选择。它为汽车电子控制单元（ECU）的开发与测试提供了全面的解决方案，具有许多商业工具所不具备的优势。</p>
+<p><img src="https://github.com/user-attachments/assets/5ece19f9-5c9a-4ac3-9b60-bdbc56482f79" alt="Image"></p>
+<h3>主要特点：</h3>
+<ul>
+<li>🆓 开源免费：EcuBus-Pro完全免费，且开源，意味着你可以随时查看和修改源代码，按需定制功能，适合开发者和研究者使用。</li>
+<li>🚀 现代化、直观的用户界面：界面设计简洁易用，即使是初学者也能快速上手，帮助你更高效地进行汽车诊断和开发。</li>
+<li>💻 跨平台支持：支持Windows、Linux和MacOS，确保不同操作系统的用户都能轻松使用。</li>
+<li>🔌 多硬件支持：支持PEAK、KVASER、ZLG、Toomoss等主流硬件，兼容CAN、CAN-FD和LIN协议，能够连接多种车辆诊断接口。</li>
+<li>🛠️ 全面诊断功能：支持CAN/CAN-FD、DoIP、LIN等多种诊断协议，帮助你快速发现和解决车辆中的故障问题。</li>
+<li>📝 脚本化功能：基于TypeScript的高级自动化脚本功能，让你可以自定义诊断流程，提高工作效率。</li>
+<li>🧪 HIL测试框架：提供硬件在环（HIL）测试功能，有助于进行更为复杂的系统测试和验证。</li>
+<li>📊 数据库支持：支持LIN LDF文件的编辑与导出，CAN DBC文件的查看，方便你进行协议配置和数据分析。</li>
+<li>📈 实时数据可视化：支持实时信号图形化显示和分析，让你直观地查看ECU的各项参数和性能指标。</li>
+<li>⌨️ 命令行工具：提供全功能命令行接口，适用于自动化与集成，方便高级用户和开发者进行批量操作和定制化扩展。</li>
+</ul>
+<p>为什么选择EcuBus-Pro？</p>
+<p>EcuBus-Pro作为一款开源工具，不仅能够提供和商业工具相同甚至更强大的功能，而且它的自由定制性和跨平台支持，使得它成为汽车ECU开发、测试和维护的理想选择。无论你是汽车行业的专业人士，还是对汽车诊断有兴趣的开发者，EcuBus-Pro都能为你提供强大的支持。</p>
+<p>赶快试试EcuBus-Pro，体验开源软件带来的无限可能吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/106" target="_blank">#106</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/5ece19f9-5c9a-4ac3-9b60-bdbc56482f79" length="0" type="image//user-attachments/assets/5ece19f9-5c9a-4ac3-9b60-bdbc56482f79"/>
+        </item>
+        <item>
+            <title><![CDATA[FocusCursor: 够清晰地突出显示光标的位置，让光标的移动和点击一目了然]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/105.html</link>
+            <guid>105</guid>
+            <pubDate>Tue, 01 Apr 2025 19:34:00 GMT</pubDate>
+            <description><![CDATA[这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。 📥 下载: https://apps.apple.com/app/FocusCursor/6743495172 💬 反馈: https://github.com/jaywcjlove/focus-cu]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7" alt="Image">
+<img src="https://github.com/user-attachments/assets/5753a2e9-0313-45dc-b3c4-a7b1f9efb0f3" alt="Image">
+<img src="https://github.com/user-attachments/assets/20e598e3-a2b6-4eed-8956-a65ac07176e6" alt="Image"></p>
+<p>这款工具能够清晰地突出显示光标的位置，让光标的移动和点击一目了然。它特别适用于会议、教学或视频教程制作等场合，帮助观众更轻松地跟随你的操作和思路，从而更好地吸引他们的注意力，提升信息的传递效果。</p>
+<p>📥 下载: <a href="https://apps.apple.com/app/FocusCursor/6743495172">https://apps.apple.com/app/FocusCursor/6743495172</a><br>
+💬 反馈: <a href="https://github.com/jaywcjlove/focus-cursor">https://github.com/jaywcjlove/focus-cursor</a></p>
+<h3>主要功能</h3>
+<p>■ 鼠标跟随：显示一个圆圈或圆形跟随光标移动。<br>
+■ 鼠标点击：点击时出现动画效果，突出显示点击动作。<br>
+■ 鼠标遮罩：聚焦光标所在区域，其他区域变暗，增强聚焦效果。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/105" target="_blank">#105</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7" length="0" type="image//user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7"/>
+        </item>
+        <item>
+            <title><![CDATA[Topit: 在 macOS 上将你的任何窗口强制置顶的应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/104.html</link>
+            <guid>104</guid>
+            <pubDate>Sun, 30 Mar 2025 19:38:18 GMT</pubDate>
+            <description><![CDATA[在 macOS 上将你的任何窗口强制置顶的应用，如果你经常在多任务之间切换，或者需要同时处理多个窗口，Topit 是一款非常实用的工具。它可以轻松地将任意应用程序的窗口固定在屏幕的顶部，让你随时保持重要内容的可见性。]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/3c1c1c9d-fc69-4308-8374-203e5486c3df" alt="Image"></p>
+<p>在 macOS 上将你的任何窗口强制置顶的应用，如果你经常在多任务之间切换，或者需要同时处理多个窗口，Topit 是一款非常实用的工具。它可以轻松地将任意应用程序的窗口固定在屏幕的顶部，让你随时保持重要内容的可见性。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/104" target="_blank">#104</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/3c1c1c9d-fc69-4308-8374-203e5486c3df" length="0" type="image//user-attachments/assets/3c1c1c9d-fc69-4308-8374-203e5486c3df"/>
+        </item>
+        <item>
+            <title><![CDATA[Mac Mouse Fix：一款能够提升鼠标体验的应用，让你的 $10 鼠标比 Apple Trackpad 更强大！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/103.html</link>
+            <guid>103</guid>
+            <pubDate>Sun, 30 Mar 2025 05:30:14 GMT</pubDate>
+            <description><![CDATA[Mac Mouse Fix 是一款能够提升鼠标体验的应用，它将你的第三方鼠标转变成与 Apple Trackpad 或 Logitech MX Master 同样精准且舒适的输入设备。即使是普通的鼠标，借助这款应用，也能带来类似 Trackpad 的流畅自然操作感。 功能亮点： 模拟 Trackpad 手势：Mac Mouse Fix 为你的鼠标带来了 Apple Trackpad 的手势功能，例]]></description>
+            <content:encoded><![CDATA[<img width="778" alt="Image" src="https://github.com/user-attachments/assets/a7cc71c7-9a97-4965-8d9a-ff8874fba283">
+<p>Mac Mouse Fix 是一款能够提升鼠标体验的应用，它将你的第三方鼠标转变成与 Apple Trackpad 或 Logitech MX Master 同样精准且舒适的输入设备。即使是普通的鼠标，借助这款应用，也能带来类似 Trackpad 的流畅自然操作感。</p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/025bef97-2518-46a1-8286-11e67c1ae266?title=Bekuto3D&#x26;rehype=video"></video>
+<h3>功能亮点：</h3>
+<ol>
+<li>模拟 Trackpad 手势：Mac Mouse Fix 为你的鼠标带来了 Apple Trackpad 的手势功能，例如三指轻触查词、四指上滑展示所有窗口、左右滑动切换桌面等操作。</li>
+<li>精确的 360° 滚动：通过按住鼠标的按钮并拖动，你可以在任何方向上精确滚动，就像在应用程序中使用 Apple Trackpad 一样流畅。</li>
+<li>智能缩放和前进后退：通过鼠标按钮的组合，你可以轻松缩放页面、在网页和 PDF 中快速前进或后退。</li>
+<li>快速删除邮件和其他功能：你可以通过鼠标按钮快速删除邮件、快速回复 iMessage 等，操作与 Trackpad 上的手势相同。</li>
+</ol>
+<p>如果你想让普通鼠标也能拥有如同 Apple Trackpad 一样的操作体验，Mac Mouse Fix 将是你的不二选择！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/103" target="_blank">#103</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a7cc71c7-9a97-4965-8d9a-ff8874fba283" length="0" type="image//user-attachments/assets/a7cc71c7-9a97-4965-8d9a-ff8874fba283"/>
+        </item>
+        <item>
+            <title><![CDATA[DeepPDF：AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/102.html</link>
+            <guid>102</guid>
+            <pubDate>Sat, 29 Mar 2025 16:48:48 GMT</pubDate>
+            <description><![CDATA[DeepPDF支持PDF翻译、对话、总结。 其中特色是：AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件。 网站地址：https://deeppdf.ai/pdf-translator]]></description>
+            <content:encoded><![CDATA[<p>DeepPDF支持PDF翻译、对话、总结。</p>
+<p>其中特色是：<strong>AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件</strong>。</p>
+<p>网站地址：<a href="https://deeppdf.ai/pdf-translator">https://deeppdf.ai/pdf-translator</a></p>
+<p><img src="https://github.com/user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/102" target="_blank">#102</a> • 
+      <a href="https://github.com/icaohongyuan" target="_blank">@icaohongyuan</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a" length="0" type="image//user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a"/>
+        </item>
+        <item>
+            <title><![CDATA[StreamCap：基于 FFmpeg 和 StreamGet 的多平台直播流自动录制与转码工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/101.html</link>
+            <guid>101</guid>
+            <pubDate>Fri, 28 Mar 2025 08:56:13 GMT</pubDate>
+            <description><![CDATA[StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。 主要功]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/7edc4043-e2fc-48e8-b69b-da23cc4581e9" alt="Image"></p>
+<p>StreamCap 是一款基于 FFmpeg 和 StreamGet 的多平台直播流录制客户端，支持 40 多个国内外主流直播平台。它可以自动监控直播间状态，开播即录，并提供定时监控、批量录制等功能。支持多种输出格式，如 ts、flv、mkv、mp4 等，并能够自动转码为 mp4 格式，方便后续使用。同时，StreamCap 还支持消息推送功能，确保用户能够及时获取开播通知，提升录制体验。</p>
+<h3>主要功能</h3>
+<ol>
+<li>循环监控：实时监控直播间，开播即录。</li>
+<li>定时任务：根据设定时间自动检查直播间状态并录制。</li>
+<li>多种输出格式：支持 ts、flv、mkv、mov、mp4、mp3 等格式。</li>
+<li>自动转码：录制完成后自动转换为 MP4 格式。</li>
+<li>消息推送：提供开播通知，及时提醒用户。</li>
+</ol>
+<p>StreamCap 帮助用户轻松录制并管理直播内容，适用于个人主播和需要批量录制多个平台的用户。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/101" target="_blank">#101</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0" length="0" type="image//user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0"/>
+        </item>
+        <item>
+            <title><![CDATA[KeeWeb: 免费开源的密码管理器，有桌面版和 Web 版，兼容 Keepass 格式]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/100.html</link>
+            <guid>100</guid>
+            <pubDate>Fri, 28 Mar 2025 01:32:36 GMT</pubDate>
+            <description><![CDATA[KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。 💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。 🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。 ☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、G]]></description>
+            <content:encoded><![CDATA[<p>KeeWeb 是一款免费、跨平台的密码管理器，兼容 KeePass 数据库 (kdbx)，可用于管理和存储你的重要账户信息。</p>
+<p><img src="https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/46c9d1ee-7417-43f3-acd2-2ad1d3c8c6cd" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/05fe84ed-0a4c-4867-a63c-25f4d1aad271" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/4e6f5466-aa39-4d92-aded-8ed08a92567e" alt="Image"></p>
+<p>💻 跨平台支持：可在 macOS、Windows、Linux 上运行，支持桌面应用和网页版。
+🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。
+☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、Google Drive、OneDrive 等云服务。</p>
+<p>无论是本地文件还是云端存储，KeeWeb 都能为你提供安全便捷的密码管理方案！ 🚀</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/100" target="_blank">#100</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c" length="0" type="image//user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c"/>
+        </item>
+        <item>
+            <title><![CDATA[NetNewsWire：免费开源的 macOS RSS 阅读器，让阅读更高效！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/99.html</link>
+            <guid>99</guid>
+            <pubDate>Fri, 28 Mar 2025 01:15:55 GMT</pubDate>
+            <description><![CDATA[NetNewsWire 是一款免费且开源的 macOS RSS 阅读器，帮你高效追踪喜爱的博客和新闻网站。无需频繁刷新网页，NetNewsWire 会自动为你获取最新内容，让阅读变得轻松便捷。 如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。 回归纯粹，拒绝干扰，尽享高质]]></description>
+            <content:encoded><![CDATA[<p>NetNewsWire 是一款免费且开源的 macOS RSS 阅读器，帮你高效追踪喜爱的博客和新闻网站。无需频繁刷新网页，NetNewsWire 会自动为你获取最新内容，让阅读变得轻松便捷。</p>
+<p><img src="https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/222b1a72-3846-45ac-9c98-3ff17a2a101a" alt="Image"></p>
+<p>如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。</p>
+<p>回归纯粹，拒绝干扰，尽享高质量阅读体验！
+立即下载，体验这款免费、高效的 macOS 与 iOS 原生应用！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/99" target="_blank">#99</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e" length="0" type="image//user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e"/>
+        </item>
+        <item>
+            <title><![CDATA[Peninsula：开源的 macOS 刘海的窗口管理器和消息中心]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/98.html</link>
+            <guid>98</guid>
+            <pubDate>Fri, 28 Mar 2025 00:46:46 GMT</pubDate>
+            <description><![CDATA[Peninsula 是一款专为 macOS 设计的 刘海工具应用，帮助你更高效地管理 Mac。它集 窗口切换、通知管理、文件存储 于一体，让你的 Dynamic Peninsula（动态刘海）变得更加实用！ 特色功能 ✅ 增强版 Cmd-Tab 应用切换器 替代默认的 Cmd-Tab，提供更顺畅的多任务切换体验 Cmd + Tab：切换到下一个应用 Cmd + Shift + Tab：切换到上一个]]></description>
+            <content:encoded><![CDATA[<p>Peninsula 是一款专为 macOS 设计的 刘海工具应用，帮助你更高效地管理 Mac。它集 窗口切换、通知管理、文件存储 于一体，让你的 Dynamic Peninsula（动态刘海）变得更加实用！</p>
+<h3>特色功能</h3>
+<h4>✅ 增强版 Cmd-Tab 应用切换器</h4>
+<ol>
+<li>替代默认的 Cmd-Tab，提供更顺畅的多任务切换体验</li>
+<li>Cmd + Tab：切换到下一个应用</li>
+<li>Cmd + Shift + Tab：切换到上一个应用</li>
+<li>Cmd + Esc：退出切换器，不做任何操作</li>
+</ol>
+<img width="820" alt="Image" src="https://github.com/user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128">
+<h4>✅ 一键开启 Peninsula 窗口管理</h4>
+<p>点击刘海区域，即可快速调出 Peninsula 界面，再次点击切换不同功能窗口，点击刘海外部即可退出。</p>
+<p>目前提供 5 种 Peninsula 窗口：</p>
+<ol>
+<li>📌 应用切换器：显示当前屏幕所有运行的应用</li>
+<li>🔔 通知中心：管理你关注的通知应用</li>
+<li>📂 文件暂存区：快速存取临时文件</li>
+<li>🔧 菜单：基础操作（如退出 Peninsula）</li>
+<li>⚙️ 设置中心：个性化配置 Peninsula</li>
+</ol>
+<img width="821" alt="Image" src="https://github.com/user-attachments/assets/3f6ad768-88a1-4d91-9012-57efadb9a815">
+<h4>✅ 智能通知管理</h4>
+<ol>
+<li>可自定义添加你最关心的通知应用</li>
+<li>当有通知时，Peninsula 会在 刘海右侧显示图标，点击即可打开</li>
+<li>6.18 秒后，自动变成 未读通知计数，点击数字即可进入通知中心</li>
+</ol>
+<img width="820" alt="Image" src="https://github.com/user-attachments/assets/ab1b23f3-720d-44f8-8d78-26b8e0687344">
+<p>Peninsula 让 macOS 刘海从装饰变为真正的生产力工具！立即体验，让你的 Mac 更加智能高效！ 🚀</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/98" target="_blank">#98</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128" length="0" type="image//user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128"/>
+        </item>
+        <item>
+            <title><![CDATA[BiliMusic: 开源的 macOS 桌面程序，优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/97.html</link>
+            <guid>97</guid>
+            <pubDate>Fri, 28 Mar 2025 00:08:03 GMT</pubDate>
+            <description><![CDATA[一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。 ✨ 特性 🎵 播放收藏夹中的音频 🎨 简洁优雅的界面设计 📱 响应式布局，支持多种屏幕尺寸 🔄 多收藏夹管理与切换 🎯 支持视频播放模式 ⌨️ 媒体快捷键支持 🌙 暗黑模式（开发中） 🤖 AI 驱动的开发流程]]></description>
+            <content:encoded><![CDATA[<p>一个优雅的第三方哔哩哔哩音乐播放器，让你以更好的方式聆听 B 站收藏的音乐。这是一个由 AI 辅助开发的开源项目，展示了人工智能在现代软件开发中的应用。</p>
+<p><img src="https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6" alt="Image"></p>
+<h3>✨ 特性</h3>
+<p>🎵 播放收藏夹中的音频
+🎨 简洁优雅的界面设计
+📱 响应式布局，支持多种屏幕尺寸
+🔄 多收藏夹管理与切换
+🎯 支持视频播放模式
+⌨️ 媒体快捷键支持
+🌙 暗黑模式（开发中）
+🤖 AI 驱动的开发流程</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/97" target="_blank">#97</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6" length="0" type="image//user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6"/>
+        </item>
+        <item>
+            <title><![CDATA[GoMFT：最终的 Web 管理型文件传输 web 应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/96.html</link>
+            <guid>96</guid>
+            <pubDate>Thu, 27 Mar 2025 11:00:44 GMT</pubDate>
+            <description><![CDATA[正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。 借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。 主要特点： 多种云存储支持：无缝连接 Google D]]></description>
+            <content:encoded><![CDATA[<p>正在寻找一个可靠、高效、易于使用的文件传输管理工具，适用于云存储和本地存储之间吗？来试试 GoMFT 吧！这是一款强大的 基于 Go 的 Web 应用程序，专为无缝文件同步和备份而设计。</p>
+<p><img src="https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/c76348d7-de57-4d07-9357-7d3cde0a2869" alt="Image"></p>
+<p>借助 rclone 的广泛云存储支持，GoMFT 让您能够轻松配置、调度和监控文件传输。无论是跨云同步还是自动化本地备份，GoMFT 都能完美满足您的需求。</p>
+<h3>主要特点：</h3>
+<ol>
+<li>多种云存储支持：无缝连接 Google Drive、Amazon S3、NextCloud、WebDAV、FTP、SFTP 等多个存储服务。</li>
+<li>实时通知：通过 Webhooks、电子邮件和多种通知服务（如 Pushbullet、Gotify、Pushover）获取即时更新。</li>
+<li>高级传输调度：使用 Cron 表达式进行灵活的自动化传输。非常适合备份和同步任务。</li>
+<li>实时传输监控：跟踪文件传输的字节数和数量，并提供详细的日志和状态更新。</li>
+<li>元数据跟踪：完整的文件历史记录和详细信息，包括处理时间戳、文件大小和哈希值。</li>
+<li>多线程传输：通过并发文件处理和自动队列管理来提升性能。</li>
+<li>安全性：基于角色的访问控制、多种身份验证选项和安全密码管理。</li>
+</ol>
+<p>无论您是企业用户需要管理文件传输，还是个人用户想要可靠的同步，GoMFT 都能提供出色的性能、灵活性和易用性。</p>
+<p>立即开始 使用 GoMFT！访问 GoMFT 并释放高效文件传输的力量。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/96" target="_blank">#96</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615" length="0" type="image//user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615"/>
+        </item>
+        <item>
+            <title><![CDATA[Bekuto 3D：将您的 SVG 设计转换成令人惊叹的 3D 模型]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/95.html</link>
+            <guid>95</guid>
+            <pubDate>Thu, 27 Mar 2025 10:50:36 GMT</pubDate>
+            <description><![CDATA[使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。 无论您从事 3D 打印 还是 3D 网站开发，Bekuto 3D 都是将您的创意付诸实践的完美工具。从原型设计到互动 3D 资产，可能性无穷无尽！ 主要特点： 轻松将 SVG 文件转换为 3D 模型 支持导出为 STL、OBJ]]></description>
+            <content:encoded><![CDATA[<p>使用 Bekuto 3D，一切变得如此简单！这个强大的转换工具可以帮助您快速将 2D SVG 文件转换为 3D 模型，并以流行的格式导出，如 STL、OBJ 或 GLTF。</p>
+<p><img src="https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7" alt="Image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/66795b54-0670-4ba8-9640-21e645c7fd87?title=Bekuto3D&#x26;rehype=video"></video>
+<p>无论您从事 3D 打印 还是 3D 网站开发，Bekuto 3D 都是将您的创意付诸实践的完美工具。从原型设计到互动 3D 资产，可能性无穷无尽！</p>
+<h3>主要特点：</h3>
+<ol>
+<li>轻松将 SVG 文件转换为 3D 模型</li>
+<li>支持导出为 STL、OBJ 或 GLTF 格式</li>
+<li>适用于 3D 打印 和 3D 网站开发</li>
+</ol>
+<p>准备好体验了吗？访问 <a href="https://bekuto3d.ayaka.io/">bekuto3d.ayaka.io</a> 开始创建吧！🌐</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/95" target="_blank">#95</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7" length="0" type="image//user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7"/>
+        </item>
+        <item>
+            <title><![CDATA[Notion Exporter：可以将 Notion 导出为长图、卡片、富文本等多种格式的浏览器插件，可以分享到小红书、公众号等平台]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/94.html</link>
+            <guid>94</guid>
+            <pubDate>Wed, 26 Mar 2025 09:09:19 GMT</pubDate>
+            <description><![CDATA[🌟 对于需要在多个媒体平台发布内容的用户，Notion Exporter 帮助用户将同一份内容转成多种格式，比如小红书图文、公众号富文本、即刻纯文本等，未来还会支持知乎、推特等等。得益于 Notion 优秀的编辑体验和强大的文档管理，让 Notion 成为用户的自媒体内容创作中心。 🔗 官网：https://notionexporter.com/ 📺 视频：https://www.bilib]]></description>
+            <content:encoded><![CDATA[<p>🌟 对于需要在多个媒体平台发布内容的用户，Notion Exporter 帮助用户将同一份内容转成多种格式，比如小红书图文、公众号富文本、即刻纯文本等，未来还会支持知乎、推特等等。得益于 Notion 优秀的编辑体验和强大的文档管理，让 Notion 成为用户的自媒体内容创作中心。</p>
+<p>🔗 官网：<a href="https://notionexporter.com/">https://notionexporter.com/</a>
+📺  视频：<a href="https://www.bilibili.com/video/BV1teXGYXEqR/?vd_source=6e7e6d6b3fcba82e73e370771f853af0">https://www.bilibili.com/video/BV1teXGYXEqR/?vd_source=6e7e6d6b3fcba82e73e370771f853af0</a></p>
+<p><img src="https://github.com/user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250" alt="Image"></p>
+<p>💪 Notion Exporter 支持了大部分 Notion 基础组件，包括表格、代码等，后续也会支持更多。也支持所有文字颜色，包括下划线、删除线、高亮等。</p>
+<p><img src="https://github.com/user-attachments/assets/f19701d8-4ce3-4f96-87d8-48b168df1a37" alt="Image"></p>
+<p>💯 为了满足用户的个性化需求，Notion Exporter 针对每一种格式都开发了一套强大的模板定制系统，模板样式、颜色、字体、布局、各种组件样式等等都可以进行自定义。</p>
+<p><img src="https://github.com/user-attachments/assets/a1e703f3-15d6-49df-8696-f66660a6a0e0" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/94" target="_blank">#94</a> • 
+      <a href="https://github.com/Shanshi66" target="_blank">@Shanshi66</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250" length="0" type="image//user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250"/>
+        </item>
+        <item>
+            <title><![CDATA[WiseMindAI：必备 AI 本地知识库，支持10+大语言模型，数据完全本地化，文档总结、对话、笔记、海报生成等]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/93.html</link>
+            <guid>93</guid>
+            <pubDate>Tue, 25 Mar 2025 23:42:17 GMT</pubDate>
+            <description><![CDATA[🌟 WiseMindAI 是一款融合了 AI 功能的本地知识库产品。创建知识库并总结📑、与知识库对话💬、生成知识卡片📏，全都能轻松搞定！ 🌹 如果你使用过 ima、Cherry Studio，应该会喜欢 WiseMindAI，它就像是 ima + Cherry Studio 的本地化升级版，功能更强大，使用也更安心～ 💯 WiseMindAI 最让人放心的，就是数据保存在本地。不管是断]]></description>
+            <content:encoded><![CDATA[<p>🌟 WiseMindAI 是一款融合了 AI 功能的本地知识库产品。创建知识库并总结📑、与知识库对话💬、生成知识卡片📏，全都能轻松搞定！</p>
+<p>🌹 如果你使用过 ima、Cherry Studio，应该会喜欢 WiseMindAI，它就像是 ima + Cherry Studio 的本地化升级版，功能更强大，使用也更安心～</p>
+<p>💯 WiseMindAI 最让人放心的，就是数据保存在本地。不管是断网，还是应用停运，你的数据都绝对安全😎！再也不用因为数据丢失而感到糟心了～</p>
+<p>🔗 官方网址：<a href="https://wisemind-ai.com/">https://wisemind-ai.com/</a>
+📺 视频介绍：<a href="https://space.bilibili.com/174378454/lists/5062350">https://space.bilibili.com/174378454/lists/5062350</a></p>
+<p>👉 我还写了一篇文章带你快速掌握 WiseMindAI！<a href="https://mp.weixin.qq.com/s/FmvGxFPKNjhAwD7M2OTaHw">https://mp.weixin.qq.com/s/FmvGxFPKNjhAwD7M2OTaHw</a></p>
+<p><img src="https://github.com/user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/cd8e6b00-aa66-4d2c-a4fb-ca7c7c60da0d" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/2d0b8840-44d0-4d98-971a-1ed62542ea9b" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/2deae7e7-c9c6-4852-8bb5-a3169a467c07" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/93" target="_blank">#93</a> • 
+      <a href="https://github.com/pingan8787" target="_blank">@pingan8787</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e" length="0" type="image//user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e"/>
+        </item>
+        <item>
+            <title><![CDATA[Drawnix：一款简洁、开源的在线白板工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/92.html</link>
+            <guid>92</guid>
+            <pubDate>Tue, 25 Mar 2025 07:01:48 GMT</pubDate>
+            <description><![CDATA[在线白板工具 Drawnix —— 名字源于绘画(Draw)与凤凰(Phoenix)的灵感交织。 Drawnix 的定位是一个开箱即用、开源、免费的在线白板工具产品， 集思维导图、流程图、画笔于一体，目前它刚启动几个月，还在持续迭代基础功能，大家有做流程图、思维导图的需求时不妨试一试，有任何的缺陷或者基础交互问题我都会及时跟进处理。 👉 体验地址：https://drawnix.com/ 👉 ]]></description>
+            <content:encoded><![CDATA[<p>在线白板工具 Drawnix —— 名字源于绘画(Draw)与凤凰(Phoenix)的灵感交织。</p>
+<p><img src="https://github.com/user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f" alt="Image"></p>
+<p>Drawnix 的定位是一个开箱即用、开源、免费的在线白板工具产品， 集思维导图、流程图、画笔于一体，目前它刚启动几个月，还在持续迭代基础功能，大家有做流程图、思维导图的需求时不妨试一试，有任何的缺陷或者基础交互问题我都会及时跟进处理。</p>
+<p>👉 体验地址：<a href="https://drawnix.com/">https://drawnix.com/</a>
+👉 开源仓库：<a href="https://github.com/plait-board/drawnix">https://github.com/plait-board/drawnix</a></p>
+<h3>特性</h3>
+<ul>
+<li>💯 免费 + 开源</li>
+<li>⚒️ 思维导图、流程图</li>
+<li>🖌 画笔（新增 🔥🔥🔥）</li>
+<li>😀 插入 Iconfont 表情（🚧 支持中...）</li>
+<li>🚀 基于插件机制 - 可灵活扩展</li>
+<li>🖼️ 📃 导出为 PNG, JPG, JSON</li>
+<li>💾 自动保存（浏览器缓存）</li>
+<li>⚡ 编辑特性：撤销、重做、复制、粘贴等</li>
+<li>🌌 无限画布：缩放、滚动、</li>
+<li>🎨 主题模式</li>
+<li>📱 移动设备适配</li>
+<li>🎨 支持 mermaid 图标</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/92" target="_blank">#92</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f" length="0" type="image//user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f"/>
+        </item>
+        <item>
+            <title><![CDATA[QuickRecorder: 多功能、轻量化、高性能的 macOS 屏幕录制工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/91.html</link>
+            <guid>91</guid>
+            <pubDate>Tue, 25 Mar 2025 06:56:45 GMT</pubDate>
+            <description><![CDATA[QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。 这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5" alt="Image"></p>
+<p>QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。</p>
+<p>这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄像头画面。对于低版本的 macOS 用户，也可以使用悬浮窗模式实现类似效果。此外，QuickRecorder 还支持 HEVC with Alpha 特性，允许在输出文件中包含 Alpha 通道，兼容 iMovie 与 FCPX，极大增强了后期处理的灵活性。</p>
+<p>无论是专业录制还是简单的日常需求，QuickRecorder 都是你值得拥有的最佳选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/91" target="_blank">#91</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5" length="0" type="image//user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5"/>
+        </item>
+        <item>
+            <title><![CDATA[MD2Card：将 Markdown 文档转换为精美的知识卡片，支持多种风格的免费 web 应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/90.html</link>
+            <guid>90</guid>
+            <pubDate>Sat, 22 Mar 2025 02:11:21 GMT</pubDate>
+            <description><![CDATA[MD2Card 是一款简单易用的 Markdown 转知识卡片工具，旨在帮助用户轻松创建精美的知识卡片。它支持多种主题风格，包括温暖柔和、简约高级灰、梦幻渐变、清新自然等多种设计，适用于各种创作需求。无论你是在做学习笔记、整理知识，还是进行内容分享，MD2Card 都能帮助你高效完成。 该应用支持完整的 Markdown 语法，包括标题、列表、代码块和表格等，用户可以快速将 Markdown 文档]]></description>
+            <content:encoded><![CDATA[<img width="1379" alt="Image" src="https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08">
+<p>MD2Card 是一款简单易用的 Markdown 转知识卡片工具，旨在帮助用户轻松创建精美的知识卡片。它支持多种主题风格，包括温暖柔和、简约高级灰、梦幻渐变、清新自然等多种设计，适用于各种创作需求。无论你是在做学习笔记、整理知识，还是进行内容分享，MD2Card 都能帮助你高效完成。</p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/9e27de60-16a6-4da5-a5f0-9cc720bea6d3?title=MD2Card&#x26;rehype=video"></video>
+<p>该应用支持完整的 Markdown 语法，包括标题、列表、代码块和表格等，用户可以快速将 Markdown 文档转化为精美的卡片，同时享受实时预览和自动分页功能。它还具备响应式设计和暗色模式，带来更加舒适的使用体验。此外，MD2Card 还支持一键导出为图片，方便你与他人分享或保存。</p>
+<img width="1255" alt="Image" src="https://github.com/user-attachments/assets/711b4c3e-3832-4f31-a076-925d3300409c">
+<p>MD2Card 完全免费，支持一键开始创作，提供了多达 15 种风格，满足不同用户的创作需求。立即体验，轻松高效地创作你的知识卡片！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/90" target="_blank">#90</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08" length="0" type="image//user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08"/>
+        </item>
+        <item>
+            <title><![CDATA[Videoer v1 发布：强大的视频格式批量转换工具，支持音频批量提取和字幕添加提取]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/89.html</link>
+            <guid>89</guid>
+            <pubDate>Tue, 18 Mar 2025 15:15:24 GMT</pubDate>
+            <description><![CDATA[Videoer 是一款功能强大的视频格式转换工具，支持 MP4、MKV、M4V、MOV、WEBM、AVI、GIF 等格式之间的相互转换。无论是单个文件转换还是批量处理，都能轻松完成。同时，Videoer 还提供音频提取、字幕管理等多种实用功能，让你的视频处理更加高效便捷。 📥 下载：https://apps.apple.com/app/videoer/6742680573 💬 反馈：https]]></description>
+            <content:encoded><![CDATA[<p>Videoer 是一款功能强大的视频格式转换工具，支持 MP4、MKV、M4V、MOV、WEBM、AVI、GIF 等格式之间的相互转换。无论是单个文件转换还是批量处理，都能轻松完成。同时，Videoer 还提供音频提取、字幕管理等多种实用功能，让你的视频处理更加高效便捷。</p>
+<p>📥 下载：<a href="https://apps.apple.com/app/videoer/6742680573">https://apps.apple.com/app/videoer/6742680573</a><br>
+💬 反馈：<a href="https://github.com/jaywcjlove/videoer">https://github.com/jaywcjlove/videoer</a></p>
+<p><img src="https://github.com/user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/eb5e1375-e2ca-42c9-9173-6f2d01e3412e" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/bc84f11c-d17e-410f-8bc7-29f3ae334836" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/c3e6700b-edaa-4fbc-ad06-9884c52832be" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/ca2567c7-1c5b-42e7-9123-84c220cf4333" alt=""></p>
+<h3>◈ 主要功能 ◈</h3>
+<p>■ 转换视频 - 轻松转换各种主流视频格式，如 MP4、MKV、M4V、MOV、WEBM、AVI、GIF。
+■ 提取音频 - 从视频中提取音频，并导出为 mp3, aac, wav, flac, alac, ogg, opus, ac3, eac3, dts, truehd 等格式。
+■ 导出字幕 - 解析并提取视频内嵌或外挂的字幕文件（如 SRT、ASS、VTT）。
+■ 添加字幕 - 在视频中嵌入字幕，支持多种字幕格式，增强观看体验。
+■ 批量转换视频 - 支持多个视频文件同时转换，提升处理效率。
+■ 转换大于 1G 的视频 - 轻松处理大文件，保证转换质量。
+■ 批量提取音频 - 批量从多个视频中提取音频，适用于音频剪辑或归档。</p>
+<p>无论是视频剪辑爱好者、内容创作者，还是需要频繁处理视频文件的专业用户，Videoer 都能满足你的需求，让视频转换变得更加简单高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/89" target="_blank">#89</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c" length="0" type="image//user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c"/>
+        </item>
+        <item>
+            <title><![CDATA[Docs：一个开源的协作笔记、维基和文档平台，Notion 或 Outline 的开源替代方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/88.html</link>
+            <guid>88</guid>
+            <pubDate>Mon, 17 Mar 2025 16:29:07 GMT</pubDate>
+            <description><![CDATA[Docs 是一个开源的协作笔记、维基和文档平台，旨在提供可扩展的团队协作体验。它采用 Django 和 React 构建，是 Notion 或 Outline 的开源替代方案。 ￼ 主要特点： 协作写作： Docs 提供简单的协作编辑功能，避免了 Markdown 格式的复杂性，帮助团队专注于内容创作。 离线支持： 即使在离线状态下，您也可以继续编辑，待网络恢复后，您的修改将自动同步。 简洁美观：]]></description>
+            <content:encoded><![CDATA[<p>Docs 是一个开源的协作笔记、维基和文档平台，旨在提供可扩展的团队协作体验。它采用 Django 和 React 构建，是 Notion 或 Outline 的开源替代方案。  ￼</p>
+<p><img src="https://github.com/user-attachments/assets/b7c07694-0c95-4fce-9e17-09cfe2a984fd" alt="Image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/3b4b76f5-487f-4996-bb8c-0f4b2b47cc3a?title=Docs&#x26;rehype=video"></video>
+<h3>主要特点：</h3>
+<ul>
+<li>协作写作： Docs 提供简单的协作编辑功能，避免了 Markdown 格式的复杂性，帮助团队专注于内容创作。</li>
+<li>离线支持： 即使在离线状态下，您也可以继续编辑，待网络恢复后，您的修改将自动同步。</li>
+<li>简洁美观： 创建干净整洁的文档，提供有限但精美的格式选项，确保内容清晰易读。</li>
+<li>高效生产力： 内置多种块类型、斜杠命令和键盘快捷键，提升编辑效率。</li>
+<li>人工智能功能： 利用 AI 功能生成内容、摘要、校正和翻译，节省您的宝贵时间。</li>
+<li>实时协作： 团队成员可以实时共同编辑，确保信息同步。</li>
+<li>访问控制： 提供细粒度的访问控制，确保信息安全，仅与授权人员共享。</li>
+<li>专业导出： 支持多种格式（如 .odt、.doc、.pdf）的专业文档导出，并提供可定制的模板。</li>
+<li>内置维基功能： 将团队的协作成果转化为组织化的知识库，方便日后查阅。</li>
+</ul>
+<p>Docs 是由法国数字事务管理局（DINUM）和德国 ZenDiS 政府部门共同开发的，致力于为团队提供高效、安全的协作平台。  ￼</p>
+<p>欲了解更多信息或参与贡献，请访问 Docs 的 GitHub 仓库：  ￼</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/88" target="_blank">#88</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b7c07694-0c95-4fce-9e17-09cfe2a984fd" length="0" type="image//user-attachments/assets/b7c07694-0c95-4fce-9e17-09cfe2a984fd"/>
+        </item>
+        <item>
+            <title><![CDATA[Folder：开源 Google Drive 替代自托管数字资产管理解决方案，帮助用户存储、组织和共享文件与文件夹。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/87.html</link>
+            <guid>87</guid>
+            <pubDate>Mon, 17 Mar 2025 16:14:53 GMT</pubDate>
+            <description><![CDATA[Folder 是一款开源的无服务器数字资产管理（DAM）软件，旨在帮助用户存储、组织和共享文件与文件夹。 主要特点： Google Drive 替代方案：Folder 允许用户存储文件、管理资产，并通过内容分发网络（CDN）进行分发。 适用于 AI 和现代工作流程：Folder 为 AI 和现代工作流程提供优化，支持大规模文件处理和高效访问。 自托管：用户可以将 Folder 部署在自己的服务器上]]></description>
+            <content:encoded><![CDATA[<p>Folder 是一款开源的无服务器数字资产管理（DAM）软件，旨在帮助用户存储、组织和共享文件与文件夹。</p>
+<p><img src="https://github.com/user-attachments/assets/1ac4b7c7-9271-4b3d-baaa-5d7639d93a67" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/0f09d464-f3fb-4a34-9810-a6d4fe664795" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/cd07316d-bb87-4315-bae6-c2e44243051c" alt="Image"></p>
+<h3>主要特点：</h3>
+<ul>
+<li>Google Drive 替代方案：Folder 允许用户存储文件、管理资产，并通过内容分发网络（CDN）进行分发。</li>
+<li>适用于 AI 和现代工作流程：Folder 为 AI 和现代工作流程提供优化，支持大规模文件处理和高效访问。</li>
+<li>自托管：用户可以将 Folder 部署在自己的服务器上，完全掌控数据，确保隐私和安全。</li>
+<li>静态网站发布：Folder 支持将文件夹发布为静态网站，方便分享和展示内容。</li>
+</ul>
+<p>如果您正在寻找一个灵活、安全且功能强大的文件管理解决方案，Folder 无疑是一个值得考虑的选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/87" target="_blank">#87</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/1ac4b7c7-9271-4b3d-baaa-5d7639d93a67" length="0" type="image//user-attachments/assets/1ac4b7c7-9271-4b3d-baaa-5d7639d93a67"/>
+        </item>
+        <item>
+            <title><![CDATA[RightMenu Master v1.17.0 发布！强化你的 Finder 右键菜单！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/86.html</link>
+            <guid>86</guid>
+            <pubDate>Mon, 17 Mar 2025 14:16:18 GMT</pubDate>
+            <description><![CDATA[一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。 📥 下载：https://apps.apple.com/app/rightmenu-master/6737160756 💬 反馈：https://github.com/jaywcjlove/rightmenu-master 本次更新 ✨ ]]></description>
+            <content:encoded><![CDATA[<p>一款强大的 Finder 右键菜单增强工具，专为提升 Mac 用户的操作效率而设计。它不仅扩展了右键菜单的功能，还提供了菜单栏收藏导航，让文件管理更加便捷。</p>
+<p><img src="https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467" alt=""></p>
+<p>📥 下载：<a href="https://apps.apple.com/app/rightmenu-master/6737160756">https://apps.apple.com/app/rightmenu-master/6737160756</a>
+💬 反馈：<a href="https://github.com/jaywcjlove/rightmenu-master">https://github.com/jaywcjlove/rightmenu-master</a></p>
+<h3>本次更新</h3>
+<p>✨ 新增菜单栏文件展示 &#x26; 文件夹图标<br>
+🐞 菜单栏授权优化 &#x26; 国际化问题</p>
+<p><img src="https://github.com/user-attachments/assets/b1e35bfb-60f8-4525-8c8b-27ae1183a813" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/86" target="_blank">#86</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467" length="0" type="image//user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467"/>
+        </item>
+        <item>
+            <title><![CDATA[electerm：一款强大的开源跨平台终端工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/85.html</link>
+            <guid>85</guid>
+            <pubDate>Mon, 17 Mar 2025 13:31:43 GMT</pubDate>
+            <description><![CDATA[如果你需要一个功能强大的终端客户端来处理各种远程连接任务，electerm 是一个值得推荐的工具。它支持 SSH、Telnet、串口、RDP、VNC 和 SFTP，适用于 Linux、macOS 和 Windows 等多个平台。无论你是开发者、系统管理员，还是对远程管理有需求的用户，electerm 都能提供便捷的终端连接体验。 最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web ]]></description>
+            <content:encoded><![CDATA[<p>如果你需要一个功能强大的终端客户端来处理各种远程连接任务，electerm 是一个值得推荐的工具。它支持 SSH、Telnet、串口、RDP、VNC 和 SFTP，适用于 Linux、macOS 和 Windows 等多个平台。无论你是开发者、系统管理员，还是对远程管理有需求的用户，electerm 都能提供便捷的终端连接体验。</p>
+<p><img src="https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c" alt="Image"></p>
+<p>最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web 版（electerm-web），可以直接在浏览器中运行，包括移动设备的支持，方便用户随时随地进行远程管理。此外，Docker 镜像 版本让你可以轻松部署它到服务器或容器环境中，极大地提高了灵活性。</p>
+<p>作为开源项目，electerm 让开发者能够根据自己的需求进行定制，同时享受社区提供的持续更新和改进。如果你正在寻找一款跨平台、多功能且易于使用的终端工具，electerm 无疑是一个理想的选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/85" target="_blank">#85</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c" length="0" type="image//user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c"/>
+        </item>
+        <item>
+            <title><![CDATA[Apple AI - 你的 macOS 菜单栏智能助手]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/84.html</link>
+            <guid>84</guid>
+            <pubDate>Thu, 13 Mar 2025 13:28:22 GMT</pubDate>
+            <description><![CDATA[Apple AI 是一款原生 macOS 菜单栏应用，集成了 ChatGPT、Claude、GitHub Copilot、Perplexity、DeepSeek、Grok 等顶级 AI 助手，为你提供便捷、高效的智能体验。 主要特性： 🚀 一键访问 - 菜单栏快捷调用所有 AI 助手 ⚡ 原生性能 - 运行流畅，占用资源少 🧠 持久会话 - 重启应用仍可保持上下文 🎨 个性化主题 - 支持深]]></description>
+            <content:encoded><![CDATA[<p>Apple AI 是一款原生 macOS 菜单栏应用，集成了 ChatGPT、Claude、GitHub Copilot、Perplexity、DeepSeek、Grok 等顶级 AI 助手，为你提供便捷、高效的智能体验。</p>
+<p><img src="https://github.com/user-attachments/assets/18536764-0893-434a-a1f0-b0355b70ec64" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/87800e99-5ff0-43db-b5da-ab664a2669ec" alt="Image"></p>
+<h3>主要特性：</h3>
+<p>🚀 一键访问 - 菜单栏快捷调用所有 AI 助手
+⚡ 原生性能 - 运行流畅，占用资源少
+🧠 持久会话 - 重启应用仍可保持上下文
+🎨 个性化主题 - 支持深色/浅色模式及自定义配色
+🔍 智能历史 - 快速搜索并回顾对话记录
+🔒 隐私优先 - 所有数据默认本地存储</p>
+<p>简洁高效，让 AI 更贴近你的 macOS 体验！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/84" target="_blank">#84</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/18536764-0893-434a-a1f0-b0355b70ec64" length="0" type="image//user-attachments/assets/18536764-0893-434a-a1f0-b0355b70ec64"/>
+        </item>
+        <item>
+            <title><![CDATA[Yaak：开源桌面 API 客户端，支持 macOS/Linux/Windows]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/83.html</link>
+            <guid>83</guid>
+            <pubDate>Fri, 07 Mar 2025 02:21:31 GMT</pubDate>
+            <description><![CDATA[Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提供了现代化的开发体验和强大的功能。 功能亮点： 🪂 从 Postman、Insomnia、OpenAPI、Swagger 或 Curl 导入数据。 📤 支持]]></description>
+            <content:encoded><![CDATA[<p>Yaak 是一款开源的桌面 API 客户端，支持与 REST、GraphQL、Server Sent Events (SSE)、WebSocket 和 gRPC APIs 进行交互。它使用 Tauri、Rust 和 ReactJS 构建，提供了现代化的开发体验和强大的功能。</p>
+<p><img src="https://github.com/user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948" alt=""></p>
+<p>功能亮点：</p>
+<ul>
+<li>🪂 从 Postman、Insomnia、OpenAPI、Swagger 或 Curl 导入数据。</li>
+<li>📤 支持通过 REST、GraphQL、SSE、WebSocket 或 gRPC 发送请求。</li>
+<li>🔐 自动使用 OAuth 2.0、JWT 令牌、基本认证等方式授权请求。</li>
+<li>🔎 使用 JSONPath 或 XPath 查询过滤响应体。</li>
+<li>⛓️ 链接多个请求，动态引用值。</li>
+<li>📂 将请求组织到工作区和嵌套文件夹中。</li>
+<li>🧮 使用环境变量轻松切换生产和开发环境。</li>
+<li>🏷️ 使用模板标签发送动态值，如 UUID 或时间戳。</li>
+<li>🎨 从多种内置主题中选择，或创建自己的主题。</li>
+<li>💽 将工作区数据镜像到目录，便于与 Git 或 Dropbox 集成。</li>
+<li>📜 查看每个请求的响应历史。</li>
+<li>🔌 创建自定义插件，用于认证、模板标签等功能。</li>
+<li>🛜 配置代理以访问防火墙屏蔽的 API。</li>
+</ul>
+<p>Yaak 为开发者提供了灵活高效的 API 测试和管理工具，旨在提高开发过程中的生产力。作为开源项目，Yaak 欢迎社区的参与和贡献，帮助其不断完善和拓展功能。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/83" target="_blank">#83</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948" length="0" type="image//user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948"/>
+        </item>
+        <item>
+            <title><![CDATA[Tempo：支持 AI 的简洁高效 macOS GUI  Git 客户端（开源）]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/82.html</link>
+            <guid>82</guid>
+            <pubDate>Fri, 07 Mar 2025 01:20:11 GMT</pubDate>
+            <description><![CDATA[Tempo 是一款 macOS 应用，旨在简化 Git 操作，提供直观的图形用户界面。它使用 SwiftUI 和 AppKit 开发，替代了基于命令行的 Git 操作，为 macOS 用户提供了一个清晰易用的界面。你无需再输入繁琐的命令，轻松点击按钮就能高效地管理 Git 任务，专注于编码。 此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API ]]></description>
+            <content:encoded><![CDATA[<p>Tempo 是一款 macOS 应用，旨在简化 Git 操作，提供直观的图形用户界面。它使用 SwiftUI 和 AppKit 开发，替代了基于命令行的 Git 操作，为 macOS 用户提供了一个清晰易用的界面。你无需再输入繁琐的命令，轻松点击按钮就能高效地管理 Git 任务，专注于编码。</p>
+<p><img src="https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/15da3eee-0467-4580-adfe-b13e1663ae7a" alt="Image"></p>
+<p>此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API 执行按块（hunk）提交。由于该应用使用了 GPT-4o-mini，它的费用相对较低，让你在使用时无需过多担心成本（API 费用为每百万输入 token 15 美分，每百万输出 token 60 美分）。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/82" target="_blank">#82</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870" length="0" type="image//user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870"/>
+        </item>
+        <item>
+            <title><![CDATA[Cog：一款开源音频播放器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/81.html</link>
+            <guid>81</guid>
+            <pubDate>Thu, 06 Mar 2025 02:16:40 GMT</pubDate>
+            <description><![CDATA[Cog 是一款由 Vincent Spader 开发的开源音频播放器，遵循 GPL 协议，致力于提供高质量的音频播放体验。如果你正在寻找一款简洁、功能强大的音频播放器，Cog 可能正是你需要的工具。 为什么选择 Cog？ 开源且免费：Cog 完全免费，且是开源的，用户可以根据需要修改代码，甚至贡献自己的改进。 支持多种音频格式：Cog 支持多种音频格式，特别适合音频爱好者和专业人士使用。 简洁直观]]></description>
+            <content:encoded><![CDATA[<p>Cog 是一款由 Vincent Spader 开发的开源音频播放器，遵循 GPL 协议，致力于提供高质量的音频播放体验。如果你正在寻找一款简洁、功能强大的音频播放器，Cog 可能正是你需要的工具。</p>
+<img width="643" alt="Image" src="https://github.com/user-attachments/assets/3cf77884-88e8-4eeb-970f-853048d0b251">
+<h3>为什么选择 Cog？</h3>
+<ol>
+<li>开源且免费：Cog 完全免费，且是开源的，用户可以根据需要修改代码，甚至贡献自己的改进。</li>
+<li>支持多种音频格式：Cog 支持多种音频格式，特别适合音频爱好者和专业人士使用。</li>
+<li>简洁直观的界面：Cog 提供了一个简单而直观的界面，用户可以专注于音乐本身，而不被复杂的设置所困扰。</li>
+<li>强大的扩展性：Cog 的库文件包含了多个解码和标签处理库，这些库都可以在 Xcode 中编译运行，扩展性和兼容性非常好。</li>
+</ol>
+<h3>结语</h3>
+<p>如果你热爱音乐并且希望尝试一款简洁而功能强大的音频播放器，Cog 是一个值得尝试的好选择。它的开源精神和不断更新的功能使其成为一款非常适合长期使用的工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/81" target="_blank">#81</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/3cf77884-88e8-4eeb-970f-853048d0b251" length="0" type="image//user-attachments/assets/3cf77884-88e8-4eeb-970f-853048d0b251"/>
+        </item>
+        <item>
+            <title><![CDATA[Reqable： 新一代 API 开发调试工具 🚀]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/80.html</link>
+            <guid>80</guid>
+            <pubDate>Wed, 05 Mar 2025 02:00:36 GMT</pubDate>
+            <description><![CDATA[一站式代理调试 + API 请求测试解决方案，Reqable = Fiddler + Charles + Postman，让 API 调试更快、更简单！ 创建 API 请求测试 无论是流量列表、API 集合还是 cURL，Reqable 都能快速生成 API 请求。支持完整的 REST API 测试功能，包括： 编辑请求参数 - 轻松调整请求 URL、Query 参数、路径参数等。 请求头与授权 ]]></description>
+            <content:encoded><![CDATA[<p>一站式代理调试 + API 请求测试解决方案，Reqable = Fiddler + Charles + Postman，让 API 调试更快、更简单！</p>
+<p><img src="https://github.com/user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/8d3798a4-dac7-4221-9111-d83277a890de" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/a538fbbc-3a00-4774-a6d7-bde15a8ccd73" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/b02fcc8c-5d56-4bd6-aa95-7cc00026b56a" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/f3a4a454-cd75-45ed-bf1a-6d1daf2e065f" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/2531dc70-ba42-49b5-a57a-9299ea6cda59" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/b1d2fff3-b03b-4f51-a138-df30fbdb4584" alt="Image"></p>
+<h3>创建 API 请求测试</h3>
+<p>无论是流量列表、API 集合还是 cURL，Reqable 都能快速生成 API 请求。支持完整的 REST API 测试功能，包括：</p>
+<ul>
+<li>编辑请求参数 - 轻松调整请求 URL、Query 参数、路径参数等。</li>
+<li>请求头与授权 - 支持多种认证方式，满足不同 API 需求。</li>
+<li>请求体编辑 - 支持 JSON、FormData、XML、纯文本等多种格式，模拟各种请求场景。</li>
+</ul>
+<h3>请求响应对比</h3>
+<p>通过内置的 可视化比对工具，快速分析不同请求和响应之间的差异，帮助开发者精准定位 API 变化及问题。</p>
+<h3>重写、断点与脚本</h3>
+<p>提供 自定义重写、断点调试 和 Python 脚本 支持，满足各种复杂测试需求：</p>
+<ul>
+<li>拦截请求或响应 - 设定条件精准捕获 API 调用。</li>
+<li>修改或模拟数据 - 在不修改后端代码的情况下，测试不同 API 结果。</li>
+<li>动态调试 API - 通过 Python 脚本实时修改流量，满足高级测试需求。</li>
+</ul>
+<h3>既要好用，也要好看</h3>
+<p>Reqable 提供极简的 UI 设计，支持：</p>
+<ul>
+<li>深色 &#x26; 浅色主题 - 适应不同使用场景，护眼更舒适。</li>
+<li>11 种强调色 - 个性化界面，适配你的工作风格。</li>
+<li>15 种代码配色 - 让代码阅读更清晰，开发更高效。</li>
+</ul>
+<h3>桌面端 + 移动端协同</h3>
+<p>无需手动配置 WiFi 代理，手机流量可自动转发到桌面端进行分析，帮助你：</p>
+<ul>
+<li>高效调试移动端 API - 解决移动端 API 调试痛点，提高终端开发效率。</li>
+<li>实时抓包分析 - 即时查看并处理请求，无需额外工具。</li>
+</ul>
+<p>Reqable，集成 API 调试、代理抓包、请求测试于一体，助你高效开发，极速调试！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/80" target="_blank">#80</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1" length="0" type="image//user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1"/>
+        </item>
+        <item>
+            <title><![CDATA[MacMusicPlayer 一款优雅简洁的 macOS 菜单栏音乐播放器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/79.html</link>
+            <guid>79</guid>
+            <pubDate>Mon, 03 Mar 2025 06:41:15 GMT</pubDate>
+            <description><![CDATA[MacMusicPlayer 是一款优雅简洁的 macOS 音乐播放器，以菜单栏应用的形式为您提供流畅的音乐播放体验。它采用 SwiftUI 构建，完美融入 macOS 生态系统，为您带来极致的用户体验。 ✨ 核心特性 🎵 轻量级菜单栏播放器，随时掌控音乐播放 🎨 原生 macOS 风格界面，完美支持明暗主题 🌍 多语言支持（简体中文、繁体中文、英语、日语、韩语） 🎧 支持 MP3 音频格]]></description>
+            <content:encoded><![CDATA[<p>MacMusicPlayer 是一款优雅简洁的 macOS 音乐播放器，以菜单栏应用的形式为您提供流畅的音乐播放体验。它采用 SwiftUI 构建，完美融入 macOS 生态系统，为您带来极致的用户体验。</p>
+<p><img src="https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d" alt="Image"></p>
+<h2>✨ 核心特性</h2>
+<ul>
+<li>🎵 轻量级菜单栏播放器，随时掌控音乐播放</li>
+<li>🎨 原生 macOS 风格界面，完美支持明暗主题</li>
+<li>🌍 多语言支持（简体中文、繁体中文、英语、日语、韩语）</li>
+<li>🎧 支持 MP3 音频格式播放</li>
+<li>🔄 多种播放模式（顺序播放、单曲循环、随机播放）</li>
+<li>💾 智能记忆上次音乐文件夹位置</li>
+<li>🚀 支持开机自启动</li>
+<li>😴 防止系统休眠功能，确保音乐不间断</li>
+<li>⌨️ 支持媒体键控制（播放/暂停/上一曲/下一曲）</li>
+</ul>
+<h2>📦 安装 (Homebrew)</h2>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap samzong/tap
+</span><span class="code-line line-number" line="2">brew <span class="token function">install</span> samzong/tap/mac-music-player
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/79" target="_blank">#79</a> • 
+      <a href="https://github.com/samzong" target="_blank">@samzong</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d" length="0" type="image//user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d"/>
+        </item>
+        <item>
+            <title><![CDATA[Zen Browser：让你的浏览更纯净、更安心的 ～ 浏览器！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/78.html</link>
+            <guid>78</guid>
+            <pubDate>Mon, 03 Mar 2025 03:51:16 GMT</pubDate>
+            <description><![CDATA[🌿 Zen Browser 是一款专注于隐私保护的浏览器，它能够有效屏蔽跟踪器、广告及其他不必要的内容，让你享受安静、纯粹的上网体验。 🚀 作为一款隐私至上的浏览器，Zen 不仅能保护你的数据安全，还能提升网页加载速度，让浏览更加流畅。它支持从 Crowdin Zen Release 下载最新版本，让你随时体验最佳性能。 如果你厌倦了被广告和跟踪器打扰，想要真正自由、安全地上网，Zen Bro]]></description>
+            <content:encoded><![CDATA[<p>🌿 Zen Browser 是一款专注于隐私保护的浏览器，它能够有效屏蔽跟踪器、广告及其他不必要的内容，让你享受安静、纯粹的上网体验。</p>
+<p><img src="https://github.com/user-attachments/assets/70471c67-459b-42d5-a170-67206723c692" alt="Image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/2aed436f-b071-44e7-b90d-a7eade6c161b?title=ZenBrowser&#x26;rehype=video"></video>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/be5b26ce-0617-4592-afb2-601ec4c1402a?title=ZenBrowser&#x26;rehype=video"></video>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/60e71199-dd2c-487e-9fcb-e2a42ec9fac9?title=ZenBrowser&#x26;rehype=video"></video>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/183843d3-72cf-4557-8956-ea7a8b9b23e1?title=ZenBrowser&#x26;rehype=video"></video>
+<p>🚀 作为一款隐私至上的浏览器，Zen 不仅能保护你的数据安全，还能提升网页加载速度，让浏览更加流畅。它支持从 Crowdin Zen Release 下载最新版本，让你随时体验最佳性能。</p>
+<p>如果你厌倦了被广告和跟踪器打扰，想要真正自由、安全地上网，Zen Browser 绝对值得一试！🔒✨</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/78" target="_blank">#78</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/70471c67-459b-42d5-a170-67206723c692" length="0" type="image//user-attachments/assets/70471c67-459b-42d5-a170-67206723c692"/>
+        </item>
+        <item>
+            <title><![CDATA[Doll：让你不错过重要消息的菜单栏应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/77.html</link>
+            <guid>77</guid>
+            <pubDate>Sun, 02 Mar 2025 16:41:20 GMT</pubDate>
+            <description><![CDATA[Doll 是一款 macOS 应用，帮助你不错过重要的消息！在 macOS 中，当你隐藏 Dock，打开全屏窗口并专注于任务时，感觉非常棒。 但我们并不生活在一个理想的世界中，团队成员可能随时需要你的帮助，而当你处于专注模式时，有时你会忘记及时回复！ 像 Mail、Slack 和 Microsoft Teams 这样的消息应用，甚至根本没有提供菜单栏图标。所以，如果你正在全屏工作，或者查看另一个无]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a" alt="Image"></p>
+<p>Doll 是一款 macOS 应用，帮助你不错过重要的消息！在 macOS 中，当你隐藏 Dock，打开全屏窗口并专注于任务时，感觉非常棒。</p>
+<p>但我们并不生活在一个理想的世界中，团队成员可能随时需要你的帮助，而当你处于专注模式时，有时你会忘记及时回复！</p>
+<p>像 Mail、Slack 和 Microsoft Teams 这样的消息应用，甚至根本没有提供菜单栏图标。所以，如果你正在全屏工作，或者查看另一个无法显示 Dock 的外接显示器，你将无法注意到未读消息！<br>
+Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这样的应用的图标和徽章放置在菜单栏中。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/77" target="_blank">#77</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a" length="0" type="image//user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a"/>
+        </item>
+        <item>
+            <title><![CDATA[VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/76.html</link>
+            <guid>76</guid>
+            <pubDate>Fri, 28 Feb 2025 09:11:48 GMT</pubDate>
+            <description><![CDATA[VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀 功能亮点： 🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时 🔒 隐私优先：100% 离线处理，确保数据不离开设备 ⚡ 强力模式：智能应用检测，根据使用的应用自动调整设置 🧠 上下文感知：智能 AI 理解屏幕内容并适应环境 🎯 全局快捷键：可配置的快捷键，快速录音和按键对讲功能 📝 个性化]]></description>
+            <content:encoded><![CDATA[<p>VoiceInk：适用于 macOS 的语音转文本应用，几乎即时将语音转化为文本！🚀</p>
+<p><img src="https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550" alt="Image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/220849f5-a4ca-41fd-b183-4e30b4b7a400?title=VoiceInk&#x26;rehype=video"></video>
+<h3>功能亮点：</h3>
+<ul>
+<li>🎙️ 高精度转录：本地 AI 模型，99% 准确率，几乎即时</li>
+<li>🔒 隐私优先：100% 离线处理，确保数据不离开设备</li>
+<li>⚡ 强力模式：智能应用检测，根据使用的应用自动调整设置</li>
+<li>🧠 上下文感知：智能 AI 理解屏幕内容并适应环境</li>
+<li>🎯 全局快捷键：可配置的快捷键，快速录音和按键对讲功能</li>
+<li>📝 个性化词典：训练 AI 理解您的专有术语、行业术语和智能文本替换</li>
+<li>🔄 智能模式：快速切换适配不同写作风格和环境的 AI 模式</li>
+<li>🤖 AI 助手：内置语音助手，类似 ChatGPT 的对话助手</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/76" target="_blank">#76</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550" length="0" type="image//user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550"/>
+        </item>
+        <item>
+            <title><![CDATA[设置 macOS Launchpad 启动台显示更多应用图标]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/75.html</link>
+            <guid>75</guid>
+            <pubDate>Thu, 27 Feb 2025 03:55:52 GMT</pubDate>
+            <description><![CDATA[要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。 设置 Launchpad 图标 10 行 10列 defaults write com.apple.dock springboard-rows -int 10 defaults write com.apple.dock springboard-co]]></description>
+            <content:encoded><![CDATA[<p>要设置 macOS Launchpad(启动台) 显示更多应用图标，你只需要通过在命令行运行 3 条命令来调整 Launchpad(启动台) 的布局。</p>
+<p><img src="https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875" alt=""></p>
+<p>设置 Launchpad 图标 10 行 10列</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">defaults write com.apple.dock springboard-rows -int 10
+</span><span class="code-line line-number" line="2">defaults write com.apple.dock springboard-columns -int 10;killall Dock
+</span></code></pre>
+<p>重置成默认 Launchpad 行列</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">defaults delete com.apple.dock springboard-rows
+</span><span class="code-line line-number" line="2">defaults delete com.apple.dock springboard-columns;killall Dock
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/75" target="_blank">#75</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875" length="0" type="image//user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875"/>
+        </item>
+        <item>
+            <title><![CDATA[Pulse Pro 是一款专为 Apple 平台设计的网络日志工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/74.html</link>
+            <guid>74</guid>
+            <pubDate>Wed, 26 Feb 2025 19:43:18 GMT</pubDate>
+            <description><![CDATA[通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/88604921-2cc8-4b79-b365-5171337ebc1f" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/dad7dbc7-bc95-460c-9d3b-6acc128c8eb5" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/9c773152-1d5c-4056-ad6e-b3cf3c20dc61" alt="Image"></p>
+<p>通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/74" target="_blank">#74</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e" length="0" type="image//user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e"/>
+        </item>
+        <item>
+            <title><![CDATA[DNS Easy Switcher：简单的 macOS 菜单栏应用，可以快速切换不同的 DNS 提供商]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/73.html</link>
+            <guid>73</guid>
+            <pubDate>Wed, 26 Feb 2025 04:11:44 GMT</pubDate>
+            <description><![CDATA[DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP]]></description>
+            <content:encoded><![CDATA[<p>DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP 提供的 DNS）并管理自己的 DNS 服务器。</p>
+<p><img src="https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57" alt="Image"></p>
+<p>应用支持测试 DNS 速度，帮助你找到最快的 DNS 提供商，并通过 Touch ID 进行 DNS 更改身份验证。集成在 macOS 菜单栏，设置在应用启动之间得以保存，同时支持 IPv4 和 IPv6。让你轻松管理网络设置，提升上网体验！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/73" target="_blank">#73</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57" length="0" type="image//user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57"/>
+        </item>
+        <item>
+            <title><![CDATA[TheBoringNotch：一个开源的 Mac 刘海工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/72.html</link>
+            <guid>72</guid>
+            <pubDate>Sun, 23 Feb 2025 17:27:32 GMT</pubDate>
+            <description><![CDATA[TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。]]></description>
+            <content:encoded><![CDATA[<p>TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。</p>
+<p><img src="https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064" alt="Image"></p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/19b87973-4b3a-4853-b532-7e82d1d6b040?title=TheBoringNotch&#x26;rehype=video"></video><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/72" target="_blank">#72</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064" length="0" type="image//user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064"/>
+        </item>
+        <item>
+            <title><![CDATA[Beszel：开源的轻量服务器监控工具平台]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/71.html</link>
+            <guid>71</guid>
+            <pubDate>Sun, 23 Feb 2025 17:20:25 GMT</pubDate>
+            <description><![CDATA[一款开源的轻量服务器监控工具平台——Beszel，它提供了包括 Docker 统计信息、历史数据以及告警功能。界面简洁友好，操作起来非常方便，值得借鉴一些产品的交互设计。 主要特点： 轻量级：比主流解决方案更小巧，资源占用更少。 简单易用：易于设置，不需要暴露在公共互联网中。 Docker 统计：追踪每个容器的 CPU、内存、网络使用历史。 告警功能：支持配置 CPU、内存、磁盘、带宽、温度和状态]]></description>
+            <content:encoded><![CDATA[<p>一款开源的轻量服务器监控工具平台——Beszel，它提供了包括 Docker 统计信息、历史数据以及告警功能。界面简洁友好，操作起来非常方便，值得借鉴一些产品的交互设计。</p>
+<img width="591" alt="Image" src="https://github.com/user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec">
+<img width="598" alt="Image" src="https://github.com/user-attachments/assets/f9441191-b7c2-4766-b3a5-df8d5e7ddd5f">
+<h3>主要特点：</h3>
+<ul>
+<li>轻量级：比主流解决方案更小巧，资源占用更少。</li>
+<li>简单易用：易于设置，不需要暴露在公共互联网中。</li>
+<li>Docker 统计：追踪每个容器的 CPU、内存、网络使用历史。</li>
+<li>告警功能：支持配置 CPU、内存、磁盘、带宽、温度和状态等多种告警。</li>
+<li>多用户支持：用户可以管理自己的系统，管理员可以跨用户共享系统。</li>
+<li>OAuth / OIDC：支持多种 OAuth2 提供商，且可以禁用密码认证。</li>
+<li>自动备份：支持从磁盘或兼容 S3 的存储中保存和恢复数据。</li>
+<li>REST API：可以在自己的脚本和应用中使用或更新数据。</li>
+</ul>
+<p>如果你在寻找一个轻量且功能丰富的服务器监控工具，Beszel 无疑是一个不错的选择！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/71" target="_blank">#71</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec" length="0" type="image//user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec"/>
+        </item>
+        <item>
+            <title><![CDATA[Cherry Studio：是你所期望的最棒的 AI 对话 客户端 🤖]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/70.html</link>
+            <guid>70</guid>
+            <pubDate>Sun, 23 Feb 2025 17:12:34 GMT</pubDate>
+            <description><![CDATA[Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。 🌟 主要特性 多样化 LLM 服务支持： ☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等 🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等 💻 支持 Ollama、L]]></description>
+            <content:encoded><![CDATA[<p>Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统。</p>
+<p><img src="https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/a3d6992b-4631-441b-883a-6c0cc9349f01" alt="Image"></p>
+<p><img src="https://github.com/user-attachments/assets/702a554d-06fc-40bc-9a2a-26f8153677d4" alt="Image"></p>
+<h3>🌟 主要特性</h3>
+<p><img src="https://github.com/user-attachments/assets/995910f3-177a-4d1e-97ea-04e3b009ba36" alt=""></p>
+<ol>
+<li>
+<p><strong>多样化 LLM 服务支持</strong>：</p>
+<ul>
+<li>☁️ 支持主流 LLM 云服务：OpenAI、Gemini、Anthropic、硅基流动等</li>
+<li>🔗 集成流行 AI Web 服务：Claude、Peplexity、Poe、腾讯元宝、知乎直答等</li>
+<li>💻 支持 Ollama、LM Studio 本地模型部署</li>
+</ul>
+</li>
+<li>
+<p><strong>智能助手与对话</strong>：</p>
+<ul>
+<li>📚 内置 300+ 预配置 AI 助手</li>
+<li>🤖 支持自定义创建专属助手</li>
+<li>💬 多模型同时对话，获得多样化观点</li>
+</ul>
+</li>
+<li>
+<p><strong>文档与数据处理</strong>：</p>
+<ul>
+<li>📄 支持文本、图片、Office、PDF 等多种格式</li>
+<li>☁️ WebDAV 文件管理与数据备份</li>
+<li>📊 Mermaid 图表可视化</li>
+<li>💻 代码高亮显示</li>
+</ul>
+</li>
+<li>
+<p><strong>实用工具集成</strong>：</p>
+<ul>
+<li>🔍 全局搜索功能</li>
+<li>📝 话题管理系统</li>
+<li>🔤 AI 驱动的翻译功能</li>
+<li>🎯 拖拽排序</li>
+<li>🔌 小程序支持</li>
+</ul>
+</li>
+<li>
+<p><strong>优质使用体验</strong>：</p>
+<ul>
+<li>🖥️ Windows、Mac、Linux 跨平台支持</li>
+<li>📦 开箱即用，无需配置环境</li>
+<li>🎨 支持明暗主题与透明窗口</li>
+<li>📝 完整的 Markdown 渲染</li>
+<li>🤲 便捷的内容分享功能</li>
+</ul>
+</li>
+</ol><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/70" target="_blank">#70</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73" length="0" type="image//user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73"/>
+        </item>
+        <item>
+            <title><![CDATA[MoePush - 基于 NextJS + Cloudflare 技术栈构建的消息推送服务✨]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/69.html</link>
+            <guid>69</guid>
+            <pubDate>Sun, 23 Feb 2025 08:43:50 GMT</pubDate>
+            <description><![CDATA[一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨ 特性 📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。 🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。 💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。 🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。 已支持]]></description>
+            <content:encoded><![CDATA[<p>一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨</p>
+<p><img src="https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/1e7bb2f4-d752-4366-8ea0-d5c470728227" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/255fe979-7cea-4716-9f1d-ecb4e4cbf987" alt=""></p>
+<h3>特性</h3>
+<ul>
+<li>📡多渠道支持 ：支持钉钉、企业微信、Telegram 等多种消息推送渠道。</li>
+<li>🛠️简单易用 ：提供简单的接口调用，支持多种消息模板，快速集成。</li>
+<li>💖开源免费 ：基础功能完全免费使用，代码开源，欢迎贡献。</li>
+<li>🎨精美 UI ：使用 shadcn/ui 组件库，提供精美 UI 设计。</li>
+</ul>
+<h3>已支持渠道</h3>
+<ul>
+<li>钉钉机器人</li>
+<li>企业微信应用</li>
+<li>企业微信机器人</li>
+<li>Telegram 机器人</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/69" target="_blank">#69</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3" length="0" type="image//user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3"/>
+        </item>
+        <item>
+            <title><![CDATA[TextSound Saver v2.3 发布，现可将文本转换为逼真的合成语音，支持轻松导出调好的音频文件，高质量输出助力各种用途！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/68.html</link>
+            <guid>68</guid>
+            <pubDate>Fri, 21 Feb 2025 11:38:35 GMT</pubDate>
+            <description><![CDATA[使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。 📥 下载链接： https://apps.apple.com/app/textsound-saver/id6478511402 💬 反馈意见： htt]]></description>
+            <content:encoded><![CDATA[<p><img src="https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d" alt=""></p>
+<p>使用 TextSound Saver 应用程序，您可以将文本转换为逼真的合成语音。应用实现了流畅且自然的文本到语音转换。除了提供出色的语音合成功能外，该应用还允许您轻松导出调好的音频文件。这使您能够创建高质量的音频文件，并下载输出以供其他用途。</p>
+<p>📥 下载链接： <a href="https://apps.apple.com/app/textsound-saver/id6478511402">https://apps.apple.com/app/textsound-saver/id6478511402</a><br>
+💬 反馈意见： <a href="https://github.com/jaywcjlove/TextSoundSaver">https://github.com/jaywcjlove/TextSoundSaver</a></p>
+<p><img src="https://github.com/user-attachments/assets/359901a6-9eb3-4bc7-837f-6b92a8e531eb" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/d1d42abd-792a-4fea-9178-dcb9528c71bb" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/68" target="_blank">#68</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d" length="0" type="image//user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d"/>
+        </item>
+        <item>
+            <title><![CDATA[GitHub Copilot for Xcode 是你的 AI 编程伙伴，现在作为 Xcode 扩展提供智能代码建议]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/67.html</link>
+            <guid>67</guid>
+            <pubDate>Wed, 19 Feb 2025 09:50:44 GMT</pubDate>
+            <description><![CDATA[如果你是开发者，特别是在使用 Xcode 开发 macOS 或 iOS 应用时，GitHub Copilot for Xcode 将极大地提高你的编码效率。GitHub Copilot 是一款由人工智能驱动的编程助手，它可以通过自动补全、代码建议和聊天助手，帮助你更智能、更快速地编写代码。 核心功能： 实时代码建议：在你编写代码时，GitHub Copilot 会提供智能的内联建议，帮助你快速完成]]></description>
+            <content:encoded><![CDATA[<p>如果你是开发者，特别是在使用 Xcode 开发 macOS 或 iOS 应用时，GitHub Copilot for Xcode 将极大地提高你的编码效率。GitHub Copilot 是一款由人工智能驱动的编程助手，它可以通过自动补全、代码建议和聊天助手，帮助你更智能、更快速地编写代码。</p>
+<p><img src="https://github.com/user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44" alt=""></p>
+<p><img src="https://github.com/user-attachments/assets/d64d5c11-cd22-4720-a8db-7a5fc43c918b" alt="Image"></p>
+<p>核心功能：</p>
+<ol>
+<li>实时代码建议：在你编写代码时，GitHub Copilot 会提供智能的内联建议，帮助你快速完成常见的代码片段，减少手动输入的时间。</li>
+<li>代码补全：无论你是输入代码还是写注释，GitHub Copilot 都能理解你的意图并提供精准的自动完成建议，甚至支持自然语言描述。</li>
+<li>Copilot Chat：你可以与 Copilot 聊天，提出具体的编码问题，它会提供针对性的建议和解决方案，帮助你解决编码中的难题。</li>
+</ol>
+<p>为什么选择 GitHub Copilot for Xcode？</p>
+<ul>
+<li>提高效率：快速解决编程难题，减少查阅文档的时间。</li>
+<li>智能推荐：根据上下文自动生成符合需求的代码片段，提升编程流畅度。</li>
+<li>全天候助手：无论是学习新技术，还是解决复杂问题，GitHub Copilot 都能成为你随时随地的编码助手。</li>
+</ul>
+<p>无论你是初学者还是经验丰富的开发者，GitHub Copilot for Xcode 都能帮助你提升编程效率，是开发过程中不可或缺的得力助手！试试看，感受 AI 编程的力量！👩‍💻👨‍💻</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/67" target="_blank">#67</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44" length="0" type="image//user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44"/>
+        </item>
+        <item>
+            <title><![CDATA[DayBar 农历日历应用推荐 - 菜单栏显示本地日期和提醒事件的日历应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/66.html</link>
+            <guid>66</guid>
+            <pubDate>Wed, 19 Feb 2025 03:46:38 GMT</pubDate>
+            <description><![CDATA[DayBar 是一款在菜单栏显示本地日期和提醒事件的应用。点击菜单栏中的 DayBar，即可查看日历、日历事件和提醒事项，并支持与 Apple 日历同步。它将日历和提醒功能整合到状态栏菜单，方便管理和查看，同时让提醒事项呈现为简洁美观的待办事项。 📥 下载链接： https://apps.apple.com/app/daybar/6739052447 💬 反馈意见： https://githu]]></description>
+            <content:encoded><![CDATA[<p>DayBar 是一款在菜单栏显示本地日期和提醒事件的应用。点击菜单栏中的 DayBar，即可查看日历、日历事件和提醒事项，并支持与 Apple 日历同步。它将日历和提醒功能整合到状态栏菜单，方便管理和查看，同时让提醒事项呈现为简洁美观的待办事项。</p>
+<p>📥 下载链接： <a href="https://apps.apple.com/app/daybar/6739052447">https://apps.apple.com/app/daybar/6739052447</a><br>
+💬 反馈意见： <a href="https://github.com/jaywcjlove/daybar">https://github.com/jaywcjlove/daybar</a></p>
+<p><img src="https://github.com/user-attachments/assets/f2e9ef1d-b19b-4af6-9785-416be5e97e49" alt="DayBar"></p>
+<p><img src="https://github.com/user-attachments/assets/24c9bff8-7d07-44d5-8c1a-11af21cc5772" alt="DayBar"></p>
+<p><img src="https://github.com/user-attachments/assets/e90c3c47-0a1c-46e3-a318-d4ea9f79d6fa" alt="DayBar"></p>
+<p><img src="https://github.com/user-attachments/assets/05305108-3982-495d-a7fa-cca64aedd92c" alt="DayBar"></p>
+<h3>主要功能</h3>
+<ul>
+<li>显示中国农历</li>
+<li>显示当前周数</li>
+<li>事件指示器</li>
+<li>双击快速进入日历和提醒</li>
+<li>展示本月所有事件</li>
+<li>提醒待办事项 TODO</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/66" target="_blank">#66</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/f2e9ef1d-b19b-4af6-9785-416be5e97e49" length="0" type="image//user-attachments/assets/f2e9ef1d-b19b-4af6-9785-416be5e97e49"/>
+        </item>
+        <item>
+            <title><![CDATA[Shortcat: 无需鼠标触控板即可熟练操作你的 Mac]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/65.html</link>
+            <guid>65</guid>
+            <pubDate>Thu, 26 Dec 2024 05:30:22 GMT</pubDate>
+            <description><![CDATA[Shortcat 是一款为 macOS 用户设计的强大工具，旨在通过减少对鼠标触控板的依赖来提高操作效率。它提供了一个通用的命令面板，通过索引 Mac 的用户界面，使操作变得更加直观和快速。 使用 Shortcat，你可以： 点击按钮：无需手动移动鼠标，直接通过命令面板点击任何按钮。 聚焦文本框：迅速将焦点转移到任何文本输入区域，节省时间。 调用菜单命令：轻松执行菜单中的各种命令，而无需点击菜单选]]></description>
+            <content:encoded><![CDATA[<p>Shortcat 是一款为 macOS 用户设计的强大工具，旨在通过减少对鼠标触控板的依赖来提高操作效率。它提供了一个通用的命令面板，通过索引 Mac 的用户界面，使操作变得更加直观和快速。</p>
+<p><img src="https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f" alt=""></p>
+<p>使用 Shortcat，你可以：</p>
+<ul>
+<li>点击按钮：无需手动移动鼠标，直接通过命令面板点击任何按钮。</li>
+<li>聚焦文本框：迅速将焦点转移到任何文本输入区域，节省时间。</li>
+<li>调用菜单命令：轻松执行菜单中的各种命令，而无需点击菜单选项。</li>
+<li>切换窗口：在不同的应用窗口间快速切换，提升工作流效率。</li>
+</ul>
+<p>总之，Shortcat 是一款让 macOS 用户能够更加高效、快捷地操作系统的工具，适用于任何希望减少鼠标使用、提高工作效率的用户。无论你是程序员、设计师还是日常办公人员，Shortcat 都能为你带来更顺畅的操作体验。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/65" target="_blank">#65</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f" length="0" type="image//user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f"/>
+        </item>
+        <item>
+            <title><![CDATA[TRex 🦖: 用 OCR 技术轻松捕获任何文本]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/64.html</link>
+            <guid>64</guid>
+            <pubDate>Sun, 22 Dec 2024 09:52:31 GMT</pubDate>
+            <description><![CDATA[TRex 是一款强大的 macOS 工具，利用 OCR（光学字符识别）技术，帮助你轻松捕获任何文本并直接保存到剪贴板。无论是无法复制的 PDF 文件、带有文本的图片，还是 YouTube 视频中的字幕，TRex 都能轻松提取文本，让你摆脱手动输入的烦恼。 什么是 OCR？ OCR（Optical Character Recognition，光学字符识别）技术能够识别图片、PDF 文件等非文本形式中]]></description>
+            <content:encoded><![CDATA[<p><strong>TRex</strong> 是一款强大的 macOS 工具，利用 OCR（光学字符识别）技术，帮助你轻松捕获任何文本并直接保存到剪贴板。无论是无法复制的 PDF 文件、带有文本的图片，还是 YouTube 视频中的字幕，TRex 都能轻松提取文本，让你摆脱手动输入的烦恼。</p>
+<p><img src="https://github.com/user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8" alt="demo"></p>
+<p><img src="https://github.com/user-attachments/assets/c88f9e79-9792-4f60-b1d1-0f5ed32ca61a" alt="image"></p>
+<h3>什么是 OCR？</h3>
+<p>OCR（Optical Character Recognition，光学字符识别）技术能够识别图片、PDF 文件等非文本形式中的文字，并将其转换为可编辑的文本。传统上，如果你遇到不可选中的文本，如扫描文档或截图中的文字，往往需要手动输入或重新复制。而 TRex 可以自动提取这些文本，就像截图一样简单快捷。</p>
+<h3>TRex 的强大功能</h3>
+<ul>
+<li><strong>OCR 文本提取</strong>：无论是 PDF 文件中的文本，带有文字的图像，还是 YouTube 视频中的字幕，TRex 都能快速准确地提取。</li>
+<li><strong>轻松截图</strong>：使用 TRex，你可以通过简单的截图捕获屏幕上的文字，极其方便。</li>
+<li><strong>菜单栏工具</strong>：TRex 在 macOS 菜单栏中运行，随时随地都能使用，非常便捷。</li>
+</ul>
+<h3>轻松操作</h3>
+<p>TRex 的操作极其简便。只需启动 TRex，并按下快捷键截图，TRex 会自动识别图片中的文本并复制到剪贴板。再也不用重新输入文本或寻找复制的途径了。</p>
+<p><img src="https://github.com/user-attachments/assets/cfee7fc4-e335-4ef4-a05d-748d08820c50" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/97c2e909-3cdc-4b31-8601-a5b96ecb350e" alt="image"></p>
+<h3>为什么选择 TRex？</h3>
+<ul>
+<li><strong>精准高效</strong>：通过 OCR 技术，TRex 提供准确的文本提取，减少了手动输入的时间和错误。</li>
+<li><strong>简单易用</strong>：操作界面简洁，用户只需要一个截图动作，就能完成文本提取。</li>
+<li><strong>多场景适用</strong>：不论是网页上的不可选择文本，还是图片、视频中的文字，TRex 都能轻松应对。</li>
+</ul>
+<p>不再为手动输入或无法复制的文本烦恼，TRex 为你提供了一种简单、智能的解决方案，让你能够高效、轻松地获取任何文本。</p>
+<h3>总结</h3>
+<p>TRex 是一款专为 macOS 用户设计的 OCR 工具，它帮助你轻松捕获屏幕上的文本，并直接将其保存到剪贴板。无论是 PDF 文件、图片中的文字，还是视频中的字幕，TRex 都能精准提取，极大地提高了你的工作效率。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/64" target="_blank">#64</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8" length="0" type="image//user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8"/>
+        </item>
+        <item>
+            <title><![CDATA[探索 Readest：为热爱阅读的你打造的终极电子书阅读器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/63.html</link>
+            <guid>63</guid>
+            <pubDate>Thu, 12 Dec 2024 16:53:13 GMT</pubDate>
+            <description><![CDATA[你热爱阅读吗？试试 Readest，一款现代化、开源的电子书阅读器，旨在彻底改变你的阅读体验。无论是沉浸在故事中，还是深入学习知识，Readest 都能在 macOS、Windows、Linux 和 Web 平台上提供功能丰富、无缝流畅的体验，移动端支持也即将推出！ 为什么选择 Readest？ 多格式支持：轻松阅读 EPUB、MOBI、PDF（实验性）等多种格式的书籍。 个性化阅读体验：自定义字]]></description>
+            <content:encoded><![CDATA[<p>你热爱阅读吗？试试 <strong>Readest</strong>，一款现代化、开源的电子书阅读器，旨在彻底改变你的阅读体验。无论是沉浸在故事中，还是深入学习知识，Readest 都能在 macOS、Windows、Linux 和 Web 平台上提供功能丰富、无缝流畅的体验，移动端支持也即将推出！</p>
+<p><img src="https://github.com/user-attachments/assets/d6839a87-ef76-4391-b0ff-70b87932a396" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/c5ede9cb-49ef-479e-a06e-871c610a91a9" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/def7727f-586f-4549-addc-59a7b913be4f" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/1006b889-6479-4a09-90de-7ebb8d3b2912" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/085f0e4b-9ea4-42a9-8411-30cccd744d60" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/3b13cb32-b7cb-4b2a-9986-639c201c2e50" alt="image"></p>
+<h3>为什么选择 Readest？</h3>
+<ul>
+<li>多格式支持：轻松阅读 EPUB、MOBI、PDF（实验性）等多种格式的书籍。</li>
+<li>个性化阅读体验：自定义字体、主题和布局，打造专属于你的阅读环境。</li>
+<li>标注与笔记：轻松添加高亮、书签和笔记，提升阅读效率。</li>
+<li>分屏并行阅读：同时阅读两本书，轻松进行对比和学习。</li>
+<li>智能工具：快速查词、使用 DeepL 翻译，或全书内文本搜索。</li>
+</ul>
+<h3>未来可期</h3>
+<p>移动端支持、书库管理、文本转语音、甚至 AI 驱动的书籍摘要等令人兴奋的新功能即将上线！</p>
+<p>立即开始你的下一段阅读旅程，体验 Readest 带来的沉浸式、直观的阅读乐趣吧！欢迎一起贡献，让我们共同打造最出色的电子书阅读器！😊</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/63" target="_blank">#63</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/d6839a87-ef76-4391-b0ff-70b87932a396" length="0" type="image//user-attachments/assets/d6839a87-ef76-4391-b0ff-70b87932a396"/>
+        </item>
+        <item>
+            <title><![CDATA[Minesweeper：适用于 macOS 和 iOS 的极简风格扫雷游戏，开源学习范例]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/62.html</link>
+            <guid>62</guid>
+            <pubDate>Wed, 04 Dec 2024 05:12:37 GMT</pubDate>
+            <description><![CDATA[Minesweeper 是一款适用于 macOS 和 iOS 的极简风格扫雷游戏，完全使用 Swift 编写。该项目展示了如何使用 SwiftUI 和 Composable Architecture 构建现代 iOS/macOS 应用。通过高度模块化的设计，每个功能被隔离到独立的模块中，减少了模块间的依赖，使得每个功能可以单独编译和运行。这种设计不仅简化了开发流程，也提高了代码的可测试性。 应用的]]></description>
+            <content:encoded><![CDATA[<p>Minesweeper 是一款适用于 macOS 和 iOS 的极简风格扫雷游戏，完全使用 Swift 编写。该项目展示了如何使用 SwiftUI 和 Composable Architecture 构建现代 iOS/macOS 应用。通过高度模块化的设计，每个功能被隔离到独立的模块中，减少了模块间的依赖，使得每个功能可以单独编译和运行。这种设计不仅简化了开发流程，也提高了代码的可测试性。</p>
+<p><img src="https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3" alt="image"></p>
+<p>应用的核心逻辑被放入专门的模块（如 *Core），这些模块与 UI 分离，使得代码可以跨多个平台（如 SwiftUI 和 UIKit）共享，同时也能跨 iOS、macOS、watchOS 和 tvOS 共享。项目还配备了完整的测试套件，包括功能的单元测试、集成测试和端到端测试，确保每个模块都能可靠地工作。</p>
+<p>Minesweeper 是一个极好的开源项目，适合开发者用作学习范例，了解如何在 Swift 中使用现代架构模式进行开发，尤其是对于希望深入理解模块化、可测试性和跨平台开发的开发者来说，是一个理想的学习资源。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/62" target="_blank">#62</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3" length="0" type="image//user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3"/>
+        </item>
+        <item>
+            <title><![CDATA[Immich：高效隐私的自托管照片视频管理工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/61.html</link>
+            <guid>61</guid>
+            <pubDate>Mon, 02 Dec 2024 00:53:39 GMT</pubDate>
+            <description><![CDATA[Immich 是一个高性能的自托管照片和视频管理解决方案，专注于隐私保护和高效管理。它支持多平台使用，可轻松备份、组织和浏览多媒体文件。 主要功能包括： 自动备份：支持移动端后台备份，防止文件丢失。 多用户支持：可创建共享相册，与他人协作管理内容。 高级搜索：通过元数据、对象、面部识别等方式快速查找内容。 支持 RAW 格式：满足摄影爱好者的专业需求。 个性化存储结构：用户可自定义文件夹组织形式。]]></description>
+            <content:encoded><![CDATA[<p>Immich 是一个高性能的自托管照片和视频管理解决方案，专注于隐私保护和高效管理。它支持多平台使用，可轻松备份、组织和浏览多媒体文件。</p>
+<p><img src="https://github.com/user-attachments/assets/499a5bf7-09e3-4e3b-ac3b-59657a885fd1" alt=""></p>
+<p>主要功能包括：</p>
+<ul>
+<li>自动备份：支持移动端后台备份，防止文件丢失。</li>
+<li>多用户支持：可创建共享相册，与他人协作管理内容。</li>
+<li>高级搜索：通过元数据、对象、面部识别等方式快速查找内容。</li>
+<li>支持 RAW 格式：满足摄影爱好者的专业需求。</li>
+<li>个性化存储结构：用户可自定义文件夹组织形式。</li>
+<li>隐私分享：提供公开分享和只读画廊功能，确保隐私安全。</li>
+</ul>
+<p>无论是个人用户还是团队，Immich 都是一个高效、便捷且注重隐私的多媒体管理工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/61" target="_blank">#61</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/499a5bf7-09e3-4e3b-ac3b-59657a885fd1" length="0" type="image//user-attachments/assets/499a5bf7-09e3-4e3b-ac3b-59657a885fd1"/>
+        </item>
+        <item>
+            <title><![CDATA[Xcode AI 助手：Copilot 全能扩展！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/60.html</link>
+            <guid>60</guid>
+            <pubDate>Tue, 26 Nov 2024 17:11:43 GMT</pubDate>
+            <description><![CDATA[Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！]]></description>
+            <content:encoded><![CDATA[<p>Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！</p>
+<p><img src="https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/60" target="_blank">#60</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984" length="0" type="image//user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984"/>
+        </item>
+        <item>
+            <title><![CDATA[BetterDisplay Pro - 让你的 Mac 显示屏更强大！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/59.html</link>
+            <guid>59</guid>
+            <pubDate>Tue, 19 Nov 2024 19:49:45 GMT</pubDate>
+            <description><![CDATA[一款强大的 Mac 显示屏管理工具！它让你的显示器具备完全可缩放的屏幕功能，轻松管理显示配置和亮度、颜色设置。 支持 XDR/HDR 的亮度增强（超越 100% 的额外亮度！适用于 Apple Silicon 和 Intel Mac 的多种方案），以及完全黑暗模式。它还能帮助你创建和管理虚拟屏幕，支持显示器的画中画窗口模式，甚至可以实时断开或重新连接显示器！ 无论是优化显示体验还是个性化配置，Be]]></description>
+            <content:encoded><![CDATA[<p>一款强大的 Mac 显示屏管理工具！它让你的显示器具备完全可缩放的屏幕功能，轻松管理显示配置和亮度、颜色设置。</p>
+<p><img src="https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03" alt="BetterDisplay Pro "></p>
+<p>支持 XDR/HDR 的亮度增强（超越 100% 的额外亮度！适用于 Apple Silicon 和 Intel Mac 的多种方案），以及完全黑暗模式。它还能帮助你创建和管理虚拟屏幕，支持显示器的画中画窗口模式，甚至可以实时断开或重新连接显示器！</p>
+<p>无论是优化显示体验还是个性化配置，BetterDisplay 都是不可或缺的好帮手。立即从菜单栏解锁更多强大功能，让你的 Mac 显示屏与众不同！</p>
+<h3>核心功能亮点：</h3>
+<p>✨ 自定义分辨率，支持 XDR/HDR 超高亮度<br>
+✨ 虚拟屏幕创建，Picture in Picture（画中画）支持<br>
+✨ 软断开连接，EDID 配置覆盖<br>
+✨ DDC 控制，颜色模式选择与同步，布局保护等</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/59" target="_blank">#59</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03" length="0" type="image//user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03"/>
+        </item>
+        <item>
+            <title><![CDATA[Beszel：轻量级的服务器资源监控平台]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/58.html</link>
+            <guid>58</guid>
+            <pubDate>Mon, 18 Nov 2024 09:59:09 GMT</pubDate>
+            <description><![CDATA[随着云计算和容器化技术的普及，越来越多的开发者和系统管理员需要高效、易用的工具来监控服务器和容器的性能。Beszel 应运而生，这是一个轻量级的服务器资源监控中心，具备历史数据记录、Docker 容器状态监控和自定义告警等功能。 为什么选择 Beszel？ 在众多监控解决方案中，Beszel 以其轻量级、易用性和功能丰富脱颖而出。它适合个人开发者、DevOps 团队以及希望简化服务器监控管理的中小]]></description>
+            <content:encoded><![CDATA[<p>随着云计算和容器化技术的普及，越来越多的开发者和系统管理员需要高效、易用的工具来监控服务器和容器的性能。<strong>Beszel</strong> 应运而生，这是一个轻量级的服务器资源监控中心，具备历史数据记录、Docker 容器状态监控和自定义告警等功能。</p>
+<p><img src="https://github.com/user-attachments/assets/b356e286-7637-45b5-b744-bcf4201ac5fe" alt=""></p>
+<h4>为什么选择 Beszel？</h4>
+<p>在众多监控解决方案中，Beszel 以其<strong>轻量级</strong>、<strong>易用性</strong>和<strong>功能丰富</strong>脱颖而出。它适合个人开发者、DevOps 团队以及希望简化服务器监控管理的中小型企业。以下是 Beszel 的核心功能和优势：</p>
+<h3>主要功能</h3>
+<h4>1. 轻量级</h4>
+<p>Beszel 专为高效运行而设计，其资源占用远低于传统监控工具。即使在资源有限的服务器上，也能流畅运行，确保不会因监控工具本身造成额外负担。</p>
+<h4>2. 简单易用</h4>
+<p>Beszel 安装和配置非常简单，无需复杂的设置和额外的网络暴露。用户可以快速启动并开始监控自己的系统，减少配置时间。</p>
+<h4>3. Docker 监控</h4>
+<p>Beszel 内置对 Docker 容器的支持，能够跟踪每个容器的 CPU、内存和网络使用情况，并提供历史数据记录。无论是单一服务还是复杂的微服务架构，Beszel 都能为你提供清晰的资源使用情况视图。</p>
+<h4>4. 可配置告警</h4>
+<p>当服务器或容器的资源使用超过设定阈值时，Beszel 会自动发出告警。支持的告警指标包括：</p>
+<ul>
+<li><strong>CPU 使用率</strong></li>
+<li><strong>内存使用率</strong></li>
+<li><strong>磁盘空间</strong></li>
+<li><strong>带宽使用</strong></li>
+<li><strong>系统温度</strong></li>
+<li><strong>系统状态</strong></li>
+</ul>
+<p>这些告警帮助用户及时发现潜在问题，确保系统的稳定性。</p>
+<h4>5. 多用户支持</h4>
+<p>Beszel 支持多用户环境，每个用户可以独立管理自己的系统资源。管理员还可以选择共享特定系统给其他用户，方便团队协作和资源监控的集中管理。</p>
+<h4>6. OAuth / OIDC 集成</h4>
+<p>Beszel 支持多种 OAuth2 身份验证提供商，如 GitHub、Google、Microsoft 等，用户可以使用现有账户登录。同时，还支持禁用密码登录，提升安全性。</p>
+<h4>7. 自动备份</h4>
+<p>为了确保数据安全，Beszel 支持自动备份功能。用户可以选择将数据备份至本地磁盘或任何兼容 S3 协议的存储服务（如 AWS S3、MinIO），并随时进行恢复。</p>
+<h4>8. REST API 接口</h4>
+<p>Beszel 提供丰富的 REST API，开发者可以轻松地集成到自己的应用程序或脚本中，用于数据查询或更新。这为用户自定义扩展 Beszel 的功能提供了极大的灵活性。</p>
+<h3>使用场景</h3>
+<p>Beszel 适用于多种场景：</p>
+<ul>
+<li><strong>个人开发者</strong>：轻量级的服务器监控解决方案，不需要复杂配置即可实时掌握系统资源使用情况。</li>
+<li><strong>小型企业</strong>：为中小型企业提供高效的服务器和容器监控解决方案，帮助团队及时处理性能问题。</li>
+<li><strong>DevOps 团队</strong>：简化资源管理和告警配置，提升运维效率。</li>
+</ul>
+<h3>结语</h3>
+<p>Beszel 是一个功能强大且易于使用的监控工具，适合各种规模的用户使用。它通过轻量级设计和简化的操作流程，使系统资源监控变得简单而高效。同时，丰富的功能特性，如 Docker 监控、多用户支持、OAuth 集成、自动备份和 REST API，使其成为管理服务器和容器的理想选择。</p>
+<p>如果你正在寻找一款轻量、易用且功能强大的服务器资源监控工具，Beszel 无疑是一个值得尝试的选择。赶快下载并体验吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/58" target="_blank">#58</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/b356e286-7637-45b5-b744-bcf4201ac5fe" length="0" type="image//user-attachments/assets/b356e286-7637-45b5-b744-bcf4201ac5fe"/>
+        </item>
+        <item>
+            <title><![CDATA[UTM：在 macOS 上运行任何操作系统的终极解决方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/57.html</link>
+            <guid>57</guid>
+            <pubDate>Thu, 14 Nov 2024 12:11:09 GMT</pubDate>
+            <description><![CDATA[UTM 是一款专为 macOS 设计的虚拟化和仿真工具，让你在 Mac 上轻松运行各种操作系统。无论你使用的是 Apple Silicon 还是 Intel 芯片，UTM 都能让你体验从 Windows 到 Linux 甚至是经典操作系统的无限可能。 主要亮点： 强大的虚拟化性能 Apple Silicon 上的 ARM64 系统运行接近原生速度。 Intel Mac 可以虚拟化 x86/x64 ]]></description>
+            <content:encoded><![CDATA[<p><strong>UTM</strong> 是一款专为 macOS 设计的虚拟化和仿真工具，让你在 Mac 上轻松运行各种操作系统。无论你使用的是 Apple Silicon 还是 Intel 芯片，UTM 都能让你体验从 Windows 到 Linux 甚至是经典操作系统的无限可能。</p>
+<p><img src="https://github.com/user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65" alt="image"></p>
+<h3>主要亮点：</h3>
+<h4>强大的虚拟化性能</h4>
+<ul>
+<li>Apple Silicon 上的 ARM64 系统运行接近原生速度。</li>
+<li>Intel Mac 可以虚拟化 x86/x64 系统，甚至还能在 Apple Silicon 上模拟 x86/x64 系统。</li>
+<li>支持 ARM32、MIPS、PPC 和 RISC-V 等多种处理器的仿真，满足开发者和爱好者的各种需求。</li>
+</ul>
+<h4>经典系统仿真</h4>
+<p>想要重温经典操作系统？UTM 支持 PowerPC、SPARC 和 x86_64 系统，让你轻松体验老牌系统的风采。</p>
+<p><img src="https://github.com/user-attachments/assets/77d0c7b4-4058-486e-b121-8efd8a269fad" alt="image"></p>
+<h4>macOS 多实例支持</h4>
+<p>在 Apple Silicon 设备上运行多个 macOS 实例，非常适合开发者和注重安全的用户。支持 ARM 架构的 macOS Monterey 及更高版本。</p>
+<p><img src="https://github.com/user-attachments/assets/c6a0cffa-549e-424a-ae30-fb7eafc36cdd" alt="image"></p>
+<h4>为 macOS 量身定制</h4>
+<p>完全按照 macOS Big Sur 及更新版本的设计风格打造，UTM 看起来就是一款原生 Mac 应用，操作简单，界面友好。</p>
+<p><img src="https://github.com/user-attachments/assets/34507c63-3e2a-4750-bcbe-5547b2b8e834" alt="image"></p>
+<h4>QEMU 的强大支持，无需复杂配置</h4>
+<p>UTM 基于开源的 QEMU，提供了强大的仿真和虚拟化功能。但与 QEMU 的复杂命令行配置不同，UTM 简化了操作，让用户无需深入研究配置文件即可轻松使用。</p>
+<p><img src="https://github.com/user-attachments/assets/fa42aa8b-c689-4cd0-bdce-69582cfc33b7" alt="image"></p>
+<h3>结语</h3>
+<p>UTM 是一款集简易性与强大功能于一身的应用，特别适合希望在 Mac 上运行不同操作系统的用户。无论你是开发者、技术爱好者，还是想要体验不同系统的普通用户，UTM 都能满足你的需求。快来试试 UTM，解锁你的 Mac 新潜力吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/57" target="_blank">#57</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65" length="0" type="image//user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65"/>
+        </item>
+        <item>
+            <title><![CDATA[Achico - 一款免费的 MacOS 本地文件压缩应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/56.html</link>
+            <guid>56</guid>
+            <pubDate>Tue, 12 Nov 2024 04:59:15 GMT</pubDate>
+            <description><![CDATA[Achico 是一款轻量级的原生 macOS 应用，它能够智能地压缩文件，同时保持文件的高质量。支持多种文件格式，包括 PDF、图片、视频等，简单、快速且高效！ https://github.com/user-attachments/assets/0bf23ffb-ce09-4137-aade-982992f5e504 主要特点 文件支持 PDF 文件：智能压缩，保持可读性 图片：支持 JPEG、]]></description>
+            <content:encoded><![CDATA[<p>Achico 是一款轻量级的原生 macOS 应用，它能够智能地压缩文件，同时保持文件的高质量。支持多种文件格式，包括 PDF、图片、视频等，简单、快速且高效！</p>
+<p><img src="https://github.com/user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9" alt="image"></p>
+<p><a href="https://github.com/user-attachments/assets/0bf23ffb-ce09-4137-aade-982992f5e504">https://github.com/user-attachments/assets/0bf23ffb-ce09-4137-aade-982992f5e504</a></p>
+<h3>主要特点</h3>
+<p><strong>文件支持</strong></p>
+<ul>
+<li><strong>PDF 文件</strong>：智能压缩，保持可读性</li>
+<li><strong>图片</strong>：支持 JPEG、PNG、HEIC、TIFF、GIF、BMP、WebP、SVG、RAW 和 ICO 等格式</li>
+<li><strong>视频</strong>：支持 MP4、MOV、AVI 等常见格式</li>
+<li><strong>音频</strong>：支持 M4V、WAV、MP3、AIFF 等音频格式</li>
+<li><strong>文件调整大小</strong>：在压缩的同时可以选择调整图片和视频的尺寸</li>
+</ul>
+<p><strong>核心功能</strong></p>
+<ul>
+<li><strong>多种输入方式</strong>：支持拖拽或点击选择文件</li>
+<li><strong>实时进度</strong>：实时显示文件压缩进度，清晰易懂</li>
+<li><strong>压缩统计</strong>：即时查看节省的存储空间</li>
+<li><strong>深色和浅色模式</strong>：自动与系统偏好设置无缝对接</li>
+<li><strong>原生性能</strong>：使用 SwiftUI 开发，确保 macOS 系统的最佳集成</li>
+</ul>
+<p><strong>压缩选项</strong></p>
+<ul>
+<li><strong>质量控制</strong>：可调整压缩等级，以平衡文件大小和质量</li>
+<li><strong>尺寸限制</strong>：可为图片和视频设置最大尺寸</li>
+<li><strong>格式转换</strong>：自动将低效格式转换为更高效的格式</li>
+<li><strong>元数据处理</strong>：可以选择保留或去除文件的元数据</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/a256f126-8066-4a9b-b035-c205fd216624" alt="image"></p>
+<p>Achico 让文件压缩变得更加简单、快速并且高效，是每个 macOS 用户的必备工具。无论是压缩文件节省存储空间，还是转换格式、调整大小，Achico 都能提供完美的解决方案。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/56" target="_blank">#56</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9" length="0" type="image//user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9"/>
+        </item>
+        <item>
+            <title><![CDATA[NeoHtop 一个现代化的跨平台系统监控工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/55.html</link>
+            <guid>55</guid>
+            <pubDate>Wed, 06 Nov 2024 09:09:34 GMT</pubDate>
+            <description><![CDATA[NeoHtop 是一个现代化的跨平台系统监控工具，基于 Svelte、Rust 和 Tauri 构建，旨在提供流畅的系统监控体验。 功能特色 🚀 实时进程监控：查看当前系统中所有正在运行的进程。 💻 CPU 和内存使用情况追踪：实时了解 CPU 和内存的使用情况，帮助优化系统性能。 🎨 美观的现代化 UI：提供深色/浅色主题，适应不同用户的视觉偏好。 🔍 进程搜索与过滤：快速找到并管理特定]]></description>
+            <content:encoded><![CDATA[<p>NeoHtop 是一个现代化的跨平台系统监控工具，基于 Svelte、Rust 和 Tauri 构建，旨在提供流畅的系统监控体验。</p>
+<p><img src="https://github.com/user-attachments/assets/2e7d7a62-c34f-43eb-b451-e04d6292fdb5" alt="image"></p>
+<h3>功能特色</h3>
+<ul>
+<li>🚀 <strong>实时进程监控</strong>：查看当前系统中所有正在运行的进程。</li>
+<li>💻 <strong>CPU 和内存使用情况追踪</strong>：实时了解 CPU 和内存的使用情况，帮助优化系统性能。</li>
+<li>🎨 <strong>美观的现代化 UI</strong>：提供深色/浅色主题，适应不同用户的视觉偏好。</li>
+<li>🔍 <strong>进程搜索与过滤</strong>：快速找到并管理特定进程。</li>
+<li>📌 <strong>重要进程固定</strong>：将关键进程固定在列表顶部，方便实时监控。</li>
+<li>🛠 <strong>进程管理</strong>：支持终止不必要的进程，释放系统资源。</li>
+<li>🎯 <strong>按任意列排序</strong>：按照不同指标对进程进行排序，便于查看和管理。</li>
+<li>🔄 <strong>系统状态自动刷新</strong>：自动更新系统统计数据，实时显示最新情况。</li>
+</ul>
+<p>NeoHtop 通过先进的技术栈提供了丰富的功能和友好的用户界面，适合开发者和系统管理员实时监控和管理系统资源。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/55" target="_blank">#55</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2e7d7a62-c34f-43eb-b451-e04d6292fdb5" length="0" type="image//user-attachments/assets/2e7d7a62-c34f-43eb-b451-e04d6292fdb5"/>
+        </item>
+        <item>
+            <title><![CDATA[app-menu: macOS中缺失的应用程序菜单]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/54.html</link>
+            <guid>54</guid>
+            <pubDate>Tue, 05 Nov 2024 12:47:17 GMT</pubDate>
+            <description><![CDATA[💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！ 推荐用 Homebrew 安装👇 brew tap barseghyanartur/app-menu-tap brew install --cask app-menu 简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu]]></description>
+            <content:encoded><![CDATA[<p>💻 macOS 上缺失的应用菜单工具来了！用 app-menu 快速访问和管理你的应用程序，轻松提升效率！</p>
+<p><img src="https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd" alt="image"></p>
+<p>推荐用 Homebrew 安装👇</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap barseghyanartur/app-menu-tap
+</span><span class="code-line line-number" line="2">brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> app-menu
+</span></code></pre>
+<p>简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/54" target="_blank">#54</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd" length="0" type="image//user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd"/>
+        </item>
+        <item>
+            <title><![CDATA[DrawDB: 免费、简单、直观的数据库设计工具和 SQL 生成器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/53.html</link>
+            <guid>53</guid>
+            <pubDate>Mon, 04 Nov 2024 10:59:28 GMT</pubDate>
+            <description><![CDATA[DrawDB 是一个强大且易用的数据库实体关系编辑器，无需注册，直接在浏览器中操作。只需点击几下即可创建图表，导出 SQL 脚本，个性化编辑器，更多功能等你来体验！]]></description>
+            <content:encoded><![CDATA[<p>DrawDB 是一个强大且易用的数据库实体关系编辑器，无需注册，直接在浏览器中操作。只需点击几下即可创建图表，导出 SQL 脚本，个性化编辑器，更多功能等你来体验！</p>
+<p><img src="https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/33f569c7-8fe4-4dcb-ac20-95c9bce44bea" alt="drawdb"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/53" target="_blank">#53</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9" length="0" type="image//user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9"/>
+        </item>
+        <item>
+            <title><![CDATA[Swift Shift：一个简洁高效的 macOS 窗口管理工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/52.html</link>
+            <guid>52</guid>
+            <pubDate>Thu, 31 Oct 2024 03:00:05 GMT</pubDate>
+            <description><![CDATA[在 macOS 系统上管理窗口时，你是否常常为拖拽窗口到合适的位置而感到烦恼？或是在调节窗口尺寸时需要精确找到小小的边角，浪费了很多时间？Swift Shift 能够彻底简化这一过程，让你只需通过鼠标和快捷键即可高效管理窗口，让你的工作空间井井有条。 功能简介：鼠标操作让窗口管理更轻松 Swift Shift 是一个专注于窗口管理的小工具，设计简洁高效。不同于其他繁琐的窗口管理软件，Swift S]]></description>
+            <content:encoded><![CDATA[<p>在 macOS 系统上管理窗口时，你是否常常为拖拽窗口到合适的位置而感到烦恼？或是在调节窗口尺寸时需要精确找到小小的边角，浪费了很多时间？Swift Shift 能够彻底简化这一过程，让你只需通过鼠标和快捷键即可高效管理窗口，让你的工作空间井井有条。</p>
+<h3>功能简介：鼠标操作让窗口管理更轻松</h3>
+<p>Swift Shift 是一个专注于窗口管理的小工具，设计简洁高效。不同于其他繁琐的窗口管理软件，Swift Shift 通过最直接的鼠标操作，轻松实现窗口的移动和大小调整。你无需反复拖动窗口，或点击边缘微小的调整箭头，简单快捷的操作就能让你的工作区整洁有序。</p>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/0b17f4ad-4230-4f1f-b1b8-ec1faad65d14?rehype=video"></video>
+<h3>灵活的鼠标快捷键支持</h3>
+<p>Swift Shift 还允许你使用鼠标按键来辅助快捷键操作。这一特性模仿了部分 Linux 发行版的窗口管理风格。如果你喜欢将鼠标按键纳入窗口管理体验中，可以通过 Swift Shift 轻松实现，进一步提升工作效率。</p>
+<p><img src="https://github.com/user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496" alt="image"></p>
+<h3>一次设置，安心运行</h3>
+<p><img src="https://github.com/user-attachments/assets/d72e9693-eb6a-4da4-89f7-4d0bf8e4120c" alt="image"></p>
+<p>Swift Shift 专为后台运行设计，配置好快捷键后，无需反复启动。这个软件低调又高效，在后台默默为你服务，让你的操作体验更加流畅。无需反复打开设置，真正做到 “设定一次，安心使用”。</p>
+<h3>智能窗口调整：从四角开始</h3>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/ad0db5b8-ee25-48e2-b0d5-564d955be816?rehype=video"></video>
+<p>Swift Shift 的窗口调整功能也十分智能。默认情况下，窗口会从右下角开始调整。但它还提供了更为灵活的“象限”模式，会根据鼠标当前位置，选择距离最近的边缘或角落进行缩放调整。这种设计符合直觉，让你的窗口调整更加得心应手。</p>
+<h3>开源且自由</h3>
+<p>Swift Shift 是一个开源项目，完全免费。开发者本着自由和共享的精神设计了这个工具，且在自学 Swift 语言和 macOS API 的过程中，一步步实现了这款工具。正因如此，Swift Shift 拥有极好的自定义性，同时得益于社区的力量，不断改进和更新。</p>
+<h3>结语：开启 Swift Shift，高效管理你的窗口</h3>
+<p>总之，Swift Shift 是一个轻便、实用、开源的 macOS 窗口管理工具。对于每天需要频繁管理窗口的用户而言，它提供了更加高效的操作体验。如果你也在寻找一种快捷的窗口管理方式，不妨试试 Swift Shift，把更多时间留给工作和创造！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/52" target="_blank">#52</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496" length="0" type="image//user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496"/>
+        </item>
+        <item>
+            <title><![CDATA[CodeFormer：基于代码查找转换器的盲脸修复工具，专为老照片和破损照片修复设计]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/51.html</link>
+            <guid>51</guid>
+            <pubDate>Tue, 22 Oct 2024 12:59:23 GMT</pubDate>
+            <description><![CDATA[CodeFormer 是一款利用离散代码本先验的创新盲脸修复模型。通过在小型代理空间中学习的代码本，CodeFormer 大大减少了修复过程中常见的不确定性和模糊性。该模型将脸部修复问题转换为代码预测任务，提供了丰富的视觉组件，用于生成高质量的脸部图像。 CodeFormer 采用了基于转换器的预测网络，能够建模低质量脸部图像的全局组成和上下文信息，即使在输入严重退化的情况下，也能够重构出自然的脸]]></description>
+            <content:encoded><![CDATA[<p>CodeFormer 是一款利用离散代码本先验的创新盲脸修复模型。通过在小型代理空间中学习的代码本，CodeFormer 大大减少了修复过程中常见的不确定性和模糊性。该模型将脸部修复问题转换为代码预测任务，提供了丰富的视觉组件，用于生成高质量的脸部图像。</p>
+<p><img src="https://github.com/user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2" alt="image"></p>
+<p><img src="https://github.com/user-attachments/assets/1c77a79b-96e7-4cfd-aa9f-4146c4e07e24" alt="image"></p>
+<p>CodeFormer 采用了基于转换器的预测网络，能够建模低质量脸部图像的全局组成和上下文信息，即使在输入严重退化的情况下，也能够重构出自然的脸部特征，逼近目标图像。</p>
+<p><img src="https://github.com/user-attachments/assets/e1db07ab-c938-433f-a0f2-86230715d88c" alt="image"></p>
+<p>在线体验：<a href="https://huggingface.co/spaces/sczhou/CodeFormer">https://huggingface.co/spaces/sczhou/CodeFormer</a></p>
+<p>为提升对不同退化程度的适应性，CodeFormer 还集成了可控特征变换模块，允许用户在保真度和图像质量之间灵活调节。凭借强大的代码本先验和全局建模能力，CodeFormer 在修复质量和保真度方面均超越了现有方法，展现了卓越的修复效果。</p>
+<p>通过引入代码查找和全局转换器，CodeFormer 不仅提高了盲脸修复的精确性和自然性，还提供了极大的灵活性，简化了复杂的修复任务，使模型在鲁棒性和表现力上表现出色。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/51" target="_blank">#51</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2" length="0" type="image//user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2"/>
+        </item>
+        <item>
+            <title><![CDATA[Mythic：适用于 macOS 的开源游戏启动器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/50.html</link>
+            <guid>50</guid>
+            <pubDate>Mon, 21 Oct 2024 21:20:02 GMT</pubDate>
+            <description><![CDATA[Mythic 是一款独特的开源游戏启动器，专为 macOS 设计，能够运行 Windows 游戏。此外，它还是 Legendary 的图形用户界面前端，完美契合 macOS 的风格与一致性。 让 Windows 游戏在 Mac 上畅玩 Mythic 是最好的 Windows 游戏在 Mac 上运行的解决方案。它基于苹果的 Game Porting Toolkit 进行了自定义实现，支持多个平台，让]]></description>
+            <content:encoded><![CDATA[<p>Mythic 是一款独特的开源游戏启动器，专为 macOS 设计，能够运行 Windows 游戏。此外，它还是 Legendary 的图形用户界面前端，完美契合 macOS 的风格与一致性。</p>
+<p><img src="https://github.com/user-attachments/assets/0d2d80c1-2b16-4490-90ff-55432071e789" alt="image"></p>
+<h3>让 Windows 游戏在 Mac 上畅玩</h3>
+<p>Mythic 是最好的 Windows 游戏在 Mac 上运行的解决方案。它基于苹果的 Game Porting Toolkit 进行了自定义实现，支持多个平台，让你轻松畅玩 Windows® 游戏。</p>
+<h3>你的游戏库，由你掌控</h3>
+<p><img src="https://github.com/user-attachments/assets/56d883e7-ef0f-4bc8-b31c-77087b0dd236" alt="image"></p>
+<p>Mythic 提供美观且可定制的游戏库界面，帮助你轻松管理所有游戏。无论是 Windows® 游戏还是 macOS 原生游戏，都可以整合到一个地方进行管理。</p>
+<h3>开源项目，人人参与</h3>
+<p><img src="https://github.com/user-attachments/assets/f42dd491-dbb2-4a69-86ca-53d91c3068e3" alt="image"></p>
+<p>Mythic 完全开源。如果你觉得某些功能还可以进一步优化，不妨深入代码，为这个项目贡献力量，共同让它变得更好。</p>
+<h3>多个启动器，一站式管理</h3>
+<p><img src="https://github.com/user-attachments/assets/ed1aeadf-00ca-4950-8199-aaf0fd6d7812" alt="image"></p>
+<p>你可以通过 Mythic 安装、设置和启动来自不同启动器的游戏，甚至可以直接通过外部启动器启动你的游戏，实现多平台管理。</p>
+<h3>自定义导入</h3>
+<p><img src="https://github.com/user-attachments/assets/497d9ab0-aee4-4d8a-96fc-633db82a681d" alt="image"></p>
+<p>Epic 游戏不够多？你可以直接将自己的 macOS 或 Windows® 游戏导入 Mythic，轻松管理。</p>
+<h3>简单高效的游戏管理</h3>
+<p><img src="https://github.com/user-attachments/assets/ce5c00bb-6b3b-43c5-9a16-0865fcf9a004" alt="image"></p>
+<p>需要移动游戏文件？想要修改设置或添加启动参数？Mythic 都能轻松满足你的需求，提供无缝的管理体验。</p>
+<h3>虚拟化？轻而易举</h3>
+<p><img src="https://github.com/user-attachments/assets/9c1d56bf-1283-4191-ba1d-ffebba81476b" alt="image"></p>
+<p>Mythic 还支持在应用内创建多个独立的 Windows® 环境。每个游戏都可以在一个独立的环境中运行，确保游戏之间互不干扰、安全隔离。</p>
+<p>通过 Mythic，让你在 macOS 上玩 Windows 游戏变得更加简单直观，无论是游戏管理还是运行环境设置，它都能为你提供最佳体验。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/50" target="_blank">#50</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/0d2d80c1-2b16-4490-90ff-55432071e789" length="0" type="image//user-attachments/assets/0d2d80c1-2b16-4490-90ff-55432071e789"/>
+        </item>
+        <item>
+            <title><![CDATA[FSNotes：现代化的 macOS 和 iOS Markdown 笔记管理器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/49.html</link>
+            <guid>49</guid>
+            <pubDate>Sun, 20 Oct 2024 04:59:41 GMT</pubDate>
+            <description><![CDATA[在当今快节奏的工作和学习环境中，拥有一款轻量高效的笔记管理器至关重要。FSNotes 作为一款适用于 macOS 和 iOS 的现代笔记管理器，以其简洁强大的功能和灵活的使用体验脱颖而出，成为众多用户的首选工具。无论是开发者、作家还是学生，FSNotes 都能满足他们对笔记管理的需求。 FSNotes 的主要功能： 优先支持 Markdown FSNotes 专为 Markdown 爱好者设计，允]]></description>
+            <content:encoded><![CDATA[<p>在当今快节奏的工作和学习环境中，拥有一款轻量高效的笔记管理器至关重要。FSNotes 作为一款适用于 macOS 和 iOS 的现代笔记管理器，以其简洁强大的功能和灵活的使用体验脱颖而出，成为众多用户的首选工具。无论是开发者、作家还是学生，FSNotes 都能满足他们对笔记管理的需求。</p>
+<p><img src="https://github.com/user-attachments/assets/24ecb8f3-d374-4b1d-918d-0e29660d9c67" alt="image"></p>
+<h3>FSNotes 的主要功能：</h3>
+<ol>
+<li>优先支持 Markdown</li>
+</ol>
+<p>FSNotes 专为 Markdown 爱好者设计，允许用户使用纯文本格式进行笔记记录，同时保留了对任何纯文本文件的支持。用户可以轻松编写、编辑和查看 Markdown 笔记，使文档结构更加清晰。</p>
+<ol start="2">
+<li>快速且轻量</li>
+</ol>
+<p>无论您是拥有几十个还是成千上万个笔记，FSNotes 都能快速流畅地运行。它能够毫无压力地处理超过 10k 个文件，极大提升了多文件操作的效率。</p>
+<ol start="3">
+<li>随时随地访问</li>
+</ol>
+<p>FSNotes 支持与 iCloud Drive 或 Dropbox 的同步，让您的笔记无论是在手机、平板还是电脑上，都能保持一致，随时随地访问。</p>
+<ol start="4">
+<li>多文件夹存储</li>
+</ol>
+<p>您可以在多个文件夹中存储笔记，方便分类与管理，保持笔记系统的有序性。</p>
+<ol start="5">
+<li>键盘为中心</li>
+</ol>
+<p>FSNotes 受经典的 nvalt 启发，提供了键盘为中心的控制方式和快捷键，帮助用户快速切换和编辑笔记，减少鼠标的依赖，让工作流程更加顺畅。</p>
+<ol start="6">
+<li>代码块内语法高亮</li>
+</ol>
+<p>对于开发者来说，FSNotes 提供了超过 170 种编程语言的语法高亮功能，使代码笔记更加易读，提升了代码记录和分享的便利性。</p>
+<ol start="7">
+<li>内联图片支持</li>
+</ol>
+<p>FSNotes 支持在笔记中插入和查看图片，极大增强了文档的可视化效果，尤其适合需要图文结合的笔记。</p>
+<ol start="8">
+<li>使用标签和链接组织笔记</li>
+</ol>
+<p>通过标签进行分类管理，或使用 [[双括号]] 实现笔记之间的交叉链接，用户可以轻松构建一个高效的知识网络。</p>
+<ol start="9">
+<li>弹性两窗格视图</li>
+</ol>
+<p>FSNotes 提供垂直和水平布局的两窗格视图，用户可以根据个人喜好选择更加舒适的阅读和编辑界面。</p>
+<ol start="10">
+<li>支持外部编辑器</li>
+</ol>
+<p>FSNotes 支持外部编辑器的实时同步，您可以选择在喜欢的编辑器中进行修改，所有更改会即时反映在 FSNotes 中。</p>
+<ol start="11">
+<li>AES-256 加密</li>
+</ol>
+<p>安全性方面，FSNotes 提供了 AES-256 加密功能，确保敏感信息得到保护。</p>
+<ol start="12">
+<li>版本控制和备份</li>
+</ol>
+<p>FSNotes 提供了可选的 Git 版本控制和备份功能，帮助用户更好地管理历史版本，避免笔记丢失。</p>
+<ol start="13">
+<li>暗黑模式</li>
+</ol>
+<p>内置的暗黑模式能够为长时间使用的用户减轻视觉疲劳，提供更加舒适的体验。</p>
+<p><img src="https://github.com/user-attachments/assets/d3eba015-8719-4bce-b202-3d76e5a1f349" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/49" target="_blank">#49</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/24ecb8f3-d374-4b1d-918d-0e29660d9c67" length="0" type="image//user-attachments/assets/24ecb8f3-d374-4b1d-918d-0e29660d9c67"/>
+        </item>
+        <item>
+            <title><![CDATA[DeskPad: 一款用于屏幕共享的虚拟显示器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/48.html</link>
+            <guid>48</guid>
+            <pubDate>Fri, 18 Oct 2024 09:30:22 GMT</pubDate>
+            <description><![CDATA[在某些工作流程中，分享整个屏幕变得至关重要，尤其是在频繁切换多个应用时。然而，如果演示者的显示器比观众的显示器大得多，观众可能难以看清屏幕内容。DeskPad 正是为了解决这个问题而设计的，它可以创建一个虚拟显示器，并在应用程序窗口内进行镜像，帮助你建立一个专用的、易于共享的工作空间。 功能特点： 创建虚拟显示器： DeskPad 可像其他显示器一样工作。启动该应用程序相当于插入一台新显示器，ma]]></description>
+            <content:encoded><![CDATA[<p>在某些工作流程中，分享整个屏幕变得至关重要，尤其是在频繁切换多个应用时。然而，如果演示者的显示器比观众的显示器大得多，观众可能难以看清屏幕内容。DeskPad 正是为了解决这个问题而设计的，它可以创建一个虚拟显示器，并在应用程序窗口内进行镜像，帮助你建立一个专用的、易于共享的工作空间。</p>
+<p><img src="https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6" alt=""></p>
+<h3>功能特点：</h3>
+<ol>
+<li>创建虚拟显示器：</li>
+</ol>
+<p>DeskPad 可像其他显示器一样工作。启动该应用程序相当于插入一台新显示器，macOS 会自动处理窗口的排列和配置。无论你切换了多少个应用程序，你都可以轻松管理你的工作空间。</p>
+<ol start="2">
+<li>轻松调整分辨率：</li>
+</ol>
+<p>你可以通过系统偏好设置更改虚拟显示器的分辨率，DeskPad 的应用程序窗口会根据分辨率自动调整，以确保最佳显示效果。</p>
+<ol start="3">
+<li>视觉提示：</li>
+</ol>
+<p>当你的鼠标光标移动到虚拟显示器时，DeskPad 会通过蓝色高亮标题栏来提醒你，同时将应用窗口移到最前面，让你随时知道鼠标的具体位置。</p>
+<p><img src="https://github.com/user-attachments/assets/c9333d6c-e97e-4c86-9bf5-9d51d5392406" alt="1"></p>
+<h3>使用场景：</h3>
+<ul>
+<li>屏幕共享： 适用于需要演示多个应用程序或窗口的情况，DeskPad 提供了一个简洁、易于管理的虚拟显示器，确保观众可以清晰地看到所有内容。</li>
+<li>提高效率： 通过创建虚拟显示器，用户可以专注于重要的应用程序，而不会打乱现有的窗口配置，增强工作效率。</li>
+</ul>
+<p>DeskPad 是你进行高效屏幕共享的不二之选，无论是在会议、演示还是远程协作中，它都能让你的工作更加顺畅便捷。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/48" target="_blank">#48</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6" length="0" type="image//user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6"/>
+        </item>
+        <item>
+            <title><![CDATA[Cork: 一款使用 SwiftUI 开发的快速 Homebrew 图形界面工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/47.html</link>
+            <guid>47</guid>
+            <pubDate>Tue, 15 Oct 2024 06:57:24 GMT</pubDate>
+            <description><![CDATA[Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。 Cork 的优势 Cork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能： 自动遵循系统代理设置 在使用 Homebrew 时，Cork 可以自动遵循]]></description>
+            <content:encoded><![CDATA[<p>Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。</p>
+<p><img src="https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212" alt=""></p>
+<h3>Cork 的优势</h3>
+<p>Cork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能：</p>
+<p><img src="https://github.com/user-attachments/assets/e1dbd4ab-70e0-44dd-ba13-2ab8f778f3b6" alt=""></p>
+<ol>
+<li>自动遵循系统代理设置</li>
+</ol>
+<p>在使用 Homebrew 时，Cork 可以自动遵循系统的代理设置，方便用户在受限网络环境中顺利使用。</p>
+<ol start="2">
+<li>清除缓存的下载文件</li>
+</ol>
+<p>Cork 让清理 Homebrew 缓存变得更加简单，只需点击几下，便可以轻松释放磁盘空间。</p>
+<ol start="3">
+<li>无需打开 Cork 即可通过菜单栏更新软件包</li>
+</ol>
+<p>用户可以直接在 macOS 菜单栏中进行 Homebrew 软件包的更新，而不必每次都启动 Cork 应用。</p>
+<ol start="4">
+<li>集中查看包的详细信息</li>
+</ol>
+<p>Cork 将包的各种详细信息集中呈现，帮助用户在一个便捷的界面中快速了解软件包的状态和信息。</p>
+<ol start="5">
+<li>软件包标签功能</li>
+</ol>
+<p>Cork 独有的软件包标记功能让用户可以对感兴趣或重要的软件包进行标记，方便日后跟踪和管理。</p>
+<h3>总结</h3>
+<p>Cork 不仅加速了 Homebrew 的操作，还带来了许多无法通过 Homebrew CLI 实现的便利功能。对于想要更好地管理软件包的 macOS 用户，Cork 是一个不可或缺的工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/47" target="_blank">#47</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212" length="0" type="image//user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212"/>
+        </item>
+        <item>
+            <title><![CDATA[macmon：为 Apple Silicon 提供无须 sudo 的实时性能监控]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/46.html</link>
+            <guid>46</guid>
+            <pubDate>Mon, 14 Oct 2024 20:49:37 GMT</pubDate>
+            <description><![CDATA[Apple Silicon 处理器以其出色的性能和能效广受欢迎，然而，想要查看设备的实时功耗、CPU/GPU 使用率等数据却不是一件简单的事情。大部分工具依赖 powermetrics 等系统命令，往往需要 sudo 权限运行。对于那些对硬件性能和系统资源高度敏感的用户来说，这显然不够方便。而现在，macmon 的出现为这一问题提供了优雅的解决方案。 brew install vladkens/t]]></description>
+            <content:encoded><![CDATA[<p>Apple Silicon 处理器以其出色的性能和能效广受欢迎，然而，想要查看设备的实时功耗、CPU/GPU 使用率等数据却不是一件简单的事情。大部分工具依赖 powermetrics 等系统命令，往往需要 sudo 权限运行。对于那些对硬件性能和系统资源高度敏感的用户来说，这显然不够方便。而现在，macmon 的出现为这一问题提供了优雅的解决方案。</p>
+<p><img src="https://github.com/user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4" alt=""></p>
+<pre class="language-sh"><code class="language-sh code-highlight"><span class="code-line line-number" line="1">brew <span class="token function">install</span> vladkens/tap/macmon
+</span></code></pre>
+<pre class="language-sh"><code class="language-sh code-highlight"><span class="code-line line-number" line="1">Usage: macmon <span class="token punctuation">[</span>OPTIONS<span class="token punctuation">]</span> <span class="token punctuation">[</span>COMMAND<span class="token punctuation">]</span>
+</span><span class="code-line line-number" line="2">
+</span><span class="code-line line-number" line="3">Commands:
+</span><span class="code-line line-number" line="4">  raw   Print raw metrics data instead of TUI
+</span><span class="code-line line-number" line="5">  <span class="token builtin class-name">help</span>  Print this message or the <span class="token builtin class-name">help</span> of the given subcommand<span class="token punctuation">(</span>s<span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="6">
+</span><span class="code-line line-number" line="7">Options:
+</span><span class="code-line line-number" line="8">  -i, <span class="token parameter variable">--interval</span> <span class="token operator">&#x3C;</span>INTERVAL<span class="token operator">></span>  Update interval <span class="token keyword">in</span> milliseconds <span class="token punctuation">[</span>default: <span class="token number">1000</span><span class="token punctuation">]</span>
+</span><span class="code-line line-number" line="9">  -h, <span class="token parameter variable">--help</span>                 Print <span class="token builtin class-name">help</span>
+</span><span class="code-line line-number" line="10">  -V, <span class="token parameter variable">--version</span>              Print version
+</span><span class="code-line line-number" line="11">
+</span><span class="code-line line-number" line="12">Controls:
+</span><span class="code-line line-number" line="13">  c - change color
+</span><span class="code-line line-number" line="14">  q - quit
+</span></code></pre>
+<h3>为什么选择 macmon？</h3>
+<h4>1.  无须 sudo，简洁易用</h4>
+<p>macmon 使用了 macOS 的私有 API 来读取系统性能指标，类似于 powermetrics 的数据，却不再需要 sudo 权限。这意味着你可以随时随地查看设备的实时状态，无需繁琐的授权或担心系统安全。</p>
+<h4>2.  实时功耗监控</h4>
+<p>macmon 可以实时显示 CPU、GPU 和 ANE（Apple Neural Engine）的功耗情况，帮助你了解设备在不同负载下的能源消耗，特别适合运行深度学习模型、图像处理或其他高性能任务时查看。</p>
+<h4>3.  详细的 CPU 使用率</h4>
+<p>macmon 能显示每个 CPU 集群的利用率，让你对高效能核心与高能效核心的工作情况一目了然。你可以清楚地看到不同任务如何分配到不同的 CPU 集群上，从而更好地理解系统性能。</p>
+<h4>4.  内存和 Swap 使用</h4>
+<p>对于开发者和专业用户来说，内存的使用情况是非常关键的。macmon 提供了详细的内存和交换分区使用情况，帮助你优化内存管理，提高应用性能。</p>
+<h4>5.  温度监控</h4>
+<p>macmon 提供 CPU 和 GPU 的实时温度监控，避免系统过热。对于长时间运行高强度任务的用户来说，温度监控尤为重要。</p>
+<h4>6.  历史数据与统计</h4>
+<p>不仅如此，macmon 还可以显示性能数据的历史趋势图，支持查看平均值和最大值。你可以轻松分析系统在一段时间内的表现，找出潜在的性能瓶颈。</p>
+<h4>7.  丰富的定制选项</h4>
+<p>macmon 提供六种配色方案，用户可以根据喜好切换 UI 颜色风格。它还支持在小窗口中显示，方便你边工作边查看系统状态。</p>
+<h4>8.  基于 Rust 构建，高效可靠</h4>
+<p>macmon 由 Rust 语言编写，运行高效，占用系统资源极少，确保你的监控工具不会对系统产生额外负担。</p>
+<h3>结语</h3>
+<p>macmon 是每一位 Apple Silicon 用户的必备工具，无论你是开发者、设计师，还是技术爱好者，它都可以帮助你深入了解系统性能，随时掌握设备的运行状态。无需 sudo 权限，高效便捷，macmon 将是你优化系统和应用的得力助手。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/46" target="_blank">#46</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4" length="0" type="image//user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4"/>
+        </item>
+        <item>
+            <title><![CDATA[Marta: 专为 macOS 打造的文件管理器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/45.html</link>
+            <guid>45</guid>
+            <pubDate>Mon, 14 Oct 2024 15:32:55 GMT</pubDate>
+            <description><![CDATA[Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。 隐私至上 Marta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。 强大的归档支持 Marta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR、ISO 等多种]]></description>
+            <content:encoded><![CDATA[<p>Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。</p>
+<p><img src="https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79" alt="image"></p>
+<h3>隐私至上</h3>
+<p>Marta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。</p>
+<h3>强大的归档支持</h3>
+<p><img src="https://github.com/user-attachments/assets/a025d26a-8493-43fa-be90-2f41d832db32" alt=""></p>
+<p>Marta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR、ISO 等多种格式，甚至可以浏览和编辑嵌套归档中的文件。</p>
+<h3>高度自定义</h3>
+<p>Marta 为高级用户设计，提供广泛的配置选项。通过简洁的 DSL 配置语言，轻松编辑和分享配置文件，无需在繁琐的选项卡中迷失。</p>
+<h3>主题支持</h3>
+<p><img src="https://github.com/user-attachments/assets/b6ebbd24-271c-48a0-8995-8f67c6d89f46" alt=""></p>
+<p>Marta 提供五种精美主题，支持浅色和深色模式，甚至还有经典的蓝底白字主题。你还可以根据个人喜好创建自己的主题。</p>
+<h3>插件 API</h3>
+<p>Marta 提供强大的 Lua API，让你可以快速编写插件，轻松适应你的个性化需求。</p>
+<p><img src="https://github.com/user-attachments/assets/422ae0bb-90b6-4657-b026-91f7e54c57a0" alt=""></p>
+<p>其他亮点功能：</p>
+<ul>
+<li>操作面板：快捷键 ⌘⇧P 打开操作面板，快速执行任何操作。</li>
+<li>快速搜索：使用子字符串或正则表达式，瞬间定位文件。</li>
+<li>系统全局文件搜索：借助 macOS 索引功能，快速找到任何文件。</li>
+<li>多窗口与标签页支持：随心所欲打开多个窗口和标签页。</li>
+<li>显示隐藏文件：按下快捷键，一键显示隐藏文件。</li>
+<li>文件预览：按空格键，像 Finder 一样快速预览文件。</li>
+<li>任务队列：管理所有正在进行的文件操作，随时暂停和恢复。</li>
+<li>磁盘使用分析：轻松找出磁盘空间的占用情况。</li>
+<li>内置终端：从文件面板直接打开同步目录的终端。</li>
+</ul>
+<p>无论是普通用户还是高级用户，Marta 都能为你提供极致的文件管理体验。立即下载，享受高效管理文件的乐趣！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/45" target="_blank">#45</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79" length="0" type="image//user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79"/>
+        </item>
+        <item>
+            <title><![CDATA[Dokploy: 强大的开源自托管 PaaS 解决方案]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/44.html</link>
+            <guid>44</guid>
+            <pubDate>Sun, 13 Oct 2024 06:53:24 GMT</pubDate>
+            <description><![CDATA[随着云计算和应用托管的普及，越来越多的开发者和团队需要简化应用程序和数据库的部署与管理。传统平台如 Vercel、Netlify 和 Heroku 提供了托管解决方案，但很多用户希望能够获得更多的灵活性和自主管理。Dokploy，作为一个免费、开源且自托管的 Platform as a Service (PaaS)，为此提供了理想的替代方案。 什么是 Dokploy？ Dokploy 是一个自托管]]></description>
+            <content:encoded><![CDATA[<p>随着云计算和应用托管的普及，越来越多的开发者和团队需要简化应用程序和数据库的部署与管理。传统平台如 Vercel、Netlify 和 Heroku 提供了托管解决方案，但很多用户希望能够获得更多的灵活性和自主管理。Dokploy，作为一个免费、开源且自托管的 Platform as a Service (PaaS)，为此提供了理想的替代方案。</p>
+<p><img src="https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704" alt="image"></p>
+<h3>什么是 Dokploy？</h3>
+<p>Dokploy 是一个自托管的 PaaS 平台，允许开发者轻松部署和管理多种类型的应用程序和数据库。它支持 Node.js、PHP、Python、Go、Ruby 等主流编程语言，并且为 MySQL、PostgreSQL、MongoDB、MariaDB、Redis 等数据库提供了便捷的管理工具。无论是小型应用程序，还是需要高扩展性的大型应用，Dokploy 都能够应对。</p>
+<p><img src="https://github.com/user-attachments/assets/bef89f97-4e4e-4c16-b53b-f1878e61c825" alt="image"></p>
+<h3>主要功能</h3>
+<ol>
+<li>应用程序部署：Dokploy 支持部署几乎所有类型的应用程序，开发者可以快速启动并运行。</li>
+<li>数据库管理：轻松创建和管理数据库，并自动化备份到外部存储。</li>
+<li>Docker Compose 支持：原生支持 Docker Compose，简化复杂应用程序的管理。</li>
+<li>多节点扩展：使用 Docker Swarm 进行多节点管理，让应用程序可以在多个服务器上扩展。</li>
+<li>Traefik 集成：自动与 Traefik 路由和负载均衡集成，无需手动配置。</li>
+<li>实时监控：用户可以实时监控 CPU、内存、存储、网络等资源的使用情况。</li>
+<li>CLI 和 API 管理：通过命令行或 API，用户可以灵活管理应用程序和数据库。</li>
+<li>通知系统：支持 Slack、Discord、Telegram 等工具，当部署成功或失败时，用户会实时收到通知。</li>
+</ol>
+<p><img src="https://github.com/user-attachments/assets/8c2609c3-71c6-48bc-9436-e77c238ab18c" alt="image"></p>
+<h3>为什么选择 Dokploy？</h3>
+<p>Dokploy 的亮点在于它的开源和自托管属性，这意味着用户可以完全掌控自己的基础设施。与 Vercel、Netlify 等受限于托管服务提供商的平台不同，Dokploy 允许用户在自己的 VPS 上部署，确保数据安全和灵活性。此外，Dokploy 的多节点支持和自动扩展功能，使其非常适合需要高可用性和横向扩展的项目。</p>
+<p><img src="https://github.com/user-attachments/assets/5619e504-0105-49c4-90c3-4e68fd168a2e" alt="image"></p>
+<p>对于需要管理复杂应用程序和数据库的开发者来说，Dokploy 提供了便捷而强大的功能集成，并且可以通过 Docker Compose 和 Docker Swarm 快速扩展和管理多节点集群。</p>
+<p><img src="https://github.com/user-attachments/assets/f6a4fde6-e22a-4591-8c55-f239ae0a321c" alt="image"></p>
+<h3>结语</h3>
+<p>如果你正在寻找一个可以替代 Vercel、Netlify 和 Heroku 的解决方案，同时希望拥有完全的控制权，Dokploy 是一个值得探索的开源工具。它不仅简化了应用程序的部署和管理，还提供了灵活的扩展和高度自定义的自托管功能，为开发者提供了前所未有的便利和自由。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/44" target="_blank">#44</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704" length="0" type="image//user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704"/>
+        </item>
+        <item>
+            <title><![CDATA[PasteQuick：您的隐私专注剪贴板管理工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/43.html</link>
+            <guid>43</guid>
+            <pubDate>Mon, 07 Oct 2024 22:40:18 GMT</pubDate>
+            <description><![CDATA[在快节奏的数字世界中，高效管理临时数据至关重要。PasteQuick 是一款简单而强大的剪贴板管理工具，专注于隐私保护，帮助您轻松管理文本、链接、图片和代码等各种数据。 主要功能： 隐私保护：PasteQuick 优先考虑您的安全，所有剪贴板历史记录均存储在您的设备本地。您还可以选择排除特定应用程序的记录，确保您的数据始终保持私密和安全。 多媒体预览：该工具支持图片缩略图预览，允许您快速查看复制的]]></description>
+            <content:encoded><![CDATA[<p>在快节奏的数字世界中，高效管理临时数据至关重要。<strong>PasteQuick</strong> 是一款简单而强大的剪贴板管理工具，专注于隐私保护，帮助您轻松管理文本、链接、图片和代码等各种数据。</p>
+<h3>主要功能：</h3>
+<p><strong>隐私保护</strong>：PasteQuick 优先考虑您的安全，所有剪贴板历史记录均存储在您的设备本地。您还可以选择排除特定应用程序的记录，确保您的数据始终保持私密和安全。</p>
+<p><img src="https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258" alt="screenshots-1-cn"></p>
+<p><strong>多媒体预览</strong>：该工具支持图片缩略图预览，允许您快速查看复制的图片，无需打开其他应用程序。</p>
+<p><img src="https://github.com/user-attachments/assets/7d088189-63b7-465a-982e-0a9488c4a71e" alt="screenshots-2-cn"></p>
+<p><strong>自定义选项</strong>：通过可自定义的列表显示设置，您可以根据需要选择隐藏或显示特定内容，使其适应不同的使用场景。</p>
+<p><img src="https://github.com/user-attachments/assets/addc1683-4c1c-4601-89bb-d95dfad382a9" alt="screenshots-3-cn"></p>
+<p>PasteQuick 还在不断优化和开发中，旨在为您的日常工作带来更多便利。我们非常欢迎您的宝贵反馈和建议，帮助我们进一步完善应用！</p>
+<p>体验 PasteQuick，让您的剪贴板管理更加高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/43" target="_blank">#43</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258" length="0" type="image//user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258"/>
+        </item>
+        <item>
+            <title><![CDATA[MIST: 一款强大的 macOS 固件与安装包下载工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/42.html</link>
+            <guid>42</guid>
+            <pubDate>Sun, 06 Oct 2024 15:03:37 GMT</pubDate>
+            <description><![CDATA[MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。 MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 .app、.dmg、.iso 等格式，适用于虚拟化软件，还可以生成 macOS 安装]]></description>
+            <content:encoded><![CDATA[<p>MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。</p>
+<p><img src="https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8" alt=""></p>
+<p>MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 <code>.app</code>、<code>.dmg</code>、<code>.iso</code> 等格式，适用于虚拟化软件，还可以生成 macOS 安装包（.pkg）。此外，它支持自定义软件更新目录，缓存下载，并提供自动重试失败的下载操作。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/42" target="_blank">#42</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8" length="0" type="image//user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8"/>
+        </item>
+        <item>
+            <title><![CDATA[SwiftUI 的协调器父级的好奇案例]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/41.html</link>
+            <guid>41</guid>
+            <pubDate>Fri, 04 Oct 2024 22:15:04 GMT</pubDate>
+            <description><![CDATA[我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到了一个有趣的问题，我敢打赌我不是唯一一个。 问题 当我学习一个新的 API 时，我喜欢从一个新的项目开始。这可以帮助我专注于任务，避免与更大项目集成时的复杂性。]]></description>
+            <content:encoded><![CDATA[<p>我在 SwiftUI 方面还是个初学者。我偶尔尝试过，但大部分时间我真的不知道自己在做什么。最近，我有机会再试一次。对于这个特定的实验，我想将一个现有的视图封装起来，以便我可以从 SwiftUI 访问它。这部分是相当标准的东西。然而，我遇到了一个有趣的问题，我敢打赌我不是唯一一个。</p>
+<h3>问题</h3>
+<p>当我学习一个新的 API 时，我喜欢从一个新的项目开始。这可以帮助我专注于任务，避免与更大项目集成时的复杂性。我的目标是将 <code>NSTableView</code> 包装起来，并将其嵌入到 SwiftUI 的视图层次结构中。所以，我创建了一个新项目，并根据苹果的 SwiftUI 教程 <a href="https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit">Interfacing with UIKit</a> 进行操作，按照需要将其适配为 AppKit 和我的问题。</p>
+<p>我感觉挺不错的，因为我很快就实现了基本功能。这个实现遵循了 <code>View</code>-<code>NSView</code>-<code>Coordinator</code> 的模式，结构在仔细研究之后很容易理解。</p>
+<p>以下是我编写的代码：</p>
+<pre class="language-swift"><code class="language-swift code-highlight"><span class="code-line line-number" line="1"><span class="token keyword">struct</span> <span class="token class-name">EventsTableView</span><span class="token punctuation">:</span> <span class="token class-name">NSViewRepresentable</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="2">    <span class="token keyword">var</span> events<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token class-name">String</span><span class="token punctuation">]</span>
+</span><span class="code-line line-number" line="3">
+</span><span class="code-line line-number" line="4">    <span class="token keyword">func</span> <span class="token function-definition function">makeCoordinator</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">Coordinator</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="5">        <span class="token class-name">Coordinator</span><span class="token punctuation">(</span><span class="token keyword">self</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="6">    <span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="7">
+</span><span class="code-line line-number" line="8">    <span class="token keyword">func</span> <span class="token function-definition function">makeNSView</span><span class="token punctuation">(</span>context<span class="token punctuation">:</span> <span class="token class-name">Context</span><span class="token punctuation">)</span> <span class="token operator">-></span> <span class="token class-name">NSScrollView</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="9">        <span class="token keyword">let</span> column <span class="token operator">=</span> <span class="token class-name">NSTableColumn</span><span class="token punctuation">(</span>identifier<span class="token punctuation">:</span> <span class="token punctuation">.</span>exampleColumn<span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="10">        column<span class="token punctuation">.</span>width <span class="token operator">=</span> <span class="token number">100.0</span>
+</span><span class="code-line line-number" line="11">
+</span><span class="code-line line-number" line="12">        <span class="token keyword">let</span> tableView <span class="token operator">=</span> <span class="token class-name">NSTableView</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="13">
+</span><span class="code-line line-number" line="14">        tableView<span class="token punctuation">.</span>headerView <span class="token operator">=</span> <span class="token nil constant">nil</span>
+            <pubDate>Tue, 08 Apr 2025 02:12:47 GMT</pubDate>
+
+get_module
+===
+
+获取Linux内核模块的详细信息
+
+## 补充说明
+
+**get_module命令** 用于获取Linux内核模块的详细信息。
+
+###  语法
+
+```shell
+get_module 模块名
+```
+
+###  实例
+
+使用lsmod命令查看内核模块：
+
+```shell
+lsmod | head -5
+Module                  Size  Used by
+ipv6                  272801  15
+xfrm_nalgo             13381  1 ipv6
+crypto_api             12609  1 xfrm_nalgo
+ip_conntrack_ftp       11569  0
+```
+
+使用get_module命令查看模块详细信息：
+
+```shell
+get_module ipv6
+        refcnt               : 15
+        srcversion           : 8CC9C024755B4483E56C0EF
+
+Parameters:
+        autoconf             : 1
+        disable              : 0
+        disable_ipv6         : 0
+Sections:
+        .altinstr_replacement : 0xf8f1a3cf
+        .altinstructions     : 0xf8f1d03c
+        .bss                 : 0xf8f36000
+        .data.read_mostly    : 0xf8f34d20
+        .data                : 0xf8f2f7a0
+        .exit.text           : 0xf8f1a234
+        .gnu.linkonce.this_module : 0xf8f34e00
+        .init.data           : 0xf8a16a60
+        .init.text           : 0xf8a16000
+        .module_sig          : 0xf8f37960
+        .rodata.str1.1       : 0xf8f1ae46
+        .rodata              : 0xf8f1a420
+        .smp_locks           : 0xf8f1d150
+        .strtab              : 0xf8f29840
+        .symtab              : 0xf8f24000
+        .text                : 0xf8ef5000
+        __kcrctab            : 0xf8f1de70
+        __kcrctab_gpl        : 0xf8f1d9cc
+        __ksymtab            : 0xf8f1dd78
+        __ksymtab_gpl        : 0xf8f1d954
+        __ksymtab_strings    : 0xf8f1da44
+        __param              : 0xf8f1da08
+        __versions           : 0xf8f1df00
+```
+
+
+default.cpp:1:1: error: unknown type name 'get_module'
+get_module
+^
+default.cpp:2:1: error: expected unqualified-id
+===
+^
+default.cpp:8:66: error: non-ASCII characters are not allowed outside of literals and identifiers
+**get_module命令** 用于获取Linux内核模块的详细信息。
+                                                  ^~
+default.cpp:71:92: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                        ^~
+default.cpp:71:213: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                   ^~
+default.cpp:71:297: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                              ^~
+default.cpp:71:404: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                                                                                                       ^~
+default.cpp:71:535: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                                                                                                                                                                                                  ^~
+default.cpp:76:379: error: non-ASCII characters are not allowed outside of literals and identifiers
+2. tailf check文件增长时，使用的是文件名， 用stat系统调用；而tail -f 则使用的是已打开的文件描述符； 注：tail 也可以做到类似跟踪文件名的效果； 但是tail总是使用fstat系统调用，而不是stat系统调用；结果就是：默认情况下，当tail的文件被偷偷删除时，tail是不知道的，而tailf是知道的。
+                                                                                                                                                                                                                                                                                ^~
+default.cpp:81:98: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf logfile # 动态跟踪日志文件logfile，最初的时候打印文件的最后10行内容。
+                                                                         ^~
+default.cpp:95:28: error: non-ASCII characters are not allowed outside of literals and identifiers
+目标：指定目标日志。
+                  ^~
+11 errors generated.default.cpp:1:1: error: unknown type name 'get_module'
+get_module
+^
+default.cpp:2:1: error: expected unqualified-id
+===
+^
+default.cpp:8:66: error: non-ASCII characters are not allowed outside of literals and identifiers
+**get_module命令** 用于获取Linux内核模块的详细信息。
+                                                  ^~
+default.cpp:71:92: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                        ^~
+default.cpp:71:213: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                   ^~
+default.cpp:71:297: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                              ^~
+default.cpp:71:404: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                                                                                                       ^~
+default.cpp:71:535: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                                                                                                                                                                                                  ^~
+default.cpp:76:379: error: non-ASCII characters are not allowed outside of literals and identifiers
+2. tailf check文件增长时，使用的是文件名， 用stat系统调用；而tail -f 则使用的是已打开的文件描述符； 注：tail 也可以做到类似跟踪文件名的效果； 但是tail总是使用fstat系统调用，而不是stat系统调用；结果就是：默认情况下，当tail的文件被偷偷删除时，tail是不知道的，而tailf是知道的。
+                                                                                                                                                                                                                                                                                ^~
+default.cpp:81:98: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf logfile # 动态跟踪日志文件logfile，最初的时候打印文件的最后10行内容。
+                                                                         ^~
+default.cpp:95:28: error: non-ASCII characters are not allowed outside of literals and identifiers
+目标：指定目标日志。
+                  ^~
+default.cpp:110:185: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                              ^~
+default.cpp:110:260: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                                                                                 ^~
+default.cpp:110:350: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                                                                                                                                             ^~
+default.cpp:112:55: error: non-ASCII characters are not allowed outside of literals and identifiers
+只有文件主和超级用户才可以使用该命令。
+                                    ^~
+default.cpp:123:6: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+    ^
+default.cpp:123:9: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+     ^
+default.cpp:123:34: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+                       ^
+default.cpp:123:39: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+                          ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+default.cpp:1:1: error: unknown type name 'get_module'
+get_module
+^
+default.cpp:2:1: error: expected unqualified-id
+===
+^
+default.cpp:8:66: error: non-ASCII characters are not allowed outside of literals and identifiers
+**get_module命令** 用于获取Linux内核模块的详细信息。
+                                                  ^~
+default.cpp:71:92: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                        ^~
+default.cpp:71:213: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                   ^~
+default.cpp:71:297: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                              ^~
+default.cpp:71:404: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                                                                                                       ^~
+default.cpp:71:535: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf命令几乎等同于`tail -f`，严格说来应该与`tail --follow=name`更相似些。当文件改名之后它也能继续跟踪，特别适合于日志文件的跟踪（follow the growth of a log file）。与`tail -f`不同的是，如果文件不增长，它不会去访问磁盘文件。tailf特别适合那些便携机上跟踪日志文件，因为它能省电，因为减少了磁盘访问。tailf命令不是个脚本，而是一个用C代码编译后的二进制执行文件，某些Linux安装之后没有这个命令。
+                                                                                                                                                                                                                                                                                                                                                                                                  ^~
+default.cpp:76:379: error: non-ASCII characters are not allowed outside of literals and identifiers
+2. tailf check文件增长时，使用的是文件名， 用stat系统调用；而tail -f 则使用的是已打开的文件描述符； 注：tail 也可以做到类似跟踪文件名的效果； 但是tail总是使用fstat系统调用，而不是stat系统调用；结果就是：默认情况下，当tail的文件被偷偷删除时，tail是不知道的，而tailf是知道的。
+                                                                                                                                                                                                                                                                                ^~
+default.cpp:81:98: error: non-ASCII characters are not allowed outside of literals and identifiers
+tailf logfile # 动态跟踪日志文件logfile，最初的时候打印文件的最后10行内容。
+                                                                         ^~
+default.cpp:95:28: error: non-ASCII characters are not allowed outside of literals and identifiers
+目标：指定目标日志。
+                  ^~
+default.cpp:110:185: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                              ^~
+default.cpp:110:260: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                                                                                 ^~
+default.cpp:110:350: error: non-ASCII characters are not allowed outside of literals and identifiers
+**chown命令** 改变某个文件或目录的所有者和所属的组，该命令可以向某个用户授权，使该用户变成指定文件的所有者或者改变文件所属的组。用户可以是用户或者是用户D，用户组可以是组名或组id。文件名可以使由空格分开的文件列表，在文件名中可以包含通配符。
+                                                                                                                                                                                                                                             ^~
+default.cpp:112:55: error: non-ASCII characters are not allowed outside of literals and identifiers
+只有文件主和超级用户才可以使用该命令。
+                                    ^~
+default.cpp:123:6: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+    ^
+default.cpp:123:9: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+     ^
+default.cpp:123:34: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+                       ^
+default.cpp:123:39: error: non-ASCII characters are not allowed outside of literals and identifiers
+-c或——changes：效果类似“-v”参数，但仅回报更改的部分；
+                          ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+https://github.com/jaywcjlove/quick-rss/tree/main/feed[
+  {
+    "id": "48",
+    "url": "https://wangchujiang.com/quick-rss/issue/48.html",
+    "title": "DeskPad: 一款用于屏幕共享的虚拟显示器",
+    "content_html": "<p>在某些工作流程中，分享整个屏幕变得至关重要，尤其是在频繁切换多个应用时。然而，如果演示者的显示器比观众的显示器大得多，观众可能难以看清屏幕内容。DeskPad 正是为了解决这个问题而设计的，它可以创建一个虚拟显示器，并在应用程序窗口内进行镜像，帮助你建立一个专用的、易于共享的工作空间。</p>\n<p><img src=\"https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6\" alt=\"\"></p>\n<h3>功能特点：</h3>\n<ol>\n<li>创建虚拟显示器：</li>\n</ol>\n<p>DeskPad 可像其他显示器一样工作。启动该应用程序相当于插入一台新显示器，macOS 会自动处理窗口的排列和配置。无论你切换了多少个应用程序，你都可以轻松管理你的工作空间。</p>\n<ol start=\"2\">\n<li>轻松调整分辨率：</li>\n</ol>\n<p>你可以通过系统偏好设置更改虚拟显示器的分辨率，DeskPad 的应用程序窗口会根据分辨率自动调整，以确保最佳显示效果。</p>\n<ol start=\"3\">\n<li>视觉提示：</li>\n</ol>\n<p>当你的鼠标光标移动到虚拟显示器时，DeskPad 会通过蓝色高亮标题栏来提醒你，同时将应用窗口移到最前面，让你随时知道鼠标的具体位置。</p>\n<p><img src=\"https://github.com/user-attachments/assets/c9333d6c-e97e-4c86-9bf5-9d51d5392406\" alt=\"1\"></p>\n<h3>使用场景：</h3>\n<ul>\n<li>屏幕共享： 适用于需要演示多个应用程序或窗口的情况，DeskPad 提供了一个简洁、易于管理的虚拟显示器，确保观众可以清晰地看到所有内容。</li>\n<li>提高效率： 通过创建虚拟显示器，用户可以专注于重要的应用程序，而不会打乱现有的窗口配置，增强工作效率。</li>\n</ul>\n<p>DeskPad 是你进行高效屏幕共享的不二之选，无论是在会议、演示还是远程协作中，它都能让你的工作更加顺畅便捷。</p>",
+    "summary": "在某些工作流程中，分享整个屏幕变得至关重要，尤其是在频繁切换多个应用时。然而，如果演示者的显示器比观众的显示器大得多，观众可能难以看清屏幕内容。DeskPad 正是为了解决这个问题而设计的，它可以创建一个虚拟显示器，并在应用程序窗口内进行镜像，帮助你建立一个专用的、易于共享的工作空间。 ### 功能特点： 1. 创建虚拟显示器： DeskPad 可像其他显示器一样工作。启动该应用程序相当于插入一台",
+    "banner_image": "https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6",
+    "date_published": "2024-10-18T09:30:22Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "在某些工作流程中，分享整个屏幕变得至关重要，尤其是在频繁切换多个应用时。然而，如果演示者的显示器比观众的显示器大得多，观众可能难以看清屏幕内容。DeskPad 正是为了解决这个问题而设计的，它可以创建一个虚拟显示器，并在应用程序窗口内进行镜像，帮助你建立一个专用的、易于共享的工作空间。\r\n\r\n![](https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6)\r\n\r\n### 功能特点：\r\n\r\n1. 创建虚拟显示器：\r\n\r\nDeskPad 可像其他显示器一样工作。启动该应用程序相当于插入一台新显示器，macOS 会自动处理窗口的排列和配置。无论你切换了多少个应用程序，你都可以轻松管理你的工作空间。\r\n\r\n2. 轻松调整分辨率：\r\n\r\n你可以通过系统偏好设置更改虚拟显示器的分辨率，DeskPad 的应用程序窗口会根据分辨率自动调整，以确保最佳显示效果。\r\n\r\n3. 视觉提示：\r\n\r\n当你的鼠标光标移动到虚拟显示器时，DeskPad 会通过蓝色高亮标题栏来提醒你，同时将应用窗口移到最前面，让你随时知道鼠标的具体位置。\r\n\r\n![1](https://github.com/user-attachments/assets/c9333d6c-e97e-4c86-9bf5-9d51d5392406)\r\n\r\n### 使用场景：\r\n\r\n- 屏幕共享： 适用于需要演示多个应用程序或窗口的情况，DeskPad 提供了一个简洁、易于管理的虚拟显示器，确保观众可以清晰地看到所有内容。\r\n- 提高效率： 通过创建虚拟显示器，用户可以专注于重要的应用程序，而不会打乱现有的窗口配置，增强工作效率。\r\n\r\nDeskPad 是你进行高效屏幕共享的不二之选，无论是在会议、演示还是远程协作中，它都能让你的工作更加顺畅便捷。"
+  },
+  {
+    "id": "47",
+    "url": "https://wangchujiang.com/quick-rss/issue/47.html",
+    "title": "Cork: 一款使用 SwiftUI 开发的快速 Homebrew 图形界面工具",
+    "content_html": "<p>Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。</p>\n<p><img src=\"https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212\" alt=\"\"></p>\n<h3>Cork 的优势</h3>\n<p>Cork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能：</p>\n<p><img src=\"https://github.com/user-attachments/assets/e1dbd4ab-70e0-44dd-ba13-2ab8f778f3b6\" alt=\"\"></p>\n<ol>\n<li>自动遵循系统代理设置</li>\n</ol>\n<p>在使用 Homebrew 时，Cork 可以自动遵循系统的代理设置，方便用户在受限网络环境中顺利使用。</p>\n<ol start=\"2\">\n<li>清除缓存的下载文件</li>\n</ol>\n<p>Cork 让清理 Homebrew 缓存变得更加简单，只需点击几下，便可以轻松释放磁盘空间。</p>\n<ol start=\"3\">\n<li>无需打开 Cork 即可通过菜单栏更新软件包</li>\n</ol>\n<p>用户可以直接在 macOS 菜单栏中进行 Homebrew 软件包的更新，而不必每次都启动 Cork 应用。</p>\n<ol start=\"4\">\n<li>集中查看包的详细信息</li>\n</ol>\n<p>Cork 将包的各种详细信息集中呈现，帮助用户在一个便捷的界面中快速了解软件包的状态和信息。</p>\n<ol start=\"5\">\n<li>软件包标签功能</li>\n</ol>\n<p>Cork 独有的软件包标记功能让用户可以对感兴趣或重要的软件包进行标记，方便日后跟踪和管理。</p>\n<h3>总结</h3>\n<p>Cork 不仅加速了 Homebrew 的操作，还带来了许多无法通过 Homebrew CLI 实现的便利功能。对于想要更好地管理软件包的 macOS 用户，Cork 是一个不可或缺的工具。</p>",
+    "summary": "Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。 ### Cork 的优势 Cork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能： 1. 自动遵循系统代理设置 在使用 Homebrew 时，Cork",
+    "banner_image": "https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212",
+    "date_published": "2024-10-15T06:57:24Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Cork 是一款专门为 macOS 用户打造的 Homebrew 图形界面应用，采用 SwiftUI 开发，提供了快速、直观的操作体验，让管理 Homebrew 包变得更加简单和高效。\r\n\r\n![](https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212)\r\n\r\n### Cork 的优势\r\n\r\nCork 不仅仅是 Homebrew 的图形界面，它提供了许多通过 Homebrew 本身难以实现，甚至无法完成的功能：\r\n\r\n![](https://github.com/user-attachments/assets/e1dbd4ab-70e0-44dd-ba13-2ab8f778f3b6)\r\n\r\n1. 自动遵循系统代理设置\r\n\r\n在使用 Homebrew 时，Cork 可以自动遵循系统的代理设置，方便用户在受限网络环境中顺利使用。\r\n\r\n2. 清除缓存的下载文件\r\n\r\nCork 让清理 Homebrew 缓存变得更加简单，只需点击几下，便可以轻松释放磁盘空间。\r\n\r\n3. 无需打开 Cork 即可通过菜单栏更新软件包\r\n\r\n用户可以直接在 macOS 菜单栏中进行 Homebrew 软件包的更新，而不必每次都启动 Cork 应用。\r\n\r\n4. 集中查看包的详细信息\r\n\r\nCork 将包的各种详细信息集中呈现，帮助用户在一个便捷的界面中快速了解软件包的状态和信息。\r\n\r\n5. 软件包标签功能\r\n\r\nCork 独有的软件包标记功能让用户可以对感兴趣或重要的软件包进行标记，方便日后跟踪和管理。\r\n\r\n### 总结\r\n\r\nCork 不仅加速了 Homebrew 的操作，还带来了许多无法通过 Homebrew CLI 实现的便利功能。对于想要更好地管理软件包的 macOS 用户，Cork 是一个不可或缺的工具。"
+  },
+  {
+    "id": "46",
+    "url": "https://wangchujiang.com/quick-rss/issue/46.html",
+    "title": "macmon：为 Apple Silicon 提供无须 sudo 的实时性能监控",
+    "content_html": "<p>Apple Silicon 处理器以其出色的性能和能效广受欢迎，然而，想要查看设备的实时功耗、CPU/GPU 使用率等数据却不是一件简单的事情。大部分工具依赖 powermetrics 等系统命令，往往需要 sudo 权限运行。对于那些对硬件性能和系统资源高度敏感的用户来说，这显然不够方便。而现在，macmon 的出现为这一问题提供了优雅的解决方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4\" alt=\"\"></p>\n<pre class=\"language-sh\"><code class=\"language-sh code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew <span class=\"token function\">install</span> vladkens/tap/macmon\n</span></code></pre>\n<pre class=\"language-sh\"><code class=\"language-sh code-highlight\"><span class=\"code-line line-number\" line=\"1\">Usage: macmon <span class=\"token punctuation\">[</span>OPTIONS<span class=\"token punctuation\">]</span> <span class=\"token punctuation\">[</span>COMMAND<span class=\"token punctuation\">]</span>\r\n</span><span class=\"code-line line-number\" line=\"2\">\r\n</span><span class=\"code-line line-number\" line=\"3\">Commands:\r\n</span><span class=\"code-line line-number\" line=\"4\">  raw   Print raw metrics data instead of TUI\r\n</span><span class=\"code-line line-number\" line=\"5\">  <span class=\"token builtin class-name\">help</span>  Print this message or the <span class=\"token builtin class-name\">help</span> of the given subcommand<span class=\"token punctuation\">(</span>s<span class=\"token punctuation\">)</span>\r\n</span><span class=\"code-line line-number\" line=\"6\">\r\n</span><span class=\"code-line line-number\" line=\"7\">Options:\r\n</span><span class=\"code-line line-number\" line=\"8\">  -i, <span class=\"token parameter variable\">--interval</span> <span class=\"token operator\">&#x3C;</span>INTERVAL<span class=\"token operator\">></span>  Update interval <span class=\"token keyword\">in</span> milliseconds <span class=\"token punctuation\">[</span>default: <span class=\"token number\">1000</span><span class=\"token punctuation\">]</span>\r\n</span><span class=\"code-line line-number\" line=\"9\">  -h, <span class=\"token parameter variable\">--help</span>                 Print <span class=\"token builtin class-name\">help</span>\r\n</span><span class=\"code-line line-number\" line=\"10\">  -V, <span class=\"token parameter variable\">--version</span>              Print version\r\n</span><span class=\"code-line line-number\" line=\"11\">\r\n</span><span class=\"code-line line-number\" line=\"12\">Controls:\r\n</span><span class=\"code-line line-number\" line=\"13\">  c - change color\r\n</span><span class=\"code-line line-number\" line=\"14\">  q - quit\n</span></code></pre>\n<h3>为什么选择 macmon？</h3>\n<h4>1.  无须 sudo，简洁易用</h4>\n<p>macmon 使用了 macOS 的私有 API 来读取系统性能指标，类似于 powermetrics 的数据，却不再需要 sudo 权限。这意味着你可以随时随地查看设备的实时状态，无需繁琐的授权或担心系统安全。</p>\n<h4>2.  实时功耗监控</h4>\n<p>macmon 可以实时显示 CPU、GPU 和 ANE（Apple Neural Engine）的功耗情况，帮助你了解设备在不同负载下的能源消耗，特别适合运行深度学习模型、图像处理或其他高性能任务时查看。</p>\n<h4>3.  详细的 CPU 使用率</h4>\n<p>macmon 能显示每个 CPU 集群的利用率，让你对高效能核心与高能效核心的工作情况一目了然。你可以清楚地看到不同任务如何分配到不同的 CPU 集群上，从而更好地理解系统性能。</p>\n<h4>4.  内存和 Swap 使用</h4>\n<p>对于开发者和专业用户来说，内存的使用情况是非常关键的。macmon 提供了详细的内存和交换分区使用情况，帮助你优化内存管理，提高应用性能。</p>\n<h4>5.  温度监控</h4>\n<p>macmon 提供 CPU 和 GPU 的实时温度监控，避免系统过热。对于长时间运行高强度任务的用户来说，温度监控尤为重要。</p>\n<h4>6.  历史数据与统计</h4>\n<p>不仅如此，macmon 还可以显示性能数据的历史趋势图，支持查看平均值和最大值。你可以轻松分析系统在一段时间内的表现，找出潜在的性能瓶颈。</p>\n<h4>7.  丰富的定制选项</h4>\n<p>macmon 提供六种配色方案，用户可以根据喜好切换 UI 颜色风格。它还支持在小窗口中显示，方便你边工作边查看系统状态。</p>\n<h4>8.  基于 Rust 构建，高效可靠</h4>\n<p>macmon 由 Rust 语言编写，运行高效，占用系统资源极少，确保你的监控工具不会对系统产生额外负担。</p>\n<h3>结语</h3>\n<p>macmon 是每一位 Apple Silicon 用户的必备工具，无论你是开发者、设计师，还是技术爱好者，它都可以帮助你深入了解系统性能，随时掌握设备的运行状态。无需 sudo 权限，高效便捷，macmon 将是你优化系统和应用的得力助手。</p>",
+    "summary": "Apple Silicon 处理器以其出色的性能和能效广受欢迎，然而，想要查看设备的实时功耗、CPU/GPU 使用率等数据却不是一件简单的事情。大部分工具依赖 powermetrics 等系统命令，往往需要 sudo 权限运行。对于那些对硬件性能和系统资源高度敏感的用户来说，这显然不够方便。而现在，macmon 的出现为这一问题提供了优雅的解决方案。 ```sh brew install vlad",
+    "banner_image": "https://github.com/user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4",
+    "date_published": "2024-10-14T20:49:37Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Apple Silicon 处理器以其出色的性能和能效广受欢迎，然而，想要查看设备的实时功耗、CPU/GPU 使用率等数据却不是一件简单的事情。大部分工具依赖 powermetrics 等系统命令，往往需要 sudo 权限运行。对于那些对硬件性能和系统资源高度敏感的用户来说，这显然不够方便。而现在，macmon 的出现为这一问题提供了优雅的解决方案。\r\n\r\n![](https://github.com/user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4)\r\n\r\n```sh\r\nbrew install vladkens/tap/macmon\r\n```\r\n\r\n```sh\r\nUsage: macmon [OPTIONS] [COMMAND]\r\n\r\nCommands:\r\n  raw   Print raw metrics data instead of TUI\r\n  help  Print this message or the help of the given subcommand(s)\r\n\r\nOptions:\r\n  -i, --interval <INTERVAL>  Update interval in milliseconds [default: 1000]\r\n  -h, --help                 Print help\r\n  -V, --version              Print version\r\n\r\nControls:\r\n  c - change color\r\n  q - quit\r\n```\r\n\r\n### 为什么选择 macmon？\r\n\r\n#### 1.  无须 sudo，简洁易用\r\n\r\nmacmon 使用了 macOS 的私有 API 来读取系统性能指标，类似于 powermetrics 的数据，却不再需要 sudo 权限。这意味着你可以随时随地查看设备的实时状态，无需繁琐的授权或担心系统安全。\r\n\r\n#### 2.  实时功耗监控\r\n\r\nmacmon 可以实时显示 CPU、GPU 和 ANE（Apple Neural Engine）的功耗情况，帮助你了解设备在不同负载下的能源消耗，特别适合运行深度学习模型、图像处理或其他高性能任务时查看。\r\n\r\n#### 3.  详细的 CPU 使用率\r\n\r\nmacmon 能显示每个 CPU 集群的利用率，让你对高效能核心与高能效核心的工作情况一目了然。你可以清楚地看到不同任务如何分配到不同的 CPU 集群上，从而更好地理解系统性能。\r\n\r\n\r\n#### 4.  内存和 Swap 使用\r\n\r\n对于开发者和专业用户来说，内存的使用情况是非常关键的。macmon 提供了详细的内存和交换分区使用情况，帮助你优化内存管理，提高应用性能。\r\n\r\n#### 5.  温度监控\r\n\r\nmacmon 提供 CPU 和 GPU 的实时温度监控，避免系统过热。对于长时间运行高强度任务的用户来说，温度监控尤为重要。\r\n\r\n#### 6.  历史数据与统计\r\n\r\n不仅如此，macmon 还可以显示性能数据的历史趋势图，支持查看平均值和最大值。你可以轻松分析系统在一段时间内的表现，找出潜在的性能瓶颈。\r\n\r\n#### 7.  丰富的定制选项\r\n\r\nmacmon 提供六种配色方案，用户可以根据喜好切换 UI 颜色风格。它还支持在小窗口中显示，方便你边工作边查看系统状态。\r\n\r\n#### 8.  基于 Rust 构建，高效可靠\r\n\r\nmacmon 由 Rust 语言编写，运行高效，占用系统资源极少，确保你的监控工具不会对系统产生额外负担。\r\n\r\n### 结语\r\n\r\nmacmon 是每一位 Apple Silicon 用户的必备工具，无论你是开发者、设计师，还是技术爱好者，它都可以帮助你深入了解系统性能，随时掌握设备的运行状态。无需 sudo 权限，高效便捷，macmon 将是你优化系统和应用的得力助手。"
+  },
+  {
+    "id": "45",
+    "url": "https://wangchujiang.com/quick-rss/issue/45.html",
+    "title": "Marta: 专为 macOS 打造的文件管理器",
+    "content_html": "<p>Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。</p>\n<p><img src=\"https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79\" alt=\"image\"></p>\n<h3>隐私至上</h3>\n<p>Marta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。</p>\n<h3>强大的归档支持</h3>\n<p><img src=\"https://github.com/user-attachments/assets/a025d26a-8493-43fa-be90-2f41d832db32\" alt=\"\"></p>\n<p>Marta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR、ISO 等多种格式，甚至可以浏览和编辑嵌套归档中的文件。</p>\n<h3>高度自定义</h3>\n<p>Marta 为高级用户设计，提供广泛的配置选项。通过简洁的 DSL 配置语言，轻松编辑和分享配置文件，无需在繁琐的选项卡中迷失。</p>\n<h3>主题支持</h3>\n<p><img src=\"https://github.com/user-attachments/assets/b6ebbd24-271c-48a0-8995-8f67c6d89f46\" alt=\"\"></p>\n<p>Marta 提供五种精美主题，支持浅色和深色模式，甚至还有经典的蓝底白字主题。你还可以根据个人喜好创建自己的主题。</p>\n<h3>插件 API</h3>\n<p>Marta 提供强大的 Lua API，让你可以快速编写插件，轻松适应你的个性化需求。</p>\n<p><img src=\"https://github.com/user-attachments/assets/422ae0bb-90b6-4657-b026-91f7e54c57a0\" alt=\"\"></p>\n<p>其他亮点功能：</p>\n<ul>\n<li>操作面板：快捷键 ⌘⇧P 打开操作面板，快速执行任何操作。</li>\n<li>快速搜索：使用子字符串或正则表达式，瞬间定位文件。</li>\n<li>系统全局文件搜索：借助 macOS 索引功能，快速找到任何文件。</li>\n<li>多窗口与标签页支持：随心所欲打开多个窗口和标签页。</li>\n<li>显示隐藏文件：按下快捷键，一键显示隐藏文件。</li>\n<li>文件预览：按空格键，像 Finder 一样快速预览文件。</li>\n<li>任务队列：管理所有正在进行的文件操作，随时暂停和恢复。</li>\n<li>磁盘使用分析：轻松找出磁盘空间的占用情况。</li>\n<li>内置终端：从文件面板直接打开同步目录的终端。</li>\n</ul>\n<p>无论是普通用户还是高级用户，Marta 都能为你提供极致的文件管理体验。立即下载，享受高效管理文件的乐趣！</p>",
+    "summary": "Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。 ### 隐私至上 Marta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。 ### 强大的归档支持 Marta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR",
+    "banner_image": "https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79",
+    "date_published": "2024-10-14T15:32:55Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Marta 是一款完全用 Swift 编写的原生 macOS 应用，为你提供流畅的原生体验，速度飞快。无论你喜欢使用键盘还是鼠标操作，Marta 都能让你轻松上手。\r\n\r\n![image](https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79)\r\n\r\n### 隐私至上\r\n\r\nMarta 注重用户隐私，不会收集或出售你的数据。没有隐藏功能或后门，完全透明。\r\n\r\n### 强大的归档支持\r\n\r\n![](https://github.com/user-attachments/assets/a025d26a-8493-43fa-be90-2f41d832db32)\r\n\r\nMarta 将归档文件当作文件夹一样处理。它可以打开和写入 ZIP 归档，并支持 RAR、7Z、XAR、TAR、ISO 等多种格式，甚至可以浏览和编辑嵌套归档中的文件。\r\n\r\n### 高度自定义\r\n\r\nMarta 为高级用户设计，提供广泛的配置选项。通过简洁的 DSL 配置语言，轻松编辑和分享配置文件，无需在繁琐的选项卡中迷失。\r\n\r\n### 主题支持\r\n\r\n![](https://github.com/user-attachments/assets/b6ebbd24-271c-48a0-8995-8f67c6d89f46)\r\n\r\nMarta 提供五种精美主题，支持浅色和深色模式，甚至还有经典的蓝底白字主题。你还可以根据个人喜好创建自己的主题。\r\n\r\n### 插件 API\r\n\r\nMarta 提供强大的 Lua API，让你可以快速编写插件，轻松适应你的个性化需求。\r\n\r\n![](https://github.com/user-attachments/assets/422ae0bb-90b6-4657-b026-91f7e54c57a0)\r\n\r\n其他亮点功能：\r\n\r\n- 操作面板：快捷键 ⌘⇧P 打开操作面板，快速执行任何操作。\r\n- 快速搜索：使用子字符串或正则表达式，瞬间定位文件。\r\n- 系统全局文件搜索：借助 macOS 索引功能，快速找到任何文件。\r\n- 多窗口与标签页支持：随心所欲打开多个窗口和标签页。\r\n- 显示隐藏文件：按下快捷键，一键显示隐藏文件。\r\n- 文件预览：按空格键，像 Finder 一样快速预览文件。\r\n- 任务队列：管理所有正在进行的文件操作，随时暂停和恢复。\r\n- 磁盘使用分析：轻松找出磁盘空间的占用情况。\r\n- 内置终端：从文件面板直接打开同步目录的终端。\r\n\r\n无论是普通用户还是高级用户，Marta 都能为你提供极致的文件管理体验。立即下载，享受高效管理文件的乐趣！"
+  },
+  {
+    "id": "44",
+    "url": "https://wangchujiang.com/quick-rss/issue/44.html",
+    "title": "Dokploy: 强大的开源自托管 PaaS 解决方案",
+    "content_html": "<p>随着云计算和应用托管的普及，越来越多的开发者和团队需要简化应用程序和数据库的部署与管理。传统平台如 Vercel、Netlify 和 Heroku 提供了托管解决方案，但很多用户希望能够获得更多的灵活性和自主管理。Dokploy，作为一个免费、开源且自托管的 Platform as a Service (PaaS)，为此提供了理想的替代方案。</p>\n<p><img src=\"https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704\" alt=\"image\"></p>\n<h3>什么是 Dokploy？</h3>\n<p>Dokploy 是一个自托管的 PaaS 平台，允许开发者轻松部署和管理多种类型的应用程序和数据库。它支持 Node.js、PHP、Python、Go、Ruby 等主流编程语言，并且为 MySQL、PostgreSQL、MongoDB、MariaDB、Redis 等数据库提供了便捷的管理工具。无论是小型应用程序，还是需要高扩展性的大型应用，Dokploy 都能够应对。</p>\n<p><img src=\"https://github.com/user-attachments/assets/bef89f97-4e4e-4c16-b53b-f1878e61c825\" alt=\"image\"></p>\n<h3>主要功能</h3>\n<ol>\n<li>应用程序部署：Dokploy 支持部署几乎所有类型的应用程序，开发者可以快速启动并运行。</li>\n<li>数据库管理：轻松创建和管理数据库，并自动化备份到外部存储。</li>\n<li>Docker Compose 支持：原生支持 Docker Compose，简化复杂应用程序的管理。</li>\n<li>多节点扩展：使用 Docker Swarm 进行多节点管理，让应用程序可以在多个服务器上扩展。</li>\n<li>Traefik 集成：自动与 Traefik 路由和负载均衡集成，无需手动配置。</li>\n<li>实时监控：用户可以实时监控 CPU、内存、存储、网络等资源的使用情况。</li>\n<li>CLI 和 API 管理：通过命令行或 API，用户可以灵活管理应用程序和数据库。</li>\n<li>通知系统：支持 Slack、Discord、Telegram 等工具，当部署成功或失败时，用户会实时收到通知。</li>\n</ol>\n<p><img src=\"https://github.com/user-attachments/assets/8c2609c3-71c6-48bc-9436-e77c238ab18c\" alt=\"image\"></p>\n<h3>为什么选择 Dokploy？</h3>\n<p>Dokploy 的亮点在于它的开源和自托管属性，这意味着用户可以完全掌控自己的基础设施。与 Vercel、Netlify 等受限于托管服务提供商的平台不同，Dokploy 允许用户在自己的 VPS 上部署，确保数据安全和灵活性。此外，Dokploy 的多节点支持和自动扩展功能，使其非常适合需要高可用性和横向扩展的项目。</p>\n<p><img src=\"https://github.com/user-attachments/assets/5619e504-0105-49c4-90c3-4e68fd168a2e\" alt=\"image\"></p>\n<p>对于需要管理复杂应用程序和数据库的开发者来说，Dokploy 提供了便捷而强大的功能集成，并且可以通过 Docker Compose 和 Docker Swarm 快速扩展和管理多节点集群。</p>\n<p><img src=\"https://github.com/user-attachments/assets/f6a4fde6-e22a-4591-8c55-f239ae0a321c\" alt=\"image\"></p>\n<h3>结语</h3>\n<p>如果你正在寻找一个可以替代 Vercel、Netlify 和 Heroku 的解决方案，同时希望拥有完全的控制权，Dokploy 是一个值得探索的开源工具。它不仅简化了应用程序的部署和管理，还提供了灵活的扩展和高度自定义的自托管功能，为开发者提供了前所未有的便利和自由。</p>",
+    "summary": "随着云计算和应用托管的普及，越来越多的开发者和团队需要简化应用程序和数据库的部署与管理。传统平台如 Vercel、Netlify 和 Heroku 提供了托管解决方案，但很多用户希望能够获得更多的灵活性和自主管理。Dokploy，作为一个免费、开源且自托管的 Platform as a Service (PaaS)，为此提供了理想的替代方案。 ### 什么是 Dokploy？ Dokploy 是一",
+    "banner_image": "https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704",
+    "date_published": "2024-10-13T06:53:24Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "随着云计算和应用托管的普及，越来越多的开发者和团队需要简化应用程序和数据库的部署与管理。传统平台如 Vercel、Netlify 和 Heroku 提供了托管解决方案，但很多用户希望能够获得更多的灵活性和自主管理。Dokploy，作为一个免费、开源且自托管的 Platform as a Service (PaaS)，为此提供了理想的替代方案。\r\n\r\n![image](https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704)\r\n\r\n### 什么是 Dokploy？\r\n\r\nDokploy 是一个自托管的 PaaS 平台，允许开发者轻松部署和管理多种类型的应用程序和数据库。它支持 Node.js、PHP、Python、Go、Ruby 等主流编程语言，并且为 MySQL、PostgreSQL、MongoDB、MariaDB、Redis 等数据库提供了便捷的管理工具。无论是小型应用程序，还是需要高扩展性的大型应用，Dokploy 都能够应对。\r\n\r\n![image](https://github.com/user-attachments/assets/bef89f97-4e4e-4c16-b53b-f1878e61c825)\r\n\r\n### 主要功能\r\n\r\n1. 应用程序部署：Dokploy 支持部署几乎所有类型的应用程序，开发者可以快速启动并运行。\r\n2. 数据库管理：轻松创建和管理数据库，并自动化备份到外部存储。\r\n3. Docker Compose 支持：原生支持 Docker Compose，简化复杂应用程序的管理。\r\n4. 多节点扩展：使用 Docker Swarm 进行多节点管理，让应用程序可以在多个服务器上扩展。\r\n5. Traefik 集成：自动与 Traefik 路由和负载均衡集成，无需手动配置。\r\n6. 实时监控：用户可以实时监控 CPU、内存、存储、网络等资源的使用情况。\r\n7. CLI 和 API 管理：通过命令行或 API，用户可以灵活管理应用程序和数据库。\r\n8. 通知系统：支持 Slack、Discord、Telegram 等工具，当部署成功或失败时，用户会实时收到通知。\r\n\r\n![image](https://github.com/user-attachments/assets/8c2609c3-71c6-48bc-9436-e77c238ab18c)\r\n\r\n### 为什么选择 Dokploy？\r\n\r\nDokploy 的亮点在于它的开源和自托管属性，这意味着用户可以完全掌控自己的基础设施。与 Vercel、Netlify 等受限于托管服务提供商的平台不同，Dokploy 允许用户在自己的 VPS 上部署，确保数据安全和灵活性。此外，Dokploy 的多节点支持和自动扩展功能，使其非常适合需要高可用性和横向扩展的项目。\r\n\r\n![image](https://github.com/user-attachments/assets/5619e504-0105-49c4-90c3-4e68fd168a2e)\r\n\r\n对于需要管理复杂应用程序和数据库的开发者来说，Dokploy 提供了便捷而强大的功能集成，并且可以通过 Docker Compose 和 Docker Swarm 快速扩展和管理多节点集群。\r\n\r\n![image](https://github.com/user-attachments/assets/f6a4fde6-e22a-4591-8c55-f239ae0a321c)\r\n\r\n### 结语\r\n\r\n如果你正在寻找一个可以替代 Vercel、Netlify 和 Heroku 的解决方案，同时希望拥有完全的控制权，Dokploy 是一个值得探索的开源工具。它不仅简化了应用程序的部署和管理，还提供了灵活的扩展和高度自定义的自托管功能，为开发者提供了前所未有的便利和自由。"
+  }
+]s
+
+
+```
+
+
+    

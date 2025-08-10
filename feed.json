@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "184",
+            "content_html": "<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/e7d036eb-a854-4308-b527-7331bc535e9c\">\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/321eb842-add5-4e21-8adc-599bee602bbb\">\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/7340d982-e40e-439c-b903-0530ea664986\">\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/e89ee51f-2090-42d3-af14-050f5cd1c86e\">\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/4eb3be37-23b8-4d47-8dd3-db52ba05bccb\">\n<p>Trayce 是一款离线使用的 Docker 容器监控工具，内置 .bru HTTP 客户端。它支持将请求组织到集合中、使用变量和环境切换，并可将敏感信息安全存储在 .env 文件中。TrayceAgent 容器通过 eBPF 探针捕获本地容器的网络流量（HTTP、HTTPS、GRPC、MySQL、Postgres），并在轻量级界面中展示，非常适合后端开发者、QA 工程师和测试人员使用。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/184\" target=\"_blank\">#184</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/184.html",
+            "title": "Trayce：开源可监控 Docker 容器流量并内置 .bru HTTP 客户端",
+            "summary": "Trayce 是一款离线使用的 Docker 容器监控工具，内置 .bru HTTP 客户端。它支持将请求组织到集合中、使用变量和环境切换，并可将敏感信息安全存储在 .env 文件中。TrayceAgent 容器通过 eBPF 探针捕获本地容器的网络流量（HTTP、HTTPS、GRPC、MySQL、Postgres），并在轻量级界面中展示，非常适合后端开发者、QA 工程师和测试人员使用。",
+            "image": "https://github.com/user-attachments/assets/e7d036eb-a854-4308-b527-7331bc535e9c",
+            "date_modified": "2025-08-10T08:37:31.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "182",
             "content_html": "<p>在远程演示或线上会议中，你是否遇到过这样的困扰：为了展示多个应用操作，不得不分享整个屏幕，但你的显示器分辨率太高，观众根本看不清内容？</p>\n<img alt=\"DeskPad — 让屏幕共享更清晰\" src=\"https://github.com/user-attachments/assets/8c84e985-8c79-4351-824a-364462d78dfb\">\n<p>🎯 DeskPad 正是为此而生。</p>\n<p>它可以创建一个虚拟显示器，并将内容镜像到一个独立的应用窗口中。你只需共享这个窗口，就能为观众提供一个清晰、专注、适配任意屏幕尺寸的演示画面。</p>\n<p>✅ 应用特点：</p>\n<ul>\n<li>虚拟屏幕共享，无需切换主显示器</li>\n<li>自定义窗口尺寸，适配观众设备</li>\n<li>保持私密性，避免分享多余内容</li>\n<li>非常适合线上教学、代码演示、产品介绍等场景</li>\n</ul>\n<p>无论你是开发者、讲师、还是演示达人，DeskPad 都能让你的屏幕共享体验更专业、更清晰、更高效。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/182\" target=\"_blank\">#182</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/182.html",

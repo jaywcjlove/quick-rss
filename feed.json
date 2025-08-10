@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "186",
+            "content_html": "<p>这是一款基于 Cloudflare Workers 和 D1 数据库 构建的现代化临时邮箱服务，界面精致、响应迅速，完美适配桌面与移动设备。支持随机或自定义邮箱地址生成、历史记录保存、批量管理，以及实时邮件接收与智能验证码提取。集成 Resend 发件功能，可直接用临时邮箱发送邮件并管理发件记录。无须注册，开箱即用，让你的邮箱体验更高效、更安全。</p>\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872\">\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/7e666a4f-e7c0-4850-8c72-74179df1fb4c\">\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/0a59744b-4851-48a1-96cd-173b7c3a3ff9\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/186\" target=\"_blank\">#186</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/186.html",
+            "title": "Cloudflare Worker 临时邮箱 — 极速、简洁、私密的临时邮箱接收服务工具",
+            "summary": "这是一款基于 Cloudflare Workers 和 D1 数据库 构建的现代化临时邮箱服务，界面精致、响应迅速，完美适配桌面与移动设备。支持随机或自定义邮箱地址生成、历史记录保存、批量管理，以及实时邮件接收与智能验证码提取。集成 Resend 发件功能，可直接用临时邮箱发送邮件并管理发件记录。无须注册，开箱即用，让你的邮箱体验更高效、更安全。",
+            "image": "https://github.com/user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872",
+            "date_modified": "2025-08-10T23:01:18.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "185",
             "content_html": "<p>如果你在找一款 免费、开源 的视频编辑器，OpenCut 值得一试。它支持 网页、桌面和移动端，基于时间轴、多轨编辑、实时预览，无水印、无订阅，所有操作都在本地完成，保护你的隐私。简单易用，却能提供媲美 CapCut 的体验，非常适合日常视频创作。</p>\n<img alt=\"OpenCut\" src=\"https://github.com/user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/185\" target=\"_blank\">#185</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/185.html",

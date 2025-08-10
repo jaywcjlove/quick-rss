@@ -1,5 +1,19 @@
 [
   {
+    "id": "186",
+    "url": "https://wangchujiang.com/quick-rss/issue/186.html",
+    "title": "Cloudflare Worker 临时邮箱 — 极速、简洁、私密的临时邮箱接收服务工具",
+    "content_html": "<p>这是一款基于 Cloudflare Workers 和 D1 数据库 构建的现代化临时邮箱服务，界面精致、响应迅速，完美适配桌面与移动设备。支持随机或自定义邮箱地址生成、历史记录保存、批量管理，以及实时邮件接收与智能验证码提取。集成 Resend 发件功能，可直接用临时邮箱发送邮件并管理发件记录。无须注册，开箱即用，让你的邮箱体验更高效、更安全。</p>\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872\">\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/7e666a4f-e7c0-4850-8c72-74179df1fb4c\">\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/0a59744b-4851-48a1-96cd-173b7c3a3ff9\">",
+    "summary": "这是一款基于 Cloudflare Workers 和 D1 数据库 构建的现代化临时邮箱服务，界面精致、响应迅速，完美适配桌面与移动设备。支持随机或自定义邮箱地址生成、历史记录保存、批量管理，以及实时邮件接收与智能验证码提取。集成 Resend 发件功能，可直接用临时邮箱发送邮件并管理发件记录。无须注册，开箱即用，让你的邮箱体验更高效、更安全。",
+    "banner_image": null,
+    "date_published": "2025-08-10T23:01:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一款基于 Cloudflare Workers 和 D1 数据库 构建的现代化临时邮箱服务，界面精致、响应迅速，完美适配桌面与移动设备。支持随机或自定义邮箱地址生成、历史记录保存、批量管理，以及实时邮件接收与智能验证码提取。集成 Resend 发件功能，可直接用临时邮箱发送邮件并管理发件记录。无须注册，开箱即用，让你的邮箱体验更高效、更安全。\n\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872\" />\n\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/7e666a4f-e7c0-4850-8c72-74179df1fb4c\" />\n\n<img alt=\"Cloudflare Worker\" src=\"https://github.com/user-attachments/assets/0a59744b-4851-48a1-96cd-173b7c3a3ff9\" />"
+  },
+  {
     "id": "185",
     "url": "https://wangchujiang.com/quick-rss/issue/185.html",
     "title": "OpenCut：一款免费开源、跨平台的视频编辑器，类似 CapCut，简单易用又无水印，还能保护隐私",

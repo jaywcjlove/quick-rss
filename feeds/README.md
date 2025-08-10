@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Cloudflare Worker 临时邮箱 — 极速、简洁、私密的临时邮箱接收服务工具](https://wangchujiang.com/quick-rss/issue/186.html) 
+
+![](https://github.com/user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872)
+
+这是一款基于 Cloudflare Workers 和 D1 数据库 构建的现代化临时邮箱服务，界面精致、响应迅速，完美适配桌面与移动设备。支持随机或自定义邮箱地址生成、历史记录保存、批量管理，以及实时邮件接收与智能验证码提取。集成 Resend 发件功能，可直接用临时邮箱发送邮件并管理发件记录。无须注册，开箱即用，让你的邮箱体验更高效、更安全。 ([#186](https://github.com/jaywcjlove/quick-rss/issues/186) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [OpenCut：一款免费开源、跨平台的视频编辑器，类似 CapCut，简单易用又无水印，还能保护隐私](https://wangchujiang.com/quick-rss/issue/185.html) 
 
 ![](https://github.com/user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd)

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 10 Aug 2025 08:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Aug 2025 22:58:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OpenCut：一款免费开源、跨平台的视频编辑器，类似 CapCut，简单易用又无水印，还能保护隐私]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/185.html</link>
+            <guid>185</guid>
+            <pubDate>Sun, 10 Aug 2025 22:57:46 GMT</pubDate>
+            <description><![CDATA[如果你在找一款 免费、开源 的视频编辑器，OpenCut 值得一试。它支持 网页、桌面和移动端，基于时间轴、多轨编辑、实时预览，无水印、无订阅，所有操作都在本地完成，保护你的隐私。简单易用，却能提供媲美 CapCut 的体验，非常适合日常视频创作。]]></description>
+            <content:encoded><![CDATA[<p>如果你在找一款 免费、开源 的视频编辑器，OpenCut 值得一试。它支持 网页、桌面和移动端，基于时间轴、多轨编辑、实时预览，无水印、无订阅，所有操作都在本地完成，保护你的隐私。简单易用，却能提供媲美 CapCut 的体验，非常适合日常视频创作。</p>
+<img alt="OpenCut" src="https://github.com/user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/185" target="_blank">#185</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd" length="0" type="image//user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd"/>
+        </item>
         <item>
             <title><![CDATA[Trayce：开源可监控 Docker 容器流量并内置 .bru HTTP 客户端]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/184.html</link>

@@ -1,5 +1,19 @@
 [
   {
+    "id": "184",
+    "url": "https://wangchujiang.com/quick-rss/issue/184.html",
+    "title": "Trayce：开源可监控 Docker 容器流量并内置 .bru HTTP 客户端",
+    "content_html": "<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/e7d036eb-a854-4308-b527-7331bc535e9c\">\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/321eb842-add5-4e21-8adc-599bee602bbb\">\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/7340d982-e40e-439c-b903-0530ea664986\">\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/e89ee51f-2090-42d3-af14-050f5cd1c86e\">\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/4eb3be37-23b8-4d47-8dd3-db52ba05bccb\">\n<p>Trayce 是一款离线使用的 Docker 容器监控工具，内置 .bru HTTP 客户端。它支持将请求组织到集合中、使用变量和环境切换，并可将敏感信息安全存储在 .env 文件中。TrayceAgent 容器通过 eBPF 探针捕获本地容器的网络流量（HTTP、HTTPS、GRPC、MySQL、Postgres），并在轻量级界面中展示，非常适合后端开发者、QA 工程师和测试人员使用。</p>",
+    "summary": "Trayce 是一款离线使用的 Docker 容器监控工具，内置 .bru HTTP 客户端。它支持将请求组织到集合中、使用变量和环境切换，并可将敏感信息安全存储在 .env 文件中。TrayceAgent 容器通过 eBPF 探针捕获本地容器的网络流量（HTTP、HTTPS、GRPC、MySQL、Postgres），并在轻量级界面中展示，非常适合后端开发者、QA 工程师和测试人员使用。",
+    "banner_image": null,
+    "date_published": "2025-08-10T08:37:31Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/e7d036eb-a854-4308-b527-7331bc535e9c\" />\n\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/321eb842-add5-4e21-8adc-599bee602bbb\" />\n\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/7340d982-e40e-439c-b903-0530ea664986\" />\n\n<img  alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/e89ee51f-2090-42d3-af14-050f5cd1c86e\" />\n\n<img alt=\"Trayce\" src=\"https://github.com/user-attachments/assets/4eb3be37-23b8-4d47-8dd3-db52ba05bccb\" />\n\nTrayce 是一款离线使用的 Docker 容器监控工具，内置 .bru HTTP 客户端。它支持将请求组织到集合中、使用变量和环境切换，并可将敏感信息安全存储在 .env 文件中。TrayceAgent 容器通过 eBPF 探针捕获本地容器的网络流量（HTTP、HTTPS、GRPC、MySQL、Postgres），并在轻量级界面中展示，非常适合后端开发者、QA 工程师和测试人员使用。"
+  },
+  {
     "id": "182",
     "url": "https://wangchujiang.com/quick-rss/issue/182.html",
     "title": "DeskPad — 让屏幕共享更清晰",

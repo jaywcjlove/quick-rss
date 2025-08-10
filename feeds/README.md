@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Trayce：开源可监控 Docker 容器流量并内置 .bru HTTP 客户端](https://wangchujiang.com/quick-rss/issue/184.html) 
+
+![](https://github.com/user-attachments/assets/e7d036eb-a854-4308-b527-7331bc535e9c)
+
+Trayce 是一款离线使用的 Docker 容器监控工具，内置 .bru HTTP 客户端。它支持将请求组织到集合中、使用变量和环境切换，并可将敏感信息安全存储在 .env 文件中。TrayceAgent 容器通过 eBPF 探针捕获本地容器的网络流量（HTTP、HTTPS、GRPC、MySQL、Postgres），并在轻量级界面中展示，非常适合后端开发者、QA 工程师和测试人员使用。 ([#184](https://github.com/jaywcjlove/quick-rss/issues/184) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DeskPad — 让屏幕共享更清晰](https://wangchujiang.com/quick-rss/issue/182.html) 
 
 ![](https://github.com/user-attachments/assets/8c84e985-8c79-4351-824a-364462d78dfb)

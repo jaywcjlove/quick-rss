@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [OpenCut：一款免费开源、跨平台的视频编辑器，类似 CapCut，简单易用又无水印，还能保护隐私](https://wangchujiang.com/quick-rss/issue/185.html) 
+
+![](https://github.com/user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd)
+
+如果你在找一款 免费、开源 的视频编辑器，OpenCut 值得一试。它支持 网页、桌面和移动端，基于时间轴、多轨编辑、实时预览，无水印、无订阅，所有操作都在本地完成，保护你的隐私。简单易用，却能提供媲美 CapCut 的体验，非常适合日常视频创作。 ([#185](https://github.com/jaywcjlove/quick-rss/issues/185) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Trayce：开源可监控 Docker 容器流量并内置 .bru HTTP 客户端](https://wangchujiang.com/quick-rss/issue/184.html) 
 
 ![](https://github.com/user-attachments/assets/e7d036eb-a854-4308-b527-7331bc535e9c)

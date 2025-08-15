@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 10 Aug 2025 23:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 04:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,28 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Battery：MacBook 电池充电限制器：延长电池使用寿命，使得充电只能充到80%。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/187.html</link>
+            <guid>187</guid>
+            <pubDate>Fri, 15 Aug 2025 04:43:06 GMT</pubDate>
+            <description><![CDATA[这个应用是 Apple Silicon MacBook 电池充电限制器，旨在帮助延长电池寿命。它会将电池充电限制在 80%，即使 MacBook 长时间插着电源，也能保持这个限制。这种方法可以有效减少电池过度充电，延长电池使用周期。 核心功能： 保持 MacBook 电池充电在 80%，即使插入电源也不会超过此限制。 允许在电池电量低于 80% 时自动充电，超过 80% 时则停止充电。 即使重启后]]></description>
+            <content:encoded><![CDATA[<p>这个应用是 Apple Silicon MacBook 电池充电限制器，旨在帮助延长电池寿命。它会将电池充电限制在 80%，即使 MacBook 长时间插着电源，也能保持这个限制。这种方法可以有效减少电池过度充电，延长电池使用周期。</p>
+<img alt="Battery" src="https://github.com/user-attachments/assets/fded14b4-3268-45ec-af36-9b058f4d9334">
+<p>核心功能：</p>
+<ul>
+<li>保持 MacBook 电池充电在 80%，即使插入电源也不会超过此限制。</li>
+<li>允许在电池电量低于 80% 时自动充电，超过 80% 时则停止充电。</li>
+<li>即使重启后或关闭系统托盘应用，充电限制依然保持生效。</li>
+<li>支持图形界面和命令行界面，命令行工具可以帮助用户更灵活地管理电池充电。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/187" target="_blank">#187</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/fded14b4-3268-45ec-af36-9b058f4d9334" length="0" type="image//user-attachments/assets/fded14b4-3268-45ec-af36-9b058f4d9334"/>
+        </item>
         <item>
             <title><![CDATA[Cloudflare Worker 临时邮箱 — 极速、简洁、私密的临时邮箱接收服务工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/186.html</link>

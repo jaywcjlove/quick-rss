@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Battery：MacBook 电池充电限制器：延长电池使用寿命，使得充电只能充到80%。](https://wangchujiang.com/quick-rss/issue/187.html) 
+
+![](https://github.com/user-attachments/assets/fded14b4-3268-45ec-af36-9b058f4d9334)
+
+这个应用是 Apple Silicon MacBook 电池充电限制器，旨在帮助延长电池寿命。它会将电池充电限制在 80%，即使 MacBook 长时间插着电源，也能保持这个限制。这种方法可以有效减少电池过度充电，延长电池使用周期。 核心功能： 保持 MacBook 电池充电在 80%，即使插入电源也不会超过此限制。 允许在电池电量低于 80% 时自动充电，超过 80% 时则停止充电。 即使重启后 ([#187](https://github.com/jaywcjlove/quick-rss/issues/187) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Cloudflare Worker 临时邮箱 — 极速、简洁、私密的临时邮箱接收服务工具](https://wangchujiang.com/quick-rss/issue/186.html) 
 
 ![](https://github.com/user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872)

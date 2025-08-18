@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AirSync 2.0：让安卓设备也能体验类似苹果“接力”功能的工具，让“接力”跨越苹果与安卓](https://wangchujiang.com/quick-rss/issue/188.html) 
+
+![](https://github.com/user-attachments/assets/eabdce75-666e-47de-9ed5-57984ac63d2d)
+
+AirSync 2.0 让 Mac 与 Android 无缝协作。支持通知、剪贴板、电量与媒体播放同步，菜单栏一键访问，跨平台状态互通。 未来还将支持文件共享、远程控制与小部件同步，打破设备壁垒，让连接更自然高效。 AirSync 2.0 让 macOS 与 Android 设备实现更紧密的协同： 通知同步：将 Android 通知推送到 Mac，并可直接处理（如清除）。 剪贴板同步：在 Andr ([#188](https://github.com/jaywcjlove/quick-rss/issues/188) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Battery：MacBook 电池充电限制器：延长电池使用寿命，使得充电只能充到80%。](https://wangchujiang.com/quick-rss/issue/187.html) 
 
 ![](https://github.com/user-attachments/assets/fded14b4-3268-45ec-af36-9b058f4d9334)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-08-18T06:41:33.414Z</updated>
+    <updated>2025-08-24T14:47:03.259Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,42 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[ReqRes：macOS 专业网络调试代理]]></title>
+        <id>190</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/190.html"/>
+        <updated>2025-08-24T14:46:30.000Z</updated>
+        <summary type="html"><![CDATA[ReqRes 是一款现代、高性能的 macOS 原生网络调试代理，帮助开发者实时捕获、查看、修改和拦截 HTTP(S) 流量。 主要功能： 实时流量监控：即时捕获 macOS 应用、浏览器和 API 的 HTTP(S) 请求与响应。 请求与响应拦截：可实时修改请求和响应，调整 Headers、状态码或完整响应内容；支持将请求映射到本地文件，加速测试与开发。 详细分析：直观界面查看 Headers、]]></summary>
+        <content type="html"><![CDATA[<p>ReqRes 是一款现代、高性能的 macOS 原生网络调试代理，帮助开发者实时捕获、查看、修改和拦截 HTTP(S) 流量。</p>
+<img alt="ReqRes" src="https://github.com/user-attachments/assets/e0231479-95cd-4864-915b-dcb3db126e98">
+<img alt="ReqRes" src="https://github.com/user-attachments/assets/eb56ab62-49d2-43fc-a455-a920ef477318">
+<h2>主要功能：</h2>
+<ol>
+<li>实时流量监控：即时捕获 macOS 应用、浏览器和 API 的 HTTP(S) 请求与响应。</li>
+<li>请求与响应拦截：可实时修改请求和响应，调整 Headers、状态码或完整响应内容；支持将请求映射到本地文件，加速测试与开发。</li>
+<li>详细分析：直观界面查看 Headers、方法、状态码及请求/响应数据。</li>
+<li>会话管理：整理、筛选和搜索捕获的会话。</li>
+<li>本地文件映射：模拟离线场景，快速提供 Mock 数据。</li>
+<li>图片预览：在应用内即时查看图片响应，方便调试媒体接口。</li>
+<li>自定义过滤：按主机、方法或状态码过滤流量，快速定位问题。</li>
+<li>集成搜索：强大的搜索功能，快速找到指定请求或响应。</li>
+<li>会话导出：以多种格式导出捕获流量，便于分析或团队协作。</li>
+</ol>
+<p>ReqRes 是开发者控制网络流量、提升调试效率的理想工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/190" target="_blank">#190</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AirSync 2.0：让安卓设备也能体验类似苹果“接力”功能的工具，让“接力”跨越苹果与安卓]]></title>
         <id>188</id>

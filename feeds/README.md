@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ReqRes：macOS 专业网络调试代理](https://wangchujiang.com/quick-rss/issue/190.html) 
+
+![](https://github.com/user-attachments/assets/e0231479-95cd-4864-915b-dcb3db126e98)
+
+ReqRes 是一款现代、高性能的 macOS 原生网络调试代理，帮助开发者实时捕获、查看、修改和拦截 HTTP(S) 流量。 主要功能： 实时流量监控：即时捕获 macOS 应用、浏览器和 API 的 HTTP(S) 请求与响应。 请求与响应拦截：可实时修改请求和响应，调整 Headers、状态码或完整响应内容；支持将请求映射到本地文件，加速测试与开发。 详细分析：直观界面查看 Headers、 ([#190](https://github.com/jaywcjlove/quick-rss/issues/190) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [AirSync 2.0：让安卓设备也能体验类似苹果“接力”功能的工具，让“接力”跨越苹果与安卓](https://wangchujiang.com/quick-rss/issue/188.html) 
 
 ![](https://github.com/user-attachments/assets/eabdce75-666e-47de-9ed5-57984ac63d2d)

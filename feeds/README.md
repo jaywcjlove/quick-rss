@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SaveEye：一个极简且高效的 macOS 护眼提醒工具，立即保护你的视力健康吧！](https://wangchujiang.com/quick-rss/issue/191.html) 
+
+![](https://github.com/user-attachments/assets/fcbd1b17-a8c4-4839-9e0f-dd2a614a7e5d)
+
+SaveEye 是一个简单且专注的护眼小工具，你可以非常方便的设定你的护眼策略，默认使用 20-20-20。 功能特性 定时提醒 - 每隔一段时间提醒你休息眼睛 全屏护眼 - 休息时全屏显示护眼界面，强制休息 智能检测 - 自动监测键盘鼠标活动，无活动时暂停计时 个性设置 - 可自定义工作时长、休息时长等参数 极简体验 - 支持开机自启动，不占用 Dock 和菜单栏 护眼设计 - 采用深色背景和柔 ([#191](https://github.com/jaywcjlove/quick-rss/issues/191) - [@samzong](https://github.com/samzong))
 ## [ReqRes：macOS 专业网络调试代理](https://wangchujiang.com/quick-rss/issue/190.html) 
 
 ![](https://github.com/user-attachments/assets/e0231479-95cd-4864-915b-dcb3db126e98)

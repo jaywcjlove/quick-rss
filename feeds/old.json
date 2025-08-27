@@ -1,5 +1,19 @@
 [
   {
+    "id": "191",
+    "url": "https://wangchujiang.com/quick-rss/issue/191.html",
+    "title": "SaveEye：一个极简且高效的 macOS 护眼提醒工具，立即保护你的视力健康吧！",
+    "content_html": "<p>SaveEye 是一个简单且专注的护眼小工具，你可以非常方便的设定你的护眼策略，默认使用 20-20-20。</p>\n<h4>功能特性</h4>\n<ul>\n<li>定时提醒 - 每隔一段时间提醒你休息眼睛</li>\n<li>全屏护眼 - 休息时全屏显示护眼界面，强制休息</li>\n<li>智能检测 - 自动监测键盘鼠标活动，无活动时暂停计时</li>\n<li>个性设置 - 可自定义工作时长、休息时长等参数</li>\n<li>极简体验 - 支持开机自启动，不占用 Dock 和菜单栏</li>\n<li>护眼设计 - 采用深色背景和柔和动画，减少视觉疲劳</li>\n</ul>\n<h4>截图</h4>\n<img width=\"360\" height=\"650\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fcbd1b17-a8c4-4839-9e0f-dd2a614a7e5d\">\n<h4>安装方式</h4>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew <span class=\"token function\">install</span> samzong/tap/saveeye\n</span></code></pre>",
+    "summary": "SaveEye 是一个简单且专注的护眼小工具，你可以非常方便的设定你的护眼策略，默认使用 20-20-20。 #### 功能特性 - 定时提醒 - 每隔一段时间提醒你休息眼睛 - 全屏护眼 - 休息时全屏显示护眼界面，强制休息 - 智能检测 - 自动监测键盘鼠标活动，无活动时暂停计时 - 个性设置 - 可自定义工作时长、休息时长等参数 - 极简体验 - 支持开机自启动，不占用 Dock 和菜单栏 ",
+    "banner_image": null,
+    "date_published": "2025-08-27T15:22:58Z",
+    "author": {
+      "name": "samzong",
+      "link": "https://avatars.githubusercontent.com/u/13782141?v=4"
+    },
+    "markdownContent": "SaveEye 是一个简单且专注的护眼小工具，你可以非常方便的设定你的护眼策略，默认使用 20-20-20。 \n\n#### 功能特性\n\n- 定时提醒 - 每隔一段时间提醒你休息眼睛\n- 全屏护眼 - 休息时全屏显示护眼界面，强制休息\n- 智能检测 - 自动监测键盘鼠标活动，无活动时暂停计时\n- 个性设置 - 可自定义工作时长、休息时长等参数\n- 极简体验 - 支持开机自启动，不占用 Dock 和菜单栏\n- 护眼设计 - 采用深色背景和柔和动画，减少视觉疲劳\n\n#### 截图\n\n<img width=\"360\" height=\"650\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fcbd1b17-a8c4-4839-9e0f-dd2a614a7e5d\" />\n\n#### 安装方式\n\n```bash\nbrew install samzong/tap/saveeye\n```"
+  },
+  {
     "id": "190",
     "url": "https://wangchujiang.com/quick-rss/issue/190.html",
     "title": "ReqRes：macOS 专业网络调试代理",

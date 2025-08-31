@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MenuBarUSB：在 macOS 菜单栏显示 USB 连接状态的小工具](https://wangchujiang.com/quick-rss/issue/192.html) 
+
+![](https://github.com/user-attachments/assets/381efd1a-9025-496f-81be-3c644bd264e7)
+
+一款非常简洁轻巧的应用，在菜单栏中显示您的 USB 连接状态，让您随时查看设备连接情况。 ([#192](https://github.com/jaywcjlove/quick-rss/issues/192) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SaveEye：一个极简且高效的 macOS 护眼提醒工具，立即保护你的视力健康吧！](https://wangchujiang.com/quick-rss/issue/191.html) 
 
 ![](https://github.com/user-attachments/assets/fcbd1b17-a8c4-4839-9e0f-dd2a614a7e5d)

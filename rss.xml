@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 31 Aug 2025 07:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 19:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[pgpad: 一个小巧、快速的跨平台 PostgreSQL 数据库客户端 [进行中]]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/193.html</link>
+            <guid>193</guid>
+            <pubDate>Wed, 03 Sep 2025 19:16:38 GMT</pubDate>
+            <description><![CDATA[跨平台 PostgreSQL 数据库客户端，还在开发中]]></description>
+            <content:encoded><![CDATA[<p>跨平台 PostgreSQL 数据库客户端，还在开发中</p>
+<img alt="pgpad" src="https://github.com/user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/193" target="_blank">#193</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324" length="0" type="image//user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324"/>
+        </item>
         <item>
             <title><![CDATA[MenuBarUSB：在 macOS 菜单栏显示 USB 连接状态的小工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/192.html</link>

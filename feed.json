@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "193",
+            "content_html": "<p>跨平台 PostgreSQL 数据库客户端，还在开发中</p>\n<img alt=\"pgpad\" src=\"https://github.com/user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/193\" target=\"_blank\">#193</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/193.html",
+            "title": "pgpad: 一个小巧、快速的跨平台 PostgreSQL 数据库客户端 [进行中]",
+            "summary": "跨平台 PostgreSQL 数据库客户端，还在开发中",
+            "image": "https://github.com/user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324",
+            "date_modified": "2025-09-03T19:16:38.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "192",
             "content_html": "<p>一款非常简洁轻巧的应用，在菜单栏中显示您的 USB 连接状态，让您随时查看设备连接情况。</p>\n<img alt=\"MenuBarUSB\" src=\"https://github.com/user-attachments/assets/381efd1a-9025-496f-81be-3c644bd264e7\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/192\" target=\"_blank\">#192</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/192.html",

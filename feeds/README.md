@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [pgpad: 一个小巧、快速的跨平台 PostgreSQL 数据库客户端 [进行中]](https://wangchujiang.com/quick-rss/issue/193.html) 
+
+![](https://github.com/user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324)
+
+跨平台 PostgreSQL 数据库客户端，还在开发中 ([#193](https://github.com/jaywcjlove/quick-rss/issues/193) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MenuBarUSB：在 macOS 菜单栏显示 USB 连接状态的小工具](https://wangchujiang.com/quick-rss/issue/192.html) 
 
 ![](https://github.com/user-attachments/assets/381efd1a-9025-496f-81be-3c644bd264e7)

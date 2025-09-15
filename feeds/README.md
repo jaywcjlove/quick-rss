@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [OrangeTV: 跨平台影视聚合播放器，随时随地畅享免费影视](https://wangchujiang.com/quick-rss/issue/194.html) 
+
+![](https://github.com/user-attachments/assets/325592b8-df14-4bf7-a84f-511842473585)
+
+🎬 OrangeTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 ✨ 功能特性 🔍 多源聚合搜索：一次搜索立刻返回全源结果。 📄 丰富详情页：支持剧集列表、演员、年份、简介等完整信息展示。 ▶️ 流畅在线播放 ([#194](https://github.com/jaywcjlove/quick-rss/issues/194) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [pgpad: 一个小巧、快速的跨平台 PostgreSQL 数据库客户端 [进行中]](https://wangchujiang.com/quick-rss/issue/193.html) 
 
 ![](https://github.com/user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324)

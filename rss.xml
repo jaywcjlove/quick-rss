@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 03 Sep 2025 19:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Sep 2025 00:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,94 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OrangeTV: 跨平台影视聚合播放器，随时随地畅享免费影视]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/194.html</link>
+            <guid>194</guid>
+            <pubDate>Mon, 15 Sep 2025 00:45:31 GMT</pubDate>
+            <description><![CDATA[🎬 OrangeTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 ✨ 功能特性 🔍 多源聚合搜索：一次搜索立刻返回全源结果。 📄 丰富详情页：支持剧集列表、演员、年份、简介等完整信息展示。 ▶️ 流畅在线播放]]></description>
+            <content:encoded><![CDATA[<p>🎬 OrangeTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。</p>
+<img alt="OrangeTV" src="https://github.com/user-attachments/assets/325592b8-df14-4bf7-a84f-511842473585">
+<img alt="OrangeTV" src="https://github.com/user-attachments/assets/7f7d4215-1356-4c21-91f0-38b595b1b634">
+<h2>✨ 功能特性</h2>
+<ul>
+<li>🔍 <strong>多源聚合搜索</strong>：一次搜索立刻返回全源结果。</li>
+<li>📄 <strong>丰富详情页</strong>：支持剧集列表、演员、年份、简介等完整信息展示。</li>
+<li>▶️ <strong>流畅在线播放</strong>：集成 HLS.js &#x26; ArtPlayer。</li>
+<li>❤️ <strong>收藏 + 继续观看</strong>：支持 Kvrocks/Redis/Upstash 存储，多端同步进度。</li>
+<li>📱 <strong>PWA</strong>：离线缓存、安装到桌面/主屏，移动端原生体验。</li>
+<li>🌗 <strong>响应式布局</strong>：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。</li>
+<li>👿 <strong>智能去广告</strong>：自动跳过视频中的切片广告（实验性）。</li>
+</ul>
+<h3>Docker 部署</h3>
+<p>Kvrocks 存储（推荐）</p>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line line-number" line="1"><span class="token key atrule">services</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="2">  <span class="token key atrule">OrangeTV-core</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="3">    <span class="token key atrule">image</span><span class="token punctuation">:</span> ghcr.io/djteang/orangetv<span class="token punctuation">:</span>latest
+</span><span class="code-line line-number" line="4">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> OrangeTV<span class="token punctuation">-</span>core
+</span><span class="code-line line-number" line="5">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> on<span class="token punctuation">-</span>failure
+</span><span class="code-line line-number" line="6">    <span class="token key atrule">ports</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="7">      <span class="token punctuation">-</span> <span class="token string">'3000:3000'</span>
+</span><span class="code-line line-number" line="8">    <span class="token key atrule">environment</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="9">      <span class="token punctuation">-</span> USERNAME=admin
+</span><span class="code-line line-number" line="10">      <span class="token punctuation">-</span> PASSWORD=orange
+</span><span class="code-line line-number" line="11">      <span class="token punctuation">-</span> NEXT_PUBLIC_STORAGE_TYPE=kvrocks
+</span><span class="code-line line-number" line="12">      <span class="token punctuation">-</span> KVROCKS_URL=redis<span class="token punctuation">:</span>//OrangeTV<span class="token punctuation">-</span>kvrocks<span class="token punctuation">:</span><span class="token number">6666</span>
+</span><span class="code-line line-number" line="13">    <span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="14">      <span class="token punctuation">-</span> OrangeTV<span class="token punctuation">-</span>network
+</span><span class="code-line line-number" line="15">    <span class="token key atrule">depends_on</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="16">      <span class="token punctuation">-</span> OrangeTV<span class="token punctuation">-</span>kvrocks
+</span><span class="code-line line-number" line="17">  <span class="token key atrule">OrangeTV-kvrocks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="18">    <span class="token key atrule">image</span><span class="token punctuation">:</span> apache/kvrocks
+</span><span class="code-line line-number" line="19">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> OrangeTV<span class="token punctuation">-</span>kvrocks
+</span><span class="code-line line-number" line="20">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> unless<span class="token punctuation">-</span>stopped
+</span><span class="code-line line-number" line="21">    <span class="token key atrule">volumes</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="22">      <span class="token punctuation">-</span> kvrocks<span class="token punctuation">-</span>data<span class="token punctuation">:</span>/var/lib/kvrocks
+</span><span class="code-line line-number" line="23">    <span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="24">      <span class="token punctuation">-</span> OrangeTV<span class="token punctuation">-</span>network
+</span><span class="code-line line-number" line="25"><span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="26">  <span class="token key atrule">OrangeTV-network</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="27">    <span class="token key atrule">driver</span><span class="token punctuation">:</span> bridge
+</span><span class="code-line line-number" line="28"><span class="token key atrule">volumes</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="29">  <span class="token key atrule">kvrocks-data</span><span class="token punctuation">:</span>
+</span></code></pre>
+<p>Redis 存储（有一定的丢数据风险）</p>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line line-number" line="1"><span class="token key atrule">services</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="2">  <span class="token key atrule">OrangeTV-core</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="3">    <span class="token key atrule">image</span><span class="token punctuation">:</span> ghcr.io/djteang/orangetv<span class="token punctuation">:</span>latest
+</span><span class="code-line line-number" line="4">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> OrangeTV<span class="token punctuation">-</span>core
+</span><span class="code-line line-number" line="5">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> on<span class="token punctuation">-</span>failure
+</span><span class="code-line line-number" line="6">    <span class="token key atrule">ports</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="7">      <span class="token punctuation">-</span> <span class="token string">'3000:3000'</span>
+</span><span class="code-line line-number" line="8">    <span class="token key atrule">environment</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="9">      <span class="token punctuation">-</span> USERNAME=admin
+</span><span class="code-line line-number" line="10">      <span class="token punctuation">-</span> PASSWORD=orange
+</span><span class="code-line line-number" line="11">      <span class="token punctuation">-</span> NEXT_PUBLIC_STORAGE_TYPE=redis
+</span><span class="code-line line-number" line="12">      <span class="token punctuation">-</span> REDIS_URL=redis<span class="token punctuation">:</span>//OrangeTV<span class="token punctuation">-</span>redis<span class="token punctuation">:</span><span class="token number">6379</span>
+</span><span class="code-line line-number" line="13">    <span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="14">      <span class="token punctuation">-</span> OrangeTV<span class="token punctuation">-</span>network
+</span><span class="code-line line-number" line="15">    <span class="token key atrule">depends_on</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="16">      <span class="token punctuation">-</span> OrangeTV<span class="token punctuation">-</span>redis
+</span><span class="code-line line-number" line="17">  <span class="token key atrule">OrangeTV-redis</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="18">    <span class="token key atrule">image</span><span class="token punctuation">:</span> redis<span class="token punctuation">:</span>alpine
+</span><span class="code-line line-number" line="19">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> OrangeTV<span class="token punctuation">-</span>redis
+</span><span class="code-line line-number" line="20">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> unless<span class="token punctuation">-</span>stopped
+</span><span class="code-line line-number" line="21">    <span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="22">      <span class="token punctuation">-</span> OrangeTV<span class="token punctuation">-</span>network
+</span><span class="code-line line-number" line="23">    <span class="token comment"># 请开启持久化，否则升级/重启后数据丢失</span>
+</span><span class="code-line line-number" line="24">    <span class="token key atrule">volumes</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="25">      <span class="token punctuation">-</span> ./data<span class="token punctuation">:</span>/data
+</span><span class="code-line line-number" line="26"><span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="27">  <span class="token key atrule">OrangeTV-network</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="28">    <span class="token key atrule">driver</span><span class="token punctuation">:</span> bridge
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/194" target="_blank">#194</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/325592b8-df14-4bf7-a84f-511842473585" length="0" type="image//user-attachments/assets/325592b8-df14-4bf7-a84f-511842473585"/>
+        </item>
         <item>
             <title><![CDATA[pgpad: 一个小巧、快速的跨平台 PostgreSQL 数据库客户端 [进行中]]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/193.html</link>

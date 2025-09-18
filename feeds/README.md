@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [VidCrop：简洁的视频裁剪工具，手动选择视频的任意部分进行裁剪，支持常见视频格式](https://wangchujiang.com/quick-rss/issue/195.html) 
+
+![](https://github.com/user-attachments/assets/5e64fb5a-b219-4c0f-8295-4725e97f2693)
+
+VidCrop 是一款视频裁剪工具，帮助用户轻松裁剪视频文件。您可以手动选择视频的任意部分进行裁剪，程序内置视频播放器，方便在裁剪前后查看预览。 📥 https://apps.apple.com/app/6752624705 💬 https://github.com/jaywcjlove/vidcrop 主要功能 支持 .mp4, .m4v, .mov, .mpg, .mpeg, .3gp 等 ([#195](https://github.com/jaywcjlove/quick-rss/issues/195) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [OrangeTV: 跨平台影视聚合播放器，随时随地畅享免费影视](https://wangchujiang.com/quick-rss/issue/194.html) 
 
 ![](https://github.com/user-attachments/assets/325592b8-df14-4bf7-a84f-511842473585)

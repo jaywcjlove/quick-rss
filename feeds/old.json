@@ -1,5 +1,19 @@
 [
   {
+    "id": "195",
+    "url": "https://wangchujiang.com/quick-rss/issue/195.html",
+    "title": "VidCrop：简洁的视频裁剪工具，手动选择视频的任意部分进行裁剪，支持常见视频格式",
+    "content_html": "<p><img src=\"https://github.com/user-attachments/assets/5e64fb5a-b219-4c0f-8295-4725e97f2693\" alt=\"VidCrop\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/3571fd6b-9539-4f61-ae4c-5dfc508eec2d\" alt=\"VidCrop\"></p>\n<p>VidCrop 是一款视频裁剪工具，帮助用户轻松裁剪视频文件。您可以手动选择视频的任意部分进行裁剪，程序内置视频播放器，方便在裁剪前后查看预览。</p>\n<p>📥 <a href=\"https://apps.apple.com/app/6752624705\">https://apps.apple.com/app/6752624705</a><br>\n💬 <a href=\"https://github.com/jaywcjlove/vidcrop\">https://github.com/jaywcjlove/vidcrop</a></p>\n<h2>主要功能</h2>\n<ul>\n<li>支持 .mp4, .m4v, .mov, .mpg, .mpeg, .3gp 等常见视频格式。</li>\n<li>用户可以通过拖动调整裁剪框或自定义视频尺寸，精确裁剪视频的任意部分。</li>\n</ul>",
+    "summary": "VidCrop 是一款视频裁剪工具，帮助用户轻松裁剪视频文件。您可以手动选择视频的任意部分进行裁剪，程序内置视频播放器，方便在裁剪前后查看预览。 📥 https://apps.apple.com/app/6752624705 💬 https://github.com/jaywcjlove/vidcrop ## 主要功能 - 支持 .mp4, .m4v, .mov, .mpg, .mpeg, .",
+    "banner_image": "https://github.com/user-attachments/assets/5e64fb5a-b219-4c0f-8295-4725e97f2693",
+    "date_published": "2025-09-18T14:10:47Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "![VidCrop](https://github.com/user-attachments/assets/5e64fb5a-b219-4c0f-8295-4725e97f2693)\n\n![VidCrop](https://github.com/user-attachments/assets/3571fd6b-9539-4f61-ae4c-5dfc508eec2d)\n\nVidCrop 是一款视频裁剪工具，帮助用户轻松裁剪视频文件。您可以手动选择视频的任意部分进行裁剪，程序内置视频播放器，方便在裁剪前后查看预览。\n\n📥 https://apps.apple.com/app/6752624705  \n💬 https://github.com/jaywcjlove/vidcrop  \n\n## 主要功能\n\n- 支持 .mp4, .m4v, .mov, .mpg, .mpeg, .3gp 等常见视频格式。\n- 用户可以通过拖动调整裁剪框或自定义视频尺寸，精确裁剪视频的任意部分。"
+  },
+  {
     "id": "194",
     "url": "https://wangchujiang.com/quick-rss/issue/194.html",
     "title": "OrangeTV: 跨平台影视聚合播放器，随时随地畅享免费影视",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-09-15T00:46:21.008Z</updated>
+    <updated>2025-09-18T14:11:28.990Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,36 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[VidCrop：简洁的视频裁剪工具，手动选择视频的任意部分进行裁剪，支持常见视频格式]]></title>
+        <id>195</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/195.html"/>
+        <updated>2025-09-18T14:10:47.000Z</updated>
+        <summary type="html"><![CDATA[VidCrop 是一款视频裁剪工具，帮助用户轻松裁剪视频文件。您可以手动选择视频的任意部分进行裁剪，程序内置视频播放器，方便在裁剪前后查看预览。 📥 https://apps.apple.com/app/6752624705 💬 https://github.com/jaywcjlove/vidcrop 主要功能 支持 .mp4, .m4v, .mov, .mpg, .mpeg, .3gp 等]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/5e64fb5a-b219-4c0f-8295-4725e97f2693" alt="VidCrop"></p>
+<p><img src="https://github.com/user-attachments/assets/3571fd6b-9539-4f61-ae4c-5dfc508eec2d" alt="VidCrop"></p>
+<p>VidCrop 是一款视频裁剪工具，帮助用户轻松裁剪视频文件。您可以手动选择视频的任意部分进行裁剪，程序内置视频播放器，方便在裁剪前后查看预览。</p>
+<p>📥 <a href="https://apps.apple.com/app/6752624705">https://apps.apple.com/app/6752624705</a><br>
+💬 <a href="https://github.com/jaywcjlove/vidcrop">https://github.com/jaywcjlove/vidcrop</a></p>
+<h2>主要功能</h2>
+<ul>
+<li>支持 .mp4, .m4v, .mov, .mpg, .mpeg, .3gp 等常见视频格式。</li>
+<li>用户可以通过拖动调整裁剪框或自定义视频尺寸，精确裁剪视频的任意部分。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/195" target="_blank">#195</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OrangeTV: 跨平台影视聚合播放器，随时随地畅享免费影视]]></title>
         <id>194</id>

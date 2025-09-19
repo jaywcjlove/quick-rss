@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [LaunchNext：恢复经典 Launchpad 体验，完美重现 macOS 旧版界面](https://wangchujiang.com/quick-rss/issue/196.html) 
+
+![](https://github.com/user-attachments/assets/ef534c86-dcf7-49a5-a1b3-dcd9c1dd85f8)
+
+随着 macOS Tahoe 的发布，苹果移除了原本深受欢迎的 Launchpad，新界面被许多用户认为操作繁琐，并且无法充分利用现代的 Bio GPU。为此，推出了 LaunchNext，这是基于 LaunchNow（作者：ggkevinnnn）开发的一个增强版本，旨在恢复经典的 Launchpad 体验，并提供更多实用的功能。 LaunchNext 的主要功能： 一键导入旧系统 Launchp ([#196](https://github.com/jaywcjlove/quick-rss/issues/196) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [VidCrop：简洁的视频裁剪工具，手动选择视频的任意部分进行裁剪，支持常见视频格式](https://wangchujiang.com/quick-rss/issue/195.html) 
 
 ![](https://github.com/user-attachments/assets/5e64fb5a-b219-4c0f-8295-4725e97f2693)

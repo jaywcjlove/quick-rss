@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 19 Sep 2025 01:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 03:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,32 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dayflow： 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/197.html</link>
+            <guid>197</guid>
+            <pubDate>Fri, 26 Sep 2025 03:32:32 GMT</pubDate>
+            <description><![CDATA[Dayflow 是一款原生 macOS 应用（SwiftUI），以 1 FPS 静默记录你的屏幕，并每 15 分钟通过 AI 分析生成清晰的日程时间线，附简明总结与干扰高亮。轻量高效（25MB 应用，约 100MB 内存，CPU 占用 &#x3C;1%），支持回放每日时间流和自动清理 3 天前的记录。 你可自由选择 AI 提供方：Gemini（自带 API key）或本地模型 Ollama/LM ]]></description>
+            <content:encoded><![CDATA[<p>Dayflow 是一款原生 macOS 应用（SwiftUI），以 1 FPS 静默记录你的屏幕，并每 15 分钟通过 AI 分析生成清晰的日程时间线，附简明总结与干扰高亮。轻量高效（25MB 应用，约 100MB 内存，CPU 占用 &#x3C;1%），支持回放每日时间流和自动清理 3 天前的记录。</p>
+<p>你可自由选择 AI 提供方：Gemini（自带 API key）或本地模型 Ollama/LM Studio，所有数据完全掌控在你手中。Dayflow 原生 SwiftUI 界面，自动 Sparkle 更新，帮助你获得平静、可信的工作日时间管理体验。</p>
+<p><img src="https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc" alt="Dayflow"></p>
+<h2>核心功能</h2>
+<ul>
+<li>自动生成日程时间线，附 AI 简明总结</li>
+<li>1 FPS 屏幕记录，低 CPU/存储占用</li>
+<li>每 15 分钟 AI 分析一次</li>
+<li>回放每日时间流</li>
+<li>自动清理：3 天前的记录自动删除</li>
+<li>干扰高亮，追踪离线或分心时刻</li>
+<li>原生 SwiftUI 界面 + 自动 Sparkle 更新</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/197" target="_blank">#197</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc" length="0" type="image//user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc"/>
+        </item>
         <item>
             <title><![CDATA[LaunchNext：恢复经典 Launchpad 体验，完美重现 macOS 旧版界面]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/196.html</link>

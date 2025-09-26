@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "197",
+            "content_html": "<p>Dayflow 是一款原生 macOS 应用（SwiftUI），以 1 FPS 静默记录你的屏幕，并每 15 分钟通过 AI 分析生成清晰的日程时间线，附简明总结与干扰高亮。轻量高效（25MB 应用，约 100MB 内存，CPU 占用 &#x3C;1%），支持回放每日时间流和自动清理 3 天前的记录。</p>\n<p>你可自由选择 AI 提供方：Gemini（自带 API key）或本地模型 Ollama/LM Studio，所有数据完全掌控在你手中。Dayflow 原生 SwiftUI 界面，自动 Sparkle 更新，帮助你获得平静、可信的工作日时间管理体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc\" alt=\"Dayflow\"></p>\n<h2>核心功能</h2>\n<ul>\n<li>自动生成日程时间线，附 AI 简明总结</li>\n<li>1 FPS 屏幕记录，低 CPU/存储占用</li>\n<li>每 15 分钟 AI 分析一次</li>\n<li>回放每日时间流</li>\n<li>自动清理：3 天前的记录自动删除</li>\n<li>干扰高亮，追踪离线或分心时刻</li>\n<li>原生 SwiftUI 界面 + 自动 Sparkle 更新</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/197\" target=\"_blank\">#197</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/197.html",
+            "title": "Dayflow： 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。",
+            "summary": "Dayflow 是一款原生 macOS 应用（SwiftUI），以 1 FPS 静默记录你的屏幕，并每 15 分钟通过 AI 分析生成清晰的日程时间线，附简明总结与干扰高亮。轻量高效（25MB 应用，约 100MB 内存，CPU 占用 &#x3C;1%），支持回放每日时间流和自动清理 3 天前的记录。 你可自由选择 AI 提供方：Gemini（自带 API key）或本地模型 Ollama/LM ",
+            "image": "https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc",
+            "date_modified": "2025-09-26T03:32:32.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "196",
             "content_html": "<p>随着 <strong>macOS Tahoe</strong> 的发布，苹果移除了原本深受欢迎的 <strong>Launchpad</strong>，新界面被许多用户认为操作繁琐，并且无法充分利用现代的 <strong>Bio GPU</strong>。为此，推出了 <strong>LaunchNext</strong>，这是基于 <a href=\"https://github.com/ggkevinnnn/LaunchNow\"><strong>LaunchNow</strong></a>（作者：ggkevinnnn）开发的一个增强版本，旨在恢复经典的 Launchpad 体验，并提供更多实用的功能。</p>\n<img alt=\"LaunchNext\" src=\"https://github.com/user-attachments/assets/ef534c86-dcf7-49a5-a1b3-dcd9c1dd85f8\">\n<img alt=\"LaunchNext\" src=\"https://github.com/user-attachments/assets/110f17a2-4b5a-4c2a-a63e-86b68d96f908\">\n<img alt=\"LaunchNext\" src=\"https://github.com/user-attachments/assets/5bc29fa2-d5ef-4b12-a4d0-a3788f8dfc4a\">\n<img alt=\"LaunchNext\" src=\"https://github.com/user-attachments/assets/e97822b6-b053-4659-8ab9-790c6c964791\">\n<h3><strong>LaunchNext 的主要功能</strong>：</h3>\n<ul>\n<li><strong>一键导入旧系统 Launchpad</strong>：直接读取你的原生 <strong>Launchpad</strong> SQLite 数据库（<code>/private$(getconf DARWIN_USER_DIR)com.apple.dock.launchpad/db/db</code>），完美还原你的文件夹、应用位置和布局。</li>\n<li><strong>经典 Launchpad 体验</strong>：恢复原版界面，带来熟悉的操作感受。</li>\n<li><strong>多语言支持</strong>：包含 <strong>英文</strong>、<strong>中文</strong>、<strong>日文</strong>、<strong>法文</strong> 和 <strong>西班牙文</strong>，支持完整国际化。</li>\n<li><strong>隐藏图标标签</strong>：在不需要显示应用名称时，提供简洁的极简视图。</li>\n<li><strong>自定义图标大小</strong>：根据个人偏好调整图标的尺寸，定制你的 Launchpad。</li>\n<li><strong>智能文件夹管理</strong>：像旧版一样创建和整理文件夹。</li>\n<li><strong>即时搜索与键盘导航</strong>：快速找到应用程序，无需多余的操作。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/196\" target=\"_blank\">#196</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/196.html",

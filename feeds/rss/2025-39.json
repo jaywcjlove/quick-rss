@@ -1,0 +1,16 @@
+[
+  {
+    "id": "197",
+    "url": "https://wangchujiang.com/quick-rss/issue/197.html",
+    "title": "Dayflow： 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。",
+    "content_html": "<p>Dayflow 是一款原生 macOS 应用（SwiftUI），以 1 FPS 静默记录你的屏幕，并每 15 分钟通过 AI 分析生成清晰的日程时间线，附简明总结与干扰高亮。轻量高效（25MB 应用，约 100MB 内存，CPU 占用 &#x3C;1%），支持回放每日时间流和自动清理 3 天前的记录。</p>\n<p>你可自由选择 AI 提供方：Gemini（自带 API key）或本地模型 Ollama/LM Studio，所有数据完全掌控在你手中。Dayflow 原生 SwiftUI 界面，自动 Sparkle 更新，帮助你获得平静、可信的工作日时间管理体验。</p>\n<p><img src=\"https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc\" alt=\"Dayflow\"></p>\n<h2>核心功能</h2>\n<ul>\n<li>自动生成日程时间线，附 AI 简明总结</li>\n<li>1 FPS 屏幕记录，低 CPU/存储占用</li>\n<li>每 15 分钟 AI 分析一次</li>\n<li>回放每日时间流</li>\n<li>自动清理：3 天前的记录自动删除</li>\n<li>干扰高亮，追踪离线或分心时刻</li>\n<li>原生 SwiftUI 界面 + 自动 Sparkle 更新</li>\n</ul>",
+    "summary": "Dayflow 是一款原生 macOS 应用（SwiftUI），以 1 FPS 静默记录你的屏幕，并每 15 分钟通过 AI 分析生成清晰的日程时间线，附简明总结与干扰高亮。轻量高效（25MB 应用，约 100MB 内存，CPU 占用",
+    "banner_image": "https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc",
+    "date_published": "2025-09-26T03:32:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Dayflow 是一款原生 macOS 应用（SwiftUI），以 1 FPS 静默记录你的屏幕，并每 15 分钟通过 AI 分析生成清晰的日程时间线，附简明总结与干扰高亮。轻量高效（25MB 应用，约 100MB 内存，CPU 占用 <1%），支持回放每日时间流和自动清理 3 天前的记录。\n\n你可自由选择 AI 提供方：Gemini（自带 API key）或本地模型 Ollama/LM Studio，所有数据完全掌控在你手中。Dayflow 原生 SwiftUI 界面，自动 Sparkle 更新，帮助你获得平静、可信的工作日时间管理体验。\n\n![Dayflow](https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc)\n\n## 核心功能\n\n- 自动生成日程时间线，附 AI 简明总结\n- 1 FPS 屏幕记录，低 CPU/存储占用\n- 每 15 分钟 AI 分析一次\n- 回放每日时间流\n- 自动清理：3 天前的记录自动删除\n- 干扰高亮，追踪离线或分心时刻\n- 原生 SwiftUI 界面 + 自动 Sparkle 更新"
+  }
+]

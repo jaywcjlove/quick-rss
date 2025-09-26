@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Dayflow： 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。](https://wangchujiang.com/quick-rss/issue/197.html) 
+
+![](https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc)
+
+Dayflow 是一款原生 macOS 应用（SwiftUI），以 1 FPS 静默记录你的屏幕，并每 15 分钟通过 AI 分析生成清晰的日程时间线，附简明总结与干扰高亮。轻量高效（25MB 应用，约 100MB 内存，CPU 占用 &#x3C;1%），支持回放每日时间流和自动清理 3 天前的记录。 你可自由选择 AI 提供方：Gemini（自带 API key）或本地模型 Ollama/LM  ([#197](https://github.com/jaywcjlove/quick-rss/issues/197) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [LaunchNext：恢复经典 Launchpad 体验，完美重现 macOS 旧版界面](https://wangchujiang.com/quick-rss/issue/196.html) 
 
 ![](https://github.com/user-attachments/assets/ef534c86-dcf7-49a5-a1b3-dcd9c1dd85f8)

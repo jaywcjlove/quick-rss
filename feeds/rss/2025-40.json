@@ -1,0 +1,16 @@
+[
+  {
+    "id": "198",
+    "url": "https://wangchujiang.com/quick-rss/issue/198.html",
+    "title": "MyMedia：本地电影和电视节目展示应用，Apple TV 替代品",
+    "content_html": "<img alt=\"MyMedia\" src=\"https://github.com/user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316\">\n<p>MyMedia 是一款纯粹使用 SwiftUI 编写的简单应用，用于展示本地电影和电视节目库。它旨在成为 Apple TV 应用的替代品，因为后者对于本地媒体支持较弱。</p>\n<p>你可以将媒体文件导入 MyMedia，所有数据都通过文件中的元数据读取。我推荐使用 Subler 编辑元数据。</p>\n<p>目前不支持在 MyMedia 中直接编辑元数据，且没有计划实现此功能。</p>\n<h2>功能</h2>\n<ul>\n<li>精美展示你的媒体库，包括电影或节目的艺术封面和详细信息。</li>\n<li>使用内置播放器或系统默认应用播放。</li>\n<li>跟踪未观看的电影、电视节目和剧集。</li>\n<li>创建电影和节目合集。</li>\n<li>固定和收藏媒体。</li>\n<li>为电视节目和电影设置不同的类型分类。</li>\n</ul>",
+    "summary": "MyMedia 是一款纯粹使用 SwiftUI 编写的简单应用，用于展示本地电影和电视节目库。它旨在成为 Apple TV 应用的替代品，因为后者对于本地媒体支持较弱。 你可以将媒体文件导入 MyMedia，所有数据都通过文件中的元数据读取。我推荐使用 Subler 编辑元数据。 目前不支持在 MyMedia 中直接编辑元数据，且没有计划实现此功能。 ## 功能 - 精美展示你的媒体库，包括电影或",
+    "banner_image": null,
+    "date_published": "2025-09-29T18:51:41Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "<img  alt=\"MyMedia\" src=\"https://github.com/user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316\" />\n\nMyMedia 是一款纯粹使用 SwiftUI 编写的简单应用，用于展示本地电影和电视节目库。它旨在成为 Apple TV 应用的替代品，因为后者对于本地媒体支持较弱。\n\n你可以将媒体文件导入 MyMedia，所有数据都通过文件中的元数据读取。我推荐使用 Subler 编辑元数据。\n\n目前不支持在 MyMedia 中直接编辑元数据，且没有计划实现此功能。\n\n## 功能\n\n- 精美展示你的媒体库，包括电影或节目的艺术封面和详细信息。\n- 使用内置播放器或系统默认应用播放。\n- 跟踪未观看的电影、电视节目和剧集。\n- 创建电影和节目合集。\n- 固定和收藏媒体。\n- 为电视节目和电影设置不同的类型分类。"
+  }
+]

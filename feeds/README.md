@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MyMedia：本地电影和电视节目展示应用，Apple TV 替代品](https://wangchujiang.com/quick-rss/issue/198.html) 
+
+![](https://github.com/user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316)
+
+MyMedia 是一款纯粹使用 SwiftUI 编写的简单应用，用于展示本地电影和电视节目库。它旨在成为 Apple TV 应用的替代品，因为后者对于本地媒体支持较弱。 你可以将媒体文件导入 MyMedia，所有数据都通过文件中的元数据读取。我推荐使用 Subler 编辑元数据。 目前不支持在 MyMedia 中直接编辑元数据，且没有计划实现此功能。 功能 精美展示你的媒体库，包括电影或节目的艺术 ([#198](https://github.com/jaywcjlove/quick-rss/issues/198) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Dayflow： 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。](https://wangchujiang.com/quick-rss/issue/197.html) 
 
 ![](https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc)

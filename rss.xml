@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 26 Sep 2025 03:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 18:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,32 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MyMedia：本地电影和电视节目展示应用，Apple TV 替代品]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/198.html</link>
+            <guid>198</guid>
+            <pubDate>Mon, 29 Sep 2025 18:51:41 GMT</pubDate>
+            <description><![CDATA[MyMedia 是一款纯粹使用 SwiftUI 编写的简单应用，用于展示本地电影和电视节目库。它旨在成为 Apple TV 应用的替代品，因为后者对于本地媒体支持较弱。 你可以将媒体文件导入 MyMedia，所有数据都通过文件中的元数据读取。我推荐使用 Subler 编辑元数据。 目前不支持在 MyMedia 中直接编辑元数据，且没有计划实现此功能。 功能 精美展示你的媒体库，包括电影或节目的艺术]]></description>
+            <content:encoded><![CDATA[<img alt="MyMedia" src="https://github.com/user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316">
+<p>MyMedia 是一款纯粹使用 SwiftUI 编写的简单应用，用于展示本地电影和电视节目库。它旨在成为 Apple TV 应用的替代品，因为后者对于本地媒体支持较弱。</p>
+<p>你可以将媒体文件导入 MyMedia，所有数据都通过文件中的元数据读取。我推荐使用 Subler 编辑元数据。</p>
+<p>目前不支持在 MyMedia 中直接编辑元数据，且没有计划实现此功能。</p>
+<h2>功能</h2>
+<ul>
+<li>精美展示你的媒体库，包括电影或节目的艺术封面和详细信息。</li>
+<li>使用内置播放器或系统默认应用播放。</li>
+<li>跟踪未观看的电影、电视节目和剧集。</li>
+<li>创建电影和节目合集。</li>
+<li>固定和收藏媒体。</li>
+<li>为电视节目和电影设置不同的类型分类。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/198" target="_blank">#198</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316" length="0" type="image//user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316"/>
+        </item>
         <item>
             <title><![CDATA[Dayflow： 将屏幕使用记录自动生成你的日程时间线，支持本地 AI 模型。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/197.html</link>

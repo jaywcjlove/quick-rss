@@ -1,5 +1,19 @@
 [
   {
+    "id": "199",
+    "url": "https://wangchujiang.com/quick-rss/issue/199.html",
+    "title": "Micmute：在任意应用中切换麦克风静音",
+    "content_html": "<p>这是一款轻量级的 macOS 工具，支持选择输入设备，一键或快捷键切换麦克风静音，并在菜单栏显示状态，提供推按说话、置顶通知及高度可定制的提醒功能。</p>\n<img alt=\"Micmute\" src=\"https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd\">\n<img alt=\"Micmute\" src=\"https://github.com/user-attachments/assets/0f2613d0-65bc-4913-8763-91106daff886\">",
+    "summary": "这是一款轻量级的 macOS 工具，支持选择输入设备，一键或快捷键切换麦克风静音，并在菜单栏显示状态，提供推按说话、置顶通知及高度可定制的提醒功能。",
+    "banner_image": null,
+    "date_published": "2025-10-02T03:17:29Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一款轻量级的 macOS 工具，支持选择输入设备，一键或快捷键切换麦克风静音，并在菜单栏显示状态，提供推按说话、置顶通知及高度可定制的提醒功能。\n\n<img alt=\"Micmute\" src=\"https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd\" />\n\n<img alt=\"Micmute\" src=\"https://github.com/user-attachments/assets/0f2613d0-65bc-4913-8763-91106daff886\" />"
+  },
+  {
     "id": "198",
     "url": "https://wangchujiang.com/quick-rss/issue/198.html",
     "title": "MyMedia：本地电影和电视节目展示应用，Apple TV 替代品",

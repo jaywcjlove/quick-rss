@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 29 Sep 2025 18:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 03:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Micmute：在任意应用中切换麦克风静音]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/199.html</link>
+            <guid>199</guid>
+            <pubDate>Thu, 02 Oct 2025 03:17:29 GMT</pubDate>
+            <description><![CDATA[这是一款轻量级的 macOS 工具，支持选择输入设备，一键或快捷键切换麦克风静音，并在菜单栏显示状态，提供推按说话、置顶通知及高度可定制的提醒功能。]]></description>
+            <content:encoded><![CDATA[<p>这是一款轻量级的 macOS 工具，支持选择输入设备，一键或快捷键切换麦克风静音，并在菜单栏显示状态，提供推按说话、置顶通知及高度可定制的提醒功能。</p>
+<img alt="Micmute" src="https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd">
+<img alt="Micmute" src="https://github.com/user-attachments/assets/0f2613d0-65bc-4913-8763-91106daff886"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/199" target="_blank">#199</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd" length="0" type="image//user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd"/>
+        </item>
         <item>
             <title><![CDATA[MyMedia：本地电影和电视节目展示应用，Apple TV 替代品]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/198.html</link>

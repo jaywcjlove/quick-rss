@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Micmute：在任意应用中切换麦克风静音](https://wangchujiang.com/quick-rss/issue/199.html) 
+
+![](https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd)
+
+这是一款轻量级的 macOS 工具，支持选择输入设备，一键或快捷键切换麦克风静音，并在菜单栏显示状态，提供推按说话、置顶通知及高度可定制的提醒功能。 ([#199](https://github.com/jaywcjlove/quick-rss/issues/199) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MyMedia：本地电影和电视节目展示应用，Apple TV 替代品](https://wangchujiang.com/quick-rss/issue/198.html) 
 
 ![](https://github.com/user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316)

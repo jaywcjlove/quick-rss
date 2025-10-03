@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "200",
+            "content_html": "<p><img src=\"https://github.com/user-attachments/assets/d046840c-1241-4f64-b3cb-7fe4c305b921\" alt=\"Vidwall Hub\"></p>\n<img alt=\"Vidwall Hub\" src=\"https://github.com/user-attachments/assets/d67a54c5-13dc-4872-a5c6-4f174eb6697a\">\n<p><strong>Vidwall Hub</strong> 是一款可以轻松将视频（<code>mp4</code>、<code>mov</code>）导入系统壁纸服务，并在 <code>系统设置</code> 中用作锁屏动画的工具。</p>\n<p>在尝试通过 <a href=\"https://github.com/jaywcjlove/vidwall\">Vidwall</a> 应用同时实现动态壁纸和动态锁屏功能时，由于 macOS 沙盒限制，这一功能无法实现。因此，我将测试后的代码独立成一个新应用 免费提供给大家使用，作为 <a href=\"https://github.com/jaywcjlove/vidwall\">Vidwall</a> 的补充。即使独立运行、绕过沙盒限制，仍无法直接设置动态锁屏，因为 macOS 并未提供相关 API。Vidwall Hub 仅将视频导入系统壁纸服务，用户需要在系统设置的壁纸选项中完成最终应用。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/200\" target=\"_blank\">#200</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/200.html",
+            "title": "Vidwall Hub：一款可以将视频（mp4/mov）设置为锁屏壁纸的新应用",
+            "summary": "Vidwall Hub 是一款可以轻松将视频（mp4、mov）导入系统壁纸服务，并在 系统设置 中用作锁屏动画的工具。 在尝试通过 Vidwall 应用同时实现动态壁纸和动态锁屏功能时，由于 macOS 沙盒限制，这一功能无法实现。因此，我将测试后的代码独立成一个新应用 免费提供给大家使用，作为 Vidwall 的补充。即使独立运行、绕过沙盒限制，仍无法直接设置动态锁屏，因为 macOS 并未提供",
+            "image": "https://github.com/user-attachments/assets/d046840c-1241-4f64-b3cb-7fe4c305b921",
+            "date_modified": "2025-10-03T01:29:08.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "199",
             "content_html": "<p>这是一款轻量级的 macOS 工具，支持选择输入设备，一键或快捷键切换麦克风静音，并在菜单栏显示状态，提供推按说话、置顶通知及高度可定制的提醒功能。</p>\n<img alt=\"Micmute\" src=\"https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd\">\n<img alt=\"Micmute\" src=\"https://github.com/user-attachments/assets/0f2613d0-65bc-4913-8763-91106daff886\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/199\" target=\"_blank\">#199</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/199.html",

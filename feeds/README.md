@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Vidwall Hub：一款可以将视频（mp4/mov）设置为锁屏壁纸的新应用](https://wangchujiang.com/quick-rss/issue/200.html) 
+
+![](https://github.com/user-attachments/assets/d046840c-1241-4f64-b3cb-7fe4c305b921)
+
+Vidwall Hub 是一款可以轻松将视频（mp4、mov）导入系统壁纸服务，并在 系统设置 中用作锁屏动画的工具。 在尝试通过 Vidwall 应用同时实现动态壁纸和动态锁屏功能时，由于 macOS 沙盒限制，这一功能无法实现。因此，我将测试后的代码独立成一个新应用 免费提供给大家使用，作为 Vidwall 的补充。即使独立运行、绕过沙盒限制，仍无法直接设置动态锁屏，因为 macOS 并未提供 ([#200](https://github.com/jaywcjlove/quick-rss/issues/200) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Micmute：在任意应用中切换麦克风静音](https://wangchujiang.com/quick-rss/issue/199.html) 
 
 ![](https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd)

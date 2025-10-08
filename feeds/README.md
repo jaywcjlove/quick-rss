@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SolidGlass：在 macOS Tahoe 上禁用 Liquid Glass 的软件](https://wangchujiang.com/quick-rss/issue/201.html) 
+
+![](https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e)
+
+一个非常简单的应用程序，用于在特定应用中禁用 Liquid Glass 效果。 [!Note] 在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效 SolidGlass 是做什么的？ SolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过直观的界面和一 ([#201](https://github.com/jaywcjlove/quick-rss/issues/201) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Vidwall Hub：一款可以将视频（mp4/mov）设置为锁屏壁纸的新应用](https://wangchujiang.com/quick-rss/issue/200.html) 
 
 ![](https://github.com/user-attachments/assets/d046840c-1241-4f64-b3cb-7fe4c305b921)

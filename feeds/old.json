@@ -1,5 +1,19 @@
 [
   {
+    "id": "201",
+    "url": "https://wangchujiang.com/quick-rss/issue/201.html",
+    "title": "SolidGlass：在 macOS Tahoe 上禁用 Liquid Glass 的软件",
+    "content_html": "<p>一个非常简单的应用程序，用于在特定应用中禁用 Liquid Glass 效果。</p>\n<blockquote>\n<p>[!Note]\n在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效</p>\n</blockquote>\n<img alt=\"SolidGlass\" src=\"https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e\">\n<h2>SolidGlass 是做什么的？</h2>\n<img alt=\"SolidGlass\" src=\"https://github.com/user-attachments/assets/251ff851-00c3-4d92-a06d-847ae50c1fc9\">\n<p>SolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过直观的界面和一系列实用、易用的功能简化了这一过程。</p>\n<h2>适用于 macOS 测试版用户</h2>\n<p>在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效。我们不确定这是由于系统故障（很有可能）、苹果更改了禁用命令的工作方式，还是彻底移除了该功能。我们只能等待正式版发布。</p>",
+    "summary": "一个非常简单的应用程序，用于在特定应用中禁用 Liquid Glass 效果。 > [!Note] > 在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效 ## SolidGlass 是做什么的？ SolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过",
+    "banner_image": null,
+    "date_published": "2025-10-08T11:29:24Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个非常简单的应用程序，用于在特定应用中禁用 Liquid Glass 效果。\n\n> [!Note]\n> 在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效\n\n<img alt=\"SolidGlass\" src=\"https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e\" />\n\n## SolidGlass 是做什么的？\n\n<img alt=\"SolidGlass\" src=\"https://github.com/user-attachments/assets/251ff851-00c3-4d92-a06d-847ae50c1fc9\" />\n\nSolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过直观的界面和一系列实用、易用的功能简化了这一过程。\n\n## 适用于 macOS 测试版用户  \n\n在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效。我们不确定这是由于系统故障（很有可能）、苹果更改了禁用命令的工作方式，还是彻底移除了该功能。我们只能等待正式版发布。"
+  },
+  {
     "id": "200",
     "url": "https://wangchujiang.com/quick-rss/issue/200.html",
     "title": "Vidwall Hub：一款可以将视频（mp4/mov）设置为锁屏壁纸的新应用",

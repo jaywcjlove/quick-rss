@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BeddySongs：一个收集全球经典儿歌的网站](https://wangchujiang.com/quick-rss/issue/202.html) 
+
+![](https://github.com/user-attachments/assets/6a655e0b-83fa-4e4d-be07-d85afe04f549)
+
+收录全球经典儿歌，目前已收录中国、德国、法国、韩国、俄罗斯、意大利等国家经典儿歌，按年龄、类型、国家分类，适配不同成长阶段​。 ([#202](https://github.com/jaywcjlove/quick-rss/issues/202) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SolidGlass：在 macOS Tahoe 上禁用 Liquid Glass 的软件](https://wangchujiang.com/quick-rss/issue/201.html) 
 
 ![](https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e)

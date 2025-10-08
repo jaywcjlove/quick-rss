@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "201",
+            "content_html": "<p>一个非常简单的应用程序，用于在特定应用中禁用 Liquid Glass 效果。</p>\n<blockquote>\n<p>[!Note]\n在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效</p>\n</blockquote>\n<img alt=\"SolidGlass\" src=\"https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e\">\n<h2>SolidGlass 是做什么的？</h2>\n<img alt=\"SolidGlass\" src=\"https://github.com/user-attachments/assets/251ff851-00c3-4d92-a06d-847ae50c1fc9\">\n<p>SolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过直观的界面和一系列实用、易用的功能简化了这一过程。</p>\n<h2>适用于 macOS 测试版用户</h2>\n<p>在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效。我们不确定这是由于系统故障（很有可能）、苹果更改了禁用命令的工作方式，还是彻底移除了该功能。我们只能等待正式版发布。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/201\" target=\"_blank\">#201</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/201.html",
+            "title": "SolidGlass：在 macOS Tahoe 上禁用 Liquid Glass 的软件",
+            "summary": "一个非常简单的应用程序，用于在特定应用中禁用 Liquid Glass 效果。 [!Note] 在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效 SolidGlass 是做什么的？ SolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过直观的界面和一",
+            "image": "https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e",
+            "date_modified": "2025-10-08T11:29:24.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "200",
             "content_html": "<p><img src=\"https://github.com/user-attachments/assets/d046840c-1241-4f64-b3cb-7fe4c305b921\" alt=\"Vidwall Hub\"></p>\n<img alt=\"Vidwall Hub\" src=\"https://github.com/user-attachments/assets/d67a54c5-13dc-4872-a5c6-4f174eb6697a\">\n<p><strong>Vidwall Hub</strong> 是一款可以轻松将视频（<code>mp4</code>、<code>mov</code>）导入系统壁纸服务，并在 <code>系统设置</code> 中用作锁屏动画的工具。</p>\n<p>在尝试通过 <a href=\"https://github.com/jaywcjlove/vidwall\">Vidwall</a> 应用同时实现动态壁纸和动态锁屏功能时，由于 macOS 沙盒限制，这一功能无法实现。因此，我将测试后的代码独立成一个新应用 免费提供给大家使用，作为 <a href=\"https://github.com/jaywcjlove/vidwall\">Vidwall</a> 的补充。即使独立运行、绕过沙盒限制，仍无法直接设置动态锁屏，因为 macOS 并未提供相关 API。Vidwall Hub 仅将视频导入系统壁纸服务，用户需要在系统设置的壁纸选项中完成最终应用。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/200\" target=\"_blank\">#200</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/200.html",

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 03 Oct 2025 01:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 11:29:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SolidGlass：在 macOS Tahoe 上禁用 Liquid Glass 的软件]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/201.html</link>
+            <guid>201</guid>
+            <pubDate>Wed, 08 Oct 2025 11:29:24 GMT</pubDate>
+            <description><![CDATA[一个非常简单的应用程序，用于在特定应用中禁用 Liquid Glass 效果。 [!Note] 在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效 SolidGlass 是做什么的？ SolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过直观的界面和一]]></description>
+            <content:encoded><![CDATA[<p>一个非常简单的应用程序，用于在特定应用中禁用 Liquid Glass 效果。</p>
+<blockquote>
+<p>[!Note]
+在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效</p>
+</blockquote>
+<img alt="SolidGlass" src="https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e">
+<h2>SolidGlass 是做什么的？</h2>
+<img alt="SolidGlass" src="https://github.com/user-attachments/assets/251ff851-00c3-4d92-a06d-847ae50c1fc9">
+<p>SolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过直观的界面和一系列实用、易用的功能简化了这一过程。</p>
+<h2>适用于 macOS 测试版用户</h2>
+<p>在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效。我们不确定这是由于系统故障（很有可能）、苹果更改了禁用命令的工作方式，还是彻底移除了该功能。我们只能等待正式版发布。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/201" target="_blank">#201</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e" length="0" type="image//user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e"/>
+        </item>
         <item>
             <title><![CDATA[Vidwall Hub：一款可以将视频（mp4/mov）设置为锁屏壁纸的新应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/200.html</link>

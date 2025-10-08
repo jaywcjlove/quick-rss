@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-10-08T11:39:16.203Z</updated>
+    <updated>2025-10-08T18:48:36.073Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,40 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[MovApp：一个轻量级的 Launchpad 替代方案。]]></title>
+        <id>203</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/203.html"/>
+        <updated>2025-10-08T18:48:00.000Z</updated>
+        <summary type="html"><![CDATA[在 macOS 上，随着 Launchpad 的移除 和 新的应用对话框体验不佳，这款工具成为了一个优秀的替代方案。它不仅延续了 iOS 风格的宫格布局，还提供了更顺滑的操作体验和更多实用功能。 ✨ 主要特色 iOS 风格网格：分页展示，简洁美观 智能搜索：快速定位应用，边输入边查找 拖拽排序：自由调整应用位置 完整卸载：移除应用及相关缓存/偏好文件 流畅动画：原生手势支持，体验丝滑 轻量高效：占]]></summary>
+        <content type="html"><![CDATA[<p>在 macOS 上，随着 Launchpad 的移除 和 新的应用对话框体验不佳，这款工具成为了一个优秀的替代方案。它不仅延续了 iOS 风格的宫格布局，还提供了更顺滑的操作体验和更多实用功能。</p>
+<img alt="MovApp" src="https://github.com/user-attachments/assets/26679fc0-3f58-494b-a06e-85a33936ee00">
+<img alt="MovApp" src="https://github.com/user-attachments/assets/4b5aa7cd-5385-4a48-9e70-ea041118fca6">
+<h3>✨ 主要特色</h3>
+<ul>
+<li>iOS 风格网格：分页展示，简洁美观</li>
+<li>智能搜索：快速定位应用，边输入边查找</li>
+<li>拖拽排序：自由调整应用位置</li>
+<li>完整卸载：移除应用及相关缓存/偏好文件</li>
+<li>流畅动画：原生手势支持，体验丝滑</li>
+<li>轻量高效：占用少、启动快</li>
+<li>持久布局：记住你的应用排列习惯</li>
+</ul>
+<p>如果你对 macOS 自带的应用启动体验不满意，不妨试试它 —— 一个既轻便又好用的替代方案。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/203" target="_blank">#203</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BeddySongs：一个收集全球经典儿歌的网站]]></title>
         <id>202</id>

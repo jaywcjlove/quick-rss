@@ -1,5 +1,19 @@
 [
   {
+    "id": "203",
+    "url": "https://wangchujiang.com/quick-rss/issue/203.html",
+    "title": "MovApp：一个轻量级的 Launchpad 替代方案。",
+    "content_html": "<p>在 macOS 上，随着 Launchpad 的移除 和 新的应用对话框体验不佳，这款工具成为了一个优秀的替代方案。它不仅延续了 iOS 风格的宫格布局，还提供了更顺滑的操作体验和更多实用功能。</p>\n<img alt=\"MovApp\" src=\"https://github.com/user-attachments/assets/26679fc0-3f58-494b-a06e-85a33936ee00\">\n<img alt=\"MovApp\" src=\"https://github.com/user-attachments/assets/4b5aa7cd-5385-4a48-9e70-ea041118fca6\">\n<h3>✨ 主要特色</h3>\n<ul>\n<li>iOS 风格网格：分页展示，简洁美观</li>\n<li>智能搜索：快速定位应用，边输入边查找</li>\n<li>拖拽排序：自由调整应用位置</li>\n<li>完整卸载：移除应用及相关缓存/偏好文件</li>\n<li>流畅动画：原生手势支持，体验丝滑</li>\n<li>轻量高效：占用少、启动快</li>\n<li>持久布局：记住你的应用排列习惯</li>\n</ul>\n<p>如果你对 macOS 自带的应用启动体验不满意，不妨试试它 —— 一个既轻便又好用的替代方案。</p>",
+    "summary": "在 macOS 上，随着 Launchpad 的移除 和 新的应用对话框体验不佳，这款工具成为了一个优秀的替代方案。它不仅延续了 iOS 风格的宫格布局，还提供了更顺滑的操作体验和更多实用功能。 ### ✨ 主要特色 - iOS 风格网格：分页展示，简洁美观 - 智能搜索：快速定位应用，边输入边查找 - 拖拽排序：自由调整应用位置 - 完整卸载：移除应用及相关缓存/偏好文件 - 流畅动画：原生手势",
+    "banner_image": null,
+    "date_published": "2025-10-08T18:48:00Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "在 macOS 上，随着 Launchpad 的移除 和 新的应用对话框体验不佳，这款工具成为了一个优秀的替代方案。它不仅延续了 iOS 风格的宫格布局，还提供了更顺滑的操作体验和更多实用功能。\n\n<img alt=\"MovApp\" src=\"https://github.com/user-attachments/assets/26679fc0-3f58-494b-a06e-85a33936ee00\" />\n\n<img alt=\"MovApp\" src=\"https://github.com/user-attachments/assets/4b5aa7cd-5385-4a48-9e70-ea041118fca6\" />\n\n### ✨ 主要特色\n\n- iOS 风格网格：分页展示，简洁美观\n- 智能搜索：快速定位应用，边输入边查找\n- 拖拽排序：自由调整应用位置\n- 完整卸载：移除应用及相关缓存/偏好文件\n- 流畅动画：原生手势支持，体验丝滑\n- 轻量高效：占用少、启动快\n- 持久布局：记住你的应用排列习惯\n\n如果你对 macOS 自带的应用启动体验不满意，不妨试试它 —— 一个既轻便又好用的替代方案。"
+  },
+  {
     "id": "202",
     "url": "https://wangchujiang.com/quick-rss/issue/202.html",
     "title": "BeddySongs：一个收集全球经典儿歌的网站",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MovApp：一个轻量级的 Launchpad 替代方案。](https://wangchujiang.com/quick-rss/issue/203.html) 
+
+![](https://github.com/user-attachments/assets/26679fc0-3f58-494b-a06e-85a33936ee00)
+
+在 macOS 上，随着 Launchpad 的移除 和 新的应用对话框体验不佳，这款工具成为了一个优秀的替代方案。它不仅延续了 iOS 风格的宫格布局，还提供了更顺滑的操作体验和更多实用功能。 ✨ 主要特色 iOS 风格网格：分页展示，简洁美观 智能搜索：快速定位应用，边输入边查找 拖拽排序：自由调整应用位置 完整卸载：移除应用及相关缓存/偏好文件 流畅动画：原生手势支持，体验丝滑 轻量高效：占 ([#203](https://github.com/jaywcjlove/quick-rss/issues/203) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BeddySongs：一个收集全球经典儿歌的网站](https://wangchujiang.com/quick-rss/issue/202.html) 
 
 ![](https://github.com/user-attachments/assets/6a655e0b-83fa-4e4d-be07-d85afe04f549)

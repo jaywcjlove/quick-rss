@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AppleWalls：下载苹果设备（iPhone/iPad/mac）历年的系统自带壁纸。](https://wangchujiang.com/quick-rss/issue/204.html) 
+
+![](https://github.com/user-attachments/assets/5330a5c2-dda0-4600-97ee-e430c24bffe8)
+
+发现并下载最新的 iPhone、iPad 和 iMac 内置壁纸 ([#204](https://github.com/jaywcjlove/quick-rss/issues/204) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MovApp：一个轻量级的 Launchpad 替代方案。](https://wangchujiang.com/quick-rss/issue/203.html) 
 
 ![](https://github.com/user-attachments/assets/26679fc0-3f58-494b-a06e-85a33936ee00)

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "204",
+            "content_html": "<img alt=\"Image\" src=\"https://github.com/user-attachments/assets/5330a5c2-dda0-4600-97ee-e430c24bffe8\">\n<p>发现并下载最新的 iPhone、iPad 和 iMac 内置壁纸</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/204\" target=\"_blank\">#204</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/204.html",
+            "title": "AppleWalls：下载苹果设备（iPhone/iPad/mac）历年的系统自带壁纸。",
+            "summary": "发现并下载最新的 iPhone、iPad 和 iMac 内置壁纸",
+            "image": "https://github.com/user-attachments/assets/5330a5c2-dda0-4600-97ee-e430c24bffe8",
+            "date_modified": "2025-10-11T15:40:16.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "203",
             "content_html": "<p>在 macOS 上，随着 Launchpad 的移除 和 新的应用对话框体验不佳，这款工具成为了一个优秀的替代方案。它不仅延续了 iOS 风格的宫格布局，还提供了更顺滑的操作体验和更多实用功能。</p>\n<img alt=\"MovApp\" src=\"https://github.com/user-attachments/assets/26679fc0-3f58-494b-a06e-85a33936ee00\">\n<img alt=\"MovApp\" src=\"https://github.com/user-attachments/assets/4b5aa7cd-5385-4a48-9e70-ea041118fca6\">\n<h3>✨ 主要特色</h3>\n<ul>\n<li>iOS 风格网格：分页展示，简洁美观</li>\n<li>智能搜索：快速定位应用，边输入边查找</li>\n<li>拖拽排序：自由调整应用位置</li>\n<li>完整卸载：移除应用及相关缓存/偏好文件</li>\n<li>流畅动画：原生手势支持，体验丝滑</li>\n<li>轻量高效：占用少、启动快</li>\n<li>持久布局：记住你的应用排列习惯</li>\n</ul>\n<p>如果你对 macOS 自带的应用启动体验不满意，不妨试试它 —— 一个既轻便又好用的替代方案。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/203\" target=\"_blank\">#203</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/203.html",

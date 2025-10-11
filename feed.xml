@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-10-08T18:48:36.073Z</updated>
+    <updated>2025-10-11T15:40:57.286Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,28 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[AppleWalls：下载苹果设备（iPhone/iPad/mac）历年的系统自带壁纸。]]></title>
+        <id>204</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/204.html"/>
+        <updated>2025-10-11T15:40:16.000Z</updated>
+        <summary type="html"><![CDATA[发现并下载最新的 iPhone、iPad 和 iMac 内置壁纸]]></summary>
+        <content type="html"><![CDATA[<img alt="Image" src="https://github.com/user-attachments/assets/5330a5c2-dda0-4600-97ee-e430c24bffe8">
+<p>发现并下载最新的 iPhone、iPad 和 iMac 内置壁纸</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/204" target="_blank">#204</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MovApp：一个轻量级的 Launchpad 替代方案。]]></title>
         <id>203</id>

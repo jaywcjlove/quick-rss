@@ -1,5 +1,19 @@
 [
   {
+    "id": "205",
+    "url": "https://wangchujiang.com/quick-rss/issue/205.html",
+    "title": "CrossDesk：一个轻量级的跨平台远程桌面软件。",
+    "content_html": "<p>CrossDesk 是 <a href=\"https://github.com/kunkundi/minirtc.git\">MiniRTC</a> 实时音视频传输库的实验性应用。MiniRTC 是一个轻量级的跨平台实时音视频传输库。它具有网络透传（<a href=\"https://datatracker.ietf.org/doc/html/rfc5245\">RFC5245</a>），视频软硬编解码（H264/AV1），音频编解码（<a href=\"https://github.com/xiph/opus\">Opus</a>），信令交互，网络拥塞控制，传输加密（<a href=\"https://tools.ietf.org/html/rfc3711\">SRTP</a>）等基础能力。</p>\n<img width=\"1280\" height=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/613e7435-c6e7-4be1-ba9b-ef4118c90c29\">\n<h2>使用</h2>\n<p>在菜单栏“对端ID”处输入远端桌面的ID，点击“→”即可发起远程连接。</p>\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/1cae631f-8ba0-4532-9902-332401d585eb\">\n<p>如果远端桌面设置了连接密码，则本端需填写正确的连接密码才能成功发起远程连接。</p>\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/011f8c06-b8e5-4da9-94e9-1f6a5317bf95\">\n<p>发起连接前，可在设置中自定义配置项，如语言、视频编码格式等。</p>\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/1fefbd56-6340-4a22-aa60-b44d3371b48a\">",
+    "summary": "CrossDesk 是 [MiniRTC](https://github.com/kunkundi/minirtc.git) 实时音视频传输库的实验性应用。MiniRTC 是一个轻量级的跨平台实时音视频传输库。它具有网络透传（[RFC5245](https://datatracker.ietf.org/doc/html/rfc5245)），视频软硬编解码（H264/AV1），音频编解码（[Opus",
+    "banner_image": null,
+    "date_published": "2025-10-14T09:08:02Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "CrossDesk 是 [MiniRTC](https://github.com/kunkundi/minirtc.git) 实时音视频传输库的实验性应用。MiniRTC 是一个轻量级的跨平台实时音视频传输库。它具有网络透传（[RFC5245](https://datatracker.ietf.org/doc/html/rfc5245)），视频软硬编解码（H264/AV1），音频编解码（[Opus](https://github.com/xiph/opus)），信令交互，网络拥塞控制，传输加密（[SRTP](https://tools.ietf.org/html/rfc3711)）等基础能力。\n\n<img width=\"1280\" height=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/613e7435-c6e7-4be1-ba9b-ef4118c90c29\" />\n\n## 使用\n\n在菜单栏“对端ID”处输入远端桌面的ID，点击“→”即可发起远程连接。\n\n<img  alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/1cae631f-8ba0-4532-9902-332401d585eb\" />\n\n如果远端桌面设置了连接密码，则本端需填写正确的连接密码才能成功发起远程连接。\n\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/011f8c06-b8e5-4da9-94e9-1f6a5317bf95\" />\n\n发起连接前，可在设置中自定义配置项，如语言、视频编码格式等。 \n\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/1fefbd56-6340-4a22-aa60-b44d3371b48a\" />"
+  },
+  {
     "id": "204",
     "url": "https://wangchujiang.com/quick-rss/issue/204.html",
     "title": "AppleWalls：下载苹果设备（iPhone/iPad/mac）历年的系统自带壁纸。",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [CrossDesk：一个轻量级的跨平台远程桌面软件。](https://wangchujiang.com/quick-rss/issue/205.html) 
+
+![](https://github.com/user-attachments/assets/613e7435-c6e7-4be1-ba9b-ef4118c90c29)
+
+CrossDesk 是 MiniRTC 实时音视频传输库的实验性应用。MiniRTC 是一个轻量级的跨平台实时音视频传输库。它具有网络透传（RFC5245），视频软硬编解码（H264/AV1），音频编解码（Opus），信令交互，网络拥塞控制，传输加密（SRTP）等基础能力。 使用 在菜单栏“对端ID”处输入远端桌面的ID，点击“→”即可发起远程连接。 如果远端桌面设置了连接密码，则本端需填写正确的 ([#205](https://github.com/jaywcjlove/quick-rss/issues/205) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [AppleWalls：下载苹果设备（iPhone/iPad/mac）历年的系统自带壁纸。](https://wangchujiang.com/quick-rss/issue/204.html) 
 
 ![](https://github.com/user-attachments/assets/5330a5c2-dda0-4600-97ee-e430c24bffe8)

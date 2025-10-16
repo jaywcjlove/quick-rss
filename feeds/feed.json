@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "206",
+            "content_html": "<p>在 Mac 上获取你所有设备的电量信息并显示在Dock栏、状态栏上或小组件上!</p>\n<img alt=\"AirBattery\" src=\"https://github.com/user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/206\" target=\"_blank\">#206</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/206.html",
+            "title": "AirBattery：在 Dock、菜单栏或小组件中显示你所有设备的电量。",
+            "summary": "在 Mac 上获取你所有设备的电量信息并显示在Dock栏、状态栏上或小组件上!",
+            "image": "https://github.com/user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597",
+            "date_modified": "2025-10-16T09:53:09.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "205",
             "content_html": "<p>CrossDesk 是 <a href=\"https://github.com/kunkundi/minirtc.git\">MiniRTC</a> 实时音视频传输库的实验性应用。MiniRTC 是一个轻量级的跨平台实时音视频传输库。它具有网络透传（<a href=\"https://datatracker.ietf.org/doc/html/rfc5245\">RFC5245</a>），视频软硬编解码（H264/AV1），音频编解码（<a href=\"https://github.com/xiph/opus\">Opus</a>），信令交互，网络拥塞控制，传输加密（<a href=\"https://tools.ietf.org/html/rfc3711\">SRTP</a>）等基础能力。</p>\n<img width=\"1280\" height=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/613e7435-c6e7-4be1-ba9b-ef4118c90c29\">\n<h2>使用</h2>\n<p>在菜单栏“对端ID”处输入远端桌面的ID，点击“→”即可发起远程连接。</p>\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/1cae631f-8ba0-4532-9902-332401d585eb\">\n<p>如果远端桌面设置了连接密码，则本端需填写正确的连接密码才能成功发起远程连接。</p>\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/011f8c06-b8e5-4da9-94e9-1f6a5317bf95\">\n<p>发起连接前，可在设置中自定义配置项，如语言、视频编码格式等。</p>\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/1fefbd56-6340-4a22-aa60-b44d3371b48a\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/205\" target=\"_blank\">#205</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/205.html",

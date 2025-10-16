@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AirBattery：在 Dock、菜单栏或小组件中显示你所有设备的电量。](https://wangchujiang.com/quick-rss/issue/206.html) 
+
+![](https://github.com/user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597)
+
+在 Mac 上获取你所有设备的电量信息并显示在Dock栏、状态栏上或小组件上! ([#206](https://github.com/jaywcjlove/quick-rss/issues/206) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [CrossDesk：一个轻量级的跨平台远程桌面软件。](https://wangchujiang.com/quick-rss/issue/205.html) 
 
 ![](https://github.com/user-attachments/assets/613e7435-c6e7-4be1-ba9b-ef4118c90c29)

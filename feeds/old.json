@@ -1,5 +1,19 @@
 [
   {
+    "id": "206",
+    "url": "https://wangchujiang.com/quick-rss/issue/206.html",
+    "title": "AirBattery：在 Dock、菜单栏或小组件中显示你所有设备的电量。",
+    "content_html": "<p>在 Mac 上获取你所有设备的电量信息并显示在Dock栏、状态栏上或小组件上!</p>\n<img alt=\"AirBattery\" src=\"https://github.com/user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597\">",
+    "summary": "在 Mac 上获取你所有设备的电量信息并显示在Dock栏、状态栏上或小组件上!",
+    "banner_image": null,
+    "date_published": "2025-10-16T09:53:09Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "在 Mac 上获取你所有设备的电量信息并显示在Dock栏、状态栏上或小组件上!\n\n<img alt=\"AirBattery\" src=\"https://github.com/user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597\" />"
+  },
+  {
     "id": "205",
     "url": "https://wangchujiang.com/quick-rss/issue/205.html",
     "title": "CrossDesk：一个轻量级的跨平台远程桌面软件。",

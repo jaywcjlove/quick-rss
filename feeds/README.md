@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [fmusic：macOS 音乐播放器，支持多格式播放与歌词显示](https://wangchujiang.com/quick-rss/issue/208.html) 
+
+![](https://github.com/user-attachments/assets/50ca39fb-9ce4-42f8-9ba2-f11b2b1791f8)
+
+这是一款基于 SwiftUI 开发的本地音乐播放器，最低支持 macOS 11.0，开发环境为 Xcode 13.4.1。应用可以自动解析音频文件的专辑信息和封面图片，支持播放 .flac、.mp3、.wav、.m4a、.aif、.m4r 等常见格式音乐文件。用户可以通过双击歌曲切歌，播放模式支持顺序、循环、随机和单曲循环，支持导入音乐文件夹（通过图标、菜单或快捷键），播放进度条可拖拽调整，支持音 ([#208](https://github.com/jaywcjlove/quick-rss/issues/208) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [AirBattery：在 Dock、菜单栏或小组件中显示你所有设备的电量。](https://wangchujiang.com/quick-rss/issue/206.html) 
 
 ![](https://github.com/user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597)

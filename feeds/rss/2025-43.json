@@ -12,5 +12,19 @@
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
     },
     "markdownContent": "这是一款基于 SwiftUI 开发的本地音乐播放器，最低支持 macOS 11.0，开发环境为 Xcode 13.4.1。应用可以自动解析音频文件的专辑信息和封面图片，支持播放 .flac、.mp3、.wav、.m4a、.aif、.m4r 等常见格式音乐文件。用户可以通过双击歌曲切歌，播放模式支持顺序、循环、随机和单曲循环，支持导入音乐文件夹（通过图标、菜单或快捷键），播放进度条可拖拽调整，支持音量调节、简单收藏功能和模糊搜索歌曲名、艺术家或专辑。左侧边栏可隐藏，资料库支持清空操作，歌曲列表可按专辑名和音轨排序，并提供右键菜单编辑元信息、查看文件详情、快速重命名等功能。应用还支持歌词显示、自动下载及卡拉 OK 效果。最新版本已提供签名公证的 DMG 文件。播放列表功能和 macOS 10.15 兼容性正在开发中。\n\n<img alt=\"fmusic\" src=\"https://github.com/user-attachments/assets/50ca39fb-9ce4-42f8-9ba2-f11b2b1791f8\" />\n\n<img alt=\"fmusic\" src=\"https://github.com/user-attachments/assets/9ca9174e-2de7-440f-955d-c8b819973301\" />"
+  },
+  {
+    "id": "207",
+    "url": "https://wangchujiang.com/quick-rss/issue/207.html",
+    "title": "ClipAI：一键将复制内容发送给 AI，高效完成各类任务",
+    "content_html": "<p>ClipAI 会记住你复制的所有内容，并允许你一键发送给 AI，无需中断工作流程、在 ChatGPT 与其他应用之间来回切换。\n你可以直接在菜单栏中完成代码审查、生成任务、润色文字等操作，保持专注，持续高效。</p>\n<img alt=\"ClipAI\" src=\"https://github.com/user-attachments/assets/d4321f2b-8ee8-4da7-96ee-bddd20c16558\">\n<p><img src=\"https://github.com/user-attachments/assets/2c3cc836-f04a-483b-acd6-ec10f05eaeba\" alt=\"Image\"></p>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">$ brew <span class=\"token function\">install</span> <span class=\"token parameter variable\">--cask</span> michaelh03/clipai/clipai\n</span></code></pre>",
+    "summary": "ClipAI 会记住你复制的所有内容，并允许你一键发送给 AI，无需中断工作流程、在 ChatGPT 与其他应用之间来回切换。 你可以直接在菜单栏中完成代码审查、生成任务、润色文字等操作，保持专注，持续高效。 ```bash $ brew install --cask michaelh03/clipai/clipai ```",
+    "banner_image": "https://github.com/user-attachments/assets/2c3cc836-f04a-483b-acd6-ec10f05eaeba",
+    "date_published": "2025-10-22T22:32:22Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "ClipAI 会记住你复制的所有内容，并允许你一键发送给 AI，无需中断工作流程、在 ChatGPT 与其他应用之间来回切换。\n你可以直接在菜单栏中完成代码审查、生成任务、润色文字等操作，保持专注，持续高效。\n\n<img alt=\"ClipAI\" src=\"https://github.com/user-attachments/assets/d4321f2b-8ee8-4da7-96ee-bddd20c16558\" />\n\n![Image](https://github.com/user-attachments/assets/2c3cc836-f04a-483b-acd6-ec10f05eaeba)\n\n```bash\n$ brew install --cask michaelh03/clipai/clipai\n```"
   }
 ]

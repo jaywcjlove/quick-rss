@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [简单设计：小红书图文AI创作工具，支持一键生成爆款图文](https://wangchujiang.com/quick-rss/issue/209.html) 
+
+![](https://github.com/user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8)
+
+简单设计是一款小红书图文创作工具，支持一键生成小红书图文，制作小红书封面图片；有丰富的免费的封面模板； 另外简单设计提供了免费图片工具箱，包括图片压缩、图片大小调整、图片格式转换等工具。 ([#209](https://github.com/jaywcjlove/quick-rss/issues/209) - [@ovelv](https://github.com/ovelv))
 ## [fmusic：macOS 音乐播放器，支持多格式播放与歌词显示](https://wangchujiang.com/quick-rss/issue/208.html) 
 
 ![](https://github.com/user-attachments/assets/50ca39fb-9ce4-42f8-9ba2-f11b2b1791f8)

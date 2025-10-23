@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "209",
+            "content_html": "<p>简单设计是一款小红书图文创作工具，支持一键生成小红书图文，制作小红书封面图片；有丰富的免费的封面模板；\n另外简单设计提供了免费图片工具箱，包括图片压缩、图片大小调整、图片格式转换等工具。</p>\n<img width=\"1666\" height=\"849\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/209\" target=\"_blank\">#209</a> • \n      <a href=\"https://github.com/ovelv\" target=\"_blank\">@ovelv</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/209.html",
+            "title": "简单设计：小红书图文AI创作工具，支持一键生成爆款图文",
+            "summary": "简单设计是一款小红书图文创作工具，支持一键生成小红书图文，制作小红书封面图片；有丰富的免费的封面模板； 另外简单设计提供了免费图片工具箱，包括图片压缩、图片大小调整、图片格式转换等工具。",
+            "image": "https://github.com/user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8",
+            "date_modified": "2025-10-23T06:18:56.000Z",
+            "author": {
+                "name": "ovelv",
+                "url": "https://avatars.githubusercontent.com/u/13146388?v=4"
+            }
+        },
+        {
             "id": "208",
             "content_html": "<p>这是一款基于 SwiftUI 开发的本地音乐播放器，最低支持 macOS 11.0，开发环境为 Xcode 13.4.1。应用可以自动解析音频文件的专辑信息和封面图片，支持播放 .flac、.mp3、.wav、.m4a、.aif、.m4r 等常见格式音乐文件。用户可以通过双击歌曲切歌，播放模式支持顺序、循环、随机和单曲循环，支持导入音乐文件夹（通过图标、菜单或快捷键），播放进度条可拖拽调整，支持音量调节、简单收藏功能和模糊搜索歌曲名、艺术家或专辑。左侧边栏可隐藏，资料库支持清空操作，歌曲列表可按专辑名和音轨排序，并提供右键菜单编辑元信息、查看文件详情、快速重命名等功能。应用还支持歌词显示、自动下载及卡拉 OK 效果。最新版本已提供签名公证的 DMG 文件。播放列表功能和 macOS 10.15 兼容性正在开发中。</p>\n<img alt=\"fmusic\" src=\"https://github.com/user-attachments/assets/50ca39fb-9ce4-42f8-9ba2-f11b2b1791f8\">\n<img alt=\"fmusic\" src=\"https://github.com/user-attachments/assets/9ca9174e-2de7-440f-955d-c8b819973301\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/208\" target=\"_blank\">#208</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/208.html",

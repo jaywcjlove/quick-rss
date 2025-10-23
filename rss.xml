@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 22 Oct 2025 22:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 15:38:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[简单设计：小红书图文AI创作工具，支持一键生成爆款图文]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/209.html</link>
+            <guid>209</guid>
+            <pubDate>Thu, 23 Oct 2025 06:18:56 GMT</pubDate>
+            <description><![CDATA[简单设计是一款小红书图文创作工具，支持一键生成小红书图文，制作小红书封面图片；有丰富的免费的封面模板； 另外简单设计提供了免费图片工具箱，包括图片压缩、图片大小调整、图片格式转换等工具。]]></description>
+            <content:encoded><![CDATA[<p>简单设计是一款小红书图文创作工具，支持一键生成小红书图文，制作小红书封面图片；有丰富的免费的封面模板；
+另外简单设计提供了免费图片工具箱，包括图片压缩、图片大小调整、图片格式转换等工具。</p>
+<img width="1666" height="849" alt="Image" src="https://github.com/user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/209" target="_blank">#209</a> • 
+      <a href="https://github.com/ovelv" target="_blank">@ovelv</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8" length="0" type="image//user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8"/>
+        </item>
         <item>
             <title><![CDATA[fmusic：macOS 音乐播放器，支持多格式播放与歌词显示]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/208.html</link>

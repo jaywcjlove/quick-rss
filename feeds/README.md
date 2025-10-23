@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DockFinity：一款 macOS 菜单栏应用，允许你创建并快速切换不同的 Dock 配置](https://wangchujiang.com/quick-rss/issue/211.html) 
+
+![](https://github.com/user-attachments/assets/380945f3-2990-4d23-b66d-1db92f1f1a9c)
+
+你可以为不同的使用场景（如 工作、游戏 或 设计）保存配置，并一键切换整个 Dock。 主要功能： 创建和管理包含应用、网址、文件夹的多个 Dock 配置 从菜单栏快速切换配置 使用快捷键即时切换配置 导入/导出配置以便分享或备份 完全离线运行 ([#211](https://github.com/jaywcjlove/quick-rss/issues/211) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [简单设计：小红书图文AI创作工具，支持一键生成爆款图文](https://wangchujiang.com/quick-rss/issue/209.html) 
 
 ![](https://github.com/user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8)

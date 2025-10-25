@@ -11,6 +11,9 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [NCE Flow: 开源的新概念英语在线点读工具，新概念英语在线点读，点句即读、连续播放。](https://wangchujiang.com/quick-rss/issue/212.html) 
+
+新概念英语在线点读，点句即读、连续播放，在线体验: https://nce.luzhenhua.cn/ 核心功能 句子级点读：点击任意句子开始播放，自动高亮跟随 多语言视图：EN / EN+CN / CN 三种显示模式 播放控制：倍速调节、连读/点读切换、循环模式、断点续播 全局快捷键：空格播放/暂停、方向键导航、音量控制 学习管理：课程收藏、学习记录、进度追踪 现代界面：Apple 风格、深浅色 ([#212](https://github.com/jaywcjlove/quick-rss/issues/212) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DockFinity：一款 macOS 菜单栏应用，允许你创建并快速切换不同的 Dock 配置](https://wangchujiang.com/quick-rss/issue/211.html) 
 
 ![](https://github.com/user-attachments/assets/380945f3-2990-4d23-b66d-1db92f1f1a9c)

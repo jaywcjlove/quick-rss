@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Dropp：开源的跨平台文件投递工具，让你能在 macOS 上拖拽文件到“投递架”，一键同步到云端](https://wangchujiang.com/quick-rss/issue/213.html) 
+
+![](https://github.com/user-attachments/assets/e0177d0d-a504-4fd5-9292-0fb469733f72)
+
+Dropp 是一款现代化的跨平台文件传输与同步工具，让文件在你的设备之间无缝流动。 在 macOS 上将文件拖拽至 Dropp 的“投递架”，即可一键同步到云端，随后可在 Android 或其他设备上轻松访问。 与传统文件传输方式不同，Dropp 提供了一个持久的投递架，让你能快速在多设备间移动文件。 目前支持 macOS 与 Android，Windows 版本即将推出。 主要特性： 🔓 完全 ([#213](https://github.com/jaywcjlove/quick-rss/issues/213) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [NCE Flow: 开源的新概念英语在线点读工具，新概念英语在线点读，点句即读、连续播放。](https://wangchujiang.com/quick-rss/issue/212.html) 
 
 新概念英语在线点读，点句即读、连续播放，在线体验: https://nce.luzhenhua.cn/ 核心功能 句子级点读：点击任意句子开始播放，自动高亮跟随 多语言视图：EN / EN+CN / CN 三种显示模式 播放控制：倍速调节、连读/点读切换、循环模式、断点续播 全局快捷键：空格播放/暂停、方向键导航、音量控制 学习管理：课程收藏、学习记录、进度追踪 现代界面：Apple 风格、深浅色 ([#212](https://github.com/jaywcjlove/quick-rss/issues/212) - [@jaywcjlove](https://github.com/jaywcjlove))

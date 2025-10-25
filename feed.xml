@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-10-25T04:21:23.216Z</updated>
+    <updated>2025-10-25T06:35:46.742Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,41 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Dropp：开源的跨平台文件投递工具，让你能在 macOS 上拖拽文件到“投递架”，一键同步到云端]]></title>
+        <id>213</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/213.html"/>
+        <updated>2025-10-25T06:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Dropp 是一款现代化的跨平台文件传输与同步工具，让文件在你的设备之间无缝流动。 在 macOS 上将文件拖拽至 Dropp 的“投递架”，即可一键同步到云端，随后可在 Android 或其他设备上轻松访问。 与传统文件传输方式不同，Dropp 提供了一个持久的投递架，让你能快速在多设备间移动文件。 目前支持 macOS 与 Android，Windows 版本即将推出。 主要特性： 🔓 完全]]></summary>
+        <content type="html"><![CDATA[<p>Dropp 是一款现代化的跨平台文件传输与同步工具，让文件在你的设备之间无缝流动。
+在 macOS 上将文件拖拽至 Dropp 的“投递架”，即可一键同步到云端，随后可在 Android 或其他设备上轻松访问。
+与传统文件传输方式不同，Dropp 提供了一个持久的投递架，让你能快速在多设备间移动文件。</p>
+<p><img src="https://github.com/user-attachments/assets/e0177d0d-a504-4fd5-9292-0fb469733f72" alt="Dropp"></p>
+<p>目前支持 macOS 与 Android，Windows 版本即将推出。</p>
+<h2>主要特性：</h2>
+<ul>
+<li>🔓 完全开源：完整源代码公开于 GitHub，支持社区协作</li>
+<li>☁️ 云端同步：macOS 上传文件后，可在 Android 与其他设备访问</li>
+<li>📦 原生 macOS 投递区：快速、简洁的悬浮面板设计</li>
+<li>📱 原生 Android 应用：随时访问云端文件</li>
+<li>🔐 安全认证：基于 Firebase 的加密会话管理</li>
+<li>⚡ 零配置使用：一次登录，全设备通用</li>
+<li>🎯 持久投递架：文件可保留在架上，随时同步到云端</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/213" target="_blank">#213</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCE Flow: 开源的新概念英语在线点读工具，新概念英语在线点读，点句即读、连续播放。]]></title>
         <id>212</id>

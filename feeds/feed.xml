@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-10-25T06:35:46.742Z</updated>
+    <updated>2025-10-29T02:31:05.359Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,44 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Osaurus：原生 Apple Silicon 本地 LLM 服务器，配 SwiftUI 与 MLX]]></title>
+        <id>214</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/214.html"/>
+        <updated>2025-10-29T02:30:23.000Z</updated>
+        <summary type="html"><![CDATA[原生、仅支持 Apple Silicon 的本地 LLM 服务器，基于 Apple 的 MLX 构建，充分发挥 M 系列芯片性能。支持 Apple Foundation 模型，提供 SwiftUI 应用和 SwiftNIO 服务器，兼容 OpenAI 和 Ollama 的接口。 https://github.com/user-attachments/assets/050fe99e-757a-454]]></summary>
+        <content type="html"><![CDATA[<p>原生、仅支持 Apple Silicon 的本地 LLM 服务器，基于 Apple 的 MLX 构建，充分发挥 M 系列芯片性能。支持 Apple Foundation 模型，提供 SwiftUI 应用和 SwiftNIO 服务器，兼容 OpenAI 和 Ollama 的接口。</p>
+<img alt="Osaurus" src="https://github.com/user-attachments/assets/39a10be1-b194-4ac9-a46c-07e5463dc440">
+<p><a href="https://github.com/user-attachments/assets/050fe99e-757a-454c-9f81-658b6bda6ec7">https://github.com/user-attachments/assets/050fe99e-757a-454c-9f81-658b6bda6ec7</a></p>
+<h2>亮点：</h2>
+<ul>
+<li>原生 MLX 运行时： 为 Apple Silicon 优化，使用 MLX/MLXLLM</li>
+<li>Apple Foundation 模型： 在支持的 macOS 版本上使用系统默认模型（foundation 或 default）；在可用时由 Apple Neural Engine（ANE）加速</li>
+<li>仅支持 Apple Silicon： 专为 M 系列 Mac 设计和测试</li>
+<li>兼容 OpenAI API： /v1/models 和 /v1/chat/completions（支持流式和非流式）</li>
+<li>兼容 Ollama： /chat 接口，支持 NDJSON 流式输出，适配 OllamaKit 和其他 Ollama 客户端</li>
+<li>函数/工具调用： 类 OpenAI 工具 + tool_choice，支持 tool_calls 解析和增量流输出</li>
+<li>快速令牌流： 使用 Server-Sent Events 提供低延迟输出</li>
+<li>应用内聊天覆盖层： 可在可调整大小的玻璃窗口中直接与模型聊天 — 支持流式输出、Markdown、模型选择器和全局快捷键（默认 ⌘;）</li>
+<li>模型管理界面： 浏览、下载和管理来自 mlx-community 的 MLX 模型</li>
+<li>系统资源监控： 实时显示 CPU 和内存使用情况</li>
+<li>自包含： SwiftUI 应用内嵌 SwiftNIO HTTP 服务器</li>
+</ul>
+<p>由 Dinoki Labs (dinoki.ai) 创建 — 完全原生的桌面 AI 助手与伴侣。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/214" target="_blank">#214</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropp：开源的跨平台文件投递工具，让你能在 macOS 上拖拽文件到“投递架”，一键同步到云端]]></title>
         <id>213</id>

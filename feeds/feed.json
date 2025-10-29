@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "214",
+            "content_html": "<p>原生、仅支持 Apple Silicon 的本地 LLM 服务器，基于 Apple 的 MLX 构建，充分发挥 M 系列芯片性能。支持 Apple Foundation 模型，提供 SwiftUI 应用和 SwiftNIO 服务器，兼容 OpenAI 和 Ollama 的接口。</p>\n<img alt=\"Osaurus\" src=\"https://github.com/user-attachments/assets/39a10be1-b194-4ac9-a46c-07e5463dc440\">\n<p><a href=\"https://github.com/user-attachments/assets/050fe99e-757a-454c-9f81-658b6bda6ec7\">https://github.com/user-attachments/assets/050fe99e-757a-454c-9f81-658b6bda6ec7</a></p>\n<h2>亮点：</h2>\n<ul>\n<li>原生 MLX 运行时： 为 Apple Silicon 优化，使用 MLX/MLXLLM</li>\n<li>Apple Foundation 模型： 在支持的 macOS 版本上使用系统默认模型（foundation 或 default）；在可用时由 Apple Neural Engine（ANE）加速</li>\n<li>仅支持 Apple Silicon： 专为 M 系列 Mac 设计和测试</li>\n<li>兼容 OpenAI API： /v1/models 和 /v1/chat/completions（支持流式和非流式）</li>\n<li>兼容 Ollama： /chat 接口，支持 NDJSON 流式输出，适配 OllamaKit 和其他 Ollama 客户端</li>\n<li>函数/工具调用： 类 OpenAI 工具 + tool_choice，支持 tool_calls 解析和增量流输出</li>\n<li>快速令牌流： 使用 Server-Sent Events 提供低延迟输出</li>\n<li>应用内聊天覆盖层： 可在可调整大小的玻璃窗口中直接与模型聊天 — 支持流式输出、Markdown、模型选择器和全局快捷键（默认 ⌘;）</li>\n<li>模型管理界面： 浏览、下载和管理来自 mlx-community 的 MLX 模型</li>\n<li>系统资源监控： 实时显示 CPU 和内存使用情况</li>\n<li>自包含： SwiftUI 应用内嵌 SwiftNIO HTTP 服务器</li>\n</ul>\n<p>由 Dinoki Labs (dinoki.ai) 创建 — 完全原生的桌面 AI 助手与伴侣。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/214\" target=\"_blank\">#214</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/214.html",
+            "title": "Osaurus：原生 Apple Silicon 本地 LLM 服务器，配 SwiftUI 与 MLX",
+            "summary": "原生、仅支持 Apple Silicon 的本地 LLM 服务器，基于 Apple 的 MLX 构建，充分发挥 M 系列芯片性能。支持 Apple Foundation 模型，提供 SwiftUI 应用和 SwiftNIO 服务器，兼容 OpenAI 和 Ollama 的接口。 https://github.com/user-attachments/assets/050fe99e-757a-454",
+            "image": "https://github.com/user-attachments/assets/39a10be1-b194-4ac9-a46c-07e5463dc440",
+            "date_modified": "2025-10-29T02:30:23.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "213",
             "content_html": "<p>Dropp 是一款现代化的跨平台文件传输与同步工具，让文件在你的设备之间无缝流动。\n在 macOS 上将文件拖拽至 Dropp 的“投递架”，即可一键同步到云端，随后可在 Android 或其他设备上轻松访问。\n与传统文件传输方式不同，Dropp 提供了一个持久的投递架，让你能快速在多设备间移动文件。</p>\n<p><img src=\"https://github.com/user-attachments/assets/e0177d0d-a504-4fd5-9292-0fb469733f72\" alt=\"Dropp\"></p>\n<p>目前支持 macOS 与 Android，Windows 版本即将推出。</p>\n<h2>主要特性：</h2>\n<ul>\n<li>🔓 完全开源：完整源代码公开于 GitHub，支持社区协作</li>\n<li>☁️ 云端同步：macOS 上传文件后，可在 Android 与其他设备访问</li>\n<li>📦 原生 macOS 投递区：快速、简洁的悬浮面板设计</li>\n<li>📱 原生 Android 应用：随时访问云端文件</li>\n<li>🔐 安全认证：基于 Firebase 的加密会话管理</li>\n<li>⚡ 零配置使用：一次登录，全设备通用</li>\n<li>🎯 持久投递架：文件可保留在架上，随时同步到云端</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/213\" target=\"_blank\">#213</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/213.html",

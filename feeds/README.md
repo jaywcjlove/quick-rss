@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Osaurus：原生 Apple Silicon 本地 LLM 服务器，配 SwiftUI 与 MLX](https://wangchujiang.com/quick-rss/issue/214.html) 
+
+![](https://github.com/user-attachments/assets/39a10be1-b194-4ac9-a46c-07e5463dc440)
+
+原生、仅支持 Apple Silicon 的本地 LLM 服务器，基于 Apple 的 MLX 构建，充分发挥 M 系列芯片性能。支持 Apple Foundation 模型，提供 SwiftUI 应用和 SwiftNIO 服务器，兼容 OpenAI 和 Ollama 的接口。 https://github.com/user-attachments/assets/050fe99e-757a-454 ([#214](https://github.com/jaywcjlove/quick-rss/issues/214) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Dropp：开源的跨平台文件投递工具，让你能在 macOS 上拖拽文件到“投递架”，一键同步到云端](https://wangchujiang.com/quick-rss/issue/213.html) 
 
 ![](https://github.com/user-attachments/assets/e0177d0d-a504-4fd5-9292-0fb469733f72)

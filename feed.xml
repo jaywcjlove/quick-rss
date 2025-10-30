@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-10-29T02:31:05.359Z</updated>
+    <updated>2025-10-30T18:05:57.689Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,35 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Mocolamma: 一款开源的用于管理 Ollama 服务器和模型的多平台应用]]></title>
+        <id>215</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/215.html"/>
+        <updated>2025-10-30T18:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Mocolamma 是一款为 macOS、iOS、iPadOS 和 visionOS 打造的多平台应用，可连接远程 Ollama 服务器，查看模型详细信息并轻松添加新模型。 Mocolamma 这个名字由 “Model + Control + Ollama + Manage” 组合而成，正如名称所示，它是一款以模型管理为核心的开源工具。 请注意：Mocolamma 不包含 Ollama，需要自行运]]></summary>
+        <content type="html"><![CDATA[<p>Mocolamma 是一款为 macOS、iOS、iPadOS 和 visionOS 打造的多平台应用，可连接远程 Ollama 服务器，查看模型详细信息并轻松添加新模型。</p>
+<img alt="Mocolamma" src="https://github.com/user-attachments/assets/68f4787b-68eb-47b9-9047-d1e3ad09c8cf">
+<img alt="Mocolamma" src="https://github.com/user-attachments/assets/b0e36936-884f-42b5-a7a6-3eeb7c7b6e4f">
+<img alt="Mocolamma" src="https://github.com/user-attachments/assets/6d647b4f-93c4-4dc8-b480-5e180796de4f">
+<img alt="Mocolamma" src="https://github.com/user-attachments/assets/06733c5e-2182-4c80-92ed-7504a24f1f5d">
+<p>Mocolamma 这个名字由 “Model + Control + Ollama + Manage” 组合而成，正如名称所示，它是一款以模型管理为核心的开源工具。</p>
+<blockquote>
+<p>请注意：Mocolamma 不包含 Ollama，需要自行运行独立的 Ollama 服务器。</p>
+</blockquote><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/215" target="_blank">#215</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Osaurus：原生 Apple Silicon 本地 LLM 服务器，配 SwiftUI 与 MLX]]></title>
         <id>214</id>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Mocolamma: 一款开源的用于管理 Ollama 服务器和模型的多平台应用](https://wangchujiang.com/quick-rss/issue/215.html) 
+
+![](https://github.com/user-attachments/assets/68f4787b-68eb-47b9-9047-d1e3ad09c8cf)
+
+Mocolamma 是一款为 macOS、iOS、iPadOS 和 visionOS 打造的多平台应用，可连接远程 Ollama 服务器，查看模型详细信息并轻松添加新模型。 Mocolamma 这个名字由 “Model + Control + Ollama + Manage” 组合而成，正如名称所示，它是一款以模型管理为核心的开源工具。 请注意：Mocolamma 不包含 Ollama，需要自行运 ([#215](https://github.com/jaywcjlove/quick-rss/issues/215) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Osaurus：原生 Apple Silicon 本地 LLM 服务器，配 SwiftUI 与 MLX](https://wangchujiang.com/quick-rss/issue/214.html) 
 
 ![](https://github.com/user-attachments/assets/39a10be1-b194-4ac9-a46c-07e5463dc440)

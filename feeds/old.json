@@ -1,5 +1,19 @@
 [
   {
+    "id": "215",
+    "url": "https://wangchujiang.com/quick-rss/issue/215.html",
+    "title": "Mocolamma: 一款开源的用于管理 Ollama 服务器和模型的多平台应用",
+    "content_html": "<p>Mocolamma 是一款为 macOS、iOS、iPadOS 和 visionOS 打造的多平台应用，可连接远程 Ollama 服务器，查看模型详细信息并轻松添加新模型。</p>\n<img alt=\"Mocolamma\" src=\"https://github.com/user-attachments/assets/68f4787b-68eb-47b9-9047-d1e3ad09c8cf\">\n<img alt=\"Mocolamma\" src=\"https://github.com/user-attachments/assets/b0e36936-884f-42b5-a7a6-3eeb7c7b6e4f\">\n<img alt=\"Mocolamma\" src=\"https://github.com/user-attachments/assets/6d647b4f-93c4-4dc8-b480-5e180796de4f\">\n<img alt=\"Mocolamma\" src=\"https://github.com/user-attachments/assets/06733c5e-2182-4c80-92ed-7504a24f1f5d\">\n<p>Mocolamma 这个名字由 “Model + Control + Ollama + Manage” 组合而成，正如名称所示，它是一款以模型管理为核心的开源工具。</p>\n<blockquote>\n<p>请注意：Mocolamma 不包含 Ollama，需要自行运行独立的 Ollama 服务器。</p>\n</blockquote>",
+    "summary": "Mocolamma 是一款为 macOS、iOS、iPadOS 和 visionOS 打造的多平台应用，可连接远程 Ollama 服务器，查看模型详细信息并轻松添加新模型。 Mocolamma 这个名字由 “Model + Control + Ollama + Manage” 组合而成，正如名称所示，它是一款以模型管理为核心的开源工具。 > 请注意：Mocolamma 不包含 Ollama，需要自",
+    "banner_image": null,
+    "date_published": "2025-10-30T18:04:41Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Mocolamma 是一款为 macOS、iOS、iPadOS 和 visionOS 打造的多平台应用，可连接远程 Ollama 服务器，查看模型详细信息并轻松添加新模型。\n\n<img alt=\"Mocolamma\" src=\"https://github.com/user-attachments/assets/68f4787b-68eb-47b9-9047-d1e3ad09c8cf\" />\n\n<img alt=\"Mocolamma\" src=\"https://github.com/user-attachments/assets/b0e36936-884f-42b5-a7a6-3eeb7c7b6e4f\" />\n\n<img alt=\"Mocolamma\" src=\"https://github.com/user-attachments/assets/6d647b4f-93c4-4dc8-b480-5e180796de4f\" />\n\n<img alt=\"Mocolamma\" src=\"https://github.com/user-attachments/assets/06733c5e-2182-4c80-92ed-7504a24f1f5d\" />\n\nMocolamma 这个名字由 “Model + Control + Ollama + Manage” 组合而成，正如名称所示，它是一款以模型管理为核心的开源工具。\n\n> 请注意：Mocolamma 不包含 Ollama，需要自行运行独立的 Ollama 服务器。"
+  },
+  {
     "id": "214",
     "url": "https://wangchujiang.com/quick-rss/issue/214.html",
     "title": "Osaurus：原生 Apple Silicon 本地 LLM 服务器，配 SwiftUI 与 MLX",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MacPacker：一款开源 macOS 归档管理工具，可预览和提取归档文件，后续将支持创建和编辑归档](https://wangchujiang.com/quick-rss/issue/216.html) 
+
+![](https://github.com/user-attachments/assets/fa8084c2-ff9b-4033-ac26-6e7b4b6f893a)
+
+MacPacker 是一款开源的 macOS 归档管理工具，致力于提供免费且实用的归档功能。它允许您预览（包括嵌套）归档文件，提取选定文件，创建或编辑归档功能将在后续版本推出。灵感来源于 7-Zip，但不保证与其兼容。更多详情请查看路线图。 主要功能 浏览（嵌套）归档文件 支持拖拽提取选定文件到任意目标位置 面包屑导航，快速定位文件 支持最常用的归档格式：.zip、.tar、.lz4 可一次性提取 ([#216](https://github.com/jaywcjlove/quick-rss/issues/216) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Mocolamma: 一款开源的用于管理 Ollama 服务器和模型的多平台应用](https://wangchujiang.com/quick-rss/issue/215.html) 
 
 ![](https://github.com/user-attachments/assets/68f4787b-68eb-47b9-9047-d1e3ad09c8cf)

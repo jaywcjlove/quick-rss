@@ -1,5 +1,19 @@
 [
   {
+    "id": "216",
+    "url": "https://wangchujiang.com/quick-rss/issue/216.html",
+    "title": "MacPacker：一款开源 macOS 归档管理工具，可预览和提取归档文件，后续将支持创建和编辑归档",
+    "content_html": "<p>MacPacker 是一款开源的 macOS 归档管理工具，致力于提供免费且实用的归档功能。它允许您预览（包括嵌套）归档文件，提取选定文件，创建或编辑归档功能将在后续版本推出。灵感来源于 7-Zip，但不保证与其兼容。更多详情请查看路线图。</p>\n<p><img src=\"https://github.com/user-attachments/assets/fa8084c2-ff9b-4033-ac26-6e7b4b6f893a\" alt=\"MacPacker\"></p>\n<h2>主要功能</h2>\n<ul>\n<li>浏览（嵌套）归档文件</li>\n<li>支持拖拽提取选定文件到任意目标位置</li>\n<li>面包屑导航，快速定位文件</li>\n<li>支持最常用的归档格式：.zip、.tar、.lz4</li>\n<li>可一次性提取整个归档</li>\n<li>文件无需解压即可预览</li>\n<li>Finder 扩展，快速访问最常用功能</li>\n</ul>",
+    "summary": "MacPacker 是一款开源的 macOS 归档管理工具，致力于提供免费且实用的归档功能。它允许您预览（包括嵌套）归档文件，提取选定文件，创建或编辑归档功能将在后续版本推出。灵感来源于 7-Zip，但不保证与其兼容。更多详情请查看路线图。 ## 主要功能 - 浏览（嵌套）归档文件 - 支持拖拽提取选定文件到任意目标位置 - 面包屑导航，快速定位文件 - 支持最常用的归档格式：.zip、.tar、",
+    "banner_image": "https://github.com/user-attachments/assets/fa8084c2-ff9b-4033-ac26-6e7b4b6f893a",
+    "date_published": "2025-10-31T12:14:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "MacPacker 是一款开源的 macOS 归档管理工具，致力于提供免费且实用的归档功能。它允许您预览（包括嵌套）归档文件，提取选定文件，创建或编辑归档功能将在后续版本推出。灵感来源于 7-Zip，但不保证与其兼容。更多详情请查看路线图。\n\n![MacPacker](https://github.com/user-attachments/assets/fa8084c2-ff9b-4033-ac26-6e7b4b6f893a)\n\n## 主要功能\n\n- 浏览（嵌套）归档文件\n- 支持拖拽提取选定文件到任意目标位置\n- 面包屑导航，快速定位文件\n- 支持最常用的归档格式：.zip、.tar、.lz4\n- 可一次性提取整个归档\n- 文件无需解压即可预览\n- Finder 扩展，快速访问最常用功能"
+  },
+  {
     "id": "215",
     "url": "https://wangchujiang.com/quick-rss/issue/215.html",
     "title": "Mocolamma: 一款开源的用于管理 Ollama 服务器和模型的多平台应用",

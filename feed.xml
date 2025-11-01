@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-10-31T12:15:10.256Z</updated>
+    <updated>2025-11-01T12:58:23.494Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[MacsyZones：让你的工作流程更高效，轻松整理窗口布局]]></title>
+        <id>217</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/217.html"/>
+        <updated>2025-11-01T12:56:46.000Z</updated>
+        <summary type="html"><![CDATA[使用 MacsyZones 让你的工作流程更高效，轻松整理窗口布局。]]></summary>
+        <content type="html"><![CDATA[<p>使用 MacsyZones 让你的工作流程更高效，轻松整理窗口布局。</p>
+<img width="1728" height="1760" alt="Image" src="https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f">
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/f197dfa9-ef54-4a7d-b6af-630a0f0d2cac?title=MacsyZones&#x26;rehype=video"></video>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/101d3296-889f-4cfb-93cf-87bad548a108?title=MacsyZones&#x26;rehype=video"></video><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/217" target="_blank">#217</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MacPacker：一款开源 macOS 归档管理工具，可预览和提取归档文件，后续将支持创建和编辑归档]]></title>
         <id>216</id>

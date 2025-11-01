@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 31 Oct 2025 12:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 12:58:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MacsyZones：让你的工作流程更高效，轻松整理窗口布局]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/217.html</link>
+            <guid>217</guid>
+            <pubDate>Sat, 01 Nov 2025 12:56:46 GMT</pubDate>
+            <description><![CDATA[使用 MacsyZones 让你的工作流程更高效，轻松整理窗口布局。]]></description>
+            <content:encoded><![CDATA[<p>使用 MacsyZones 让你的工作流程更高效，轻松整理窗口布局。</p>
+<img width="1728" height="1760" alt="Image" src="https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f">
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/f197dfa9-ef54-4a7d-b6af-630a0f0d2cac?title=MacsyZones&#x26;rehype=video"></video>
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/101d3296-889f-4cfb-93cf-87bad548a108?title=MacsyZones&#x26;rehype=video"></video><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/217" target="_blank">#217</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f" length="0" type="image//user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f"/>
+        </item>
         <item>
             <title><![CDATA[MacPacker：一款开源 macOS 归档管理工具，可预览和提取归档文件，后续将支持创建和编辑归档]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/216.html</link>

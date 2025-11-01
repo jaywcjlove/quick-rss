@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MacsyZones：让你的工作流程更高效，轻松整理窗口布局](https://wangchujiang.com/quick-rss/issue/217.html) 
+
+![](https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f)
+
+使用 MacsyZones 让你的工作流程更高效，轻松整理窗口布局。 ([#217](https://github.com/jaywcjlove/quick-rss/issues/217) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MacPacker：一款开源 macOS 归档管理工具，可预览和提取归档文件，后续将支持创建和编辑归档](https://wangchujiang.com/quick-rss/issue/216.html) 
 
 ![](https://github.com/user-attachments/assets/fa8084c2-ff9b-4033-ac26-6e7b4b6f893a)

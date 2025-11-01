@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "217",
+            "content_html": "<p>使用 MacsyZones 让你的工作流程更高效，轻松整理窗口布局。</p>\n<img width=\"1728\" height=\"1760\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f\">\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/f197dfa9-ef54-4a7d-b6af-630a0f0d2cac?title=MacsyZones&#x26;rehype=video\"></video>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/101d3296-889f-4cfb-93cf-87bad548a108?title=MacsyZones&#x26;rehype=video\"></video><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/217\" target=\"_blank\">#217</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/217.html",
+            "title": "MacsyZones：让你的工作流程更高效，轻松整理窗口布局",
+            "summary": "使用 MacsyZones 让你的工作流程更高效，轻松整理窗口布局。",
+            "image": "https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f",
+            "date_modified": "2025-11-01T12:56:46.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "216",
             "content_html": "<p>MacPacker 是一款开源的 macOS 归档管理工具，致力于提供免费且实用的归档功能。它允许您预览（包括嵌套）归档文件，提取选定文件，创建或编辑归档功能将在后续版本推出。灵感来源于 7-Zip，但不保证与其兼容。更多详情请查看路线图。</p>\n<p><img src=\"https://github.com/user-attachments/assets/fa8084c2-ff9b-4033-ac26-6e7b4b6f893a\" alt=\"MacPacker\"></p>\n<h2>主要功能</h2>\n<ul>\n<li>浏览（嵌套）归档文件</li>\n<li>支持拖拽提取选定文件到任意目标位置</li>\n<li>面包屑导航，快速定位文件</li>\n<li>支持最常用的归档格式：.zip、.tar、.lz4</li>\n<li>可一次性提取整个归档</li>\n<li>文件无需解压即可预览</li>\n<li>Finder 扩展，快速访问最常用功能</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/216\" target=\"_blank\">#216</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/216.html",

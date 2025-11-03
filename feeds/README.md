@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Keyzer：安全加密的原生密码管理应用，可保存为可携带的 Keyzer 文件](https://wangchujiang.com/quick-rss/issue/218.html) 
+
+![](https://github.com/user-attachments/assets/035160fe-29d8-4081-87f5-5a98adfe6d4d)
+
+Keyzer 是一款原生应用，用于安全存储你的所有密码及其他私密信息。 💬 https://github.com/jaywcjlove/keyzer 📥 https://apps.apple.com/app/6500434773 在日常生活中，我们都有不希望他人知晓的内容，如信用卡信息、银行账户资料和各类密码。 Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让你在确保安 ([#218](https://github.com/jaywcjlove/quick-rss/issues/218) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MacsyZones：让你的工作流程更高效，轻松整理窗口布局](https://wangchujiang.com/quick-rss/issue/217.html) 
 
 ![](https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f)

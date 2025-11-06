@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "219",
+            "content_html": "<p>一款面向 macOS 的快速极简浏览器，采用“侧边栏优先”设计。界面简洁，让你专注内容，同时利用现代 macOS 技术实现流畅且低内存的性能表现。</p>\n<img alt=\"Nook\" src=\"https://github.com/user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941\">\n<h2>功能亮点</h2>\n<ul>\n<li>侧边栏优先的导航 —— 使用垂直标签页，切换页面更自然且不占用界面空间。</li>\n<li>极速性能 —— 基于现代 macOS 技术优化，启动快、响应快且更节省内存。</li>\n<li>极简现代界面 —— 去除干扰，界面以网页内容为中心。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/219\" target=\"_blank\">#219</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/219.html",
+            "title": "Nook：一款为 macOS 设计的快速、极简、侧边栏优先的浏览器。",
+            "summary": "一款面向 macOS 的快速极简浏览器，采用“侧边栏优先”设计。界面简洁，让你专注内容，同时利用现代 macOS 技术实现流畅且低内存的性能表现。 功能亮点 侧边栏优先的导航 —— 使用垂直标签页，切换页面更自然且不占用界面空间。 极速性能 —— 基于现代 macOS 技术优化，启动快、响应快且更节省内存。 极简现代界面 —— 去除干扰，界面以网页内容为中心。",
+            "image": "https://github.com/user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941",
+            "date_modified": "2025-11-06T14:24:04.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "218",
             "content_html": "<p>Keyzer 是一款原生应用，用于安全存储你的所有密码及其他私密信息。</p>\n<p>💬 <a href=\"https://github.com/jaywcjlove/keyzer\">https://github.com/jaywcjlove/keyzer</a><br>\n📥 <a href=\"https://apps.apple.com/app/6500434773\">https://apps.apple.com/app/6500434773</a></p>\n<p>在日常生活中，我们都有不希望他人知晓的内容，如信用卡信息、银行账户资料和各类密码。\nKeyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让你在确保安全的同时，依然能轻松使用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/035160fe-29d8-4081-87f5-5a98adfe6d4d\" alt=\"Keyzer\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/6aa63a60-063b-4bc0-a8ae-1965e17c27ec\" alt=\"Keyzer\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/a0b8068c-3011-429b-9947-b71ea79d08eb\" alt=\"Keyzer\"></p>\n<p><img src=\"https://github.com/user-attachments/assets/6649a1cf-fd4d-4e61-808a-dc394e40ee6d\" alt=\"Keyzer\"></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/218\" target=\"_blank\">#218</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/218.html",

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 03 Nov 2025 08:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 14:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,27 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nook：一款为 macOS 设计的快速、极简、侧边栏优先的浏览器。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/219.html</link>
+            <guid>219</guid>
+            <pubDate>Thu, 06 Nov 2025 14:24:04 GMT</pubDate>
+            <description><![CDATA[一款面向 macOS 的快速极简浏览器，采用“侧边栏优先”设计。界面简洁，让你专注内容，同时利用现代 macOS 技术实现流畅且低内存的性能表现。 功能亮点 侧边栏优先的导航 —— 使用垂直标签页，切换页面更自然且不占用界面空间。 极速性能 —— 基于现代 macOS 技术优化，启动快、响应快且更节省内存。 极简现代界面 —— 去除干扰，界面以网页内容为中心。]]></description>
+            <content:encoded><![CDATA[<p>一款面向 macOS 的快速极简浏览器，采用“侧边栏优先”设计。界面简洁，让你专注内容，同时利用现代 macOS 技术实现流畅且低内存的性能表现。</p>
+<img alt="Nook" src="https://github.com/user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941">
+<h2>功能亮点</h2>
+<ul>
+<li>侧边栏优先的导航 —— 使用垂直标签页，切换页面更自然且不占用界面空间。</li>
+<li>极速性能 —— 基于现代 macOS 技术优化，启动快、响应快且更节省内存。</li>
+<li>极简现代界面 —— 去除干扰，界面以网页内容为中心。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/219" target="_blank">#219</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941" length="0" type="image//user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941"/>
+        </item>
         <item>
             <title><![CDATA[Keyzer：安全加密的原生密码管理应用，可保存为可携带的 Keyzer 文件]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/218.html</link>

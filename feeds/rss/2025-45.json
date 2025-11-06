@@ -1,5 +1,19 @@
 [
   {
+    "id": "219",
+    "url": "https://wangchujiang.com/quick-rss/issue/219.html",
+    "title": "Nook：一款为 macOS 设计的快速、极简、侧边栏优先的浏览器。",
+    "content_html": "<p>一款面向 macOS 的快速极简浏览器，采用“侧边栏优先”设计。界面简洁，让你专注内容，同时利用现代 macOS 技术实现流畅且低内存的性能表现。</p>\n<img alt=\"Nook\" src=\"https://github.com/user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941\">\n<h2>功能亮点</h2>\n<ul>\n<li>侧边栏优先的导航 —— 使用垂直标签页，切换页面更自然且不占用界面空间。</li>\n<li>极速性能 —— 基于现代 macOS 技术优化，启动快、响应快且更节省内存。</li>\n<li>极简现代界面 —— 去除干扰，界面以网页内容为中心。</li>\n</ul>",
+    "summary": "一款面向 macOS 的快速极简浏览器，采用“侧边栏优先”设计。界面简洁，让你专注内容，同时利用现代 macOS 技术实现流畅且低内存的性能表现。 ## 功能亮点 - 侧边栏优先的导航 —— 使用垂直标签页，切换页面更自然且不占用界面空间。 - 极速性能 —— 基于现代 macOS 技术优化，启动快、响应快且更节省内存。 - 极简现代界面 —— 去除干扰，界面以网页内容为中心。",
+    "banner_image": null,
+    "date_published": "2025-11-06T14:24:04Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款面向 macOS 的快速极简浏览器，采用“侧边栏优先”设计。界面简洁，让你专注内容，同时利用现代 macOS 技术实现流畅且低内存的性能表现。\n\n<img alt=\"Nook\" src=\"https://github.com/user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941\" />\n\n## 功能亮点\n\n- 侧边栏优先的导航 —— 使用垂直标签页，切换页面更自然且不占用界面空间。\n- 极速性能 —— 基于现代 macOS 技术优化，启动快、响应快且更节省内存。\n- 极简现代界面 —— 去除干扰，界面以网页内容为中心。"
+  },
+  {
     "id": "218",
     "url": "https://wangchujiang.com/quick-rss/issue/218.html",
     "title": "Keyzer：安全加密的原生密码管理应用，可保存为可携带的 Keyzer 文件",

@@ -11,6 +11,9 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Gung：内网穿透与代理网关](https://wangchujiang.com/quick-rss/issue/220.html) 
+
+Gung 是一款用于将 NAT/防火墙后面的本地服务器暴露到互联网的内网穿透工具。名称有双重含义：一方面是对北欧神话中主神奥丁之枪 Gungnir 的致敬，象征“穿透与精准”；另一方面是 “Going Unblocked Network Gateway” 的谐音。该名字来源于 LLM 的创意建议。 功能简介 Gung 提供统一且可扩展的传输与代理能力，适用于需要稳定长连接和灵活代理策略的场景： 丰 ([#220](https://github.com/jaywcjlove/quick-rss/issues/220) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Nook：一款为 macOS 设计的快速、极简、侧边栏优先的浏览器。](https://wangchujiang.com/quick-rss/issue/219.html) 
 
 ![](https://github.com/user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941)

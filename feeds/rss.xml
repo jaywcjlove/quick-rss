@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 06 Nov 2025 14:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 13:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,27 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gung：内网穿透与代理网关]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/220.html</link>
+            <guid>220</guid>
+            <pubDate>Fri, 07 Nov 2025 13:08:22 GMT</pubDate>
+            <description><![CDATA[Gung 是一款用于将 NAT/防火墙后面的本地服务器暴露到互联网的内网穿透工具。名称有双重含义：一方面是对北欧神话中主神奥丁之枪 Gungnir 的致敬，象征“穿透与精准”；另一方面是 “Going Unblocked Network Gateway” 的谐音。该名字来源于 LLM 的创意建议。 功能简介 Gung 提供统一且可扩展的传输与代理能力，适用于需要稳定长连接和灵活代理策略的场景： 丰]]></description>
+            <content:encoded><![CDATA[<p>Gung 是一款用于将 NAT/防火墙后面的本地服务器暴露到互联网的内网穿透工具。名称有双重含义：一方面是对北欧神话中主神奥丁之枪 Gungnir 的致敬，象征“穿透与精准”；另一方面是 “Going Unblocked Network Gateway” 的谐音。该名字来源于 LLM 的创意建议。</p>
+<h2>功能简介</h2>
+<p>Gung 提供统一且可扩展的传输与代理能力，适用于需要稳定长连接和灵活代理策略的场景：</p>
+<ul>
+<li><strong>丰富的协议支持</strong>： 传输层与代理层被抽象统一，传输层封装了多路复用的长连接，目前支持 TCP 和 QUIC；代理层目前支持 TCP 与 HTTP，HTTP 模式下通过 host 做端口复用以承载多个服务。</li>
+<li><strong>可插拔的认证与扩展机制</strong>： 当前支持以 嵌入式 Python 插件 编写自定义认证逻辑；后续将支持 Lua 与 RPC 插件。插件系统也将支持对网络流量的劫持分析（类似 nginx 的模块化能力），便于做流量审计与策略控制。</li>
+<li><strong>轻量的命令行工具链</strong>： 包含两款命令行工具：gungs（服务器端）与 gungc（客户端）。可通过项目 Release 页面下载并快速部署。</li>
+<li><strong>面向生产的设计要点</strong>： 多路复用与长连接设计降低连接开销，QUIC 支持在不可靠网络下更稳定；插件化使得扩展、认证与流量分析可以灵活集成到现有运维流程中。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/220" target="_blank">#220</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Nook：一款为 macOS 设计的快速、极简、侧边栏优先的浏览器。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/219.html</link>

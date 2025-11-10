@@ -1,0 +1,16 @@
+[
+  {
+    "id": "221",
+    "url": "https://wangchujiang.com/quick-rss/issue/221.html",
+    "title": "iOS App Signer：一个适用于 macOS 的工具，用于对 iOS / tvOS 应用进行签名，并生成可直接安装到设备上的 .ipa 文件",
+    "content_html": "<p>这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。</p>\n<img alt=\"iOS App Signer\" src=\"https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76\">",
+    "summary": "这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。",
+    "banner_image": null,
+    "date_published": "2025-11-10T03:26:00Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。\n\n<img alt=\"iOS App Signer\" src=\"https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76\" />"
+  }
+]

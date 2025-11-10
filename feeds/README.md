@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [iOS App Signer：一个适用于 macOS 的工具，用于对 iOS / tvOS 应用进行签名，并生成可直接安装到设备上的 .ipa 文件](https://wangchujiang.com/quick-rss/issue/221.html) 
+
+![](https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76)
+
+这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。 ([#221](https://github.com/jaywcjlove/quick-rss/issues/221) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Gung：内网穿透与代理网关](https://wangchujiang.com/quick-rss/issue/220.html) 
 
 Gung 是一款用于将 NAT/防火墙后面的本地服务器暴露到互联网的内网穿透工具。名称有双重含义：一方面是对北欧神话中主神奥丁之枪 Gungnir 的致敬，象征“穿透与精准”；另一方面是 “Going Unblocked Network Gateway” 的谐音。该名字来源于 LLM 的创意建议。 功能简介 Gung 提供统一且可扩展的传输与代理能力，适用于需要稳定长连接和灵活代理策略的场景： 丰 ([#220](https://github.com/jaywcjlove/quick-rss/issues/220) - [@jaywcjlove](https://github.com/jaywcjlove))

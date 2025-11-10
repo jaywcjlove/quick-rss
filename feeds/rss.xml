@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 07 Nov 2025 13:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 03:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iOS App Signer：一个适用于 macOS 的工具，用于对 iOS / tvOS 应用进行签名，并生成可直接安装到设备上的 .ipa 文件]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/221.html</link>
+            <guid>221</guid>
+            <pubDate>Mon, 10 Nov 2025 03:26:00 GMT</pubDate>
+            <description><![CDATA[这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。]]></description>
+            <content:encoded><![CDATA[<p>这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。</p>
+<img alt="iOS App Signer" src="https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/221" target="_blank">#221</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76" length="0" type="image//user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76"/>
+        </item>
         <item>
             <title><![CDATA[Gung：内网穿透与代理网关]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/220.html</link>

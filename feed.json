@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "222",
+            "content_html": "<p>AIassistant 是一款功能强大的原生 macOS 应用，让 AI 助手无缝融入你的工作流程。\n它结合了 Google Gemini 与 OpenAI GPT 的强大能力，在桌面上为你提供智能、上下文感知的辅助体验，随时随地高效工作。</p>\n<img alt=\"AIassistant\" src=\"https://github.com/user-attachments/assets/103af7c9-f728-4d7b-b1eb-fa7f40679db0\">\n<img alt=\"AIassistant\" src=\"https://github.com/user-attachments/assets/e5b001f3-783f-41c9-8e4e-aca661425676\">\n<img alt=\"AIassistant\" src=\"https://github.com/user-attachments/assets/7a36b45d-cab9-4a91-a376-4bfc784ba1b3\">\n<h2>主要功能</h2>\n<ul>\n<li><strong>即时唤醒</strong>： 双击 右侧 Shift 键，即可在任意界面快速召唤 AIassistant。</li>\n<li><strong>完整聊天界面</strong>： 支持与 AI 进行丰富对话，涵盖 文本、图片、视频、PDF 和 URL 等多种内容形式。</li>\n<li><strong>原地重写</strong>： 在任意应用中直接改写或优化文本，无需复制粘贴。</li>\n<li><strong>快捷操作</strong>： 一键执行 总结、翻译、简化 等常用 AI 操作。</li>\n<li><strong>图像生成</strong>： 使用 Gemini 的 AI 能力 创建或编辑图像。</li>\n<li><strong>截图分析</strong>： 一键截图，并让 AI 分析任意应用窗口的内容。</li>\n<li><strong>多模型支持</strong>： 可在 Gemini 与 OpenAI 模型之间动态切换。</li>\n<li><strong>玻璃质感界面</strong>： 优雅、现代的 macOS 原生设计。</li>\n<li><strong>安全存储</strong>： 所有 API Key 安全保存于 macOS 钥匙串。</li>\n<li><strong>无障碍优先</strong>： 完整支持键盘操作与系统级自动化，提升使用体验。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/222\" target=\"_blank\">#222</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/222.html",
+            "title": "AIassistant：你的智能 macOS AI 助手",
+            "summary": "AIassistant 是一款功能强大的原生 macOS 应用，让 AI 助手无缝融入你的工作流程。 它结合了 Google Gemini 与 OpenAI GPT 的强大能力，在桌面上为你提供智能、上下文感知的辅助体验，随时随地高效工作。 主要功能 即时唤醒： 双击 右侧 Shift 键，即可在任意界面快速召唤 AIassistant。 完整聊天界面： 支持与 AI 进行丰富对话，涵盖 文本、图",
+            "image": "https://github.com/user-attachments/assets/103af7c9-f728-4d7b-b1eb-fa7f40679db0",
+            "date_modified": "2025-11-11T15:05:18.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "221",
             "content_html": "<p>这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。</p>\n<img alt=\"iOS App Signer\" src=\"https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/221\" target=\"_blank\">#221</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/221.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AIassistant：你的智能 macOS AI 助手](https://wangchujiang.com/quick-rss/issue/222.html) 
+
+![](https://github.com/user-attachments/assets/103af7c9-f728-4d7b-b1eb-fa7f40679db0)
+
+AIassistant 是一款功能强大的原生 macOS 应用，让 AI 助手无缝融入你的工作流程。 它结合了 Google Gemini 与 OpenAI GPT 的强大能力，在桌面上为你提供智能、上下文感知的辅助体验，随时随地高效工作。 主要功能 即时唤醒： 双击 右侧 Shift 键，即可在任意界面快速召唤 AIassistant。 完整聊天界面： 支持与 AI 进行丰富对话，涵盖 文本、图 ([#222](https://github.com/jaywcjlove/quick-rss/issues/222) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [iOS App Signer：一个适用于 macOS 的工具，用于对 iOS / tvOS 应用进行签名，并生成可直接安装到设备上的 .ipa 文件](https://wangchujiang.com/quick-rss/issue/221.html) 
 
 ![](https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76)

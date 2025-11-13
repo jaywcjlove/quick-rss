@@ -1,5 +1,19 @@
 [
   {
+    "id": "223",
+    "url": "https://wangchujiang.com/quick-rss/issue/223.html",
+    "title": "Asspp：无缝多账号 App Store 管理工具",
+    "content_html": "<p>Asspp 专为需要同时管理多个 Apple ID 的用户设计。无论是切换地区、搜索特定应用，还是下载与安装 IPA，Asspp 都能让 App Store 的使用变得轻松顺畅，是你跨账号与跨地区应用管理的一站式解决方案。</p>\n<img alt=\"Asspp\" src=\"https://github.com/user-attachments/assets/9d4945de-9fcf-47f5-86fc-c5ffec8ada3f\">\n<p>通过 Asspp，你可以轻松下载历史版本、购买免费应用、分享 IPA 文件——无需越狱设备。让你的 App Store 管理更高效、更便捷。</p>\n<img alt=\"Asspp\" src=\"https://github.com/user-attachments/assets/cce3b3c2-27ea-4c8f-8233-76ac094292c7\">",
+    "summary": "Asspp 专为需要同时管理多个 Apple ID 的用户设计。无论是切换地区、搜索特定应用，还是下载与安装 IPA，Asspp 都能让 App Store 的使用变得轻松顺畅，是你跨账号与跨地区应用管理的一站式解决方案。 通过 Asspp，你可以轻松下载历史版本、购买免费应用、分享 IPA 文件——无需越狱设备。让你的 App Store 管理更高效、更便捷。",
+    "banner_image": null,
+    "date_published": "2025-11-13T03:58:48Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Asspp 专为需要同时管理多个 Apple ID 的用户设计。无论是切换地区、搜索特定应用，还是下载与安装 IPA，Asspp 都能让 App Store 的使用变得轻松顺畅，是你跨账号与跨地区应用管理的一站式解决方案。\n\n<img alt=\"Asspp\" src=\"https://github.com/user-attachments/assets/9d4945de-9fcf-47f5-86fc-c5ffec8ada3f\" />\n\n通过 Asspp，你可以轻松下载历史版本、购买免费应用、分享 IPA 文件——无需越狱设备。让你的 App Store 管理更高效、更便捷。\n\n<img alt=\"Asspp\" src=\"https://github.com/user-attachments/assets/cce3b3c2-27ea-4c8f-8233-76ac094292c7\" />"
+  },
+  {
     "id": "222",
     "url": "https://wangchujiang.com/quick-rss/issue/222.html",
     "title": "AIassistant：你的智能 macOS AI 助手",

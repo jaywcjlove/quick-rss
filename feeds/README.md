@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Asspp：无缝多账号 App Store 管理工具](https://wangchujiang.com/quick-rss/issue/223.html) 
+
+![](https://github.com/user-attachments/assets/9d4945de-9fcf-47f5-86fc-c5ffec8ada3f)
+
+Asspp 专为需要同时管理多个 Apple ID 的用户设计。无论是切换地区、搜索特定应用，还是下载与安装 IPA，Asspp 都能让 App Store 的使用变得轻松顺畅，是你跨账号与跨地区应用管理的一站式解决方案。 通过 Asspp，你可以轻松下载历史版本、购买免费应用、分享 IPA 文件——无需越狱设备。让你的 App Store 管理更高效、更便捷。 ([#223](https://github.com/jaywcjlove/quick-rss/issues/223) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [AIassistant：你的智能 macOS AI 助手](https://wangchujiang.com/quick-rss/issue/222.html) 
 
 ![](https://github.com/user-attachments/assets/103af7c9-f728-4d7b-b1eb-fa7f40679db0)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-11-11T15:05:51.849Z</updated>
+    <updated>2025-11-13T03:59:25.817Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Asspp：无缝多账号 App Store 管理工具]]></title>
+        <id>223</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/223.html"/>
+        <updated>2025-11-13T03:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Asspp 专为需要同时管理多个 Apple ID 的用户设计。无论是切换地区、搜索特定应用，还是下载与安装 IPA，Asspp 都能让 App Store 的使用变得轻松顺畅，是你跨账号与跨地区应用管理的一站式解决方案。 通过 Asspp，你可以轻松下载历史版本、购买免费应用、分享 IPA 文件——无需越狱设备。让你的 App Store 管理更高效、更便捷。]]></summary>
+        <content type="html"><![CDATA[<p>Asspp 专为需要同时管理多个 Apple ID 的用户设计。无论是切换地区、搜索特定应用，还是下载与安装 IPA，Asspp 都能让 App Store 的使用变得轻松顺畅，是你跨账号与跨地区应用管理的一站式解决方案。</p>
+<img alt="Asspp" src="https://github.com/user-attachments/assets/9d4945de-9fcf-47f5-86fc-c5ffec8ada3f">
+<p>通过 Asspp，你可以轻松下载历史版本、购买免费应用、分享 IPA 文件——无需越狱设备。让你的 App Store 管理更高效、更便捷。</p>
+<img alt="Asspp" src="https://github.com/user-attachments/assets/cce3b3c2-27ea-4c8f-8233-76ac094292c7"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/223" target="_blank">#223</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIassistant：你的智能 macOS AI 助手]]></title>
         <id>222</id>

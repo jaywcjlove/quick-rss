@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [inshellisense：微软开源的 IDE 风格的命令行自动补全](https://wangchujiang.com/quick-rss/issue/224.html) 
+
+![](https://github.com/user-attachments/assets/42ddfef3-ec78-474c-90b4-335c7ecc2159)
+
+inshellisense 是一个由 Microsoft 开发的开源工具，用于为各种 shell（命令行终端）提供 IDE 风格的智能自动补全（autocomplete）功能。它作为一个原生终端运行时（runtime），支持超过 600 多种命令行工具，并且可以在 Windows、Linux、macOS 等操作系统上运行。 ￼ 核心价值 全面命令补全：支持广泛常用命令（如 git、python、l ([#224](https://github.com/jaywcjlove/quick-rss/issues/224) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Asspp：无缝多账号 App Store 管理工具](https://wangchujiang.com/quick-rss/issue/223.html) 
 
 ![](https://github.com/user-attachments/assets/9d4945de-9fcf-47f5-86fc-c5ffec8ada3f)

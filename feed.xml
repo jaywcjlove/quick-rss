@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-11-17T04:40:47.376Z</updated>
+    <updated>2025-11-18T17:35:21.911Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Easydict：macOS 翻译神器，输入/划词/截图即译，多源开箱即用。]]></title>
+        <id>225</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/225.html"/>
+        <updated>2025-11-18T17:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Easydict 是一款简洁优雅的 macOS 词典翻译神器，开箱即用，无需任何配置即可轻松查询单词或翻译文本。 支持自动语言识别、输入翻译、划词悬停即译、离线 OCR 截图翻译（静默识别），并同时查询有道、苹果系统词典/翻译、DeepL、Google、OpenAI、Gemini、Bing、腾讯、百度等 10+ 主流服务，结果一目了然。 还内置智能选词、TTS 发音、48 种语言支持，以及高度可定]]></summary>
+        <content type="html"><![CDATA[<p>Easydict 是一款简洁优雅的 macOS 词典翻译神器，开箱即用，无需任何配置即可轻松查询单词或翻译文本。
+支持自动语言识别、输入翻译、划词悬停即译、离线 OCR 截图翻译（静默识别），并同时查询有道、苹果系统词典/翻译、DeepL、Google、OpenAI、Gemini、Bing、腾讯、百度等 10+ 主流服务，结果一目了然。
+还内置智能选词、TTS 发音、48 种语言支持，以及高度可定制的快捷键与窗口服务。
+免费开源，专为追求高效、多源对比翻译的 macOS 用户打造——安装即用，让翻译快人一步！</p>
+<img alt="Easydict" src="https://github.com/user-attachments/assets/11799508-aeea-4e36-b53e-c6c083803aa5"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/225" target="_blank">#225</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[inshellisense：微软开源的 IDE 风格的命令行自动补全]]></title>
         <id>224</id>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Easydict：macOS 翻译神器，输入/划词/截图即译，多源开箱即用。](https://wangchujiang.com/quick-rss/issue/225.html) 
+
+![](https://github.com/user-attachments/assets/11799508-aeea-4e36-b53e-c6c083803aa5)
+
+Easydict 是一款简洁优雅的 macOS 词典翻译神器，开箱即用，无需任何配置即可轻松查询单词或翻译文本。 支持自动语言识别、输入翻译、划词悬停即译、离线 OCR 截图翻译（静默识别），并同时查询有道、苹果系统词典/翻译、DeepL、Google、OpenAI、Gemini、Bing、腾讯、百度等 10+ 主流服务，结果一目了然。 还内置智能选词、TTS 发音、48 种语言支持，以及高度可定 ([#225](https://github.com/jaywcjlove/quick-rss/issues/225) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [inshellisense：微软开源的 IDE 风格的命令行自动补全](https://wangchujiang.com/quick-rss/issue/224.html) 
 
 ![](https://github.com/user-attachments/assets/42ddfef3-ec78-474c-90b4-335c7ecc2159)

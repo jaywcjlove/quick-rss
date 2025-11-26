@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "227",
+            "content_html": "<p>Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。</p>\n<img alt=\"Ora Browser\" src=\"https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883\">\n<h2>核心能力</h2>\n<ul>\n<li>采用 SwiftUI/AppKit 构建原生 macOS 界面</li>\n<li>基于 WebKit，提供快速流畅的浏览体验</li>\n<li>内置内容拦截器，优先保护隐私，阻止跟踪与广告</li>\n<li>支持多种搜索引擎</li>\n<li>URL 自动补全与搜索建议</li>\n<li>Quick Launcher 可实现快速导航与搜索</li>\n<li>开发者模式</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/227\" target=\"_blank\">#227</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/227.html",
+            "title": "Ora Browser：更少干扰，更专注的浏览。",
+            "summary": "Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。 核心能力 采用 SwiftUI/AppKit 构建原生 macOS 界面 基于 WebKit，提供快速流畅的浏览体验 内置内容拦截器，优先保护隐私，阻止跟踪与广告 支持多种搜索引擎 URL 自动补全与搜索建议 Qu",
+            "image": "https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883",
+            "date_modified": "2025-11-26T17:50:49.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "225",
             "content_html": "<p>Easydict 是一款简洁优雅的 macOS 词典翻译神器，开箱即用，无需任何配置即可轻松查询单词或翻译文本。\n支持自动语言识别、输入翻译、划词悬停即译、离线 OCR 截图翻译（静默识别），并同时查询有道、苹果系统词典/翻译、DeepL、Google、OpenAI、Gemini、Bing、腾讯、百度等 10+ 主流服务，结果一目了然。\n还内置智能选词、TTS 发音、48 种语言支持，以及高度可定制的快捷键与窗口服务。\n免费开源，专为追求高效、多源对比翻译的 macOS 用户打造——安装即用，让翻译快人一步！</p>\n<img alt=\"Easydict\" src=\"https://github.com/user-attachments/assets/11799508-aeea-4e36-b53e-c6c083803aa5\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/225\" target=\"_blank\">#225</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/225.html",

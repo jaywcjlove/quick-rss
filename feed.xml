@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-11-18T17:35:21.911Z</updated>
+    <updated>2025-11-26T17:51:48.211Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,38 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Ora Browser：更少干扰，更专注的浏览。]]></title>
+        <id>227</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/227.html"/>
+        <updated>2025-11-26T17:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。 核心能力 采用 SwiftUI/AppKit 构建原生 macOS 界面 基于 WebKit，提供快速流畅的浏览体验 内置内容拦截器，优先保护隐私，阻止跟踪与广告 支持多种搜索引擎 URL 自动补全与搜索建议 Qu]]></summary>
+        <content type="html"><![CDATA[<p>Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。</p>
+<img alt="Ora Browser" src="https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883">
+<h2>核心能力</h2>
+<ul>
+<li>采用 SwiftUI/AppKit 构建原生 macOS 界面</li>
+<li>基于 WebKit，提供快速流畅的浏览体验</li>
+<li>内置内容拦截器，优先保护隐私，阻止跟踪与广告</li>
+<li>支持多种搜索引擎</li>
+<li>URL 自动补全与搜索建议</li>
+<li>Quick Launcher 可实现快速导航与搜索</li>
+<li>开发者模式</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/227" target="_blank">#227</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Easydict：macOS 翻译神器，输入/划词/截图即译，多源开箱即用。]]></title>
         <id>225</id>

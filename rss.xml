@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 18 Nov 2025 17:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Nov 2025 17:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,31 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ora Browser：更少干扰，更专注的浏览。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/227.html</link>
+            <guid>227</guid>
+            <pubDate>Wed, 26 Nov 2025 17:50:49 GMT</pubDate>
+            <description><![CDATA[Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。 核心能力 采用 SwiftUI/AppKit 构建原生 macOS 界面 基于 WebKit，提供快速流畅的浏览体验 内置内容拦截器，优先保护隐私，阻止跟踪与广告 支持多种搜索引擎 URL 自动补全与搜索建议 Qu]]></description>
+            <content:encoded><![CDATA[<p>Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。</p>
+<img alt="Ora Browser" src="https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883">
+<h2>核心能力</h2>
+<ul>
+<li>采用 SwiftUI/AppKit 构建原生 macOS 界面</li>
+<li>基于 WebKit，提供快速流畅的浏览体验</li>
+<li>内置内容拦截器，优先保护隐私，阻止跟踪与广告</li>
+<li>支持多种搜索引擎</li>
+<li>URL 自动补全与搜索建议</li>
+<li>Quick Launcher 可实现快速导航与搜索</li>
+<li>开发者模式</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/227" target="_blank">#227</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883" length="0" type="image//user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883"/>
+        </item>
         <item>
             <title><![CDATA[Easydict：macOS 翻译神器，输入/划词/截图即译，多源开箱即用。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/225.html</link>

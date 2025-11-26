@@ -1,0 +1,16 @@
+[
+  {
+    "id": "227",
+    "url": "https://wangchujiang.com/quick-rss/issue/227.html",
+    "title": "Ora Browser：更少干扰，更专注的浏览。",
+    "content_html": "<p>Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。</p>\n<img alt=\"Ora Browser\" src=\"https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883\">\n<h2>核心能力</h2>\n<ul>\n<li>采用 SwiftUI/AppKit 构建原生 macOS 界面</li>\n<li>基于 WebKit，提供快速流畅的浏览体验</li>\n<li>内置内容拦截器，优先保护隐私，阻止跟踪与广告</li>\n<li>支持多种搜索引擎</li>\n<li>URL 自动补全与搜索建议</li>\n<li>Quick Launcher 可实现快速导航与搜索</li>\n<li>开发者模式</li>\n</ul>",
+    "summary": "Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。 ## 核心能力 - 采用 SwiftUI/AppKit 构建原生 macOS 界面 - 基于 WebKit，提供快速流畅的浏览体验 - 内置内容拦截器，优先保护隐私，阻止跟踪与广告 - 支持多种搜索引擎 - URL",
+    "banner_image": null,
+    "date_published": "2025-11-26T17:50:49Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。\n\n<img alt=\"Ora Browser\" src=\"https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883\" />\n\n## 核心能力\n\n- 采用 SwiftUI/AppKit 构建原生 macOS 界面  \n- 基于 WebKit，提供快速流畅的浏览体验  \n- 内置内容拦截器，优先保护隐私，阻止跟踪与广告  \n- 支持多种搜索引擎  \n- URL 自动补全与搜索建议  \n- Quick Launcher 可实现快速导航与搜索  \n- 开发者模式"
+  }
+]

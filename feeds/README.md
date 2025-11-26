@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Ora Browser：更少干扰，更专注的浏览。](https://wangchujiang.com/quick-rss/issue/227.html) 
+
+![](https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883)
+
+Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。 核心能力 采用 SwiftUI/AppKit 构建原生 macOS 界面 基于 WebKit，提供快速流畅的浏览体验 内置内容拦截器，优先保护隐私，阻止跟踪与广告 支持多种搜索引擎 URL 自动补全与搜索建议 Qu ([#227](https://github.com/jaywcjlove/quick-rss/issues/227) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Easydict：macOS 翻译神器，输入/划词/截图即译，多源开箱即用。](https://wangchujiang.com/quick-rss/issue/225.html) 
 
 ![](https://github.com/user-attachments/assets/11799508-aeea-4e36-b53e-c6c083803aa5)

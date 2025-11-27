@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 26 Nov 2025 17:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 13:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -39,6 +39,45 @@
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883" length="0" type="image//user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883"/>
+        </item>
+        <item>
+            <title><![CDATA[OneClip：轻快、不打扰的 Mac 剪贴板工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/226.html</link>
+            <guid>226</guid>
+            <pubDate>Mon, 24 Nov 2025 04:41:16 GMT</pubDate>
+            <description><![CDATA[官网：https://oneclip.cloud/ OneClip能做什么 记录并搜索剪贴历史。文本/图片/文件/视频/音频/文档等，快速召回 最高支持无限条历史记录 界面美观，丰富模式+极简模式，无广告，无打扰。 纯文本粘贴、合并多段、固定常用文本片段 全新拖拽体验，支持内容拖拽到粘贴板窗口。支持拖拽容器收集文件、图片、文本等 全局快捷键秒唤起，功能丰富，快捷键自定义，内容智能搜索 支持空格原生]]></description>
+            <content:encoded><![CDATA[<p><a href="https://oneclip.cloud/">官网</a>：<a href="https://oneclip.cloud/">https://oneclip.cloud/</a></p>
+<p><img src="https://s1.imagehub.cc/images/2025/11/15/75fb592d491f6bce82781739336c8c1d.jpg" alt="iShot 2025 11 15 21.34.57"></p>
+<h3>OneClip能做什么</h3>
+<ul>
+<li>记录并搜索剪贴历史。文本/图片/文件/视频/音频/文档等，快速召回</li>
+<li>最高支持无限条历史记录</li>
+<li>界面美观，丰富模式+极简模式，无广告，无打扰。</li>
+<li>纯文本粘贴、合并多段、固定常用文本片段</li>
+<li>全新拖拽体验，支持内容拖拽到粘贴板窗口。支持拖拽容器收集文件、图片、文本等</li>
+<li>全局快捷键秒唤起，功能丰富，快捷键自定义，内容智能搜索</li>
+<li>支持空格原生QuickLook预览，快速查看预览文件、图片、文本等</li>
+<li>支持菜单栏操作</li>
+<li>支持快捷回复</li>
+<li>文本/图片便签窗口</li>
+<li>简单的图片编辑</li>
+<li>文本二次编辑</li>
+<li>支持粘贴板堆栈</li>
+<li>支持访达增强，CMD+X/CMD+V剪切文件（赠送的永久免费功能）</li>
+<li>支持来源应用显示</li>
+<li>本地存储，隐私可控。安全可靠。</li>
+<li>可选同步（本地/内外网均可用），Mac跨设备更顺手（目前暂时只支持文本和图片同步）</li>
+<li>智谱清言的免费 AI 助手（需要自己配置 API Key）：OCR、翻译、摘要要点等等</li>
+<li>支持结合本地 Ollama</li>
+<li>还有更多的功能等待你发现</li>
+<li>准备好提升您的工作效率了吗？</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/226" target="_blank">#226</a> • 
+      <a href="https://github.com/Wcowin" target="_blank">@Wcowin</a>
+      ]]></content:encoded>
+            <enclosure url="https://s1.imagehub.cc/images/2025/11/15/75fb592d491f6bce82781739336c8c1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Easydict：macOS 翻译神器，输入/划词/截图即译，多源开箱即用。]]></title>

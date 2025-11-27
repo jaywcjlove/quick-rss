@@ -2,8 +2,8 @@ name: 📥 投稿/推荐/自荐
 description: 欢迎投稿，推荐或自荐文章/软件/资源
 title: "[投稿] 文章/软件/资源的标题"
 labels: [投稿, 推荐]
-assignees:
-  - jaywcjlove
+# assignees:
+#   - jaywcjlove
 
 body:
   - type: markdown

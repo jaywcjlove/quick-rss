@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "228",
+            "content_html": "<p>这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。</p>\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/b76f5762-b69a-43b6-a8b9-c3284400893e\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/570a912a-cc69-42b6-ab74-f90a9201a6fd\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/0b65894c-c883-4d30-a9e1-e089d7fe361c\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/228\" target=\"_blank\">#228</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/228.html",
+            "title": "LaunchpadPlus：具有增强功能和自定义选项的现代 macOS Launchpad",
+            "summary": "这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。",
+            "image": "https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e",
+            "date_modified": "2025-11-27T13:20:11.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "227",
             "content_html": "<p>Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。</p>\n<img alt=\"Ora Browser\" src=\"https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883\">\n<h2>核心能力</h2>\n<ul>\n<li>采用 SwiftUI/AppKit 构建原生 macOS 界面</li>\n<li>基于 WebKit，提供快速流畅的浏览体验</li>\n<li>内置内容拦截器，优先保护隐私，阻止跟踪与广告</li>\n<li>支持多种搜索引擎</li>\n<li>URL 自动补全与搜索建议</li>\n<li>Quick Launcher 可实现快速导航与搜索</li>\n<li>开发者模式</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/227\" target=\"_blank\">#227</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/227.html",

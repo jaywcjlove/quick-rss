@@ -12,5 +12,19 @@
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
     },
     "markdownContent": "Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。\n\n<img alt=\"Ora Browser\" src=\"https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883\" />\n\n## 核心能力\n\n- 采用 SwiftUI/AppKit 构建原生 macOS 界面  \n- 基于 WebKit，提供快速流畅的浏览体验  \n- 内置内容拦截器，优先保护隐私，阻止跟踪与广告  \n- 支持多种搜索引擎  \n- URL 自动补全与搜索建议  \n- Quick Launcher 可实现快速导航与搜索  \n- 开发者模式"
+  },
+  {
+    "id": "226",
+    "url": "https://wangchujiang.com/quick-rss/issue/226.html",
+    "title": "OneClip：轻快、不打扰的 Mac 剪贴板工具",
+    "content_html": "<p><a href=\"https://oneclip.cloud/\">官网</a>：<a href=\"https://oneclip.cloud/\">https://oneclip.cloud/</a></p>\n<p><img src=\"https://s1.imagehub.cc/images/2025/11/15/75fb592d491f6bce82781739336c8c1d.jpg\" alt=\"iShot 2025 11 15 21.34.57\"></p>\n<h3>OneClip能做什么</h3>\n<ul>\n<li>记录并搜索剪贴历史。文本/图片/文件/视频/音频/文档等，快速召回</li>\n<li>最高支持无限条历史记录</li>\n<li>界面美观，丰富模式+极简模式，无广告，无打扰。</li>\n<li>纯文本粘贴、合并多段、固定常用文本片段</li>\n<li>全新拖拽体验，支持内容拖拽到粘贴板窗口。支持拖拽容器收集文件、图片、文本等</li>\n<li>全局快捷键秒唤起，功能丰富，快捷键自定义，内容智能搜索</li>\n<li>支持空格原生QuickLook预览，快速查看预览文件、图片、文本等</li>\n<li>支持菜单栏操作</li>\n<li>支持快捷回复</li>\n<li>文本/图片便签窗口</li>\n<li>简单的图片编辑</li>\n<li>文本二次编辑</li>\n<li>支持粘贴板堆栈</li>\n<li>支持访达增强，CMD+X/CMD+V剪切文件（赠送的永久免费功能）</li>\n<li>支持来源应用显示</li>\n<li>本地存储，隐私可控。安全可靠。</li>\n<li>可选同步（本地/内外网均可用），Mac跨设备更顺手（目前暂时只支持文本和图片同步）</li>\n<li>智谱清言的免费 AI 助手（需要自己配置 API Key）：OCR、翻译、摘要要点等等</li>\n<li>支持结合本地 Ollama</li>\n<li>还有更多的功能等待你发现</li>\n<li>准备好提升您的工作效率了吗？</li>\n</ul>",
+    "summary": "[官网](https://oneclip.cloud/)：https://oneclip.cloud/ ### OneClip能做什么 - 记录并搜索剪贴历史。文本/图片/文件/视频/音频/文档等，快速召回 - 最高支持无限条历史记录 - 界面美观，丰富模式+极简模式，无广告，无打扰。 - 纯文本粘贴、合并多段、固定常用文本片段 - 全新拖拽体验，支持内容拖拽到粘贴板窗口。支持拖拽容器收集文件、图",
+    "banner_image": "https://s1.imagehub.cc/images/2025/11/15/75fb592d491f6bce82781739336c8c1d.jpg",
+    "date_published": "2025-11-24T04:41:16Z",
+    "author": {
+      "name": "Wcowin",
+      "link": "https://avatars.githubusercontent.com/u/99159173?v=4"
+    },
+    "markdownContent": "[官网](https://oneclip.cloud/)：https://oneclip.cloud/\n\n![iShot 2025 11 15 21.34.57](https://s1.imagehub.cc/images/2025/11/15/75fb592d491f6bce82781739336c8c1d.jpg)\n\n### OneClip能做什么\n\n- 记录并搜索剪贴历史。文本/图片/文件/视频/音频/文档等，快速召回\n- 最高支持无限条历史记录    \n- 界面美观，丰富模式+极简模式，无广告，无打扰。\n- 纯文本粘贴、合并多段、固定常用文本片段\n- 全新拖拽体验，支持内容拖拽到粘贴板窗口。支持拖拽容器收集文件、图片、文本等\n- 全局快捷键秒唤起，功能丰富，快捷键自定义，内容智能搜索\n- 支持空格原生QuickLook预览，快速查看预览文件、图片、文本等\n- 支持菜单栏操作\n- 支持快捷回复\n- 文本/图片便签窗口\n- 简单的图片编辑\n- 文本二次编辑\n- 支持粘贴板堆栈\n- 支持访达增强，CMD+X/CMD+V剪切文件（赠送的永久免费功能）\n- 支持来源应用显示\n- 本地存储，隐私可控。安全可靠。\n- 可选同步（本地/内外网均可用），Mac跨设备更顺手（目前暂时只支持文本和图片同步）\n- 智谱清言的免费 AI 助手（需要自己配置 API Key）：OCR、翻译、摘要要点等等\n- 支持结合本地 Ollama\n- 还有更多的功能等待你发现\n- 准备好提升您的工作效率了吗？"
   }
 ]

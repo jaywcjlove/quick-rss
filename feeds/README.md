@@ -16,6 +16,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883)
 
 Ora 是一款为 macOS 打造的快速、安全、且极具美感的浏览器。灵感来自 Safari 和 Arc，Ora 提供干净、原生的使用体验，在 macOS 上显得格外贴合且毫无多余臃肿。 核心能力 采用 SwiftUI/AppKit 构建原生 macOS 界面 基于 WebKit，提供快速流畅的浏览体验 内置内容拦截器，优先保护隐私，阻止跟踪与广告 支持多种搜索引擎 URL 自动补全与搜索建议 Qu ([#227](https://github.com/jaywcjlove/quick-rss/issues/227) - [@jaywcjlove](https://github.com/jaywcjlove))
+## [OneClip：轻快、不打扰的 Mac 剪贴板工具](https://wangchujiang.com/quick-rss/issue/226.html) 
+
+![](https://s1.imagehub.cc/images/2025/11/15/75fb592d491f6bce82781739336c8c1d.jpg)
+
+官网：https://oneclip.cloud/ OneClip能做什么 记录并搜索剪贴历史。文本/图片/文件/视频/音频/文档等，快速召回 最高支持无限条历史记录 界面美观，丰富模式+极简模式，无广告，无打扰。 纯文本粘贴、合并多段、固定常用文本片段 全新拖拽体验，支持内容拖拽到粘贴板窗口。支持拖拽容器收集文件、图片、文本等 全局快捷键秒唤起，功能丰富，快捷键自定义，内容智能搜索 支持空格原生 ([#226](https://github.com/jaywcjlove/quick-rss/issues/226) - [@Wcowin](https://github.com/Wcowin))
 ## [Easydict：macOS 翻译神器，输入/划词/截图即译，多源开箱即用。](https://wangchujiang.com/quick-rss/issue/225.html) 
 
 ![](https://github.com/user-attachments/assets/11799508-aeea-4e36-b53e-c6c083803aa5)

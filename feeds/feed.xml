@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-11-27T13:18:39.128Z</updated>
+    <updated>2025-11-27T13:20:51.660Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[LaunchpadPlus：具有增强功能和自定义选项的现代 macOS Launchpad]]></title>
+        <id>228</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/228.html"/>
+        <updated>2025-11-27T13:20:11.000Z</updated>
+        <summary type="html"><![CDATA[这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。]]></summary>
+        <content type="html"><![CDATA[<p>这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。</p>
+<img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e">
+<img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/b76f5762-b69a-43b6-a8b9-c3284400893e">
+<img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/570a912a-cc69-42b6-ab74-f90a9201a6fd">
+<img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/0b65894c-c883-4d30-a9e1-e089d7fe361c"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/228" target="_blank">#228</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ora Browser：更少干扰，更专注的浏览。]]></title>
         <id>227</id>

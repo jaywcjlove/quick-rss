@@ -1,5 +1,19 @@
 [
   {
+    "id": "228",
+    "url": "https://wangchujiang.com/quick-rss/issue/228.html",
+    "title": "LaunchpadPlus：具有增强功能和自定义选项的现代 macOS Launchpad",
+    "content_html": "<p>这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。</p>\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/b76f5762-b69a-43b6-a8b9-c3284400893e\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/570a912a-cc69-42b6-ab74-f90a9201a6fd\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/0b65894c-c883-4d30-a9e1-e089d7fe361c\">",
+    "summary": "这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。",
+    "banner_image": null,
+    "date_published": "2025-11-27T13:20:11Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。\n\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e\" />\n\n<img  alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/b76f5762-b69a-43b6-a8b9-c3284400893e\" />\n\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/570a912a-cc69-42b6-ab74-f90a9201a6fd\" />\n\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/0b65894c-c883-4d30-a9e1-e089d7fe361c\" />"
+  },
+  {
     "id": "227",
     "url": "https://wangchujiang.com/quick-rss/issue/227.html",
     "title": "Ora Browser：更少干扰，更专注的浏览。",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [LaunchpadPlus：具有增强功能和自定义选项的现代 macOS Launchpad](https://wangchujiang.com/quick-rss/issue/228.html) 
+
+![](https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e)
+
+这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。 ([#228](https://github.com/jaywcjlove/quick-rss/issues/228) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Ora Browser：更少干扰，更专注的浏览。](https://wangchujiang.com/quick-rss/issue/227.html) 
 
 ![](https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883)

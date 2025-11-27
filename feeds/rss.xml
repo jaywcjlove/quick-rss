@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 27 Nov 2025 13:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 13:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LaunchpadPlus：具有增强功能和自定义选项的现代 macOS Launchpad]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/228.html</link>
+            <guid>228</guid>
+            <pubDate>Thu, 27 Nov 2025 13:20:11 GMT</pubDate>
+            <description><![CDATA[这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。]]></description>
+            <content:encoded><![CDATA[<p>这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。</p>
+<img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e">
+<img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/b76f5762-b69a-43b6-a8b9-c3284400893e">
+<img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/570a912a-cc69-42b6-ab74-f90a9201a6fd">
+<img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/0b65894c-c883-4d30-a9e1-e089d7fe361c"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/228" target="_blank">#228</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e" length="0" type="image//user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e"/>
+        </item>
         <item>
             <title><![CDATA[Ora Browser：更少干扰，更专注的浏览。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/227.html</link>

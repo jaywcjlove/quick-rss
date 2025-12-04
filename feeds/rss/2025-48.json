@@ -1,5 +1,19 @@
 [
   {
+    "id": "229",
+    "url": "https://wangchujiang.com/quick-rss/issue/229.html",
+    "title": "iDescriptor: 一个跨平台的桌面应用，让电脑连接管理 iPhone。",
+    "content_html": "<p>iDescriptor 是一款免费、开源、跨平台的 iDevice 管理工具，兼容 Windows、macOS 和 Linux。<br>\n它利用 libimobiledevice 等底层库，为 iPhone / iPad 用户提供图形化界面 —— 无需越狱、无需 iTunes，就能：</p>\n<img alt=\"iDescriptor\" src=\"https://github.com/user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33\">\n<img alt=\"iDescriptor\" src=\"https://github.com/user-attachments/assets/4f6a9f9b-b147-4dd6-a6b7-9ee81d17c6ed\">\n<ul>\n<li>浏览、挂载 iOS 设备的文件系统，把设备当成普通驱动器访问文件</li>\n<li>导入照片与视频、查看媒体内容</li>\n<li>从 App Store 下载并安装应用（需要登录 Apple ID）</li>\n<li>将设备屏幕实时投影到电脑（AirPlay / Live Screen 支持）</li>\n<li>模拟 GPS 位置（仅 iOS ≤ 16 且需挂载 Developer Disk Image）</li>\n<li>对已越狱设备开启 SSH 终端，访问系统隐藏目录</li>\n<li>显示设备系统／硬件信息、电池状态、USB 线缆认证信息等</li>\n<li>支持设备重启、关机、进入恢复／诊断模式</li>\n</ul>\n<p>iDescriptor 目标是整合过去需要多个命令行工具、手动配置驱动、兼容性差的平台工具，提供一个统一、易用、安全的图形化解决方案。<br>\n项目使用 C++ + Qt 开发，以 AGPL-3.0 许可发布 —— 完全免费、开源、尊重用户隐私。</p>",
+    "summary": "iDescriptor 是一款免费、开源、跨平台的 iDevice 管理工具，兼容 Windows、macOS 和 Linux。 它利用 libimobiledevice 等底层库，为 iPhone / iPad 用户提供图形化界面 —— 无需越狱、无需 iTunes，就能： - 浏览、挂载 iOS 设备的文件系统，把设备当成普通驱动器访问文件 - 导入照片与视频、查看媒体内容 - 从 App S",
+    "banner_image": null,
+    "date_published": "2025-11-28T16:29:50Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "iDescriptor 是一款免费、开源、跨平台的 iDevice 管理工具，兼容 Windows、macOS 和 Linux。  \n它利用 libimobiledevice 等底层库，为 iPhone / iPad 用户提供图形化界面 —— 无需越狱、无需 iTunes，就能：\n\n<img alt=\"iDescriptor\" src=\"https://github.com/user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33\" />\n\n<img alt=\"iDescriptor\" src=\"https://github.com/user-attachments/assets/4f6a9f9b-b147-4dd6-a6b7-9ee81d17c6ed\" />\n\n- 浏览、挂载 iOS 设备的文件系统，把设备当成普通驱动器访问文件  \n- 导入照片与视频、查看媒体内容  \n- 从 App Store 下载并安装应用（需要登录 Apple ID）  \n- 将设备屏幕实时投影到电脑（AirPlay / Live Screen 支持）  \n- 模拟 GPS 位置（仅 iOS ≤ 16 且需挂载 Developer Disk Image）  \n- 对已越狱设备开启 SSH 终端，访问系统隐藏目录  \n- 显示设备系统／硬件信息、电池状态、USB 线缆认证信息等  \n- 支持设备重启、关机、进入恢复／诊断模式  \n\niDescriptor 目标是整合过去需要多个命令行工具、手动配置驱动、兼容性差的平台工具，提供一个统一、易用、安全的图形化解决方案。  \n项目使用 C++ + Qt 开发，以 AGPL-3.0 许可发布 —— 完全免费、开源、尊重用户隐私。"
+  },
+  {
     "id": "228",
     "url": "https://wangchujiang.com/quick-rss/issue/228.html",
     "title": "LaunchpadPlus：具有增强功能和自定义选项的现代 macOS Launchpad",

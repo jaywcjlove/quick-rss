@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [iDescriptor: 一个跨平台的桌面应用，让电脑连接管理 iPhone。](https://wangchujiang.com/quick-rss/issue/229.html) 
+
+![](https://github.com/user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33)
+
+iDescriptor 是一款免费、开源、跨平台的 iDevice 管理工具，兼容 Windows、macOS 和 Linux。 它利用 libimobiledevice 等底层库，为 iPhone / iPad 用户提供图形化界面 —— 无需越狱、无需 iTunes，就能： 浏览、挂载 iOS 设备的文件系统，把设备当成普通驱动器访问文件 导入照片与视频、查看媒体内容 从 App Store 下 ([#229](https://github.com/jaywcjlove/quick-rss/issues/229) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [LaunchpadPlus：具有增强功能和自定义选项的现代 macOS Launchpad](https://wangchujiang.com/quick-rss/issue/228.html) 
 
 ![](https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e)

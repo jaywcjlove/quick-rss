@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "229",
+            "content_html": "<p>iDescriptor 是一款免费、开源、跨平台的 iDevice 管理工具，兼容 Windows、macOS 和 Linux。<br>\n它利用 libimobiledevice 等底层库，为 iPhone / iPad 用户提供图形化界面 —— 无需越狱、无需 iTunes，就能：</p>\n<img alt=\"iDescriptor\" src=\"https://github.com/user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33\">\n<img alt=\"iDescriptor\" src=\"https://github.com/user-attachments/assets/4f6a9f9b-b147-4dd6-a6b7-9ee81d17c6ed\">\n<ul>\n<li>浏览、挂载 iOS 设备的文件系统，把设备当成普通驱动器访问文件</li>\n<li>导入照片与视频、查看媒体内容</li>\n<li>从 App Store 下载并安装应用（需要登录 Apple ID）</li>\n<li>将设备屏幕实时投影到电脑（AirPlay / Live Screen 支持）</li>\n<li>模拟 GPS 位置（仅 iOS ≤ 16 且需挂载 Developer Disk Image）</li>\n<li>对已越狱设备开启 SSH 终端，访问系统隐藏目录</li>\n<li>显示设备系统／硬件信息、电池状态、USB 线缆认证信息等</li>\n<li>支持设备重启、关机、进入恢复／诊断模式</li>\n</ul>\n<p>iDescriptor 目标是整合过去需要多个命令行工具、手动配置驱动、兼容性差的平台工具，提供一个统一、易用、安全的图形化解决方案。<br>\n项目使用 C++ + Qt 开发，以 AGPL-3.0 许可发布 —— 完全免费、开源、尊重用户隐私。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/229\" target=\"_blank\">#229</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/229.html",
+            "title": "iDescriptor: 一个跨平台的桌面应用，让电脑连接管理 iPhone。",
+            "summary": "iDescriptor 是一款免费、开源、跨平台的 iDevice 管理工具，兼容 Windows、macOS 和 Linux。 它利用 libimobiledevice 等底层库，为 iPhone / iPad 用户提供图形化界面 —— 无需越狱、无需 iTunes，就能： 浏览、挂载 iOS 设备的文件系统，把设备当成普通驱动器访问文件 导入照片与视频、查看媒体内容 从 App Store 下",
+            "image": "https://github.com/user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33",
+            "date_modified": "2025-11-28T16:29:50.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "228",
             "content_html": "<p>这个项目是 macOS Launchpad 的现代替代方案，提供一个功能齐全且可自定义的应用启动器。它支持玻璃拟态界面、流畅动画、自定义网格布局（图标大小、行列数）、模糊搜索应用、拖放排序和创建文件夹、键盘导航、多页面网格布局，以及布局导出/导入功能——比默认的 Launchpad 提供了更多灵活性和控制。</p>\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/b76f5762-b69a-43b6-a8b9-c3284400893e\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/570a912a-cc69-42b6-ab74-f90a9201a6fd\">\n<img alt=\"LaunchpadPlus\" src=\"https://github.com/user-attachments/assets/0b65894c-c883-4d30-a9e1-e089d7fe361c\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/228\" target=\"_blank\">#228</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/228.html",

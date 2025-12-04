@@ -1,5 +1,19 @@
 [
   {
+    "id": "230",
+    "url": "https://wangchujiang.com/quick-rss/issue/230.html",
+    "title": "MiddleDrag：在 macOS 上通过三指触控板手势实现中键点击和中键拖拽",
+    "content_html": "<p>MiddleDrag 是一款 macOS 菜单栏应用，通过三指触控板手势实现中键点击和中键拖拽功能。</p>\n<p><img src=\"https://github.com/user-attachments/assets/c6d34e64-963a-4af7-9893-d4e1538d331b\" alt=\"MiddleDrag\"></p>\n<h2>功能特点</h2>\n<ul>\n<li>三指轻点 → 中键点击</li>\n<li>三指拖拽 → 中键拖拽（可在 Blender、CAD 软件、浏览器等应用中平移）</li>\n<li>与系统触控板手势兼容，不会互相干扰</li>\n<li>灵敏度和拖拽平滑度可调</li>\n<li>菜单栏图标，快速访问设置</li>\n<li>支持开机自启</li>\n</ul>\n<h2>安装</h2>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew tap nullpointerdepressivedisorder/tap\n</span><span class=\"code-line line-number\" line=\"2\">brew <span class=\"token function\">install</span> <span class=\"token parameter variable\">--cask</span> middledrag\n</span></code></pre>",
+    "summary": "MiddleDrag 是一款 macOS 菜单栏应用，通过三指触控板手势实现中键点击和中键拖拽功能。 ## 功能特点 - 三指轻点 → 中键点击 - 三指拖拽 → 中键拖拽（可在 Blender、CAD 软件、浏览器等应用中平移） - 与系统触控板手势兼容，不会互相干扰 - 灵敏度和拖拽平滑度可调 - 菜单栏图标，快速访问设置 - 支持开机自启 ## 安装 ```bash brew tap nul",
+    "banner_image": "https://github.com/user-attachments/assets/c6d34e64-963a-4af7-9893-d4e1538d331b",
+    "date_published": "2025-12-04T11:54:46Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "MiddleDrag 是一款 macOS 菜单栏应用，通过三指触控板手势实现中键点击和中键拖拽功能。\n\n![MiddleDrag](https://github.com/user-attachments/assets/c6d34e64-963a-4af7-9893-d4e1538d331b)\n\n## 功能特点\n\n- 三指轻点 → 中键点击\n- 三指拖拽 → 中键拖拽（可在 Blender、CAD 软件、浏览器等应用中平移）\n- 与系统触控板手势兼容，不会互相干扰\n- 灵敏度和拖拽平滑度可调\n- 菜单栏图标，快速访问设置\n- 支持开机自启\n\n## 安装\n\n```bash\nbrew tap nullpointerdepressivedisorder/tap\nbrew install --cask middledrag\n```"
+  },
+  {
     "id": "229",
     "url": "https://wangchujiang.com/quick-rss/issue/229.html",
     "title": "iDescriptor: 一个跨平台的桌面应用，让电脑连接管理 iPhone。",

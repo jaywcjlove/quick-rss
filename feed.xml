@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-11-27T13:20:51.660Z</updated>
+    <updated>2025-12-04T11:52:37.277Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,42 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[iDescriptor: 一个跨平台的桌面应用，让电脑连接管理 iPhone。]]></title>
+        <id>229</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/229.html"/>
+        <updated>2025-11-28T16:29:50.000Z</updated>
+        <summary type="html"><![CDATA[iDescriptor 是一款免费、开源、跨平台的 iDevice 管理工具，兼容 Windows、macOS 和 Linux。 它利用 libimobiledevice 等底层库，为 iPhone / iPad 用户提供图形化界面 —— 无需越狱、无需 iTunes，就能： 浏览、挂载 iOS 设备的文件系统，把设备当成普通驱动器访问文件 导入照片与视频、查看媒体内容 从 App Store 下]]></summary>
+        <content type="html"><![CDATA[<p>iDescriptor 是一款免费、开源、跨平台的 iDevice 管理工具，兼容 Windows、macOS 和 Linux。<br>
+它利用 libimobiledevice 等底层库，为 iPhone / iPad 用户提供图形化界面 —— 无需越狱、无需 iTunes，就能：</p>
+<img alt="iDescriptor" src="https://github.com/user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33">
+<img alt="iDescriptor" src="https://github.com/user-attachments/assets/4f6a9f9b-b147-4dd6-a6b7-9ee81d17c6ed">
+<ul>
+<li>浏览、挂载 iOS 设备的文件系统，把设备当成普通驱动器访问文件</li>
+<li>导入照片与视频、查看媒体内容</li>
+<li>从 App Store 下载并安装应用（需要登录 Apple ID）</li>
+<li>将设备屏幕实时投影到电脑（AirPlay / Live Screen 支持）</li>
+<li>模拟 GPS 位置（仅 iOS ≤ 16 且需挂载 Developer Disk Image）</li>
+<li>对已越狱设备开启 SSH 终端，访问系统隐藏目录</li>
+<li>显示设备系统／硬件信息、电池状态、USB 线缆认证信息等</li>
+<li>支持设备重启、关机、进入恢复／诊断模式</li>
+</ul>
+<p>iDescriptor 目标是整合过去需要多个命令行工具、手动配置驱动、兼容性差的平台工具，提供一个统一、易用、安全的图形化解决方案。<br>
+项目使用 C++ + Qt 开发，以 AGPL-3.0 许可发布 —— 完全免费、开源、尊重用户隐私。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/229" target="_blank">#229</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LaunchpadPlus：具有增强功能和自定义选项的现代 macOS Launchpad]]></title>
         <id>228</id>

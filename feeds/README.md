@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MiddleDrag：在 macOS 上通过三指触控板手势实现中键点击和中键拖拽](https://wangchujiang.com/quick-rss/issue/230.html) 
+
+![](https://github.com/user-attachments/assets/c6d34e64-963a-4af7-9893-d4e1538d331b)
+
+MiddleDrag 是一款 macOS 菜单栏应用，通过三指触控板手势实现中键点击和中键拖拽功能。 功能特点 三指轻点 → 中键点击 三指拖拽 → 中键拖拽（可在 Blender、CAD 软件、浏览器等应用中平移） 与系统触控板手势兼容，不会互相干扰 灵敏度和拖拽平滑度可调 菜单栏图标，快速访问设置 支持开机自启 安装 brew tap nullpointerdepressivedisorder ([#230](https://github.com/jaywcjlove/quick-rss/issues/230) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [iDescriptor: 一个跨平台的桌面应用，让电脑连接管理 iPhone。](https://wangchujiang.com/quick-rss/issue/229.html) 
 
 ![](https://github.com/user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33)

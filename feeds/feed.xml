@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-04T11:52:37.277Z</updated>
+    <updated>2025-12-04T11:55:46.008Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,41 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[MiddleDrag：在 macOS 上通过三指触控板手势实现中键点击和中键拖拽]]></title>
+        <id>230</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/230.html"/>
+        <updated>2025-12-04T11:54:46.000Z</updated>
+        <summary type="html"><![CDATA[MiddleDrag 是一款 macOS 菜单栏应用，通过三指触控板手势实现中键点击和中键拖拽功能。 功能特点 三指轻点 → 中键点击 三指拖拽 → 中键拖拽（可在 Blender、CAD 软件、浏览器等应用中平移） 与系统触控板手势兼容，不会互相干扰 灵敏度和拖拽平滑度可调 菜单栏图标，快速访问设置 支持开机自启 安装 brew tap nullpointerdepressivedisorder]]></summary>
+        <content type="html"><![CDATA[<p>MiddleDrag 是一款 macOS 菜单栏应用，通过三指触控板手势实现中键点击和中键拖拽功能。</p>
+<p><img src="https://github.com/user-attachments/assets/c6d34e64-963a-4af7-9893-d4e1538d331b" alt="MiddleDrag"></p>
+<h2>功能特点</h2>
+<ul>
+<li>三指轻点 → 中键点击</li>
+<li>三指拖拽 → 中键拖拽（可在 Blender、CAD 软件、浏览器等应用中平移）</li>
+<li>与系统触控板手势兼容，不会互相干扰</li>
+<li>灵敏度和拖拽平滑度可调</li>
+<li>菜单栏图标，快速访问设置</li>
+<li>支持开机自启</li>
+</ul>
+<h2>安装</h2>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap nullpointerdepressivedisorder/tap
+</span><span class="code-line line-number" line="2">brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> middledrag
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/230" target="_blank">#230</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iDescriptor: 一个跨平台的桌面应用，让电脑连接管理 iPhone。]]></title>
         <id>229</id>

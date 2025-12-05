@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DeepChat：统一多模型 + 本地模型支持的开源 AI 聊天工具](https://wangchujiang.com/quick-rss/issue/231.html) 
+
+![](https://github.com/user-attachments/assets/326fbd7c-4fa4-41ad-96c8-3303b6cb8cf1)
+
+DeepChat 是一个功能丰富、开源免费的 AI 聊天平台 / 客户端，为用户提供统一接口，连接包含云端与本地的大语言模型 (LLM)，让智能对话与工具调用变得简单高效。 为什么选择 DeepChat ✅ 多模型统一管理 — 支持包括 OpenAI、Gemini、Anthropic 等主流云端 LLM 接口，也支持通过 Ollama 本地部署模型。 ✅ 本地模型友好 &#x26; 私密安全 —  ([#231](https://github.com/jaywcjlove/quick-rss/issues/231) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MiddleDrag：在 macOS 上通过三指触控板手势实现中键点击和中键拖拽](https://wangchujiang.com/quick-rss/issue/230.html) 
 
 ![](https://github.com/user-attachments/assets/c6d34e64-963a-4af7-9893-d4e1538d331b)

@@ -1,5 +1,19 @@
 [
   {
+    "id": "231",
+    "url": "https://wangchujiang.com/quick-rss/issue/231.html",
+    "title": "DeepChat：统一多模型 + 本地模型支持的开源 AI 聊天工具",
+    "content_html": "<p>DeepChat 是一个功能丰富、开源免费的 AI 聊天平台 / 客户端，为用户提供统一接口，连接包含云端与本地的大语言模型 (LLM)，让智能对话与工具调用变得简单高效。</p>\n<img alt=\"DeepChat\" src=\"https://github.com/user-attachments/assets/326fbd7c-4fa4-41ad-96c8-3303b6cb8cf1\">\n<h2>为什么选择 DeepChat</h2>\n<ul>\n<li>✅ <strong>多模型统一管理</strong> — 支持包括 OpenAI、Gemini、Anthropic 等主流云端 LLM 接口，也支持通过 Ollama 本地部署模型。</li>\n<li>✅ <strong>本地模型友好 &#x26; 私密安全</strong> — 集成本地模型支持，不依赖命令行操作，聊天数据与配置可本地保存／加密，更好保障隐私。</li>\n<li>✅ <strong>强大的工具调用与扩展能力</strong> — 通过 MCP (Model Context Protocol) 支持代码执行、网页 / 搜索 / 文件等工具调用，多模态渲染 (Markdown、代码块、图片、图表 …)，还可以集成外部搜索引擎增强回答准确性。([GitHub][1])</li>\n<li>✅ <strong>跨平台 + 用户友好</strong> — Windows / macOS / Linux 都支持，一键安装 + 简易配置即可上手；界面支持浅色 / 暗色主题，适合多种使用场景。</li>\n</ul>\n<h2>主要功能 / 应用场景</h2>\n<ul>\n<li>💡 日常助手 — 回答问题、建议、写作 / 编辑 / 创意辅助</li>\n<li>👨‍💻 开发辅助 — 代码生成 / 调试 / 技术问答 / 文档辅助</li>\n<li>📚 学习 / 知识探索 — 概念解释、学习指导、资料整理</li>\n<li>✍️ 内容创作 / 文案 / 报告 / 分析 — 文本 / 数据 / 图表生成与整理</li>\n<li>📈 数据分析与报告 — 帮助分析数据、生成可视化结果、撰写总结报告</li>\n</ul>",
+    "summary": "DeepChat 是一个功能丰富、开源免费的 AI 聊天平台 / 客户端，为用户提供统一接口，连接包含云端与本地的大语言模型 (LLM)，让智能对话与工具调用变得简单高效。 ## 为什么选择 DeepChat * ✅ **多模型统一管理** — 支持包括 OpenAI、Gemini、Anthropic 等主流云端 LLM 接口，也支持通过 Ollama 本地部署模型。 * ✅ **本地模型友好 &",
+    "banner_image": null,
+    "date_published": "2025-12-05T16:47:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "DeepChat 是一个功能丰富、开源免费的 AI 聊天平台 / 客户端，为用户提供统一接口，连接包含云端与本地的大语言模型 (LLM)，让智能对话与工具调用变得简单高效。\n\n<img alt=\"DeepChat\" src=\"https://github.com/user-attachments/assets/326fbd7c-4fa4-41ad-96c8-3303b6cb8cf1\" />\n\n## 为什么选择 DeepChat\n\n* ✅ **多模型统一管理** — 支持包括 OpenAI、Gemini、Anthropic 等主流云端 LLM 接口，也支持通过 Ollama 本地部署模型。\n* ✅ **本地模型友好 & 私密安全** — 集成本地模型支持，不依赖命令行操作，聊天数据与配置可本地保存／加密，更好保障隐私。\n* ✅ **强大的工具调用与扩展能力** — 通过 MCP (Model Context Protocol) 支持代码执行、网页 / 搜索 / 文件等工具调用，多模态渲染 (Markdown、代码块、图片、图表 …)，还可以集成外部搜索引擎增强回答准确性。([GitHub][1])\n* ✅ **跨平台 + 用户友好** — Windows / macOS / Linux 都支持，一键安装 + 简易配置即可上手；界面支持浅色 / 暗色主题，适合多种使用场景。\n\n\n## 主要功能 / 应用场景\n\n* 💡 日常助手 — 回答问题、建议、写作 / 编辑 / 创意辅助\n* 👨‍💻 开发辅助 — 代码生成 / 调试 / 技术问答 / 文档辅助\n* 📚 学习 / 知识探索 — 概念解释、学习指导、资料整理\n* ✍️ 内容创作 / 文案 / 报告 / 分析 — 文本 / 数据 / 图表生成与整理\n* 📈 数据分析与报告 — 帮助分析数据、生成可视化结果、撰写总结报告"
+  },
+  {
     "id": "230",
     "url": "https://wangchujiang.com/quick-rss/issue/230.html",
     "title": "MiddleDrag：在 macOS 上通过三指触控板手势实现中键点击和中键拖拽",

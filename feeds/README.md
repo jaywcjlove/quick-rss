@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DecoTV：基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。](https://wangchujiang.com/quick-rss/issue/232.html) 
+
+![](https://github.com/user-attachments/assets/3d1ba534-c1db-4d82-92ac-757733a985ef)
+
+DecoTV 是一个开箱即用的跨平台影视聚合播放站，基于 Next.js 14 + Tailwind CSS + TypeScript 构建。它支持多源聚合搜索、在线播放（集成 HLS.js 与 ArtPlayer）、收藏与继续观看同步（支持 Kvrocks/Redis/Upstash）、用户注册与 PWA 功能，并提供响应式界面与暗/亮模式。部署时需注意项目为“空壳”——不自带播放源或直播源，需 ([#232](https://github.com/jaywcjlove/quick-rss/issues/232) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DeepChat：统一多模型 + 本地模型支持的开源 AI 聊天工具](https://wangchujiang.com/quick-rss/issue/231.html) 
 
 ![](https://github.com/user-attachments/assets/326fbd7c-4fa4-41ad-96c8-3303b6cb8cf1)

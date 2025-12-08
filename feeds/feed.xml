@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-05T16:49:20.932Z</updated>
+    <updated>2025-12-08T08:15:46.178Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,132 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[DecoTV：基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。]]></title>
+        <id>232</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/232.html"/>
+        <updated>2025-12-08T08:09:30.000Z</updated>
+        <summary type="html"><![CDATA[DecoTV 是一个开箱即用的跨平台影视聚合播放站，基于 Next.js 14 + Tailwind CSS + TypeScript 构建。它支持多源聚合搜索、在线播放（集成 HLS.js 与 ArtPlayer）、收藏与继续观看同步（支持 Kvrocks/Redis/Upstash）、用户注册与 PWA 功能，并提供响应式界面与暗/亮模式。部署时需注意项目为“空壳”——不自带播放源或直播源，需]]></summary>
+        <content type="html"><![CDATA[<p>DecoTV 是一个开箱即用的跨平台影视聚合播放站，基于 Next.js 14 + Tailwind CSS + TypeScript 构建。它支持多源聚合搜索、在线播放（集成 HLS.js 与 ArtPlayer）、收藏与继续观看同步（支持 Kvrocks/Redis/Upstash）、用户注册与 PWA 功能，并提供响应式界面与暗/亮模式。部署时需注意项目为“空壳”——不自带播放源或直播源，需要自行收集配置；仅官方支持通过 Docker 部署。</p>
+<img alt="DecoTV" src="https://github.com/user-attachments/assets/3d1ba534-c1db-4d82-92ac-757733a985ef">
+<img alt="DecoTV" src="https://github.com/user-attachments/assets/22c8ad61-e1ae-4358-a948-16741712e0d5">
+<h3>✨ 功能特性</h3>
+<ul>
+<li>🔍 多源聚合搜索：一次搜索立刻返回全源结果。</li>
+<li>📄 丰富详情页：支持剧集列表、演员、年份、简介等完整信息展示。</li>
+<li>▶️ 流畅在线播放：集成 HLS.js &#x26; ArtPlayer。</li>
+<li>❤️ 收藏 + 继续观看：支持 Kvrocks/Redis/Upstash 存储，多端同步进度。</li>
+<li>� 用户注册系统：支持用户自助注册（可选），带图形验证码防机器人。</li>
+<li>�📱 PWA：离线缓存、安装到桌面/主屏，移动端原生体验。</li>
+<li>🌗 响应式布局：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。</li>
+<li>👿 智能去广告：自动跳过视频中的切片广告（实验性）。</li>
+</ul>
+<h3>部署</h3>
+<p>DecoTV 提供以下 Docker 镜像标签：</p>
+<pre class="language-shell"><code class="language-shell code-highlight"><span class="code-line line-number" line="1"><span class="token comment"># 方式1：使用 latest 标签（自动获取最新更新）</span>
+</span><span class="code-line line-number" line="2"><span class="token function">docker</span> pull ghcr.io/decohererk/decotv:latest
+</span><span class="code-line line-number" line="3">
+</span><span class="code-line line-number" line="4"><span class="token comment"># 方式2：使用特定版本号（生产环境推荐）</span>
+</span><span class="code-line line-number" line="5"><span class="token function">docker</span> pull ghcr.io/decohererk/decotv:v0.4.0
+</span><span class="code-line line-number" line="6">
+</span><span class="code-line line-number" line="7"><span class="token comment"># 方式3：回滚到旧版本</span>
+</span><span class="code-line line-number" line="8"><span class="token function">docker</span> pull ghcr.io/decohererk/decotv:v0.3.0
+</span></code></pre>
+<h3>Kvrocks 存储（推荐）</h3>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line line-number" line="1"><span class="token key atrule">services</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="2">  <span class="token key atrule">decotv-core</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="3">    <span class="token key atrule">image</span><span class="token punctuation">:</span> ghcr.io/decohererk/decotv<span class="token punctuation">:</span>latest <span class="token comment"># 或使用 :v0.4.0 固定版本</span>
+</span><span class="code-line line-number" line="4">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> decotv<span class="token punctuation">-</span>core
+</span><span class="code-line line-number" line="5">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> on<span class="token punctuation">-</span>failure
+</span><span class="code-line line-number" line="6">    <span class="token key atrule">ports</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="7">      <span class="token punctuation">-</span> <span class="token string">'3000:3000'</span>
+</span><span class="code-line line-number" line="8">    <span class="token key atrule">environment</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="9">      <span class="token punctuation">-</span> USERNAME=admin
+</span><span class="code-line line-number" line="10">      <span class="token punctuation">-</span> PASSWORD=admin_password
+</span><span class="code-line line-number" line="11">      <span class="token punctuation">-</span> NEXT_PUBLIC_STORAGE_TYPE=kvrocks
+</span><span class="code-line line-number" line="12">      <span class="token punctuation">-</span> KVROCKS_URL=redis<span class="token punctuation">:</span>//decotv<span class="token punctuation">-</span>kvrocks<span class="token punctuation">:</span><span class="token number">6666</span>
+</span><span class="code-line line-number" line="13">    <span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="14">      <span class="token punctuation">-</span> decotv<span class="token punctuation">-</span>network
+</span><span class="code-line line-number" line="15">    <span class="token key atrule">depends_on</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="16">      <span class="token punctuation">-</span> decotv<span class="token punctuation">-</span>kvrocks
+</span><span class="code-line line-number" line="17">  <span class="token key atrule">decotv-kvrocks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="18">    <span class="token key atrule">image</span><span class="token punctuation">:</span> apache/kvrocks
+</span><span class="code-line line-number" line="19">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> decotv<span class="token punctuation">-</span>kvrocks
+</span><span class="code-line line-number" line="20">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> unless<span class="token punctuation">-</span>stopped
+</span><span class="code-line line-number" line="21">    <span class="token key atrule">volumes</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="22">      <span class="token punctuation">-</span> kvrocks<span class="token punctuation">-</span>data<span class="token punctuation">:</span>/var/lib/kvrocks
+</span><span class="code-line line-number" line="23">    <span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="24">      <span class="token punctuation">-</span> decotv<span class="token punctuation">-</span>network
+</span><span class="code-line line-number" line="25"><span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="26">  <span class="token key atrule">decotv-network</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="27">    <span class="token key atrule">driver</span><span class="token punctuation">:</span> bridge
+</span><span class="code-line line-number" line="28"><span class="token key atrule">volumes</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="29">  <span class="token key atrule">kvrocks-data</span><span class="token punctuation">:</span>
+</span></code></pre>
+<h3>Redis 存储（有一定的丢数据风险）</h3>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line line-number" line="1"><span class="token key atrule">services</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="2">  <span class="token key atrule">decotv-core</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="3">    <span class="token key atrule">image</span><span class="token punctuation">:</span> ghcr.io/decohererk/decotv<span class="token punctuation">:</span>latest <span class="token comment"># 或使用 :v0.4.0 固定版本</span>
+</span><span class="code-line line-number" line="4">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> decotv<span class="token punctuation">-</span>core
+</span><span class="code-line line-number" line="5">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> on<span class="token punctuation">-</span>failure
+</span><span class="code-line line-number" line="6">    <span class="token key atrule">ports</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="7">      <span class="token punctuation">-</span> <span class="token string">'3000:3000'</span>
+</span><span class="code-line line-number" line="8">    <span class="token key atrule">environment</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="9">      <span class="token punctuation">-</span> USERNAME=admin
+</span><span class="code-line line-number" line="10">      <span class="token punctuation">-</span> PASSWORD=admin_password
+</span><span class="code-line line-number" line="11">      <span class="token punctuation">-</span> NEXT_PUBLIC_STORAGE_TYPE=redis
+</span><span class="code-line line-number" line="12">      <span class="token punctuation">-</span> REDIS_URL=redis<span class="token punctuation">:</span>//decotv<span class="token punctuation">-</span>redis<span class="token punctuation">:</span><span class="token number">6379</span>
+</span><span class="code-line line-number" line="13">    <span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="14">      <span class="token punctuation">-</span> decotv<span class="token punctuation">-</span>network
+</span><span class="code-line line-number" line="15">    <span class="token key atrule">depends_on</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="16">      <span class="token punctuation">-</span> decotv<span class="token punctuation">-</span>redis
+</span><span class="code-line line-number" line="17">  <span class="token key atrule">decotv-redis</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="18">    <span class="token key atrule">image</span><span class="token punctuation">:</span> redis<span class="token punctuation">:</span>alpine
+</span><span class="code-line line-number" line="19">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> decotv<span class="token punctuation">-</span>redis
+</span><span class="code-line line-number" line="20">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> unless<span class="token punctuation">-</span>stopped
+</span><span class="code-line line-number" line="21">    <span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="22">      <span class="token punctuation">-</span> decotv<span class="token punctuation">-</span>network
+</span><span class="code-line line-number" line="23">    <span class="token comment"># 请开启持久化，否则升级/重启后数据丢失</span>
+</span><span class="code-line line-number" line="24">    <span class="token key atrule">volumes</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="25">      <span class="token punctuation">-</span> ./data<span class="token punctuation">:</span>/data
+</span><span class="code-line line-number" line="26"><span class="token key atrule">networks</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="27">  <span class="token key atrule">decotv-network</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="28">    <span class="token key atrule">driver</span><span class="token punctuation">:</span> bridge
+</span></code></pre>
+<h3>Upstash 存储</h3>
+<ul>
+<li>在 <a href="https://upstash.com/">upstash</a> 注册账号并新建一个 Redis 实例，名称任意。</li>
+<li>复制新数据库的 HTTPS ENDPOINT 和 TOKEN</li>
+<li>使用如下 docker compose</li>
+</ul>
+<pre class="language-yaml"><code class="language-yaml code-highlight"><span class="code-line line-number" line="1"><span class="token key atrule">services</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="2">  <span class="token key atrule">decotv-core</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="3">    <span class="token key atrule">image</span><span class="token punctuation">:</span> ghcr.io/decohererk/decotv<span class="token punctuation">:</span>latest <span class="token comment"># 或使用 :v0.4.0 固定版本</span>
+</span><span class="code-line line-number" line="4">    <span class="token key atrule">container_name</span><span class="token punctuation">:</span> decotv<span class="token punctuation">-</span>core
+</span><span class="code-line line-number" line="5">    <span class="token key atrule">restart</span><span class="token punctuation">:</span> on<span class="token punctuation">-</span>failure
+</span><span class="code-line line-number" line="6">    <span class="token key atrule">ports</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="7">      <span class="token punctuation">-</span> <span class="token string">'3000:3000'</span>
+</span><span class="code-line line-number" line="8">    <span class="token key atrule">environment</span><span class="token punctuation">:</span>
+</span><span class="code-line line-number" line="9">      <span class="token punctuation">-</span> USERNAME=admin
+</span><span class="code-line line-number" line="10">      <span class="token punctuation">-</span> PASSWORD=admin_password
+</span><span class="code-line line-number" line="11">      <span class="token punctuation">-</span> NEXT_PUBLIC_STORAGE_TYPE=upstash
+</span><span class="code-line line-number" line="12">      <span class="token punctuation">-</span> UPSTASH_URL=上面 https 开头的 HTTPS ENDPOINT
+</span><span class="code-line line-number" line="13">      <span class="token punctuation">-</span> UPSTASH_TOKEN=上面的 TOKEN
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/232" target="_blank">#232</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepChat：统一多模型 + 本地模型支持的开源 AI 聊天工具]]></title>
         <id>231</id>

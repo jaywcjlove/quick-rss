@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [OneClip：一款开源的 macOS 剪贴板管理工具](https://wangchujiang.com/quick-rss/issue/233.html) 
+
+![](https://github.com/user-attachments/assets/991506dc-9848-420d-9978-a758c9023125)
+
+OneClip 是一款为 macOS 打造的专业级剪贴板管理工具。采用 100% SwiftUI 原生技术开发，实现了轻量、高效、隐私可控的剪贴板历史管理体验。 ([#233](https://github.com/jaywcjlove/quick-rss/issues/233) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DecoTV：基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。](https://wangchujiang.com/quick-rss/issue/232.html) 
 
 ![](https://github.com/user-attachments/assets/3d1ba534-c1db-4d82-92ac-757733a985ef)

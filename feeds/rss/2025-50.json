@@ -1,5 +1,19 @@
 [
   {
+    "id": "233",
+    "url": "https://wangchujiang.com/quick-rss/issue/233.html",
+    "title": "OneClip：一款开源的 macOS 剪贴板管理工具",
+    "content_html": "<p>OneClip 是一款为 macOS 打造的专业级剪贴板管理工具。采用 100% SwiftUI 原生技术开发，实现了轻量、高效、隐私可控的剪贴板历史管理体验。</p>\n<img alt=\"OneClip\" src=\"https://github.com/user-attachments/assets/991506dc-9848-420d-9978-a758c9023125\">\n<img alt=\"OneClip\" src=\"https://github.com/user-attachments/assets/23739303-8c82-4303-a754-7cbc77dc7dfd\">",
+    "summary": "OneClip 是一款为 macOS 打造的专业级剪贴板管理工具。采用 100% SwiftUI 原生技术开发，实现了轻量、高效、隐私可控的剪贴板历史管理体验。",
+    "banner_image": null,
+    "date_published": "2025-12-11T13:56:42Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "OneClip 是一款为 macOS 打造的专业级剪贴板管理工具。采用 100% SwiftUI 原生技术开发，实现了轻量、高效、隐私可控的剪贴板历史管理体验。\n\n<img alt=\"OneClip\" src=\"https://github.com/user-attachments/assets/991506dc-9848-420d-9978-a758c9023125\" />\n\n<img alt=\"OneClip\" src=\"https://github.com/user-attachments/assets/23739303-8c82-4303-a754-7cbc77dc7dfd\" />"
+  },
+  {
     "id": "232",
     "url": "https://wangchujiang.com/quick-rss/issue/232.html",
     "title": "DecoTV：基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-08T08:15:46.178Z</updated>
+    <updated>2025-12-11T13:57:21.704Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[OneClip：一款开源的 macOS 剪贴板管理工具]]></title>
+        <id>233</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/233.html"/>
+        <updated>2025-12-11T13:56:42.000Z</updated>
+        <summary type="html"><![CDATA[OneClip 是一款为 macOS 打造的专业级剪贴板管理工具。采用 100% SwiftUI 原生技术开发，实现了轻量、高效、隐私可控的剪贴板历史管理体验。]]></summary>
+        <content type="html"><![CDATA[<p>OneClip 是一款为 macOS 打造的专业级剪贴板管理工具。采用 100% SwiftUI 原生技术开发，实现了轻量、高效、隐私可控的剪贴板历史管理体验。</p>
+<img alt="OneClip" src="https://github.com/user-attachments/assets/991506dc-9848-420d-9978-a758c9023125">
+<img alt="OneClip" src="https://github.com/user-attachments/assets/23739303-8c82-4303-a754-7cbc77dc7dfd"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/233" target="_blank">#233</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DecoTV：基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。]]></title>
         <id>232</id>

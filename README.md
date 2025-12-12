@@ -39,6 +39,8 @@ minimum OS requirement: `macOS 14.0` / `iOS 17.0`
 
 ![Quick RSS Screenshot 2](./assets/screenshots-2.png)
 
+![Quick RSS Screenshot 3](./assets/screenshots-3.png)
+
 ## Who is it for?
 
 Quick RSS is ideal for anyone looking to efficiently access the latest news, especially for:

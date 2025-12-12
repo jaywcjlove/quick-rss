@@ -37,6 +37,8 @@
 
 ![Quick RSS 截图 2](./assets/screenshots-2.png)
 
+![Quick RSS 截图 3](./assets/screenshots-3.png)
+
 ## 适用于谁？
 
 Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：

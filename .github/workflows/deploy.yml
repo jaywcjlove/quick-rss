@@ -55,10 +55,12 @@ jobs:
           sideEffectFiles:
             - README.md
             - README.zh.md
+            - CHANGELOG.md
+            - CHANGELOG.zh.md
             - terms-of-service.md
+            - terms-of-service.zh.md
             - feedback.md
             - feedback.zh.md
-            - terms-of-service.zh.md
             - privacy-policy.md
             - privacy-policy.zh.md
             - feeds/README.md

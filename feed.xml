@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-11T13:57:21.704Z</updated>
+    <updated>2025-12-15T14:13:04.062Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,46 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Keyden：一款简洁优雅的 macOS 菜单栏 TOTP 验证器]]></title>
+        <id>235</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/235.html"/>
+        <updated>2025-12-15T14:12:27.000Z</updated>
+        <summary type="html"><![CDATA[Keyden 是一款专为 macOS 打造的 简洁、优雅且安全的菜单栏 TOTP 双因素认证器。 它专注于高效、安全与原生体验，让你无需打开臃肿的应用，即可快速获取一次性验证码。 所有 TOTP 密钥均 安全存储于 macOS 钥匙串（Keychain），数据离线优先、本地加密，真正做到隐私可控、使用安心。 ✨ 核心特性 🔐 安全存储 TOTP 密钥加密保存在 macOS Keychain，系统]]></summary>
+        <content type="html"><![CDATA[<p><strong>Keyden</strong> 是一款专为 macOS 打造的 <strong>简洁、优雅且安全的菜单栏 TOTP 双因素认证器</strong>。
+它专注于高效、安全与原生体验，让你无需打开臃肿的应用，即可快速获取一次性验证码。</p>
+<p>所有 TOTP 密钥均 <strong>安全存储于 macOS 钥匙串（Keychain）</strong>，数据离线优先、本地加密，真正做到隐私可控、使用安心。</p>
+<img alt="Keyden" src="https://github.com/user-attachments/assets/d8802f63-3259-4f42-8873-3ebfd65f6287">
+<h3>✨ 核心特性</h3>
+<ul>
+<li>🔐 <strong>安全存储</strong> TOTP 密钥加密保存在 macOS Keychain，系统级安全保障</li>
+<li>📋 <strong>一键复制验证码</strong> 点击即可复制当前验证码，快速粘贴，无多余操作</li>
+<li>📷 <strong>二维码支持</strong> 扫描二维码快速添加账户，支持导出二维码图片备份</li>
+<li>📥 <strong>批量导入账户</strong> 通过剪贴板或输入框一次性导入多个账号</li>
+<li>☁️ <strong>GitHub Gist 同步（可选）</strong> 使用私有 Gist 在多台 Mac 间同步数据</li>
+<li>💾 <strong>离线优先设计</strong> 无需联网即可使用，所有数据本地加密存储</li>
+<li>🎨 <strong>主题支持</strong> 支持明暗模式，自动跟随系统外观</li>
+<li>🌍 <strong>多语言支持</strong> 提供英文与简体中文界面</li>
+<li>📌 <strong>置顶与排序</strong> 常用账户可置顶，支持拖拽自由排序</li>
+<li>📂 <strong>分组视图</strong> 按发行商分组展示账户，管理更清晰</li>
+<li>⌨️ <strong>全局快捷键</strong> 自定义快捷键快速唤出菜单（默认：⌘⇧K）</li>
+<li>🔄 <strong>导入 / 导出</strong> 轻松备份和恢复所有令牌数据</li>
+<li>🚀 <strong>开机启动</strong> 支持随 macOS 自动启动，随时可用</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/235" target="_blank">#235</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneClip：一款开源的 macOS 剪贴板管理工具]]></title>
         <id>233</id>

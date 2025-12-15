@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [macUSB：面向 Apple Silicon(M1/M2/M3) 的 macOS / OS X 启动盘创建工具](https://wangchujiang.com/quick-rss/issue/236.html) 
+
+![](https://github.com/user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653)
+
+macUSB 是一款专为 Apple Silicon（M1 / M2 / M3）Mac 打造的一键式工具，让创建 可启动的 macOS / OS X USB 安装盘 变得前所未有的简单。 它可以将你的现代 Mac 转变为一台 “系统服务机”，轻松为老款 Intel Mac 准备系统安装介质，无需折腾命令行、证书问题或复杂的磁盘操作。 🧩 项目背景 随着 Apple 全面转向自研芯片， 在新款 M ([#236](https://github.com/jaywcjlove/quick-rss/issues/236) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Keyden：一款简洁优雅的 macOS 菜单栏 TOTP 验证器](https://wangchujiang.com/quick-rss/issue/235.html) 
 
 ![](https://github.com/user-attachments/assets/d8802f63-3259-4f42-8873-3ebfd65f6287)

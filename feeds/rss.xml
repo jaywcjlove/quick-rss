@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 15 Dec 2025 14:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Dec 2025 14:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,47 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[macUSB：面向 Apple Silicon(M1/M2/M3) 的 macOS / OS X 启动盘创建工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/236.html</link>
+            <guid>236</guid>
+            <pubDate>Mon, 15 Dec 2025 14:28:29 GMT</pubDate>
+            <description><![CDATA[macUSB 是一款专为 Apple Silicon（M1 / M2 / M3）Mac 打造的一键式工具，让创建 可启动的 macOS / OS X USB 安装盘 变得前所未有的简单。 它可以将你的现代 Mac 转变为一台 “系统服务机”，轻松为老款 Intel Mac 准备系统安装介质，无需折腾命令行、证书问题或复杂的磁盘操作。 🧩 项目背景 随着 Apple 全面转向自研芯片， 在新款 M]]></description>
+            <content:encoded><![CDATA[<p>macUSB 是一款专为 Apple Silicon（M1 / M2 / M3）Mac 打造的一键式工具，让创建 可启动的 macOS / OS X USB 安装盘 变得前所未有的简单。</p>
+<p>它可以将你的现代 Mac 转变为一台 “系统服务机”，轻松为老款 Intel Mac 准备系统安装介质，无需折腾命令行、证书问题或复杂的磁盘操作。</p>
+<img alt="Image" src="https://github.com/user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653">
+<h2>🧩 项目背景</h2>
+<p>随着 Apple 全面转向自研芯片，
+在新款 Mac 上为旧款 Intel 设备创建安装介质变得异常困难：</p>
+<ul>
+<li>❌ createinstallmedia 报错</li>
+<li>❌ 旧版安装器证书过期</li>
+<li>❌ 磁盘格式与系统不兼容</li>
+<li>❌ 系统工具无法识别老版本安装包</li>
+</ul>
+<p>macUSB 正是为了解决这些问题而生。</p>
+<h2>🚀 macUSB 能做什么？</h2>
+<p>macUSB 自动完成整个流程，你只需要点击一次：</p>
+<ul>
+<li>🔍 识别 .dmg 中的系统版本</li>
+<li>💽 自动格式化并准备 USB 驱动器</li>
+<li>📦 拷贝并构建可启动安装介质</li>
+<li>🛠 对特定旧系统自动应用必要修复</li>
+</ul>
+<p>无需查教程、无需 Terminal、无需手动修补文件。</p>
+<h2>🎯 你将获得什么？</h2>
+<ul>
+<li><strong>🕰 完整的旧系统支持</strong>：可在最新 Apple Silicon Mac 上创建 十多年前的系统安装盘，例如：OS X Lion、Mountain Lion、High Sierra 等</li>
+<li><strong>⚡ 显著节省时间</strong>：自动识别系统、格式化磁盘并完成复制，全程无需干预</li>
+<li><strong>🔧 自动修复机制</strong>：针对 High Sierra / Mojave 等系统，自动处理因 Apple 证书过期导致的安装失败问题</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/236" target="_blank">#236</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653" length="0" type="image//user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653"/>
+        </item>
         <item>
             <title><![CDATA[Keyden：一款简洁优雅的 macOS 菜单栏 TOTP 验证器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/235.html</link>

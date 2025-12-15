@@ -1,5 +1,19 @@
 [
   {
+    "id": "236",
+    "url": "https://wangchujiang.com/quick-rss/issue/236.html",
+    "title": "macUSB：面向 Apple Silicon(M1/M2/M3) 的 macOS / OS X 启动盘创建工具",
+    "content_html": "<p>macUSB 是一款专为 Apple Silicon（M1 / M2 / M3）Mac 打造的一键式工具，让创建 可启动的 macOS / OS X USB 安装盘 变得前所未有的简单。</p>\n<p>它可以将你的现代 Mac 转变为一台 “系统服务机”，轻松为老款 Intel Mac 准备系统安装介质，无需折腾命令行、证书问题或复杂的磁盘操作。</p>\n<img alt=\"Image\" src=\"https://github.com/user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653\">\n<h2>🧩 项目背景</h2>\n<p>随着 Apple 全面转向自研芯片，\n在新款 Mac 上为旧款 Intel 设备创建安装介质变得异常困难：</p>\n<ul>\n<li>❌ createinstallmedia 报错</li>\n<li>❌ 旧版安装器证书过期</li>\n<li>❌ 磁盘格式与系统不兼容</li>\n<li>❌ 系统工具无法识别老版本安装包</li>\n</ul>\n<p>macUSB 正是为了解决这些问题而生。</p>\n<h2>🚀 macUSB 能做什么？</h2>\n<p>macUSB 自动完成整个流程，你只需要点击一次：</p>\n<ul>\n<li>🔍 识别 .dmg 中的系统版本</li>\n<li>💽 自动格式化并准备 USB 驱动器</li>\n<li>📦 拷贝并构建可启动安装介质</li>\n<li>🛠 对特定旧系统自动应用必要修复</li>\n</ul>\n<p>无需查教程、无需 Terminal、无需手动修补文件。</p>\n<h2>🎯 你将获得什么？</h2>\n<ul>\n<li><strong>🕰 完整的旧系统支持</strong>：可在最新 Apple Silicon Mac 上创建 十多年前的系统安装盘，例如：OS X Lion、Mountain Lion、High Sierra 等</li>\n<li><strong>⚡ 显著节省时间</strong>：自动识别系统、格式化磁盘并完成复制，全程无需干预</li>\n<li><strong>🔧 自动修复机制</strong>：针对 High Sierra / Mojave 等系统，自动处理因 Apple 证书过期导致的安装失败问题</li>\n</ul>",
+    "summary": "macUSB 是一款专为 Apple Silicon（M1 / M2 / M3）Mac 打造的一键式工具，让创建 可启动的 macOS / OS X USB 安装盘 变得前所未有的简单。 它可以将你的现代 Mac 转变为一台 “系统服务机”，轻松为老款 Intel Mac 准备系统安装介质，无需折腾命令行、证书问题或复杂的磁盘操作。 ## 🧩 项目背景 随着 Apple 全面转向自研芯片， 在新",
+    "banner_image": null,
+    "date_published": "2025-12-15T14:28:29Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "macUSB 是一款专为 Apple Silicon（M1 / M2 / M3）Mac 打造的一键式工具，让创建 可启动的 macOS / OS X USB 安装盘 变得前所未有的简单。\n\n它可以将你的现代 Mac 转变为一台 “系统服务机”，轻松为老款 Intel Mac 准备系统安装介质，无需折腾命令行、证书问题或复杂的磁盘操作。\n\n<img  alt=\"Image\" src=\"https://github.com/user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653\" />\n\n## 🧩 项目背景\n\n随着 Apple 全面转向自研芯片，\n在新款 Mac 上为旧款 Intel 设备创建安装介质变得异常困难：\n\n- ❌ createinstallmedia 报错\n- ❌ 旧版安装器证书过期\n- ❌ 磁盘格式与系统不兼容\n- ❌ 系统工具无法识别老版本安装包\n\nmacUSB 正是为了解决这些问题而生。\n\n## 🚀 macUSB 能做什么？\n\nmacUSB 自动完成整个流程，你只需要点击一次：\n\n- 🔍 识别 .dmg 中的系统版本\n- 💽 自动格式化并准备 USB 驱动器\n- 📦 拷贝并构建可启动安装介质\n- 🛠 对特定旧系统自动应用必要修复\n\n无需查教程、无需 Terminal、无需手动修补文件。\n\n## 🎯 你将获得什么？\n\n- **🕰 完整的旧系统支持**：可在最新 Apple Silicon Mac 上创建 十多年前的系统安装盘，例如：OS X Lion、Mountain Lion、High Sierra 等\n- **⚡ 显著节省时间**：自动识别系统、格式化磁盘并完成复制，全程无需干预\n- **🔧 自动修复机制**：针对 High Sierra / Mojave 等系统，自动处理因 Apple 证书过期导致的安装失败问题"
+  },
+  {
     "id": "235",
     "url": "https://wangchujiang.com/quick-rss/issue/235.html",
     "title": "Keyden：一款简洁优雅的 macOS 菜单栏 TOTP 验证器",

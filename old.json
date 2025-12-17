@@ -1,5 +1,19 @@
 [
   {
+    "id": "237",
+    "url": "https://wangchujiang.com/quick-rss/issue/237.html",
+    "title": "PortKiller：一款用于查找并终止端口进程的 macOS 菜单栏应用。",
+    "content_html": "<p>这是一款原生 macOS 菜单栏应用，用于快速查找并终止占用端口的进程。\n非常适合开发者在本地开发过程中，快速释放 <strong>3000</strong>、<strong>8080</strong>、<strong>5173</strong> 等常用端口，无需再使用终端命令。</p>\n<img alt=\"PortKiller\" src=\"https://github.com/user-attachments/assets/3e2cf912-71ab-447a-8870-7088206b5b4e\">",
+    "summary": "这是一款原生 macOS 菜单栏应用，用于快速查找并终止占用端口的进程。 非常适合开发者在本地开发过程中，快速释放 **3000**、**8080**、**5173** 等常用端口，无需再使用终端命令。",
+    "banner_image": null,
+    "date_published": "2025-12-17T18:05:54Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一款原生 macOS 菜单栏应用，用于快速查找并终止占用端口的进程。\n非常适合开发者在本地开发过程中，快速释放 **3000**、**8080**、**5173** 等常用端口，无需再使用终端命令。\n\n<img alt=\"PortKiller\" src=\"https://github.com/user-attachments/assets/3e2cf912-71ab-447a-8870-7088206b5b4e\" />"
+  },
+  {
     "id": "236",
     "url": "https://wangchujiang.com/quick-rss/issue/236.html",
     "title": "macUSB：面向 Apple Silicon(M1/M2/M3) 的 macOS / OS X 启动盘创建工具",

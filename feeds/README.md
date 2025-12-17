@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [PortKiller：一款用于查找并终止端口进程的 macOS 菜单栏应用。](https://wangchujiang.com/quick-rss/issue/237.html) 
+
+![](https://github.com/user-attachments/assets/3e2cf912-71ab-447a-8870-7088206b5b4e)
+
+这是一款原生 macOS 菜单栏应用，用于快速查找并终止占用端口的进程。 非常适合开发者在本地开发过程中，快速释放 3000、8080、5173 等常用端口，无需再使用终端命令。 ([#237](https://github.com/jaywcjlove/quick-rss/issues/237) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [macUSB：面向 Apple Silicon(M1/M2/M3) 的 macOS / OS X 启动盘创建工具](https://wangchujiang.com/quick-rss/issue/236.html) 
 
 ![](https://github.com/user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653)

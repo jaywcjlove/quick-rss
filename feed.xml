@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-17T18:06:24.511Z</updated>
+    <updated>2025-12-17T18:08:51.954Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -115,6 +115,33 @@
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/235" target="_blank">#235</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deskmark：支持在桌面添加文本与图标水印，适合录制视频时使用]]></title>
+        <id>234</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/234.html"/>
+        <updated>2025-12-11T14:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。 📥 https://apps.apple.com/app/6755948110 💬 https://github.com/jaywcjlove/deskmark 你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。]]></summary>
+        <content type="html"><![CDATA[<p>Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。</p>
+<p>📥 <a href="https://apps.apple.com/app/6755948110">https://apps.apple.com/app/6755948110</a><br>
+💬 <a href="https://github.com/jaywcjlove/deskmark">https://github.com/jaywcjlove/deskmark</a></p>
+<p>你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。</p>
+<p><img src="https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa" alt=""></p>
+<img alt="Deskmark" src="https://github.com/user-attachments/assets/2cf633e4-e99c-44aa-8b48-8d2fd38fc3ec">
+<img alt="Deskmark" src="https://github.com/user-attachments/assets/b53053e1-e140-49c3-8a1e-fbfa49907da3"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/234" target="_blank">#234</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>

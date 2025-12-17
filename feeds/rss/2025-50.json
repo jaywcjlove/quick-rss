@@ -1,5 +1,19 @@
 [
   {
+    "id": "234",
+    "url": "https://wangchujiang.com/quick-rss/issue/234.html",
+    "title": "Deskmark：支持在桌面添加文本与图标水印，适合录制视频时使用",
+    "content_html": "<p>Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。</p>\n<p>📥 <a href=\"https://apps.apple.com/app/6755948110\">https://apps.apple.com/app/6755948110</a><br>\n💬 <a href=\"https://github.com/jaywcjlove/deskmark\">https://github.com/jaywcjlove/deskmark</a></p>\n<p>你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。</p>\n<p><img src=\"https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa\" alt=\"\"></p>\n<img alt=\"Deskmark\" src=\"https://github.com/user-attachments/assets/2cf633e4-e99c-44aa-8b48-8d2fd38fc3ec\">\n<img alt=\"Deskmark\" src=\"https://github.com/user-attachments/assets/b53053e1-e140-49c3-8a1e-fbfa49907da3\">",
+    "summary": "Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。 📥 https://apps.apple.com/app/6755948110 💬 https://github.com/jaywcjlove/deskmark 你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。",
+    "banner_image": "https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa",
+    "date_published": "2025-12-11T14:04:12Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。\n\n📥 https://apps.apple.com/app/6755948110  \n💬 https://github.com/jaywcjlove/deskmark  \n\n你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。\n\n![](https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa)\n\n<img alt=\"Deskmark\" src=\"https://github.com/user-attachments/assets/2cf633e4-e99c-44aa-8b48-8d2fd38fc3ec\" />\n\n<img alt=\"Deskmark\" src=\"https://github.com/user-attachments/assets/b53053e1-e140-49c3-8a1e-fbfa49907da3\" />"
+  },
+  {
     "id": "233",
     "url": "https://wangchujiang.com/quick-rss/issue/233.html",
     "title": "OneClip：一款开源的 macOS 剪贴板管理工具",

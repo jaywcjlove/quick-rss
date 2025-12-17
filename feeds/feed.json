@@ -50,6 +50,19 @@
             }
         },
         {
+            "id": "234",
+            "content_html": "<p>Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。</p>\n<p>📥 <a href=\"https://apps.apple.com/app/6755948110\">https://apps.apple.com/app/6755948110</a><br>\n💬 <a href=\"https://github.com/jaywcjlove/deskmark\">https://github.com/jaywcjlove/deskmark</a></p>\n<p>你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。</p>\n<p><img src=\"https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa\" alt=\"\"></p>\n<img alt=\"Deskmark\" src=\"https://github.com/user-attachments/assets/2cf633e4-e99c-44aa-8b48-8d2fd38fc3ec\">\n<img alt=\"Deskmark\" src=\"https://github.com/user-attachments/assets/b53053e1-e140-49c3-8a1e-fbfa49907da3\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/234\" target=\"_blank\">#234</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/234.html",
+            "title": "Deskmark：支持在桌面添加文本与图标水印，适合录制视频时使用",
+            "summary": "Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。 📥 https://apps.apple.com/app/6755948110 💬 https://github.com/jaywcjlove/deskmark 你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。",
+            "image": "https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa",
+            "date_modified": "2025-12-11T14:04:12.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "233",
             "content_html": "<p>OneClip 是一款为 macOS 打造的专业级剪贴板管理工具。采用 100% SwiftUI 原生技术开发，实现了轻量、高效、隐私可控的剪贴板历史管理体验。</p>\n<img alt=\"OneClip\" src=\"https://github.com/user-attachments/assets/991506dc-9848-420d-9978-a758c9023125\">\n<img alt=\"OneClip\" src=\"https://github.com/user-attachments/assets/23739303-8c82-4303-a754-7cbc77dc7dfd\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/233\" target=\"_blank\">#233</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/233.html",

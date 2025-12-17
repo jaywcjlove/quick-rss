@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 17 Dec 2025 18:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 18:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -104,6 +104,26 @@
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
             <enclosure url="https://github.com/user-attachments/assets/d8802f63-3259-4f42-8873-3ebfd65f6287" length="0" type="image//user-attachments/assets/d8802f63-3259-4f42-8873-3ebfd65f6287"/>
+        </item>
+        <item>
+            <title><![CDATA[Deskmark：支持在桌面添加文本与图标水印，适合录制视频时使用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/234.html</link>
+            <guid>234</guid>
+            <pubDate>Thu, 11 Dec 2025 14:04:12 GMT</pubDate>
+            <description><![CDATA[Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。 📥 https://apps.apple.com/app/6755948110 💬 https://github.com/jaywcjlove/deskmark 你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。]]></description>
+            <content:encoded><![CDATA[<p>Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。</p>
+<p>📥 <a href="https://apps.apple.com/app/6755948110">https://apps.apple.com/app/6755948110</a><br>
+💬 <a href="https://github.com/jaywcjlove/deskmark">https://github.com/jaywcjlove/deskmark</a></p>
+<p>你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。</p>
+<p><img src="https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa" alt=""></p>
+<img alt="Deskmark" src="https://github.com/user-attachments/assets/2cf633e4-e99c-44aa-8b48-8d2fd38fc3ec">
+<img alt="Deskmark" src="https://github.com/user-attachments/assets/b53053e1-e140-49c3-8a1e-fbfa49907da3"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/234" target="_blank">#234</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa" length="0" type="image//user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa"/>
         </item>
         <item>
             <title><![CDATA[OneClip：一款开源的 macOS 剪贴板管理工具]]></title>

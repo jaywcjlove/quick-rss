@@ -26,6 +26,11 @@ macUSB 是一款专为 Apple Silicon（M1 / M2 / M3）Mac 打造的一键式工�
 ![](https://github.com/user-attachments/assets/d8802f63-3259-4f42-8873-3ebfd65f6287)
 
 Keyden 是一款专为 macOS 打造的 简洁、优雅且安全的菜单栏 TOTP 双因素认证器。 它专注于高效、安全与原生体验，让你无需打开臃肿的应用，即可快速获取一次性验证码。 所有 TOTP 密钥均 安全存储于 macOS 钥匙串（Keychain），数据离线优先、本地加密，真正做到隐私可控、使用安心。 ✨ 核心特性 🔐 安全存储 TOTP 密钥加密保存在 macOS Keychain，系统 ([#235](https://github.com/jaywcjlove/quick-rss/issues/235) - [@jaywcjlove](https://github.com/jaywcjlove))
+## [Deskmark：支持在桌面添加文本与图标水印，适合录制视频时使用](https://wangchujiang.com/quick-rss/issue/234.html) 
+
+![](https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa)
+
+Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。 📥 https://apps.apple.com/app/6755948110 💬 https://github.com/jaywcjlove/deskmark 你可以将图片和文本水印平铺在桌面上，并自由调整角度、文本大小、图标、平铺间距以及文本颜色，实现个性化的水印效果。 ([#234](https://github.com/jaywcjlove/quick-rss/issues/234) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [OneClip：一款开源的 macOS 剪贴板管理工具](https://wangchujiang.com/quick-rss/issue/233.html) 
 
 ![](https://github.com/user-attachments/assets/991506dc-9848-420d-9978-a758c9023125)

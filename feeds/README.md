@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [LlamaBarn：菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。](https://wangchujiang.com/quick-rss/issue/238.html) 
+
+![](https://github.com/user-attachments/assets/6fc74244-2353-4fd5-8ada-6849950d2c7a)
+
+LlamaBarn 是一个小巧的菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。 从内置模型目录安装模型 — 仅显示可以在你 Mac 上运行的模型。 选择已安装的模型运行 — LlamaBarn 会自动配置并启动服务器，地址为 http://localhost:2276。 通过 API 或网页界面使用正在运行的模型 — 两者都在 http://localhost:2276。 底层  ([#238](https://github.com/jaywcjlove/quick-rss/issues/238) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [PortKiller：一款用于查找并终止端口进程的 macOS 菜单栏应用。](https://wangchujiang.com/quick-rss/issue/237.html) 
 
 ![](https://github.com/user-attachments/assets/3e2cf912-71ab-447a-8870-7088206b5b4e)

@@ -10,6 +10,10 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.1.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.1.0)
+
+1. feat: 新增 OPML 导入与导出功能
+
 ## [v2.0.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.0.0)
 
 1. feat: 支持 macOS 26 并优化性能

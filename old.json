@@ -1,5 +1,19 @@
 [
   {
+    "id": "238",
+    "url": "https://wangchujiang.com/quick-rss/issue/238.html",
+    "title": "LlamaBarn：菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。",
+    "content_html": "<p>LlamaBarn 是一个小巧的菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。</p>\n<img alt=\"LlamaBarn\" src=\"https://github.com/user-attachments/assets/6fc74244-2353-4fd5-8ada-6849950d2c7a\">\n<ul>\n<li>从内置模型目录安装模型 — 仅显示可以在你 Mac 上运行的模型。</li>\n<li>选择已安装的模型运行 — LlamaBarn 会自动配置并启动服务器，地址为 <code>http://localhost:2276</code>。</li>\n<li>通过 API 或网页界面使用正在运行的模型 — 两者都在 <code>http://localhost:2276</code>。</li>\n<li>底层 LlamaBarn 使用 <code>llama.cpp</code>，运行模型无需任何外部依赖。</li>\n</ul>\n<h2>使用场景</h2>\n<p>可连接任何支持自定义 API 的应用：</p>\n<ul>\n<li>聊天界面，如 Chatbox 或 OpenWebUI</li>\n<li>命令行助手，如 OpenCode 或 Codex</li>\n<li>编辑器，如 VS Code 或 Zed</li>\n<li>编辑器扩展，如 Cline 或 Continue</li>\n<li>自定义脚本，可使用 <code>curl</code> 或 AI SDK 库</li>\n</ul>\n<p>或者直接使用内置网页界面（<code>http://localhost:2276</code>）与正在运行的模型进行对话。</p>",
+    "summary": "LlamaBarn 是一个小巧的菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。 * 从内置模型目录安装模型 — 仅显示可以在你 Mac 上运行的模型。 * 选择已安装的模型运行 — LlamaBarn 会自动配置并启动服务器，地址为 `http://localhost:2276`。 * 通过 API 或网页界面使用正在运行的模型 — 两者都在 `http://localhost:",
+    "banner_image": null,
+    "date_published": "2025-12-19T19:20:53Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "LlamaBarn 是一个小巧的菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。\n\n<img alt=\"LlamaBarn\" src=\"https://github.com/user-attachments/assets/6fc74244-2353-4fd5-8ada-6849950d2c7a\" />\n\n* 从内置模型目录安装模型 — 仅显示可以在你 Mac 上运行的模型。\n* 选择已安装的模型运行 — LlamaBarn 会自动配置并启动服务器，地址为 `http://localhost:2276`。\n* 通过 API 或网页界面使用正在运行的模型 — 两者都在 `http://localhost:2276`。\n* 底层 LlamaBarn 使用 `llama.cpp`，运行模型无需任何外部依赖。\n\n## 使用场景\n\n可连接任何支持自定义 API 的应用：\n\n* 聊天界面，如 Chatbox 或 OpenWebUI\n* 命令行助手，如 OpenCode 或 Codex\n* 编辑器，如 VS Code 或 Zed\n* 编辑器扩展，如 Cline 或 Continue\n* 自定义脚本，可使用 `curl` 或 AI SDK 库\n\n或者直接使用内置网页界面（`http://localhost:2276`）与正在运行的模型进行对话。"
+  },
+  {
     "id": "237",
     "url": "https://wangchujiang.com/quick-rss/issue/237.html",
     "title": "PortKiller：一款用于查找并终止端口进程的 macOS 菜单栏应用。",

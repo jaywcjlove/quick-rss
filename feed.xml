@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-17T18:08:51.954Z</updated>
+    <updated>2025-12-19T19:22:18.591Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,44 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[LlamaBarn：菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。]]></title>
+        <id>238</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/238.html"/>
+        <updated>2025-12-19T19:20:53.000Z</updated>
+        <summary type="html"><![CDATA[LlamaBarn 是一个小巧的菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。 从内置模型目录安装模型 — 仅显示可以在你 Mac 上运行的模型。 选择已安装的模型运行 — LlamaBarn 会自动配置并启动服务器，地址为 http://localhost:2276。 通过 API 或网页界面使用正在运行的模型 — 两者都在 http://localhost:2276。 底层 ]]></summary>
+        <content type="html"><![CDATA[<p>LlamaBarn 是一个小巧的菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。</p>
+<img alt="LlamaBarn" src="https://github.com/user-attachments/assets/6fc74244-2353-4fd5-8ada-6849950d2c7a">
+<ul>
+<li>从内置模型目录安装模型 — 仅显示可以在你 Mac 上运行的模型。</li>
+<li>选择已安装的模型运行 — LlamaBarn 会自动配置并启动服务器，地址为 <code>http://localhost:2276</code>。</li>
+<li>通过 API 或网页界面使用正在运行的模型 — 两者都在 <code>http://localhost:2276</code>。</li>
+<li>底层 LlamaBarn 使用 <code>llama.cpp</code>，运行模型无需任何外部依赖。</li>
+</ul>
+<h2>使用场景</h2>
+<p>可连接任何支持自定义 API 的应用：</p>
+<ul>
+<li>聊天界面，如 Chatbox 或 OpenWebUI</li>
+<li>命令行助手，如 OpenCode 或 Codex</li>
+<li>编辑器，如 VS Code 或 Zed</li>
+<li>编辑器扩展，如 Cline 或 Continue</li>
+<li>自定义脚本，可使用 <code>curl</code> 或 AI SDK 库</li>
+</ul>
+<p>或者直接使用内置网页界面（<code>http://localhost:2276</code>）与正在运行的模型进行对话。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/238" target="_blank">#238</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PortKiller：一款用于查找并终止端口进程的 macOS 菜单栏应用。]]></title>
         <id>237</id>

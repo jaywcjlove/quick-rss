@@ -63,6 +63,8 @@ jobs:
             - feedback.zh.md
             - privacy-policy.md
             - privacy-policy.zh.md
+            - feeds/feed_favorites.md
+            - feeds/feed_favorites.zh.md
             - feeds/README.md
           footer: |
             <a href="./terms-of-service.html" target="_blank">Terms of Service</a> • 

@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./feed_favorites.zh.md">中文</a>
+</p>
+<!--rehype:style=float: right; bottom: -36px; position: relative;-->
+
 RSS Feed Favorites
 ===
 

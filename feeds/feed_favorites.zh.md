@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./feed_favorites.md">English</a>
+</p>
+<!--rehype:style=float: right; bottom: -36px; position: relative;-->
+
 RSS 订阅收藏
 ===
 

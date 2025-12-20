@@ -10,6 +10,22 @@ Changelog
 <img alt="Quick RSS AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51" />
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.2.0)
+
+1. feat: Add move to top menu.
+2. feat: Add pull-to-refresh for sources on iOS.
+3. feat: Add count display during loading on iOS.
+4. perf: Optimize page load performance.
+5. perf: Optimize loading timeout duration.
+6. perf: Optimize refresh loading animation.
+7. style: Improve unread count loading animation.
+8. fix: Optimize category sorting issue.
+9. fix: Fix incorrect state when deleting data.
+10. fix: Fix incorrect state loading issue.
+11. fix: Fix file import permission issue on iOS.
+12. fix: Fix occasional crash during app initialization on iOS.
+
+
 ## [v2.1.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.1.0)
 
 1. feat: Add OPML import and export support

@@ -10,6 +10,21 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.2.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.2.0)
+
+1. feat: 新增移动到顶部菜单。
+2. feat: 在 iOS 上为资源添加下拉刷新功能。
+3. feat: 在 iOS 上添加加载时的计数显示。
+4. perf: 优化页面加载性能。
+5. perf: 优化加载超时时长。
+6. perf: 优化刷新加载动画。
+7. style: 改进未读计数加载动画。
+8. fix: 优化分类排序问题。
+9. fix: 修复删除数据时状态错误的问题。
+10. fix: 修复加载状态错误的问题。
+11. fix: 修复 iOS 上文件导入权限问题。
+12. fix: 修复 iOS 端初始化应用偶发崩溃问题。
+
 ## [v2.1.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.1.0)
 
 1. feat: 新增 OPML 导入与导出功能

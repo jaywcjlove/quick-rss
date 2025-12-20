@@ -6,6 +6,8 @@
 RSS 订阅收藏
 ===
 
+这是我个人整理并收藏的 RSS 订阅源列表，包含了我关注的各类网站和资讯源，方便快速获取最新的信息更新。如果你有优质订阅源欢迎分享，也可以直接更新 [`feeds/opml.xml`](https://github.com/jaywcjlove/quick-rss/blob/main/feeds/opml.xml)
+
 ```
 https://wangchujiang.com/quick-rss/opml.xml
 ```

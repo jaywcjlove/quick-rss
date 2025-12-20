@@ -6,6 +6,8 @@
 RSS Feed Favorites
 ===
 
+This is my personal collection of RSS feeds, including various websites and news sources I follow, making it easy to quickly get the latest updates. If you have any quality feeds to share, feel free to contribute, or you can directly update the [`feeds/opml.xml`](https://github.com/jaywcjlove/quick-rss/blob/main/feeds/opml.xml).
+
 ```
 https://wangchujiang.com/quick-rss/opml.xml
 ```

@@ -6,8 +6,9 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.md">English</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/quick-rss/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">联系&支持</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/quick-rss/issues/new?template=bug_report_cn.yml">联系&支持</a> • 
     <a href="./feeds/">RSS 源推荐</a> • 
+        <a href="./feeds/feed_favorites.md">订阅收藏</a> • 
     <a href="https://github.com/jaywcjlove/quick-rss/releases">变更日志</a>
   </p>
   <p>

@@ -8,8 +8,9 @@
   <!--rehype:style=border: 0;-->
   <p>
     <a href="./README.zh.md">中文</a> • 
-    <a target="_blank" href="https://github.com/jaywcjlove/quick-rss/issues/new?assignees=&labels=support%2Cfeedback%2Cquestion&projects=&template=bug_report.yml&title=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Support+%26+Feedback%3A+Quick+RSS">Contact & Support</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/quick-rss/issues/new?template=bug_report.yml">Contact & Support</a> • 
     <a href="./feeds/">RSS Feed</a> • 
+    <a href="./feeds/feed_favorites.md">Feed Favorites</a> • 
     <a href="https://github.com/jaywcjlove/quick-rss/releases">Changelog</a>
   </p>
   <p>

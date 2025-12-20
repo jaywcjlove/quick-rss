@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Alertivity：菜单栏中的实时系统健康状态](https://wangchujiang.com/quick-rss/issue/241.html) 
+
+![](https://github.com/user-attachments/assets/034e3860-5cf2-406d-965b-bc55b9165cb2)
+
+Alertivity 是一款 macOS 菜单栏工具，它会定期采样 CPU、内存、磁盘、网络和进程数据，帮助你及早发现系统问题。它将系统健康状态总结为 正常、升高 或 严重，突出显示触发该状态的指标，并提供对问题进程的快速操作。 特性 实时系统采样：每几秒钟更新一次系统状态，状态由 CPU、内存、磁盘和网络的最高严重性指标驱动（带有轻微滞后避免频繁切换）。 菜单栏指示器：显示总体状态或特定指标（C ([#241](https://github.com/jaywcjlove/quick-rss/issues/241) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [ProxyCast：把你的 AI 客户端额度用到任何地方](https://wangchujiang.com/quick-rss/issue/240.html) 
 
 ![](https://github.com/user-attachments/assets/e4e93c46-9fa6-4e6b-9bef-df6304660de9)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-19T19:22:18.591Z</updated>
+    <updated>2025-12-20T06:01:39.169Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,96 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Osaurus：原生 Apple Silicon LLM 服务器，支持菜单栏、命令行和 macOS 26 的 Apple 模型。]]></title>
+        <id>239</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/239.html"/>
+        <updated>2025-12-20T06:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Osaurus 是一款原生 macOS 的一体化 LLM 服务器，支持 MCP（Model Context Protocol）。 它可以在 Apple Silicon 上同时运行 本地与远程大语言模型，并提供与 OpenAI 兼容的 API、工具调用能力以及内置插件生态。 什么是 Osaurus？ Osaurus 将多个关键能力整合到一个统一的 macOS 应用中，包括： MLX 运行时 —— 基]]></summary>
+        <content type="html"><![CDATA[<p><strong>Osaurus</strong> 是一款原生 macOS 的一体化 <strong>LLM 服务器</strong>，支持 <strong>MCP（Model Context Protocol）</strong>。
+它可以在 Apple Silicon 上同时运行 <strong>本地与远程大语言模型</strong>，并提供与 <strong>OpenAI 兼容的 API</strong>、工具调用能力以及内置插件生态。</p>
+<img alt="Osaurus" src="https://github.com/user-attachments/assets/c16197bc-0b6d-461d-a77b-df4dd354e485">
+<h2>什么是 Osaurus？</h2>
+<p>Osaurus 将多个关键能力整合到一个统一的 macOS 应用中，包括：</p>
+<ul>
+<li><strong>MLX 运行时</strong> —— 基于 MLX，为 Apple Silicon 优化的本地模型推理</li>
+<li><strong>远程模型提供商</strong> —— 可连接 OpenAI、OpenRouter、Ollama、LM Studio 以及任何兼容 OpenAI API 的服务</li>
+<li><strong>OpenAI / Anthropic / Ollama API 兼容</strong> —— 可直接作为现有工具的替代后端，无需改代码</li>
+<li><strong>MCP 服务器</strong> —— 通过 Model Context Protocol 向 AI Agent 暴露工具能力</li>
+<li><strong>远程 MCP 提供商</strong> —— 聚合外部 MCP 服务器的工具，统一管理</li>
+<li><strong>插件系统</strong> —— 支持社区插件和自定义工具扩展</li>
+<li><strong>开发者工具</strong> —— 内置请求分析、服务探索器，便于调试</li>
+<li><strong>Apple Foundation Models</strong> —— 在 macOS 26+（Tahoe）上直接使用系统级模型</li>
+</ul>
+<h2>功能一览</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>功能</th><th>描述</th></tr></thead><tbody><tr><td>本地 LLM 服务器</td><td>本地运行 Llama、Qwen、Gemma、Mistral 等模型</td></tr><tr><td>远程模型支持</td><td>OpenAI、OpenRouter、Ollama、LM Studio 或自定义接口</td></tr><tr><td>OpenAI 兼容接口</td><td><code>/v1/chat/completions</code>，支持流式输出与工具调用</td></tr><tr><td>Anthropic 兼容</td><td><code>/messages</code> 接口，可直接用于 Claude Code 与官方 SDK</td></tr><tr><td>MCP 服务器</td><td>连接 Cursor、Claude Desktop 等 MCP 客户端</td></tr><tr><td>远程 MCP</td><td>聚合多个 MCP 服务器的工具能力</td></tr><tr><td>工具与插件</td><td>浏览器自动化、文件系统、Git、Web 搜索等</td></tr><tr><td>自定义主题</td><td>创建、导入、导出主题，支持完整配色定制</td></tr><tr><td>开发者工具</td><td>请求洞察、API Explorer、实时接口测试</td></tr><tr><td>菜单栏聊天</td><td>快捷聊天浮窗，支持会话历史与上下文追踪（⌘;）</td></tr><tr><td>模型管理</td><td>从 Hugging Face 下载并管理本地模型</td></tr></tbody></table><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/239" target="_blank">#239</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LlamaBarn：菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。]]></title>
         <id>238</id>
@@ -39,9 +129,9 @@
 <li>自定义脚本，可使用 <code>curl</code> 或 AI SDK 库</li>
 </ul>
 <p>或者直接使用内置网页界面（<code>http://localhost:2276</code>）与正在运行的模型进行对话。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/238" target="_blank">#238</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/238" target="_blank">#238</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -62,9 +152,9 @@
         <content type="html"><![CDATA[<p>这是一款原生 macOS 菜单栏应用，用于快速查找并终止占用端口的进程。
 非常适合开发者在本地开发过程中，快速释放 <strong>3000</strong>、<strong>8080</strong>、<strong>5173</strong> 等常用端口，无需再使用终端命令。</p>
 <img alt="PortKiller" src="https://github.com/user-attachments/assets/3e2cf912-71ab-447a-8870-7088206b5b4e"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/237" target="_blank">#237</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/237" target="_blank">#237</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -110,9 +200,9 @@
 <li><strong>⚡ 显著节省时间</strong>：自动识别系统、格式化磁盘并完成复制，全程无需干预</li>
 <li><strong>🔧 自动修复机制</strong>：针对 High Sierra / Mojave 等系统，自动处理因 Apple 证书过期导致的安装失败问题</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/236" target="_blank">#236</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/236" target="_blank">#236</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -150,9 +240,9 @@
 <li>🔄 <strong>导入 / 导出</strong> 轻松备份和恢复所有令牌数据</li>
 <li>🚀 <strong>开机启动</strong> 支持随 macOS 自动启动，随时可用</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/235" target="_blank">#235</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/235" target="_blank">#235</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -177,9 +267,9 @@
 <p><img src="https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa" alt=""></p>
 <img alt="Deskmark" src="https://github.com/user-attachments/assets/2cf633e4-e99c-44aa-8b48-8d2fd38fc3ec">
 <img alt="Deskmark" src="https://github.com/user-attachments/assets/b53053e1-e140-49c3-8a1e-fbfa49907da3"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/234" target="_blank">#234</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/234" target="_blank">#234</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -200,9 +290,9 @@
         <content type="html"><![CDATA[<p>OneClip 是一款为 macOS 打造的专业级剪贴板管理工具。采用 100% SwiftUI 原生技术开发，实现了轻量、高效、隐私可控的剪贴板历史管理体验。</p>
 <img alt="OneClip" src="https://github.com/user-attachments/assets/991506dc-9848-420d-9978-a758c9023125">
 <img alt="OneClip" src="https://github.com/user-attachments/assets/23739303-8c82-4303-a754-7cbc77dc7dfd"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/233" target="_blank">#233</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/233" target="_blank">#233</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -326,9 +416,9 @@
 </span><span class="code-line line-number" line="12">      <span class="token punctuation">-</span> UPSTASH_URL=上面 https 开头的 HTTPS ENDPOINT
 </span><span class="code-line line-number" line="13">      <span class="token punctuation">-</span> UPSTASH_TOKEN=上面的 TOKEN
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/232" target="_blank">#232</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/232" target="_blank">#232</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -363,9 +453,9 @@
 <li>✍️ 内容创作 / 文案 / 报告 / 分析 — 文本 / 数据 / 图表生成与整理</li>
 <li>📈 数据分析与报告 — 帮助分析数据、生成可视化结果、撰写总结报告</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/231" target="_blank">#231</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/231" target="_blank">#231</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -398,9 +488,9 @@
 <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap nullpointerdepressivedisorder/tap
 </span><span class="code-line line-number" line="2">brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> middledrag
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/230" target="_blank">#230</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/230" target="_blank">#230</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -434,9 +524,9 @@
 </ul>
 <p>iDescriptor 目标是整合过去需要多个命令行工具、手动配置驱动、兼容性差的平台工具，提供一个统一、易用、安全的图形化解决方案。<br>
 项目使用 C++ + Qt 开发，以 AGPL-3.0 许可发布 —— 完全免费、开源、尊重用户隐私。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/229" target="_blank">#229</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/229" target="_blank">#229</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -459,9 +549,9 @@
 <img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/b76f5762-b69a-43b6-a8b9-c3284400893e">
 <img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/570a912a-cc69-42b6-ab74-f90a9201a6fd">
 <img alt="LaunchpadPlus" src="https://github.com/user-attachments/assets/0b65894c-c883-4d30-a9e1-e089d7fe361c"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/228" target="_blank">#228</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/228" target="_blank">#228</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -491,9 +581,9 @@
 <li>Quick Launcher 可实现快速导航与搜索</li>
 <li>开发者模式</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/227" target="_blank">#227</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/227" target="_blank">#227</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -537,9 +627,9 @@
 <li>还有更多的功能等待你发现</li>
 <li>准备好提升您的工作效率了吗？</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/226" target="_blank">#226</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/226" target="_blank">#226</a> • 
       <a href="https://github.com/Wcowin" target="_blank">@Wcowin</a>
       ]]></content>
         <author>
@@ -562,9 +652,9 @@
 还内置智能选词、TTS 发音、48 种语言支持，以及高度可定制的快捷键与窗口服务。
 免费开源，专为追求高效、多源对比翻译的 macOS 用户打造——安装即用，让翻译快人一步！</p>
 <img alt="Easydict" src="https://github.com/user-attachments/assets/11799508-aeea-4e36-b53e-c6c083803aa5"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/225" target="_blank">#225</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/225" target="_blank">#225</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -650,9 +740,9 @@
 <li>请查看 Code of Conduct，遵守社区规范。  ￼</li>
 <li>如果你想新增支持、改进补全规则、添加新的配置选项等，都可以参与。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/224" target="_blank">#224</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/224" target="_blank">#224</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -674,9 +764,9 @@
 <img alt="Asspp" src="https://github.com/user-attachments/assets/9d4945de-9fcf-47f5-86fc-c5ffec8ada3f">
 <p>通过 Asspp，你可以轻松下载历史版本、购买免费应用、分享 IPA 文件——无需越狱设备。让你的 App Store 管理更高效、更便捷。</p>
 <img alt="Asspp" src="https://github.com/user-attachments/assets/cce3b3c2-27ea-4c8f-8233-76ac094292c7"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/223" target="_blank">#223</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/223" target="_blank">#223</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -712,9 +802,9 @@
 <li><strong>安全存储</strong>： 所有 API Key 安全保存于 macOS 钥匙串。</li>
 <li><strong>无障碍优先</strong>： 完整支持键盘操作与系统级自动化，提升使用体验。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/222" target="_blank">#222</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/222" target="_blank">#222</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -734,9 +824,9 @@
         <summary type="html"><![CDATA[这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。]]></summary>
         <content type="html"><![CDATA[<p>这是一款适用于 macOS 的应用程序，可轻松对 iOS 应用进行重新签名，并将其打包为可安装的 IPA 文件。它支持多种输入类型，包括 .ipa、.deb、.app 和 .xcarchive，是开发者和高级用户进行应用签名与安装的理想工具。</p>
 <img alt="iOS App Signer" src="https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/221" target="_blank">#221</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/221" target="_blank">#221</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -763,9 +853,9 @@
 <li><strong>轻量的命令行工具链</strong>： 包含两款命令行工具：gungs（服务器端）与 gungc（客户端）。可通过项目 Release 页面下载并快速部署。</li>
 <li><strong>面向生产的设计要点</strong>： 多路复用与长连接设计降低连接开销，QUIC 支持在不可靠网络下更稳定；插件化使得扩展、认证与流量分析可以灵活集成到现有运维流程中。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/220" target="_blank">#220</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/220" target="_blank">#220</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -791,9 +881,9 @@
 <li>极速性能 —— 基于现代 macOS 技术优化，启动快、响应快且更节省内存。</li>
 <li>极简现代界面 —— 去除干扰，界面以网页内容为中心。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/219" target="_blank">#219</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/219" target="_blank">#219</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -820,9 +910,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><img src="https://github.com/user-attachments/assets/6aa63a60-063b-4bc0-a8ae-1965e17c27ec" alt="Keyzer"></p>
 <p><img src="https://github.com/user-attachments/assets/a0b8068c-3011-429b-9947-b71ea79d08eb" alt="Keyzer"></p>
 <p><img src="https://github.com/user-attachments/assets/6649a1cf-fd4d-4e61-808a-dc394e40ee6d" alt="Keyzer"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/218" target="_blank">#218</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/218" target="_blank">#218</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -844,9 +934,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <img width="1728" height="1760" alt="Image" src="https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f">
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/f197dfa9-ef54-4a7d-b6af-630a0f0d2cac?title=MacsyZones&#x26;rehype=video"></video>
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/101d3296-889f-4cfb-93cf-87bad548a108?title=MacsyZones&#x26;rehype=video"></video><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/217" target="_blank">#217</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/217" target="_blank">#217</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -876,9 +966,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>文件无需解压即可预览</li>
 <li>Finder 扩展，快速访问最常用功能</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/216" target="_blank">#216</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/216" target="_blank">#216</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -905,9 +995,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <blockquote>
 <p>请注意：Mocolamma 不包含 Ollama，需要自行运行独立的 Ollama 服务器。</p>
 </blockquote><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/215" target="_blank">#215</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/215" target="_blank">#215</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -943,9 +1033,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>自包含： SwiftUI 应用内嵌 SwiftNIO HTTP 服务器</li>
 </ul>
 <p>由 Dinoki Labs (dinoki.ai) 创建 — 完全原生的桌面 AI 助手与伴侣。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/214" target="_blank">#214</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/214" target="_blank">#214</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -978,9 +1068,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>⚡ 零配置使用：一次登录，全设备通用</li>
 <li>🎯 持久投递架：文件可保留在架上，随时同步到云端</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/213" target="_blank">#213</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/213" target="_blank">#213</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1017,9 +1107,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><strong>自定义端口：</strong></p>
 <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">docker</span> run <span class="token parameter variable">-d</span> <span class="token parameter variable">-p</span> <span class="token number">3000</span>:80 <span class="token parameter variable">--name</span> nce-flow <span class="token parameter variable">--restart</span> unless-stopped luzhenhua/nce-flow:latest
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/212" target="_blank">#212</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/212" target="_blank">#212</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1047,9 +1137,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>导入/导出配置以便分享或备份</li>
 <li>完全离线运行</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/211" target="_blank">#211</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/211" target="_blank">#211</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1070,9 +1160,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <content type="html"><![CDATA[<p>简单设计是一款小红书图文创作工具，支持一键生成小红书图文，制作小红书封面图片；有丰富的免费的封面模板；
 另外简单设计提供了免费图片工具箱，包括图片压缩、图片大小调整、图片格式转换等工具。</p>
 <img width="1666" height="849" alt="Image" src="https://github.com/user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/209" target="_blank">#209</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/209" target="_blank">#209</a> • 
       <a href="https://github.com/ovelv" target="_blank">@ovelv</a>
       ]]></content>
         <author>
@@ -1093,9 +1183,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <content type="html"><![CDATA[<p>这是一款基于 SwiftUI 开发的本地音乐播放器，最低支持 macOS 11.0，开发环境为 Xcode 13.4.1。应用可以自动解析音频文件的专辑信息和封面图片，支持播放 .flac、.mp3、.wav、.m4a、.aif、.m4r 等常见格式音乐文件。用户可以通过双击歌曲切歌，播放模式支持顺序、循环、随机和单曲循环，支持导入音乐文件夹（通过图标、菜单或快捷键），播放进度条可拖拽调整，支持音量调节、简单收藏功能和模糊搜索歌曲名、艺术家或专辑。左侧边栏可隐藏，资料库支持清空操作，歌曲列表可按专辑名和音轨排序，并提供右键菜单编辑元信息、查看文件详情、快速重命名等功能。应用还支持歌词显示、自动下载及卡拉 OK 效果。最新版本已提供签名公证的 DMG 文件。播放列表功能和 macOS 10.15 兼容性正在开发中。</p>
 <img alt="fmusic" src="https://github.com/user-attachments/assets/50ca39fb-9ce4-42f8-9ba2-f11b2b1791f8">
 <img alt="fmusic" src="https://github.com/user-attachments/assets/9ca9174e-2de7-440f-955d-c8b819973301"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/208" target="_blank">#208</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/208" target="_blank">#208</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1119,9 +1209,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><img src="https://github.com/user-attachments/assets/2c3cc836-f04a-483b-acd6-ec10f05eaeba" alt="Image"></p>
 <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">$ brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> michaelh03/clipai/clipai
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/207" target="_blank">#207</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/207" target="_blank">#207</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1141,9 +1231,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[在 Mac 上获取你所有设备的电量信息并显示在Dock栏、状态栏上或小组件上!]]></summary>
         <content type="html"><![CDATA[<p>在 Mac 上获取你所有设备的电量信息并显示在Dock栏、状态栏上或小组件上!</p>
 <img alt="AirBattery" src="https://github.com/user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/206" target="_blank">#206</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/206" target="_blank">#206</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1170,9 +1260,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <img alt="CrossDesk" src="https://github.com/user-attachments/assets/011f8c06-b8e5-4da9-94e9-1f6a5317bf95">
 <p>发起连接前，可在设置中自定义配置项，如语言、视频编码格式等。</p>
 <img alt="CrossDesk" src="https://github.com/user-attachments/assets/1fefbd56-6340-4a22-aa60-b44d3371b48a"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/205" target="_blank">#205</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/205" target="_blank">#205</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1192,9 +1282,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[发现并下载最新的 iPhone、iPad 和 iMac 内置壁纸]]></summary>
         <content type="html"><![CDATA[<img alt="Image" src="https://github.com/user-attachments/assets/5330a5c2-dda0-4600-97ee-e430c24bffe8">
 <p>发现并下载最新的 iPhone、iPad 和 iMac 内置壁纸</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/204" target="_blank">#204</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/204" target="_blank">#204</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1226,9 +1316,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>持久布局：记住你的应用排列习惯</li>
 </ul>
 <p>如果你对 macOS 自带的应用启动体验不满意，不妨试试它 —— 一个既轻便又好用的替代方案。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/203" target="_blank">#203</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/203" target="_blank">#203</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1248,9 +1338,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[收录全球经典儿歌，目前已收录中国、德国、法国、韩国、俄罗斯、意大利等国家经典儿歌，按年龄、类型、国家分类，适配不同成长阶段​。]]></summary>
         <content type="html"><![CDATA[<p>收录全球经典儿歌，目前已收录中国、德国、法国、韩国、俄罗斯、意大利等国家经典儿歌，按年龄、类型、国家分类，适配不同成长阶段​。</p>
 <img alt="BeddySongs" src="https://github.com/user-attachments/assets/6a655e0b-83fa-4e4d-be07-d85afe04f549"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/202" target="_blank">#202</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/202" target="_blank">#202</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1279,9 +1369,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>SolidGlass 会运行终端命令，为特定应用或系统范围禁用 Liquid Glass 效果。虽然从技术上讲，你也可以自己通过终端完成，但 SolidGlass 通过直观的界面和一系列实用、易用的功能简化了这一过程。</p>
 <h2>适用于 macOS 测试版用户</h2>
 <p>在新版的 macOS Tahoe 测试版中，禁用 Liquid Glass 不再有效。我们不确定这是由于系统故障（很有可能）、苹果更改了禁用命令的工作方式，还是彻底移除了该功能。我们只能等待正式版发布。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/201" target="_blank">#201</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/201" target="_blank">#201</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1303,9 +1393,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <img alt="Vidwall Hub" src="https://github.com/user-attachments/assets/d67a54c5-13dc-4872-a5c6-4f174eb6697a">
 <p><strong>Vidwall Hub</strong> 是一款可以轻松将视频（<code>mp4</code>、<code>mov</code>）导入系统壁纸服务，并在 <code>系统设置</code> 中用作锁屏动画的工具。</p>
 <p>在尝试通过 <a href="https://github.com/jaywcjlove/vidwall">Vidwall</a> 应用同时实现动态壁纸和动态锁屏功能时，由于 macOS 沙盒限制，这一功能无法实现。因此，我将测试后的代码独立成一个新应用 免费提供给大家使用，作为 <a href="https://github.com/jaywcjlove/vidwall">Vidwall</a> 的补充。即使独立运行、绕过沙盒限制，仍无法直接设置动态锁屏，因为 macOS 并未提供相关 API。Vidwall Hub 仅将视频导入系统壁纸服务，用户需要在系统设置的壁纸选项中完成最终应用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/200" target="_blank">#200</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/200" target="_blank">#200</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1326,9 +1416,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <content type="html"><![CDATA[<p>这是一款轻量级的 macOS 工具，支持选择输入设备，一键或快捷键切换麦克风静音，并在菜单栏显示状态，提供推按说话、置顶通知及高度可定制的提醒功能。</p>
 <img alt="Micmute" src="https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd">
 <img alt="Micmute" src="https://github.com/user-attachments/assets/0f2613d0-65bc-4913-8763-91106daff886"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/199" target="_blank">#199</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/199" target="_blank">#199</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1359,9 +1449,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>固定和收藏媒体。</li>
 <li>为电视节目和电影设置不同的类型分类。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/198" target="_blank">#198</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/198" target="_blank">#198</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1392,9 +1482,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>干扰高亮，追踪离线或分心时刻</li>
 <li>原生 SwiftUI 界面 + 自动 Sparkle 更新</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/197" target="_blank">#197</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/197" target="_blank">#197</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1427,9 +1517,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li><strong>智能文件夹管理</strong>：像旧版一样创建和整理文件夹。</li>
 <li><strong>即时搜索与键盘导航</strong>：快速找到应用程序，无需多余的操作。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/196" target="_blank">#196</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/196" target="_blank">#196</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1457,9 +1547,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>支持 .mp4, .m4v, .mov, .mpg, .mpeg, .3gp 等常见视频格式。</li>
 <li>用户可以通过拖动调整裁剪框或自定义视频尺寸，精确裁剪视频的任意部分。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/195" target="_blank">#195</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/195" target="_blank">#195</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1552,9 +1642,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 </span><span class="code-line line-number" line="27">  <span class="token key atrule">OrangeTV-network</span><span class="token punctuation">:</span>
 </span><span class="code-line line-number" line="28">    <span class="token key atrule">driver</span><span class="token punctuation">:</span> bridge
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/194" target="_blank">#194</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/194" target="_blank">#194</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1574,9 +1664,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[跨平台 PostgreSQL 数据库客户端，还在开发中]]></summary>
         <content type="html"><![CDATA[<p>跨平台 PostgreSQL 数据库客户端，还在开发中</p>
 <img alt="pgpad" src="https://github.com/user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/193" target="_blank">#193</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/193" target="_blank">#193</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1596,9 +1686,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[一款非常简洁轻巧的应用，在菜单栏中显示您的 USB 连接状态，让您随时查看设备连接情况。]]></summary>
         <content type="html"><![CDATA[<p>一款非常简洁轻巧的应用，在菜单栏中显示您的 USB 连接状态，让您随时查看设备连接情况。</p>
 <img alt="MenuBarUSB" src="https://github.com/user-attachments/assets/381efd1a-9025-496f-81be-3c644bd264e7"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/192" target="_blank">#192</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/192" target="_blank">#192</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1631,9 +1721,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <h4>安装方式</h4>
 <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew <span class="token function">install</span> samzong/tap/saveeye
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/191" target="_blank">#191</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/191" target="_blank">#191</a> • 
       <a href="https://github.com/samzong" target="_blank">@samzong</a>
       ]]></content>
         <author>
@@ -1667,9 +1757,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>会话导出：以多种格式导出捕获流量，便于分析或团队协作。</li>
 </ol>
 <p>ReqRes 是开发者控制网络流量、提升调试效率的理想工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/190" target="_blank">#190</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/190" target="_blank">#190</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1712,9 +1802,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>更丰富的通知交互（如快速回复）</li>
 </ul>
 <p>AirSync 的目标是打破平台壁垒，让 Mac 与 Android 设备之间的协作更加自然高效。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/188" target="_blank">#188</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/188" target="_blank">#188</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1741,9 +1831,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>即使重启后或关闭系统托盘应用，充电限制依然保持生效。</li>
 <li>支持图形界面和命令行界面，命令行工具可以帮助用户更灵活地管理电池充电。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/187" target="_blank">#187</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/187" target="_blank">#187</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1765,9 +1855,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <img alt="Cloudflare Worker" src="https://github.com/user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872">
 <img alt="Cloudflare Worker" src="https://github.com/user-attachments/assets/7e666a4f-e7c0-4850-8c72-74179df1fb4c">
 <img alt="Cloudflare Worker" src="https://github.com/user-attachments/assets/0a59744b-4851-48a1-96cd-173b7c3a3ff9"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/186" target="_blank">#186</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/186" target="_blank">#186</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1787,9 +1877,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[如果你在找一款 免费、开源 的视频编辑器，OpenCut 值得一试。它支持 网页、桌面和移动端，基于时间轴、多轨编辑、实时预览，无水印、无订阅，所有操作都在本地完成，保护你的隐私。简单易用，却能提供媲美 CapCut 的体验，非常适合日常视频创作。]]></summary>
         <content type="html"><![CDATA[<p>如果你在找一款 免费、开源 的视频编辑器，OpenCut 值得一试。它支持 网页、桌面和移动端，基于时间轴、多轨编辑、实时预览，无水印、无订阅，所有操作都在本地完成，保护你的隐私。简单易用，却能提供媲美 CapCut 的体验，非常适合日常视频创作。</p>
 <img alt="OpenCut" src="https://github.com/user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/185" target="_blank">#185</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/185" target="_blank">#185</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1813,9 +1903,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <img alt="Trayce" src="https://github.com/user-attachments/assets/e89ee51f-2090-42d3-af14-050f5cd1c86e">
 <img alt="Trayce" src="https://github.com/user-attachments/assets/4eb3be37-23b8-4d47-8dd3-db52ba05bccb">
 <p>Trayce 是一款离线使用的 Docker 容器监控工具，内置 .bru HTTP 客户端。它支持将请求组织到集合中、使用变量和环境切换，并可将敏感信息安全存储在 .env 文件中。TrayceAgent 容器通过 eBPF 探针捕获本地容器的网络流量（HTTP、HTTPS、GRPC、MySQL、Postgres），并在轻量级界面中展示，非常适合后端开发者、QA 工程师和测试人员使用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/184" target="_blank">#184</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/184" target="_blank">#184</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1845,9 +1935,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>非常适合线上教学、代码演示、产品介绍等场景</li>
 </ul>
 <p>无论你是开发者、讲师、还是演示达人，DeskPad 都能让你的屏幕共享体验更专业、更清晰、更高效。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/182" target="_blank">#182</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/182" target="_blank">#182</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1867,9 +1957,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。]]></summary>
         <content type="html"><![CDATA[<p>一款专为 macOS 打造的瀑布流式图片浏览器，支持图片与视频混合浏览，拥有自适应布局、浅色/深色模式、高质量缩放与 HDR 显示等特性。它提供类 Finder 的文件管理体验，结合右键手势操作，可快速跳转到相邻包含媒体的文件夹，并针对大量图片目录做了性能优化，支持递归模式与视频播放，带来流畅高效的媒体浏览体验。</p>
 <img alt="FlowVision" src="https://github.com/user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/181" target="_blank">#181</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/181" target="_blank">#181</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1890,9 +1980,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <content type="html"><![CDATA[<p>厌倦了杂乱的写作应用？Monotype 是一款专注、离线优先的写作工具，在 Mac 上带来如同真实打字机的写作体验。</p>
 <p><img src="https://github.com/user-attachments/assets/652a9865-31f5-4bf8-9754-1c4765512eeb" alt="Monotype"></p>
 <p>没有格式、没有标签、没有干扰，它重新唤起写作的乐趣与流畅感。页面滚动方式仿佛老式打字机，让你的视线始终聚焦，思绪不被打断。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/180" target="_blank">#180</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/180" target="_blank">#180</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1914,9 +2004,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <img alt="RomM" src="https://github.com/user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355">
 <img alt="RomM" src="https://github.com/user-attachments/assets/88ee459d-10a7-4aaf-aab1-1757789821f6">
 <img alt="RomM" src="https://github.com/user-attachments/assets/8760a541-da11-45fe-9338-2fd375505df0"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/179" target="_blank">#179</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/179" target="_blank">#179</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1951,9 +2041,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>👿 智能去广告（实验）：自动跳过视频片段广告，看片更清爽。</li>
 </ul>
 <p>🧩 支持多种部署方式，源码开源，欢迎自由搭建和二次开发！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/178" target="_blank">#178</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/178" target="_blank">#178</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -1979,9 +2069,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>🔐 <strong>注重隐私</strong>：支持私密浏览、密码管理、可控的隐私设置。</li>
 <li>🧪 仍在持续开发中，但已可尝鲜体验本地 AI 浏览器的未来。</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/177" target="_blank">#177</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/177" target="_blank">#177</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2001,9 +2091,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[Sticky 是一款轻量级、启动迅速的便签应用，让你随时随地记录灵感、笔记、待办事项或任何重要信息。无需复杂设置，打开即写，专注记录每一个闪现的想法。]]></summary>
         <content type="html"><![CDATA[<p>Sticky 是一款轻量级、启动迅速的便签应用，让你随时随地记录灵感、笔记、待办事项或任何重要信息。无需复杂设置，打开即写，专注记录每一个闪现的想法。</p>
 <img alt="Sticky" src="https://github.com/user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/176" target="_blank">#176</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/176" target="_blank">#176</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2034,9 +2124,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>TrackWeight 利用了 macOS 上强大的 Multi-Touch 私有库，配合触控板中的压力传感器，获取到原本无法访问的压力数据。这些数据经过精准校准后，直接转换为 克（grams） 为单位的重量数值。</p>
 <p>🧪 准确度经过验证：</p>
 <p>我们通过将 MacBook 放在传统电子秤上，同时称重和记录触控板压力数据，完成了对不同重量区间的精密校准。结果令人惊喜：TrackWeight 获取的数据，天生就是以“克”为单位！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/175" target="_blank">#175</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/175" target="_blank">#175</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2077,9 +2167,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 </ul>
 <p>让 Dock 听话，就用 DockAnchor。
 立即体验，让多显示器环境更高效、更安静。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/174" target="_blank">#174</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/174" target="_blank">#174</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2113,9 +2203,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">$ brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> hiddenbar
 </span></code></pre>
 <p>立即试试 Hidden Bar，让菜单栏告别杂乱，恢复极简之美！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/173" target="_blank">#173</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/173" target="_blank">#173</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2148,9 +2238,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>Mos可通过<a href="https://brew.sh/">Homebrew</a>来安装:</p>
 <pre class="language-shell"><code class="language-shell code-highlight"><span class="code-line line-number" line="1">$ brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> mos
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/172" target="_blank">#172</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/172" target="_blank">#172</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2218,9 +2308,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>想用 MacBook 内建键盘复刻 HHKB 层级体验</li>
 <li>追求极致效率的写作者、编辑、设计师</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/171" target="_blank">#171</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/171" target="_blank">#171</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2240,9 +2330,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。]]></summary>
         <content type="html"><![CDATA[<p>torrra 是一款功能强大的 Python 命令行工具，让你无需离开终端就能搜索、获取磁力链接并下载种子。它支持多个索引源，内置 libtorrent 下载器，界面美观，基于 Rich 显示下载进度，还支持模块化扩展，适合喜欢纯粹 CLI 流程的高级用户。</p>
 <p><img src="https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/170" target="_blank">#170</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/170" target="_blank">#170</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2278,9 +2368,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>清空工作区，只需鼠标悬停几秒，即可批量关闭或最小化某应用的全部窗口。</p>
 <h4>🧩 可自定义布局样式</h4>
 <p>无论是窗口切换器，还是 Dock 预览，都可自定义布局风格、排列方式与大小，完全匹配你的使用习惯。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/169" target="_blank">#169</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/169" target="_blank">#169</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2313,9 +2403,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>可将常听内容固定在侧边栏，快速访问喜欢的音乐</li>
 <li>暗黑模式支持，界面更美观</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/168" target="_blank">#168</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/168" target="_blank">#168</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2349,9 +2439,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 </ul>
 <img width="3810" height="1888" alt="Image" src="https://github.com/user-attachments/assets/63747172-f9f4-4bf1-8f17-4de0ccdafd0c">
 <img width="2882" height="2494" alt="Image" src="https://github.com/user-attachments/assets/5867c1b3-4797-4b44-b5c5-029cca2bf15a"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/167" target="_blank">#167</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/167" target="_blank">#167</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2371,9 +2461,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[一个简单的 macOS 菜单栏小工具，可以将两个窗口“粘合”在一起，使它们（大部分情况下）像一个窗口那样协同移动和调整大小。]]></summary>
         <content type="html"><![CDATA[<p>一个简单的 macOS 菜单栏小工具，可以将两个窗口“粘合”在一起，使它们（大部分情况下）像一个窗口那样协同移动和调整大小。</p>
 <p><img src="https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/166" target="_blank">#166</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/166" target="_blank">#166</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2396,9 +2486,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>Joplin 支持 Markdown 格式，能导入 Evernote 的笔记，并提供端到端加密，通过 Dropbox、OneDrive、Nextcloud 或官方的 Joplin Cloud 进行同步。它还是“离线优先”设计，即使断网也可以随时访问笔记内容。</p>
 <p><img src="https://github.com/user-attachments/assets/ff8cfba3-9c85-41f3-b410-880e9a36b945" alt="Image"></p>
 <p>强大的全文搜索、插件扩展、自定义主题让你可以根据需求打造个性化的写作/笔记环境。不管是日常记录、任务管理还是技术文档，Joplin 都能胜任。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/165" target="_blank">#165</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/165" target="_blank">#165</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2427,9 +2517,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>🧩 使用 Tailwind CSS + shadcn/ui 打造简洁 UI</li>
 <li>🛠️ 开源免费，完全自主可控</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/164" target="_blank">#164</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/164" target="_blank">#164</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2452,9 +2542,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><img src="https://github.com/user-attachments/assets/b61ebb43-8526-4019-a89f-5ae77f081afe" alt="Image"></p>
 <p><img src="https://github.com/user-attachments/assets/419f55e2-76f3-475e-a661-992c2eb08ca8" alt="Image"></p>
 <p><img src="https://github.com/user-attachments/assets/041b8a42-35c7-4211-8604-74ca08294638" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/163" target="_blank">#163</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/163" target="_blank">#163</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2489,9 +2579,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>高度可配置：按需启用/禁用任意角落或区域，自定义行为</li>
 <li>原生开发体验：使用 Swift 与 SwiftUI 构建，体验丝滑，完美融入 macOS</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/162" target="_blank">#162</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/162" target="_blank">#162</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2537,9 +2627,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li><strong>菜单栏管理更便捷</strong>：无需离开当前工作窗口，即可操作硬盘</li>
 <li><strong>安全与信任</strong>：开源透明，无联网依赖，运行安全可控</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/161" target="_blank">#161</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/161" target="_blank">#161</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2563,9 +2653,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>将 4K 视频设置为动态桌面壁纸，支持 MP4、MOV 格式。
 只需将视频拖拽到应用界面，点击即可应用为动态壁纸。</p>
 <p>为桌面设置动态壁纸，让桌面更加生动有趣！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/160" target="_blank">#160</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/160" target="_blank">#160</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2615,9 +2705,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>细节调整与风格微调</li>
 <li>创意元素添加与修改</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/159" target="_blank">#159</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/159" target="_blank">#159</a> • 
       <a href="https://github.com/seekton" target="_blank">@seekton</a>
       ]]></content>
         <author>
@@ -2641,9 +2731,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><img src="https://github.com/user-attachments/assets/15267ddb-fd44-44a9-a889-809ea7601a77" alt="Image"></p>
 <p>Gifski 还内置分享扩展和系统服务，用户可直接通过 macOS 的“共享”菜单或“服务”菜单快速将视频转换为 GIF，支持屏幕录制分享，操作便捷。</p>
 <p>如果你正在寻找一款高效且支持丰富调节选项的 GIF 制作工具，Gifski 是非常值得推荐的选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/158" target="_blank">#158</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/158" target="_blank">#158</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2665,9 +2755,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <img width="728" alt="Image" src="https://github.com/user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35">
 <img width="755" alt="Image" src="https://github.com/user-attachments/assets/ae4984e0-2f2a-47aa-96c0-c6ccd63d0866">
 <p>用户还可以根据个人习惯自定义键盘、鼠标、触控板和手势操作。对于高级用户，IINA 也支持 mpv 配置文件和脚本扩展，同时还提供命令行工具与浏览器扩展插件。作为一款持续更新中的开源项目，IINA 是 macOS 用户观看视频和聆听音乐的理想选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/157" target="_blank">#157</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/157" target="_blank">#157</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2721,9 +2811,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>简洁的命令行参数</li>
 <li>环境变量支持性能精细调优</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/156" target="_blank">#156</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/156" target="_blank">#156</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2748,9 +2838,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>你可以为 Sidekick 设置多个“专家”，比如“计算机科学”“文学”“数学”等，每个专家都可以配置相关资源。Sidekick 采用 RAG（检索增强生成）技术，无论资源量多大，都能高效找到与你问题相关的信息。</p>
 <p><img src="https://github.com/user-attachments/assets/99f8d3be-4aa7-4c99-94f5-cebc7242488a" alt="Image"></p>
 <p>只需将文件拖入输入框，即可让 Sidekick 即刻读取内容并开始分析。若需要最新资料，也可启用网页搜索，快速获取实时信息，极大提升研究效率。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/155" target="_blank">#155</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/155" target="_blank">#155</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2783,9 +2873,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>🧭 网格导航与焦点定位</li>
 </ul>
 <p>您将能够实现<strong>几乎完全脱离鼠标的高效操作体验</strong>。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/154" target="_blank">#154</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/154" target="_blank">#154</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2906,9 +2996,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 答：图乐园目前不支持中文语言下创建图片，请将系统语言改为英语（美国），即可正常使用。</p>
 <p><strong>问：是否能开启繁体中文的AI？</strong><br>
 答：不可以，因为Apple到目前（2025.5）为止都没有支持繁体中文AI，因而你无法下载到相关语言文件。为开启AI，请确保系统相关语言设置为简体中文（或其他受到支持的语言）。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/153" target="_blank">#153</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/153" target="_blank">#153</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2931,9 +3021,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><img src="https://github.com/user-attachments/assets/3f470dbb-0ae1-45cf-a390-406bbacdfa19" alt="Menu Bar Search2"></p>
 <p><img src="https://github.com/user-attachments/assets/31884046-07b9-4f7c-8821-f76e425d5bf6" alt="Menu Bar Search3"></p>
 <p><img src="https://github.com/user-attachments/assets/72a468bc-66a1-4a5b-a3ae-ef4ff789209b" alt="Menu Bar Search4"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/152" target="_blank">#152</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/152" target="_blank">#152</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2953,9 +3043,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[RsyncUI 是一个基于 SwiftUI 开发的 macOS 应用，适用于 macOS Sonoma 及更高版本。它为命令行工具 rsync 提供了图形用户界面，使文件同步任务的管理和参数配置更加直观便捷。RsyncUI 本身不执行同步操作，而是通过简化 rsync 的使用流程，提高效率与易用性。]]></summary>
         <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09" alt="RsyncUI"></p>
 <p>RsyncUI 是一个基于 SwiftUI 开发的 macOS 应用，适用于 macOS Sonoma 及更高版本。它为命令行工具 rsync 提供了图形用户界面，使文件同步任务的管理和参数配置更加直观便捷。RsyncUI 本身不执行同步操作，而是通过简化 rsync 的使用流程，提高效率与易用性。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/151" target="_blank">#151</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/151" target="_blank">#151</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2975,9 +3065,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 Alt + Tab 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。]]></summary>
         <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4" alt="AltTab"></p>
 <p>AltTab 是一款为 macOS 用户打造的窗口切换工具，让你在 Mac 上也能享受如 Windows 一样直观、快捷的 <kbd>Alt</kbd> + <kbd>Tab</kbd> 体验。它支持窗口预览、图标视图、自定义快捷键等功能，极大提升多任务处理效率。对于习惯 Windows 操作方式的用户来说，这是 macOS 上必备的效率提升工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/150" target="_blank">#150</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/150" target="_blank">#150</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -2997,9 +3087,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。]]></summary>
         <content type="html"><![CDATA[<p>Rectangle 是一款基于 Spectacle 开发的 macOS 窗口管理工具，使用 Swift 编写，轻量且高效。通过拖动窗口至屏幕边缘或角落即可实现快速贴靠，同时支持纵向显示器布局。它内建丰富的快捷键，还支持快捷键循环切换窗口尺寸，让窗口操作更便捷。</p>
 <p><img src="https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4" alt="Rectangle"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/149" target="_blank">#149</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/149" target="_blank">#149</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3019,9 +3109,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。]]></summary>
         <content type="html"><![CDATA[<p>Stats 是一款开源的 macOS 系统监控应用，常驻菜单栏，可实时显示 CPU、GPU、内存、磁盘、网络、电池、传感器等关键系统信息。它界面简洁、运行稳定，并支持 macOS 10.15 及以上系统。支持 Homebrew 安装，适合开发者和性能控一键监控系统资源。</p>
 <p><img src="https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240" alt="Stats"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/148" target="_blank">#148</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/148" target="_blank">#148</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3076,9 +3166,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 </ul>
 </li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/147" target="_blank">#147</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/147" target="_blank">#147</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3101,9 +3191,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><img src="https://github.com/user-attachments/assets/c92617e2-8bae-45a6-a8ba-6d3db729827b" alt="Pearcleaner"></p>
 <p><img src="https://github.com/user-attachments/assets/08be5d36-91c5-42dc-964f-c23b5ec2edd6" alt="Pearcleaner"></p>
 <p>如果你在寻找一个专业、高效、极度可定制的卸载工具，Pearcleaner 是一个不容错过的选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/146" target="_blank">#146</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/146" target="_blank">#146</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3131,9 +3221,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>⌨️ 自定义快捷键：通过配置快捷键快速切换语言输入</li>
 </ul>
 <p>这是提升多语言用户生产力的得力助手。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/145" target="_blank">#145</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/145" target="_blank">#145</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3154,9 +3244,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <content type="html"><![CDATA[<p>Edit 是微软开源的一款使用 Rust 开发的终端（TUI）文本编辑器，向经典的 MS-DOS Editor 致敬。它体积小、启动快、跨平台，并融合了类似 VS Code 的现代快捷键和交互体验，是处理简单文本编辑任务的理想选择，适合所有用户，尤其是不熟悉终端操作的用户。</p>
 <p><img src="https://github.com/user-attachments/assets/08f6d682-34e6-40a1-863d-c2541892a405" alt="Image"></p>
 <p><img src="https://github.com/user-attachments/assets/efdd6f76-972d-4b50-81c9-63dd47dd9514" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/144" target="_blank">#144</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/144" target="_blank">#144</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3179,9 +3269,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>首次启动后即可开始输入关键词搜索。默认使用快捷键 Alt+Space 唤出或隐藏主窗口。使用方向键浏览结果，按回车键启动选中的项目。通过 Cmd+K（macOS） 或 Ctrl+K（其他平台） 可访问更多操作，比如加入或移除收藏项。</p>
 <p>点击左侧导航栏的“扩展”可以开启更多功能模块，每个扩展都有专属设置，支持自定义和个性化配置。通过“设置”界面可进一步定制 Ueli 的行为和外观。</p>
 <p>让 Ueli 成为你的高效启动中心！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/143" target="_blank">#143</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/143" target="_blank">#143</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3202,9 +3292,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <content type="html"><![CDATA[<p>Sentry 是一款专为 macOS 打造的安全监控工具，旨在在你离开电脑时，为你的设备保驾护航。无论你是在咖啡店小憩，还是临时离开座位，只需启用 Sentry 模式，它就能实时监测设备状态，侦测任何可疑操作，并自动录制视频作为证据。</p>
 <p><img src="https://github.com/user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66" alt="Sentry"></p>
 <p>Sentry 支持盖子状态、电源连接和网络连接等多项系统监控，并通过声音报警和 Bark 推送通知提醒你可能的入侵行为。所有变化都能被即时捕捉，确保你第一时间知情，第一时间应对。让 Sentry 成为你在公共环境中的安心后盾。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/142" target="_blank">#142</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/142" target="_blank">#142</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3228,9 +3318,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>很多人可能用过 Cheatsheet，但它已经很久没有更新了。而 KeyClu 不仅完美替代 Cheatsheet，还增加了更多功能，比如支持全局快捷键、主题自定义，响应也更快。对我来说，它已经成为新一代的“装机必备”应用。</p>
 <p><img src="https://github.com/user-attachments/assets/944a36c9-8696-48e5-9545-493b7c83d9dd" alt="KeyClu"></p>
 <p>最棒的是，KeyClu 完全免费，体积小巧，不占资源。无论你是开发者、设计师还是普通用户，只要你希望提高工作效率，KeyClu 都值得一试！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/141" target="_blank">#141</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/141" target="_blank">#141</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3258,9 +3348,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <img src="https://github.com/user-attachments/assets/0378bf1d-88b7-49ff-b21a-31228787bdd1" alt="Image"></p>
 <h3>效果视频</h3>
 <p><a href="https://github.com/user-attachments/assets/2f64662f-71e0-45b1-8871-5b9f2a58f8da">https://github.com/user-attachments/assets/2f64662f-71e0-45b1-8871-5b9f2a58f8da</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/140" target="_blank">#140</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/140" target="_blank">#140</a> • 
       <a href="https://github.com/BearSolitarily" target="_blank">@BearSolitarily</a>
       ]]></content>
         <author>
@@ -3280,9 +3370,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[如果你正在寻找一款简单高效的 macOS 滚动截图工具，ScrollSnap 是个不错的选择。它是一款开源应用，支持自定义选区、滚动截图自动拼接，并提供灵活的保存方式（桌面、剪贴板、预览等）。直观的界面、可拖拽的菜单和缩略图预览，让你轻松截取长页面内容。ScrollSnap 基于 Swift 开发，结合 AppKit 和 ScreenCaptureKit，界面现代，操作流畅，非常适合开发者和设计师]]></summary>
         <content type="html"><![CDATA[<p>如果你正在寻找一款简单高效的 macOS 滚动截图工具，ScrollSnap 是个不错的选择。它是一款开源应用，支持自定义选区、滚动截图自动拼接，并提供灵活的保存方式（桌面、剪贴板、预览等）。直观的界面、可拖拽的菜单和缩略图预览，让你轻松截取长页面内容。ScrollSnap 基于 Swift 开发，结合 AppKit 和 ScreenCaptureKit，界面现代，操作流畅，非常适合开发者和设计师使用。</p>
 <p><img src="https://github.com/user-attachments/assets/cd3998f4-83be-4d69-a00c-86d04915c6cc" alt="ScrollSnap"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/139" target="_blank">#139</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/139" target="_blank">#139</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3304,9 +3394,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><img src="https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8" alt="Image"></p>
 <p>你无需频繁切换窗口，就能预览 Markdown、PDF、图片、视频，甚至直接编辑远程文件。同时，Wave 还支持多种 AI 模型，提供聊天式辅助，帮助你更快解决问题。灵活的布局、可自定义主题，以及强大的 wsh 命令系统，使它成为现代开发者的理想选择。</p>
 <p>如果你想要一个真正智能、全能的终端，Wave Terminal 值得一试！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/138" target="_blank">#138</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/138" target="_blank">#138</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3330,9 +3420,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p><img src="https://github.com/user-attachments/assets/c084e091-8f1a-40ae-a302-dd6409dfe899" alt="Bruno"></p>
 <p><img src="https://github.com/user-attachments/assets/b02b6fa1-a758-42c4-b0d0-233787c4f222" alt="Bruno"></p>
 <p><img src="https://github.com/user-attachments/assets/c3e05613-4eb6-4526-b3e6-149abfbfde15" alt="Bruno"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/137" target="_blank">#137</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/137" target="_blank">#137</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3359,9 +3449,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>整理了覆盖所有学段的教学大纲、知识结构、课标解析等资源，便于系统性学习与知识梳理。</p>
 <p>📚  仓库地址：<a href="https://github.com/mswnlz/edu-knowlege">https://github.com/mswnlz/edu-knowlege</a></p>
 <p><img src="https://github.com/user-attachments/assets/5413a0ac-c9b2-43ed-bb67-a36a0d87ff83" alt="全学段教育知识图谱与学习资源（从幼儿园到大学）"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/136" target="_blank">#136</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/136" target="_blank">#136</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3384,9 +3474,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>通过简洁的设置和双向命令行界面集成，您可以轻松访问文件并支持 VPN、远程 VS Code 和 SSH 代理转发。强大的网络功能使得 Docker 容器和完整 Linux 发行版的无缝运行成为可能，未来将支持 Kubernetes。</p>
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/731c86fd-6010-40e2-99ab-d4d3a63b1471?title=OrbStack&#x26;rehype=video"></video>
 <p>通过 OrbStack 的菜单栏应用程序，您可以随时管理容器，简化工作流程，提升开发效率。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/135" target="_blank">#135</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/135" target="_blank">#135</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3430,9 +3520,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>桌面端、Web端、移动端全面适配，Android/iOS 版本正在开发中</li>
 </ul>
 <p>🎧 Alger Music Player —— 不止是播放器，更是属于你的音乐管家。现在就开始畅听，发现更多美好旋律！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/134" target="_blank">#134</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/134" target="_blank">#134</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3463,9 +3553,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>可在状态栏中显示并控制播放器</li>
 </ul>
 <p>支持格式：MP3, AIFF, AMR, WAV, CAF, AAC, AC3, FLAC, M4R, M4A 等</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/133" target="_blank">#133</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/133" target="_blank">#133</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3485,9 +3575,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[如果你在 Mac 上使用 Ollama，不妨试试 Ollamac —— 一个专为 Ollama 打造的 macOS 原生应用，支持所有 Ollama 模型，自定义 Host，内置语法高亮，界面简洁易用，完全免费且开源，非常适合开发者和 AI 用户使用。]]></summary>
         <content type="html"><![CDATA[<p>如果你在 Mac 上使用 Ollama，不妨试试 Ollamac —— 一个专为 Ollama 打造的 macOS 原生应用，支持所有 Ollama 模型，自定义 Host，内置语法高亮，界面简洁易用，完全免费且开源，非常适合开发者和 AI 用户使用。</p>
 <p><img src="https://github.com/user-attachments/assets/9a57fc3d-25fd-4a05-b247-dcd0812c5207" alt="Ollamac"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/132" target="_blank">#132</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/132" target="_blank">#132</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3525,9 +3615,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>设置在接收特定次数响应后停止模拟</li>
 </ul>
 <p>无论是调试网络请求、优化性能，还是远程协作开发，Pulse Pro 都能为你的开发流程带来前所未有的可视化与效率提升。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/131" target="_blank">#131</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/131" target="_blank">#131</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3561,9 +3651,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 </ul>
 <p>Debloatfy 的诞生源于一个开发者对 Android 系统自由性的热爱，也源于对命令行操作的厌倦。现在，它让普通用户也能掌控 Android 设备的一切。</p>
 <p>简洁、强大、专为你而来——Debloatfy，让 Android 管理变得轻松自在。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/130" target="_blank">#130</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/130" target="_blank">#130</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3583,9 +3673,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <summary type="html"><![CDATA[如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postma]]></summary>
         <content type="html"><![CDATA[<p>如果你正在寻找一款轻量、快速且功能全面的 API 调试工具，Hoppscotch 是一个开源且极具潜力的选择。它支持 HTTP、WebSocket、GraphQL、gRPC、Socket.IO、MQTT 等多种协议，提供请求标签、代码片段生成、主题自定义、Zen 模式、PWA 安装等功能。无论是简单的 REST 接口测试，还是复杂的实时通信验证，Hoppscotch 都能高效应对，是 Postman、Insomnia 等工具的强力替代方案。</p>
 <p><img src="https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42" alt="Hoppscotch"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/129" target="_blank">#129</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/129" target="_blank">#129</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3606,9 +3696,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
         <content type="html"><![CDATA[<p>一款跨平台、可携带的桌面级 HTTP 客户端应用，支持测试 HTTP 和 REST API、WebSocket、GraphQL（含订阅）以及 gRPC 接口。它是 Postman、Insomnia 等工具的高效替代方案，适合开发者调试与接口测试使用。</p>
 <p><img src="https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d" alt="Hello HTTP"></p>
 <p><img src="https://github.com/user-attachments/assets/27eef1d4-eabd-4c09-abab-4d2fa540777a" alt="Hello HTTP"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/128" target="_blank">#128</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/128" target="_blank">#128</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3644,9 +3734,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 </ol>
 <p>图标是一把 Olympic White Telecaster，因为开发者对它“一见钟情”。这不是一款商业产品，而是一位 Mac 用户的真诚作品。</p>
 <p>如果你是吉他手，也是 macOS 用户，Chord Provider 值得一试。 🎶</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/127" target="_blank">#127</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/127" target="_blank">#127</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3680,9 +3770,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>😴 睡眠模式拦截</li>
 <li>📥 支持 .m3u 导入/导出</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/126" target="_blank">#126</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/126" target="_blank">#126</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3714,9 +3804,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 </ul>
 <p>无论是处理多个应用程序、保持桌面整洁，还是提高多任务处理的效率，Dockit 都能为你提供无缝的窗口管理体验，助力你更加专注、高效地工作。</p>
 <p>立即下载 Dockit，让你的 macOS 更加智能，工作更轻松！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/125" target="_blank">#125</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/125" target="_blank">#125</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3749,9 +3839,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>🛠 自动更新，全平台适配（桌面/Web/Mobile，移动端即将推出）</li>
 </ul>
 <p>AlgerMusicPlayer，不只是播放器，更是你专属的音乐空间。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/124" target="_blank">#124</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/124" target="_blank">#124</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3783,9 +3873,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 ■ 音频元信息修改：支持编辑音频文件的 元数据，如歌手、专辑等信息，方便整理和管理你的音频文件。<br>
 ■ 简便操作：只需2步点击，快速完成格式转换。</p>
 <p>我们的应用程序支持几乎所有设备常见的音频格式，转换音乐与编辑元信息从未如此简单！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/123" target="_blank">#123</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/123" target="_blank">#123</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3825,9 +3915,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <h3>让每一帧都充满惊艳的细节</h3>
 <p>Couverture 不仅是一个工具，它是你动画创作的最佳伙伴。无论你是从事应用开发，网站设计，还是制作原型，Couverture 都能帮助你提升动画的质量，让用户在每个细节中感受到动感和美感。</p>
 <p>立即体验，提升你的动画创作技能！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/122" target="_blank">#122</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/122" target="_blank">#122</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3854,9 +3944,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <h3>开源共享，技术学习与交流</h3>
 <p>LX Music 在 GitHub 上开源发布，面向全球开发者和技术爱好者开放。无论你是想贡献代码、学习技术，还是探索更多开发细节，LX Music 都是一个理想的开源项目平台，支持全球开发者进行技术交流与合作。</p>
 <p>总结：LX Music 让你免费、方便地查找和享受音乐，同时提供一个干净、开源的环境，让你随时随地都能感受到音乐的魅力。赶快下载并体验，加入我们共同成长的开源社区！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/121" target="_blank">#121</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/121" target="_blank">#121</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3890,9 +3980,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <h3>便捷的操作</h3>
 <p>Aural Player 提供多种便捷的操作方式。你可以使用常见任务的快捷键（例如 EQ 滑块、时间拉伸），自定义的媒体按键，触控板滑动与鼠标功能按钮，还支持与 macOS 控制中心的无缝集成，轻松实现远程控制。</p>
 <p>Aural Player，不仅是一个音频播放器，它是你音频世界的个性化中心。快来体验这一款既简单又强大的 macOS 播放器，发现音频的更多可能性！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/120" target="_blank">#120</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/120" target="_blank">#120</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3928,9 +4018,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>支持将文件夹图标导出为 .icns 格式</li>
 </ul>
 <p>新增的功能包括符号图标的透明度与大小调整、丰富的文件夹颜色选择、以及快速导入文件夹路径到 Dock。你还可以将自定义的文件夹图标导出为 .icns 格式，方便在其他地方使用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/119" target="_blank">#119</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/119" target="_blank">#119</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3963,9 +4053,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <p>✦ 收集流行的颜色，包括来自流行组件库和标准颜色值的颜色。</p>
 <p>✦ 丰富的颜色代码格式：涵盖主流平台和编程语言（iOS、Android、Swift、Objc、CSS 等），并提供快速代码复制的键盘快捷键。</p>
 <p>✦ 外观：支持浅色和深色模式。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/118" target="_blank">#118</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/118" target="_blank">#118</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -3994,9 +4084,9 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
 <li>🛠️ 支持通过 VS Code 和 Cursor 连接你自己的虚拟机</li>
 </ul>
 <p>👉 立刻访问 <a href="https://pad.ws/">pad.ws</a>，体验前所未有的开发方式！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/117" target="_blank">#117</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/117" target="_blank">#117</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4045,9 +4135,9 @@ BetterDisplay 支持通过 DDC 控制显示器的亮度、音量和颜色，并�
 <p>为什么选择 BetterDisplay Pro？</p>
 <p>BetterDisplay Pro 是一款功能丰富、操作便捷的显示器控制工具，适用于各种 Mac 用户。无论是专业创作者、开发者，还是普通用户，它都能帮助你轻松管理和优化显示器的设置，提升你的视觉体验。如果你需要更精确的亮度控制、更多的显示器设置选项，BetterDisplay Pro 是你不可错过的工具。</p>
 <p>现在就体验 BetterDisplay Pro，解锁更强大的显示器控制功能吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/116" target="_blank">#116</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/116" target="_blank">#116</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4089,9 +4179,9 @@ MonitorControl 的界面简洁、低调，能够无缝融入 macOS 的整体美�
 <p>完全免费，体验极致功能！</p>
 <p>最棒的是，MonitorControl 完全免费！它为你提供了强大的显示器控制功能，适合任何需要精细调节显示器亮度和音量的用户。如果你需要更多的亮度控制功能和对更多 Mac 型号和显示器的支持，还可以尝试 BetterDisplay，它提供了更多的高级亮度控制和 XDR/HDR 亮度提升等功能。</p>
 <p>如果你是一个经常需要调整显示器亮度和音量的用户，MonitorControl 无疑是你最佳的选择！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/115" target="_blank">#115</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/115" target="_blank">#115</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4136,9 +4226,9 @@ MonitorControl 的界面简洁、低调，能够无缝融入 macOS 的整体美�
 <li>正式版： Chrome 插件市场 <a href="https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe">Tabboost</a></li>
 <li>开发版（更新较快）：<a href="https://github.com/samzong/chrome-tabboost/releases">Github Release</a></li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/114" target="_blank">#114</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/114" target="_blank">#114</a> • 
       <a href="https://github.com/samzong" target="_blank">@samzong</a>
       ]]></content>
         <author>
@@ -4172,9 +4262,9 @@ MonitorControl 的界面简洁、低调，能够无缝融入 macOS 的整体美�
 </ul>
 <p>FileSentinel 是一款用于监听文本变化的工具，利用 macOS 生成的 .zsh_history 文件来追踪终端命令。它支持所有流行的 Shell：zsh（macOS 默认）、bash 和 fish shell，还允许你自行导入其他历史记录文件。</p>
 <p>无论是调试、回顾复杂命令，还是提高工作效率，FileSentinel 都是你轻松浏览终端历史记录的最佳选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/113" target="_blank">#113</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/113" target="_blank">#113</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4208,9 +4298,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 新版 Windows ISO 文件通常包含大于 4GB 的安装文件，而 FAT32 文件系统不支持大于 4GB 的文件。WinDiskWriter 会自动为您拆分这些文件，确保与 USB 驱动器的兼容性。</li>
 </ul>
 <p>无论您是在升级 PC、安装到虚拟机，还是想在 Mac 上体验 Windows，WinDiskWriter 都提供了一个简单、可靠的解决方案，让您轻松创建可启动的 USB 驱动器。告别复杂的操作，今天就开始，享受无缝的 Windows 安装体验！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/112" target="_blank">#112</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/112" target="_blank">#112</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4237,9 +4327,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 </span><span class="code-line line-number" line="4"><span class="token comment"># 当前使用免费开发者账号自签名</span>
 </span><span class="code-line line-number" line="5">xattr <span class="token parameter variable">-dr</span> com.apple.quarantine /Applications/ConfigForge.app
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/111" target="_blank">#111</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/111" target="_blank">#111</a> • 
       <a href="https://github.com/samzong" target="_blank">@samzong</a>
       ]]></content>
         <author>
@@ -4275,9 +4365,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>总结一句：
 👉 Xcodes.app 是 macOS 下最好用的 Xcode 多版本管理神器，简单、快捷、高效，开发者必备！</p>
 <p>要不要我帮你配个推广图或者文案标题？😎</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/110" target="_blank">#110</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/110" target="_blank">#110</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4303,9 +4393,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p><img src="https://github.com/user-attachments/assets/0df21d35-df62-42fa-9549-b57f6afa5990" alt="KeyClicker"></p>
 <p><img src="https://github.com/user-attachments/assets/0f8121b0-75ff-4e93-a9e0-d021cb3ea015" alt="KeyClicker"></p>
 <p><img src="https://github.com/user-attachments/assets/00742c5d-9f19-4dc8-97fa-0323d18569ef" alt="KeyClicker"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/109" target="_blank">#109</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/109" target="_blank">#109</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4347,9 +4437,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <li>天涯资源 (tyyszy)</li>
 <li>…</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/108" target="_blank">#108</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/108" target="_blank">#108</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4434,9 +4524,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 ■ URL解析器<br>
 ■ URL 编码/解码</p>
 <p>随着我们持续完善和扩展 DevHub，使其成为全球开发者不可或缺的资源。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/107" target="_blank">#107</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/107" target="_blank">#107</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4472,9 +4562,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>为什么选择EcuBus-Pro？</p>
 <p>EcuBus-Pro作为一款开源工具，不仅能够提供和商业工具相同甚至更强大的功能，而且它的自由定制性和跨平台支持，使得它成为汽车ECU开发、测试和维护的理想选择。无论你是汽车行业的专业人士，还是对汽车诊断有兴趣的开发者，EcuBus-Pro都能为你提供强大的支持。</p>
 <p>赶快试试EcuBus-Pro，体验开源软件带来的无限可能吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/106" target="_blank">#106</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/106" target="_blank">#106</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4502,9 +4592,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>■ 鼠标跟随：显示一个圆圈或圆形跟随光标移动。<br>
 ■ 鼠标点击：点击时出现动画效果，突出显示点击动作。<br>
 ■ 鼠标遮罩：聚焦光标所在区域，其他区域变暗，增强聚焦效果。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/105" target="_blank">#105</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/105" target="_blank">#105</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4524,9 +4614,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
         <summary type="html"><![CDATA[在 macOS 上将你的任何窗口强制置顶的应用，如果你经常在多任务之间切换，或者需要同时处理多个窗口，Topit 是一款非常实用的工具。它可以轻松地将任意应用程序的窗口固定在屏幕的顶部，让你随时保持重要内容的可见性。]]></summary>
         <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/3c1c1c9d-fc69-4308-8374-203e5486c3df" alt="Image"></p>
 <p>在 macOS 上将你的任何窗口强制置顶的应用，如果你经常在多任务之间切换，或者需要同时处理多个窗口，Topit 是一款非常实用的工具。它可以轻松地将任意应用程序的窗口固定在屏幕的顶部，让你随时保持重要内容的可见性。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/104" target="_blank">#104</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/104" target="_blank">#104</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4555,9 +4645,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <li>快速删除邮件和其他功能：你可以通过鼠标按钮快速删除邮件、快速回复 iMessage 等，操作与 Trackpad 上的手势相同。</li>
 </ol>
 <p>如果你想让普通鼠标也能拥有如同 Apple Trackpad 一样的操作体验，Mac Mouse Fix 将是你的不二选择！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/103" target="_blank">#103</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/103" target="_blank">#103</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4579,9 +4669,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>其中特色是：<strong>AI翻译PDF并保持原版排版，免费免登录，支持最大200MB PDF文件</strong>。</p>
 <p>网站地址：<a href="https://deeppdf.ai/pdf-translator">https://deeppdf.ai/pdf-translator</a></p>
 <p><img src="https://github.com/user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/102" target="_blank">#102</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/102" target="_blank">#102</a> • 
       <a href="https://github.com/icaohongyuan" target="_blank">@icaohongyuan</a>
       ]]></content>
         <author>
@@ -4611,9 +4701,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <li>消息推送：提供开播通知，及时提醒用户。</li>
 </ol>
 <p>StreamCap 帮助用户轻松录制并管理直播内容，适用于个人主播和需要批量录制多个平台的用户。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/101" target="_blank">#101</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/101" target="_blank">#101</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4640,9 +4730,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 🔒 兼容 KeePass：可直接打开 KeePass、KeePassXC 等应用创建的 kdbx 文件。
 ☁ 灵活存储：支持本地存储密码数据库，或将其同步至 Dropbox、Google Drive、OneDrive 等云服务。</p>
 <p>无论是本地文件还是云端存储，KeeWeb 都能为你提供安全便捷的密码管理方案！ 🚀</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/100" target="_blank">#100</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/100" target="_blank">#100</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4666,9 +4756,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>如果你厌倦了在社交媒体上获取新闻，被广告、算法推荐、用户追踪甚至虚假信息干扰，那么 NetNewsWire 是你的理想选择。它直接从你信赖的网站抓取新闻，让你重新掌控阅读体验。</p>
 <p>回归纯粹，拒绝干扰，尽享高质量阅读体验！
 立即下载，体验这款免费、高效的 macOS 与 iOS 原生应用！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/99" target="_blank">#99</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/99" target="_blank">#99</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4715,9 +4805,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 </ol>
 <img width="820" alt="Image" src="https://github.com/user-attachments/assets/ab1b23f3-720d-44f8-8d78-26b8e0687344">
 <p>Peninsula 让 macOS 刘海从装饰变为真正的生产力工具！立即体验，让你的 Mac 更加智能高效！ 🚀</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/98" target="_blank">#98</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/98" target="_blank">#98</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4746,9 +4836,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 ⌨️ 媒体快捷键支持
 🌙 暗黑模式（开发中）
 🤖 AI 驱动的开发流程</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/97" target="_blank">#97</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/97" target="_blank">#97</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4782,9 +4872,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 </ol>
 <p>无论您是企业用户需要管理文件传输，还是个人用户想要可靠的同步，GoMFT 都能提供出色的性能、灵活性和易用性。</p>
 <p>立即开始 使用 GoMFT！访问 GoMFT 并释放高效文件传输的力量。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/96" target="_blank">#96</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/96" target="_blank">#96</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4813,9 +4903,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <li>适用于 3D 打印 和 3D 网站开发</li>
 </ol>
 <p>准备好体验了吗？访问 <a href="https://bekuto3d.ayaka.io/">bekuto3d.ayaka.io</a> 开始创建吧！🌐</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/95" target="_blank">#95</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/95" target="_blank">#95</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4841,9 +4931,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p><img src="https://github.com/user-attachments/assets/f19701d8-4ce3-4f96-87d8-48b168df1a37" alt="Image"></p>
 <p>💯 为了满足用户的个性化需求，Notion Exporter 针对每一种格式都开发了一套强大的模板定制系统，模板样式、颜色、字体、布局、各种组件样式等等都可以进行自定义。</p>
 <p><img src="https://github.com/user-attachments/assets/a1e703f3-15d6-49df-8696-f66660a6a0e0" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/94" target="_blank">#94</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/94" target="_blank">#94</a> • 
       <a href="https://github.com/Shanshi66" target="_blank">@Shanshi66</a>
       ]]></content>
         <author>
@@ -4871,9 +4961,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p><img src="https://github.com/user-attachments/assets/cd8e6b00-aa66-4d2c-a4fb-ca7c7c60da0d" alt="Image"></p>
 <p><img src="https://github.com/user-attachments/assets/2d0b8840-44d0-4d98-971a-1ed62542ea9b" alt="Image"></p>
 <p><img src="https://github.com/user-attachments/assets/2deae7e7-c9c6-4852-8bb5-a3169a467c07" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/93" target="_blank">#93</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/93" target="_blank">#93</a> • 
       <a href="https://github.com/pingan8787" target="_blank">@pingan8787</a>
       ]]></content>
         <author>
@@ -4911,9 +5001,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <li>📱 移动设备适配</li>
 <li>🎨 支持 mermaid 图标</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/92" target="_blank">#92</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/92" target="_blank">#92</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4935,9 +5025,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>QuickRecorder 是一款专为 macOS 设计的多功能屏幕录制工具，采用 SwiftUI 编写，体积小巧且高效，软件大小仅有不到 10MB。它没有任何累赘功能，简洁实用。QuickRecorder 支持窗口录制、App 录制及移动设备录制，并且能够进行窗口声音内录、鼠标高亮和隐藏桌面文件等多种实用功能。</p>
 <p>这款工具还完整支持 macOS 14 新增的演讲者前置功能，可在录制过程中实时叠加摄像头画面。对于低版本的 macOS 用户，也可以使用悬浮窗模式实现类似效果。此外，QuickRecorder 还支持 HEVC with Alpha 特性，允许在输出文件中包含 Alpha 通道，兼容 iMovie 与 FCPX，极大增强了后期处理的灵活性。</p>
 <p>无论是专业录制还是简单的日常需求，QuickRecorder 都是你值得拥有的最佳选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/91" target="_blank">#91</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/91" target="_blank">#91</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4961,9 +5051,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>该应用支持完整的 Markdown 语法，包括标题、列表、代码块和表格等，用户可以快速将 Markdown 文档转化为精美的卡片，同时享受实时预览和自动分页功能。它还具备响应式设计和暗色模式，带来更加舒适的使用体验。此外，MD2Card 还支持一键导出为图片，方便你与他人分享或保存。</p>
 <img width="1255" alt="Image" src="https://github.com/user-attachments/assets/711b4c3e-3832-4f31-a076-925d3300409c">
 <p>MD2Card 完全免费，支持一键开始创作，提供了多达 15 种风格，满足不同用户的创作需求。立即体验，轻松高效地创作你的知识卡片！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/90" target="_blank">#90</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/90" target="_blank">#90</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -4998,9 +5088,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 ■ 转换大于 1G 的视频 - 轻松处理大文件，保证转换质量。
 ■ 批量提取音频 - 批量从多个视频中提取音频，适用于音频剪辑或归档。</p>
 <p>无论是视频剪辑爱好者、内容创作者，还是需要频繁处理视频文件的专业用户，Videoer 都能满足你的需求，让视频转换变得更加简单高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/89" target="_blank">#89</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/89" target="_blank">#89</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5035,9 +5125,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 </ul>
 <p>Docs 是由法国数字事务管理局（DINUM）和德国 ZenDiS 政府部门共同开发的，致力于为团队提供高效、安全的协作平台。  ￼</p>
 <p>欲了解更多信息或参与贡献，请访问 Docs 的 GitHub 仓库：  ￼</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/88" target="_blank">#88</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/88" target="_blank">#88</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5067,9 +5157,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <li>静态网站发布：Folder 支持将文件夹发布为静态网站，方便分享和展示内容。</li>
 </ul>
 <p>如果您正在寻找一个灵活、安全且功能强大的文件管理解决方案，Folder 无疑是一个值得考虑的选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/87" target="_blank">#87</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/87" target="_blank">#87</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5095,9 +5185,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>✨ 新增菜单栏文件展示 &#x26; 文件夹图标<br>
 🐞 菜单栏授权优化 &#x26; 国际化问题</p>
 <p><img src="https://github.com/user-attachments/assets/b1e35bfb-60f8-4525-8c8b-27ae1183a813" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/86" target="_blank">#86</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/86" target="_blank">#86</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5119,9 +5209,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p><img src="https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c" alt="Image"></p>
 <p>最吸引人的是，electerm 不仅支持桌面应用，还提供了 Web 版（electerm-web），可以直接在浏览器中运行，包括移动设备的支持，方便用户随时随地进行远程管理。此外，Docker 镜像 版本让你可以轻松部署它到服务器或容器环境中，极大地提高了灵活性。</p>
 <p>作为开源项目，electerm 让开发者能够根据自己的需求进行定制，同时享受社区提供的持续更新和改进。如果你正在寻找一款跨平台、多功能且易于使用的终端工具，electerm 无疑是一个理想的选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/85" target="_blank">#85</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/85" target="_blank">#85</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5150,9 +5240,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 🔍 智能历史 - 快速搜索并回顾对话记录
 🔒 隐私优先 - 所有数据默认本地存储</p>
 <p>简洁高效，让 AI 更贴近你的 macOS 体验！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/84" target="_blank">#84</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/84" target="_blank">#84</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5189,9 +5279,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <li>🛜 配置代理以访问防火墙屏蔽的 API。</li>
 </ul>
 <p>Yaak 为开发者提供了灵活高效的 API 测试和管理工具，旨在提高开发过程中的生产力。作为开源项目，Yaak 欢迎社区的参与和贡献，帮助其不断完善和拓展功能。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/83" target="_blank">#83</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/83" target="_blank">#83</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5213,9 +5303,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p><img src="https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870" alt="Image"></p>
 <p><img src="https://github.com/user-attachments/assets/15da3eee-0467-4580-adfe-b13e1663ae7a" alt="Image"></p>
 <p>此外，Tempo 还支持通过设置 OpenAI API 密钥生成提交信息，并能使用 OpenAI API 执行按块（hunk）提交。由于该应用使用了 GPT-4o-mini，它的费用相对较低，让你在使用时无需过多担心成本（API 费用为每百万输入 token 15 美分，每百万输出 token 60 美分）。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/82" target="_blank">#82</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/82" target="_blank">#82</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5244,9 +5334,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 </ol>
 <h3>结语</h3>
 <p>如果你热爱音乐并且希望尝试一款简洁而功能强大的音频播放器，Cog 是一个值得尝试的好选择。它的开源精神和不断更新的功能使其成为一款非常适合长期使用的工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/81" target="_blank">#81</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/81" target="_blank">#81</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5302,9 +5392,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <li>实时抓包分析 - 即时查看并处理请求，无需额外工具。</li>
 </ul>
 <p>Reqable，集成 API 调试、代理抓包、请求测试于一体，助你高效开发，极速调试！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/80" target="_blank">#80</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/80" target="_blank">#80</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5340,9 +5430,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap samzong/tap
 </span><span class="code-line line-number" line="2">brew <span class="token function">install</span> samzong/tap/mac-music-player
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/79" target="_blank">#79</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/79" target="_blank">#79</a> • 
       <a href="https://github.com/samzong" target="_blank">@samzong</a>
       ]]></content>
         <author>
@@ -5368,9 +5458,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/183843d3-72cf-4557-8956-ea7a8b9b23e1?title=ZenBrowser&#x26;rehype=video"></video>
 <p>🚀 作为一款隐私至上的浏览器，Zen 不仅能保护你的数据安全，还能提升网页加载速度，让浏览更加流畅。它支持从 Crowdin Zen Release 下载最新版本，让你随时体验最佳性能。</p>
 <p>如果你厌倦了被广告和跟踪器打扰，想要真正自由、安全地上网，Zen Browser 绝对值得一试！🔒✨</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/78" target="_blank">#78</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/78" target="_blank">#78</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5393,9 +5483,9 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
 <p>但我们并不生活在一个理想的世界中，团队成员可能随时需要你的帮助，而当你处于专注模式时，有时你会忘记及时回复！</p>
 <p>像 Mail、Slack 和 Microsoft Teams 这样的消息应用，甚至根本没有提供菜单栏图标。所以，如果你正在全屏工作，或者查看另一个无法显示 Dock 的外接显示器，你将无法注意到未读消息！<br>
 Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这样的应用的图标和徽章放置在菜单栏中。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/77" target="_blank">#77</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/77" target="_blank">#77</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5427,9 +5517,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>🔄 智能模式：快速切换适配不同写作风格和环境的 AI 模式</li>
 <li>🤖 AI 助手：内置语音助手，类似 ChatGPT 的对话助手</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/76" target="_blank">#76</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/76" target="_blank">#76</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5457,9 +5547,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <pre><code class="code-highlight"><span class="code-line line-number" line="1">defaults delete com.apple.dock springboard-rows
 </span><span class="code-line line-number" line="2">defaults delete com.apple.dock springboard-columns;killall Dock
 </span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/75" target="_blank">#75</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/75" target="_blank">#75</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5482,9 +5572,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/dad7dbc7-bc95-460c-9d3b-6acc128c8eb5" alt="Image"></p>
 <p><img src="https://github.com/user-attachments/assets/9c773152-1d5c-4056-ad6e-b3cf3c20dc61" alt="Image"></p>
 <p>通过 Pulse SDK 收集的日志可以分享并在 Pulse Mac 应用中大屏查看，或通过远程日志功能实时查看。在外出时，您还可以使用 Pulse iOS 应用轻松检查日志，随时随地掌握网络状况。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/74" target="_blank">#74</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/74" target="_blank">#74</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5505,9 +5595,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>DNS Easy Switcher 是一款简单实用的 macOS 菜单栏应用，帮助你轻松切换不同的 DNS 提供商，或者添加自定义的 DNS。它支持流行的 DNS 服务，如 Cloudflare DNS（1.1.1.1）、Quad9 DNS（9.9.9.9）、AdGuard DNS（94.140.14.14）和 GetFlix DNS（包括所有位置列表）。此外，你还可以禁用 DNS 覆盖（DHCP 提供的 DNS）并管理自己的 DNS 服务器。</p>
 <p><img src="https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57" alt="Image"></p>
 <p>应用支持测试 DNS 速度，帮助你找到最快的 DNS 提供商，并通过 Touch ID 进行 DNS 更改身份验证。集成在 macOS 菜单栏，设置在应用启动之间得以保存，同时支持 IPv4 和 IPv6。让你轻松管理网络设置，提升上网体验！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/73" target="_blank">#73</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/73" target="_blank">#73</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5528,9 +5618,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>TheBoringNotch 是一款开源工具，将 Mac 刘海区域转变为类似 iPhone 灵动岛的功能区，提升了其实用性。支持音乐切换、日程查看等功能，操作便捷，期待更多新功能加入。</p>
 <p><img src="https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064" alt="Image"></p>
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/19b87973-4b3a-4853-b532-7e82d1d6b040?title=TheBoringNotch&#x26;rehype=video"></video><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/72" target="_blank">#72</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/72" target="_blank">#72</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5563,9 +5653,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>REST API：可以在自己的脚本和应用中使用或更新数据。</li>
 </ul>
 <p>如果你在寻找一个轻量且功能丰富的服务器监控工具，Beszel 无疑是一个不错的选择！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/71" target="_blank">#71</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/71" target="_blank">#71</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5636,9 +5726,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 </ul>
 </li>
 </ol><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/70" target="_blank">#70</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/70" target="_blank">#70</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5674,9 +5764,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>企业微信机器人</li>
 <li>Telegram 机器人</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/69" target="_blank">#69</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/69" target="_blank">#69</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5700,9 +5790,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 💬 反馈意见： <a href="https://github.com/jaywcjlove/TextSoundSaver">https://github.com/jaywcjlove/TextSoundSaver</a></p>
 <p><img src="https://github.com/user-attachments/assets/359901a6-9eb3-4bc7-837f-6b92a8e531eb" alt=""></p>
 <p><img src="https://github.com/user-attachments/assets/d1d42abd-792a-4fea-9178-dcb9528c71bb" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/68" target="_blank">#68</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/68" target="_blank">#68</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5736,9 +5826,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>全天候助手：无论是学习新技术，还是解决复杂问题，GitHub Copilot 都能成为你随时随地的编码助手。</li>
 </ul>
 <p>无论你是初学者还是经验丰富的开发者，GitHub Copilot for Xcode 都能帮助你提升编程效率，是开发过程中不可或缺的得力助手！试试看，感受 AI 编程的力量！👩‍💻👨‍💻</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/67" target="_blank">#67</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/67" target="_blank">#67</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5772,9 +5862,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>展示本月所有事件</li>
 <li>提醒待办事项 TODO</li>
 </ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/66" target="_blank">#66</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/66" target="_blank">#66</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5802,9 +5892,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>切换窗口：在不同的应用窗口间快速切换，提升工作流效率。</li>
 </ul>
 <p>总之，Shortcat 是一款让 macOS 用户能够更加高效、快捷地操作系统的工具，适用于任何希望减少鼠标使用、提高工作效率的用户。无论你是程序员、设计师还是日常办公人员，Shortcat 都能为你带来更顺畅的操作体验。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/65" target="_blank">#65</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/65" target="_blank">#65</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5846,9 +5936,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>不再为手动输入或无法复制的文本烦恼，TRex 为你提供了一种简单、智能的解决方案，让你能够高效、轻松地获取任何文本。</p>
 <h3>总结</h3>
 <p>TRex 是一款专为 macOS 用户设计的 OCR 工具，它帮助你轻松捕获屏幕上的文本，并直接将其保存到剪贴板。无论是 PDF 文件、图片中的文字，还是视频中的字幕，TRex 都能精准提取，极大地提高了你的工作效率。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/64" target="_blank">#64</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/64" target="_blank">#64</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5884,9 +5974,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h3>未来可期</h3>
 <p>移动端支持、书库管理、文本转语音、甚至 AI 驱动的书籍摘要等令人兴奋的新功能即将上线！</p>
 <p>立即开始你的下一段阅读旅程，体验 Readest 带来的沉浸式、直观的阅读乐趣吧！欢迎一起贡献，让我们共同打造最出色的电子书阅读器！😊</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/63" target="_blank">#63</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/63" target="_blank">#63</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5908,9 +5998,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3" alt="image"></p>
 <p>应用的核心逻辑被放入专门的模块（如 *Core），这些模块与 UI 分离，使得代码可以跨多个平台（如 SwiftUI 和 UIKit）共享，同时也能跨 iOS、macOS、watchOS 和 tvOS 共享。项目还配备了完整的测试套件，包括功能的单元测试、集成测试和端到端测试，确保每个模块都能可靠地工作。</p>
 <p>Minesweeper 是一个极好的开源项目，适合开发者用作学习范例，了解如何在 Swift 中使用现代架构模式进行开发，尤其是对于希望深入理解模块化、可测试性和跨平台开发的开发者来说，是一个理想的学习资源。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/62" target="_blank">#62</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/62" target="_blank">#62</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5940,9 +6030,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>隐私分享：提供公开分享和只读画廊功能，确保隐私安全。</li>
 </ul>
 <p>无论是个人用户还是团队，Immich 都是一个高效、便捷且注重隐私的多媒体管理工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/61" target="_blank">#61</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/61" target="_blank">#61</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5962,9 +6052,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <summary type="html"><![CDATA[Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！]]></summary>
         <content type="html"><![CDATA[<p>Copilot for Xcode 是一款 Xcode 源代码编辑器扩展，支持 GitHub Copilot、Codeium 和 ChatGPT，为 Xcode 带来 AI 编程体验！</p>
 <p><img src="https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/60" target="_blank">#60</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/60" target="_blank">#60</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -5991,9 +6081,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 ✨ 虚拟屏幕创建，Picture in Picture（画中画）支持<br>
 ✨ 软断开连接，EDID 配置覆盖<br>
 ✨ DDC 控制，颜色模式选择与同步，布局保护等</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/59" target="_blank">#59</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/59" target="_blank">#59</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6051,9 +6141,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h3>结语</h3>
 <p>Beszel 是一个功能强大且易于使用的监控工具，适合各种规模的用户使用。它通过轻量级设计和简化的操作流程，使系统资源监控变得简单而高效。同时，丰富的功能特性，如 Docker 监控、多用户支持、OAuth 集成、自动备份和 REST API，使其成为管理服务器和容器的理想选择。</p>
 <p>如果你正在寻找一款轻量、易用且功能强大的服务器资源监控工具，Beszel 无疑是一个值得尝试的选择。赶快下载并体验吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/58" target="_blank">#58</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/58" target="_blank">#58</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6094,9 +6184,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/fa42aa8b-c689-4cd0-bdce-69582cfc33b7" alt="image"></p>
 <h3>结语</h3>
 <p>UTM 是一款集简易性与强大功能于一身的应用，特别适合希望在 Mac 上运行不同操作系统的用户。无论你是开发者、技术爱好者，还是想要体验不同系统的普通用户，UTM 都能满足你的需求。快来试试 UTM，解锁你的 Mac 新潜力吧！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/57" target="_blank">#57</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/57" target="_blank">#57</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6143,9 +6233,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 </ul>
 <p><img src="https://github.com/user-attachments/assets/a256f126-8066-4a9b-b035-c205fd216624" alt="image"></p>
 <p>Achico 让文件压缩变得更加简单、快速并且高效，是每个 macOS 用户的必备工具。无论是压缩文件节省存储空间，还是转换格式、调整大小，Achico 都能提供完美的解决方案。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/56" target="_blank">#56</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/56" target="_blank">#56</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6177,9 +6267,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>🔄 <strong>系统状态自动刷新</strong>：自动更新系统统计数据，实时显示最新情况。</li>
 </ul>
 <p>NeoHtop 通过先进的技术栈提供了丰富的功能和友好的用户界面，适合开发者和系统管理员实时监控和管理系统资源。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/55" target="_blank">#55</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/55" target="_blank">#55</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6204,9 +6294,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 </span><span class="code-line line-number" line="2">brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> app-menu
 </span></code></pre>
 <p>简单、方便，让你的 macOS 操作更顺手！ #macOS #效率工具 #appmenu</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/54" target="_blank">#54</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/54" target="_blank">#54</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6227,9 +6317,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>DrawDB 是一个强大且易用的数据库实体关系编辑器，无需注册，直接在浏览器中操作。只需点击几下即可创建图表，导出 SQL 脚本，个性化编辑器，更多功能等你来体验！</p>
 <p><img src="https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9" alt="image"></p>
 <p><img src="https://github.com/user-attachments/assets/33f569c7-8fe4-4dcb-ac20-95c9bce44bea" alt="drawdb"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/53" target="_blank">#53</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/53" target="_blank">#53</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6264,9 +6354,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>Swift Shift 是一个开源项目，完全免费。开发者本着自由和共享的精神设计了这个工具，且在自学 Swift 语言和 macOS API 的过程中，一步步实现了这款工具。正因如此，Swift Shift 拥有极好的自定义性，同时得益于社区的力量，不断改进和更新。</p>
 <h3>结语：开启 Swift Shift，高效管理你的窗口</h3>
 <p>总之，Swift Shift 是一个轻便、实用、开源的 macOS 窗口管理工具。对于每天需要频繁管理窗口的用户而言，它提供了更加高效的操作体验。如果你也在寻找一种快捷的窗口管理方式，不妨试试 Swift Shift，把更多时间留给工作和创造！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/52" target="_blank">#52</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/52" target="_blank">#52</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6292,9 +6382,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>在线体验：<a href="https://huggingface.co/spaces/sczhou/CodeFormer">https://huggingface.co/spaces/sczhou/CodeFormer</a></p>
 <p>为提升对不同退化程度的适应性，CodeFormer 还集成了可控特征变换模块，允许用户在保真度和图像质量之间灵活调节。凭借强大的代码本先验和全局建模能力，CodeFormer 在修复质量和保真度方面均超越了现有方法，展现了卓越的修复效果。</p>
 <p>通过引入代码查找和全局转换器，CodeFormer 不仅提高了盲脸修复的精确性和自然性，还提供了极大的灵活性，简化了复杂的修复任务，使模型在鲁棒性和表现力上表现出色。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/51" target="_blank">#51</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/51" target="_blank">#51</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6335,9 +6425,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/9c1d56bf-1283-4191-ba1d-ffebba81476b" alt="image"></p>
 <p>Mythic 还支持在应用内创建多个独立的 Windows® 环境。每个游戏都可以在一个独立的环境中运行，确保游戏之间互不干扰、安全隔离。</p>
 <p>通过 Mythic，让你在 macOS 上玩 Windows 游戏变得更加简单直观，无论是游戏管理还是运行环境设置，它都能为你提供最佳体验。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/50" target="_blank">#50</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/50" target="_blank">#50</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6411,9 +6501,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 </ol>
 <p>内置的暗黑模式能够为长时间使用的用户减轻视觉疲劳，提供更加舒适的体验。</p>
 <p><img src="https://github.com/user-attachments/assets/d3eba015-8719-4bce-b202-3d76e5a1f349" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/49" target="_blank">#49</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/49" target="_blank">#49</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6453,9 +6543,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>提高效率： 通过创建虚拟显示器，用户可以专注于重要的应用程序，而不会打乱现有的窗口配置，增强工作效率。</li>
 </ul>
 <p>DeskPad 是你进行高效屏幕共享的不二之选，无论是在会议、演示还是远程协作中，它都能让你的工作更加顺畅便捷。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/48" target="_blank">#48</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/48" target="_blank">#48</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6500,9 +6590,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>Cork 独有的软件包标记功能让用户可以对感兴趣或重要的软件包进行标记，方便日后跟踪和管理。</p>
 <h3>总结</h3>
 <p>Cork 不仅加速了 Homebrew 的操作，还带来了许多无法通过 Homebrew CLI 实现的便利功能。对于想要更好地管理软件包的 macOS 用户，Cork 是一个不可或缺的工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/47" target="_blank">#47</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/47" target="_blank">#47</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6558,9 +6648,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>macmon 由 Rust 语言编写，运行高效，占用系统资源极少，确保你的监控工具不会对系统产生额外负担。</p>
 <h3>结语</h3>
 <p>macmon 是每一位 Apple Silicon 用户的必备工具，无论你是开发者、设计师，还是技术爱好者，它都可以帮助你深入了解系统性能，随时掌握设备的运行状态。无需 sudo 权限，高效便捷，macmon 将是你优化系统和应用的得力助手。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/46" target="_blank">#46</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/46" target="_blank">#46</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6606,9 +6696,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>内置终端：从文件面板直接打开同步目录的终端。</li>
 </ul>
 <p>无论是普通用户还是高级用户，Marta 都能为你提供极致的文件管理体验。立即下载，享受高效管理文件的乐趣！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/45" target="_blank">#45</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/45" target="_blank">#45</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6650,9 +6740,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/f6a4fde6-e22a-4591-8c55-f239ae0a321c" alt="image"></p>
 <h3>结语</h3>
 <p>如果你正在寻找一个可以替代 Vercel、Netlify 和 Heroku 的解决方案，同时希望拥有完全的控制权，Dokploy 是一个值得探索的开源工具。它不仅简化了应用程序的部署和管理，还提供了灵活的扩展和高度自定义的自托管功能，为开发者提供了前所未有的便利和自由。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/44" target="_blank">#44</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/44" target="_blank">#44</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6680,9 +6770,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/addc1683-4c1c-4601-89bb-d95dfad382a9" alt="screenshots-3-cn"></p>
 <p>PasteQuick 还在不断优化和开发中，旨在为您的日常工作带来更多便利。我们非常欢迎您的宝贵反馈和建议，帮助我们进一步完善应用！</p>
 <p>体验 PasteQuick，让您的剪贴板管理更加高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/43" target="_blank">#43</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/43" target="_blank">#43</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6703,9 +6793,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>MIST 是一款 macOS 工具，专为自动下载 macOS 固件和安装包设计。它可以列出所有可用的 macOS 固件和安装包，展示详细信息如名称、版本、构建号、发布日期和大小，还支持过滤与当前 Mac 兼容的版本。</p>
 <p><img src="https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8" alt=""></p>
 <p>MIST 支持下载 Apple Silicon 和 Intel Mac 的固件与安装包，可以生成 <code>.app</code>、<code>.dmg</code>、<code>.iso</code> 等格式，适用于虚拟化软件，还可以生成 macOS 安装包（.pkg）。此外，它支持自定义软件更新目录，缓存下载，并提供自动重试失败的下载操作。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/42" target="_blank">#42</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/42" target="_blank">#42</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6811,9 +6901,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>当我完全意识到协调器实例是长期存在的时，捕获父视图就毫无意义了。但是，它确实让我误以为我有一个引用类型的关系，而这种关系是可行的。如果这个属性被称为 <code>firstParent</code> 或者 <code>creatingView</code>，也许我就不会犯这个错误了。</p>
 <h3>永远不要捕获父视图</h3>
 <p>经历了这一切后，我不确定是否能想到任何一个你需要捕获 <code>Coordinator</code> 创建视图副本的理由。如果你知道这种父视图-协调器模式可能有用的原因，请告诉我。不过即便有一些合适的场景，我仍然认为这种模式太容易让人困惑，就像我一样，因此最好还是避免使用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/41" target="_blank">#41</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/41" target="_blank">#41</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6844,9 +6934,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h3>虚拟化您的游戏环境</h3>
 <p><img src="https://github.com/user-attachments/assets/500f32b0-be5a-46c1-85a2-bd1ddfc7a2dd" alt="image"></p>
 <p>在 Mythic 中创建多个 Windows® 环境，确保所有游戏安全隔离，互不干扰。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/40" target="_blank">#40</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/40" target="_blank">#40</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6924,9 +7014,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 </li>
 </ol>
 <p>Nginx UI 使得 Nginx 的管理变得更加简单和直观，非常适合需要监控和配置 Nginx 的用户。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/39" target="_blank">#39</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/39" target="_blank">#39</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -6978,9 +7068,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h3>未来开发计划：</h3>
 <p>NPKILL 未来还会推出更多功能，包括进一步提升性能、减少依赖、支持按使用时间筛选文件夹、展示树状目录等。</p>
 <p>如果你想让你的系统更干净、更高效，NPKILL 是一款非常值得一试的工具！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/38" target="_blank">#38</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/38" target="_blank">#38</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7003,9 +7093,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/967a3ef2-5a9e-4f4e-a760-061c04297cfa?rehype=video"></video>
 <p>更换图标的操作也非常简单，用户只需下载所需图标，并通过 Finder 中的 “获取简介” 功能，将新的图标文件拖拽替换原有图标。项目由 <a href="https://x.com/elrumo">@elrumo</a> 维护，支持社区互动和反馈。</p>
 <p><img src="https://github.com/user-attachments/assets/bac552fd-9b06-447c-9be4-9da1ce5ecbee" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/37" target="_blank">#37</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/37" target="_blank">#37</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7053,9 +7143,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li><strong>多种操作模式</strong>：便捷的操作栏、快捷键以及覆盖系统快捷键的功能，满足不同用户的使用习惯。</li>
 </ol>
 <p>总之，Copi 是一款致力于为 macOS 用户提供安全、便捷的剪贴板替代方案的工具。无论是个人隐私数据的保护，还是应对越来越复杂的剪贴板攻击，Copi 都能够为您提供全方位的保障。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/36" target="_blank">#36</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/36" target="_blank">#36</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7087,9 +7177,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>支持深色/浅色模式。</li>
 </ul>
 <p><img src="https://github.com/user-attachments/assets/548fc213-7f50-4614-b624-378c4ac0046d" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/35" target="_blank">#35</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/35" target="_blank">#35</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7120,9 +7210,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h3>潜入 Yorumi 的宁静世界</h3>
 <p>如果你正在寻找一个能够为你的开发环境带来平静，同时确保代码清晰、高效的配色方案，Yorumi 将是你的不二选择。无论是通宵达旦地编码，还是在工作时追求舒适与专注，Yorumi 都能为你提供完美的宁静与清晰结合的体验。</p>
 <p>现在就潜入 Yorumi 的宁静世界，让它为你的编码体验带来凉爽、平静与专注。你的眼睛——以及你的代码——都会感谢你。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/34" target="_blank">#34</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/34" target="_blank">#34</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7211,9 +7301,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>使用这样的方式，开发者可以发挥创意，创建独特的动画效果。</p>
 <h3>总结</h3>
 <p>Transition.css 是一个强大的工具，旨在简化网页动画的实现过程。无论是简单的过渡效果还是复杂的自定义动画，Transition.css 都能为开发者提供所需的灵活性和控制力。通过简单的引入和使用方式，用户能够迅速提升网页的交互性和美观度。Transition.css 的开源特性也让其在开发者社区中得到了广泛的支持和应用，是现代网页设计中不可或缺的一部分。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/33" target="_blank">#33</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/33" target="_blank">#33</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7253,9 +7343,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>使用 Penpot，用户可以设计出可共享和重用的库；将设计元素转化为组件和令牌，以便实现可重用性和可扩展性；构建逼真的用户流程和交互，提升设计的质量和用户体验。</p>
 <h2>总结</h2>
 <p>总之，Penpot 作为一款开源设计工具，通过提供强大的功能和灵活的协作方式，促进了设计师与开发者之间的有效沟通与合作。无论是设计复杂的用户界面，还是快速生成现成的代码，Penpot 都能帮助团队实现更高效的工作流程。选择 Penpot，意味着选择了一个更为开放与创新的设计未来。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/32" target="_blank">#32</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/32" target="_blank">#32</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7290,9 +7380,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>新版本还支持 Last.fm Scrobble，用户可以通过 Last.fm 跟踪自己的音乐收听记录。音乐云盘的支持让用户能够上传并管理自己的音乐文件。对于键盘爱好者，该版本还提供了自定义快捷键和全局快捷键功能，允许用户快速执行常用操作。此外，还支持 Mpris，多平台的媒体播放控制将变得更加轻松。</p>
 <p>Web 版本体验：<a href="https://music.qier222.com/">https://music.qier222.com/</a></p>
 <p>总的来说，2.0 Alpha 版本带来了众多强大且实用的功能更新，为用户提供了更加流畅、个性化的音乐播放体验。未来的版本中，开发者还会引入更多功能，持续优化用户体验。对于喜爱网易云音乐并希望探索更多功能的用户来说，这无疑是一个值得尝试的版本。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/31" target="_blank">#31</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/31" target="_blank">#31</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7360,9 +7450,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h3>9. 总结</h3>
 <p>HTTP的QUERY方法为开发者提供了一种在不影响资源状态的前提下，执行复杂查询的新方式。它结合了GET和POST的优点，允许通过请求体传递大量查询参数，同时确保查询是安全和幂等的。通过引入缓存机制和灵活的请求体支持，QUERY方法适合于许多复杂的查询场景，并为提升应用性能提供了可能。</p>
 <p>这一方法的提出不仅解决了当前HTTP请求方式的一些局限性，还为未来的Web应用开发提供了更多的可能性。开发者可以通过合理使用QUERY方法，优化查询操作的效率和安全性，从而构建更高效、更可靠的应用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/30" target="_blank">#30</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/30" target="_blank">#30</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7391,9 +7481,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h2>2024 年 8 月排名</h2>
 <p><img src="https://github.com/user-attachments/assets/ec121adf-e510-45d2-8e67-6ac35ee43fdf" alt="image"></p>
 <p>按上个月新增的星标数量排名</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/29" target="_blank">#29</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/29" target="_blank">#29</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7435,9 +7525,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>备份过程中，BBackupp 还会通过通知系统向用户更新进展。无论是备份完成还是出现问题，用户都会第一时间知晓，完全掌控整个过程。</p>
 <h3>健康检查</h3>
 <p>BBackupp 提供了一个简单的活跃状态检查功能，通过发送 GET 请求，用户可以快速确认备份服务器是否正常运行。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/28" target="_blank">#28</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/28" target="_blank">#28</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7473,9 +7563,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>当你离开或返回时，BLEUnlock 可以选择性地暂停和恢复音乐或视频播放，提升观影体验。</p>
 <h3>安全存储密码</h3>
 <p>密码会安全地存储在系统钥匙串中，确保你的信息得到充分保护。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/27" target="_blank">#27</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/27" target="_blank">#27</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7507,9 +7597,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h2>开发者模式</h2>
 <p><img src="https://github.com/user-attachments/assets/acb33871-38b4-4561-aab8-ba808a581a7d" alt="image"></p>
 <p>作为一款独特的工具，PrettyClean 专门为开发者设计了开发者模式，支持扫描和清理主流开发工具产生的编译缓存文件。这使它成为目前市场上唯一支持开发者选项的磁盘清理工具，非常适合程序员和开发者使用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/26" target="_blank">#26</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/26" target="_blank">#26</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7530,9 +7620,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>Swift Regex 是一个 Web 应用，其服务端由 Swift 编写，专为测试和调试正则表达式设计。应用支持正则表达式高亮显示，并允许你快速测试和调试 Swift 的正则表达式以及 Regex Builder。</p>
 <p><img src="https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3" alt="image"></p>
 <p><img src="https://github.com/user-attachments/assets/0083d41b-51ea-4032-aea6-8d12956a925e" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/25" target="_blank">#25</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/25" target="_blank">#25</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7565,9 +7655,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/01e60ce0-015d-4e89-b748-c16b9b611096" alt="image"></p>
 <p><img src="https://github.com/user-attachments/assets/a103911f-8ddb-4264-b5b9-903fff7865b1" alt="image"></p>
 <p><strong>Cherry Studio</strong> 是一款功能丰富且灵活的 LLM 客户端工具，无论你是开发者、学生，还是内容创作者，都可以利用它实现智能对话和数据分析的高效管理。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/24" target="_blank">#24</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/24" target="_blank">#24</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7599,9 +7689,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <li>安装程序的改进</li>
 </ul>
 <p>这些改进将使 Fellmonger 从原型走向一个可以真正投入使用的生产级应用。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/23" target="_blank">#23</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/23" target="_blank">#23</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7637,9 +7727,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <h1>结语</h1>
 <p>如果你在寻找一款轻量、高效、且安全的剪贴板管理器，Maccy 是你不二的选择。它用简洁的设计和强大的功能，让你专注于工作，同时随时掌握你的剪贴板历史。</p>
 <p>Maccy 为追求效率和简约的 macOS 用户提供了理想的剪贴板管理解决方案，值得一试。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/22" target="_blank">#22</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/22" target="_blank">#22</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7670,9 +7760,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 </ul>
 <p><img src="https://github.com/user-attachments/assets/5c5e5378-056e-4156-8c85-f5d16bb299e4" alt=""></p>
 <p>选择 <strong>Certimate</strong>，让域名证书管理变得简单、安全、高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/21" target="_blank">#21</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/21" target="_blank">#21</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7695,9 +7785,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>本列表包含了开发者相关的各类软件和服务（如 SaaS、PaaS、IaaS 等），特别是对基础设施开发者（系统管理员、DevOps 实践者等）有用的服务。虽然免费服务很多，但为了保持专注，本列表专门聚焦于基础设施开发相关的服务。由于这些边界有时可能模糊不清，列表内容是带有一定主观性的，若某些贡献未被采纳，请不必感到不满。</p>
 <p>这个列表是通过1600多位贡献者的 Pull Requests、审查和想法汇集而成的，任何人都可以通过提交 Pull Requests 来帮助更新列表中的内容，包括添加新的免费服务或移除那些已变更或停用的服务。</p>
 <p>通过此列表，开发者可以更轻松地发现适合其需求的免费工具和服务，从而提高开发效率并降低成本。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/20" target="_blank">#20</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/20" target="_blank">#20</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7720,9 +7810,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>PlayCover 的独特之处在于，它允许用户将自定义触控操作映射到键盘上，这是其他侧载工具（如 Sideloadly）无法实现的。这些操作包括常见的 WASD 控制、摄像头移动、左右点击以及个性化按键映射，类似于流行的 Android 模拟器 Bluestacks 的按键映射系统。</p>
 <p>这款软件最初是为了在 Apple Silicon 设备上运行《原神》而开发的，但现已支持更广泛的应用程序。尽管如此，仍有一些游戏不受支持，或者可能会遇到一些小问题。</p>
 <p>PlayCover 提供了流畅的游戏和应用体验，是 Apple Silicon 设备用户探索 iOS 应用新玩法的理想选择。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/19" target="_blank">#19</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/19" target="_blank">#19</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7744,9 +7834,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd" alt=""></p>
 <p>可以完美展示你项目的成长和社区影响力！</p>
 <p><img src="https://github.com/user-attachments/assets/138ac2e2-1430-4801-b20d-306d5624645f" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/18" target="_blank">#18</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/18" target="_blank">#18</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7766,9 +7856,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <summary type="html"><![CDATA[深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情]]></summary>
         <content type="html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568" alt=""></p>
 <p>深入分析 OpenAI 的 GPT-4o mini，与其他 AI 模型在质量、价格、性能（每秒处理的 tokens 数量与首 token 响应时间）、上下文窗口等关键指标上的对比。点击任意模型可查看不同 API 提供商的比较详情</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/17" target="_blank">#17</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/17" target="_blank">#17</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7789,9 +7879,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>Xcode 使用 AI 代码提示，XcodeLLMEligible 项目旨在实现 Xcode LLM/Apple Intelligence 在任何 Mac 上的永久使用，无需禁用系统完整性保护 (SIP) 或只需禁用一次</p>
 <p><img src="https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e" alt="image"></p>
 <p>Xcode LLM 仅支持 macOS 15.0 Beta 及更高版本，Apple Intelligence 仅支持 macOS 15.1 Beta 及更高版本</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/16" target="_blank">#16</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/16" target="_blank">#16</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7815,9 +7905,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p>Appwrite 使用高拓展性的微服务架构。此外，Appwrite 支持多种 API（REST、WebSocket 和 即将推出的 GraphQL），来迎合您的个性化开发习惯。</p>
 <p><img src="https://github.com/user-attachments/assets/329d22c7-4946-4951-b457-eb5f31f512a9" alt="image"></p>
 <p>Appwrite API 界面层利用后台缓存和任务委派来提供极速的响应时间。后台的 Worker 代理还允许您使用消息队列来处理负载，并精确控制硬件合理分配和成本。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/15" target="_blank">#15</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/15" target="_blank">#15</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7838,9 +7928,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>这是一个专注于技术分享的 RSS 源，内容涵盖 React 前端等技术领域。分享了丰富的编程心得与技术探索，非常适合开发者和技术爱好者学习与参考。</p>
 <p><img src="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" alt=""></p>
 <p><img src="https://github.com/user-attachments/assets/9a2fe7b3-f81f-475d-9e44-2ea37ad6c76f" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/14" target="_blank">#14</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/14" target="_blank">#14</a> • 
       <a href="https://github.com/Innei" target="_blank">@Innei</a>
       ]]></content>
         <author>
@@ -7867,9 +7957,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 💾 自动保存 &#x26; 恢复图像
 🛠️ 自定义 Stable Diffusion Core ML 模型
 🖥️ 使用 SwiftUI 开发</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/13" target="_blank">#13</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/13" target="_blank">#13</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7891,9 +7981,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <p><img src="https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865" alt=""></p>
 <p>它作为开发者的资源，帮助他们更好地了解常见的拒绝情景及如何有效应对这些问题，从而优化未来提交的审核流程。</p>
 <video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/abe0d243-cc15-413a-a67a-a653af0289fd?title=App%2520Rejection%2520Fixes&#x26;rehype=video"></video><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/12" target="_blank">#12</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/12" target="_blank">#12</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7914,9 +8004,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>Gitness 是一个强大的开源开发平台，集成了代码托管和自动化持续集成与持续交付的功能。通过 Gitness，开发者可以轻松管理源代码，并结合 DevOps 自动化管道，提升软件开发效率。</p>
 <p><img src="https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622" alt=""></p>
 <p>不论是想要在本地运行 Gitness，还是通过 Docker 部署，Gitness 都提供了简单易用的解决方案。除此之外，Gitness 还支持自动生成 API 客户端、UI 交互以及与 Swagger 集成，进一步提升开发体验。Gitness 旨在替代 Drone，提供更全面的代码管理和自动化管道功能。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/11" target="_blank">#11</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/11" target="_blank">#11</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7946,9 +8036,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 <pre><code class="code-highlight"><span class="code-line line-number" line="1">&#x3C;img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah's Blue Github Chart" />
 </span></code></pre>
 <img src="https://ghchart.rshah.org/409ba5/jaywcjlove" alt="2016rshah&#x27;s Blue Github Chart"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/10" target="_blank">#10</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/10" target="_blank">#10</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -7969,9 +8059,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>这是一个基于 Python 的项目，围绕 Acidanthera 的 OpenCorePkg 和 Lilu，旨在让受支持和不受支持的 Mac 都能够运行并解锁 macOS 的功能。</p>
 <p><img src="https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c" alt="image"></p>
 <p>该项目的主要目标是为不再受苹果支持的 Mac 注入新活力，使得 2007 年及以后的老款机器能够安装和使用 macOS Big Sur 及更新的系统。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/9" target="_blank">#9</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/9" target="_blank">#9</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -8035,9 +8125,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 
 
 <table><thead><tr><th>名称</th><th>Star</th></tr></thead><tbody><tr><td><a href="https://github.com/fatedier/frp">frp</a></td><td><img src="https://img.shields.io/github/stars/fatedier/frp.svg" alt=""></td></tr><tr><td><a href="https://github.com/inlets/inlets-pro">inlets</a></td><td><img src="https://img.shields.io/github/stars/inlets/inlets-pro.svg" alt=""></td></tr><tr><td><a href="https://github.com/inconshreveable/ngrok">ngrok</a></td><td><img src="https://img.shields.io/github/stars/inconshreveable/ngrok.svg" alt=""></td></tr><tr><td><a href="https://github.com/pgrok/pgrok">pgrok</a></td><td><img src="https://img.shields.io/github/stars/pgrok/pgrok.svg" alt=""></td></tr><tr><td><del><a href="https://github.com/cnlh/easyProxy">easyProxy</a></del></td><td><img src="https://img.shields.io/github/stars/cnlh/easyProxy.svg" alt=""></td></tr><tr><td><a href="https://natapp.cn/">natapp</a></td><td>-</td></tr><tr><td><a href="https://github.com/ehang-io/nps">nps</a></td><td><img src="https://img.shields.io/github/stars/ehang-io/nps.svg" alt=""></td></tr><tr><td><a href="https://github.com/jpillora/chisel">chisel</a></td><td><img src="https://img.shields.io/github/stars/jpillora/chisel.svg" alt=""></td></tr></tbody></table><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/8" target="_blank">#8</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/8" target="_blank">#8</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -8064,9 +8154,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
   <img src="https://ip.im/img" alt="My IP Address" width="215" height="70">
 </a>
 <p>另外还有一些为爱发电的，IP 查询工具： <a href="https://ip.sy/">https://ip.sy/</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/7" target="_blank">#7</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/7" target="_blank">#7</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -8086,9 +8176,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <summary type="html"><![CDATA[一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接]]></summary>
         <content type="html"><![CDATA[<p>一个开源的短链接服务，基于 Next.js，可以部署到 Vercel，生成自己管理的短链接</p>
 <p><img src="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" alt=""></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/6" target="_blank">#6</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/6" target="_blank">#6</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -8124,9 +8214,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
 </ul>
 <p><img src="https://github.com/user-attachments/assets/ddaa44e4-1a00-4f81-8b03-b29ee6c98de5" alt="image"></p>
 <p><img src="https://github.com/user-attachments/assets/87e82758-a478-4112-9914-da7cef1ff8fe" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/5" target="_blank">#5</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/5" target="_blank">#5</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>
@@ -8147,9 +8237,9 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
         <content type="html"><![CDATA[<p>Quick RSS 是一款简单易用、私密且功能直观的桌面 RSS 订阅阅读器应用，无论你是资讯狂热者，还是喜欢跟进博客文章、新闻头条，Quick RSS 都能帮助你轻松管理和阅读你喜爱的 RSS 订阅源。</p>
 <p>👉 <a href="https://github.com/jaywcjlove/quick-rss">https://github.com/jaywcjlove/quick-rss</a></p>
 <p><img src="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" alt="image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/4" target="_blank">#4</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
-      <a href="https://github.com/jaywcjlove/quick-rss/issues/4" target="_blank">#4</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content>
         <author>

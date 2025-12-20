@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Osaurus：原生 Apple Silicon LLM 服务器，支持菜单栏、命令行和 macOS 26 的 Apple 模型。](https://wangchujiang.com/quick-rss/issue/239.html) 
+
+![](https://github.com/user-attachments/assets/c16197bc-0b6d-461d-a77b-df4dd354e485)
+
+Osaurus 是一款原生 macOS 的一体化 LLM 服务器，支持 MCP（Model Context Protocol）。 它可以在 Apple Silicon 上同时运行 本地与远程大语言模型，并提供与 OpenAI 兼容的 API、工具调用能力以及内置插件生态。 什么是 Osaurus？ Osaurus 将多个关键能力整合到一个统一的 macOS 应用中，包括： MLX 运行时 —— 基 ([#239](https://github.com/jaywcjlove/quick-rss/issues/239) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [LlamaBarn：菜单栏应用，让你轻松在 Mac 上安装、运行并访问本地 LLM。](https://wangchujiang.com/quick-rss/issue/238.html) 
 
 ![](https://github.com/user-attachments/assets/6fc74244-2353-4fd5-8ada-6849950d2c7a)

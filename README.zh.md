@@ -63,7 +63,11 @@ Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：
 https://wangchujiang.com/quick-rss/feed.xml
 ```
 
-<br />
+我的 [RSS 订阅收藏](./feeds/feed_favorites.zh.md)
+
+```
+https://wangchujiang.com/quick-rss/opml.xml
+```
 
 ## 其它 RSS 源
 

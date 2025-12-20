@@ -65,7 +65,11 @@ We have curated some high-quality RSS feeds and encourage you to share your favo
 https://wangchujiang.com/quick-rss/feed.xml
 ```
 
-<br />
+My [RSS Feed Favorites](./feeds/feed_favorites.md)
+
+```
+https://wangchujiang.com/quick-rss/opml.xml
+```
 
 ## Other RSS Feed
 

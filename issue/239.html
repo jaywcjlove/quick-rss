@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Osaurus：原生 Apple Silicon LLM 服务器，支持菜单栏、命令行和 macOS 26 的 Apple 模型。 Quick RSS</title>
+    <meta name="description" content="Osaurus 是一款原生 macOS 的一体化 LLM 服务器，支持 MCP（Model Context Protocol）。它可以在 Apple Silicon 上同时运行 本地与远程大语言模型，并提供与 OpenAI 兼容的 API、">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/239.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="Osaurus 是一款原生 macOS 的一体化 LLM 服务器，支持 MCP（Model Context Protocol）。它可以在 Apple Silicon 上同时运行 本地与远程大语言模型，并提供与 OpenAI 兼容的 API、">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - Osaurus 是一款原生 macOS 的一体化 LLM 服务器，支持 MCP（Model Context Protocol）。它可以在 Apple Silicon 上同时运行 本地与远程大语言模型，并提供与 OpenAI 兼容的 API、">
+    <meta property="twitter:description" content="Osaurus 是一款原生 macOS 的一体化 LLM 服务器，支持 MCP（Model Context Protocol）。它可以在 Apple Silicon 上同时运行 本地与远程大语言模型，并提供与 OpenAI 兼容的 API、">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.4">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.4"></script>
+    <script src="../js/dark-mode.js?v=1.34.4"></script>
+    <script src="../js/markdown-style.js?v=1.34.4"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="osaurus原生-apple-silicon-llm-服务器支持菜单栏命令行和-macos-26-的-apple-模型"><a aria-hidden="true" tabindex="-1" href="#osaurus原生-apple-silicon-llm-服务器支持菜单栏命令行和-macos-26-的-apple-模型" class="anchor"><span class="icon icon-link"></span></a>Osaurus：原生 Apple Silicon LLM 服务器，支持菜单栏、命令行和 macOS 26 的 Apple 模型。</h1>
+        <p>
+          <strong>Osaurus</strong> 是一款原生 macOS 的一体化 <strong>LLM 服务器</strong>，支持 <strong>MCP（Model Context Protocol）</strong>。
+          它可以在 Apple Silicon 上同时运行 <strong>本地与远程大语言模型</strong>，并提供与 <strong>OpenAI 兼容的 API</strong>、工具调用能力以及内置插件生态。
+        </p>
+        <img alt="Osaurus" src="https://github.com/user-attachments/assets/c16197bc-0b6d-461d-a77b-df4dd354e485">
+        <h2 id="什么是-osaurus"><a aria-hidden="true" tabindex="-1" href="#什么是-osaurus" class="anchor"><span class="icon icon-link"></span></a>什么是 Osaurus？</h2>
+        <p>Osaurus 将多个关键能力整合到一个统一的 macOS 应用中，包括：</p>
+        <ul>
+          <li><strong>MLX 运行时</strong> —— 基于 MLX，为 Apple Silicon 优化的本地模型推理</li>
+          <li><strong>远程模型提供商</strong> —— 可连接 OpenAI、OpenRouter、Ollama、LM Studio 以及任何兼容 OpenAI API 的服务</li>
+          <li><strong>OpenAI / Anthropic / Ollama API 兼容</strong> —— 可直接作为现有工具的替代后端，无需改代码</li>
+          <li><strong>MCP 服务器</strong> —— 通过 Model Context Protocol 向 AI Agent 暴露工具能力</li>
+          <li><strong>远程 MCP 提供商</strong> —— 聚合外部 MCP 服务器的工具，统一管理</li>
+          <li><strong>插件系统</strong> —— 支持社区插件和自定义工具扩展</li>
+          <li><strong>开发者工具</strong> —— 内置请求分析、服务探索器，便于调试</li>
+          <li><strong>Apple Foundation Models</strong> —— 在 macOS 26+（Tahoe）上直接使用系统级模型</li>
+        </ul>
+        <h2 id="功能一览"><a aria-hidden="true" tabindex="-1" href="#功能一览" class="anchor"><span class="icon icon-link"></span></a>功能一览</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>功能</th>
+              <th>描述</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>本地 LLM 服务器</td>
+              <td>本地运行 Llama、Qwen、Gemma、Mistral 等模型</td>
+            </tr>
+            <tr>
+              <td>远程模型支持</td>
+              <td>OpenAI、OpenRouter、Ollama、LM Studio 或自定义接口</td>
+            </tr>
+            <tr>
+              <td>OpenAI 兼容接口</td>
+              <td><code>/v1/chat/completions</code>，支持流式输出与工具调用</td>
+            </tr>
+            <tr>
+              <td>Anthropic 兼容</td>
+              <td><code>/messages</code> 接口，可直接用于 Claude Code 与官方 SDK</td>
+            </tr>
+            <tr>
+              <td>MCP 服务器</td>
+              <td>连接 Cursor、Claude Desktop 等 MCP 客户端</td>
+            </tr>
+            <tr>
+              <td>远程 MCP</td>
+              <td>聚合多个 MCP 服务器的工具能力</td>
+            </tr>
+            <tr>
+              <td>工具与插件</td>
+              <td>浏览器自动化、文件系统、Git、Web 搜索等</td>
+            </tr>
+            <tr>
+              <td>自定义主题</td>
+              <td>创建、导入、导出主题，支持完整配色定制</td>
+            </tr>
+            <tr>
+              <td>开发者工具</td>
+              <td>请求洞察、API Explorer、实时接口测试</td>
+            </tr>
+            <tr>
+              <td>菜单栏聊天</td>
+              <td>快捷聊天浮窗，支持会话历史与上下文追踪（⌘;）</td>
+            </tr>
+            <tr>
+              <td>模型管理</td>
+              <td>从 Hugging Face 下载并管理本地模型</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>👉 <a href="https://github.com/dinoki-ai/osaurus">https://github.com/dinoki-ai/osaurus</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/dinoki-ai/osaurus" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/239" target="_blank">#239</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.4"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.4
+    </div>
+    <script src="../js/tocbot.js?v=1.34.4"></script>
+  </body>
+</html>

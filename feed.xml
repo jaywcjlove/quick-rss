@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-20T19:07:03.494Z</updated>
+    <updated>2025-12-20T19:10:42.880Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,38 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Alertivity：菜单栏中的实时系统健康状态]]></title>
+        <id>241</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/241.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/034e3860-5cf2-406d-965b-bc55b9165cb2" type="image//user-attachments/assets/034e3860-5cf2-406d-965b-bc55b9165cb2"/>
+        <updated>2025-12-20T19:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Alertivity 是一款 macOS 菜单栏工具，它会定期采样 CPU、内存、磁盘、网络和进程数据，帮助你及早发现系统问题。它将系统健康状态总结为 正常、升高 或 严重，突出显示触发该状态的指标，并提供对问题进程的快速操作。 特性 实时系统采样：每几秒钟更新一次系统状态，状态由 CPU、内存、磁盘和网络的最高严重性指标驱动（带有轻微滞后避免频繁切换）。 菜单栏指示器：显示总体状态或特定指标（C]]></summary>
+        <content type="html"><![CDATA[<p><strong>Alertivity</strong> 是一款 macOS 菜单栏工具，它会定期采样 CPU、内存、磁盘、网络和进程数据，帮助你及早发现系统问题。它将系统健康状态总结为 <strong>正常</strong>、<strong>升高</strong> 或 <strong>严重</strong>，突出显示触发该状态的指标，并提供对问题进程的快速操作。</p>
+<img alt="Alertivity" src="https://github.com/user-attachments/assets/034e3860-5cf2-406d-965b-bc55b9165cb2">
+<h3>特性</h3>
+<ul>
+<li><strong>实时系统采样</strong>：每几秒钟更新一次系统状态，状态由 CPU、内存、磁盘和网络的最高严重性指标驱动（带有轻微滞后避免频繁切换）。</li>
+<li><strong>菜单栏指示器</strong>：显示总体状态或特定指标（CPU、内存、磁盘、网络）；可选的自动切换仅在严重状态时生效，切换优先级为 <strong>CPU > 内存 > 磁盘 > 网络</strong>，并在状态变化时稍作延迟，同时在状态非严重时可隐藏指示器。</li>
+<li><strong>紧凑菜单</strong>：显示每个指标的总结、网络吞吐量以及 CPU/内存/网络的高活动进程，提供快速操作，可直接在活动监视器中查看或终止进程（磁盘采样被排除以避免延迟）。</li>
+<li><strong>通知</strong>：对于严重状态或高活动进程，提供通知，包括触发指标/数值和进程元数据；通知会进行限速以避免过多提醒。</li>
+<li><strong>设置选项</strong>：可设置 Dock 可见性、开机启动、菜单图标行为（默认图标类型、自动切换、仅在高活动时显示、显示指标图标）、通知选项以及检测阈值（CPU 百分比及持续时间要求）。</li>
+</ul>
+<p>通过 <strong>Alertivity</strong>，你可以更轻松地监控和管理 macOS 系统的健康状态，及时发现并处理潜在问题，提升系统稳定性。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/241" target="_blank">#241</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ProxyCast：把你的 AI 客户端额度用到任何地方]]></title>
         <id>240</id>

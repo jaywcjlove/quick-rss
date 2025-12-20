@@ -51,7 +51,7 @@
     <outline text="Captain SwiftUI" title="Captain SwiftUI" xmlUrl="https://captainswiftui.substack.com/feed.xml" htmlUrl="https://captainswiftui.substack.com" description="The Captain’s Blog on Swift, SwiftUI, and Apple Development" type="rss" />
     <outline text="Peter Friese" title="Peter Friese" xmlUrl="https://peterfriese.dev/rss.xml" htmlUrl="https://peterfriese.dev/" description="Firebase, Swift, SwiftUI, and Combine articles and tips by Peter Friese" type="rss" />
     <outline text="Yet Another Swift Blog" title="Yet Another Swift Blog" xmlUrl="https://www.vadimbulavin.com/feed.xml" htmlUrl="https://www.vadimbulavin.com/feed.xml" description="Learn Swift development for iOS using SwiftUI, UIKit, and Xcode with these free Swift 5.3 tutorials and code examples." type="rss" />
-    <outline text="t9t.io" title="t9t.io" xmlUrl="https://blog.t9t.io/atom.xml" htmlUrl="/atom.xml" description="" type="rss" />
+    <outline text="t9t.io" title="t9t.io" xmlUrl="https://blog.t9t.io/atom.xml" htmlUrl="https://blog.t9t.io/atom.xml" description="" type="rss" />
     <outline text="小孙同学" title="小孙同学" xmlUrl="https://blog.guoqi.dev/rss.xml" htmlUrl="https://blog.guoqi.dev/" description="编程｜摄影｜骑行｜写作" type="rss" />
     <outline text="NSHipster" title="NSHipster" xmlUrl="https://nshipster.com/feed.xml" htmlUrl="https://nshipster.com/feed.xml" description="NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa." type="rss" />
     <outline text="MacStories" title="MacStories" xmlUrl="https://www.macstories.net/feed" htmlUrl="https://www.macstories.net/" description="Apple news, app reviews, and stories by Federico Viticci and friends." type="rss" />
@@ -82,11 +82,18 @@
     <outline text="ALL About RSS - Telegram Channel" title="ALL About RSS - Telegram Channel" xmlUrl="https://feeds.feedburner.com/AllAboutRSS" htmlUrl="https://t.me/s/aboutrss" description="关于 #RSS 技术的 #应用 #周边 #介绍 #方法 #教程 #指南 #讨论 #观点 #技巧RSS = Really Simple Syndication / Rich Site Summary推特：https://twitter.com/aboutrss频道 RSS Feed：https://feeds.feedburner.com/ALLAboutRSS频道 bot：@channelmcbot群组：@allaboutrss (福利：推特账号的 Retweet 会自动发至群组) - Powered by RSSHub" type="rss" />
     <outline text="zStack" title="zStack" xmlUrl="https://blog.noicdi.com/atom.xml" htmlUrl="https://blog.noicdi.com/atom.xml" description="" type="rss" />
     <outline text="The SwiftUI Lab" title="The SwiftUI Lab" xmlUrl="https://swiftui-lab.com/feed/" htmlUrl="https://swiftui-lab.com/" description="When the documentation is missing, we experiment." type="rss" />
-    <outline text="Roy的个人站" title="Roy的个人站" xmlUrl="https://geofftools.cn/blog/atom.xml" htmlUrl="/blog/atom.xml" description="记录一些我碰到的有意思的东西。" type="rss" />
+    <outline text="Roy的个人站" title="Roy的个人站" xmlUrl="https://geofftools.cn/blog/atom.xml" htmlUrl="https://geofftools.cn/blog/atom.xml" description="记录一些我碰到的有意思的东西。" type="rss" />
     <outline text="夜法之书" title="夜法之书" xmlUrl="https://blog.17lai.site/atom.xml" htmlUrl="https://blog.17lai.site" description="" type="rss" />
     <outline text="36氪" title="36氪" xmlUrl="https://36kr.com/feed" htmlUrl="http://36kr.com" description="" type="rss" />
     <outline text="Software Development Notes" title="Software Development Notes" xmlUrl="https://swdevnotes.com/index.xml" htmlUrl="https://swdevnotes.com/" description="Recent content on Software Development Notes" type="rss" />
     <outline text="Mac Power Users" title="Mac Power Users" xmlUrl="https://www.relay.fm/mpu/feed" htmlUrl="https://www.relay.fm/mpu" description="Learn about getting the most from your Apple technology with focused topics and workflow guests. Creating Mac Power Users since 2009, one conversation at a time. Hosted by David Sparks and Stephen Hackett." type="rss" />
     <outline text="Docker" title="Docker" xmlUrl="https://www.docker.com/feed/" htmlUrl="https://www.docker.com" description="" type="rss" />
+    <outline text="云谦的博客" title="云谦的博客" xmlUrl="https://sorrycc.com/feed" htmlUrl="http://sorrycc.com" description="Exploring writing, reading, technology, and AI." type="rss" />
+    <outline text="iOS development by tanaschita.com" title="iOS development by tanaschita.com" xmlUrl="https://tanaschita.com/rss.xml" htmlUrl="https://tanaschita.com" description="Learn how to develop iOS and Swift applications for Apple&apos;s platforms with quick guides tutorials, from beginner to advanced." type="rss" />
+    <outline text="Step Into Vision" title="Step Into Vision" xmlUrl="https://stepinto.vision/feed" htmlUrl="https://stepinto.vision" description="Spatial Computing with visionOS" type="rss" />
+    <outline text="CodeSpeedy" title="CodeSpeedy" xmlUrl="https://www.codespeedy.com/feed/" htmlUrl="https://www.codespeedy.com/" description="Coding solutions - PHP, Java, JS, Python" type="rss" />
+    <outline text="Stories by Jakir Hossain on Medium" title="Stories by Jakir Hossain on Medium" xmlUrl="https://medium.com/feed/@jakir" htmlUrl="https://medium.com/@jakir?source=rss-3ef993a5539a------2" description="Stories by Jakir Hossain on Medium" type="rss" />
+    <outline text="Xojo Programming Blog" title="Xojo Programming Blog" xmlUrl="https://blog.xojo.com/feed/" htmlUrl="https://blog.xojo.com" description="Blog about the Xojo programming language and IDE" type="rss" />
+    <outline text="Osas Blogs" title="Osas Blogs" xmlUrl="https://swiftlogic.io/feed.xml" htmlUrl="https://swiftlogic.io/feed.xml" description="An iOS blog" type="rss" />
   </body>
 </opml>

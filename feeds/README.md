@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ProxyCast：把你的 AI 客户端额度用到任何地方](https://wangchujiang.com/quick-rss/issue/240.html) 
+
+![](https://github.com/user-attachments/assets/e4e93c46-9fa6-4e6b-9bef-df6304660de9)
+
+这个工具能帮你做什么？ 场景一：换个更好用的 IDE 你可能已经有了 Kiro 账号，可以使用 Claude 系列模型，但如果 Kiro IDE 不太顺手，想尝试使用 Claude Code 或 Cursor 来写代码，而又不想额外付费购买 API，ProxyCast 可以帮你解决这个问题。 场景二：把额度分享给其他工具 假设你有 Claude Code 这个月剩余的额度，为什么不利用它呢？你可以 ([#240](https://github.com/jaywcjlove/quick-rss/issues/240) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Osaurus：原生 Apple Silicon LLM 服务器，支持菜单栏、命令行和 macOS 26 的 Apple 模型。](https://wangchujiang.com/quick-rss/issue/239.html) 
 
 ![](https://github.com/user-attachments/assets/c16197bc-0b6d-461d-a77b-df4dd354e485)

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Seanime：一款跨平台的媒体服务器，支持流式播放动漫和漫画管理](https://wangchujiang.com/quick-rss/issue/243.html) 
+
+![](https://github.com/user-attachments/assets/e343e866-8812-46b3-84c3-d881d2884db2)
+
+Seanime 是一款功能强大的媒体服务器，提供网页界面和桌面应用，帮助用户管理本地库、流式播放动漫，并提供漫画阅读功能。 重要说明 Seanime 不提供、托管或分发任何媒体内容，所有内容均需用户自行合法获取。 用户需要遵守当地的法律法规，应用内列出的扩展与 Seanime 无关，如违反版权法，扩展可能会被移除。 主要功能 跨平台支持：网页界面和桌面应用，方便在不同设备上使用。 内置视频播放器： ([#243](https://github.com/jaywcjlove/quick-rss/issues/243) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [ClaudeBar：macOS 菜单应用，帮助开发者实时监控各类 AI 编程助手的配额使用情况。](https://wangchujiang.com/quick-rss/issue/242.html) 
 
 ![](https://github.com/user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461)

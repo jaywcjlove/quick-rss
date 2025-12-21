@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-21T12:48:52.076Z</updated>
+    <updated>2025-12-21T18:27:41.714Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,52 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Seanime：一款跨平台的媒体服务器，支持流式播放动漫和漫画管理]]></title>
+        <id>243</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/243.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/e343e866-8812-46b3-84c3-d881d2884db2" type="image//user-attachments/assets/e343e866-8812-46b3-84c3-d881d2884db2"/>
+        <updated>2025-12-21T18:27:04.000Z</updated>
+        <summary type="html"><![CDATA[Seanime 是一款功能强大的媒体服务器，提供网页界面和桌面应用，帮助用户管理本地库、流式播放动漫，并提供漫画阅读功能。 重要说明 Seanime 不提供、托管或分发任何媒体内容，所有内容均需用户自行合法获取。 用户需要遵守当地的法律法规，应用内列出的扩展与 Seanime 无关，如违反版权法，扩展可能会被移除。 主要功能 跨平台支持：网页界面和桌面应用，方便在不同设备上使用。 内置视频播放器：]]></summary>
+        <content type="html"><![CDATA[<p>Seanime 是一款功能强大的媒体服务器，提供网页界面和桌面应用，帮助用户管理本地库、流式播放动漫，并提供漫画阅读功能。</p>
+<img alt="Seanime" src="https://github.com/user-attachments/assets/e343e866-8812-46b3-84c3-d881d2884db2">
+<h2>重要说明</h2>
+<ul>
+<li>Seanime 不提供、托管或分发任何媒体内容，所有内容均需用户自行合法获取。</li>
+<li>用户需要遵守当地的法律法规，应用内列出的扩展与 Seanime 无关，如违反版权法，扩展可能会被移除。</li>
+</ul>
+<h2>主要功能</h2>
+<ul>
+<li><strong>跨平台支持</strong>：网页界面和桌面应用，方便在不同设备上使用。</li>
+<li><strong>内置视频播放器</strong>：支持 Seanime Denshi（包括 SSA/ASS 字幕，Anime4K 锐化等）。</li>
+<li><strong>完美集成 AniList</strong>：可以浏览、管理、评分、发现和更多。</li>
+<li><strong>自定义源支持</strong>：允许添加不在 AniList 上的系列，甚至非动漫和漫画系列。</li>
+<li><strong>离线模式</strong>：无需互联网连接也能使用。</li>
+<li><strong>扫描本地动漫库</strong>：几秒钟内扫描所有动漫，不需要特殊的文件夹结构或重命名。</li>
+<li><strong>扩展的 Torrent 搜索引擎</strong>：方便查找和下载资源。</li>
+<li><strong>支持直接流式播放</strong>：使用 Bittorrent、Torbox 和 Real-Debrid，直接将 torrent 内容流式传输到播放器。</li>
+<li><strong>自动下载新剧集</strong>：通过自定义过滤器自动下载。</li>
+<li><strong>桌面端观看支持</strong>：支持 MPV、VLC 和 MPC-HC 等播放器。</li>
+<li><strong>移动端观看支持</strong>：通过外部播放器链接，在手机上观看。</li>
+<li><strong>支持转码和直接播放</strong>：可以流式传输到任何设备的浏览器。</li>
+<li><strong>漫画阅读</strong>：支持从本地库或扩展中阅读漫画章节。</li>
+<li><strong>跟踪剧集</strong>：可以查看即将播出的剧集，或是已经错过的剧集。</li>
+<li><strong>可定制的 UI</strong>：根据个人需求调整界面。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/243" target="_blank">#243</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClaudeBar：macOS 菜单应用，帮助开发者实时监控各类 AI 编程助手的配额使用情况。]]></title>
         <id>242</id>

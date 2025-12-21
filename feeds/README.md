@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ClaudeBar：macOS 菜单应用，帮助开发者实时监控各类 AI 编程助手的配额使用情况。](https://wangchujiang.com/quick-rss/issue/242.html) 
+
+![](https://github.com/user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461)
+
+一个 macOS 菜单栏应用，监控 AI 编程助手的使用配额。随时掌握 Claude、Codex 和 Gemini 的使用情况。 功能 多服务支持 - 在一个地方监控 Claude、Codex 和 Gemini 的配额 实时配额跟踪 - 查看会话、每周和模型特定的使用百分比 视觉状态指示器 - 彩色进度条（绿色/黄色/红色）显示配额健康状况 系统通知 - 当配额状态变为警告或危急时接收提醒 自动刷 ([#242](https://github.com/jaywcjlove/quick-rss/issues/242) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Alertivity：菜单栏中的实时系统健康状态](https://wangchujiang.com/quick-rss/issue/241.html) 
 
 ![](https://github.com/user-attachments/assets/034e3860-5cf2-406d-965b-bc55b9165cb2)

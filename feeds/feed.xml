@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-20T19:10:42.880Z</updated>
+    <updated>2025-12-21T12:48:52.076Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,38 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[ClaudeBar：macOS 菜单应用，帮助开发者实时监控各类 AI 编程助手的配额使用情况。]]></title>
+        <id>242</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/242.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461" type="image//user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461"/>
+        <updated>2025-12-21T12:48:22.000Z</updated>
+        <summary type="html"><![CDATA[一个 macOS 菜单栏应用，监控 AI 编程助手的使用配额。随时掌握 Claude、Codex 和 Gemini 的使用情况。 功能 多服务支持 - 在一个地方监控 Claude、Codex 和 Gemini 的配额 实时配额跟踪 - 查看会话、每周和模型特定的使用百分比 视觉状态指示器 - 彩色进度条（绿色/黄色/红色）显示配额健康状况 系统通知 - 当配额状态变为警告或危急时接收提醒 自动刷]]></summary>
+        <content type="html"><![CDATA[<p>一个 macOS 菜单栏应用，监控 AI 编程助手的使用配额。随时掌握 Claude、Codex 和 Gemini 的使用情况。</p>
+<img alt="ClaudeBar" src="https://github.com/user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461">
+<h2>功能</h2>
+<ul>
+<li>多服务支持 - 在一个地方监控 Claude、Codex 和 Gemini 的配额</li>
+<li>实时配额跟踪 - 查看会话、每周和模型特定的使用百分比</li>
+<li>视觉状态指示器 - 彩色进度条（绿色/黄色/红色）显示配额健康状况</li>
+<li>系统通知 - 当配额状态变为警告或危急时接收提醒</li>
+<li>自动刷新 - 配额在可配置的时间间隔内自动更新</li>
+<li>快捷键 - 使用 ⌘D（仪表板）和 ⌘R（刷新）快速访问</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/242" target="_blank">#242</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alertivity：菜单栏中的实时系统健康状态]]></title>
         <id>241</id>

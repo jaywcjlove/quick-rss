@@ -1,5 +1,19 @@
 [
   {
+    "id": "242",
+    "url": "https://wangchujiang.com/quick-rss/issue/242.html",
+    "title": "ClaudeBar：macOS 菜单应用，帮助开发者实时监控各类 AI 编程助手的配额使用情况。",
+    "content_html": "<p>一个 macOS 菜单栏应用，监控 AI 编程助手的使用配额。随时掌握 Claude、Codex 和 Gemini 的使用情况。</p>\n<img alt=\"ClaudeBar\" src=\"https://github.com/user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461\">\n<h2>功能</h2>\n<ul>\n<li>多服务支持 - 在一个地方监控 Claude、Codex 和 Gemini 的配额</li>\n<li>实时配额跟踪 - 查看会话、每周和模型特定的使用百分比</li>\n<li>视觉状态指示器 - 彩色进度条（绿色/黄色/红色）显示配额健康状况</li>\n<li>系统通知 - 当配额状态变为警告或危急时接收提醒</li>\n<li>自动刷新 - 配额在可配置的时间间隔内自动更新</li>\n<li>快捷键 - 使用 ⌘D（仪表板）和 ⌘R（刷新）快速访问</li>\n</ul>",
+    "summary": "一个 macOS 菜单栏应用，监控 AI 编程助手的使用配额。随时掌握 Claude、Codex 和 Gemini 的使用情况。 ## 功能 - 多服务支持 - 在一个地方监控 Claude、Codex 和 Gemini 的配额 - 实时配额跟踪 - 查看会话、每周和模型特定的使用百分比 - 视觉状态指示器 - 彩色进度条（绿色/黄色/红色）显示配额健康状况 - 系统通知 - 当配额状态变为警告或",
+    "banner_image": null,
+    "date_published": "2025-12-21T12:48:22Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个 macOS 菜单栏应用，监控 AI 编程助手的使用配额。随时掌握 Claude、Codex 和 Gemini 的使用情况。\n\n<img alt=\"ClaudeBar\" src=\"https://github.com/user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461\" />\n\n## 功能\n\n- 多服务支持 - 在一个地方监控 Claude、Codex 和 Gemini 的配额\n- 实时配额跟踪 - 查看会话、每周和模型特定的使用百分比\n- 视觉状态指示器 - 彩色进度条（绿色/黄色/红色）显示配额健康状况\n- 系统通知 - 当配额状态变为警告或危急时接收提醒\n- 自动刷新 - 配额在可配置的时间间隔内自动更新\n- 快捷键 - 使用 ⌘D（仪表板）和 ⌘R（刷新）快速访问"
+  },
+  {
     "id": "241",
     "url": "https://wangchujiang.com/quick-rss/issue/241.html",
     "title": "Alertivity：菜单栏中的实时系统健康状态",

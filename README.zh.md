@@ -12,7 +12,7 @@
     <a href="https://github.com/jaywcjlove/quick-rss/releases">变更日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072?platform=mac" title="Quick RSS AppStore"><img alt="Quick RSS AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
     <a target="_blank" href="https://apps.apple.com/app/regex-mate/6670696072?platform=iphone" title="Quick RSS for iOS"><img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51"></a>
   </p>

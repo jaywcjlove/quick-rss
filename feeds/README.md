@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Kaset：原生 macOS YouTube Music 客户端，采用 Liquid Glass UI](https://wangchujiang.com/quick-rss/issue/244.html) 
+
+![](https://github.com/user-attachments/assets/27b4be54-76ad-4f0a-add4-d710fe584a31)
+
+Kaset 是一款原生 macOS YouTube Music 客户端，由 Swift 和 SwiftUI 构建，旨在为你的 Mac 提供流畅、高质量的音乐体验。应用采用 Apple Music 风格界面，拥有 Liquid Glass 播放栏、简洁的侧边栏导航，并支持系统深度集成，包括控制中心“正在播放”、媒体键控制以及 Dock 菜单操作。 使用 Kaset，你可以： 播放 YouTube M ([#244](https://github.com/jaywcjlove/quick-rss/issues/244) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Seanime：一款跨平台的媒体服务器，支持流式播放动漫和漫画管理](https://wangchujiang.com/quick-rss/issue/243.html) 
 
 ![](https://github.com/user-attachments/assets/e343e866-8812-46b3-84c3-d881d2884db2)

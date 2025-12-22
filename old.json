@@ -1,5 +1,19 @@
 [
   {
+    "id": "244",
+    "url": "https://wangchujiang.com/quick-rss/issue/244.html",
+    "title": "Kaset：原生 macOS YouTube Music 客户端，采用 Liquid Glass UI",
+    "content_html": "<p><strong>Kaset</strong> 是一款原生 macOS YouTube Music 客户端，由 Swift 和 SwiftUI 构建，旨在为你的 Mac 提供流畅、高质量的音乐体验。应用采用 Apple Music 风格界面，拥有 Liquid Glass 播放栏、简洁的侧边栏导航，并支持系统深度集成，包括控制中心“正在播放”、媒体键控制以及 Dock 菜单操作。</p>\n<img alt=\"Kaset\" src=\"https://github.com/user-attachments/assets/27b4be54-76ad-4f0a-add4-d710fe584a31\">\n<p><strong>使用 Kaset，你可以：</strong></p>\n<ul>\n<li>播放 YouTube Music Premium 内容，支持 DRM 保护</li>\n<li>接收音乐播放通知，并在后台继续播放</li>\n<li>使用键盘快捷键完全控制播放和导航</li>\n<li>探索最新专辑、排行榜、心情与风格</li>\n<li>浏览你的音乐库，包括播放列表、收藏歌曲、专辑和艺人</li>\n<li>快速搜索歌曲、专辑、艺人和播放列表</li>\n</ul>\n<p>Kaset 将 YouTube Music 的强大功能带到 macOS，提供原生、响应迅速且视觉精美的界面，让音乐发现与播放变得轻松愉快。</p>",
+    "summary": "**Kaset** 是一款原生 macOS YouTube Music 客户端，由 Swift 和 SwiftUI 构建，旨在为你的 Mac 提供流畅、高质量的音乐体验。应用采用 Apple Music 风格界面，拥有 Liquid Glass 播放栏、简洁的侧边栏导航，并支持系统深度集成，包括控制中心“正在播放”、媒体键控制以及 Dock 菜单操作。 **使用 Kaset，你可以：** * 播放",
+    "banner_image": null,
+    "date_published": "2025-12-22T20:13:19Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**Kaset** 是一款原生 macOS YouTube Music 客户端，由 Swift 和 SwiftUI 构建，旨在为你的 Mac 提供流畅、高质量的音乐体验。应用采用 Apple Music 风格界面，拥有 Liquid Glass 播放栏、简洁的侧边栏导航，并支持系统深度集成，包括控制中心“正在播放”、媒体键控制以及 Dock 菜单操作。\n\n<img alt=\"Kaset\" src=\"https://github.com/user-attachments/assets/27b4be54-76ad-4f0a-add4-d710fe584a31\" />\n\n**使用 Kaset，你可以：**\n\n* 播放 YouTube Music Premium 内容，支持 DRM 保护\n* 接收音乐播放通知，并在后台继续播放\n* 使用键盘快捷键完全控制播放和导航\n* 探索最新专辑、排行榜、心情与风格\n* 浏览你的音乐库，包括播放列表、收藏歌曲、专辑和艺人\n* 快速搜索歌曲、专辑、艺人和播放列表\n\nKaset 将 YouTube Music 的强大功能带到 macOS，提供原生、响应迅速且视觉精美的界面，让音乐发现与播放变得轻松愉快。"
+  },
+  {
     "id": "243",
     "url": "https://wangchujiang.com/quick-rss/issue/243.html",
     "title": "Seanime：一款跨平台的媒体服务器，支持流式播放动漫和漫画管理",

@@ -10,6 +10,13 @@ Changelog
 <img alt="Quick RSS AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51" />
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.3.0)
+
+1. feat: Add icons to context menu.
+2. perf: Optimize refresh request.
+3. fix: fix feed link error.
+4. fix: Fix issue when opening in browser.
+
 ## [v2.2.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.2.0)
 
 1. feat: Add move to top menu.

@@ -10,6 +10,13 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v2.3.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.3.0)
+
+1. feat: 为上下文菜单添加图标
+2. perf: 优化刷新请求
+3. fix: 修复订阅源链接错误
+4. fix: 修复在浏览器中打开时的问题
+
 ## [v2.2.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.2.0)
 
 1. feat: 新增移动到顶部菜单。

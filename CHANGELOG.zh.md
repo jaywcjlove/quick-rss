@@ -13,6 +13,12 @@
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.4.0)
+
+1. fix: 修复因重定向导致获取 favicon 失败的问题。
+2. feat: 优化刷新后添加按钮不显示的问题。
+3. feat: 新增取消刷新所有源功能。
+
 ## [v2.3.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.3.0)
 
 1. feat: 为上下文菜单添加图标

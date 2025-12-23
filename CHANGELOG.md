@@ -13,6 +13,12 @@ Changelog
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.4.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.4.0)
+
+1. fix: Fix favicon fetch failure due to redirection.
+2. feat: Optimize issue where the add button is not displayed after refresh.
+3. feat: Add cancel refresh all feeds.
+
 ## [v2.3.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.3.0)
 
 1. feat: Add icons to context menu.

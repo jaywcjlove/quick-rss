@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "246",
+            "content_html": "<p><strong>BetterAudio</strong> 是一款 macOS 菜单栏音频管理应用，专为需要更高效、更精细音频控制的用户打造。\n无需打开系统设置，你就可以直接在菜单栏中完成所有常用音频操作。</p>\n<img alt=\"BetterAudio\" src=\"https://github.com/user-attachments/assets/838608db-cd50-463d-9164-e804a0aee9c6\">\n<p>BetterAudio 让你能够快速切换输入与输出设备、精确控制音量、查看当前正在播放的内容，并为常用操作设置全局快捷键，一切都在菜单栏中完成，简单直观。</p>\n<h3>核心功能</h3>\n<ul>\n<li>点击菜单栏图标即可快速静音</li>\n<li>多种麦克风静音状态图标，清晰显示当前状态</li>\n<li><strong>正在播放（Now Playing）</strong>：显示当前播放的曲目</li>\n<li>曲目切换时的自定义通知</li>\n<li>强制媒体按键作用于指定播放器（如 Spotify、Apple Music）</li>\n<li>将音量键重定向到指定播放器</li>\n<li>快速切换音频输入与输出设备</li>\n<li>显示所有可用音频设备，并支持隐藏或加入黑名单</li>\n<li>直接从菜单栏调节系统音量</li>\n<li>调整音量或切换设备时的自定义通知</li>\n<li>自定义菜单栏中显示的组件内容</li>\n</ul>\n<p>BetterAudio 非常适合播客创作者、音乐爱好者、远程会议用户以及对 macOS 音频控制有更高需求的用户，让音频管理变得高效、直观且可控。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/246\" target=\"_blank\">#246</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/246.html",
+            "title": "BetterAudio：让 macOS 的音频管理更简单",
+            "summary": "BetterAudio 是一款 macOS 菜单栏音频管理应用，专为需要更高效、更精细音频控制的用户打造。 无需打开系统设置，你就可以直接在菜单栏中完成所有常用音频操作。 BetterAudio 让你能够快速切换输入与输出设备、精确控制音量、查看当前正在播放的内容，并为常用操作设置全局快捷键，一切都在菜单栏中完成，简单直观。 核心功能 点击菜单栏图标即可快速静音 多种麦克风静音状态图标，清晰显示当",
+            "image": "https://github.com/user-attachments/assets/838608db-cd50-463d-9164-e804a0aee9c6",
+            "date_modified": "2025-12-26T19:41:30.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "244",
             "content_html": "<p><strong>Kaset</strong> 是一款原生 macOS YouTube Music 客户端，由 Swift 和 SwiftUI 构建，旨在为你的 Mac 提供流畅、高质量的音乐体验。应用采用 Apple Music 风格界面，拥有 Liquid Glass 播放栏、简洁的侧边栏导航，并支持系统深度集成，包括控制中心“正在播放”、媒体键控制以及 Dock 菜单操作。</p>\n<img alt=\"Kaset\" src=\"https://github.com/user-attachments/assets/27b4be54-76ad-4f0a-add4-d710fe584a31\">\n<p><strong>使用 Kaset，你可以：</strong></p>\n<ul>\n<li>播放 YouTube Music Premium 内容，支持 DRM 保护</li>\n<li>接收音乐播放通知，并在后台继续播放</li>\n<li>使用键盘快捷键完全控制播放和导航</li>\n<li>探索最新专辑、排行榜、心情与风格</li>\n<li>浏览你的音乐库，包括播放列表、收藏歌曲、专辑和艺人</li>\n<li>快速搜索歌曲、专辑、艺人和播放列表</li>\n</ul>\n<p>Kaset 将 YouTube Music 的强大功能带到 macOS，提供原生、响应迅速且视觉精美的界面，让音乐发现与播放变得轻松愉快。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/244\" target=\"_blank\">#244</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/244.html",

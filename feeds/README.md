@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BetterAudio：让 macOS 的音频管理更简单](https://wangchujiang.com/quick-rss/issue/246.html) 
+
+![](https://github.com/user-attachments/assets/838608db-cd50-463d-9164-e804a0aee9c6)
+
+BetterAudio 是一款 macOS 菜单栏音频管理应用，专为需要更高效、更精细音频控制的用户打造。 无需打开系统设置，你就可以直接在菜单栏中完成所有常用音频操作。 BetterAudio 让你能够快速切换输入与输出设备、精确控制音量、查看当前正在播放的内容，并为常用操作设置全局快捷键，一切都在菜单栏中完成，简单直观。 核心功能 点击菜单栏图标即可快速静音 多种麦克风静音状态图标，清晰显示当 ([#246](https://github.com/jaywcjlove/quick-rss/issues/246) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Kaset：原生 macOS YouTube Music 客户端，采用 Liquid Glass UI](https://wangchujiang.com/quick-rss/issue/244.html) 
 
 ![](https://github.com/user-attachments/assets/27b4be54-76ad-4f0a-add4-d710fe584a31)

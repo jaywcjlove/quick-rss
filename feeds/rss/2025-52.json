@@ -1,5 +1,19 @@
 [
   {
+    "id": "246",
+    "url": "https://wangchujiang.com/quick-rss/issue/246.html",
+    "title": "BetterAudio：让 macOS 的音频管理更简单",
+    "content_html": "<p><strong>BetterAudio</strong> 是一款 macOS 菜单栏音频管理应用，专为需要更高效、更精细音频控制的用户打造。\n无需打开系统设置，你就可以直接在菜单栏中完成所有常用音频操作。</p>\n<img alt=\"BetterAudio\" src=\"https://github.com/user-attachments/assets/838608db-cd50-463d-9164-e804a0aee9c6\">\n<p>BetterAudio 让你能够快速切换输入与输出设备、精确控制音量、查看当前正在播放的内容，并为常用操作设置全局快捷键，一切都在菜单栏中完成，简单直观。</p>\n<h3>核心功能</h3>\n<ul>\n<li>点击菜单栏图标即可快速静音</li>\n<li>多种麦克风静音状态图标，清晰显示当前状态</li>\n<li><strong>正在播放（Now Playing）</strong>：显示当前播放的曲目</li>\n<li>曲目切换时的自定义通知</li>\n<li>强制媒体按键作用于指定播放器（如 Spotify、Apple Music）</li>\n<li>将音量键重定向到指定播放器</li>\n<li>快速切换音频输入与输出设备</li>\n<li>显示所有可用音频设备，并支持隐藏或加入黑名单</li>\n<li>直接从菜单栏调节系统音量</li>\n<li>调整音量或切换设备时的自定义通知</li>\n<li>自定义菜单栏中显示的组件内容</li>\n</ul>\n<p>BetterAudio 非常适合播客创作者、音乐爱好者、远程会议用户以及对 macOS 音频控制有更高需求的用户，让音频管理变得高效、直观且可控。</p>",
+    "summary": "**BetterAudio** 是一款 macOS 菜单栏音频管理应用，专为需要更高效、更精细音频控制的用户打造。 无需打开系统设置，你就可以直接在菜单栏中完成所有常用音频操作。 BetterAudio 让你能够快速切换输入与输出设备、精确控制音量、查看当前正在播放的内容，并为常用操作设置全局快捷键，一切都在菜单栏中完成，简单直观。 ### 核心功能 * 点击菜单栏图标即可快速静音 * 多种麦克风",
+    "banner_image": null,
+    "date_published": "2025-12-26T19:41:30Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**BetterAudio** 是一款 macOS 菜单栏音频管理应用，专为需要更高效、更精细音频控制的用户打造。\n无需打开系统设置，你就可以直接在菜单栏中完成所有常用音频操作。\n\n<img alt=\"BetterAudio\" src=\"https://github.com/user-attachments/assets/838608db-cd50-463d-9164-e804a0aee9c6\" />\n\nBetterAudio 让你能够快速切换输入与输出设备、精确控制音量、查看当前正在播放的内容，并为常用操作设置全局快捷键，一切都在菜单栏中完成，简单直观。\n\n### 核心功能\n\n* 点击菜单栏图标即可快速静音\n* 多种麦克风静音状态图标，清晰显示当前状态\n* **正在播放（Now Playing）**：显示当前播放的曲目\n* 曲目切换时的自定义通知\n* 强制媒体按键作用于指定播放器（如 Spotify、Apple Music）\n* 将音量键重定向到指定播放器\n* 快速切换音频输入与输出设备\n* 显示所有可用音频设备，并支持隐藏或加入黑名单\n* 直接从菜单栏调节系统音量\n* 调整音量或切换设备时的自定义通知\n* 自定义菜单栏中显示的组件内容\n\nBetterAudio 非常适合播客创作者、音乐爱好者、远程会议用户以及对 macOS 音频控制有更高需求的用户，让音频管理变得高效、直观且可控。"
+  },
+  {
     "id": "244",
     "url": "https://wangchujiang.com/quick-rss/issue/244.html",
     "title": "Kaset：原生 macOS YouTube Music 客户端，采用 Liquid Glass UI",

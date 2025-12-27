@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-27T14:08:48.955Z</updated>
+    <updated>2025-12-27T14:21:54.036Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,40 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[TuxMate：Linux 系统应用一键批量安装助手]]></title>
+        <id>248</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/248.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889" type="image//user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889"/>
+        <updated>2025-12-27T14:20:45.000Z</updated>
+        <summary type="html"><![CDATA[TuxMate 是一款网页工具，可为不同 Linux 发行版生成批量安装脚本，让新系统的应用配置轻松又快速。 📦 支持发行版：Ubuntu / Debian、Arch Linux、Fedora、openSUSE、NixOS 以及 Flatpak 和 Snap。 主要功能： 150+ 应用覆盖浏览器、开发工具、办公、游戏等 自动检测已安装软件、智能生成安装脚本 并行安装 Flatpak、AUR 自]]></summary>
+        <content type="html"><![CDATA[<p>TuxMate 是一款网页工具，可为不同 Linux 发行版生成批量安装脚本，让新系统的应用配置轻松又快速。</p>
+<img alt="TuxMate" src="https://github.com/user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889">
+<img alt="TuxMate" src="https://github.com/user-attachments/assets/ee9a8fd7-1973-4938-a6be-da5482022411">
+<p>📦 <strong>支持发行版</strong>：Ubuntu / Debian、Arch Linux、Fedora、openSUSE、NixOS 以及 Flatpak 和 Snap。</p>
+<h2><strong>主要功能</strong>：</h2>
+<ul>
+<li>150+ 应用覆盖浏览器、开发工具、办公、游戏等</li>
+<li>自动检测已安装软件、智能生成安装脚本</li>
+<li>并行安装 Flatpak、AUR 自动处理</li>
+<li>彩色输出与进度条、安装总结报告</li>
+<li>显示可用应用及不可用应用说明</li>
+</ul>
+<p>轻松配置新系统，只需一键，省时又高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/248" target="_blank">#248</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quotio：统一管理 AI 订阅并智能切换工具]]></title>
         <id>247</id>

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 27 Dec 2025 14:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Dec 2025 14:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,32 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TuxMate：Linux 系统应用一键批量安装助手]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/248.html</link>
+            <guid isPermaLink="false">248</guid>
+            <pubDate>Sat, 27 Dec 2025 14:20:45 GMT</pubDate>
+            <description><![CDATA[TuxMate 是一款网页工具，可为不同 Linux 发行版生成批量安装脚本，让新系统的应用配置轻松又快速。 📦 支持发行版：Ubuntu / Debian、Arch Linux、Fedora、openSUSE、NixOS 以及 Flatpak 和 Snap。 主要功能： 150+ 应用覆盖浏览器、开发工具、办公、游戏等 自动检测已安装软件、智能生成安装脚本 并行安装 Flatpak、AUR 自]]></description>
+            <content:encoded><![CDATA[<p>TuxMate 是一款网页工具，可为不同 Linux 发行版生成批量安装脚本，让新系统的应用配置轻松又快速。</p>
+<img alt="TuxMate" src="https://github.com/user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889">
+<img alt="TuxMate" src="https://github.com/user-attachments/assets/ee9a8fd7-1973-4938-a6be-da5482022411">
+<p>📦 <strong>支持发行版</strong>：Ubuntu / Debian、Arch Linux、Fedora、openSUSE、NixOS 以及 Flatpak 和 Snap。</p>
+<h2><strong>主要功能</strong>：</h2>
+<ul>
+<li>150+ 应用覆盖浏览器、开发工具、办公、游戏等</li>
+<li>自动检测已安装软件、智能生成安装脚本</li>
+<li>并行安装 Flatpak、AUR 自动处理</li>
+<li>彩色输出与进度条、安装总结报告</li>
+<li>显示可用应用及不可用应用说明</li>
+</ul>
+<p>轻松配置新系统，只需一键，省时又高效！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/248" target="_blank">#248</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889" length="0" type="image//user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889"/>
+        </item>
         <item>
             <title><![CDATA[Quotio：统一管理 AI 订阅并智能切换工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/247.html</link>

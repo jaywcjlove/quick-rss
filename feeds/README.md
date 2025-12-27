@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TuxMate：Linux 系统应用一键批量安装助手](https://wangchujiang.com/quick-rss/issue/248.html) 
+
+![](https://github.com/user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889)
+
+TuxMate 是一款网页工具，可为不同 Linux 发行版生成批量安装脚本，让新系统的应用配置轻松又快速。 📦 支持发行版：Ubuntu / Debian、Arch Linux、Fedora、openSUSE、NixOS 以及 Flatpak 和 Snap。 主要功能： 150+ 应用覆盖浏览器、开发工具、办公、游戏等 自动检测已安装软件、智能生成安装脚本 并行安装 Flatpak、AUR 自 ([#248](https://github.com/jaywcjlove/quick-rss/issues/248) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Quotio：统一管理 AI 订阅并智能切换工具](https://wangchujiang.com/quick-rss/issue/247.html) 
 
 ![](https://github.com/user-attachments/assets/93e479f9-c755-4f05-8bb6-4479e6f2ebc1)

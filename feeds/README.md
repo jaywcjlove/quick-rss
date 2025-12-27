@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Quotio：统一管理 AI 订阅并智能切换工具](https://wangchujiang.com/quick-rss/issue/247.html) 
+
+![](https://github.com/user-attachments/assets/93e479f9-c755-4f05-8bb6-4479e6f2ebc1)
+
+Quotio 是一款原生 macOS 应用，用于管理 CLIProxyAPI——一个为 AI 编程代理提供支持的本地代理服务器。它帮助你在一个地方管理多个 AI 账号、跟踪配额，并配置 CLI 工具。 功能特点 🔌 多提供商支持：通过 OAuth 或 API Key 连接 Gemini、Claude、OpenAI Codex、Qwen、Vertex AI、iFlow、Antigravity、Ki ([#247](https://github.com/jaywcjlove/quick-rss/issues/247) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BetterAudio：让 macOS 的音频管理更简单](https://wangchujiang.com/quick-rss/issue/246.html) 
 
 ![](https://github.com/user-attachments/assets/838608db-cd50-463d-9164-e804a0aee9c6)

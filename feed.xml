@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-29T13:15:58.176Z</updated>
+    <updated>2025-12-29T13:29:47.998Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -36,6 +36,85 @@
 <p>很多 AI 工具看起来很强，但流程容易碎。VideoAny 的优势在于：把“视频 + 图像 + 音频”放到一个工作区里，操作路径清晰，适合高频做内容的人快速出活。它也提供免费层级，想先试再决定是否升级很自然。</p>
 <p>👉 <a href="https://videoany.io/">https://videoany.io/</a></p><br /><br />
       <a href="https://github.com/jaywcjlove/quick-rss/issues/250" target="_blank">#250</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/shuyi6202-cell" target="_blank">@shuyi6202-cell</a>
+      ]]></content>
+        <author>
+            <name>shuyi6202-cell</name>
+            <uri>https://avatars.githubusercontent.com/u/251986998?v=4</uri>
+        </author>
+        <contributor>
+            <name>shuyi6202-cell</name>
+            <uri>https://avatars.githubusercontent.com/u/251986998?v=4</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AudioX: Turn Any Idea into Audio, Images, and Video with AI]]></title>
+        <id>249</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/249.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/c71a5c40-da7d-4538-9137-70a46934eea5" type="image//user-attachments/assets/c71a5c40-da7d-4538-9137-70a46934eea5"/>
+        <updated>2025-12-29T10:13:13.000Z</updated>
+        <summary type="html"><![CDATA[AudioX (https://audiox.app) 是您的一体化 AI 创作工作室。从最初的"万物转音频"引擎，已发展成为一个完整的多模态平台，可在几分钟内将文本、图像和视频转换为专业品质的音频、视觉和动态内容——无需制作经验。 多模态 AI 创作工作室 使用 AudioX，您可以在不同格式之间无缝切换，在一个平台上构建完整项目： 万物转音频 从几乎任何输入生成音效、音景、语音和完整音乐曲目。]]></summary>
+        <content type="html"><![CDATA[<p>AudioX (<a href="https://audiox.app">https://audiox.app</a>) 是您的一体化 AI 创作工作室。从最初的"万物转音频"引擎，已发展成为一个完整的多模态平台，可在几分钟内将文本、图像和视频转换为专业品质的音频、视觉和动态内容——无需制作经验。</p>
+<img alt="AudioX" src="https://github.com/user-attachments/assets/c71a5c40-da7d-4538-9137-70a46934eea5">
+<h2>多模态 AI 创作工作室</h2>
+<p>使用 AudioX，您可以在不同格式之间无缝切换，在一个平台上构建完整项目：</p>
+<ol>
+<li>
+<p>万物转音频
+从几乎任何输入生成音效、音景、语音和完整音乐曲目。用文字描述声音，上传图像以匹配氛围，或导入视频，让 AudioX 自动创建同步的音频和音乐。</p>
+</li>
+<li>
+<p>文本转图像
+将文字提示转换为高保真图像，用于缩略图、广告、故事板、社交媒体帖子等。使用简单自然的语言控制风格、情绪和构图。</p>
+</li>
+<li>
+<p>文本转视频
+从脚本或创意开始，让 AudioX 制作动态的、可分享的视频片段。非常适合短视频内容、产品说明和社交媒体故事。</p>
+</li>
+<li>
+<p>图像转图像
+上传参考图像，以新风格或变体重新构想。非常适合品牌迭代、概念艺术和快速视觉探索。</p>
+</li>
+<li>
+<p>图像转视频
+通过流畅的 AI 生成动效，让静态图像栩栩如生。从单帧创建引人注目的动画、电影循环和视觉效果。</p>
+</li>
+<li>
+<p>视频感知音频与音乐
+对于现有素材，AudioX 可以生成与节奏、情感和场景变化相匹配的音效和音乐——非常适合需要快速、符合品牌调性声音的电影制作人、剪辑师和游戏创作者。</p>
+</li>
+</ol>
+<h2>由先进 AI 驱动</h2>
+<p>在幕后，AudioX 结合了最先进的 Transformer 模型与专业的音频、图像和视频生成引擎。该平台已在跨流派和视觉风格的大型高质量数据集上训练，使其能够：</p>
+<ul>
+<li>理解跨音频、图像和视频的详细文本提示</li>
+<li>在格式转换时保持风格和情绪</li>
+<li>在几秒或几分钟内生成一致的、可用于制作的结果</li>
+</ul>
+<p>一切都在云端运行，因此您无需复杂的硬件或软件即可获得工作室级别的能力。</p>
+<h2>为现代创作者打造</h2>
+<p>AudioX 专为速度、灵活性和实际工作流程而设计：</p>
+<ul>
+<li>创作者与网红：为 YouTube、TikTok、Instagram 等平台制作无版权音乐、缩略图、动画和音效设计。</li>
+<li>电影制作人与剪辑师：在紧迫的时间线内生成临时音轨、最终音效设计、概念视觉和动态镜头。</li>
+<li>游戏与应用开发者：从一个工具包创建自适应音效、UI 音频、概念艺术和宣传视频。</li>
+<li>营销人员与品牌：通过定制视觉、配音和背景音乐快速测试营销活动，精准传达您的信息。</li>
+<li>教育工作者与团队：将脚本、幻灯片或参考资产转换为引人入胜的多媒体课程。</li>
+</ul>
+<h2>核心优势</h2>
+<ul>
+<li>无需专业技能——AI 处理作曲、图像生成和动效设计，您只需专注于创意。</li>
+<li>端到端工作流——在单一平台内从文本提示生成音频、图像和视频资产。</li>
+<li>快速迭代——无限次尝试变体，无需额外费用或复杂设置。</li>
+<li>制作级输出——导出适用于网络、社交媒体和专业工具的流行音频、图像和视频格式。</li>
+<li>灵活的套餐——免费开始，然后升级以解锁更高分辨率、更快队列和高级功能。</li>
+</ul>
+<h2>开始使用 AudioX 创作</h2>
+<p>AudioX 让您能够以传统工作流程所需时间的一小部分，从创意到完成的多媒体内容。无论您需要配乐、一组视觉素材，还是完整的音视频套件，AudioX 都能为您提供创作引擎，让您更快交付、想象更大——直接在浏览器中完成。</p>
+<p>立即访问 <code>audiox.app</code>，用 AI 将您的下一个创意转化为声音、图像和视频。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/249" target="_blank">#249</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/shuyi6202-cell" target="_blank">@shuyi6202-cell</a>

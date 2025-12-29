@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [把“短视频生产线”做成一个工具：VideoAny 一站式 AI 视频工作室](https://wangchujiang.com/quick-rss/issue/250.html) 
+
+![](https://github.com/user-attachments/assets/7717c7d1-86a9-45f7-b19e-9ded496ebefb)
+
+不想再在“出视频/出图/找配乐/做声音”之间来回切工具？VideoAny 把这些环节放进同一个工作区，用更简单的方式把内容做出来、做完整。[https://videoany.io/] AI 视频生成：从文字/图片直接出片段 输入一句话（或给一张图做起点），就能生成短视频内容，用来做开头镜头、过渡镜头、产品展示片段、故事氛围镜头都很顺手。重点是“先出可用版本，再小改微调”。 AI 图片：同一套风格把 ([#250](https://github.com/jaywcjlove/quick-rss/issues/250) - [@shuyi6202-cell](https://github.com/shuyi6202-cell))
 ## [TuxMate：Linux 系统应用一键批量安装助手](https://wangchujiang.com/quick-rss/issue/248.html) 
 
 ![](https://github.com/user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889)

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 27 Dec 2025 14:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 13:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,32 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[把“短视频生产线”做成一个工具：VideoAny 一站式 AI 视频工作室]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/250.html</link>
+            <guid isPermaLink="false">250</guid>
+            <pubDate>Mon, 29 Dec 2025 10:17:20 GMT</pubDate>
+            <description><![CDATA[不想再在“出视频/出图/找配乐/做声音”之间来回切工具？VideoAny 把这些环节放进同一个工作区，用更简单的方式把内容做出来、做完整。[https://videoany.io/] AI 视频生成：从文字/图片直接出片段 输入一句话（或给一张图做起点），就能生成短视频内容，用来做开头镜头、过渡镜头、产品展示片段、故事氛围镜头都很顺手。重点是“先出可用版本，再小改微调”。 AI 图片：同一套风格把]]></description>
+            <content:encoded><![CDATA[<p>不想再在“出视频/出图/找配乐/做声音”之间来回切工具？VideoAny 把这些环节放进同一个工作区，用更简单的方式把内容做出来、做完整。[<a href="https://videoany.io/">https://videoany.io/</a>]</p>
+<img alt="VideoAny" src="https://github.com/user-attachments/assets/7717c7d1-86a9-45f7-b19e-9ded496ebefb">
+<h4>AI 视频生成：从文字/图片直接出片段</h4>
+<p>输入一句话（或给一张图做起点），就能生成短视频内容，用来做开头镜头、过渡镜头、产品展示片段、故事氛围镜头都很顺手。重点是“先出可用版本，再小改微调”。</p>
+<h4>AI 图片：同一套风格把素材补齐</h4>
+<p>做视频经常卡在素材不够、风格不统一。VideoAny 内置 AI 图片生成与图片变体能力，方便你快速补封面、背景、分镜图、社媒配图，让画面统一在同一个调性里。</p>
+<h4>AI 音频：音乐/声音一次配齐</h4>
+<p>视频“像不像成片”，很多时候取决于声音。VideoAny 提供面向视频场景的音频能力，包括文本生成音乐、音效，以及更偏创作者向的声音功能（如人声相关能力），可以把声音部分也收进同一条工作流里。</p>
+<h4>常用工具链：把碎步骤变成一键流程</h4>
+<p>平台还把一些高频需求做成可直接用的入口，比如 Video to Audio、Text to Music、Image to Video、Text to Image、Image to Image 等，让你在一个地方把素材“做出来 + 补齐 + 转换”。</p>
+<h4>为什么说它“简单实用”</h4>
+<p>很多 AI 工具看起来很强，但流程容易碎。VideoAny 的优势在于：把“视频 + 图像 + 音频”放到一个工作区里，操作路径清晰，适合高频做内容的人快速出活。它也提供免费层级，想先试再决定是否升级很自然。</p>
+<p>👉 <a href="https://videoany.io/">https://videoany.io/</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/250" target="_blank">#250</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/shuyi6202-cell" target="_blank">@shuyi6202-cell</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/7717c7d1-86a9-45f7-b19e-9ded496ebefb" length="0" type="image//user-attachments/assets/7717c7d1-86a9-45f7-b19e-9ded496ebefb"/>
+        </item>
         <item>
             <title><![CDATA[TuxMate：Linux 系统应用一键批量安装助手]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/248.html</link>

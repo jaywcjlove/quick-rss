@@ -1,5 +1,19 @@
 [
   {
+    "id": "251",
+    "url": "https://wangchujiang.com/quick-rss/issue/251.html",
+    "title": "ipatoolUI：优雅的 IPA 下载工具，轻松获取 iOS 应用安装包",
+    "content_html": "<p>ipatoolUI 是一款基于 ipatool 的图形界面应用，让您能够直接从 App Store 下载 iOS 应用的 IPA 安装包。告别命令行的复杂操作，通过直观友好的界面，只需几次点击即可获取任何 App Store 应用的安装包文件。</p>\n<img alt=\"ipatoolUI\" src=\"https://github.com/user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809\">\n<h2>主要特性</h2>\n<ul>\n<li><strong>图形化界面</strong> - 为 ipatool 命令行工具提供现代化的 GUI，操作简单直观</li>\n<li><strong>直接下载 IPA</strong> - 从 App Store 直接下载应用的安装包文件到本地</li>\n<li><strong>搜索与浏览</strong> - 在 App Store 中搜索应用，查看详细信息后一键下载</li>\n<li><strong>Apple ID 登录</strong> - 安全地使用您的 Apple ID 凭证进行认证</li>\n<li><strong>批量管理</strong> - 支持管理和下载多个应用的 IPA 文件</li>\n<li><strong>跨平台支持</strong> - 适用于 macOS、Windows 和 Linux</li>\n</ul>\n<h2>使用场景</h2>\n<ul>\n<li><strong>应用备份</strong> - 保存已购买应用的本地副本，防止应用下架</li>\n<li><strong>版本控制</strong> - 保留特定版本的应用，避免不喜欢的更新</li>\n<li><strong>侧载安装</strong> - 用于 AltStore、Sideloadly 等工具的应用侧载</li>\n<li><strong>开发测试</strong> - 开发者研究和分析应用结构</li>\n<li><strong>跨设备安装</strong> - 在多台设备上轻松部署相同版本的应用</li>\n</ul>\n<h2>工作原理</h2>\n<p><a href=\"https://github.com/majd/ipatool\">ipatool</a>UI 基于强大的 <a href=\"https://github.com/majd/ipatool\">ipatool</a> 命令行工具构建，通过图形界面封装其核心功能。它使用您的 Apple ID 凭证与 App Store 进行合法交互，下载您有权访问的应用安装包。</p>\n<h2>快速开始</h2>\n<ol>\n<li>下载并安装 ipatoolUI</li>\n<li>使用您的 Apple ID 登录</li>\n<li>搜索或浏览想要下载的应用</li>\n<li>点击下载按钮获取 IPA 文件</li>\n<li>使用您喜欢的工具安装或管理 IPA 文件</li>\n</ol>\n<h2>注意事项</h2>\n<ul>\n<li>需要有效的 Apple ID 账户</li>\n<li>只能下载您账户有权访问的免费应用或已购买的付费应用</li>\n<li>请遵守 Apple 的服务条款和当地法律法规</li>\n<li>仅供个人合法使用</li>\n</ul>",
+    "summary": "ipatoolUI 是一款基于 ipatool 的图形界面应用，让您能够直接从 App Store 下载 iOS 应用的 IPA 安装包。告别命令行的复杂操作，通过直观友好的界面，只需几次点击即可获取任何 App Store 应用的安装包文件。 ## 主要特性 - **图形化界面** - 为 ipatool 命令行工具提供现代化的 GUI，操作简单直观 - **直接下载 IPA** - 从 App",
+    "banner_image": null,
+    "date_published": "2025-12-29T13:36:31Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "ipatoolUI 是一款基于 ipatool 的图形界面应用，让您能够直接从 App Store 下载 iOS 应用的 IPA 安装包。告别命令行的复杂操作，通过直观友好的界面，只需几次点击即可获取任何 App Store 应用的安装包文件。\n\n<img alt=\"ipatoolUI\" src=\"https://github.com/user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809\" />\n\n## 主要特性\n\n- **图形化界面** - 为 ipatool 命令行工具提供现代化的 GUI，操作简单直观\n- **直接下载 IPA** - 从 App Store 直接下载应用的安装包文件到本地\n- **搜索与浏览** - 在 App Store 中搜索应用，查看详细信息后一键下载\n- **Apple ID 登录** - 安全地使用您的 Apple ID 凭证进行认证\n- **批量管理** - 支持管理和下载多个应用的 IPA 文件\n- **跨平台支持** - 适用于 macOS、Windows 和 Linux\n\n## 使用场景\n\n- **应用备份** - 保存已购买应用的本地副本，防止应用下架\n- **版本控制** - 保留特定版本的应用，避免不喜欢的更新\n- **侧载安装** - 用于 AltStore、Sideloadly 等工具的应用侧载\n- **开发测试** - 开发者研究和分析应用结构\n- **跨设备安装** - 在多台设备上轻松部署相同版本的应用\n\n## 工作原理\n\n[ipatool](https://github.com/majd/ipatool)UI 基于强大的 [ipatool](https://github.com/majd/ipatool) 命令行工具构建，通过图形界面封装其核心功能。它使用您的 Apple ID 凭证与 App Store 进行合法交互，下载您有权访问的应用安装包。\n\n## 快速开始\n\n1. 下载并安装 ipatoolUI\n2. 使用您的 Apple ID 登录\n3. 搜索或浏览想要下载的应用\n4. 点击下载按钮获取 IPA 文件\n5. 使用您喜欢的工具安装或管理 IPA 文件\n\n## 注意事项\n\n- 需要有效的 Apple ID 账户\n- 只能下载您账户有权访问的免费应用或已购买的付费应用\n- 请遵守 Apple 的服务条款和当地法律法规\n- 仅供个人合法使用"
+  },
+  {
     "id": "250",
     "url": "https://wangchujiang.com/quick-rss/issue/250.html",
     "title": "把“短视频生产线”做成一个工具：VideoAny 一站式 AI 视频工作室",

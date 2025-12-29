@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ipatoolUI：优雅的 IPA 下载工具，轻松获取 iOS 应用安装包](https://wangchujiang.com/quick-rss/issue/251.html) 
+
+![](https://github.com/user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809)
+
+ipatoolUI 是一款基于 ipatool 的图形界面应用，让您能够直接从 App Store 下载 iOS 应用的 IPA 安装包。告别命令行的复杂操作，通过直观友好的界面，只需几次点击即可获取任何 App Store 应用的安装包文件。 主要特性 图形化界面 - 为 ipatool 命令行工具提供现代化的 GUI，操作简单直观 直接下载 IPA - 从 App Store 直接下载应用的安 ([#251](https://github.com/jaywcjlove/quick-rss/issues/251) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [把“短视频生产线”做成一个工具：VideoAny 一站式 AI 视频工作室](https://wangchujiang.com/quick-rss/issue/250.html) 
 
 ![](https://github.com/user-attachments/assets/7717c7d1-86a9-45f7-b19e-9ded496ebefb)

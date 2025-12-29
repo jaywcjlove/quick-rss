@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2025-12-29T13:29:47.998Z</updated>
+    <updated>2025-12-29T13:36:55.854Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,63 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2025, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[ipatoolUI：优雅的 IPA 下载工具，轻松获取 iOS 应用安装包]]></title>
+        <id>251</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/251.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809" type="image//user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809"/>
+        <updated>2025-12-29T13:36:31.000Z</updated>
+        <summary type="html"><![CDATA[ipatoolUI 是一款基于 ipatool 的图形界面应用，让您能够直接从 App Store 下载 iOS 应用的 IPA 安装包。告别命令行的复杂操作，通过直观友好的界面，只需几次点击即可获取任何 App Store 应用的安装包文件。 主要特性 图形化界面 - 为 ipatool 命令行工具提供现代化的 GUI，操作简单直观 直接下载 IPA - 从 App Store 直接下载应用的安]]></summary>
+        <content type="html"><![CDATA[<p>ipatoolUI 是一款基于 ipatool 的图形界面应用，让您能够直接从 App Store 下载 iOS 应用的 IPA 安装包。告别命令行的复杂操作，通过直观友好的界面，只需几次点击即可获取任何 App Store 应用的安装包文件。</p>
+<img alt="ipatoolUI" src="https://github.com/user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809">
+<h2>主要特性</h2>
+<ul>
+<li><strong>图形化界面</strong> - 为 ipatool 命令行工具提供现代化的 GUI，操作简单直观</li>
+<li><strong>直接下载 IPA</strong> - 从 App Store 直接下载应用的安装包文件到本地</li>
+<li><strong>搜索与浏览</strong> - 在 App Store 中搜索应用，查看详细信息后一键下载</li>
+<li><strong>Apple ID 登录</strong> - 安全地使用您的 Apple ID 凭证进行认证</li>
+<li><strong>批量管理</strong> - 支持管理和下载多个应用的 IPA 文件</li>
+<li><strong>跨平台支持</strong> - 适用于 macOS、Windows 和 Linux</li>
+</ul>
+<h2>使用场景</h2>
+<ul>
+<li><strong>应用备份</strong> - 保存已购买应用的本地副本，防止应用下架</li>
+<li><strong>版本控制</strong> - 保留特定版本的应用，避免不喜欢的更新</li>
+<li><strong>侧载安装</strong> - 用于 AltStore、Sideloadly 等工具的应用侧载</li>
+<li><strong>开发测试</strong> - 开发者研究和分析应用结构</li>
+<li><strong>跨设备安装</strong> - 在多台设备上轻松部署相同版本的应用</li>
+</ul>
+<h2>工作原理</h2>
+<p><a href="https://github.com/majd/ipatool">ipatool</a>UI 基于强大的 <a href="https://github.com/majd/ipatool">ipatool</a> 命令行工具构建，通过图形界面封装其核心功能。它使用您的 Apple ID 凭证与 App Store 进行合法交互，下载您有权访问的应用安装包。</p>
+<h2>快速开始</h2>
+<ol>
+<li>下载并安装 ipatoolUI</li>
+<li>使用您的 Apple ID 登录</li>
+<li>搜索或浏览想要下载的应用</li>
+<li>点击下载按钮获取 IPA 文件</li>
+<li>使用您喜欢的工具安装或管理 IPA 文件</li>
+</ol>
+<h2>注意事项</h2>
+<ul>
+<li>需要有效的 Apple ID 账户</li>
+<li>只能下载您账户有权访问的免费应用或已购买的付费应用</li>
+<li>请遵守 Apple 的服务条款和当地法律法规</li>
+<li>仅供个人合法使用</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/251" target="_blank">#251</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把“短视频生产线”做成一个工具：VideoAny 一站式 AI 视频工作室]]></title>
         <id>250</id>

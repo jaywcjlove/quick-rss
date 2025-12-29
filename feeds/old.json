@@ -1,5 +1,19 @@
 [
   {
+    "id": "252",
+    "url": "https://wangchujiang.com/quick-rss/issue/252.html",
+    "title": "RepoBar：在 macOS 菜单栏一览 CI、PR 和发布状态",
+    "content_html": "<p>RepoBar 是一款 macOS 菜单栏应用，让你可以快速了解 GitHub 仓库的健康状态。使用 Swift 6.2 和 Xcode 26 构建，它可以显示关键信息，包括：</p>\n<ul>\n<li>CI 状态</li>\n<li>未处理的 issue 和 pull request</li>\n<li>最新发布版本</li>\n<li>最近评论</li>\n<li>访问量（独立访客）</li>\n<li>自定义提交热力图</li>\n</ul>\n<img alt=\"RepoBar\" src=\"https://github.com/user-attachments/assets/6095c589-a592-4132-afd2-74adb0b61f50\">\n<p><strong>功能亮点：</strong></p>\n<ul>\n<li><strong>MenuBarExtraAccess</strong>：区分左键和右键点击，执行不同操作。</li>\n<li><strong>Sparkle</strong>：自动更新应用，体验无缝升级。</li>\n<li><strong>基于 PKCE 的浏览器登录</strong>：支持 GitHub.com 和 GitHub Enterprise，安全便捷。</li>\n</ul>\n<p>RepoBar 让你无需打开浏览器，也能随时掌握仓库状态，提高开发效率。</p>",
+    "summary": "RepoBar 是一款 macOS 菜单栏应用，让你可以快速了解 GitHub 仓库的健康状态。使用 Swift 6.2 和 Xcode 26 构建，它可以显示关键信息，包括： * CI 状态 * 未处理的 issue 和 pull request * 最新发布版本 * 最近评论 * 访问量（独立访客） * 自定义提交热力图 **功能亮点：** * **MenuBarExtraAccess**：区",
+    "banner_image": null,
+    "date_published": "2025-12-29T16:02:30Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "RepoBar 是一款 macOS 菜单栏应用，让你可以快速了解 GitHub 仓库的健康状态。使用 Swift 6.2 和 Xcode 26 构建，它可以显示关键信息，包括：\n\n* CI 状态\n* 未处理的 issue 和 pull request\n* 最新发布版本\n* 最近评论\n* 访问量（独立访客）\n* 自定义提交热力图\n\n<img alt=\"RepoBar\" src=\"https://github.com/user-attachments/assets/6095c589-a592-4132-afd2-74adb0b61f50\" />\n\n\n**功能亮点：**\n\n* **MenuBarExtraAccess**：区分左键和右键点击，执行不同操作。\n* **Sparkle**：自动更新应用，体验无缝升级。\n* **基于 PKCE 的浏览器登录**：支持 GitHub.com 和 GitHub Enterprise，安全便捷。\n\nRepoBar 让你无需打开浏览器，也能随时掌握仓库状态，提高开发效率。"
+  },
+  {
     "id": "251",
     "url": "https://wangchujiang.com/quick-rss/issue/251.html",
     "title": "ipatoolUI：优雅的 IPA 下载工具，轻松获取 iOS 应用安装包",

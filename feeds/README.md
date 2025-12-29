@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [RepoBar：在 macOS 菜单栏一览 CI、PR 和发布状态](https://wangchujiang.com/quick-rss/issue/252.html) 
+
+![](https://github.com/user-attachments/assets/6095c589-a592-4132-afd2-74adb0b61f50)
+
+RepoBar 是一款 macOS 菜单栏应用，让你可以快速了解 GitHub 仓库的健康状态。使用 Swift 6.2 和 Xcode 26 构建，它可以显示关键信息，包括： CI 状态 未处理的 issue 和 pull request 最新发布版本 最近评论 访问量（独立访客） 自定义提交热力图 功能亮点： MenuBarExtraAccess：区分左键和右键点击，执行不同操作。 Spark ([#252](https://github.com/jaywcjlove/quick-rss/issues/252) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [ipatoolUI：优雅的 IPA 下载工具，轻松获取 iOS 应用安装包](https://wangchujiang.com/quick-rss/issue/251.html) 
 
 ![](https://github.com/user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809)

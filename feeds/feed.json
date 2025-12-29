@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "252",
+            "content_html": "<p>RepoBar 是一款 macOS 菜单栏应用，让你可以快速了解 GitHub 仓库的健康状态。使用 Swift 6.2 和 Xcode 26 构建，它可以显示关键信息，包括：</p>\n<ul>\n<li>CI 状态</li>\n<li>未处理的 issue 和 pull request</li>\n<li>最新发布版本</li>\n<li>最近评论</li>\n<li>访问量（独立访客）</li>\n<li>自定义提交热力图</li>\n</ul>\n<img alt=\"RepoBar\" src=\"https://github.com/user-attachments/assets/6095c589-a592-4132-afd2-74adb0b61f50\">\n<p><strong>功能亮点：</strong></p>\n<ul>\n<li><strong>MenuBarExtraAccess</strong>：区分左键和右键点击，执行不同操作。</li>\n<li><strong>Sparkle</strong>：自动更新应用，体验无缝升级。</li>\n<li><strong>基于 PKCE 的浏览器登录</strong>：支持 GitHub.com 和 GitHub Enterprise，安全便捷。</li>\n</ul>\n<p>RepoBar 让你无需打开浏览器，也能随时掌握仓库状态，提高开发效率。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/252\" target=\"_blank\">#252</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/252.html",
+            "title": "RepoBar：在 macOS 菜单栏一览 CI、PR 和发布状态",
+            "summary": "RepoBar 是一款 macOS 菜单栏应用，让你可以快速了解 GitHub 仓库的健康状态。使用 Swift 6.2 和 Xcode 26 构建，它可以显示关键信息，包括： CI 状态 未处理的 issue 和 pull request 最新发布版本 最近评论 访问量（独立访客） 自定义提交热力图 功能亮点： MenuBarExtraAccess：区分左键和右键点击，执行不同操作。 Spark",
+            "image": "https://github.com/user-attachments/assets/6095c589-a592-4132-afd2-74adb0b61f50",
+            "date_modified": "2025-12-29T16:02:30.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "251",
             "content_html": "<p>ipatoolUI 是一款基于 ipatool 的图形界面应用，让您能够直接从 App Store 下载 iOS 应用的 IPA 安装包。告别命令行的复杂操作，通过直观友好的界面，只需几次点击即可获取任何 App Store 应用的安装包文件。</p>\n<img alt=\"ipatoolUI\" src=\"https://github.com/user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809\">\n<h2>主要特性</h2>\n<ul>\n<li><strong>图形化界面</strong> - 为 ipatool 命令行工具提供现代化的 GUI，操作简单直观</li>\n<li><strong>直接下载 IPA</strong> - 从 App Store 直接下载应用的安装包文件到本地</li>\n<li><strong>搜索与浏览</strong> - 在 App Store 中搜索应用，查看详细信息后一键下载</li>\n<li><strong>Apple ID 登录</strong> - 安全地使用您的 Apple ID 凭证进行认证</li>\n<li><strong>批量管理</strong> - 支持管理和下载多个应用的 IPA 文件</li>\n<li><strong>跨平台支持</strong> - 适用于 macOS、Windows 和 Linux</li>\n</ul>\n<h2>使用场景</h2>\n<ul>\n<li><strong>应用备份</strong> - 保存已购买应用的本地副本，防止应用下架</li>\n<li><strong>版本控制</strong> - 保留特定版本的应用，避免不喜欢的更新</li>\n<li><strong>侧载安装</strong> - 用于 AltStore、Sideloadly 等工具的应用侧载</li>\n<li><strong>开发测试</strong> - 开发者研究和分析应用结构</li>\n<li><strong>跨设备安装</strong> - 在多台设备上轻松部署相同版本的应用</li>\n</ul>\n<h2>工作原理</h2>\n<p><a href=\"https://github.com/majd/ipatool\">ipatool</a>UI 基于强大的 <a href=\"https://github.com/majd/ipatool\">ipatool</a> 命令行工具构建，通过图形界面封装其核心功能。它使用您的 Apple ID 凭证与 App Store 进行合法交互，下载您有权访问的应用安装包。</p>\n<h2>快速开始</h2>\n<ol>\n<li>下载并安装 ipatoolUI</li>\n<li>使用您的 Apple ID 登录</li>\n<li>搜索或浏览想要下载的应用</li>\n<li>点击下载按钮获取 IPA 文件</li>\n<li>使用您喜欢的工具安装或管理 IPA 文件</li>\n</ol>\n<h2>注意事项</h2>\n<ul>\n<li>需要有效的 Apple ID 账户</li>\n<li>只能下载您账户有权访问的免费应用或已购买的付费应用</li>\n<li>请遵守 Apple 的服务条款和当地法律法规</li>\n<li>仅供个人合法使用</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/251\" target=\"_blank\">#251</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/251.html",

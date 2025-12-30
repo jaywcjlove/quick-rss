@@ -13,6 +13,14 @@
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.5.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.5.0)
+
+1. fix: 修复 iOS 17/18 崩溃问题
+2. perf: 优化 Atom 首页链接获取
+3. perf: 优化设置页面性能
+4. perf: 优化批量导入订阅源
+5. style: 优化详情页面样式
+
 ## [v2.4.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.4.0)
 
 1. fix: 修复因重定向导致获取 favicon 失败的问题。

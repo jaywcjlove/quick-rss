@@ -13,6 +13,14 @@ Changelog
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.5.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.5.0)
+
+1. fix: resolve iOS 17/18 crash issue. 
+2. perf: optimize fetching of Atom homepage links. 
+3. perf: improve settings screen performance. 
+4. perf: optimize bulk feed import. 
+5. style: Improve detail page styling. 
+
 ## [v2.4.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.4.0)
 
 1. fix: Fix favicon fetch failure due to redirection.

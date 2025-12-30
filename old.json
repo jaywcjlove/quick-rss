@@ -1,5 +1,19 @@
 [
   {
+    "id": "253",
+    "url": "https://wangchujiang.com/quick-rss/issue/253.html",
+    "title": "KeyStats：macOS 键鼠统计菜单栏应用",
+    "content_html": "<p><strong>KeyStats</strong> 是一款轻量级的 macOS 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。</p>\n<img alt=\"KeyStats\" src=\"https://github.com/user-attachments/assets/b02d3f33-49c4-4915-832a-3404bddaa009\">\n<h3>功能特性：</h3>\n<ul>\n<li><strong>键盘敲击统计</strong>：实时统计每日键盘按键次数</li>\n<li><strong>鼠标点击统计</strong>：分别统计左键和右键点击次数</li>\n<li><strong>鼠标移动距离</strong>：追踪鼠标移动的总距离</li>\n<li><strong>滚动距离统计</strong>：记录页面滚动的累计距离</li>\n<li><strong>菜单栏显示</strong>：核心数据直接显示在 macOS 菜单栏</li>\n<li><strong>详细面板</strong>：点击菜单栏图标查看完整统计信息</li>\n<li><strong>每日自动重置</strong>：午夜自动重置统计数据</li>\n<li><strong>数据持久化</strong>：应用重启后数据不丢失</li>\n</ul>",
+    "summary": "**KeyStats** 是一款轻量级的 macOS 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。 ### 功能特性： * **键盘敲击统计**：实时统计每日键盘按键次数 * **鼠标点击统计**：分别统计左键和右键点击次数 * **鼠标移动距离**：追踪鼠标移动的总距离 * **滚动距离统计**：记录页面滚动的累计距离 * **菜单栏显示**：核心数据直",
+    "banner_image": null,
+    "date_published": "2025-12-30T08:37:40Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**KeyStats** 是一款轻量级的 macOS 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。\n\n<img alt=\"KeyStats\" src=\"https://github.com/user-attachments/assets/b02d3f33-49c4-4915-832a-3404bddaa009\" />\n\n### 功能特性：\n\n* **键盘敲击统计**：实时统计每日键盘按键次数\n* **鼠标点击统计**：分别统计左键和右键点击次数\n* **鼠标移动距离**：追踪鼠标移动的总距离\n* **滚动距离统计**：记录页面滚动的累计距离\n* **菜单栏显示**：核心数据直接显示在 macOS 菜单栏\n* **详细面板**：点击菜单栏图标查看完整统计信息\n* **每日自动重置**：午夜自动重置统计数据\n* **数据持久化**：应用重启后数据不丢失"
+  },
+  {
     "id": "252",
     "url": "https://wangchujiang.com/quick-rss/issue/252.html",
     "title": "RepoBar：在 macOS 菜单栏一览 CI、PR 和发布状态",

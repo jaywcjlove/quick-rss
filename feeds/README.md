@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [KeyStats：macOS 键鼠统计菜单栏应用](https://wangchujiang.com/quick-rss/issue/253.html) 
+
+![](https://github.com/user-attachments/assets/b02d3f33-49c4-4915-832a-3404bddaa009)
+
+KeyStats 是一款轻量级的 macOS 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。 功能特性： 键盘敲击统计：实时统计每日键盘按键次数 鼠标点击统计：分别统计左键和右键点击次数 鼠标移动距离：追踪鼠标移动的总距离 滚动距离统计：记录页面滚动的累计距离 菜单栏显示：核心数据直接显示在 macOS 菜单栏 详细面板：点击菜单栏图标查看完整统计信息 每日 ([#253](https://github.com/jaywcjlove/quick-rss/issues/253) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [RepoBar：在 macOS 菜单栏一览 CI、PR 和发布状态](https://wangchujiang.com/quick-rss/issue/252.html) 
 
 ![](https://github.com/user-attachments/assets/6095c589-a592-4132-afd2-74adb0b61f50)

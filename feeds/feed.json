@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "254",
+            "content_html": "<p>一款免费的开源 macOS 系统级 10 带参数均衡器。SoundMax 位于你的菜单栏，实时处理所有系统音频，让你在任何应用中精确调节音效，优化听觉体验。</p>\n<img alt=\"SoundMax\" src=\"https://github.com/user-attachments/assets/878e8718-e365-4148-9141-b1227270874c\">\n<img alt=\"SoundMax\" src=\"https://github.com/user-attachments/assets/699f7109-2e61-4d4a-8af3-095165ba93fd\">\n<img alt=\"SoundMax\" src=\"https://github.com/user-attachments/assets/4366dbe1-c2f5-4fb5-95c8-0017434eb57d\">\n<h4>功能特点：</h4>\n<ul>\n<li><strong>10 带参数均衡器</strong>：32Hz, 64Hz, 125Hz, 250Hz, 500Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz</li>\n<li><strong>每带 ±12dB</strong>：通过专业的双二次滤波器实现精确控制</li>\n<li><strong>内置预设</strong>：平坦、低音增强、高音增强、人声、摇滚、电子、原声</li>\n<li><strong>自定义预设</strong>：保存和加载您自己的 EQ 配置</li>\n<li><strong>设备单独配置</strong>：为每个输出设备自动保存和恢复 EQ 设置</li>\n<li><strong>HDMI 音量控制</strong>：为 HDMI 输出提供软件音量滑块（macOS 禁用硬件音量控制）</li>\n<li><strong>AutoEQ 集成</strong>：一键校正 150 多款流行耳机的声音（通过 AutoEQ）</li>\n<li><strong>菜单栏应用</strong>：随时可用，避免 Dock 图标杂乱</li>\n<li><strong>开机自启</strong>：可选择随 Mac 启动自动启动</li>\n<li><strong>设备灵活性</strong>：支持多种音频接口和采样率</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/254\" target=\"_blank\">#254</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/254.html",
+            "title": "SoundMax：免费的开源 10 带系统均衡器 (EQ) 适用于 macOS",
+            "summary": "一款免费的开源 macOS 系统级 10 带参数均衡器。SoundMax 位于你的菜单栏，实时处理所有系统音频，让你在任何应用中精确调节音效，优化听觉体验。 功能特点： 10 带参数均衡器：32Hz, 64Hz, 125Hz, 250Hz, 500Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz 每带 ±12dB：通过专业的双二次滤波器实现精确控制 内置预设：平坦、低音增强、高音",
+            "image": "https://github.com/user-attachments/assets/878e8718-e365-4148-9141-b1227270874c",
+            "date_modified": "2025-12-31T00:57:24.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "253",
             "content_html": "<p><strong>KeyStats</strong> 是一款轻量级的 macOS 原生菜单栏应用，用于统计用户每日的键盘敲击次数、鼠标点击次数、鼠标移动距离和滚动距离。</p>\n<img alt=\"KeyStats\" src=\"https://github.com/user-attachments/assets/b02d3f33-49c4-4915-832a-3404bddaa009\">\n<h3>功能特性：</h3>\n<ul>\n<li><strong>键盘敲击统计</strong>：实时统计每日键盘按键次数</li>\n<li><strong>鼠标点击统计</strong>：分别统计左键和右键点击次数</li>\n<li><strong>鼠标移动距离</strong>：追踪鼠标移动的总距离</li>\n<li><strong>滚动距离统计</strong>：记录页面滚动的累计距离</li>\n<li><strong>菜单栏显示</strong>：核心数据直接显示在 macOS 菜单栏</li>\n<li><strong>详细面板</strong>：点击菜单栏图标查看完整统计信息</li>\n<li><strong>每日自动重置</strong>：午夜自动重置统计数据</li>\n<li><strong>数据持久化</strong>：应用重启后数据不丢失</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/253\" target=\"_blank\">#253</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/253.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SoundMax：免费的开源 10 带系统均衡器 (EQ) 适用于 macOS](https://wangchujiang.com/quick-rss/issue/254.html) 
+
+![](https://github.com/user-attachments/assets/878e8718-e365-4148-9141-b1227270874c)
+
+一款免费的开源 macOS 系统级 10 带参数均衡器。SoundMax 位于你的菜单栏，实时处理所有系统音频，让你在任何应用中精确调节音效，优化听觉体验。 功能特点： 10 带参数均衡器：32Hz, 64Hz, 125Hz, 250Hz, 500Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz 每带 ±12dB：通过专业的双二次滤波器实现精确控制 内置预设：平坦、低音增强、高音 ([#254](https://github.com/jaywcjlove/quick-rss/issues/254) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [KeyStats：macOS 键鼠统计菜单栏应用](https://wangchujiang.com/quick-rss/issue/253.html) 
 
 ![](https://github.com/user-attachments/assets/b02d3f33-49c4-4915-832a-3404bddaa009)

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 30 Dec 2025 08:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 00:57:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,36 @@
         </image>
         <copyright>All rights reserved 2025, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SoundMax：免费的开源 10 带系统均衡器 (EQ) 适用于 macOS]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/254.html</link>
+            <guid isPermaLink="false">254</guid>
+            <pubDate>Wed, 31 Dec 2025 00:57:24 GMT</pubDate>
+            <description><![CDATA[一款免费的开源 macOS 系统级 10 带参数均衡器。SoundMax 位于你的菜单栏，实时处理所有系统音频，让你在任何应用中精确调节音效，优化听觉体验。 功能特点： 10 带参数均衡器：32Hz, 64Hz, 125Hz, 250Hz, 500Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz 每带 ±12dB：通过专业的双二次滤波器实现精确控制 内置预设：平坦、低音增强、高音]]></description>
+            <content:encoded><![CDATA[<p>一款免费的开源 macOS 系统级 10 带参数均衡器。SoundMax 位于你的菜单栏，实时处理所有系统音频，让你在任何应用中精确调节音效，优化听觉体验。</p>
+<img alt="SoundMax" src="https://github.com/user-attachments/assets/878e8718-e365-4148-9141-b1227270874c">
+<img alt="SoundMax" src="https://github.com/user-attachments/assets/699f7109-2e61-4d4a-8af3-095165ba93fd">
+<img alt="SoundMax" src="https://github.com/user-attachments/assets/4366dbe1-c2f5-4fb5-95c8-0017434eb57d">
+<h4>功能特点：</h4>
+<ul>
+<li><strong>10 带参数均衡器</strong>：32Hz, 64Hz, 125Hz, 250Hz, 500Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz</li>
+<li><strong>每带 ±12dB</strong>：通过专业的双二次滤波器实现精确控制</li>
+<li><strong>内置预设</strong>：平坦、低音增强、高音增强、人声、摇滚、电子、原声</li>
+<li><strong>自定义预设</strong>：保存和加载您自己的 EQ 配置</li>
+<li><strong>设备单独配置</strong>：为每个输出设备自动保存和恢复 EQ 设置</li>
+<li><strong>HDMI 音量控制</strong>：为 HDMI 输出提供软件音量滑块（macOS 禁用硬件音量控制）</li>
+<li><strong>AutoEQ 集成</strong>：一键校正 150 多款流行耳机的声音（通过 AutoEQ）</li>
+<li><strong>菜单栏应用</strong>：随时可用，避免 Dock 图标杂乱</li>
+<li><strong>开机自启</strong>：可选择随 Mac 启动自动启动</li>
+<li><strong>设备灵活性</strong>：支持多种音频接口和采样率</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/254" target="_blank">#254</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/878e8718-e365-4148-9141-b1227270874c" length="0" type="image//user-attachments/assets/878e8718-e365-4148-9141-b1227270874c"/>
+        </item>
         <item>
             <title><![CDATA[KeyStats：macOS 键鼠统计菜单栏应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/253.html</link>

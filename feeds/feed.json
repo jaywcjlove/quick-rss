@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "255",
+            "content_html": "<p>冬瓜TV是一个基于Node.js的视频聚合平台，集成了30+个影视资源站点的API，提供智能搜索、资源聚合、实时测速等功能，让你轻松构建个人影视库。</p>\n<img alt=\"冬瓜TV\" src=\"https://github.com/user-attachments/assets/2ed38a93-f1d6-440e-a115-6567641b39c1\">\n<h2>✨ 核心功能</h2>\n<ul>\n<li>🔍 智能搜索 - 聚合30+影视站点，一键搜索全网资源</li>\n<li>⚡ 实时测速 - 自动检测各站点响应速度，优先推荐最快资源</li>\n<li>🎯 多源聚合 - 支持非凡影视、暴风资源、电影天堂等30+主流站点</li>\n<li>🔥 热门推荐 - 自动获取24小时热门影视内容</li>\n<li>🎨 简洁界面 - 响应式设计，支持PC/移动端完美适配</li>\n<li>🔐 后台管理 - 支持站点开关配置，自定义资源源</li>\n<li>📊 数据持久化 - JSON数据库存储，支持自定义配置</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/255\" target=\"_blank\">#255</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/255.html",
+            "title": "冬瓜TV：打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放",
+            "summary": "冬瓜TV是一个基于Node.js的视频聚合平台，集成了30+个影视资源站点的API，提供智能搜索、资源聚合、实时测速等功能，让你轻松构建个人影视库。 ✨ 核心功能 🔍 智能搜索 - 聚合30+影视站点，一键搜索全网资源 ⚡ 实时测速 - 自动检测各站点响应速度，优先推荐最快资源 🎯 多源聚合 - 支持非凡影视、暴风资源、电影天堂等30+主流站点 🔥 热门推荐 - 自动获取24小时热门影视内容",
+            "image": "https://github.com/user-attachments/assets/2ed38a93-f1d6-440e-a115-6567641b39c1",
+            "date_modified": "2026-01-01T23:20:05.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "254",
             "content_html": "<p>一款免费的开源 macOS 系统级 10 带参数均衡器。SoundMax 位于你的菜单栏，实时处理所有系统音频，让你在任何应用中精确调节音效，优化听觉体验。</p>\n<img alt=\"SoundMax\" src=\"https://github.com/user-attachments/assets/878e8718-e365-4148-9141-b1227270874c\">\n<img alt=\"SoundMax\" src=\"https://github.com/user-attachments/assets/699f7109-2e61-4d4a-8af3-095165ba93fd\">\n<img alt=\"SoundMax\" src=\"https://github.com/user-attachments/assets/4366dbe1-c2f5-4fb5-95c8-0017434eb57d\">\n<h4>功能特点：</h4>\n<ul>\n<li><strong>10 带参数均衡器</strong>：32Hz, 64Hz, 125Hz, 250Hz, 500Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz</li>\n<li><strong>每带 ±12dB</strong>：通过专业的双二次滤波器实现精确控制</li>\n<li><strong>内置预设</strong>：平坦、低音增强、高音增强、人声、摇滚、电子、原声</li>\n<li><strong>自定义预设</strong>：保存和加载您自己的 EQ 配置</li>\n<li><strong>设备单独配置</strong>：为每个输出设备自动保存和恢复 EQ 设置</li>\n<li><strong>HDMI 音量控制</strong>：为 HDMI 输出提供软件音量滑块（macOS 禁用硬件音量控制）</li>\n<li><strong>AutoEQ 集成</strong>：一键校正 150 多款流行耳机的声音（通过 AutoEQ）</li>\n<li><strong>菜单栏应用</strong>：随时可用，避免 Dock 图标杂乱</li>\n<li><strong>开机自启</strong>：可选择随 Mac 启动自动启动</li>\n<li><strong>设备灵活性</strong>：支持多种音频接口和采样率</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/254\" target=\"_blank\">#254</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/254.html",

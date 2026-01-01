@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [冬瓜TV：打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放](https://wangchujiang.com/quick-rss/issue/255.html) 
+
+![](https://github.com/user-attachments/assets/2ed38a93-f1d6-440e-a115-6567641b39c1)
+
+冬瓜TV是一个基于Node.js的视频聚合平台，集成了30+个影视资源站点的API，提供智能搜索、资源聚合、实时测速等功能，让你轻松构建个人影视库。 ✨ 核心功能 🔍 智能搜索 - 聚合30+影视站点，一键搜索全网资源 ⚡ 实时测速 - 自动检测各站点响应速度，优先推荐最快资源 🎯 多源聚合 - 支持非凡影视、暴风资源、电影天堂等30+主流站点 🔥 热门推荐 - 自动获取24小时热门影视内容 ([#255](https://github.com/jaywcjlove/quick-rss/issues/255) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SoundMax：免费的开源 10 带系统均衡器 (EQ) 适用于 macOS](https://wangchujiang.com/quick-rss/issue/254.html) 
 
 ![](https://github.com/user-attachments/assets/878e8718-e365-4148-9141-b1227270874c)

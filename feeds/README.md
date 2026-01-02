@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Code App：为 iPad 打造的桌面级代码编辑器](https://wangchujiang.com/quick-rss/issue/257.html) 
+
+![](https://github.com/user-attachments/assets/cf9f8ac8-3328-4f05-b9a6-89a2dc868435)
+
+Code App 为 iPad 带来接近桌面级的代码编辑体验。该项目以 VS Code 的设计理念为参考，结合 monaco-editor 与原生技术，提供了非常完整的开发能力，尤其适合在 iPad 上进行真实的本地开发工作。 核心功能一览 版本控制：Git clone、commit、diff 编辑器、push / pull、行号标记指示器 内置终端（支持 70+ 条命令） 本地 Web 开发环境 ([#257](https://github.com/jaywcjlove/quick-rss/issues/257) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [冬瓜TV：打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放](https://wangchujiang.com/quick-rss/issue/255.html) 
 
 ![](https://github.com/user-attachments/assets/2ed38a93-f1d6-440e-a115-6567641b39c1)

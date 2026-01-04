@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "258",
+            "content_html": "<p>CodexBar 是一款轻量的 macOS 菜单栏应用，可以让你随时查看各种 AI 使用统计，例如 OpenAI Codex、Claude Code、Copilot、Gemini 等，无需登录就能看到当前会话和每周流量情况。界面极简，没有 Dock 图标，使用起来非常方便。</p>\n<img alt=\"CodexBar\" src=\"https://github.com/user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc\">\n<ul>\n<li>支持多种 AI 服务提供者</li>\n<li>显示会话和每周额度及重置倒计时</li>\n<li>可选增强面板功能</li>\n<li>注重隐私设计</li>\n</ul>\n<p>如果你经常使用各种 AI 工具，CodexBar 能让你轻松掌控使用情况，非常推荐！</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/258\" target=\"_blank\">#258</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/258.html",
+            "title": "CodexBar：在菜单栏实时查看 AI 使用统计的轻量 macOS 工具",
+            "summary": "CodexBar 是一款轻量的 macOS 菜单栏应用，可以让你随时查看各种 AI 使用统计，例如 OpenAI Codex、Claude Code、Copilot、Gemini 等，无需登录就能看到当前会话和每周流量情况。界面极简，没有 Dock 图标，使用起来非常方便。 支持多种 AI 服务提供者 显示会话和每周额度及重置倒计时 可选增强面板功能 注重隐私设计 如果你经常使用各种 AI 工具，",
+            "image": "https://github.com/user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc",
+            "date_modified": "2026-01-04T00:59:55.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "257",
             "content_html": "<p><strong>Code App</strong> 为 <strong>iPad</strong> 带来接近桌面级的代码编辑体验。该项目以 <strong>VS Code</strong> 的设计理念为参考，结合 <strong>monaco-editor</strong> 与原生技术，提供了非常完整的开发能力，尤其适合在 iPad 上进行真实的本地开发工作。</p>\n<img alt=\"Code App\" src=\"https://github.com/user-attachments/assets/cf9f8ac8-3328-4f05-b9a6-89a2dc868435\">\n<img alt=\"Code App\" src=\"https://github.com/user-attachments/assets/785b092e-5734-44c7-818c-945c2d384b88\">\n<img alt=\"Code App\" src=\"https://github.com/user-attachments/assets/14cd9701-bef2-4e3a-9f42-78474036f51a\">\n<img alt=\"Code App\" src=\"https://github.com/user-attachments/assets/7cf9ddf5-0224-43d1-af30-35d4ce938157\">\n<h2>核心功能一览</h2>\n<ul>\n<li>版本控制：Git clone、commit、diff 编辑器、push / pull、行号标记指示器</li>\n<li>内置终端（支持 70+ 条命令）</li>\n<li>本地 Web 开发环境（Node + PHP）</li>\n<li>内置 Python 运行环境</li>\n<li>基于 WebAssembly 的 C/C++ 运行环境（clang）</li>\n<li>本地 Java 运行环境（OpenJDK）</li>\n<li>SSH 支持</li>\n<li>LSP 支持（Python &#x26; Java）</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/257\" target=\"_blank\">#257</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/257.html",

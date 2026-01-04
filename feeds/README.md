@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [CodexBar：在菜单栏实时查看 AI 使用统计的轻量 macOS 工具](https://wangchujiang.com/quick-rss/issue/258.html) 
+
+![](https://github.com/user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc)
+
+CodexBar 是一款轻量的 macOS 菜单栏应用，可以让你随时查看各种 AI 使用统计，例如 OpenAI Codex、Claude Code、Copilot、Gemini 等，无需登录就能看到当前会话和每周流量情况。界面极简，没有 Dock 图标，使用起来非常方便。 支持多种 AI 服务提供者 显示会话和每周额度及重置倒计时 可选增强面板功能 注重隐私设计 如果你经常使用各种 AI 工具， ([#258](https://github.com/jaywcjlove/quick-rss/issues/258) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Code App：为 iPad 打造的桌面级代码编辑器](https://wangchujiang.com/quick-rss/issue/257.html) 
 
 ![](https://github.com/user-attachments/assets/cf9f8ac8-3328-4f05-b9a6-89a2dc868435)

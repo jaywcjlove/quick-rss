@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 02 Jan 2026 18:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 01:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,28 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CodexBar：在菜单栏实时查看 AI 使用统计的轻量 macOS 工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/258.html</link>
+            <guid isPermaLink="false">258</guid>
+            <pubDate>Sun, 04 Jan 2026 00:59:55 GMT</pubDate>
+            <description><![CDATA[CodexBar 是一款轻量的 macOS 菜单栏应用，可以让你随时查看各种 AI 使用统计，例如 OpenAI Codex、Claude Code、Copilot、Gemini 等，无需登录就能看到当前会话和每周流量情况。界面极简，没有 Dock 图标，使用起来非常方便。 支持多种 AI 服务提供者 显示会话和每周额度及重置倒计时 可选增强面板功能 注重隐私设计 如果你经常使用各种 AI 工具，]]></description>
+            <content:encoded><![CDATA[<p>CodexBar 是一款轻量的 macOS 菜单栏应用，可以让你随时查看各种 AI 使用统计，例如 OpenAI Codex、Claude Code、Copilot、Gemini 等，无需登录就能看到当前会话和每周流量情况。界面极简，没有 Dock 图标，使用起来非常方便。</p>
+<img alt="CodexBar" src="https://github.com/user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc">
+<ul>
+<li>支持多种 AI 服务提供者</li>
+<li>显示会话和每周额度及重置倒计时</li>
+<li>可选增强面板功能</li>
+<li>注重隐私设计</li>
+</ul>
+<p>如果你经常使用各种 AI 工具，CodexBar 能让你轻松掌控使用情况，非常推荐！</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/258" target="_blank">#258</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc" length="0" type="image//user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc"/>
+        </item>
         <item>
             <title><![CDATA[Code App：为 iPad 打造的桌面级代码编辑器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/257.html</link>

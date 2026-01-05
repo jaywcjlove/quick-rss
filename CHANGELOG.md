@@ -13,6 +13,18 @@ Changelog
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.6.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.6.0)
+
+1. feat: add page navigation buttons to detail view. 
+2. feat: add page navigation buttons. 
+3. feat: Add progress bar for default import
+4. fix: Fix internationalization display error. 
+5. fix: Resolve issue with paid unlock verification error. 
+6. perf: optimize loading state 
+7. perf: optimize repeated rendering on detail view. 
+8. perf: optimize left and right page swiping. 
+9. style: update detail style. 
+
 ## [v2.5.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.5.0)
 
 1. fix: resolve iOS 17/18 crash issue. 

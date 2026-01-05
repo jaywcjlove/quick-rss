@@ -13,6 +13,18 @@
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.6.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.6.0)
+
+1. feat: 在详情视图中添加页面导航按钮。
+2. feat: 添加页面导航按钮。
+3. feat: 默认导入添加进度条
+4. fix: 修复国际化显示错误。
+5. fix: 解决付费解锁验证错误问题。
+6. perf: 优化加载状态。
+7. perf: 优化详情视图的重复渲染。
+8. perf: 优化左右页面滑动。
+9. style: 更新详情样式。
+
 ## [v2.5.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.5.0)
 
 1. fix: 修复 iOS 17/18 崩溃问题

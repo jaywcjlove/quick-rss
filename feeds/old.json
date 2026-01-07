@@ -1,5 +1,19 @@
 [
   {
+    "id": "259",
+    "url": "https://wangchujiang.com/quick-rss/issue/259.html",
+    "title": "Screen Test：快速检测显示器显示问题",
+    "content_html": "<p>快速、轻松地评估显示器的图像质量与显示效果。</p>\n<p>本应用内置 25 项以上测试图案，可用于检测坏点、漏光、竖向条纹、屏幕均匀性等常见显示问题，适用于显示器测试、屏幕检测及坏点检测等多种场景，是一款实用可靠的显示器检测工具。</p>\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0\">\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/ffe6f16e-5ee8-4eeb-b402-e533751f2071\">\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/21493c61-e87b-40cf-b041-6471a6553016\">\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/68ed545c-5818-4f2e-a1d0-d3539927c385\">\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/20aa6131-edc3-4f00-b0fc-3d7684ee6df2\">\n<p>无论是普通用户还是专业人士，都可以通过本应用简单、高效地评估显示设备的显示质量。</p>\n<p>注意：本应用通常不会对显示设备造成任何损害，但无法替代专业检测设备，测试结果仅供参考。</p>",
+    "summary": "快速、轻松地评估显示器的图像质量与显示效果。 本应用内置 25 项以上测试图案，可用于检测坏点、漏光、竖向条纹、屏幕均匀性等常见显示问题，适用于显示器测试、屏幕检测及坏点检测等多种场景，是一款实用可靠的显示器检测工具。 无论是普通用户还是专业人士，都可以通过本应用简单、高效地评估显示设备的显示质量。 注意：本应用通常不会对显示设备造成任何损害，但无法替代专业检测设备，测试结果仅供参考。",
+    "banner_image": null,
+    "date_published": "2026-01-07T12:17:27Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "快速、轻松地评估显示器的图像质量与显示效果。\n\n本应用内置 25 项以上测试图案，可用于检测坏点、漏光、竖向条纹、屏幕均匀性等常见显示问题，适用于显示器测试、屏幕检测及坏点检测等多种场景，是一款实用可靠的显示器检测工具。\n\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0\" />\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/ffe6f16e-5ee8-4eeb-b402-e533751f2071\" />\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/21493c61-e87b-40cf-b041-6471a6553016\" />\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/68ed545c-5818-4f2e-a1d0-d3539927c385\" />\n<img alt=\"Screen Test\" src=\"https://github.com/user-attachments/assets/20aa6131-edc3-4f00-b0fc-3d7684ee6df2\" />\n\n无论是普通用户还是专业人士，都可以通过本应用简单、高效地评估显示设备的显示质量。\n\n注意：本应用通常不会对显示设备造成任何损害，但无法替代专业检测设备，测试结果仅供参考。"
+  },
+  {
     "id": "258",
     "url": "https://wangchujiang.com/quick-rss/issue/258.html",
     "title": "CodexBar：在菜单栏实时查看 AI 使用统计的轻量 macOS 工具",

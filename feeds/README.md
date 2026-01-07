@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Screen Test：快速检测显示器显示问题](https://wangchujiang.com/quick-rss/issue/259.html) 
+
+![](https://github.com/user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0)
+
+快速、轻松地评估显示器的图像质量与显示效果。 本应用内置 25 项以上测试图案，可用于检测坏点、漏光、竖向条纹、屏幕均匀性等常见显示问题，适用于显示器测试、屏幕检测及坏点检测等多种场景，是一款实用可靠的显示器检测工具。 无论是普通用户还是专业人士，都可以通过本应用简单、高效地评估显示设备的显示质量。 注意：本应用通常不会对显示设备造成任何损害，但无法替代专业检测设备，测试结果仅供参考。 ([#259](https://github.com/jaywcjlove/quick-rss/issues/259) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [CodexBar：在菜单栏实时查看 AI 使用统计的轻量 macOS 工具](https://wangchujiang.com/quick-rss/issue/258.html) 
 
 ![](https://github.com/user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc)

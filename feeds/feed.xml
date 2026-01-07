@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-01-04T01:00:25.276Z</updated>
+    <updated>2026-01-07T12:18:00.313Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,36 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Screen Test：快速检测显示器显示问题]]></title>
+        <id>259</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/259.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0" type="image//user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0"/>
+        <updated>2026-01-07T12:17:27.000Z</updated>
+        <summary type="html"><![CDATA[快速、轻松地评估显示器的图像质量与显示效果。 本应用内置 25 项以上测试图案，可用于检测坏点、漏光、竖向条纹、屏幕均匀性等常见显示问题，适用于显示器测试、屏幕检测及坏点检测等多种场景，是一款实用可靠的显示器检测工具。 无论是普通用户还是专业人士，都可以通过本应用简单、高效地评估显示设备的显示质量。 注意：本应用通常不会对显示设备造成任何损害，但无法替代专业检测设备，测试结果仅供参考。]]></summary>
+        <content type="html"><![CDATA[<p>快速、轻松地评估显示器的图像质量与显示效果。</p>
+<p>本应用内置 25 项以上测试图案，可用于检测坏点、漏光、竖向条纹、屏幕均匀性等常见显示问题，适用于显示器测试、屏幕检测及坏点检测等多种场景，是一款实用可靠的显示器检测工具。</p>
+<img alt="Screen Test" src="https://github.com/user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0">
+<img alt="Screen Test" src="https://github.com/user-attachments/assets/ffe6f16e-5ee8-4eeb-b402-e533751f2071">
+<img alt="Screen Test" src="https://github.com/user-attachments/assets/21493c61-e87b-40cf-b041-6471a6553016">
+<img alt="Screen Test" src="https://github.com/user-attachments/assets/68ed545c-5818-4f2e-a1d0-d3539927c385">
+<img alt="Screen Test" src="https://github.com/user-attachments/assets/20aa6131-edc3-4f00-b0fc-3d7684ee6df2">
+<p>无论是普通用户还是专业人士，都可以通过本应用简单、高效地评估显示设备的显示质量。</p>
+<p>注意：本应用通常不会对显示设备造成任何损害，但无法替代专业检测设备，测试结果仅供参考。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/259" target="_blank">#259</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CodexBar：在菜单栏实时查看 AI 使用统计的轻量 macOS 工具]]></title>
         <id>258</id>

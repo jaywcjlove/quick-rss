@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 08 Jan 2026 08:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 08:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,21 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Codex Skill Manager：AI 编程助手技能管理工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/261.html</link>
+            <guid isPermaLink="false">261</guid>
+            <pubDate>Thu, 08 Jan 2026 08:21:00 GMT</pubDate>
+            <description><![CDATA[Codex Skill Manager 是一款 macOS 应用，专为管理 Codex 和 Claude Code 的技能而设计。你可以在本地浏览和整理技能，直接渲染 SKILL.md 文件内容，同时还能搜索、下载和安装来自 Clawdhub 的远程技能，让扩展 AI 编程助手功能变得轻松高效。无需 Xcode 工程，基于 SwiftUI 和 SwiftPM 构建，操作简单直观。]]></description>
+            <content:encoded><![CDATA[<p>Codex Skill Manager 是一款 macOS 应用，专为管理 Codex 和 Claude Code 的技能而设计。你可以在本地浏览和整理技能，直接渲染 <code>SKILL.md</code> 文件内容，同时还能搜索、下载和安装来自 Clawdhub 的远程技能，让扩展 AI 编程助手功能变得轻松高效。无需 Xcode 工程，基于 SwiftUI 和 SwiftPM 构建，操作简单直观。</p>
+<img alt="Codex Skill Manager" src="https://github.com/user-attachments/assets/dddb99db-9c5d-4ccc-bd5a-60e120d47833"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/261" target="_blank">#261</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/dddb99db-9c5d-4ccc-bd5a-60e120d47833" length="0" type="image//user-attachments/assets/dddb99db-9c5d-4ccc-bd5a-60e120d47833"/>
+        </item>
         <item>
             <title><![CDATA[MacOptimizer：强大的 macOS 系统优化与管理工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/260.html</link>

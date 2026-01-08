@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Codex Skill Manager：AI 编程助手技能管理工具](https://wangchujiang.com/quick-rss/issue/261.html) 
+
+![](https://github.com/user-attachments/assets/dddb99db-9c5d-4ccc-bd5a-60e120d47833)
+
+Codex Skill Manager 是一款 macOS 应用，专为管理 Codex 和 Claude Code 的技能而设计。你可以在本地浏览和整理技能，直接渲染 SKILL.md 文件内容，同时还能搜索、下载和安装来自 Clawdhub 的远程技能，让扩展 AI 编程助手功能变得轻松高效。无需 Xcode 工程，基于 SwiftUI 和 SwiftPM 构建，操作简单直观。 ([#261](https://github.com/jaywcjlove/quick-rss/issues/261) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MacOptimizer：强大的 macOS 系统优化与管理工具](https://wangchujiang.com/quick-rss/issue/260.html) 
 
 ![](https://github.com/user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb)

@@ -1,5 +1,19 @@
 [
   {
+    "id": "260",
+    "url": "https://wangchujiang.com/quick-rss/issue/260.html",
+    "title": "MacOptimizer：强大的 macOS 系统优化与管理工具",
+    "content_html": "<p>MacOptimizer 是一款专为 macOS 设计的系统优化工具，采用现代化的 SwiftUI 界面和丰富的功能模块，帮助用户提升系统性能、清理垃圾文件、管理应用与磁盘空间。它包含八大核心功能：系统监控、应用卸载、垃圾清理、系统优化、大文件查找、废纸篓管理、深度清理以及文件浏览器，可满足日常维护与磁盘管理的需求。支持多语言界面和直观操作流程，适用于 macOS 13 及以上版本。</p>\n<img alt=\"MacOptimizer\" src=\"https://github.com/user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb\">\n<img alt=\"MacOptimizer\" src=\"https://github.com/user-attachments/assets/a9b84f80-d978-4f31-83a7-d1c0d6de3120\">\n<img alt=\"Image\" src=\"https://github.com/user-attachments/assets/20c626af-7ce5-4148-90a3-dee69da65e51\">\n<img alt=\"Image\" src=\"https://github.com/user-attachments/assets/6608126c-5935-4f51-afda-8fb4388b7c70\">\n<img alt=\"Image\" src=\"https://github.com/user-attachments/assets/895b1f3a-4ffd-48e8-aee3-d9991225a0fc\">",
+    "summary": "MacOptimizer 是一款专为 macOS 设计的系统优化工具，采用现代化的 SwiftUI 界面和丰富的功能模块，帮助用户提升系统性能、清理垃圾文件、管理应用与磁盘空间。它包含八大核心功能：系统监控、应用卸载、垃圾清理、系统优化、大文件查找、废纸篓管理、深度清理以及文件浏览器，可满足日常维护与磁盘管理的需求。支持多语言界面和直观操作流程，适用于 macOS 13 及以上版本。",
+    "banner_image": null,
+    "date_published": "2026-01-08T08:01:22Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "MacOptimizer 是一款专为 macOS 设计的系统优化工具，采用现代化的 SwiftUI 界面和丰富的功能模块，帮助用户提升系统性能、清理垃圾文件、管理应用与磁盘空间。它包含八大核心功能：系统监控、应用卸载、垃圾清理、系统优化、大文件查找、废纸篓管理、深度清理以及文件浏览器，可满足日常维护与磁盘管理的需求。支持多语言界面和直观操作流程，适用于 macOS 13 及以上版本。\n\n<img alt=\"MacOptimizer\" src=\"https://github.com/user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb\" />\n\n<img  alt=\"MacOptimizer\" src=\"https://github.com/user-attachments/assets/a9b84f80-d978-4f31-83a7-d1c0d6de3120\" />\n\n<img alt=\"Image\" src=\"https://github.com/user-attachments/assets/20c626af-7ce5-4148-90a3-dee69da65e51\" />\n\n<img  alt=\"Image\" src=\"https://github.com/user-attachments/assets/6608126c-5935-4f51-afda-8fb4388b7c70\" />\n\n<img  alt=\"Image\" src=\"https://github.com/user-attachments/assets/895b1f3a-4ffd-48e8-aee3-d9991225a0fc\" />"
+  },
+  {
     "id": "259",
     "url": "https://wangchujiang.com/quick-rss/issue/259.html",
     "title": "Screen Test：快速检测显示器显示问题",

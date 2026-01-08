@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MacOptimizer：强大的 macOS 系统优化与管理工具](https://wangchujiang.com/quick-rss/issue/260.html) 
+
+![](https://github.com/user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb)
+
+MacOptimizer 是一款专为 macOS 设计的系统优化工具，采用现代化的 SwiftUI 界面和丰富的功能模块，帮助用户提升系统性能、清理垃圾文件、管理应用与磁盘空间。它包含八大核心功能：系统监控、应用卸载、垃圾清理、系统优化、大文件查找、废纸篓管理、深度清理以及文件浏览器，可满足日常维护与磁盘管理的需求。支持多语言界面和直观操作流程，适用于 macOS 13 及以上版本。 ([#260](https://github.com/jaywcjlove/quick-rss/issues/260) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Screen Test：快速检测显示器显示问题](https://wangchujiang.com/quick-rss/issue/259.html) 
 
 ![](https://github.com/user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0)

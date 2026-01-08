@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 07 Jan 2026 12:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 08:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,25 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MacOptimizer：强大的 macOS 系统优化与管理工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/260.html</link>
+            <guid isPermaLink="false">260</guid>
+            <pubDate>Thu, 08 Jan 2026 08:01:22 GMT</pubDate>
+            <description><![CDATA[MacOptimizer 是一款专为 macOS 设计的系统优化工具，采用现代化的 SwiftUI 界面和丰富的功能模块，帮助用户提升系统性能、清理垃圾文件、管理应用与磁盘空间。它包含八大核心功能：系统监控、应用卸载、垃圾清理、系统优化、大文件查找、废纸篓管理、深度清理以及文件浏览器，可满足日常维护与磁盘管理的需求。支持多语言界面和直观操作流程，适用于 macOS 13 及以上版本。]]></description>
+            <content:encoded><![CDATA[<p>MacOptimizer 是一款专为 macOS 设计的系统优化工具，采用现代化的 SwiftUI 界面和丰富的功能模块，帮助用户提升系统性能、清理垃圾文件、管理应用与磁盘空间。它包含八大核心功能：系统监控、应用卸载、垃圾清理、系统优化、大文件查找、废纸篓管理、深度清理以及文件浏览器，可满足日常维护与磁盘管理的需求。支持多语言界面和直观操作流程，适用于 macOS 13 及以上版本。</p>
+<img alt="MacOptimizer" src="https://github.com/user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb">
+<img alt="MacOptimizer" src="https://github.com/user-attachments/assets/a9b84f80-d978-4f31-83a7-d1c0d6de3120">
+<img alt="Image" src="https://github.com/user-attachments/assets/20c626af-7ce5-4148-90a3-dee69da65e51">
+<img alt="Image" src="https://github.com/user-attachments/assets/6608126c-5935-4f51-afda-8fb4388b7c70">
+<img alt="Image" src="https://github.com/user-attachments/assets/895b1f3a-4ffd-48e8-aee3-d9991225a0fc"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/260" target="_blank">#260</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb" length="0" type="image//user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb"/>
+        </item>
         <item>
             <title><![CDATA[Screen Test：快速检测显示器显示问题]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/259.html</link>

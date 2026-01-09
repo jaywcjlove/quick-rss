@@ -1,5 +1,19 @@
 [
   {
+    "id": "262",
+    "url": "https://wangchujiang.com/quick-rss/issue/262.html",
+    "title": "WailBrew：为 macOS 提供现代化 Homebrew 图形界面管理器",
+    "content_html": "<p>WailBrew 是一款 <strong>为 macOS 设计的极简且直观的 Homebrew 图形界面管理工具</strong>，让你无需终端命令即可轻松管理 Homebrew 软件包。</p>\n<img alt=\"WailBrew\" src=\"https://github.com/user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59\">\n<p>通过 WailBrew，你可以：</p>\n<ul>\n<li>查看和管理已安装的 <strong>Homebrew 公式（Formulas）和应用包（Casks）</strong></li>\n<li>使用即时过滤搜索软件包列表</li>\n<li>一键安装、卸载和升级软件包</li>\n<li>检查过时的软件包，并支持单个或全部更新</li>\n<li>查看详细的软件包信息，包括依赖关系和冲突</li>\n<li>管理 Homebrew 软件源（tap / untap）</li>\n</ul>\n<p>WailBrew 的设计灵感来自 <strong>Cakebrew</strong>，但采用了更现代的 UI 设计，结合 <strong>Go、Wails 和 React</strong> 构建，提供兼顾性能与体验的原生应用。</p>\n<p>你可以通过 Homebrew 快速安装并开始使用：</p>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew tap wickenico/wailbrew\n</span><span class=\"code-line line-number\" line=\"2\">brew <span class=\"token function\">install</span> <span class=\"token parameter variable\">--cask</span> wailbrew\n</span></code></pre>\n<p>WailBrew 支持多种 macOS 版本，兼容 Apple Silicon 与 Intel 平台，并提供多语言界面（包括简体中文和繁体中文）。</p>",
+    "summary": "WailBrew 是一款 **为 macOS 设计的极简且直观的 Homebrew 图形界面管理工具**，让你无需终端命令即可轻松管理 Homebrew 软件包。 通过 WailBrew，你可以： - 查看和管理已安装的 **Homebrew 公式（Formulas）和应用包（Casks）** - 使用即时过滤搜索软件包列表 - 一键安装、卸载和升级软件包 - 检查过时的软件包，并支持单个或全部更",
+    "banner_image": null,
+    "date_published": "2026-01-09T14:33:49Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "WailBrew 是一款 **为 macOS 设计的极简且直观的 Homebrew 图形界面管理工具**，让你无需终端命令即可轻松管理 Homebrew 软件包。\n\n<img alt=\"WailBrew\" src=\"https://github.com/user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59\" />\n\n通过 WailBrew，你可以：\n\n- 查看和管理已安装的 **Homebrew 公式（Formulas）和应用包（Casks）**\n- 使用即时过滤搜索软件包列表\n- 一键安装、卸载和升级软件包\n- 检查过时的软件包，并支持单个或全部更新\n- 查看详细的软件包信息，包括依赖关系和冲突\n- 管理 Homebrew 软件源（tap / untap）\n\nWailBrew 的设计灵感来自 **Cakebrew**，但采用了更现代的 UI 设计，结合 **Go、Wails 和 React** 构建，提供兼顾性能与体验的原生应用。\n\n你可以通过 Homebrew 快速安装并开始使用：\n\n```bash\nbrew tap wickenico/wailbrew\nbrew install --cask wailbrew\n````\n\nWailBrew 支持多种 macOS 版本，兼容 Apple Silicon 与 Intel 平台，并提供多语言界面（包括简体中文和繁体中文）。"
+  },
+  {
     "id": "261",
     "url": "https://wangchujiang.com/quick-rss/issue/261.html",
     "title": "Codex Skill Manager：AI 编程助手技能管理工具",

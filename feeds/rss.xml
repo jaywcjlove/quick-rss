@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 08 Jan 2026 08:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 14:34:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,36 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WailBrew：为 macOS 提供现代化 Homebrew 图形界面管理器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/262.html</link>
+            <guid isPermaLink="false">262</guid>
+            <pubDate>Fri, 09 Jan 2026 14:33:49 GMT</pubDate>
+            <description><![CDATA[WailBrew 是一款 为 macOS 设计的极简且直观的 Homebrew 图形界面管理工具，让你无需终端命令即可轻松管理 Homebrew 软件包。 通过 WailBrew，你可以： 查看和管理已安装的 Homebrew 公式（Formulas）和应用包（Casks） 使用即时过滤搜索软件包列表 一键安装、卸载和升级软件包 检查过时的软件包，并支持单个或全部更新 查看详细的软件包信息，包括依]]></description>
+            <content:encoded><![CDATA[<p>WailBrew 是一款 <strong>为 macOS 设计的极简且直观的 Homebrew 图形界面管理工具</strong>，让你无需终端命令即可轻松管理 Homebrew 软件包。</p>
+<img alt="WailBrew" src="https://github.com/user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59">
+<p>通过 WailBrew，你可以：</p>
+<ul>
+<li>查看和管理已安装的 <strong>Homebrew 公式（Formulas）和应用包（Casks）</strong></li>
+<li>使用即时过滤搜索软件包列表</li>
+<li>一键安装、卸载和升级软件包</li>
+<li>检查过时的软件包，并支持单个或全部更新</li>
+<li>查看详细的软件包信息，包括依赖关系和冲突</li>
+<li>管理 Homebrew 软件源（tap / untap）</li>
+</ul>
+<p>WailBrew 的设计灵感来自 <strong>Cakebrew</strong>，但采用了更现代的 UI 设计，结合 <strong>Go、Wails 和 React</strong> 构建，提供兼顾性能与体验的原生应用。</p>
+<p>你可以通过 Homebrew 快速安装并开始使用：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap wickenico/wailbrew
+</span><span class="code-line line-number" line="2">brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> wailbrew
+</span></code></pre>
+<p>WailBrew 支持多种 macOS 版本，兼容 Apple Silicon 与 Intel 平台，并提供多语言界面（包括简体中文和繁体中文）。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/262" target="_blank">#262</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59" length="0" type="image//user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59"/>
+        </item>
         <item>
             <title><![CDATA[Codex Skill Manager：AI 编程助手技能管理工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/261.html</link>

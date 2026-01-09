@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [WailBrew：为 macOS 提供现代化 Homebrew 图形界面管理器](https://wangchujiang.com/quick-rss/issue/262.html) 
+
+![](https://github.com/user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59)
+
+WailBrew 是一款 为 macOS 设计的极简且直观的 Homebrew 图形界面管理工具，让你无需终端命令即可轻松管理 Homebrew 软件包。 通过 WailBrew，你可以： 查看和管理已安装的 Homebrew 公式（Formulas）和应用包（Casks） 使用即时过滤搜索软件包列表 一键安装、卸载和升级软件包 检查过时的软件包，并支持单个或全部更新 查看详细的软件包信息，包括依 ([#262](https://github.com/jaywcjlove/quick-rss/issues/262) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Codex Skill Manager：AI 编程助手技能管理工具](https://wangchujiang.com/quick-rss/issue/261.html) 
 
 ![](https://github.com/user-attachments/assets/dddb99db-9c5d-4ccc-bd5a-60e120d47833)

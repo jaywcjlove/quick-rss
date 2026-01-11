@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-01-09T14:34:19.039Z</updated>
+    <updated>2026-01-11T17:10:49.394Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,36 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Clicke：一款用于捕捉和美化截图的 macOS 菜单栏应用]]></title>
+        <id>263</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/263.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4" type="image//user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4"/>
+        <updated>2026-01-11T17:09:06.000Z</updated>
+        <summary type="html"><![CDATA[Clicke 是一款简单高效的工具，用于跟踪屏幕上不同区域的鼠标点击。它专注于极简设计、易用性和性能。无论你是开发者、设计师，还是需要跟踪鼠标活动的任何人，Clicke 都能提供一种实时监控点击的简便方式。 主要功能： 跟踪屏幕上不同区域的点击 轻量级，易于使用 实时跟踪，几乎没有性能开销 开源且可定制]]></summary>
+        <content type="html"><![CDATA[<p>Clicke 是一款简单高效的工具，用于跟踪屏幕上不同区域的鼠标点击。它专注于极简设计、易用性和性能。无论你是开发者、设计师，还是需要跟踪鼠标活动的任何人，Clicke 都能提供一种实时监控点击的简便方式。</p>
+<img alt="Clicke" src="https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4">
+<p>主要功能：</p>
+<ul>
+<li>跟踪屏幕上不同区域的点击</li>
+<li>轻量级，易于使用</li>
+<li>实时跟踪，几乎没有性能开销</li>
+<li>开源且可定制</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/263" target="_blank">#263</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WailBrew：为 macOS 提供现代化 Homebrew 图形界面管理器]]></title>
         <id>262</id>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Clicke：一款用于捕捉和美化截图的 macOS 菜单栏应用](https://wangchujiang.com/quick-rss/issue/263.html) 
+
+![](https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4)
+
+Clicke 是一款简单高效的工具，用于跟踪屏幕上不同区域的鼠标点击。它专注于极简设计、易用性和性能。无论你是开发者、设计师，还是需要跟踪鼠标活动的任何人，Clicke 都能提供一种实时监控点击的简便方式。 主要功能： 跟踪屏幕上不同区域的点击 轻量级，易于使用 实时跟踪，几乎没有性能开销 开源且可定制 ([#263](https://github.com/jaywcjlove/quick-rss/issues/263) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [WailBrew：为 macOS 提供现代化 Homebrew 图形界面管理器](https://wangchujiang.com/quick-rss/issue/262.html) 
 
 ![](https://github.com/user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59)

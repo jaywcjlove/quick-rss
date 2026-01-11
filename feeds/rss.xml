@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 09 Jan 2026 14:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 17:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,28 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clicke：一款用于捕捉和美化截图的 macOS 菜单栏应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/263.html</link>
+            <guid isPermaLink="false">263</guid>
+            <pubDate>Sun, 11 Jan 2026 17:09:06 GMT</pubDate>
+            <description><![CDATA[Clicke 是一款简单高效的工具，用于跟踪屏幕上不同区域的鼠标点击。它专注于极简设计、易用性和性能。无论你是开发者、设计师，还是需要跟踪鼠标活动的任何人，Clicke 都能提供一种实时监控点击的简便方式。 主要功能： 跟踪屏幕上不同区域的点击 轻量级，易于使用 实时跟踪，几乎没有性能开销 开源且可定制]]></description>
+            <content:encoded><![CDATA[<p>Clicke 是一款简单高效的工具，用于跟踪屏幕上不同区域的鼠标点击。它专注于极简设计、易用性和性能。无论你是开发者、设计师，还是需要跟踪鼠标活动的任何人，Clicke 都能提供一种实时监控点击的简便方式。</p>
+<img alt="Clicke" src="https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4">
+<p>主要功能：</p>
+<ul>
+<li>跟踪屏幕上不同区域的点击</li>
+<li>轻量级，易于使用</li>
+<li>实时跟踪，几乎没有性能开销</li>
+<li>开源且可定制</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/263" target="_blank">#263</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <enclosure url="https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4" length="0" type="image//user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4"/>
+        </item>
         <item>
             <title><![CDATA[WailBrew：为 macOS 提供现代化 Homebrew 图形界面管理器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/262.html</link>

@@ -1,5 +1,19 @@
 [
   {
+    "id": "263",
+    "url": "https://wangchujiang.com/quick-rss/issue/263.html",
+    "title": "Clicke：一款用于捕捉和美化截图的 macOS 菜单栏应用",
+    "content_html": "<p>Clicke 是一款简单高效的工具，用于跟踪屏幕上不同区域的鼠标点击。它专注于极简设计、易用性和性能。无论你是开发者、设计师，还是需要跟踪鼠标活动的任何人，Clicke 都能提供一种实时监控点击的简便方式。</p>\n<img alt=\"Clicke\" src=\"https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4\">\n<p>主要功能：</p>\n<ul>\n<li>跟踪屏幕上不同区域的点击</li>\n<li>轻量级，易于使用</li>\n<li>实时跟踪，几乎没有性能开销</li>\n<li>开源且可定制</li>\n</ul>",
+    "summary": "Clicke 是一款简单高效的工具，用于跟踪屏幕上不同区域的鼠标点击。它专注于极简设计、易用性和性能。无论你是开发者、设计师，还是需要跟踪鼠标活动的任何人，Clicke 都能提供一种实时监控点击的简便方式。 主要功能： * 跟踪屏幕上不同区域的点击 * 轻量级，易于使用 * 实时跟踪，几乎没有性能开销 * 开源且可定制",
+    "banner_image": null,
+    "date_published": "2026-01-11T17:09:06Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Clicke 是一款简单高效的工具，用于跟踪屏幕上不同区域的鼠标点击。它专注于极简设计、易用性和性能。无论你是开发者、设计师，还是需要跟踪鼠标活动的任何人，Clicke 都能提供一种实时监控点击的简便方式。\n\n<img alt=\"Clicke\" src=\"https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4\" />\n\n主要功能：\n\n* 跟踪屏幕上不同区域的点击\n* 轻量级，易于使用\n* 实时跟踪，几乎没有性能开销\n* 开源且可定制"
+  },
+  {
     "id": "262",
     "url": "https://wangchujiang.com/quick-rss/issue/262.html",
     "title": "WailBrew：为 macOS 提供现代化 Homebrew 图形界面管理器",

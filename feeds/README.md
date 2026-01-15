@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [zsweep：一款为开发者设计的Vim风格扫雷网站](https://wangchujiang.com/quick-rss/issue/268.html) 
+
+![](https://github.com/user-attachments/assets/774b4255-05db-45d9-b0c0-55196d4964a6)
+
+一款极简主义、支持全键盘操作的扫雷游戏。它最大的特色是集成了 Vim 操作语法（如 hjkl 移动、w/b 单词级跳转、/ 搜索数字等），让开发者在休闲时刻也能保持“手感”和 Flow 状态。 亮点 Vim 语法驱动：不仅支持基础的 hjkl 方向移动，还深度还原了 Vim 的逻辑——支持数字前缀（如 5j 向下移动 5 格）、w/b 跳转至下一个/上一个未开块、以及通过 / 搜索并跳转至特定数字 ([#268](https://github.com/jaywcjlove/quick-rss/issues/268) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Gemini Subtitle Pro：一站式全自动字幕生成软件，下载、转录、翻译、压制全流程覆盖，无需人工介入](https://wangchujiang.com/quick-rss/issue/267.html) 
 
 ![](https://github.com/user-attachments/assets/67e5519d-2328-4591-ab25-3ba81c2d63e3)

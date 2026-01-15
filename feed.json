@@ -167,6 +167,19 @@
             }
         },
         {
+            "id": "256",
+            "content_html": "<p>Zedis基于 Rust 编写，UI 层使用了与 <a href=\"https://zed.dev/\">Zed Editor</a> 同款的渲染引擎 GPUI。这意味着 Zedis 的每一个像素都是由 GPU 直接绘制的，带来了原生、60 FPS 丝般顺滑的体验。</p>\n<img alt=\"Zedis\" src=\"https://github.com/user-attachments/assets/64796a85-dbee-4795-b9d5-069f283b0c96\">\n<h2>核心特性一览</h2>\n<ul>\n<li>🚀 极速渲染：告别 HTML/CSS 的重绘负担，即使在低配机器上也能秒开。</li>\n<li>♾️ 虚拟列表：实测轻松处理 10万+ 级别的 Key 列表（我的手提百万级别也很流畅），配合 SCAN 迭代，滚动浏览毫无卡顿。</li>\n<li>🧠 数据自动检测：\n<ul>\n<li>如果是 GZIP/ZSTD 压缩的数据，它会自动解压显示。</li>\n<li>如果是 JSON/MsgPack，它会自动格式化并高亮。</li>\n<li>如果是图片二进制流，直接显示预览图。</li>\n</ul>\n</li>\n<li>🛠️ 开箱即用：自动适配 Cluster、Sentinel（单 Master 可免填名称）或单机模式。</li>\n<li>💻 全平台支持：支持 macOS 、Windows 和 Linux，均可在 GitHub Release 下载。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/256\" target=\"_blank\">#256</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/256.html",
+            "title": "Zedis：Rust + GPUI 构建的Redis 客户端",
+            "summary": "Zedis基于 Rust 编写，UI 层使用了与 Zed Editor 同款的渲染引擎 GPUI。这意味着 Zedis 的每一个像素都是由 GPU 直接绘制的，带来了原生、60 FPS 丝般顺滑的体验。 核心特性一览 🚀 极速渲染：告别 HTML/CSS 的重绘负担，即使在低配机器上也能秒开。 ♾️ 虚拟列表：实测轻松处理 10万+ 级别的 Key 列表（我的手提百万级别也很流畅），配合 SCA",
+            "image": "https://github.com/user-attachments/assets/64796a85-dbee-4795-b9d5-069f283b0c96",
+            "date_modified": "2026-01-01T23:29:02.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "255",
             "content_html": "<p>冬瓜TV是一个基于Node.js的视频聚合平台，集成了30+个影视资源站点的API，提供智能搜索、资源聚合、实时测速等功能，让你轻松构建个人影视库。</p>\n<img alt=\"冬瓜TV\" src=\"https://github.com/user-attachments/assets/2ed38a93-f1d6-440e-a115-6567641b39c1\">\n<h2>✨ 核心功能</h2>\n<ul>\n<li>🔍 智能搜索 - 聚合30+影视站点，一键搜索全网资源</li>\n<li>⚡ 实时测速 - 自动检测各站点响应速度，优先推荐最快资源</li>\n<li>🎯 多源聚合 - 支持非凡影视、暴风资源、电影天堂等30+主流站点</li>\n<li>🔥 热门推荐 - 自动获取24小时热门影视内容</li>\n<li>🎨 简洁界面 - 响应式设计，支持PC/移动端完美适配</li>\n<li>🔐 后台管理 - 支持站点开关配置，自定义资源源</li>\n<li>📊 数据持久化 - JSON数据库存储，支持自定义配置</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/255\" target=\"_blank\">#255</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/255.html",

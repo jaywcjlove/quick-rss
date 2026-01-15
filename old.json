@@ -1,5 +1,19 @@
 [
   {
+    "id": "264",
+    "url": "https://wangchujiang.com/quick-rss/issue/264.html",
+    "title": "CropBatch：一款高效的批量图片裁剪工具",
+    "content_html": "<p><strong>CropBatch</strong> 是一款开源的批量图片裁剪工具，旨在帮助用户快速处理大量图片，进行统一尺寸裁剪。无论你是需要裁剪个人照片、设计图还是产品图，这款工具都能大大提高你的工作效率。</p>\n<img alt=\"CropBatch\" src=\"https://github.com/user-attachments/assets/1d9d83eb-f825-4ccc-b76a-e6da78c3829d\">\n<p>它支持批量处理，用户只需选择裁剪区域和输入裁剪的尺寸，工具会自动应用到所有选中的图片上。无论图片格式如何，<strong>CropBatch</strong> 都能轻松处理，支持常见的 JPG、PNG、GIF 等格式。</p>\n<img alt=\"CropBatch\" src=\"https://github.com/user-attachments/assets/9e6a3a18-baeb-4b8d-b123-d58c3d7b8ca4\">\n<p>这款工具界面简洁直观，操作简单，适合各种级别的用户使用，无需复杂的设置和配置。无论是在日常工作中，还是在需要大量图片裁剪的项目中，<strong>CropBatch</strong> 都是你理想的选择。</p>\n<img alt=\"CropBatch\" src=\"https://github.com/user-attachments/assets/e05af3cb-af77-4182-91b8-e539f6dc83b0\">\n<p>如果你在寻找一款高效的批量裁剪工具，不妨试试 <strong>CropBatch</strong>，它将极大地提升你的工作效率。</p>",
+    "summary": "**CropBatch** 是一款开源的批量图片裁剪工具，旨在帮助用户快速处理大量图片，进行统一尺寸裁剪。无论你是需要裁剪个人照片、设计图还是产品图，这款工具都能大大提高你的工作效率。 它支持批量处理，用户只需选择裁剪区域和输入裁剪的尺寸，工具会自动应用到所有选中的图片上。无论图片格式如何，**CropBatch** 都能轻松处理，支持常见的 JPG、PNG、GIF 等格式。 这款工具界面简洁直观",
+    "banner_image": null,
+    "date_published": "2026-01-15T12:34:18Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**CropBatch** 是一款开源的批量图片裁剪工具，旨在帮助用户快速处理大量图片，进行统一尺寸裁剪。无论你是需要裁剪个人照片、设计图还是产品图，这款工具都能大大提高你的工作效率。\n\n<img alt=\"CropBatch\" src=\"https://github.com/user-attachments/assets/1d9d83eb-f825-4ccc-b76a-e6da78c3829d\" />\n\n它支持批量处理，用户只需选择裁剪区域和输入裁剪的尺寸，工具会自动应用到所有选中的图片上。无论图片格式如何，**CropBatch** 都能轻松处理，支持常见的 JPG、PNG、GIF 等格式。\n\n<img  alt=\"CropBatch\" src=\"https://github.com/user-attachments/assets/9e6a3a18-baeb-4b8d-b123-d58c3d7b8ca4\" />\n\n这款工具界面简洁直观，操作简单，适合各种级别的用户使用，无需复杂的设置和配置。无论是在日常工作中，还是在需要大量图片裁剪的项目中，**CropBatch** 都是你理想的选择。\n\n<img alt=\"CropBatch\" src=\"https://github.com/user-attachments/assets/e05af3cb-af77-4182-91b8-e539f6dc83b0\" />\n\n如果你在寻找一款高效的批量裁剪工具，不妨试试 **CropBatch**，它将极大地提升你的工作效率。"
+  },
+  {
     "id": "263",
     "url": "https://wangchujiang.com/quick-rss/issue/263.html",
     "title": "Clicke：一款用于捕捉和美化截图的 macOS 菜单栏应用",

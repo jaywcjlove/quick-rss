@@ -1,5 +1,19 @@
 [
   {
+    "id": "267",
+    "url": "https://wangchujiang.com/quick-rss/issue/267.html",
+    "title": "Gemini Subtitle Pro：一站式全自动字幕生成软件，下载、转录、翻译、压制全流程覆盖，无需人工介入",
+    "content_html": "<p>Gemini Subtitle Pro 是一款开源的端到端字幕生产软件，把传统需要 3–6 小时的字幕工作流（下载视频→转录→断句润色→翻译→对齐→样式预览→压制出片）压缩到 15–30 分钟级别，并且尽量做到“少手工、少返工、一次交付”。它不是单点工具，而是一个完整的字幕引擎：在 Whisper 转录 + Gemini 翻译/润色的基础上，加入术语表、长上下文翻译、带音频校对、质量检查与毫秒级强制对齐等能力，让你得到更自然、更一致、更贴时间轴的字幕结果；同时桌面端集成下载与 FFmpeg 压制，真正实现从链接到成片字幕的一条龙。</p>\n<img alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/67e5519d-2328-4591-ab25-3ba81c2d63e3\">\n<img alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/56d2fe90-1669-46c8-bf80-cb24e0ea911e\">\n<img alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/386b0b72-eb49-4334-9655-4408f56237f9\">\n<h2>亮点</h2>\n<ul>\n<li>🚀 全流程一条龙： 输入链接即可自动完成 下载→转录→润色→翻译→对齐→压制，避免多软件来回切换</li>\n<li>🎧 术语自动提取 + 标准译法校验： 从音频中抽取专有名词，辅助统一译名，减少“人名地名翻车”</li>\n<li>⚡ 长上下文翻译： 按语义切成 5–10 分钟片段翻译，保留上下文，减少前后不一致</li>\n<li>💎 转录后处理一体化： 智能断句、时间轴校正、术语替换一次完成，字幕更像“人写的”</li>\n<li>🎯 CTC 强制对齐： 毫秒级时间轴精修，让字幕“更贴嘴、更稳”</li>\n<li>🗣️ 说话人识别： 自动标注多说话人，支持颜色/合并等字幕样式管理</li>\n<li>📺 所见即所得 ASS 预览： 实时渲染字体、颜色、位置等样式，做字幕不用盲改</li>\n<li>🔄 片段级批量重跑： 选中某段一键重做（转录→润色→对齐→翻译），返工成本大幅降低</li>\n<li>🌍 中/英/日 i18n + 自动识别源语言： 开箱即用，多语种素材更友好</li>\n<li>🧠 智能并发加速： 根据模型动态调并发，处理速度更接近“可生产使用”的节奏</li>\n<li>✂️ 集成压制与硬件加速： 内置 FFmpeg，支持 H.264/H.265 编码与字幕烧录（桌面端）</li>\n<li>📦 工程化细节齐全： 双语 SRT/ASS 导出、版本快照、缓存/日志/自定义 API 端点等</li>\n</ul>",
+    "summary": "Gemini Subtitle Pro 是一款开源的端到端字幕生产软件，把传统需要 3–6 小时的字幕工作流（下载视频→转录→断句润色→翻译→对齐→样式预览→压制出片）压缩到 15–30 分钟级别，并且尽量做到“少手工、少返工、一次交付”。它不是单点工具，而是一个完整的字幕引擎：在 Whisper 转录 + Gemini 翻译/润色的基础上，加入术语表、长上下文翻译、带音频校对、质量检查与毫秒级强",
+    "banner_image": null,
+    "date_published": "2026-01-15T16:32:29Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Gemini Subtitle Pro 是一款开源的端到端字幕生产软件，把传统需要 3–6 小时的字幕工作流（下载视频→转录→断句润色→翻译→对齐→样式预览→压制出片）压缩到 15–30 分钟级别，并且尽量做到“少手工、少返工、一次交付”。它不是单点工具，而是一个完整的字幕引擎：在 Whisper 转录 + Gemini 翻译/润色的基础上，加入术语表、长上下文翻译、带音频校对、质量检查与毫秒级强制对齐等能力，让你得到更自然、更一致、更贴时间轴的字幕结果；同时桌面端集成下载与 FFmpeg 压制，真正实现从链接到成片字幕的一条龙。\n\n<img  alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/67e5519d-2328-4591-ab25-3ba81c2d63e3\" />\n\n<img   alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/56d2fe90-1669-46c8-bf80-cb24e0ea911e\" />\n\n<img   alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/386b0b72-eb49-4334-9655-4408f56237f9\" />\n\n## 亮点\n\n- 🚀 全流程一条龙： 输入链接即可自动完成 下载→转录→润色→翻译→对齐→压制，避免多软件来回切换\n- 🎧 术语自动提取 + 标准译法校验： 从音频中抽取专有名词，辅助统一译名，减少“人名地名翻车”\n- ⚡ 长上下文翻译： 按语义切成 5–10 分钟片段翻译，保留上下文，减少前后不一致\n- 💎 转录后处理一体化： 智能断句、时间轴校正、术语替换一次完成，字幕更像“人写的”\n- 🎯 CTC 强制对齐： 毫秒级时间轴精修，让字幕“更贴嘴、更稳”\n- 🗣️ 说话人识别： 自动标注多说话人，支持颜色/合并等字幕样式管理\n- 📺 所见即所得 ASS 预览： 实时渲染字体、颜色、位置等样式，做字幕不用盲改\n- 🔄 片段级批量重跑： 选中某段一键重做（转录→润色→对齐→翻译），返工成本大幅降低\n- 🌍 中/英/日 i18n + 自动识别源语言： 开箱即用，多语种素材更友好\n- 🧠 智能并发加速： 根据模型动态调并发，处理速度更接近“可生产使用”的节奏\n- ✂️ 集成压制与硬件加速： 内置 FFmpeg，支持 H.264/H.265 编码与字幕烧录（桌面端）\n- 📦 工程化细节齐全： 双语 SRT/ASS 导出、版本快照、缓存/日志/自定义 API 端点等"
+  },
+  {
     "id": "266",
     "url": "https://wangchujiang.com/quick-rss/issue/266.html",
     "title": "Warden：原生 macOS AI 聊天客户端",

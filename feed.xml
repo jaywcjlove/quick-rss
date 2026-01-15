@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-01-15T16:33:06.604Z</updated>
+    <updated>2026-01-15T16:35:54.187Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,38 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[zsweep：一款为开发者设计的Vim风格扫雷网站]]></title>
+        <id>268</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/268.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/774b4255-05db-45d9-b0c0-55196d4964a6" type="image//user-attachments/assets/774b4255-05db-45d9-b0c0-55196d4964a6"/>
+        <updated>2026-01-15T16:34:56.000Z</updated>
+        <summary type="html"><![CDATA[一款极简主义、支持全键盘操作的扫雷游戏。它最大的特色是集成了 Vim 操作语法（如 hjkl 移动、w/b 单词级跳转、/ 搜索数字等），让开发者在休闲时刻也能保持“手感”和 Flow 状态。 亮点 Vim 语法驱动：不仅支持基础的 hjkl 方向移动，还深度还原了 Vim 的逻辑——支持数字前缀（如 5j 向下移动 5 格）、w/b 跳转至下一个/上一个未开块、以及通过 / 搜索并跳转至特定数字]]></summary>
+        <content type="html"><![CDATA[<p>一款极简主义、支持全键盘操作的扫雷游戏。它最大的特色是集成了 Vim 操作语法（如 hjkl 移动、w/b 单词级跳转、/ 搜索数字等），让开发者在休闲时刻也能保持“手感”和 Flow 状态。</p>
+<h2>亮点</h2>
+<ul>
+<li>Vim 语法驱动：不仅支持基础的 hjkl 方向移动，还深度还原了 Vim 的逻辑——支持数字前缀（如 5j 向下移动 5 格）、w/b 跳转至下一个/上一个未开块、以及通过 / 搜索并跳转至特定数字。</li>
+<li>极简审美：受 Monkeytype 启发，提供多种极简配色方案，无广告、无干扰，专注于纯粹的扫雷体验。</li>
+<li>高性能架构：基于 Svelte 5 (Runes) 和 SvelteKit 构建，确保了极低的输入延迟和丝滑的响应速度。</li>
+<li>实时竞技：集成 Supabase 后端，支持全球实时排行榜，并解决了大规模数据统计下的分页统计难题。</li>
+<li>开源贡献友好：项目结构清晰，目前已有超过 1,000 名活跃用户，且在 GitHub 上整理了多个适合新手参与的 Issue。</li>
+</ul>
+<img alt="zsweep" src="https://github.com/user-attachments/assets/774b4255-05db-45d9-b0c0-55196d4964a6">
+<img alt="zsweep" src="https://github.com/user-attachments/assets/40208f52-42f8-4043-a7ea-77bb8f7de183"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/268" target="_blank">#268</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini Subtitle Pro：一站式全自动字幕生成软件，下载、转录、翻译、压制全流程覆盖，无需人工介入]]></title>
         <id>267</id>

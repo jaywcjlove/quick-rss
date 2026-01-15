@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "268",
+            "content_html": "<p>一款极简主义、支持全键盘操作的扫雷游戏。它最大的特色是集成了 Vim 操作语法（如 hjkl 移动、w/b 单词级跳转、/ 搜索数字等），让开发者在休闲时刻也能保持“手感”和 Flow 状态。</p>\n<h2>亮点</h2>\n<ul>\n<li>Vim 语法驱动：不仅支持基础的 hjkl 方向移动，还深度还原了 Vim 的逻辑——支持数字前缀（如 5j 向下移动 5 格）、w/b 跳转至下一个/上一个未开块、以及通过 / 搜索并跳转至特定数字。</li>\n<li>极简审美：受 Monkeytype 启发，提供多种极简配色方案，无广告、无干扰，专注于纯粹的扫雷体验。</li>\n<li>高性能架构：基于 Svelte 5 (Runes) 和 SvelteKit 构建，确保了极低的输入延迟和丝滑的响应速度。</li>\n<li>实时竞技：集成 Supabase 后端，支持全球实时排行榜，并解决了大规模数据统计下的分页统计难题。</li>\n<li>开源贡献友好：项目结构清晰，目前已有超过 1,000 名活跃用户，且在 GitHub 上整理了多个适合新手参与的 Issue。</li>\n</ul>\n<img alt=\"zsweep\" src=\"https://github.com/user-attachments/assets/774b4255-05db-45d9-b0c0-55196d4964a6\">\n<img alt=\"zsweep\" src=\"https://github.com/user-attachments/assets/40208f52-42f8-4043-a7ea-77bb8f7de183\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/268\" target=\"_blank\">#268</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/268.html",
+            "title": "zsweep：一款为开发者设计的Vim风格扫雷网站",
+            "summary": "一款极简主义、支持全键盘操作的扫雷游戏。它最大的特色是集成了 Vim 操作语法（如 hjkl 移动、w/b 单词级跳转、/ 搜索数字等），让开发者在休闲时刻也能保持“手感”和 Flow 状态。 亮点 Vim 语法驱动：不仅支持基础的 hjkl 方向移动，还深度还原了 Vim 的逻辑——支持数字前缀（如 5j 向下移动 5 格）、w/b 跳转至下一个/上一个未开块、以及通过 / 搜索并跳转至特定数字",
+            "image": "https://github.com/user-attachments/assets/774b4255-05db-45d9-b0c0-55196d4964a6",
+            "date_modified": "2026-01-15T16:34:56.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "267",
             "content_html": "<p>Gemini Subtitle Pro 是一款开源的端到端字幕生产软件，把传统需要 3–6 小时的字幕工作流（下载视频→转录→断句润色→翻译→对齐→样式预览→压制出片）压缩到 15–30 分钟级别，并且尽量做到“少手工、少返工、一次交付”。它不是单点工具，而是一个完整的字幕引擎：在 Whisper 转录 + Gemini 翻译/润色的基础上，加入术语表、长上下文翻译、带音频校对、质量检查与毫秒级强制对齐等能力，让你得到更自然、更一致、更贴时间轴的字幕结果；同时桌面端集成下载与 FFmpeg 压制，真正实现从链接到成片字幕的一条龙。</p>\n<img alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/67e5519d-2328-4591-ab25-3ba81c2d63e3\">\n<img alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/56d2fe90-1669-46c8-bf80-cb24e0ea911e\">\n<img alt=\"Gemini Subtitle Pro\" src=\"https://github.com/user-attachments/assets/386b0b72-eb49-4334-9655-4408f56237f9\">\n<h2>亮点</h2>\n<ul>\n<li>🚀 全流程一条龙： 输入链接即可自动完成 下载→转录→润色→翻译→对齐→压制，避免多软件来回切换</li>\n<li>🎧 术语自动提取 + 标准译法校验： 从音频中抽取专有名词，辅助统一译名，减少“人名地名翻车”</li>\n<li>⚡ 长上下文翻译： 按语义切成 5–10 分钟片段翻译，保留上下文，减少前后不一致</li>\n<li>💎 转录后处理一体化： 智能断句、时间轴校正、术语替换一次完成，字幕更像“人写的”</li>\n<li>🎯 CTC 强制对齐： 毫秒级时间轴精修，让字幕“更贴嘴、更稳”</li>\n<li>🗣️ 说话人识别： 自动标注多说话人，支持颜色/合并等字幕样式管理</li>\n<li>📺 所见即所得 ASS 预览： 实时渲染字体、颜色、位置等样式，做字幕不用盲改</li>\n<li>🔄 片段级批量重跑： 选中某段一键重做（转录→润色→对齐→翻译），返工成本大幅降低</li>\n<li>🌍 中/英/日 i18n + 自动识别源语言： 开箱即用，多语种素材更友好</li>\n<li>🧠 智能并发加速： 根据模型动态调并发，处理速度更接近“可生产使用”的节奏</li>\n<li>✂️ 集成压制与硬件加速： 内置 FFmpeg，支持 H.264/H.265 编码与字幕烧录（桌面端）</li>\n<li>📦 工程化细节齐全： 双语 SRT/ASS 导出、版本快照、缓存/日志/自定义 API 端点等</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/267\" target=\"_blank\">#267</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/267.html",

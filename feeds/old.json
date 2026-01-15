@@ -1,5 +1,19 @@
 [
   {
+    "id": "265",
+    "url": "https://wangchujiang.com/quick-rss/issue/265.html",
+    "title": "Quotio：轻松管理您的 AI 订阅，实时配额跟踪与智能自动切换",
+    "content_html": "<p>Quotio 是一款精美的原生 macOS 菜单栏应用，旨在帮助用户高效统一管理多个 AI 订阅服务。无论您使用的是 Claude、Gemini、OpenAI、Qwen 还是 Antigravity，Quotio 都能让您在一个地方轻松查看和管理所有订阅。</p>\n<img alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/bd0768ad-f441-4201-864a-64f1671f932b\">\n<p>这款应用提供实时配额跟踪功能，确保您了解每个服务的使用情况，同时还支持智能自动切换，自动选择最合适的服务来优化工作流程，尤其对于 AI 编程工具（如 Claude Code、OpenCode 和 Droid）非常有用。\n如果您在使用多个 AI 订阅工具时感到困扰，Quotio 将帮助您简化管理流程，提高工作效率。</p>\n<img alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/6c3f85b9-f5c2-4520-860e-35e68207131b\">\n<img alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/b23896ed-f329-4193-8da4-34fbbc212e47\">",
+    "summary": "Quotio 是一款精美的原生 macOS 菜单栏应用，旨在帮助用户高效统一管理多个 AI 订阅服务。无论您使用的是 Claude、Gemini、OpenAI、Qwen 还是 Antigravity，Quotio 都能让您在一个地方轻松查看和管理所有订阅。 这款应用提供实时配额跟踪功能，确保您了解每个服务的使用情况，同时还支持智能自动切换，自动选择最合适的服务来优化工作流程，尤其对于 AI 编程工",
+    "banner_image": null,
+    "date_published": "2026-01-15T16:12:36Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Quotio 是一款精美的原生 macOS 菜单栏应用，旨在帮助用户高效统一管理多个 AI 订阅服务。无论您使用的是 Claude、Gemini、OpenAI、Qwen 还是 Antigravity，Quotio 都能让您在一个地方轻松查看和管理所有订阅。\n\n<img  alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/bd0768ad-f441-4201-864a-64f1671f932b\" />\n\n这款应用提供实时配额跟踪功能，确保您了解每个服务的使用情况，同时还支持智能自动切换，自动选择最合适的服务来优化工作流程，尤其对于 AI 编程工具（如 Claude Code、OpenCode 和 Droid）非常有用。\n如果您在使用多个 AI 订阅工具时感到困扰，Quotio 将帮助您简化管理流程，提高工作效率。\n\n<img alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/6c3f85b9-f5c2-4520-860e-35e68207131b\" />\n\n<img alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/b23896ed-f329-4193-8da4-34fbbc212e47\" />"
+  },
+  {
     "id": "264",
     "url": "https://wangchujiang.com/quick-rss/issue/264.html",
     "title": "CropBatch：一款高效的批量图片裁剪工具",

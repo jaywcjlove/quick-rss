@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Quotio：轻松管理您的 AI 订阅，实时配额跟踪与智能自动切换](https://wangchujiang.com/quick-rss/issue/265.html) 
+
+![](https://github.com/user-attachments/assets/bd0768ad-f441-4201-864a-64f1671f932b)
+
+Quotio 是一款精美的原生 macOS 菜单栏应用，旨在帮助用户高效统一管理多个 AI 订阅服务。无论您使用的是 Claude、Gemini、OpenAI、Qwen 还是 Antigravity，Quotio 都能让您在一个地方轻松查看和管理所有订阅。 这款应用提供实时配额跟踪功能，确保您了解每个服务的使用情况，同时还支持智能自动切换，自动选择最合适的服务来优化工作流程，尤其对于 AI 编程工 ([#265](https://github.com/jaywcjlove/quick-rss/issues/265) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [CropBatch：一款高效的批量图片裁剪工具](https://wangchujiang.com/quick-rss/issue/264.html) 
 
 ![](https://github.com/user-attachments/assets/1d9d83eb-f825-4ccc-b76a-e6da78c3829d)

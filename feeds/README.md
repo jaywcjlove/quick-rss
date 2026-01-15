@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [CropBatch：一款高效的批量图片裁剪工具](https://wangchujiang.com/quick-rss/issue/264.html) 
+
+![](https://github.com/user-attachments/assets/1d9d83eb-f825-4ccc-b76a-e6da78c3829d)
+
+CropBatch 是一款开源的批量图片裁剪工具，旨在帮助用户快速处理大量图片，进行统一尺寸裁剪。无论你是需要裁剪个人照片、设计图还是产品图，这款工具都能大大提高你的工作效率。 它支持批量处理，用户只需选择裁剪区域和输入裁剪的尺寸，工具会自动应用到所有选中的图片上。无论图片格式如何，CropBatch 都能轻松处理，支持常见的 JPG、PNG、GIF 等格式。 这款工具界面简洁直观，操作简单，适合 ([#264](https://github.com/jaywcjlove/quick-rss/issues/264) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Clicke：一款用于捕捉和美化截图的 macOS 菜单栏应用](https://wangchujiang.com/quick-rss/issue/263.html) 
 
 ![](https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4)

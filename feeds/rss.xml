@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 11 Jan 2026 17:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 12:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,27 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CropBatch：一款高效的批量图片裁剪工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/264.html</link>
+            <guid isPermaLink="false">264</guid>
+            <pubDate>Thu, 15 Jan 2026 12:34:18 GMT</pubDate>
+            <description><![CDATA[CropBatch 是一款开源的批量图片裁剪工具，旨在帮助用户快速处理大量图片，进行统一尺寸裁剪。无论你是需要裁剪个人照片、设计图还是产品图，这款工具都能大大提高你的工作效率。 它支持批量处理，用户只需选择裁剪区域和输入裁剪的尺寸，工具会自动应用到所有选中的图片上。无论图片格式如何，CropBatch 都能轻松处理，支持常见的 JPG、PNG、GIF 等格式。 这款工具界面简洁直观，操作简单，适合]]></description>
+            <content:encoded><![CDATA[<p><strong>CropBatch</strong> 是一款开源的批量图片裁剪工具，旨在帮助用户快速处理大量图片，进行统一尺寸裁剪。无论你是需要裁剪个人照片、设计图还是产品图，这款工具都能大大提高你的工作效率。</p>
+<img alt="CropBatch" src="https://github.com/user-attachments/assets/1d9d83eb-f825-4ccc-b76a-e6da78c3829d">
+<p>它支持批量处理，用户只需选择裁剪区域和输入裁剪的尺寸，工具会自动应用到所有选中的图片上。无论图片格式如何，<strong>CropBatch</strong> 都能轻松处理，支持常见的 JPG、PNG、GIF 等格式。</p>
+<img alt="CropBatch" src="https://github.com/user-attachments/assets/9e6a3a18-baeb-4b8d-b123-d58c3d7b8ca4">
+<p>这款工具界面简洁直观，操作简单，适合各种级别的用户使用，无需复杂的设置和配置。无论是在日常工作中，还是在需要大量图片裁剪的项目中，<strong>CropBatch</strong> 都是你理想的选择。</p>
+<img alt="CropBatch" src="https://github.com/user-attachments/assets/e05af3cb-af77-4182-91b8-e539f6dc83b0">
+<p>如果你在寻找一款高效的批量裁剪工具，不妨试试 <strong>CropBatch</strong>，它将极大地提升你的工作效率。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/264" target="_blank">#264</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/1d9d83eb-f825-4ccc-b76a-e6da78c3829d" length="0" type="image//user-attachments/assets/1d9d83eb-f825-4ccc-b76a-e6da78c3829d"/>
+        </item>
         <item>
             <title><![CDATA[Clicke：一款用于捕捉和美化截图的 macOS 菜单栏应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/263.html</link>
@@ -35,6 +56,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4" length="0" type="image//user-attachments/assets/039fd886-a964-4896-9866-1e11c8abfae4"/>
         </item>
         <item>
@@ -65,6 +87,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59" length="0" type="image//user-attachments/assets/1d5570ce-57bb-4d34-ae1b-f1bcefdacb59"/>
         </item>
         <item>
@@ -80,6 +103,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/dddb99db-9c5d-4ccc-bd5a-60e120d47833" length="0" type="image//user-attachments/assets/dddb99db-9c5d-4ccc-bd5a-60e120d47833"/>
         </item>
         <item>
@@ -99,6 +123,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb" length="0" type="image//user-attachments/assets/233bb2ce-bbf0-490c-a2cd-7a6ed3ac9cbb"/>
         </item>
         <item>
@@ -121,6 +146,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0" length="0" type="image//user-attachments/assets/486ddce3-a9d3-445e-90ff-d7182829afb0"/>
         </item>
         <item>
@@ -143,6 +169,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc" length="0" type="image//user-attachments/assets/cc2bd26d-f9b1-406b-8a21-37f655ccd2fc"/>
         </item>
         <item>
@@ -172,6 +199,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/cf9f8ac8-3328-4f05-b9a6-89a2dc868435" length="0" type="image//user-attachments/assets/cf9f8ac8-3328-4f05-b9a6-89a2dc868435"/>
         </item>
         <item>
@@ -197,6 +225,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2ed38a93-f1d6-440e-a115-6567641b39c1" length="0" type="image//user-attachments/assets/2ed38a93-f1d6-440e-a115-6567641b39c1"/>
         </item>
         <item>
@@ -227,6 +256,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/878e8718-e365-4148-9141-b1227270874c" length="0" type="image//user-attachments/assets/878e8718-e365-4148-9141-b1227270874c"/>
         </item>
         <item>
@@ -253,6 +283,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b02d3f33-49c4-4915-832a-3404bddaa009" length="0" type="image//user-attachments/assets/b02d3f33-49c4-4915-832a-3404bddaa009"/>
         </item>
         <item>
@@ -283,6 +314,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/6095c589-a592-4132-afd2-74adb0b61f50" length="0" type="image//user-attachments/assets/6095c589-a592-4132-afd2-74adb0b61f50"/>
         </item>
         <item>
@@ -332,6 +364,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809" length="0" type="image//user-attachments/assets/591f2690-19c1-4fb1-a4f8-e8e86a173809"/>
         </item>
         <item>
@@ -358,6 +391,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/shuyi6202-cell" target="_blank">@shuyi6202-cell</a>
       ]]></content:encoded>
+            <author>shuyi6202-cell</author>
             <enclosure url="https://github.com/user-attachments/assets/7717c7d1-86a9-45f7-b19e-9ded496ebefb" length="0" type="image//user-attachments/assets/7717c7d1-86a9-45f7-b19e-9ded496ebefb"/>
         </item>
         <item>
@@ -429,6 +463,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/shuyi6202-cell" target="_blank">@shuyi6202-cell</a>
       ]]></content:encoded>
+            <author>shuyi6202-cell</author>
             <enclosure url="https://github.com/user-attachments/assets/c71a5c40-da7d-4538-9137-70a46934eea5" length="0" type="image//user-attachments/assets/c71a5c40-da7d-4538-9137-70a46934eea5"/>
         </item>
         <item>
@@ -455,6 +490,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889" length="0" type="image//user-attachments/assets/13de7a10-6685-461d-bd7a-5851d73a1889"/>
         </item>
         <item>
@@ -482,6 +518,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/93e479f9-c755-4f05-8bb6-4479e6f2ebc1" length="0" type="image//user-attachments/assets/93e479f9-c755-4f05-8bb6-4479e6f2ebc1"/>
         </item>
         <item>
@@ -514,6 +551,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/838608db-cd50-463d-9164-e804a0aee9c6" length="0" type="image//user-attachments/assets/838608db-cd50-463d-9164-e804a0aee9c6"/>
         </item>
         <item>
@@ -539,6 +577,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/27b4be54-76ad-4f0a-add4-d710fe584a31" length="0" type="image//user-attachments/assets/27b4be54-76ad-4f0a-add4-d710fe584a31"/>
         </item>
         <item>
@@ -577,6 +616,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e343e866-8812-46b3-84c3-d881d2884db2" length="0" type="image//user-attachments/assets/e343e866-8812-46b3-84c3-d881d2884db2"/>
         </item>
         <item>
@@ -601,6 +641,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461" length="0" type="image//user-attachments/assets/5cd23453-a096-402e-aa5d-7fcb0135f461"/>
         </item>
         <item>
@@ -625,6 +666,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/034e3860-5cf2-406d-965b-bc55b9165cb2" length="0" type="image//user-attachments/assets/034e3860-5cf2-406d-965b-bc55b9165cb2"/>
         </item>
         <item>
@@ -700,6 +742,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e4e93c46-9fa6-4e6b-9bef-df6304660de9" length="0" type="image//user-attachments/assets/e4e93c46-9fa6-4e6b-9bef-df6304660de9"/>
         </item>
         <item>
@@ -783,6 +826,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/c16197bc-0b6d-461d-a77b-df4dd354e485" length="0" type="image//user-attachments/assets/c16197bc-0b6d-461d-a77b-df4dd354e485"/>
         </item>
         <item>
@@ -814,6 +858,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/6fc74244-2353-4fd5-8ada-6849950d2c7a" length="0" type="image//user-attachments/assets/6fc74244-2353-4fd5-8ada-6849950d2c7a"/>
         </item>
         <item>
@@ -830,6 +875,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3e2cf912-71ab-447a-8870-7088206b5b4e" length="0" type="image//user-attachments/assets/3e2cf912-71ab-447a-8870-7088206b5b4e"/>
         </item>
         <item>
@@ -871,6 +917,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653" length="0" type="image//user-attachments/assets/64c8c7c0-2621-4647-84bd-9f67b7322653"/>
         </item>
         <item>
@@ -904,6 +951,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/d8802f63-3259-4f42-8873-3ebfd65f6287" length="0" type="image//user-attachments/assets/d8802f63-3259-4f42-8873-3ebfd65f6287"/>
         </item>
         <item>
@@ -924,6 +972,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa" length="0" type="image//user-attachments/assets/6dfd31b1-7996-4e4f-aa05-51eba3d2a9aa"/>
         </item>
         <item>
@@ -940,6 +989,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/991506dc-9848-420d-9978-a758c9023125" length="0" type="image//user-attachments/assets/991506dc-9848-420d-9978-a758c9023125"/>
         </item>
         <item>
@@ -1059,6 +1109,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3d1ba534-c1db-4d82-92ac-757733a985ef" length="0" type="image//user-attachments/assets/3d1ba534-c1db-4d82-92ac-757733a985ef"/>
         </item>
         <item>
@@ -1089,6 +1140,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/326fbd7c-4fa4-41ad-96c8-3303b6cb8cf1" length="0" type="image//user-attachments/assets/326fbd7c-4fa4-41ad-96c8-3303b6cb8cf1"/>
         </item>
         <item>
@@ -1117,6 +1169,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/c6d34e64-963a-4af7-9893-d4e1538d331b" length="0" type="image//user-attachments/assets/c6d34e64-963a-4af7-9893-d4e1538d331b"/>
         </item>
         <item>
@@ -1146,6 +1199,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33" length="0" type="image//user-attachments/assets/aba967cf-95dc-40c8-9ac8-37f022897c33"/>
         </item>
         <item>
@@ -1164,6 +1218,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e" length="0" type="image//user-attachments/assets/9761c3b2-86d6-4383-823c-7acfdad2b43e"/>
         </item>
         <item>
@@ -1189,6 +1244,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883" length="0" type="image//user-attachments/assets/2fa261a4-8418-4cf6-889f-d2b4ef45e883"/>
         </item>
         <item>
@@ -1228,6 +1284,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/Wcowin" target="_blank">@Wcowin</a>
       ]]></content:encoded>
+            <author>Wcowin</author>
             <enclosure url="https://s1.imagehub.cc/images/2025/11/15/75fb592d491f6bce82781739336c8c1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1246,6 +1303,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/11799508-aeea-4e36-b53e-c6c083803aa5" length="0" type="image//user-attachments/assets/11799508-aeea-4e36-b53e-c6c083803aa5"/>
         </item>
         <item>
@@ -1327,6 +1385,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/42ddfef3-ec78-474c-90b4-335c7ecc2159" length="0" type="image//user-attachments/assets/42ddfef3-ec78-474c-90b4-335c7ecc2159"/>
         </item>
         <item>
@@ -1344,6 +1403,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/9d4945de-9fcf-47f5-86fc-c5ffec8ada3f" length="0" type="image//user-attachments/assets/9d4945de-9fcf-47f5-86fc-c5ffec8ada3f"/>
         </item>
         <item>
@@ -1375,6 +1435,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/103af7c9-f728-4d7b-b1eb-fa7f40679db0" length="0" type="image//user-attachments/assets/103af7c9-f728-4d7b-b1eb-fa7f40679db0"/>
         </item>
         <item>
@@ -1390,6 +1451,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76" length="0" type="image//user-attachments/assets/7c4a31bb-4c0b-4238-92fa-ebdc226d6e76"/>
         </item>
         <item>
@@ -1412,6 +1474,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
         </item>
         <item>
             <title><![CDATA[Nook：一款为 macOS 设计的快速、极简、侧边栏优先的浏览器。]]></title>
@@ -1432,6 +1495,7 @@
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941" length="0" type="image//user-attachments/assets/8eca7ca1-fd17-40f9-be17-6376c5bdd941"/>
         </item>
         <item>
@@ -1454,6 +1518,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/035160fe-29d8-4081-87f5-5a98adfe6d4d" length="0" type="image//user-attachments/assets/035160fe-29d8-4081-87f5-5a98adfe6d4d"/>
         </item>
         <item>
@@ -1471,6 +1536,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f" length="0" type="image//user-attachments/assets/2049c7b7-2c47-461d-9760-f4dedabb245f"/>
         </item>
         <item>
@@ -1496,6 +1562,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/fa8084c2-ff9b-4033-ac26-6e7b4b6f893a" length="0" type="image//user-attachments/assets/fa8084c2-ff9b-4033-ac26-6e7b4b6f893a"/>
         </item>
         <item>
@@ -1518,6 +1585,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/68f4787b-68eb-47b9-9047-d1e3ad09c8cf" length="0" type="image//user-attachments/assets/68f4787b-68eb-47b9-9047-d1e3ad09c8cf"/>
         </item>
         <item>
@@ -1549,6 +1617,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/39a10be1-b194-4ac9-a46c-07e5463dc440" length="0" type="image//user-attachments/assets/39a10be1-b194-4ac9-a46c-07e5463dc440"/>
         </item>
         <item>
@@ -1577,6 +1646,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e0177d0d-a504-4fd5-9292-0fb469733f72" length="0" type="image//user-attachments/assets/e0177d0d-a504-4fd5-9292-0fb469733f72"/>
         </item>
         <item>
@@ -1609,6 +1679,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
         </item>
         <item>
             <title><![CDATA[DockFinity：一款 macOS 菜单栏应用，允许你创建并快速切换不同的 Dock 配置]]></title>
@@ -1631,6 +1702,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/380945f3-2990-4d23-b66d-1db92f1f1a9c" length="0" type="image//user-attachments/assets/380945f3-2990-4d23-b66d-1db92f1f1a9c"/>
         </item>
         <item>
@@ -1647,6 +1719,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/ovelv" target="_blank">@ovelv</a>
       ]]></content:encoded>
+            <author>ovelv</author>
             <enclosure url="https://github.com/user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8" length="0" type="image//user-attachments/assets/a8dded30-44b9-4f3f-b092-b21a47027fb8"/>
         </item>
         <item>
@@ -1663,6 +1736,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/50ca39fb-9ce4-42f8-9ba2-f11b2b1791f8" length="0" type="image//user-attachments/assets/50ca39fb-9ce4-42f8-9ba2-f11b2b1791f8"/>
         </item>
         <item>
@@ -1682,6 +1756,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/d4321f2b-8ee8-4da7-96ee-bddd20c16558" length="0" type="image//user-attachments/assets/d4321f2b-8ee8-4da7-96ee-bddd20c16558"/>
         </item>
         <item>
@@ -1697,6 +1772,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597" length="0" type="image//user-attachments/assets/25dff0de-9653-4669-9af7-5720d85cd597"/>
         </item>
         <item>
@@ -1719,6 +1795,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/613e7435-c6e7-4be1-ba9b-ef4118c90c29" length="0" type="image//user-attachments/assets/613e7435-c6e7-4be1-ba9b-ef4118c90c29"/>
         </item>
         <item>
@@ -1734,6 +1811,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/5330a5c2-dda0-4600-97ee-e430c24bffe8" length="0" type="image//user-attachments/assets/5330a5c2-dda0-4600-97ee-e430c24bffe8"/>
         </item>
         <item>
@@ -1761,6 +1839,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/26679fc0-3f58-494b-a06e-85a33936ee00" length="0" type="image//user-attachments/assets/26679fc0-3f58-494b-a06e-85a33936ee00"/>
         </item>
         <item>
@@ -1776,6 +1855,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/6a655e0b-83fa-4e4d-be07-d85afe04f549" length="0" type="image//user-attachments/assets/6a655e0b-83fa-4e4d-be07-d85afe04f549"/>
         </item>
         <item>
@@ -1800,6 +1880,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e" length="0" type="image//user-attachments/assets/94e0e1bb-ac79-4451-ae0f-cd09832b1c8e"/>
         </item>
         <item>
@@ -1817,6 +1898,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/d046840c-1241-4f64-b3cb-7fe4c305b921" length="0" type="image//user-attachments/assets/d046840c-1241-4f64-b3cb-7fe4c305b921"/>
         </item>
         <item>
@@ -1833,6 +1915,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd" length="0" type="image//user-attachments/assets/2b72222d-7a19-4e11-b1d9-89826beb81dd"/>
         </item>
         <item>
@@ -1859,6 +1942,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316" length="0" type="image//user-attachments/assets/8cc884c2-6b34-4d4b-84e1-350fa0a53316"/>
         </item>
         <item>
@@ -1885,6 +1969,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc" length="0" type="image//user-attachments/assets/76c6ba59-fac5-47fc-a855-18ec7e631ecc"/>
         </item>
         <item>
@@ -1913,6 +1998,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/ef534c86-dcf7-49a5-a1b3-dcd9c1dd85f8" length="0" type="image//user-attachments/assets/ef534c86-dcf7-49a5-a1b3-dcd9c1dd85f8"/>
         </item>
         <item>
@@ -1936,6 +2022,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/5e64fb5a-b219-4c0f-8295-4725e97f2693" length="0" type="image//user-attachments/assets/5e64fb5a-b219-4c0f-8295-4725e97f2693"/>
         </item>
         <item>
@@ -2024,6 +2111,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/325592b8-df14-4bf7-a84f-511842473585" length="0" type="image//user-attachments/assets/325592b8-df14-4bf7-a84f-511842473585"/>
         </item>
         <item>
@@ -2039,6 +2127,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324" length="0" type="image//user-attachments/assets/c224bdc4-55d0-4261-88ff-d6a2b410e324"/>
         </item>
         <item>
@@ -2054,6 +2143,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/381efd1a-9025-496f-81be-3c644bd264e7" length="0" type="image//user-attachments/assets/381efd1a-9025-496f-81be-3c644bd264e7"/>
         </item>
         <item>
@@ -2082,6 +2172,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/samzong" target="_blank">@samzong</a>
       ]]></content:encoded>
+            <author>samzong</author>
             <enclosure url="https://github.com/user-attachments/assets/fcbd1b17-a8c4-4839-9e0f-dd2a614a7e5d" length="0" type="image//user-attachments/assets/fcbd1b17-a8c4-4839-9e0f-dd2a614a7e5d"/>
         </item>
         <item>
@@ -2111,6 +2202,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e0231479-95cd-4864-915b-dcb3db126e98" length="0" type="image//user-attachments/assets/e0231479-95cd-4864-915b-dcb3db126e98"/>
         </item>
         <item>
@@ -2149,6 +2241,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/eabdce75-666e-47de-9ed5-57984ac63d2d" length="0" type="image//user-attachments/assets/eabdce75-666e-47de-9ed5-57984ac63d2d"/>
         </item>
         <item>
@@ -2171,6 +2264,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/fded14b4-3268-45ec-af36-9b058f4d9334" length="0" type="image//user-attachments/assets/fded14b4-3268-45ec-af36-9b058f4d9334"/>
         </item>
         <item>
@@ -2188,6 +2282,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872" length="0" type="image//user-attachments/assets/0e6f61e6-04a1-48a9-82d3-e06e2e5bf872"/>
         </item>
         <item>
@@ -2203,6 +2298,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd" length="0" type="image//user-attachments/assets/3bf58ec1-c52f-4b0f-9edb-f08ab542b8cd"/>
         </item>
         <item>
@@ -2222,6 +2318,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e7d036eb-a854-4308-b527-7331bc535e9c" length="0" type="image//user-attachments/assets/e7d036eb-a854-4308-b527-7331bc535e9c"/>
         </item>
         <item>
@@ -2247,6 +2344,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/8c84e985-8c79-4351-824a-364462d78dfb" length="0" type="image//user-attachments/assets/8c84e985-8c79-4351-824a-364462d78dfb"/>
         </item>
         <item>
@@ -2262,6 +2360,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a" length="0" type="image//user-attachments/assets/2ad25ec5-1b2c-43fc-908b-f7b16827da8a"/>
         </item>
         <item>
@@ -2278,6 +2377,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/652a9865-31f5-4bf8-9754-1c4765512eeb" length="0" type="image//user-attachments/assets/652a9865-31f5-4bf8-9754-1c4765512eeb"/>
         </item>
         <item>
@@ -2295,6 +2395,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355" length="0" type="image//user-attachments/assets/4ed3af06-4e6f-45c2-93d7-90ff1015f355"/>
         </item>
         <item>
@@ -2325,6 +2426,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/935d4aeb-0cca-427b-a732-a87b8343595e" length="0" type="image//user-attachments/assets/935d4aeb-0cca-427b-a732-a87b8343595e"/>
         </item>
         <item>
@@ -2346,6 +2448,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a235a08d-174f-4f41-8326-90a5a22ba2df" length="0" type="image//user-attachments/assets/a235a08d-174f-4f41-8326-90a5a22ba2df"/>
         </item>
         <item>
@@ -2361,6 +2464,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae" length="0" type="image//user-attachments/assets/6dbdfc5f-4e5e-43e9-847a-095af75a09ae"/>
         </item>
         <item>
@@ -2387,6 +2491,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863" length="0" type="image//user-attachments/assets/2ce5e2d6-15f8-4979-89be-71d877002863"/>
         </item>
         <item>
@@ -2423,6 +2528,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc" length="0" type="image//user-attachments/assets/aa1e25a7-5f7a-4b8a-840a-e03b57a69cdc"/>
         </item>
         <item>
@@ -2452,6 +2558,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/6a43ca60-08a5-464b-8a22-76d69e11cb08" length="0" type="image//user-attachments/assets/6a43ca60-08a5-464b-8a22-76d69e11cb08"/>
         </item>
         <item>
@@ -2480,6 +2587,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7964ee03-1578-4e04-b44e-3f65fcf2bbf7" length="0" type="image//user-attachments/assets/7964ee03-1578-4e04-b44e-3f65fcf2bbf7"/>
         </item>
         <item>
@@ -2543,6 +2651,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a78f046f-6296-4018-8c24-b79af181e9f8" length="0" type="image//user-attachments/assets/a78f046f-6296-4018-8c24-b79af181e9f8"/>
         </item>
         <item>
@@ -2558,6 +2667,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599" length="0" type="image//user-attachments/assets/b64137e0-dbbc-48ee-b616-3af7c0e2e599"/>
         </item>
         <item>
@@ -2589,6 +2699,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a0b060d5-bfb0-4aaa-a7c3-80a8ad47f5ba" length="0" type="image//user-attachments/assets/a0b060d5-bfb0-4aaa-a7c3-80a8ad47f5ba"/>
         </item>
         <item>
@@ -2617,6 +2728,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/cfcbf240-f66f-4b60-8a46-a24b8f3748be" length="0" type="image//user-attachments/assets/cfcbf240-f66f-4b60-8a46-a24b8f3748be"/>
         </item>
         <item>
@@ -2646,6 +2758,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/edef4502-5896-4fcc-b908-e1b5fa04192d" length="0" type="image//user-attachments/assets/edef4502-5896-4fcc-b908-e1b5fa04192d"/>
         </item>
         <item>
@@ -2661,6 +2774,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073" length="0" type="image//user-attachments/assets/b066a1f0-0e75-43ad-b5cb-1d0d0a24f073"/>
         </item>
         <item>
@@ -2679,6 +2793,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/47bac232-12cb-44c7-ad71-fb36900383f8" length="0" type="image//user-attachments/assets/47bac232-12cb-44c7-ad71-fb36900383f8"/>
         </item>
         <item>
@@ -2703,6 +2818,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/41a16a69-d402-4176-9ce9-fd5b183fa221" length="0" type="image//user-attachments/assets/41a16a69-d402-4176-9ce9-fd5b183fa221"/>
         </item>
         <item>
@@ -2721,6 +2837,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a" length="0" type="image//user-attachments/assets/42b1bffb-ce4e-4749-8942-b93c3990a33a"/>
         </item>
         <item>
@@ -2751,6 +2868,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e3abd4a3-e977-44ca-97c4-6a49bf90f8cd" length="0" type="image//user-attachments/assets/e3abd4a3-e977-44ca-97c4-6a49bf90f8cd"/>
         </item>
         <item>
@@ -2792,6 +2910,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b439b119-2b41-4e56-95ae-75ddd3cce918" length="0" type="image//user-attachments/assets/b439b119-2b41-4e56-95ae-75ddd3cce918"/>
         </item>
         <item>
@@ -2811,6 +2930,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/0d470fd4-a4cd-4703-b258-fccdf6656af9" length="0" type="image//user-attachments/assets/0d470fd4-a4cd-4703-b258-fccdf6656af9"/>
         </item>
         <item>
@@ -2856,6 +2976,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/seekton" target="_blank">@seekton</a>
       ]]></content:encoded>
+            <author>seekton</author>
             <enclosure url="https://github.com/user-attachments/assets/13487661-bf67-46b0-a289-57d14bee431f" length="0" type="image//user-attachments/assets/13487661-bf67-46b0-a289-57d14bee431f"/>
         </item>
         <item>
@@ -2875,6 +2996,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/af45e706-be4a-4e87-8d05-5f293e8d5beb" length="0" type="image//user-attachments/assets/af45e706-be4a-4e87-8d05-5f293e8d5beb"/>
         </item>
         <item>
@@ -2892,6 +3014,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35" length="0" type="image//user-attachments/assets/0e339eb6-7066-4697-a515-80fe0bfc9a35"/>
         </item>
         <item>
@@ -2941,6 +3064,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb" length="0" type="image//user-attachments/assets/ca8b510e-eb07-479b-a230-3d01f9571bbb"/>
         </item>
         <item>
@@ -2961,6 +3085,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b074d73b-fa72-4177-9f11-908d71df9499" length="0" type="image//user-attachments/assets/b074d73b-fa72-4177-9f11-908d71df9499"/>
         </item>
         <item>
@@ -2989,6 +3114,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a5392a69-611f-4925-a412-ce6d4196ba20" length="0" type="image//user-attachments/assets/a5392a69-611f-4925-a412-ce6d4196ba20"/>
         </item>
         <item>
@@ -3105,6 +3231,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/eeb7a4ef-2d6d-46d5-8305-dd2daaafcd04" length="0" type="image//user-attachments/assets/eeb7a4ef-2d6d-46d5-8305-dd2daaafcd04"/>
         </item>
         <item>
@@ -3123,6 +3250,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b" length="0" type="image//user-attachments/assets/205779db-215e-4e99-beef-c3df380b937b"/>
         </item>
         <item>
@@ -3138,6 +3266,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09" length="0" type="image//user-attachments/assets/1d16c028-f97d-4190-ad5b-7f23ab26ec09"/>
         </item>
         <item>
@@ -3153,6 +3282,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4" length="0" type="image//user-attachments/assets/883f4507-687c-432c-ad0b-6b33e0457ed4"/>
         </item>
         <item>
@@ -3168,6 +3298,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4" length="0" type="image//user-attachments/assets/cb78ae9a-c2ad-4fb6-b63e-4df21e8d4ee4"/>
         </item>
         <item>
@@ -3183,6 +3314,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240" length="0" type="image//user-attachments/assets/18c33c5c-0bdb-42e3-9b46-1f5a400ea240"/>
         </item>
         <item>
@@ -3233,6 +3365,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/de4ee3ea-ecc8-45e6-ade1-2c14e688872b" length="0" type="image//user-attachments/assets/de4ee3ea-ecc8-45e6-ade1-2c14e688872b"/>
         </item>
         <item>
@@ -3251,6 +3384,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/013fd8d9-bead-4f30-9d0d-6a0f216f9ef1" length="0" type="image//user-attachments/assets/013fd8d9-bead-4f30-9d0d-6a0f216f9ef1"/>
         </item>
         <item>
@@ -3274,6 +3408,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0" length="0" type="image//user-attachments/assets/1595efd6-972e-475d-89b6-2182199d03b0"/>
         </item>
         <item>
@@ -3290,6 +3425,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/08f6d682-34e6-40a1-863d-c2541892a405" length="0" type="image//user-attachments/assets/08f6d682-34e6-40a1-863d-c2541892a405"/>
         </item>
         <item>
@@ -3308,6 +3444,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/bb5f98b8-8e8d-4962-9c97-96c35e7a5ac1" length="0" type="image//user-attachments/assets/bb5f98b8-8e8d-4962-9c97-96c35e7a5ac1"/>
         </item>
         <item>
@@ -3324,6 +3461,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66" length="0" type="image//user-attachments/assets/106d3ec4-563a-478f-8f58-fe4b81511d66"/>
         </item>
         <item>
@@ -3343,6 +3481,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/96501f01-4df8-4f92-9bc7-715833e58cb8" length="0" type="image//user-attachments/assets/96501f01-4df8-4f92-9bc7-715833e58cb8"/>
         </item>
         <item>
@@ -3366,6 +3505,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/BearSolitarily" target="_blank">@BearSolitarily</a>
       ]]></content:encoded>
+            <author>BearSolitarily</author>
             <enclosure url="https://github.com/user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5" length="0" type="image//user-attachments/assets/065c6438-4f66-4f23-8214-2a8bcb383de5"/>
         </item>
         <item>
@@ -3381,6 +3521,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/cd3998f4-83be-4d69-a00c-86d04915c6cc" length="0" type="image//user-attachments/assets/cd3998f4-83be-4d69-a00c-86d04915c6cc"/>
         </item>
         <item>
@@ -3398,6 +3539,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8" length="0" type="image//user-attachments/assets/616cffee-d6f0-4d32-aeb4-958536a1d5c8"/>
         </item>
         <item>
@@ -3417,6 +3559,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19" length="0" type="image//user-attachments/assets/aef85c83-7b5f-4114-a34b-5e1b190a3e19"/>
         </item>
         <item>
@@ -3439,6 +3582,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/386c26bc-3503-4482-b957-7337e73f3e48" length="0" type="image//user-attachments/assets/386c26bc-3503-4482-b957-7337e73f3e48"/>
         </item>
         <item>
@@ -3457,6 +3601,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/16bd02a0-8e4c-4f16-83a0-58902332b9c7" length="0" type="image//user-attachments/assets/16bd02a0-8e4c-4f16-83a0-58902332b9c7"/>
         </item>
         <item>
@@ -3496,6 +3641,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/1643a83b-e299-49af-bd85-aad0666d274f" length="0" type="image//user-attachments/assets/1643a83b-e299-49af-bd85-aad0666d274f"/>
         </item>
         <item>
@@ -3522,6 +3668,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7" length="0" type="image//user-attachments/assets/d0243f12-f36d-4c08-88a5-01eec5b32cb7"/>
         </item>
         <item>
@@ -3537,6 +3684,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/9a57fc3d-25fd-4a05-b247-dcd0812c5207" length="0" type="image//user-attachments/assets/9a57fc3d-25fd-4a05-b247-dcd0812c5207"/>
         </item>
         <item>
@@ -3570,6 +3718,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a924a205-6c05-4f1f-b4c1-5e59ee7f6294" length="0" type="image//user-attachments/assets/a924a205-6c05-4f1f-b4c1-5e59ee7f6294"/>
         </item>
         <item>
@@ -3599,6 +3748,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2a3d17b9-de1e-4b0e-b7f5-711a4afb8455" length="0" type="image//user-attachments/assets/2a3d17b9-de1e-4b0e-b7f5-711a4afb8455"/>
         </item>
         <item>
@@ -3614,6 +3764,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42" length="0" type="image//user-attachments/assets/04e83917-f2ee-4849-91c1-1c66c53b6c42"/>
         </item>
         <item>
@@ -3630,6 +3781,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d" length="0" type="image//user-attachments/assets/b6b8b000-016f-4d17-a460-9377fba5c81d"/>
         </item>
         <item>
@@ -3661,6 +3813,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/ad0673b1-b7d1-4882-a32d-0ff50eb847c9" length="0" type="image//user-attachments/assets/ad0673b1-b7d1-4882-a32d-0ff50eb847c9"/>
         </item>
         <item>
@@ -3690,6 +3843,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/386038bc-0648-47c6-9678-2acf5b5cb069" length="0" type="image//user-attachments/assets/386038bc-0648-47c6-9678-2acf5b5cb069"/>
         </item>
         <item>
@@ -3717,6 +3871,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b287b48a-6134-4895-9230-3121c29b8d08" length="0" type="image//user-attachments/assets/b287b48a-6134-4895-9230-3121c29b8d08"/>
         </item>
         <item>
@@ -3745,6 +3900,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/129ea78c-03ea-427b-ae42-c28079f1bb02" length="0" type="image//user-attachments/assets/129ea78c-03ea-427b-ae42-c28079f1bb02"/>
         </item>
         <item>
@@ -3772,6 +3928,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317" length="0" type="image//user-attachments/assets/9dd723bb-da2c-4b87-aa98-0f0d499c8317"/>
         </item>
         <item>
@@ -3807,6 +3964,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3b8e4d0e-09d3-4dd1-afc4-68bf4a58bbc8" length="0" type="image//user-attachments/assets/3b8e4d0e-09d3-4dd1-afc4-68bf4a58bbc8"/>
         </item>
         <item>
@@ -3829,6 +3987,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/829311e7-4473-4c42-8494-d8a002c16401" length="0" type="image//user-attachments/assets/829311e7-4473-4c42-8494-d8a002c16401"/>
         </item>
         <item>
@@ -3858,6 +4017,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/284bd0b4-f7a4-4861-93c8-3d79acf7e2cc" length="0" type="image//user-attachments/assets/284bd0b4-f7a4-4861-93c8-3d79acf7e2cc"/>
         </item>
         <item>
@@ -3889,6 +4049,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e761bb87-b1a0-49ee-b989-231d0a5c7ab6" length="0" type="image//user-attachments/assets/e761bb87-b1a0-49ee-b989-231d0a5c7ab6"/>
         </item>
         <item>
@@ -3917,6 +4078,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068" length="0" type="image//user-attachments/assets/2f99ee2e-8344-4ac1-91b6-7208cf495068"/>
         </item>
         <item>
@@ -3941,6 +4103,7 @@ Keyzer 会将这些数据加密保存为一个可携带的 Keyzer 文件，让�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39" length="0" type="image//user-attachments/assets/8863bcbb-4236-4eda-a92e-74d1a5ad6c39"/>
         </item>
         <item>
@@ -3985,6 +4148,7 @@ BetterDisplay 支持通过 DDC 控制显示器的亮度、音量和颜色，并�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e492ea1a-3db4-4162-9e52-e50cbc8d6e88" length="0" type="image//user-attachments/assets/e492ea1a-3db4-4162-9e52-e50cbc8d6e88"/>
         </item>
         <item>
@@ -4022,6 +4186,7 @@ MonitorControl 的界面简洁、低调，能够无缝融入 macOS 的整体美�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/1328a23f-721b-4487-8f1e-9339665cd880" length="0" type="image//user-attachments/assets/1328a23f-721b-4487-8f1e-9339665cd880"/>
         </item>
         <item>
@@ -4062,6 +4227,7 @@ MonitorControl 的界面简洁、低调，能够无缝融入 macOS 的整体美�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/samzong" target="_blank">@samzong</a>
       ]]></content:encoded>
+            <author>samzong</author>
             <enclosure url="https://github.com/user-attachments/assets/d35ffe87-33e0-43a2-a460-844030447a75" length="0" type="image//user-attachments/assets/d35ffe87-33e0-43a2-a460-844030447a75"/>
         </item>
         <item>
@@ -4091,6 +4257,7 @@ MonitorControl 的界面简洁、低调，能够无缝融入 macOS 的整体美�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b" length="0" type="image//user-attachments/assets/c989f450-b275-4ddb-812b-38da6ec4ec1b"/>
         </item>
         <item>
@@ -4120,6 +4287,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7cb8a5cc-87dd-4815-9d09-484f13730408" length="0" type="image//user-attachments/assets/7cb8a5cc-87dd-4815-9d09-484f13730408"/>
         </item>
         <item>
@@ -4142,6 +4310,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/samzong" target="_blank">@samzong</a>
       ]]></content:encoded>
+            <author>samzong</author>
             <enclosure url="https://github.com/user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40" length="0" type="image//user-attachments/assets/a84e9bcb-08a9-4ce7-a784-ca45cddf2b40"/>
         </item>
         <item>
@@ -4173,6 +4342,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89" length="0" type="image//user-attachments/assets/bba5b316-2000-483d-81a9-235f7e06aa89"/>
         </item>
         <item>
@@ -4194,6 +4364,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4" length="0" type="image//user-attachments/assets/b64b7e68-b396-446d-a650-899b5461f7d4"/>
         </item>
         <item>
@@ -4231,6 +4402,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/68728ea9-7639-4fd3-a02a-823312e520e2" length="0" type="image//user-attachments/assets/68728ea9-7639-4fd3-a02a-823312e520e2"/>
         </item>
         <item>
@@ -4311,6 +4483,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9" length="0" type="image//user-attachments/assets/eff7b117-c4ef-4a25-a987-bdc4fdf233f9"/>
         </item>
         <item>
@@ -4342,6 +4515,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/5ece19f9-5c9a-4ac3-9b60-bdbc56482f79" length="0" type="image//user-attachments/assets/5ece19f9-5c9a-4ac3-9b60-bdbc56482f79"/>
         </item>
         <item>
@@ -4365,6 +4539,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7" length="0" type="image//user-attachments/assets/67e113bb-6802-4f92-88c4-3ce4cda895c7"/>
         </item>
         <item>
@@ -4380,6 +4555,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3c1c1c9d-fc69-4308-8374-203e5486c3df" length="0" type="image//user-attachments/assets/3c1c1c9d-fc69-4308-8374-203e5486c3df"/>
         </item>
         <item>
@@ -4404,6 +4580,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a7cc71c7-9a97-4965-8d9a-ff8874fba283" length="0" type="image//user-attachments/assets/a7cc71c7-9a97-4965-8d9a-ff8874fba283"/>
         </item>
         <item>
@@ -4421,6 +4598,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/icaohongyuan" target="_blank">@icaohongyuan</a>
       ]]></content:encoded>
+            <author>icaohongyuan</author>
             <enclosure url="https://github.com/user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a" length="0" type="image//user-attachments/assets/8b038238-d089-44c9-98d3-ffc0dd97164a"/>
         </item>
         <item>
@@ -4446,6 +4624,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0" length="0" type="image//user-attachments/assets/6666044a-3e75-41db-99a6-31e748e7a0a0"/>
         </item>
         <item>
@@ -4468,6 +4647,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c" length="0" type="image//user-attachments/assets/fec9b600-5d8b-48e5-96eb-b7100c8d839c"/>
         </item>
         <item>
@@ -4487,6 +4667,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e" length="0" type="image//user-attachments/assets/bb7e9b59-1c74-441b-8576-22d99a23415e"/>
         </item>
         <item>
@@ -4529,6 +4710,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128" length="0" type="image//user-attachments/assets/1e99d9d4-0d0e-4468-a9dc-1c651d14f128"/>
         </item>
         <item>
@@ -4553,6 +4735,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6" length="0" type="image//user-attachments/assets/8d5e9c3f-c0bb-47ea-bdd1-82734471f7a6"/>
         </item>
         <item>
@@ -4582,6 +4765,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615" length="0" type="image//user-attachments/assets/9e85e8a8-5127-434b-99d8-7c6510388615"/>
         </item>
         <item>
@@ -4606,6 +4790,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7" length="0" type="image//user-attachments/assets/43409ade-9f61-4b6a-bfb6-17634a6c31a7"/>
         </item>
         <item>
@@ -4627,6 +4812,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/Shanshi66" target="_blank">@Shanshi66</a>
       ]]></content:encoded>
+            <author>Shanshi66</author>
             <enclosure url="https://github.com/user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250" length="0" type="image//user-attachments/assets/2688950d-286b-4daf-a370-e145c87ce250"/>
         </item>
         <item>
@@ -4650,6 +4836,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/pingan8787" target="_blank">@pingan8787</a>
       ]]></content:encoded>
+            <author>pingan8787</author>
             <enclosure url="https://github.com/user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e" length="0" type="image//user-attachments/assets/84a430d4-5fb0-489b-84aa-b376dfcc643e"/>
         </item>
         <item>
@@ -4683,6 +4870,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f" length="0" type="image//user-attachments/assets/0b4bc716-5ee4-4289-8dc9-3449b5c96c3f"/>
         </item>
         <item>
@@ -4700,6 +4888,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5" length="0" type="image//user-attachments/assets/461ef2e6-29a2-4972-8112-4e3c0eaf51f5"/>
         </item>
         <item>
@@ -4719,6 +4908,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08" length="0" type="image//user-attachments/assets/f56a7986-c6d7-459e-bf48-d1dd770bac08"/>
         </item>
         <item>
@@ -4749,6 +4939,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c" length="0" type="image//user-attachments/assets/4d5a06d0-aa35-4a9b-b8eb-f1a02175645c"/>
         </item>
         <item>
@@ -4779,6 +4970,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b7c07694-0c95-4fce-9e17-09cfe2a984fd" length="0" type="image//user-attachments/assets/b7c07694-0c95-4fce-9e17-09cfe2a984fd"/>
         </item>
         <item>
@@ -4804,6 +4996,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/1ac4b7c7-9271-4b3d-baaa-5d7639d93a67" length="0" type="image//user-attachments/assets/1ac4b7c7-9271-4b3d-baaa-5d7639d93a67"/>
         </item>
         <item>
@@ -4825,6 +5018,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467" length="0" type="image//user-attachments/assets/f86713b7-4442-4ae9-b9b0-5155e04ee467"/>
         </item>
         <item>
@@ -4842,6 +5036,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c" length="0" type="image//user-attachments/assets/720d15b8-a8a1-4291-a936-7012f18d567c"/>
         </item>
         <item>
@@ -4866,6 +5061,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/18536764-0893-434a-a1f0-b0355b70ec64" length="0" type="image//user-attachments/assets/18536764-0893-434a-a1f0-b0355b70ec64"/>
         </item>
         <item>
@@ -4898,6 +5094,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948" length="0" type="image//user-attachments/assets/761f01ec-1e37-4b19-a054-a98b767d8948"/>
         </item>
         <item>
@@ -4915,6 +5112,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870" length="0" type="image//user-attachments/assets/af849ebf-f720-414d-a6ed-d08bc0440870"/>
         </item>
         <item>
@@ -4939,6 +5137,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3cf77884-88e8-4eeb-970f-853048d0b251" length="0" type="image//user-attachments/assets/3cf77884-88e8-4eeb-970f-853048d0b251"/>
         </item>
         <item>
@@ -4990,6 +5189,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1" length="0" type="image//user-attachments/assets/15e8f959-1bab-4c7e-8524-b31b914e1ae1"/>
         </item>
         <item>
@@ -5021,6 +5221,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/samzong" target="_blank">@samzong</a>
       ]]></content:encoded>
+            <author>samzong</author>
             <enclosure url="https://github.com/user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d" length="0" type="image//user-attachments/assets/ebe401eb-7d19-4513-86b2-f4fea2dacc2d"/>
         </item>
         <item>
@@ -5042,6 +5243,7 @@ Windows Vista 和 7 默认不支持 EFI 启动，但 WinDiskWriter 可以为您�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/70471c67-459b-42d5-a170-67206723c692" length="0" type="image//user-attachments/assets/70471c67-459b-42d5-a170-67206723c692"/>
         </item>
         <item>
@@ -5060,6 +5262,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a" length="0" type="image//user-attachments/assets/3c35de72-fbcf-4b0b-9c29-bfffc010757a"/>
         </item>
         <item>
@@ -5087,6 +5290,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550" length="0" type="image//user-attachments/assets/5b6f3dff-dee8-4cf1-b62d-96bce2786550"/>
         </item>
         <item>
@@ -5110,6 +5314,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875" length="0" type="image//user-attachments/assets/7f3a096e-97e2-4e0a-9983-5a068d4b8875"/>
         </item>
         <item>
@@ -5128,6 +5333,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e" length="0" type="image//user-attachments/assets/77683934-9986-4189-a62e-19d88dfb314e"/>
         </item>
         <item>
@@ -5144,6 +5350,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57" length="0" type="image//user-attachments/assets/f7b13a0f-835a-4348-99c7-39b590db0d57"/>
         </item>
         <item>
@@ -5160,6 +5367,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064" length="0" type="image//user-attachments/assets/cda1fbf5-5a4f-4c25-a782-b243ecad9064"/>
         </item>
         <item>
@@ -5188,6 +5396,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec" length="0" type="image//user-attachments/assets/7fad1f9f-66f7-4be9-a7cb-ca50a08b35ec"/>
         </item>
         <item>
@@ -5254,6 +5463,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73" length="0" type="image//user-attachments/assets/71f144b2-07c3-4e54-b3f9-82a4702acd73"/>
         </item>
         <item>
@@ -5285,6 +5495,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3" length="0" type="image//user-attachments/assets/cf96b833-1c62-4e51-a392-89ad674c78f3"/>
         </item>
         <item>
@@ -5304,6 +5515,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d" length="0" type="image//user-attachments/assets/d5bead3d-233f-454e-8b0f-86de0f52ef5d"/>
         </item>
         <item>
@@ -5333,6 +5545,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44" length="0" type="image//user-attachments/assets/be04e796-c96d-41ad-82b7-0a757d1b3f44"/>
         </item>
         <item>
@@ -5362,6 +5575,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/f2e9ef1d-b19b-4af6-9785-416be5e97e49" length="0" type="image//user-attachments/assets/f2e9ef1d-b19b-4af6-9785-416be5e97e49"/>
         </item>
         <item>
@@ -5385,6 +5599,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f" length="0" type="image//user-attachments/assets/a50be6a8-9aa3-471b-94d2-8e7644b60b2f"/>
         </item>
         <item>
@@ -5422,6 +5637,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8" length="0" type="image//user-attachments/assets/a163e23d-fbd5-4e47-ba41-1ba1399045e8"/>
         </item>
         <item>
@@ -5453,6 +5669,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/d6839a87-ef76-4391-b0ff-70b87932a396" length="0" type="image//user-attachments/assets/d6839a87-ef76-4391-b0ff-70b87932a396"/>
         </item>
         <item>
@@ -5470,6 +5687,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3" length="0" type="image//user-attachments/assets/4e6ef89f-df02-4737-943f-6c336d031fc3"/>
         </item>
         <item>
@@ -5495,6 +5713,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/499a5bf7-09e3-4e3b-ac3b-59657a885fd1" length="0" type="image//user-attachments/assets/499a5bf7-09e3-4e3b-ac3b-59657a885fd1"/>
         </item>
         <item>
@@ -5510,6 +5729,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984" length="0" type="image//user-attachments/assets/a6de491a-da09-487c-b44c-25967bd0e984"/>
         </item>
         <item>
@@ -5532,6 +5752,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03" length="0" type="image//user-attachments/assets/37d7d6c4-e66f-405a-9452-e733502a2d03"/>
         </item>
         <item>
@@ -5585,6 +5806,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b356e286-7637-45b5-b744-bcf4201ac5fe" length="0" type="image//user-attachments/assets/b356e286-7637-45b5-b744-bcf4201ac5fe"/>
         </item>
         <item>
@@ -5621,6 +5843,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65" length="0" type="image//user-attachments/assets/11f75a38-3083-4daf-8ebc-21144d641c65"/>
         </item>
         <item>
@@ -5663,6 +5886,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9" length="0" type="image//user-attachments/assets/603e9ec5-8a50-45e7-8be5-f75d0ba9f4c9"/>
         </item>
         <item>
@@ -5690,6 +5914,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2e7d7a62-c34f-43eb-b451-e04d6292fdb5" length="0" type="image//user-attachments/assets/2e7d7a62-c34f-43eb-b451-e04d6292fdb5"/>
         </item>
         <item>
@@ -5710,6 +5935,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd" length="0" type="image//user-attachments/assets/46166bd1-0859-4402-bcb1-536ca2269ecd"/>
         </item>
         <item>
@@ -5726,6 +5952,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9" length="0" type="image//user-attachments/assets/190fa13f-f294-4130-ae98-221373d769a9"/>
         </item>
         <item>
@@ -5756,6 +5983,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496" length="0" type="image//user-attachments/assets/4da099c4-a614-4ec6-89ff-104a0ccdd496"/>
         </item>
         <item>
@@ -5777,6 +6005,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2" length="0" type="image//user-attachments/assets/5ab4ee5b-c612-4807-89be-91e9f59a6cb2"/>
         </item>
         <item>
@@ -5813,6 +6042,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/0d2d80c1-2b16-4490-90ff-55432071e789" length="0" type="image//user-attachments/assets/0d2d80c1-2b16-4490-90ff-55432071e789"/>
         </item>
         <item>
@@ -5882,6 +6112,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/24ecb8f3-d374-4b1d-918d-0e29660d9c67" length="0" type="image//user-attachments/assets/24ecb8f3-d374-4b1d-918d-0e29660d9c67"/>
         </item>
         <item>
@@ -5917,6 +6148,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6" length="0" type="image//user-attachments/assets/150e1868-21cc-48bd-b347-24e62c94c9e6"/>
         </item>
         <item>
@@ -5957,6 +6189,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212" length="0" type="image//user-attachments/assets/8297ba10-95e8-4b22-ad8c-1d784c153212"/>
         </item>
         <item>
@@ -6008,6 +6241,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4" length="0" type="image//user-attachments/assets/7cc36014-d5ef-487a-a638-6faf38e8e3a4"/>
         </item>
         <item>
@@ -6049,6 +6283,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79" length="0" type="image//user-attachments/assets/fa97b927-566d-4c85-bff6-74ea1b7a6b79"/>
         </item>
         <item>
@@ -6086,6 +6321,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704" length="0" type="image//user-attachments/assets/c851af3e-c125-416b-a4a1-affe11c1e704"/>
         </item>
         <item>
@@ -6109,6 +6345,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258" length="0" type="image//user-attachments/assets/41081eac-3d24-4887-b288-6a13a088b258"/>
         </item>
         <item>
@@ -6125,6 +6362,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8" length="0" type="image//user-attachments/assets/7b8efe9c-92ac-4c7d-9fba-e1df8efe14d8"/>
         </item>
         <item>
@@ -6226,6 +6464,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
         </item>
         <item>
             <title><![CDATA[Mythic：在 Mac 上玩 Windows 游戏的最佳方式，一个开源的 macOS 游戏启动器]]></title>
@@ -6251,6 +6490,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb" length="0" type="image//user-attachments/assets/2d3be3f1-da53-4ade-8f3b-740e231686bb"/>
         </item>
         <item>
@@ -6324,6 +6564,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/db83fa88-6670-4683-a7b2-3784184cd03a" length="0" type="image//user-attachments/assets/db83fa88-6670-4683-a7b2-3784184cd03a"/>
         </item>
         <item>
@@ -6371,6 +6612,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/41b0ea83-c684-4be4-9798-3b7476c630a5" length="0" type="image//user-attachments/assets/41b0ea83-c684-4be4-9798-3b7476c630a5"/>
         </item>
         <item>
@@ -6389,6 +6631,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179" length="0" type="image//user-attachments/assets/9a815389-7ef1-4fc9-acd2-09216751b179"/>
         </item>
         <item>
@@ -6432,6 +6675,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806" length="0" type="image//user-attachments/assets/b8e7d10c-d435-44e8-b103-66614618e806"/>
         </item>
         <item>
@@ -6459,6 +6703,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831" length="0" type="image//user-attachments/assets/c121cd89-9d2d-4225-bccc-f80e4bd54831"/>
         </item>
         <item>
@@ -6485,6 +6730,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054" length="0" type="image//user-attachments/assets/2a2c563a-9a98-4c58-816d-649480be6054"/>
         </item>
         <item>
@@ -6569,6 +6815,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57" length="0" type="image//user-attachments/assets/2d637a57-ee7f-4b81-af6e-0b6fc7b91d57"/>
         </item>
         <item>
@@ -6604,6 +6851,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3f994566-83ee-4278-906a-89883e717866" length="0" type="image//user-attachments/assets/3f994566-83ee-4278-906a-89883e717866"/>
         </item>
         <item>
@@ -6634,6 +6882,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a" length="0" type="image//user-attachments/assets/a0ad5ed5-f43d-4f0b-89c4-6e104d5eb07a"/>
         </item>
         <item>
@@ -6697,6 +6946,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df" length="0" type="image//user-attachments/assets/d4dabbe6-9bf5-497b-a1f5-253fcbfe97df"/>
         </item>
         <item>
@@ -6721,6 +6971,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153" length="0" type="image//user-attachments/assets/7f5a483e-8bb4-4b28-aa3d-87eeb187d153"/>
         </item>
         <item>
@@ -6758,6 +7009,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa" length="0" type="image//user-attachments/assets/88c843a1-1fd0-4329-8423-f8d1dbe5b1fa"/>
         </item>
         <item>
@@ -6789,6 +7041,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f" length="0" type="image//user-attachments/assets/94ed0ded-8080-4967-9114-b7c98135787f"/>
         </item>
         <item>
@@ -6816,6 +7069,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a" length="0" type="image//user-attachments/assets/362278a1-ce88-48d7-86f1-3f74e2cb802a"/>
         </item>
         <item>
@@ -6832,6 +7086,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3" length="0" type="image//user-attachments/assets/539a72d0-309f-4424-bf9b-bca730fb33c3"/>
         </item>
         <item>
@@ -6860,6 +7115,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e" length="0" type="image//user-attachments/assets/bc84c009-8202-454d-8d98-24428146928e"/>
         </item>
         <item>
@@ -6887,6 +7143,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d" length="0" type="image//user-attachments/assets/7a417ce6-4ff4-4ab0-9ba6-9fd78762472d"/>
         </item>
         <item>
@@ -6918,6 +7175,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8" length="0" type="image//user-attachments/assets/4efb50e2-5a3a-452f-af7d-903bf99ff2d8"/>
         </item>
         <item>
@@ -6944,6 +7202,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22" length="0" type="image//user-attachments/assets/c931d4f6-bcb3-4237-9143-253d66fa6e22"/>
         </item>
         <item>
@@ -6962,6 +7221,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30" length="0" type="image//user-attachments/assets/2d83bea8-6ecd-4d4e-add3-5840f9ff8d30"/>
         </item>
         <item>
@@ -6980,6 +7240,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6" length="0" type="image//user-attachments/assets/303f1713-dda8-4c1a-91ae-d20e3149b1d6"/>
         </item>
         <item>
@@ -6997,6 +7258,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd" length="0" type="image//user-attachments/assets/c4ec8615-b415-46da-9b68-1bc39b7525fd"/>
         </item>
         <item>
@@ -7012,6 +7274,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568" length="0" type="image//user-attachments/assets/8a05cc20-febb-472d-9b2a-dc03f6b5f568"/>
         </item>
         <item>
@@ -7028,6 +7291,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e" length="0" type="image//user-attachments/assets/a57387be-7a50-496a-8163-464fd2168e5e"/>
         </item>
         <item>
@@ -7047,6 +7311,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3" length="0" type="image//user-attachments/assets/3c09e714-b962-41a1-8e3a-af3d4cee13c3"/>
         </item>
         <item>
@@ -7063,6 +7328,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/Innei" target="_blank">@Innei</a>
       ]]></content:encoded>
+            <author>Innei</author>
             <enclosure url="https://github.com/user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa" length="0" type="image//user-attachments/assets/83d10a54-0e8a-4f71-b7ce-1f218dc3c2fa"/>
         </item>
         <item>
@@ -7085,6 +7351,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb" length="0" type="image//user-attachments/assets/02d6953b-1ccd-46be-98de-4745447bcdeb"/>
         </item>
         <item>
@@ -7102,6 +7369,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865" length="0" type="image//user-attachments/assets/6e40a78a-8ca0-4515-b9a5-2487a476b865"/>
         </item>
         <item>
@@ -7118,6 +7386,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622" length="0" type="image//user-attachments/assets/7873b869-c6b6-4c30-8eb8-1f224449c622"/>
         </item>
         <item>
@@ -7143,6 +7412,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036" length="0" type="image//user-attachments/assets/aab1968a-0da3-4657-bffa-e60842363036"/>
         </item>
         <item>
@@ -7159,6 +7429,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c" length="0" type="image//user-attachments/assets/4e60e558-99bb-4b08-921b-96eb4db6563c"/>
         </item>
         <item>
@@ -7218,6 +7489,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399" length="0" type="image//user-attachments/assets/b6fa26e2-2938-477f-8657-f7617ee15399"/>
         </item>
         <item>
@@ -7240,6 +7512,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc" length="0" type="image//user-attachments/assets/dfd195bf-34f5-4d07-8baf-14b67f2a83fc"/>
         </item>
         <item>
@@ -7255,6 +7528,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://user-images.githubusercontent.com/1680273/205217132-a6e407ed-8fe3-42e9-997a-36507e79b918.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -7286,6 +7560,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee" length="0" type="image//user-attachments/assets/e0b5e910-c6f5-42f3-98cf-3865e48745ee"/>
         </item>
         <item>
@@ -7302,6 +7577,7 @@ Doll 是一款菜单栏应用，它将像 Mail、Slack 和 Microsoft Teams 这�
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
       ]]></content:encoded>
+            <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668" length="0" type="image//user-attachments/assets/38e33b37-5a9d-4a28-857c-398ba9836668"/>
         </item>
     </channel>

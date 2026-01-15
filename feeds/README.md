@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Gemini Subtitle Pro：一站式全自动字幕生成软件，下载、转录、翻译、压制全流程覆盖，无需人工介入](https://wangchujiang.com/quick-rss/issue/267.html) 
+
+![](https://github.com/user-attachments/assets/67e5519d-2328-4591-ab25-3ba81c2d63e3)
+
+Gemini Subtitle Pro 是一款开源的端到端字幕生产软件，把传统需要 3–6 小时的字幕工作流（下载视频→转录→断句润色→翻译→对齐→样式预览→压制出片）压缩到 15–30 分钟级别，并且尽量做到“少手工、少返工、一次交付”。它不是单点工具，而是一个完整的字幕引擎：在 Whisper 转录 + Gemini 翻译/润色的基础上，加入术语表、长上下文翻译、带音频校对、质量检查与毫秒级强 ([#267](https://github.com/jaywcjlove/quick-rss/issues/267) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Warden：原生 macOS AI 聊天客户端](https://wangchujiang.com/quick-rss/issue/266.html) 
 
 ![](https://github.com/user-attachments/assets/d0016284-9f04-4e12-a4ac-036f24742638)

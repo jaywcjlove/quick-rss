@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-01-15T16:35:54.187Z</updated>
+    <updated>2026-01-15T16:36:24.084Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -367,6 +367,43 @@
 <li>LSP 支持（Python &#x26; Java）</li>
 </ul><br /><br />
       <a href="https://github.com/jaywcjlove/quick-rss/issues/257" target="_blank">#257</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zedis：Rust + GPUI 构建的Redis 客户端]]></title>
+        <id>256</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/256.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/64796a85-dbee-4795-b9d5-069f283b0c96" type="image//user-attachments/assets/64796a85-dbee-4795-b9d5-069f283b0c96"/>
+        <updated>2026-01-01T23:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Zedis基于 Rust 编写，UI 层使用了与 Zed Editor 同款的渲染引擎 GPUI。这意味着 Zedis 的每一个像素都是由 GPU 直接绘制的，带来了原生、60 FPS 丝般顺滑的体验。 核心特性一览 🚀 极速渲染：告别 HTML/CSS 的重绘负担，即使在低配机器上也能秒开。 ♾️ 虚拟列表：实测轻松处理 10万+ 级别的 Key 列表（我的手提百万级别也很流畅），配合 SCA]]></summary>
+        <content type="html"><![CDATA[<p>Zedis基于 Rust 编写，UI 层使用了与 <a href="https://zed.dev/">Zed Editor</a> 同款的渲染引擎 GPUI。这意味着 Zedis 的每一个像素都是由 GPU 直接绘制的，带来了原生、60 FPS 丝般顺滑的体验。</p>
+<img alt="Zedis" src="https://github.com/user-attachments/assets/64796a85-dbee-4795-b9d5-069f283b0c96">
+<h2>核心特性一览</h2>
+<ul>
+<li>🚀 极速渲染：告别 HTML/CSS 的重绘负担，即使在低配机器上也能秒开。</li>
+<li>♾️ 虚拟列表：实测轻松处理 10万+ 级别的 Key 列表（我的手提百万级别也很流畅），配合 SCAN 迭代，滚动浏览毫无卡顿。</li>
+<li>🧠 数据自动检测：
+<ul>
+<li>如果是 GZIP/ZSTD 压缩的数据，它会自动解压显示。</li>
+<li>如果是 JSON/MsgPack，它会自动格式化并高亮。</li>
+<li>如果是图片二进制流，直接显示预览图。</li>
+</ul>
+</li>
+<li>🛠️ 开箱即用：自动适配 Cluster、Sentinel（单 Master 可免填名称）或单机模式。</li>
+<li>💻 全平台支持：支持 macOS 、Windows 和 Linux，均可在 GitHub Release 下载。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/256" target="_blank">#256</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>

@@ -71,6 +71,11 @@ CodexBar 是一款轻量的 macOS 菜单栏应用，可以让你随时查看各�
 ![](https://github.com/user-attachments/assets/cf9f8ac8-3328-4f05-b9a6-89a2dc868435)
 
 Code App 为 iPad 带来接近桌面级的代码编辑体验。该项目以 VS Code 的设计理念为参考，结合 monaco-editor 与原生技术，提供了非常完整的开发能力，尤其适合在 iPad 上进行真实的本地开发工作。 核心功能一览 版本控制：Git clone、commit、diff 编辑器、push / pull、行号标记指示器 内置终端（支持 70+ 条命令） 本地 Web 开发环境 ([#257](https://github.com/jaywcjlove/quick-rss/issues/257) - [@jaywcjlove](https://github.com/jaywcjlove))
+## [Zedis：Rust + GPUI 构建的Redis 客户端](https://wangchujiang.com/quick-rss/issue/256.html) 
+
+![](https://github.com/user-attachments/assets/64796a85-dbee-4795-b9d5-069f283b0c96)
+
+Zedis基于 Rust 编写，UI 层使用了与 Zed Editor 同款的渲染引擎 GPUI。这意味着 Zedis 的每一个像素都是由 GPU 直接绘制的，带来了原生、60 FPS 丝般顺滑的体验。 核心特性一览 🚀 极速渲染：告别 HTML/CSS 的重绘负担，即使在低配机器上也能秒开。 ♾️ 虚拟列表：实测轻松处理 10万+ 级别的 Key 列表（我的手提百万级别也很流畅），配合 SCA ([#256](https://github.com/jaywcjlove/quick-rss/issues/256) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [冬瓜TV：打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放](https://wangchujiang.com/quick-rss/issue/255.html) 
 
 ![](https://github.com/user-attachments/assets/2ed38a93-f1d6-440e-a115-6567641b39c1)

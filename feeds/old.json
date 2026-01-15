@@ -168,6 +168,20 @@
     "markdownContent": "**Code App** 为 **iPad** 带来接近桌面级的代码编辑体验。该项目以 **VS Code** 的设计理念为参考，结合 **monaco-editor** 与原生技术，提供了非常完整的开发能力，尤其适合在 iPad 上进行真实的本地开发工作。\n\n<img alt=\"Code App\" src=\"https://github.com/user-attachments/assets/cf9f8ac8-3328-4f05-b9a6-89a2dc868435\" />\n\n<img  alt=\"Code App\" src=\"https://github.com/user-attachments/assets/785b092e-5734-44c7-818c-945c2d384b88\" />\n\n<img alt=\"Code App\" src=\"https://github.com/user-attachments/assets/14cd9701-bef2-4e3a-9f42-78474036f51a\" />\n\n<img alt=\"Code App\" src=\"https://github.com/user-attachments/assets/7cf9ddf5-0224-43d1-af30-35d4ce938157\" />\n\n## 核心功能一览\n\n* 版本控制：Git clone、commit、diff 编辑器、push / pull、行号标记指示器\n* 内置终端（支持 70+ 条命令）\n* 本地 Web 开发环境（Node + PHP）\n* 内置 Python 运行环境\n* 基于 WebAssembly 的 C/C++ 运行环境（clang）\n* 本地 Java 运行环境（OpenJDK）\n* SSH 支持\n* LSP 支持（Python & Java）"
   },
   {
+    "id": "256",
+    "url": "https://wangchujiang.com/quick-rss/issue/256.html",
+    "title": "Zedis：Rust + GPUI 构建的Redis 客户端",
+    "content_html": "<p>Zedis基于 Rust 编写，UI 层使用了与 <a href=\"https://zed.dev/\">Zed Editor</a> 同款的渲染引擎 GPUI。这意味着 Zedis 的每一个像素都是由 GPU 直接绘制的，带来了原生、60 FPS 丝般顺滑的体验。</p>\n<img alt=\"Zedis\" src=\"https://github.com/user-attachments/assets/64796a85-dbee-4795-b9d5-069f283b0c96\">\n<h2>核心特性一览</h2>\n<ul>\n<li>🚀 极速渲染：告别 HTML/CSS 的重绘负担，即使在低配机器上也能秒开。</li>\n<li>♾️ 虚拟列表：实测轻松处理 10万+ 级别的 Key 列表（我的手提百万级别也很流畅），配合 SCAN 迭代，滚动浏览毫无卡顿。</li>\n<li>🧠 数据自动检测：\n<ul>\n<li>如果是 GZIP/ZSTD 压缩的数据，它会自动解压显示。</li>\n<li>如果是 JSON/MsgPack，它会自动格式化并高亮。</li>\n<li>如果是图片二进制流，直接显示预览图。</li>\n</ul>\n</li>\n<li>🛠️ 开箱即用：自动适配 Cluster、Sentinel（单 Master 可免填名称）或单机模式。</li>\n<li>💻 全平台支持：支持 macOS 、Windows 和 Linux，均可在 GitHub Release 下载。</li>\n</ul>",
+    "summary": "Zedis基于 Rust 编写，UI 层使用了与 [Zed Editor](https://zed.dev/) 同款的渲染引擎 GPUI。这意味着 Zedis 的每一个像素都是由 GPU 直接绘制的，带来了原生、60 FPS 丝般顺滑的体验。 ## 核心特性一览 - 🚀 极速渲染：告别 HTML/CSS 的重绘负担，即使在低配机器上也能秒开。 - ♾️ 虚拟列表：实测轻松处理 10万+ 级别的 ",
+    "banner_image": null,
+    "date_published": "2026-01-01T23:29:02Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Zedis基于 Rust 编写，UI 层使用了与 [Zed Editor](https://zed.dev/) 同款的渲染引擎 GPUI。这意味着 Zedis 的每一个像素都是由 GPU 直接绘制的，带来了原生、60 FPS 丝般顺滑的体验。\n\n<img alt=\"Zedis\" src=\"https://github.com/user-attachments/assets/64796a85-dbee-4795-b9d5-069f283b0c96\" />\n\n## 核心特性一览\n\n- 🚀 极速渲染：告别 HTML/CSS 的重绘负担，即使在低配机器上也能秒开。\n- ♾️ 虚拟列表：实测轻松处理 10万+ 级别的 Key 列表（我的手提百万级别也很流畅），配合 SCAN 迭代，滚动浏览毫无卡顿。\n- 🧠 数据自动检测：\n  - 如果是 GZIP/ZSTD 压缩的数据，它会自动解压显示。\n  - 如果是 JSON/MsgPack，它会自动格式化并高亮。\n  - 如果是图片二进制流，直接显示预览图。\n- 🛠️ 开箱即用：自动适配 Cluster、Sentinel（单 Master 可免填名称）或单机模式。\n- 💻 全平台支持：支持 macOS 、Windows 和 Linux，均可在 GitHub Release 下载。"
+  },
+  {
     "id": "255",
     "url": "https://wangchujiang.com/quick-rss/issue/255.html",
     "title": "冬瓜TV：打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放",

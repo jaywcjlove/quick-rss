@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Warden：原生 macOS AI 聊天客户端](https://wangchujiang.com/quick-rss/issue/266.html) 
+
+![](https://github.com/user-attachments/assets/d0016284-9f04-4e12-a4ac-036f24742638)
+
+Warden 是一款完全开源的 原生 macOS AI 聊天应用，使用 SwiftUI 构建，无需 Electron 或网页封装，提供快速、流畅、私密的本机体验。它支持多个 AI 提供商（如 OpenAI、Claude、Gemini 等），用户可以使用自己的 API 密钥与各种模型聊天。该应用体积小、运行轻快（通常 RAM 使用低），并且不发送任何遥测数据，确保用户隐私。除此之外，Warden 还 ([#266](https://github.com/jaywcjlove/quick-rss/issues/266) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Quotio：轻松管理您的 AI 订阅，实时配额跟踪与智能自动切换](https://wangchujiang.com/quick-rss/issue/265.html) 
 
 ![](https://github.com/user-attachments/assets/bd0768ad-f441-4201-864a-64f1671f932b)

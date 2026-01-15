@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "266",
+            "content_html": "<p>Warden 是一款完全开源的 原生 macOS AI 聊天应用，使用 SwiftUI 构建，无需 Electron 或网页封装，提供快速、流畅、私密的本机体验。它支持多个 AI 提供商（如 OpenAI、Claude、Gemini 等），用户可以使用自己的 API 密钥与各种模型聊天。该应用体积小、运行轻快（通常 RAM 使用低），并且不发送任何遥测数据，确保用户隐私。除此之外，Warden 还支持本地 AI（如 Ollama 和 LM Studio）和项目式聊天管理，使日常对话与工作更高效、更有条理。</p>\n<img alt=\"Warden\" src=\"https://github.com/user-attachments/assets/d0016284-9f04-4e12-a4ac-036f24742638\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/266\" target=\"_blank\">#266</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/266.html",
+            "title": "Warden：原生 macOS AI 聊天客户端",
+            "summary": "Warden 是一款完全开源的 原生 macOS AI 聊天应用，使用 SwiftUI 构建，无需 Electron 或网页封装，提供快速、流畅、私密的本机体验。它支持多个 AI 提供商（如 OpenAI、Claude、Gemini 等），用户可以使用自己的 API 密钥与各种模型聊天。该应用体积小、运行轻快（通常 RAM 使用低），并且不发送任何遥测数据，确保用户隐私。除此之外，Warden 还",
+            "image": "https://github.com/user-attachments/assets/d0016284-9f04-4e12-a4ac-036f24742638",
+            "date_modified": "2026-01-15T16:27:28.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "265",
             "content_html": "<p>Quotio 是一款精美的原生 macOS 菜单栏应用，旨在帮助用户高效统一管理多个 AI 订阅服务。无论您使用的是 Claude、Gemini、OpenAI、Qwen 还是 Antigravity，Quotio 都能让您在一个地方轻松查看和管理所有订阅。</p>\n<img alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/bd0768ad-f441-4201-864a-64f1671f932b\">\n<p>这款应用提供实时配额跟踪功能，确保您了解每个服务的使用情况，同时还支持智能自动切换，自动选择最合适的服务来优化工作流程，尤其对于 AI 编程工具（如 Claude Code、OpenCode 和 Droid）非常有用。\n如果您在使用多个 AI 订阅工具时感到困扰，Quotio 将帮助您简化管理流程，提高工作效率。</p>\n<img alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/6c3f85b9-f5c2-4520-860e-35e68207131b\">\n<img alt=\"Quotio\" src=\"https://github.com/user-attachments/assets/b23896ed-f329-4193-8da4-34fbbc212e47\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/265\" target=\"_blank\">#265</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/265.html",

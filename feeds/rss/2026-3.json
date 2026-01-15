@@ -1,5 +1,19 @@
 [
   {
+    "id": "266",
+    "url": "https://wangchujiang.com/quick-rss/issue/266.html",
+    "title": "Warden：原生 macOS AI 聊天客户端",
+    "content_html": "<p>Warden 是一款完全开源的 原生 macOS AI 聊天应用，使用 SwiftUI 构建，无需 Electron 或网页封装，提供快速、流畅、私密的本机体验。它支持多个 AI 提供商（如 OpenAI、Claude、Gemini 等），用户可以使用自己的 API 密钥与各种模型聊天。该应用体积小、运行轻快（通常 RAM 使用低），并且不发送任何遥测数据，确保用户隐私。除此之外，Warden 还支持本地 AI（如 Ollama 和 LM Studio）和项目式聊天管理，使日常对话与工作更高效、更有条理。</p>\n<img alt=\"Warden\" src=\"https://github.com/user-attachments/assets/d0016284-9f04-4e12-a4ac-036f24742638\">",
+    "summary": "Warden 是一款完全开源的 原生 macOS AI 聊天应用，使用 SwiftUI 构建，无需 Electron 或网页封装，提供快速、流畅、私密的本机体验。它支持多个 AI 提供商（如 OpenAI、Claude、Gemini 等），用户可以使用自己的 API 密钥与各种模型聊天。该应用体积小、运行轻快（通常 RAM 使用低），并且不发送任何遥测数据，确保用户隐私。除此之外，Warden 还",
+    "banner_image": null,
+    "date_published": "2026-01-15T16:27:28Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Warden 是一款完全开源的 原生 macOS AI 聊天应用，使用 SwiftUI 构建，无需 Electron 或网页封装，提供快速、流畅、私密的本机体验。它支持多个 AI 提供商（如 OpenAI、Claude、Gemini 等），用户可以使用自己的 API 密钥与各种模型聊天。该应用体积小、运行轻快（通常 RAM 使用低），并且不发送任何遥测数据，确保用户隐私。除此之外，Warden 还支持本地 AI（如 Ollama 和 LM Studio）和项目式聊天管理，使日常对话与工作更高效、更有条理。\n\n<img alt=\"Warden\" src=\"https://github.com/user-attachments/assets/d0016284-9f04-4e12-a4ac-036f24742638\" />"
+  },
+  {
     "id": "265",
     "url": "https://wangchujiang.com/quick-rss/issue/265.html",
     "title": "Quotio：轻松管理您的 AI 订阅，实时配额跟踪与智能自动切换",

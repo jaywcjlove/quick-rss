@@ -1,5 +1,19 @@
 [
   {
+    "id": "269",
+    "url": "https://wangchujiang.com/quick-rss/issue/269.html",
+    "title": "NginxPulse：Nginx 日志分析工具",
+    "content_html": "<p>轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。</p>\n<p>演示地址：<a href=\"http://nginx-pulse.kaisir.cn/\">http://nginx-pulse.kaisir.cn/</a></p>\n<img alt=\"NginxPulse\" src=\"https://github.com/user-attachments/assets/c0b6466e-bd91-4f15-98e7-a14ef73ae147\">\n<img alt=\"NginxPulse\" src=\"https://github.com/user-attachments/assets/3cf75b7d-0484-429c-a1d9-2d4a414405ab\">",
+    "summary": "轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 演示地址：http://nginx-pulse.kaisir.cn/",
+    "banner_image": null,
+    "date_published": "2026-01-16T06:01:56Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。\n\n演示地址：http://nginx-pulse.kaisir.cn/\n\n<img  alt=\"NginxPulse\" src=\"https://github.com/user-attachments/assets/c0b6466e-bd91-4f15-98e7-a14ef73ae147\" />\n\n<img alt=\"NginxPulse\" src=\"https://github.com/user-attachments/assets/3cf75b7d-0484-429c-a1d9-2d4a414405ab\" />"
+  },
+  {
     "id": "268",
     "url": "https://wangchujiang.com/quick-rss/issue/268.html",
     "title": "zsweep：一款为开发者设计的Vim风格扫雷网站",

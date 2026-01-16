@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [NginxPulse：Nginx 日志分析工具](https://wangchujiang.com/quick-rss/issue/269.html) 
+
+![](https://github.com/user-attachments/assets/c0b6466e-bd91-4f15-98e7-a14ef73ae147)
+
+轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 演示地址：http://nginx-pulse.kaisir.cn/ ([#269](https://github.com/jaywcjlove/quick-rss/issues/269) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [zsweep：一款为开发者设计的Vim风格扫雷网站](https://wangchujiang.com/quick-rss/issue/268.html) 
 
 ![](https://github.com/user-attachments/assets/774b4255-05db-45d9-b0c0-55196d4964a6)

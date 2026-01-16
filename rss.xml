@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 15 Jan 2026 16:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 06:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NginxPulse：Nginx 日志分析工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/269.html</link>
+            <guid isPermaLink="false">269</guid>
+            <pubDate>Fri, 16 Jan 2026 06:01:56 GMT</pubDate>
+            <description><![CDATA[轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。 演示地址：http://nginx-pulse.kaisir.cn/]]></description>
+            <content:encoded><![CDATA[<p>轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。</p>
+<p>演示地址：<a href="http://nginx-pulse.kaisir.cn/">http://nginx-pulse.kaisir.cn/</a></p>
+<img alt="NginxPulse" src="https://github.com/user-attachments/assets/c0b6466e-bd91-4f15-98e7-a14ef73ae147">
+<img alt="NginxPulse" src="https://github.com/user-attachments/assets/3cf75b7d-0484-429c-a1d9-2d4a414405ab"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/269" target="_blank">#269</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/c0b6466e-bd91-4f15-98e7-a14ef73ae147" length="0" type="image//user-attachments/assets/c0b6466e-bd91-4f15-98e7-a14ef73ae147"/>
+        </item>
         <item>
             <title><![CDATA[zsweep：一款为开发者设计的Vim风格扫雷网站]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/268.html</link>

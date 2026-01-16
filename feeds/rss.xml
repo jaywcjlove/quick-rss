@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 16 Jan 2026 06:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 19:55:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,29 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mac Vision Tools：一款 macOS 菜单栏应用，实时机器学习检测。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/270.html</link>
+            <guid isPermaLink="false">270</guid>
+            <pubDate>Fri, 16 Jan 2026 19:54:01 GMT</pubDate>
+            <description><![CDATA[Mac Vision Tools 是一款 macOS 菜单栏应用，提供多种模式的实时机器学习驱动检测。它通过强大的视觉识别技术，帮助用户实现精准的检测与监控。无论是面部表情识别、物体检测，还是隐私保护和专注时间追踪，Mac Vision Tools 都能提供高效的解决方案，提升你的工作效率和安全性。 功能： 🎯 标准检测：利用 YOLO 物体检测模型进行实时识别，准确识别环境中的物体。 😊 情]]></description>
+            <content:encoded><![CDATA[<p><strong>Mac Vision Tools</strong> 是一款 macOS 菜单栏应用，提供多种模式的实时机器学习驱动检测。它通过强大的视觉识别技术，帮助用户实现精准的检测与监控。无论是面部表情识别、物体检测，还是隐私保护和专注时间追踪，<strong>Mac Vision Tools</strong> 都能提供高效的解决方案，提升你的工作效率和安全性。</p>
+<h2>功能：</h2>
+<ul>
+<li>🎯 <strong>标准检测</strong>：利用 YOLO 物体检测模型进行实时识别，准确识别环境中的物体。</li>
+<li>😊 <strong>情感氛围</strong>：实时面部情绪识别，通过 <strong>Emotieff</strong> 模型检测面部表情，感知情绪变化。</li>
+<li>🔒 <strong>隐私保护</strong>：当其他人接近时，自动锁屏，确保隐私安全。</li>
+<li>⏱️ <strong>专注计时器</strong>：结合番茄工作法，带有注意力追踪功能，帮助你集中精力，提高工作效率。</li>
+</ul>
+<img alt="Mac Vision Tools" src="https://github.com/user-attachments/assets/0d1e9639-bb6a-42e4-8e86-de91dfef8f36"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/270" target="_blank">#270</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/0d1e9639-bb6a-42e4-8e86-de91dfef8f36" length="0" type="image//user-attachments/assets/0d1e9639-bb6a-42e4-8e86-de91dfef8f36"/>
+        </item>
         <item>
             <title><![CDATA[NginxPulse：Nginx 日志分析工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/269.html</link>

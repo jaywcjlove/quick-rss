@@ -1,5 +1,19 @@
 [
   {
+    "id": "270",
+    "url": "https://wangchujiang.com/quick-rss/issue/270.html",
+    "title": "Mac Vision Tools：一款 macOS 菜单栏应用，实时机器学习检测。",
+    "content_html": "<p><strong>Mac Vision Tools</strong> 是一款 macOS 菜单栏应用，提供多种模式的实时机器学习驱动检测。它通过强大的视觉识别技术，帮助用户实现精准的检测与监控。无论是面部表情识别、物体检测，还是隐私保护和专注时间追踪，<strong>Mac Vision Tools</strong> 都能提供高效的解决方案，提升你的工作效率和安全性。</p>\n<h2>功能：</h2>\n<ul>\n<li>🎯 <strong>标准检测</strong>：利用 YOLO 物体检测模型进行实时识别，准确识别环境中的物体。</li>\n<li>😊 <strong>情感氛围</strong>：实时面部情绪识别，通过 <strong>Emotieff</strong> 模型检测面部表情，感知情绪变化。</li>\n<li>🔒 <strong>隐私保护</strong>：当其他人接近时，自动锁屏，确保隐私安全。</li>\n<li>⏱️ <strong>专注计时器</strong>：结合番茄工作法，带有注意力追踪功能，帮助你集中精力，提高工作效率。</li>\n</ul>\n<img alt=\"Mac Vision Tools\" src=\"https://github.com/user-attachments/assets/0d1e9639-bb6a-42e4-8e86-de91dfef8f36\">",
+    "summary": "**Mac Vision Tools** 是一款 macOS 菜单栏应用，提供多种模式的实时机器学习驱动检测。它通过强大的视觉识别技术，帮助用户实现精准的检测与监控。无论是面部表情识别、物体检测，还是隐私保护和专注时间追踪，**Mac Vision Tools** 都能提供高效的解决方案，提升你的工作效率和安全性。 ## 功能： * 🎯 **标准检测**：利用 YOLO 物体检测模型进行实时识别",
+    "banner_image": null,
+    "date_published": "2026-01-16T19:54:01Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**Mac Vision Tools** 是一款 macOS 菜单栏应用，提供多种模式的实时机器学习驱动检测。它通过强大的视觉识别技术，帮助用户实现精准的检测与监控。无论是面部表情识别、物体检测，还是隐私保护和专注时间追踪，**Mac Vision Tools** 都能提供高效的解决方案，提升你的工作效率和安全性。\n\n## 功能：\n\n* 🎯 **标准检测**：利用 YOLO 物体检测模型进行实时识别，准确识别环境中的物体。\n* 😊 **情感氛围**：实时面部情绪识别，通过 **Emotieff** 模型检测面部表情，感知情绪变化。\n* 🔒 **隐私保护**：当其他人接近时，自动锁屏，确保隐私安全。\n* ⏱️ **专注计时器**：结合番茄工作法，带有注意力追踪功能，帮助你集中精力，提高工作效率。\n\n\n<img  alt=\"Mac Vision Tools\" src=\"https://github.com/user-attachments/assets/0d1e9639-bb6a-42e4-8e86-de91dfef8f36\" />"
+  },
+  {
     "id": "269",
     "url": "https://wangchujiang.com/quick-rss/issue/269.html",
     "title": "NginxPulse：Nginx 日志分析工具",

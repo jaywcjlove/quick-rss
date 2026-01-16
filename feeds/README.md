@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Mac Vision Tools：一款 macOS 菜单栏应用，实时机器学习检测。](https://wangchujiang.com/quick-rss/issue/270.html) 
+
+![](https://github.com/user-attachments/assets/0d1e9639-bb6a-42e4-8e86-de91dfef8f36)
+
+Mac Vision Tools 是一款 macOS 菜单栏应用，提供多种模式的实时机器学习驱动检测。它通过强大的视觉识别技术，帮助用户实现精准的检测与监控。无论是面部表情识别、物体检测，还是隐私保护和专注时间追踪，Mac Vision Tools 都能提供高效的解决方案，提升你的工作效率和安全性。 功能： 🎯 标准检测：利用 YOLO 物体检测模型进行实时识别，准确识别环境中的物体。 😊 情 ([#270](https://github.com/jaywcjlove/quick-rss/issues/270) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [NginxPulse：Nginx 日志分析工具](https://wangchujiang.com/quick-rss/issue/269.html) 
 
 ![](https://github.com/user-attachments/assets/c0b6466e-bd91-4f15-98e7-a14ef73ae147)

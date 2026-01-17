@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ClashMac：基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏代理客户端](https://wangchujiang.com/quick-rss/issue/271.html) 
+
+![](https://github.com/user-attachments/assets/ed5087d9-521c-451f-8762-9cb0b8dc8dd4)
+
+ClashMac 是一款基于 Clash (mihomo) 内核打造的轻量级 macOS 菜单栏代理客户端，采用 SwiftUI 原生开发，完美融入系统界面与交互风格。它专注于高效和易用性，支持一键接管系统代理与增强模式、实时流量监控与资源统计，并内置 Web Dashboard 便于快速查看和调试状态。应用支持 Apple Silicon 与 Intel 架构，并通过特权助手工具实现免密管理系统 ([#271](https://github.com/jaywcjlove/quick-rss/issues/271) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Mac Vision Tools：一款 macOS 菜单栏应用，实时机器学习检测。](https://wangchujiang.com/quick-rss/issue/270.html) 
 
 ![](https://github.com/user-attachments/assets/0d1e9639-bb6a-42e4-8e86-de91dfef8f36)

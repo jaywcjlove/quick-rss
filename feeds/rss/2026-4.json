@@ -1,0 +1,16 @@
+[
+  {
+    "id": "271",
+    "url": "https://wangchujiang.com/quick-rss/issue/271.html",
+    "title": "ClashMac：基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏代理客户端",
+    "content_html": "<p>ClashMac 是一款基于 Clash (mihomo) 内核打造的轻量级 macOS 菜单栏代理客户端，采用 SwiftUI 原生开发，完美融入系统界面与交互风格。它专注于高效和易用性，支持一键接管系统代理与增强模式、实时流量监控与资源统计，并内置 Web Dashboard 便于快速查看和调试状态。应用支持 Apple Silicon 与 Intel 架构，并通过特权助手工具实现免密管理系统代理，提供用户在菜单栏中高效控制代理服务的便捷体验。</p>\n<img alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/ed5087d9-521c-451f-8762-9cb0b8dc8dd4\">\n<img alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/9211d06a-0934-4473-8dc5-da3e3e88ff66\">\n<img alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/3ed20e41-d6a3-49bb-8b38-3db880d98c6d\">",
+    "summary": "ClashMac 是一款基于 Clash (mihomo) 内核打造的轻量级 macOS 菜单栏代理客户端，采用 SwiftUI 原生开发，完美融入系统界面与交互风格。它专注于高效和易用性，支持一键接管系统代理与增强模式、实时流量监控与资源统计，并内置 Web Dashboard 便于快速查看和调试状态。应用支持 Apple Silicon 与 Intel 架构，并通过特权助手工具实现免密管理系统",
+    "banner_image": null,
+    "date_published": "2026-01-17T13:48:24Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "ClashMac 是一款基于 Clash (mihomo) 内核打造的轻量级 macOS 菜单栏代理客户端，采用 SwiftUI 原生开发，完美融入系统界面与交互风格。它专注于高效和易用性，支持一键接管系统代理与增强模式、实时流量监控与资源统计，并内置 Web Dashboard 便于快速查看和调试状态。应用支持 Apple Silicon 与 Intel 架构，并通过特权助手工具实现免密管理系统代理，提供用户在菜单栏中高效控制代理服务的便捷体验。\n\n<img  alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/ed5087d9-521c-451f-8762-9cb0b8dc8dd4\" />\n\n<img  alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/9211d06a-0934-4473-8dc5-da3e3e88ff66\" />\n\n<img alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/3ed20e41-d6a3-49bb-8b38-3db880d98c6d\" />"
+  }
+]

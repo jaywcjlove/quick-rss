@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 17 Jan 2026 13:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 07:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,34 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FineTune：macOS 上的每应用音频控制]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/272.html</link>
+            <guid isPermaLink="false">272</guid>
+            <pubDate>Tue, 20 Jan 2026 07:15:58 GMT</pubDate>
+            <description><![CDATA[FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。 功能： 每个应用的音量控制和静音功能 每个设备的音量控制和静音功能 将应用路由到不同的输出设备 10 带均衡器，拥有 5 个类别下的 20 种预设 实时 VU 电平表 音量提升高达 200% 快速设备切换 点击应用图标将应用置前 设置在重启]]></description>
+            <content:encoded><![CDATA[<p>FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。</p>
+<img alt="FineTune" src="https://github.com/user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2">
+<h2>功能：</h2>
+<ul>
+<li>每个应用的音量控制和静音功能</li>
+<li>每个设备的音量控制和静音功能</li>
+<li>将应用路由到不同的输出设备</li>
+<li>10 带均衡器，拥有 5 个类别下的 20 种预设</li>
+<li>实时 VU 电平表</li>
+<li>音量提升高达 200%</li>
+<li>快速设备切换</li>
+<li>点击应用图标将应用置前</li>
+<li>设置在重启后保持</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/272" target="_blank">#272</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2" length="0" type="image//user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2"/>
+        </item>
         <item>
             <title><![CDATA[ClashMac：基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏代理客户端]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/271.html</link>

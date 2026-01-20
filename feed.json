@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "272",
+            "content_html": "<p>FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。</p>\n<img alt=\"FineTune\" src=\"https://github.com/user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2\">\n<h2>功能：</h2>\n<ul>\n<li>每个应用的音量控制和静音功能</li>\n<li>每个设备的音量控制和静音功能</li>\n<li>将应用路由到不同的输出设备</li>\n<li>10 带均衡器，拥有 5 个类别下的 20 种预设</li>\n<li>实时 VU 电平表</li>\n<li>音量提升高达 200%</li>\n<li>快速设备切换</li>\n<li>点击应用图标将应用置前</li>\n<li>设置在重启后保持</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/272\" target=\"_blank\">#272</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/272.html",
+            "title": "FineTune：macOS 上的每应用音频控制",
+            "summary": "FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。 功能： 每个应用的音量控制和静音功能 每个设备的音量控制和静音功能 将应用路由到不同的输出设备 10 带均衡器，拥有 5 个类别下的 20 种预设 实时 VU 电平表 音量提升高达 200% 快速设备切换 点击应用图标将应用置前 设置在重启",
+            "image": "https://github.com/user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2",
+            "date_modified": "2026-01-20T07:15:58.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "271",
             "content_html": "<p>ClashMac 是一款基于 Clash (mihomo) 内核打造的轻量级 macOS 菜单栏代理客户端，采用 SwiftUI 原生开发，完美融入系统界面与交互风格。它专注于高效和易用性，支持一键接管系统代理与增强模式、实时流量监控与资源统计，并内置 Web Dashboard 便于快速查看和调试状态。应用支持 Apple Silicon 与 Intel 架构，并通过特权助手工具实现免密管理系统代理，提供用户在菜单栏中高效控制代理服务的便捷体验。</p>\n<img alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/ed5087d9-521c-451f-8762-9cb0b8dc8dd4\">\n<img alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/9211d06a-0934-4473-8dc5-da3e3e88ff66\">\n<img alt=\"ClashMac\" src=\"https://github.com/user-attachments/assets/3ed20e41-d6a3-49bb-8b38-3db880d98c6d\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/271\" target=\"_blank\">#271</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/271.html",

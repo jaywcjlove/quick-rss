@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 20 Jan 2026 07:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 07:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fresh：Vim 和 Nano 的替代品，全新外观的代码编辑器！]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/273.html</link>
+            <guid isPermaLink="false">273</guid>
+            <pubDate>Tue, 20 Jan 2026 07:19:38 GMT</pubDate>
+            <description><![CDATA[Fresh 是一个全新的、轻量级的开源终端代码编辑器，它为开发者提供了极致的性能和简单的使用体验。用 Rust 开发，Fresh 提供了超快的启动和响应时间，同时支持鼠标操作、快捷键和命令面板，完美适配 Windows、macOS 和 Linux 系统。 功能： 100% 在终端中运行 基于 Rust 开发，极快的响应速度 支持鼠标、快捷键和命令面板 适用于 Windows、macOS 和 Lin]]></description>
+            <content:encoded><![CDATA[<p>Fresh 是一个全新的、轻量级的开源终端代码编辑器，它为开发者提供了极致的性能和简单的使用体验。用 Rust 开发，Fresh 提供了超快的启动和响应时间，同时支持鼠标操作、快捷键和命令面板，完美适配 Windows、macOS 和 Linux 系统。</p>
+<img alt="Fresh" src="https://github.com/user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317">
+<img alt="Fresh" src="https://github.com/user-attachments/assets/53c12646-47db-4b63-b625-d32c281ade67">
+<h2>功能：</h2>
+<ul>
+<li>100% 在终端中运行</li>
+<li>基于 Rust 开发，极快的响应速度</li>
+<li>支持鼠标、快捷键和命令面板</li>
+<li>适用于 Windows、macOS 和 Linux</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/273" target="_blank">#273</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317" length="0" type="image//user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317"/>
+        </item>
         <item>
             <title><![CDATA[FineTune：macOS 上的每应用音频控制]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/272.html</link>

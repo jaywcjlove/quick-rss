@@ -1,5 +1,19 @@
 [
   {
+    "id": "273",
+    "url": "https://wangchujiang.com/quick-rss/issue/273.html",
+    "title": "Fresh：Vim 和 Nano 的替代品，全新外观的代码编辑器！",
+    "content_html": "<p>Fresh 是一个全新的、轻量级的开源终端代码编辑器，它为开发者提供了极致的性能和简单的使用体验。用 Rust 开发，Fresh 提供了超快的启动和响应时间，同时支持鼠标操作、快捷键和命令面板，完美适配 Windows、macOS 和 Linux 系统。</p>\n<img alt=\"Fresh\" src=\"https://github.com/user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317\">\n<img alt=\"Fresh\" src=\"https://github.com/user-attachments/assets/53c12646-47db-4b63-b625-d32c281ade67\">\n<h2>功能：</h2>\n<ul>\n<li>100% 在终端中运行</li>\n<li>基于 Rust 开发，极快的响应速度</li>\n<li>支持鼠标、快捷键和命令面板</li>\n<li>适用于 Windows、macOS 和 Linux</li>\n</ul>",
+    "summary": "Fresh 是一个全新的、轻量级的开源终端代码编辑器，它为开发者提供了极致的性能和简单的使用体验。用 Rust 开发，Fresh 提供了超快的启动和响应时间，同时支持鼠标操作、快捷键和命令面板，完美适配 Windows、macOS 和 Linux 系统。 ## 功能： * 100% 在终端中运行 * 基于 Rust 开发，极快的响应速度 * 支持鼠标、快捷键和命令面板 * 适用于 Windows、",
+    "banner_image": null,
+    "date_published": "2026-01-20T07:19:38Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Fresh 是一个全新的、轻量级的开源终端代码编辑器，它为开发者提供了极致的性能和简单的使用体验。用 Rust 开发，Fresh 提供了超快的启动和响应时间，同时支持鼠标操作、快捷键和命令面板，完美适配 Windows、macOS 和 Linux 系统。\n\n<img alt=\"Fresh\" src=\"https://github.com/user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317\" />\n\n<img alt=\"Fresh\" src=\"https://github.com/user-attachments/assets/53c12646-47db-4b63-b625-d32c281ade67\" />\n\n## 功能：\n\n* 100% 在终端中运行\n* 基于 Rust 开发，极快的响应速度\n* 支持鼠标、快捷键和命令面板\n* 适用于 Windows、macOS 和 Linux"
+  },
+  {
     "id": "272",
     "url": "https://wangchujiang.com/quick-rss/issue/272.html",
     "title": "FineTune：macOS 上的每应用音频控制",

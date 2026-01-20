@@ -1,5 +1,19 @@
 [
   {
+    "id": "272",
+    "url": "https://wangchujiang.com/quick-rss/issue/272.html",
+    "title": "FineTune：macOS 上的每应用音频控制",
+    "content_html": "<p>FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。</p>\n<img alt=\"FineTune\" src=\"https://github.com/user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2\">\n<h2>功能：</h2>\n<ul>\n<li>每个应用的音量控制和静音功能</li>\n<li>每个设备的音量控制和静音功能</li>\n<li>将应用路由到不同的输出设备</li>\n<li>10 带均衡器，拥有 5 个类别下的 20 种预设</li>\n<li>实时 VU 电平表</li>\n<li>音量提升高达 200%</li>\n<li>快速设备切换</li>\n<li>点击应用图标将应用置前</li>\n<li>设置在重启后保持</li>\n</ul>",
+    "summary": "FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。 ## 功能： * 每个应用的音量控制和静音功能 * 每个设备的音量控制和静音功能 * 将应用路由到不同的输出设备 * 10 带均衡器，拥有 5 个类别下的 20 种预设 * 实时 VU 电平表 * 音量提升高达 200% * 快速设备切换 ",
+    "banner_image": null,
+    "date_published": "2026-01-20T07:15:58Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。\n\n<img alt=\"FineTune\" src=\"https://github.com/user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2\" />\n\n## 功能：\n\n* 每个应用的音量控制和静音功能\n* 每个设备的音量控制和静音功能\n* 将应用路由到不同的输出设备\n* 10 带均衡器，拥有 5 个类别下的 20 种预设\n* 实时 VU 电平表\n* 音量提升高达 200%\n* 快速设备切换\n* 点击应用图标将应用置前\n* 设置在重启后保持"
+  },
+  {
     "id": "271",
     "url": "https://wangchujiang.com/quick-rss/issue/271.html",
     "title": "ClashMac：基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏代理客户端",

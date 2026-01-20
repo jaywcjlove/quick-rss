@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [FineTune：macOS 上的每应用音频控制](https://wangchujiang.com/quick-rss/issue/272.html) 
+
+![](https://github.com/user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2)
+
+FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。 功能： 每个应用的音量控制和静音功能 每个设备的音量控制和静音功能 将应用路由到不同的输出设备 10 带均衡器，拥有 5 个类别下的 20 种预设 实时 VU 电平表 音量提升高达 200% 快速设备切换 点击应用图标将应用置前 设置在重启 ([#272](https://github.com/jaywcjlove/quick-rss/issues/272) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [ClashMac：基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏代理客户端](https://wangchujiang.com/quick-rss/issue/271.html) 
 
 ![](https://github.com/user-attachments/assets/ed5087d9-521c-451f-8762-9cb0b8dc8dd4)

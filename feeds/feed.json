@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "273",
+            "content_html": "<p>Fresh 是一个全新的、轻量级的开源终端代码编辑器，它为开发者提供了极致的性能和简单的使用体验。用 Rust 开发，Fresh 提供了超快的启动和响应时间，同时支持鼠标操作、快捷键和命令面板，完美适配 Windows、macOS 和 Linux 系统。</p>\n<img alt=\"Fresh\" src=\"https://github.com/user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317\">\n<img alt=\"Fresh\" src=\"https://github.com/user-attachments/assets/53c12646-47db-4b63-b625-d32c281ade67\">\n<h2>功能：</h2>\n<ul>\n<li>100% 在终端中运行</li>\n<li>基于 Rust 开发，极快的响应速度</li>\n<li>支持鼠标、快捷键和命令面板</li>\n<li>适用于 Windows、macOS 和 Linux</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/273\" target=\"_blank\">#273</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/273.html",
+            "title": "Fresh：Vim 和 Nano 的替代品，全新外观的代码编辑器！",
+            "summary": "Fresh 是一个全新的、轻量级的开源终端代码编辑器，它为开发者提供了极致的性能和简单的使用体验。用 Rust 开发，Fresh 提供了超快的启动和响应时间，同时支持鼠标操作、快捷键和命令面板，完美适配 Windows、macOS 和 Linux 系统。 功能： 100% 在终端中运行 基于 Rust 开发，极快的响应速度 支持鼠标、快捷键和命令面板 适用于 Windows、macOS 和 Lin",
+            "image": "https://github.com/user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317",
+            "date_modified": "2026-01-20T07:19:38.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "272",
             "content_html": "<p>FineTune 是一款 macOS 应用，提供每个应用的音量控制功能。你可以设置单独的音量级别，将应用路由到不同的输出设备，并通过菜单栏应用均衡器（EQ）。</p>\n<img alt=\"FineTune\" src=\"https://github.com/user-attachments/assets/dc3fb59e-a986-4927-a53c-faebb5465fc2\">\n<h2>功能：</h2>\n<ul>\n<li>每个应用的音量控制和静音功能</li>\n<li>每个设备的音量控制和静音功能</li>\n<li>将应用路由到不同的输出设备</li>\n<li>10 带均衡器，拥有 5 个类别下的 20 种预设</li>\n<li>实时 VU 电平表</li>\n<li>音量提升高达 200%</li>\n<li>快速设备切换</li>\n<li>点击应用图标将应用置前</li>\n<li>设置在重启后保持</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/272\" target=\"_blank\">#272</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/272.html",

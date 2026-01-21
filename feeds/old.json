@@ -1,5 +1,19 @@
 [
   {
+    "id": "274",
+    "url": "https://wangchujiang.com/quick-rss/issue/274.html",
+    "title": "res-downloader：视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载，支持macOS/Linux/win!",
+    "content_html": "<p>一款基于 Go + <a href=\"https://github.com/wailsapp/wails\">Wails</a> 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。</p>\n<h2>✨ 功能特色</h2>\n<ul>\n<li>🚀 简单易用：操作简单，界面清晰美观</li>\n<li>🖥️ 多平台支持：Windows / macOS / Linux</li>\n<li>🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等</li>\n<li>📱 平台兼容广泛：支持微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐等</li>\n<li>🌍 代理抓包：支持设置代理获取受限网络下的资源</li>\n</ul>\n<img alt=\"res-downloader\" src=\"https://github.com/user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3\">",
+    "summary": "一款基于 Go + [Wails](https://github.com/wailsapp/wails) 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。 ## ✨ 功能特色 - 🚀 简单易用：操作简单，界面清晰美观 - 🖥️ 多平台支持：Windows / macOS / Linux - 🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等 - 📱 平台兼容广",
+    "banner_image": null,
+    "date_published": "2026-01-21T10:19:17Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款基于 Go + [Wails](https://github.com/wailsapp/wails) 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。\n\n## ✨ 功能特色\n\n- 🚀 简单易用：操作简单，界面清晰美观\n- 🖥️ 多平台支持：Windows / macOS / Linux\n- 🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等\n- 📱 平台兼容广泛：支持微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐等\n- 🌍 代理抓包：支持设置代理获取受限网络下的资源\n\n<img alt=\"res-downloader\" src=\"https://github.com/user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3\" />"
+  },
+  {
     "id": "273",
     "url": "https://wangchujiang.com/quick-rss/issue/273.html",
     "title": "Fresh：Vim 和 Nano 的替代品，全新外观的代码编辑器！",

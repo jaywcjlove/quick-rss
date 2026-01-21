@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [res-downloader：视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载，支持macOS/Linux/win!](https://wangchujiang.com/quick-rss/issue/274.html) 
+
+![](https://github.com/user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3)
+
+一款基于 Go + Wails 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。 ✨ 功能特色 🚀 简单易用：操作简单，界面清晰美观 🖥️ 多平台支持：Windows / macOS / Linux 🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等 📱 平台兼容广泛：支持微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐等 🌍 代理抓包：支持设置代 ([#274](https://github.com/jaywcjlove/quick-rss/issues/274) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Fresh：Vim 和 Nano 的替代品，全新外观的代码编辑器！](https://wangchujiang.com/quick-rss/issue/273.html) 
 
 ![](https://github.com/user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317)

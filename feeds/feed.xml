@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-01-20T07:20:03.328Z</updated>
+    <updated>2026-01-21T10:19:51.161Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,37 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[res-downloader：视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载，支持macOS/Linux/win!]]></title>
+        <id>274</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/274.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3" type="image//user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3"/>
+        <updated>2026-01-21T10:19:17.000Z</updated>
+        <summary type="html"><![CDATA[一款基于 Go + Wails 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。 ✨ 功能特色 🚀 简单易用：操作简单，界面清晰美观 🖥️ 多平台支持：Windows / macOS / Linux 🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等 📱 平台兼容广泛：支持微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐等 🌍 代理抓包：支持设置代]]></summary>
+        <content type="html"><![CDATA[<p>一款基于 Go + <a href="https://github.com/wailsapp/wails">Wails</a> 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。</p>
+<h2>✨ 功能特色</h2>
+<ul>
+<li>🚀 简单易用：操作简单，界面清晰美观</li>
+<li>🖥️ 多平台支持：Windows / macOS / Linux</li>
+<li>🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等</li>
+<li>📱 平台兼容广泛：支持微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐等</li>
+<li>🌍 代理抓包：支持设置代理获取受限网络下的资源</li>
+</ul>
+<img alt="res-downloader" src="https://github.com/user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/274" target="_blank">#274</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fresh：Vim 和 Nano 的替代品，全新外观的代码编辑器！]]></title>
         <id>273</id>

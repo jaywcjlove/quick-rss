@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "274",
+            "content_html": "<p>一款基于 Go + <a href=\"https://github.com/wailsapp/wails\">Wails</a> 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。</p>\n<h2>✨ 功能特色</h2>\n<ul>\n<li>🚀 简单易用：操作简单，界面清晰美观</li>\n<li>🖥️ 多平台支持：Windows / macOS / Linux</li>\n<li>🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等</li>\n<li>📱 平台兼容广泛：支持微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐等</li>\n<li>🌍 代理抓包：支持设置代理获取受限网络下的资源</li>\n</ul>\n<img alt=\"res-downloader\" src=\"https://github.com/user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/274\" target=\"_blank\">#274</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/274.html",
+            "title": "res-downloader：视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载，支持macOS/Linux/win!",
+            "summary": "一款基于 Go + Wails 的跨平台资源下载工具，简洁易用，支持多种资源嗅探与下载。 ✨ 功能特色 🚀 简单易用：操作简单，界面清晰美观 🖥️ 多平台支持：Windows / macOS / Linux 🌐 多资源类型支持：视频 / 音频 / 图片 / m3u8 / 直播流等 📱 平台兼容广泛：支持微信视频号、小程序、抖音、快手、小红书、酷狗音乐、QQ音乐等 🌍 代理抓包：支持设置代",
+            "image": "https://github.com/user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3",
+            "date_modified": "2026-01-21T10:19:17.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "273",
             "content_html": "<p>Fresh 是一个全新的、轻量级的开源终端代码编辑器，它为开发者提供了极致的性能和简单的使用体验。用 Rust 开发，Fresh 提供了超快的启动和响应时间，同时支持鼠标操作、快捷键和命令面板，完美适配 Windows、macOS 和 Linux 系统。</p>\n<img alt=\"Fresh\" src=\"https://github.com/user-attachments/assets/e183e015-adb7-4c99-a6df-3cebcadc2317\">\n<img alt=\"Fresh\" src=\"https://github.com/user-attachments/assets/53c12646-47db-4b63-b625-d32c281ade67\">\n<h2>功能：</h2>\n<ul>\n<li>100% 在终端中运行</li>\n<li>基于 Rust 开发，极快的响应速度</li>\n<li>支持鼠标、快捷键和命令面板</li>\n<li>适用于 Windows、macOS 和 Linux</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/273\" target=\"_blank\">#273</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/273.html",

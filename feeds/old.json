@@ -1,5 +1,19 @@
 [
   {
+    "id": "276",
+    "url": "https://wangchujiang.com/quick-rss/issue/276.html",
+    "title": "RzWeb：基于浏览器的逆向工程平台，它完全通过 WebAssembly 在浏览器中运行",
+    "content_html": "<p>RzWeb 将 Rizin 的全部功能带入浏览器。您将获得一个完整的终端，可以运行任何 Rizin 命令，并且还提供专门的视图来查看反汇编、控制流图、十六进制转储和字符串。所有操作都在本地处理，您的文件永远不会离开您的设备。\n<img alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/46b16574-c99f-42df-b2b7-317902f74e56\"></p>\n<img alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/0cbb4c56-f6d6-48b1-a657-9c3a63a9c010\">\n<img alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/f31691b9-7307-4d73-b545-a51eb5e26611\">\n<img alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/eb41bc3c-a899-40ab-bb56-ae10d2fb1ec3\">\n<img alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/bb7d47a2-f29f-40ad-869e-4a6532df92df\">\n<img alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/28c31313-3aed-49e0-b512-5635512a8933\">\n<h3>主要功能：</h3>\n<ul>\n<li>\n<p><strong>终端</strong>：集成的终端让您可以直接访问 Rizin 的命令行界面。您可以运行 <code>pdf</code> 反汇编函数、<code>afl</code> 列出所有函数、<code>px</code> 查看十六进制转储，或任何您在正常 Rizin 会话中会使用的命令。命令之间可以用分号连接，例如 <code>s main;pdf</code>。</p>\n</li>\n<li>\n<p><strong>反汇编</strong>：具有语法高亮的汇编代码，并提供地址跳转。点击地址可跳转，查看交叉引用，并追踪您当前在二进制文件中的位置。</p>\n</li>\n<li>\n<p><strong>控制流图</strong>：可视化显示函数结构，查看基本块的连接，识别循环，并一眼了解控制流。</p>\n</li>\n<li>\n<p><strong>十六进制视图</strong>：查看原始字节，导航到任何偏移并直接检查二进制数据。</p>\n</li>\n<li>\n<p><strong>字符串</strong>：从二进制文件中自动提取的字符串，适用于查找硬编码路径、错误信息、加密密钥和其他有趣的数据。</p>\n</li>\n</ul>\n<h3>支持的格式：</h3>\n<p>RzWeb 支持所有 Rizin 支持的格式：</p>\n<ul>\n<li><strong>ELF</strong> - Linux 可执行文件和共享库</li>\n<li><strong>PE/PE+</strong> - Windows 可执行文件和 DLL</li>\n<li><strong>Mach-O</strong> - macOS 和 iOS 二进制文件</li>\n<li><strong>Raw</strong> - 固件、转储，其他任何格式</li>\n</ul>\n<p>通过 RzWeb，您可以在浏览器中轻松实现强大的逆向工程分析，而无需任何安装或配置。</p>",
+    "summary": "RzWeb 将 Rizin 的全部功能带入浏览器。您将获得一个完整的终端，可以运行任何 Rizin 命令，并且还提供专门的视图来查看反汇编、控制流图、十六进制转储和字符串。所有操作都在本地处理，您的文件永远不会离开您的设备。 ### 主要功能： * **终端**：集成的终端让您可以直接访问 Rizin 的命令行界面。您可以运行 `pdf` 反汇编函数、`afl` 列出所有函数、`px` 查看十六进",
+    "banner_image": null,
+    "date_published": "2026-01-21T17:05:24Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "RzWeb 将 Rizin 的全部功能带入浏览器。您将获得一个完整的终端，可以运行任何 Rizin 命令，并且还提供专门的视图来查看反汇编、控制流图、十六进制转储和字符串。所有操作都在本地处理，您的文件永远不会离开您的设备。\n<img alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/46b16574-c99f-42df-b2b7-317902f74e56\" />\n\n<img alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/0cbb4c56-f6d6-48b1-a657-9c3a63a9c010\" />\n\n<img  alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/f31691b9-7307-4d73-b545-a51eb5e26611\" />\n\n<img  alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/eb41bc3c-a899-40ab-bb56-ae10d2fb1ec3\" />\n\n<img  alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/bb7d47a2-f29f-40ad-869e-4a6532df92df\" />\n\n<img  alt=\"RzWeb\" src=\"https://github.com/user-attachments/assets/28c31313-3aed-49e0-b512-5635512a8933\" />\n\n### 主要功能：\n\n* **终端**：集成的终端让您可以直接访问 Rizin 的命令行界面。您可以运行 `pdf` 反汇编函数、`afl` 列出所有函数、`px` 查看十六进制转储，或任何您在正常 Rizin 会话中会使用的命令。命令之间可以用分号连接，例如 `s main;pdf`。\n\n* **反汇编**：具有语法高亮的汇编代码，并提供地址跳转。点击地址可跳转，查看交叉引用，并追踪您当前在二进制文件中的位置。\n\n* **控制流图**：可视化显示函数结构，查看基本块的连接，识别循环，并一眼了解控制流。\n\n* **十六进制视图**：查看原始字节，导航到任何偏移并直接检查二进制数据。\n\n* **字符串**：从二进制文件中自动提取的字符串，适用于查找硬编码路径、错误信息、加密密钥和其他有趣的数据。\n\n### 支持的格式：\n\nRzWeb 支持所有 Rizin 支持的格式：\n\n* **ELF** - Linux 可执行文件和共享库\n* **PE/PE+** - Windows 可执行文件和 DLL\n* **Mach-O** - macOS 和 iOS 二进制文件\n* **Raw** - 固件、转储，其他任何格式\n\n通过 RzWeb，您可以在浏览器中轻松实现强大的逆向工程分析，而无需任何安装或配置。"
+  },
+  {
     "id": "275",
     "url": "https://wangchujiang.com/quick-rss/issue/275.html",
     "title": "Unplug Alarm：监控 Mac 的电源和盖子，拔掉充电器或关盖时触发警报",

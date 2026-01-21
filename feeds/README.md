@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [RzWeb：基于浏览器的逆向工程平台，它完全通过 WebAssembly 在浏览器中运行](https://wangchujiang.com/quick-rss/issue/276.html) 
+
+![](https://github.com/user-attachments/assets/46b16574-c99f-42df-b2b7-317902f74e56)
+
+RzWeb 将 Rizin 的全部功能带入浏览器。您将获得一个完整的终端，可以运行任何 Rizin 命令，并且还提供专门的视图来查看反汇编、控制流图、十六进制转储和字符串。所有操作都在本地处理，您的文件永远不会离开您的设备。 主要功能： 终端：集成的终端让您可以直接访问 Rizin 的命令行界面。您可以运行 pdf 反汇编函数、afl 列出所有函数、px 查看十六进制转储，或任何您在正常 Rizi ([#276](https://github.com/jaywcjlove/quick-rss/issues/276) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Unplug Alarm：监控 Mac 的电源和盖子，拔掉充电器或关盖时触发警报](https://wangchujiang.com/quick-rss/issue/275.html) 
 
 ![](https://github.com/user-attachments/assets/5179343b-63bb-42b9-b3fc-af83cd0ddccb)

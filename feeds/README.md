@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Unplug Alarm：监控 Mac 的电源和盖子，拔掉充电器或关盖时触发警报](https://wangchujiang.com/quick-rss/issue/275.html) 
+
+![](https://github.com/user-attachments/assets/5179343b-63bb-42b9-b3fc-af83cd0ddccb)
+
+Unplug Alarm 是一款免费的开源 macOS 应用，监控你的 Mac 的电源和盖子状态。如果有人在保护模式激活时拔掉充电器或关闭盖子，应用会立即触发一个大声的最大音量警报。 功能： 智能触发：在电源断开、盖子关闭或两者同时触发警报。一键选择触发条件并立即自定义保护。 最大音量警报：当警报触发时，强制将系统音量设置为最大。警报会持续响直到你解锁 Mac。 贴合现实的设计：非常适合咖啡馆、图 ([#275](https://github.com/jaywcjlove/quick-rss/issues/275) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [res-downloader：视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载，支持macOS/Linux/win!](https://wangchujiang.com/quick-rss/issue/274.html) 
 
 ![](https://github.com/user-attachments/assets/0781c1ce-b4e7-4bca-8d97-72f962c744d3)

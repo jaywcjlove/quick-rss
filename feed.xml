@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-01-21T10:19:51.161Z</updated>
+    <updated>2026-01-21T11:29:40.360Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,37 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Unplug Alarm：监控 Mac 的电源和盖子，拔掉充电器或关盖时触发警报]]></title>
+        <id>275</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/275.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/5179343b-63bb-42b9-b3fc-af83cd0ddccb" type="image//user-attachments/assets/5179343b-63bb-42b9-b3fc-af83cd0ddccb"/>
+        <updated>2026-01-21T11:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Unplug Alarm 是一款免费的开源 macOS 应用，监控你的 Mac 的电源和盖子状态。如果有人在保护模式激活时拔掉充电器或关闭盖子，应用会立即触发一个大声的最大音量警报。 功能： 智能触发：在电源断开、盖子关闭或两者同时触发警报。一键选择触发条件并立即自定义保护。 最大音量警报：当警报触发时，强制将系统音量设置为最大。警报会持续响直到你解锁 Mac。 贴合现实的设计：非常适合咖啡馆、图]]></summary>
+        <content type="html"><![CDATA[<p>Unplug Alarm 是一款免费的开源 macOS 应用，监控你的 Mac 的电源和盖子状态。如果有人在保护模式激活时拔掉充电器或关闭盖子，应用会立即触发一个大声的最大音量警报。</p>
+<img alt="Unplug Alarm" src="https://github.com/user-attachments/assets/5179343b-63bb-42b9-b3fc-af83cd0ddccb">
+<h2><strong>功能：</strong></h2>
+<ul>
+<li><strong>智能触发</strong>：在电源断开、盖子关闭或两者同时触发警报。一键选择触发条件并立即自定义保护。</li>
+<li><strong>最大音量警报</strong>：当警报触发时，强制将系统音量设置为最大。警报会持续响直到你解锁 Mac。</li>
+<li><strong>贴合现实的设计</strong>：非常适合咖啡馆、图书馆、联合办公空间、机场等地方，在这些地方你不能时刻盯着 MacBook。</li>
+<li><strong>永久免费</strong>：无费用、无订阅、无广告。完全免费使用，永久免费。</li>
+<li><strong>开源透明</strong>：100% 开源，任何人都可以查看每一行代码。无跟踪、无数据收集、无隐藏后门。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/275" target="_blank">#275</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[res-downloader：视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载，支持macOS/Linux/win!]]></title>
         <id>274</id>

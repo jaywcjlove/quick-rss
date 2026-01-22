@@ -1,5 +1,19 @@
 [
   {
+    "id": "277",
+    "url": "https://wangchujiang.com/quick-rss/issue/277.html",
+    "title": "FlashSpace：macOS 的终极虚拟工作区管理工具",
+    "content_html": "<p>FlashSpace 是一款极速的虚拟工作区管理工具，旨在增强并替代 macOS 原生的 Spaces 功能。告别等待 macOS 动画，体验无缝的工作区切换。</p>\n<img alt=\"FlashSpace\" src=\"https://github.com/user-attachments/assets/aaff9c98-2319-433a-ace2-4037eb62ac92\">\n<h3>如何使用：</h3>\n<ol>\n<li>将所有应用移动到单个 macOS 空间（每个显示器一个空间）。</li>\n<li>创建一个工作区。</li>\n<li>将应用分配给该工作区。</li>\n<li>将显示器分配给工作区（或使用动态模式）。</li>\n<li>为快速激活工作区设置快捷键。</li>\n<li>对其他工作区执行相同的操作。</li>\n<li>使用快捷键在已配置的工作区之间轻松切换。</li>\n</ol>\n<h3>同一应用在多个工作区：</h3>\n<p>若要在多个工作区中保持相同的应用，可以使用应用设置中的“浮动应用”功能，或直接从主窗口将应用添加到多个工作区。</p>\n<h3>功能特点：</h3>\n<ul>\n<li><strong>极速工作区切换</strong></li>\n<li><strong>多显示器支持</strong>，每个显示器可独立管理工作区</li>\n<li><strong>空间控制</strong>：预览所有工作区并快速切换</li>\n<li><strong>快捷键</strong>：使用键盘高效管理应用和工作区</li>\n<li><strong>焦点检测</strong>：在应用聚焦时自动激活工作区</li>\n<li><strong>焦点管理器</strong>：通过键盘快捷键轻松切换应用焦点</li>\n<li><strong>光标管理器</strong>：自动将光标居中在当前活动窗口</li>\n<li><strong>配置文件</strong>：快速在不同配置之间切换</li>\n<li><strong>菜单栏</strong>：每个工作区可自定义图标和文本，方便识别</li>\n<li><strong>滑动手势</strong>：为触控板定制滑动手势操作</li>\n<li><strong>浮动应用</strong>：确保应用在所有工作区中保持可见</li>\n<li><strong>动态显示分配</strong>：动态分配工作区到不同的显示器</li>\n<li><strong>命令行界面（CLI）</strong>：通过命令行与应用交互，提供更多灵活性</li>\n<li><strong>画中画支持</strong>，提升多任务处理效率</li>\n<li><strong>SketchyBar 集成</strong>，提升操作的便捷性</li>\n</ul>\n<p>无论你是需要同时处理多个项目，还是想要一个简洁高效的工作流，FlashSpace 都是提升 macOS 工作体验的终极工具。</p>",
+    "summary": "FlashSpace 是一款极速的虚拟工作区管理工具，旨在增强并替代 macOS 原生的 Spaces 功能。告别等待 macOS 动画，体验无缝的工作区切换。 ### 如何使用： 1. 将所有应用移动到单个 macOS 空间（每个显示器一个空间）。 2. 创建一个工作区。 3. 将应用分配给该工作区。 4. 将显示器分配给工作区（或使用动态模式）。 5. 为快速激活工作区设置快捷键。 6. 对其",
+    "banner_image": null,
+    "date_published": "2026-01-22T07:27:59Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "FlashSpace 是一款极速的虚拟工作区管理工具，旨在增强并替代 macOS 原生的 Spaces 功能。告别等待 macOS 动画，体验无缝的工作区切换。\n\n<img alt=\"FlashSpace\" src=\"https://github.com/user-attachments/assets/aaff9c98-2319-433a-ace2-4037eb62ac92\" />\n\n### 如何使用：\n\n1. 将所有应用移动到单个 macOS 空间（每个显示器一个空间）。\n2. 创建一个工作区。\n3. 将应用分配给该工作区。\n4. 将显示器分配给工作区（或使用动态模式）。\n5. 为快速激活工作区设置快捷键。\n6. 对其他工作区执行相同的操作。\n7. 使用快捷键在已配置的工作区之间轻松切换。\n\n### 同一应用在多个工作区：\n\n若要在多个工作区中保持相同的应用，可以使用应用设置中的“浮动应用”功能，或直接从主窗口将应用添加到多个工作区。\n\n### 功能特点：\n\n* **极速工作区切换**\n* **多显示器支持**，每个显示器可独立管理工作区\n* **空间控制**：预览所有工作区并快速切换\n* **快捷键**：使用键盘高效管理应用和工作区\n* **焦点检测**：在应用聚焦时自动激活工作区\n* **焦点管理器**：通过键盘快捷键轻松切换应用焦点\n* **光标管理器**：自动将光标居中在当前活动窗口\n* **配置文件**：快速在不同配置之间切换\n* **菜单栏**：每个工作区可自定义图标和文本，方便识别\n* **滑动手势**：为触控板定制滑动手势操作\n* **浮动应用**：确保应用在所有工作区中保持可见\n* **动态显示分配**：动态分配工作区到不同的显示器\n* **命令行界面（CLI）**：通过命令行与应用交互，提供更多灵活性\n* **画中画支持**，提升多任务处理效率\n* **SketchyBar 集成**，提升操作的便捷性\n\n无论你是需要同时处理多个项目，还是想要一个简洁高效的工作流，FlashSpace 都是提升 macOS 工作体验的终极工具。"
+  },
+  {
     "id": "276",
     "url": "https://wangchujiang.com/quick-rss/issue/276.html",
     "title": "RzWeb：基于浏览器的逆向工程平台，它完全通过 WebAssembly 在浏览器中运行",

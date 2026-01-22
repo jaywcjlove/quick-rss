@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [FlashSpace：macOS 的终极虚拟工作区管理工具](https://wangchujiang.com/quick-rss/issue/277.html) 
+
+![](https://github.com/user-attachments/assets/aaff9c98-2319-433a-ace2-4037eb62ac92)
+
+FlashSpace 是一款极速的虚拟工作区管理工具，旨在增强并替代 macOS 原生的 Spaces 功能。告别等待 macOS 动画，体验无缝的工作区切换。 如何使用： 将所有应用移动到单个 macOS 空间（每个显示器一个空间）。 创建一个工作区。 将应用分配给该工作区。 将显示器分配给工作区（或使用动态模式）。 为快速激活工作区设置快捷键。 对其他工作区执行相同的操作。 使用快捷键在已配置 ([#277](https://github.com/jaywcjlove/quick-rss/issues/277) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [RzWeb：基于浏览器的逆向工程平台，它完全通过 WebAssembly 在浏览器中运行](https://wangchujiang.com/quick-rss/issue/276.html) 
 
 ![](https://github.com/user-attachments/assets/46b16574-c99f-42df-b2b7-317902f74e56)

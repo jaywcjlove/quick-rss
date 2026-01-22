@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-01-21T17:06:05.941Z</updated>
+    <updated>2026-01-22T07:28:49.756Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,60 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[FlashSpace：macOS 的终极虚拟工作区管理工具]]></title>
+        <id>277</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/277.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/aaff9c98-2319-433a-ace2-4037eb62ac92" type="image//user-attachments/assets/aaff9c98-2319-433a-ace2-4037eb62ac92"/>
+        <updated>2026-01-22T07:27:59.000Z</updated>
+        <summary type="html"><![CDATA[FlashSpace 是一款极速的虚拟工作区管理工具，旨在增强并替代 macOS 原生的 Spaces 功能。告别等待 macOS 动画，体验无缝的工作区切换。 如何使用： 将所有应用移动到单个 macOS 空间（每个显示器一个空间）。 创建一个工作区。 将应用分配给该工作区。 将显示器分配给工作区（或使用动态模式）。 为快速激活工作区设置快捷键。 对其他工作区执行相同的操作。 使用快捷键在已配置]]></summary>
+        <content type="html"><![CDATA[<p>FlashSpace 是一款极速的虚拟工作区管理工具，旨在增强并替代 macOS 原生的 Spaces 功能。告别等待 macOS 动画，体验无缝的工作区切换。</p>
+<img alt="FlashSpace" src="https://github.com/user-attachments/assets/aaff9c98-2319-433a-ace2-4037eb62ac92">
+<h3>如何使用：</h3>
+<ol>
+<li>将所有应用移动到单个 macOS 空间（每个显示器一个空间）。</li>
+<li>创建一个工作区。</li>
+<li>将应用分配给该工作区。</li>
+<li>将显示器分配给工作区（或使用动态模式）。</li>
+<li>为快速激活工作区设置快捷键。</li>
+<li>对其他工作区执行相同的操作。</li>
+<li>使用快捷键在已配置的工作区之间轻松切换。</li>
+</ol>
+<h3>同一应用在多个工作区：</h3>
+<p>若要在多个工作区中保持相同的应用，可以使用应用设置中的“浮动应用”功能，或直接从主窗口将应用添加到多个工作区。</p>
+<h3>功能特点：</h3>
+<ul>
+<li><strong>极速工作区切换</strong></li>
+<li><strong>多显示器支持</strong>，每个显示器可独立管理工作区</li>
+<li><strong>空间控制</strong>：预览所有工作区并快速切换</li>
+<li><strong>快捷键</strong>：使用键盘高效管理应用和工作区</li>
+<li><strong>焦点检测</strong>：在应用聚焦时自动激活工作区</li>
+<li><strong>焦点管理器</strong>：通过键盘快捷键轻松切换应用焦点</li>
+<li><strong>光标管理器</strong>：自动将光标居中在当前活动窗口</li>
+<li><strong>配置文件</strong>：快速在不同配置之间切换</li>
+<li><strong>菜单栏</strong>：每个工作区可自定义图标和文本，方便识别</li>
+<li><strong>滑动手势</strong>：为触控板定制滑动手势操作</li>
+<li><strong>浮动应用</strong>：确保应用在所有工作区中保持可见</li>
+<li><strong>动态显示分配</strong>：动态分配工作区到不同的显示器</li>
+<li><strong>命令行界面（CLI）</strong>：通过命令行与应用交互，提供更多灵活性</li>
+<li><strong>画中画支持</strong>，提升多任务处理效率</li>
+<li><strong>SketchyBar 集成</strong>，提升操作的便捷性</li>
+</ul>
+<p>无论你是需要同时处理多个项目，还是想要一个简洁高效的工作流，FlashSpace 都是提升 macOS 工作体验的终极工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/277" target="_blank">#277</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RzWeb：基于浏览器的逆向工程平台，它完全通过 WebAssembly 在浏览器中运行]]></title>
         <id>276</id>

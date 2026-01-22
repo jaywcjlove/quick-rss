@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Droppy：屏幕刘海（或动态岛）变成一个多功能工具，macOS 上缺失的本地生产力工具](https://wangchujiang.com/quick-rss/issue/278.html) 
+
+![](https://github.com/user-attachments/assets/fb2d1d8c-3109-420a-8dd1-c287de28ad89)
+
+Droppy 是 macOS 上缺失的生产力强大工具。完全用 Swift 构建的这款免费开源应用，将你的 Mac 屏幕刘海（或动态岛）变成一个多功能的文件管理、剪贴板历史、媒体控制、AI 背景移除等工具。随着可选扩展功能的不断增长，Droppy 旨在无缝提升你的工作流程。 主要功能： 文件架与篮子： 将文件拖到刘海，或通过动画召唤浮动篮子，随时将文件拖出使用。 剪贴板管理器： 完整的剪贴板历史记录 ([#278](https://github.com/jaywcjlove/quick-rss/issues/278) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [FlashSpace：macOS 的终极虚拟工作区管理工具](https://wangchujiang.com/quick-rss/issue/277.html) 
 
 ![](https://github.com/user-attachments/assets/aaff9c98-2319-433a-ace2-4037eb62ac92)

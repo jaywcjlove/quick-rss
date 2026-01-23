@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "279",
+            "content_html": "<p><code>MiddleDrag</code> 是一款 macOS 工具，通过三指触控板手势实现中键点击和中键拖动，提升鼠标操作效率，特别适合浏览器和代码编辑器等应用。</p>\n<p><img src=\"https://github.com/user-attachments/assets/16243f66-4060-4ea5-ad2e-4f8ef91b70c3\" alt=\"Image\"></p>\n<h2>特性</h2>\n<ul>\n<li>使用三指触控板手势模拟中键点击和拖动。</li>\n<li>完全依赖 macOS 自带触控板，适用于所有支持触控板的 Mac。</li>\n<li>提高操作便捷性。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/279\" target=\"_blank\">#279</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/279.html",
+            "title": "MiddleDrag：使用三指触控板手势进行中键点击和中键拖动",
+            "summary": "MiddleDrag 是一款 macOS 工具，通过三指触控板手势实现中键点击和中键拖动，提升鼠标操作效率，特别适合浏览器和代码编辑器等应用。 特性 使用三指触控板手势模拟中键点击和拖动。 完全依赖 macOS 自带触控板，适用于所有支持触控板的 Mac。 提高操作便捷性。",
+            "image": "https://github.com/user-attachments/assets/16243f66-4060-4ea5-ad2e-4f8ef91b70c3",
+            "date_modified": "2026-01-23T09:55:47.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "278",
             "content_html": "<p>Droppy 是 macOS 上缺失的生产力强大工具。完全用 Swift 构建的这款免费开源应用，将你的 Mac 屏幕刘海（或动态岛）变成一个多功能的文件管理、剪贴板历史、媒体控制、AI 背景移除等工具。随着可选扩展功能的不断增长，Droppy 旨在无缝提升你的工作流程。</p>\n<img alt=\"Droppy\" src=\"https://github.com/user-attachments/assets/fb2d1d8c-3109-420a-8dd1-c287de28ad89\">\n<p><img src=\"https://iordv.github.io/Droppy/assets/images/shelf-demo.gif\" alt=\"\"></p>\n<p><img src=\"https://iordv.github.io/Droppy/assets/images/clipboard-demo.gif\" alt=\"\"></p>\n<img alt=\"Droppy\" src=\"https://github.com/user-attachments/assets/c722cd0f-6716-4378-9052-5223404574c9\">\n<h3>主要功能：</h3>\n<ul>\n<li><strong>文件架与篮子：</strong> 将文件拖到刘海，或通过动画召唤浮动篮子，随时将文件拖出使用。</li>\n<li><strong>剪贴板管理器：</strong> 完整的剪贴板历史记录，快速搜索，收藏夹，OCR 文本提取等功能。</li>\n<li><strong>强力文件夹：</strong> 将文件夹固定在架上，随时将文件拖入进行即时整理。</li>\n<li><strong>智能导出：</strong> 自动保存处理后的文件到文件夹，一键显示在 Finder 中。</li>\n<li><strong>原生 HUD 显示：</strong> 显示音量、亮度、电池、Caps Lock 等精美动画。</li>\n<li><strong>媒体控制：</strong> 显示专辑封面，播放控制，跳过、随机播放、重复播放及实时音频可视化。</li>\n<li><strong>快速操作：</strong> 右键点击压缩、格式转换、提取文本、移除背景或通过 AirDrop 分享。</li>\n<li><strong>动态岛：</strong> 没有刘海？没问题——为任何 Mac 添加一个流线型的 iPhone 风格的药丸形按钮。</li>\n<li><strong>多显示器支持：</strong> 在外接显示器上工作，智能全屏检测及每个屏幕的独立扩展。</li>\n<li><strong>强大的扩展功能：</strong> 包括窗口吸附、语音转录、AI 背景移除、视频压缩等。</li>\n</ul>\n<p>Droppy 是你所需要的 macOS 本地应用：小巧、快速、功能丰富，且完全免费。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/278\" target=\"_blank\">#278</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/278.html",

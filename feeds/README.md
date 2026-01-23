@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MiddleDrag：使用三指触控板手势进行中键点击和中键拖动](https://wangchujiang.com/quick-rss/issue/279.html) 
+
+![](https://github.com/user-attachments/assets/16243f66-4060-4ea5-ad2e-4f8ef91b70c3)
+
+MiddleDrag 是一款 macOS 工具，通过三指触控板手势实现中键点击和中键拖动，提升鼠标操作效率，特别适合浏览器和代码编辑器等应用。 特性 使用三指触控板手势模拟中键点击和拖动。 完全依赖 macOS 自带触控板，适用于所有支持触控板的 Mac。 提高操作便捷性。 ([#279](https://github.com/jaywcjlove/quick-rss/issues/279) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Droppy：屏幕刘海（或动态岛）变成一个多功能工具，macOS 上缺失的本地生产力工具](https://wangchujiang.com/quick-rss/issue/278.html) 
 
 ![](https://github.com/user-attachments/assets/fb2d1d8c-3109-420a-8dd1-c287de28ad89)

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "281",
+            "content_html": "<p><code>Reminders Menubar</code> 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。</p>\n<img alt=\"Reminders MenuBar\" src=\"https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611\">\n<h2>特性</h2>\n<ul>\n<li><strong>任务管理</strong>：查看、添加和标记任务。</li>\n<li><strong>简洁界面</strong>：在菜单栏中轻松访问 Reminders。</li>\n<li><strong>多帐户支持</strong>：如果您有多个 iCloud 账户，它支持切换和管理每个账户的提醒事项。</li>\n<li><strong>任务过滤</strong>：快速筛选任务，根据优先级、日期等条件进行过滤。</li>\n<li><strong>同步</strong>：所有数据实时与 iCloud 同步，确保信息保持更新。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/281\" target=\"_blank\">#281</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/281.html",
+            "title": "Reminders MenuBar：简单的 macOS 菜单栏应用，用于查看和互动提醒事项，管理 Apple Reminders",
+            "summary": "Reminders Menubar 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。 特性 任务管理：查看、添加和标记任务。 简洁界面：在菜单栏中轻松访问 Reminders。 多帐户支持：如果您有多个 iCloud 账户，它支持切换",
+            "image": "https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611",
+            "date_modified": "2026-01-23T19:25:50.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "280",
             "content_html": "<p>Orbit 是一款原生的菜单栏效率工具：长按修饰键即可在鼠标附近展开应用环， 快速切换、管理应用，并支持文件拖拽分享/删除，所有数据本地处理。</p>\n<img alt=\"Orbit\" src=\"https://github.com/user-attachments/assets/1ab88e9e-9bf1-4a59-8140-35a70689343f\">\n<h2>功能特点</h2>\n<ul>\n<li>环形应用切换器：在鼠标附近展示正在运行的应用，一键切换。</li>\n<li>长按修饰键触发（默认 Option ⌥），可在设置中自定义。</li>\n<li>支持键盘导航：Tab/方向键、数字 1-9、首字母循环定位。</li>\n<li>将应用拖入中心黑洞可退出，带像素消散动画反馈。</li>\n<li>将文件拖入中心可 AirDrop，继续停留会变成“黑洞”用于删除。</li>\n<li>可调卡片尺寸/材质，支持开机自启动与菜单栏控制。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/280\" target=\"_blank\">#280</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/280.html",

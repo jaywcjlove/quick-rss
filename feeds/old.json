@@ -1,5 +1,19 @@
 [
   {
+    "id": "281",
+    "url": "https://wangchujiang.com/quick-rss/issue/281.html",
+    "title": "Reminders MenuBar：简单的 macOS 菜单栏应用，用于查看和互动提醒事项，管理 Apple Reminders",
+    "content_html": "<p><code>Reminders Menubar</code> 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。</p>\n<img alt=\"Reminders MenuBar\" src=\"https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611\">\n<h2>特性</h2>\n<ul>\n<li><strong>任务管理</strong>：查看、添加和标记任务。</li>\n<li><strong>简洁界面</strong>：在菜单栏中轻松访问 Reminders。</li>\n<li><strong>多帐户支持</strong>：如果您有多个 iCloud 账户，它支持切换和管理每个账户的提醒事项。</li>\n<li><strong>任务过滤</strong>：快速筛选任务，根据优先级、日期等条件进行过滤。</li>\n<li><strong>同步</strong>：所有数据实时与 iCloud 同步，确保信息保持更新。</li>\n</ul>",
+    "summary": "`Reminders Menubar` 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。 ## 特性 * **任务管理**：查看、添加和标记任务。 * **简洁界面**：在菜单栏中轻松访问 Reminders。 * **多帐户支持**",
+    "banner_image": null,
+    "date_published": "2026-01-23T19:25:50Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "`Reminders Menubar` 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。\n\n<img  alt=\"Reminders MenuBar\" src=\"https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611\" />\n\n## 特性\n\n* **任务管理**：查看、添加和标记任务。\n* **简洁界面**：在菜单栏中轻松访问 Reminders。\n* **多帐户支持**：如果您有多个 iCloud 账户，它支持切换和管理每个账户的提醒事项。\n* **任务过滤**：快速筛选任务，根据优先级、日期等条件进行过滤。\n* **同步**：所有数据实时与 iCloud 同步，确保信息保持更新。"
+  },
+  {
     "id": "280",
     "url": "https://wangchujiang.com/quick-rss/issue/280.html",
     "title": "Orbit：一个以手势为主的径向应用切换器和文件中心，适用于 macOS。",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Reminders MenuBar：简单的 macOS 菜单栏应用，用于查看和互动提醒事项，管理 Apple Reminders](https://wangchujiang.com/quick-rss/issue/281.html) 
+
+![](https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611)
+
+Reminders Menubar 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。 特性 任务管理：查看、添加和标记任务。 简洁界面：在菜单栏中轻松访问 Reminders。 多帐户支持：如果您有多个 iCloud 账户，它支持切换 ([#281](https://github.com/jaywcjlove/quick-rss/issues/281) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Orbit：一个以手势为主的径向应用切换器和文件中心，适用于 macOS。](https://wangchujiang.com/quick-rss/issue/280.html) 
 
 ![](https://github.com/user-attachments/assets/1ab88e9e-9bf1-4a59-8140-35a70689343f)

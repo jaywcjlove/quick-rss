@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 23 Jan 2026 17:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 19:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,30 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reminders MenuBar：简单的 macOS 菜单栏应用，用于查看和互动提醒事项，管理 Apple Reminders]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/281.html</link>
+            <guid isPermaLink="false">281</guid>
+            <pubDate>Fri, 23 Jan 2026 19:25:50 GMT</pubDate>
+            <description><![CDATA[Reminders Menubar 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。 特性 任务管理：查看、添加和标记任务。 简洁界面：在菜单栏中轻松访问 Reminders。 多帐户支持：如果您有多个 iCloud 账户，它支持切换]]></description>
+            <content:encoded><![CDATA[<p><code>Reminders Menubar</code> 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。</p>
+<img alt="Reminders MenuBar" src="https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611">
+<h2>特性</h2>
+<ul>
+<li><strong>任务管理</strong>：查看、添加和标记任务。</li>
+<li><strong>简洁界面</strong>：在菜单栏中轻松访问 Reminders。</li>
+<li><strong>多帐户支持</strong>：如果您有多个 iCloud 账户，它支持切换和管理每个账户的提醒事项。</li>
+<li><strong>任务过滤</strong>：快速筛选任务，根据优先级、日期等条件进行过滤。</li>
+<li><strong>同步</strong>：所有数据实时与 iCloud 同步，确保信息保持更新。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/281" target="_blank">#281</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611" length="0" type="image//user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611"/>
+        </item>
         <item>
             <title><![CDATA[Orbit：一个以手势为主的径向应用切换器和文件中心，适用于 macOS。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/280.html</link>

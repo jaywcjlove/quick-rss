@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "282",
+            "content_html": "<p><code>Claude Usage Tracker</code> 是一个用于跟踪和记录 <strong>Claude</strong> 使用情况的工具。它能够帮助开发者和用户了解他们使用 <strong>Claude</strong> 时的统计数据，提供实时跟踪和分析使用频率、时长等数据。通过此工具，用户可以更好地管理和优化他们的 Claude 使用体验。</p>\n<img alt=\"Claude Usage Tracker\" src=\"https://github.com/user-attachments/assets/06dde8df-1577-4b2d-83a8-fb38d78e37b8\">\n<h2>特性</h2>\n<ul>\n<li><strong>实时跟踪</strong>：监控 Claude 的使用情况，记录每次使用的时长和频率。</li>\n<li><strong>详细分析</strong>：提供使用情况的图表和数据分析，帮助用户了解使用模式。</li>\n<li><strong>易于集成</strong>：适用于任何需要 Claude 使用统计和数据分析的应用。</li>\n<li><strong>开源</strong>：完全开源，支持自定义和扩展。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/282\" target=\"_blank\">#282</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/282.html",
+            "title": "Claude Usage Tracker: macOS 菜单栏应用程序来跟踪 Claude Code 的使用情况",
+            "summary": "Claude Usage Tracker 是一个用于跟踪和记录 Claude 使用情况的工具。它能够帮助开发者和用户了解他们使用 Claude 时的统计数据，提供实时跟踪和分析使用频率、时长等数据。通过此工具，用户可以更好地管理和优化他们的 Claude 使用体验。 特性 实时跟踪：监控 Claude 的使用情况，记录每次使用的时长和频率。 详细分析：提供使用情况的图表和数据分析，帮助用户了解使用",
+            "image": "https://github.com/user-attachments/assets/06dde8df-1577-4b2d-83a8-fb38d78e37b8",
+            "date_modified": "2026-01-23T21:02:09.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "281",
             "content_html": "<p><code>Reminders Menubar</code> 是一个轻量级的 macOS 菜单栏应用，它使您能够轻松管理和查看您的 Reminders（提醒事项）任务。它在菜单栏提供简洁的界面，帮助您随时随地查看、添加和管理提醒事项，无需打开完整的 Reminders 应用。</p>\n<img alt=\"Reminders MenuBar\" src=\"https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611\">\n<h2>特性</h2>\n<ul>\n<li><strong>任务管理</strong>：查看、添加和标记任务。</li>\n<li><strong>简洁界面</strong>：在菜单栏中轻松访问 Reminders。</li>\n<li><strong>多帐户支持</strong>：如果您有多个 iCloud 账户，它支持切换和管理每个账户的提醒事项。</li>\n<li><strong>任务过滤</strong>：快速筛选任务，根据优先级、日期等条件进行过滤。</li>\n<li><strong>同步</strong>：所有数据实时与 iCloud 同步，确保信息保持更新。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/281\" target=\"_blank\">#281</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/281.html",

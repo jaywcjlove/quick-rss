@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Claude Usage Tracker: macOS 菜单栏应用程序来跟踪 Claude Code 的使用情况](https://wangchujiang.com/quick-rss/issue/282.html) 
+
+![](https://github.com/user-attachments/assets/06dde8df-1577-4b2d-83a8-fb38d78e37b8)
+
+Claude Usage Tracker 是一个用于跟踪和记录 Claude 使用情况的工具。它能够帮助开发者和用户了解他们使用 Claude 时的统计数据，提供实时跟踪和分析使用频率、时长等数据。通过此工具，用户可以更好地管理和优化他们的 Claude 使用体验。 特性 实时跟踪：监控 Claude 的使用情况，记录每次使用的时长和频率。 详细分析：提供使用情况的图表和数据分析，帮助用户了解使用 ([#282](https://github.com/jaywcjlove/quick-rss/issues/282) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Reminders MenuBar：简单的 macOS 菜单栏应用，用于查看和互动提醒事项，管理 Apple Reminders](https://wangchujiang.com/quick-rss/issue/281.html) 
 
 ![](https://github.com/user-attachments/assets/c787a00b-1a10-459d-baeb-53b7f6c4e611)

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Orbit：一个以手势为主的径向应用切换器和文件中心，适用于 macOS。](https://wangchujiang.com/quick-rss/issue/280.html) 
+
+![](https://github.com/user-attachments/assets/1ab88e9e-9bf1-4a59-8140-35a70689343f)
+
+Orbit 是一款原生的菜单栏效率工具：长按修饰键即可在鼠标附近展开应用环， 快速切换、管理应用，并支持文件拖拽分享/删除，所有数据本地处理。 功能特点 环形应用切换器：在鼠标附近展示正在运行的应用，一键切换。 长按修饰键触发（默认 Option ⌥），可在设置中自定义。 支持键盘导航：Tab/方向键、数字 1-9、首字母循环定位。 将应用拖入中心黑洞可退出，带像素消散动画反馈。 将文件拖入中心可 ([#280](https://github.com/jaywcjlove/quick-rss/issues/280) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MiddleDrag：使用三指触控板手势进行中键点击和中键拖动](https://wangchujiang.com/quick-rss/issue/279.html) 
 
 ![](https://github.com/user-attachments/assets/16243f66-4060-4ea5-ad2e-4f8ef91b70c3)

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 23 Jan 2026 09:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 17:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,31 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Orbit：一个以手势为主的径向应用切换器和文件中心，适用于 macOS。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/280.html</link>
+            <guid isPermaLink="false">280</guid>
+            <pubDate>Fri, 23 Jan 2026 17:10:06 GMT</pubDate>
+            <description><![CDATA[Orbit 是一款原生的菜单栏效率工具：长按修饰键即可在鼠标附近展开应用环， 快速切换、管理应用，并支持文件拖拽分享/删除，所有数据本地处理。 功能特点 环形应用切换器：在鼠标附近展示正在运行的应用，一键切换。 长按修饰键触发（默认 Option ⌥），可在设置中自定义。 支持键盘导航：Tab/方向键、数字 1-9、首字母循环定位。 将应用拖入中心黑洞可退出，带像素消散动画反馈。 将文件拖入中心可]]></description>
+            <content:encoded><![CDATA[<p>Orbit 是一款原生的菜单栏效率工具：长按修饰键即可在鼠标附近展开应用环， 快速切换、管理应用，并支持文件拖拽分享/删除，所有数据本地处理。</p>
+<img alt="Orbit" src="https://github.com/user-attachments/assets/1ab88e9e-9bf1-4a59-8140-35a70689343f">
+<h2>功能特点</h2>
+<ul>
+<li>环形应用切换器：在鼠标附近展示正在运行的应用，一键切换。</li>
+<li>长按修饰键触发（默认 Option ⌥），可在设置中自定义。</li>
+<li>支持键盘导航：Tab/方向键、数字 1-9、首字母循环定位。</li>
+<li>将应用拖入中心黑洞可退出，带像素消散动画反馈。</li>
+<li>将文件拖入中心可 AirDrop，继续停留会变成“黑洞”用于删除。</li>
+<li>可调卡片尺寸/材质，支持开机自启动与菜单栏控制。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/280" target="_blank">#280</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/1ab88e9e-9bf1-4a59-8140-35a70689343f" length="0" type="image//user-attachments/assets/1ab88e9e-9bf1-4a59-8140-35a70689343f"/>
+        </item>
         <item>
             <title><![CDATA[MiddleDrag：使用三指触控板手势进行中键点击和中键拖动]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/279.html</link>

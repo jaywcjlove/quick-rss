@@ -1,0 +1,16 @@
+[
+  {
+    "id": "283",
+    "url": "https://wangchujiang.com/quick-rss/issue/283.html",
+    "title": "Lockbook：一个开源的、端到端加密的，支持 Markdown 和绘图的笔记应用",
+    "content_html": "<p><strong>Lockbook</strong> 是一个以“隐私安全”为核心的开源笔记平台。它不仅是一个简单的记事本，更是一个集成了文档存储、同步、共享功能的加密解决方案。其主要目标是在不牺牲用户体验的前提下，提供极致的数据私密性。</p>\n<img alt=\"Lockbook\" src=\"https://github.com/user-attachments/assets/2c848666-09f7-4bd1-8804-94aece704266\">\n<h3>核心特性</h3>\n<ul>\n<li><strong>端到端加密 (E2EE)：</strong> Lockbook 采用椭圆曲线加密技术（类似于比特币）。你的私钥在本地生成且永远不会离开你的设备。这意味着除了你（以及你授权共享的人）之外，包括 Lockbook 官方在内的任何人都无法查看你的文件内容。</li>\n<li><strong>完全开源：</strong> 整个项目 100% 开源（基于 Rust 开发），代码透明，任何人都可以审计其安全逻辑。</li>\n<li><strong>隐私至上：</strong> 注册不需要电子邮件、电话号码或任何个人身份信息。你即是客户，而非“产品”，开发者不收集或买卖任何用户数据。</li>\n<li><strong>离线优先 &#x26; 多端同步：</strong> 支持跨平台访问（iOS, Android, macOS, Linux, Windows），并且在离线状态下也能正常工作，连接网络后会自动同步加密数据。</li>\n<li><strong>开发者友好：</strong> * <strong>CLI 支持：</strong> 提供强大的命令行工具，可以配合 <code>vim</code>、<code>fzf</code> 等 Unix 工具链使用。</li>\n<li><strong>Rust 驱动：</strong> 核心库 <code>lb-rs</code> 使用 Rust 编写，性能极高，并为 C 和 Java 提供了绑定。</li>\n<li><strong>开放格式：</strong> 文档以 Markdown 和 SVG 格式存储，方便自动化处理和扩展。</li>\n</ul>\n<h3>技术栈</h3>\n<ul>\n<li><strong>语言：</strong> 主要由 <strong>Rust</strong> (约 78%) 编写，移动端和桌面端分别使用了 Swift (iOS/macOS) 和 Kotlin (Android)。</li>\n<li><strong>存储：</strong> 采用增量同步机制，确保在不同设备间高效更新。</li>\n</ul>\n<h3>总结</h3>\n<p>如果你在寻找一个像 Notion 或 Obsidian 那样方便，但又对数据主权有极高要求（不希望任何云服务商能窥视你的笔记）的工具，Lockbook 是一个非常值得尝试的选择。</p>",
+    "summary": "**Lockbook** 是一个以“隐私安全”为核心的开源笔记平台。它不仅是一个简单的记事本，更是一个集成了文档存储、同步、共享功能的加密解决方案。其主要目标是在不牺牲用户体验的前提下，提供极致的数据私密性。 ### 核心特性 * **端到端加密 (E2EE)：** Lockbook 采用椭圆曲线加密技术（类似于比特币）。你的私钥在本地生成且永远不会离开你的设备。这意味着除了你（以及你授权共享的人",
+    "banner_image": null,
+    "date_published": "2026-01-27T02:49:43Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**Lockbook** 是一个以“隐私安全”为核心的开源笔记平台。它不仅是一个简单的记事本，更是一个集成了文档存储、同步、共享功能的加密解决方案。其主要目标是在不牺牲用户体验的前提下，提供极致的数据私密性。\n\n<img alt=\"Lockbook\" src=\"https://github.com/user-attachments/assets/2c848666-09f7-4bd1-8804-94aece704266\" />\n\n\n### 核心特性\n\n* **端到端加密 (E2EE)：** Lockbook 采用椭圆曲线加密技术（类似于比特币）。你的私钥在本地生成且永远不会离开你的设备。这意味着除了你（以及你授权共享的人）之外，包括 Lockbook 官方在内的任何人都无法查看你的文件内容。\n* **完全开源：** 整个项目 100% 开源（基于 Rust 开发），代码透明，任何人都可以审计其安全逻辑。\n* **隐私至上：** 注册不需要电子邮件、电话号码或任何个人身份信息。你即是客户，而非“产品”，开发者不收集或买卖任何用户数据。\n* **离线优先 & 多端同步：** 支持跨平台访问（iOS, Android, macOS, Linux, Windows），并且在离线状态下也能正常工作，连接网络后会自动同步加密数据。\n* **开发者友好：** * **CLI 支持：** 提供强大的命令行工具，可以配合 `vim`、`fzf` 等 Unix 工具链使用。\n* **Rust 驱动：** 核心库 `lb-rs` 使用 Rust 编写，性能极高，并为 C 和 Java 提供了绑定。\n* **开放格式：** 文档以 Markdown 和 SVG 格式存储，方便自动化处理和扩展。\n\n### 技术栈\n\n* **语言：** 主要由 **Rust** (约 78%) 编写，移动端和桌面端分别使用了 Swift (iOS/macOS) 和 Kotlin (Android)。\n* **存储：** 采用增量同步机制，确保在不同设备间高效更新。\n\n### 总结\n\n如果你在寻找一个像 Notion 或 Obsidian 那样方便，但又对数据主权有极高要求（不希望任何云服务商能窥视你的笔记）的工具，Lockbook 是一个非常值得尝试的选择。"
+  }
+]

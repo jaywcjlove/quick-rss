@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Lockbook：一个开源的、端到端加密的，支持 Markdown 和绘图的笔记应用](https://wangchujiang.com/quick-rss/issue/283.html) 
+
+![](https://github.com/user-attachments/assets/2c848666-09f7-4bd1-8804-94aece704266)
+
+Lockbook 是一个以“隐私安全”为核心的开源笔记平台。它不仅是一个简单的记事本，更是一个集成了文档存储、同步、共享功能的加密解决方案。其主要目标是在不牺牲用户体验的前提下，提供极致的数据私密性。 核心特性 端到端加密 (E2EE)： Lockbook 采用椭圆曲线加密技术（类似于比特币）。你的私钥在本地生成且永远不会离开你的设备。这意味着除了你（以及你授权共享的人）之外，包括 Lockboo ([#283](https://github.com/jaywcjlove/quick-rss/issues/283) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Claude Usage Tracker: macOS 菜单栏应用程序来跟踪 Claude Code 的使用情况](https://wangchujiang.com/quick-rss/issue/282.html) 
 
 ![](https://github.com/user-attachments/assets/06dde8df-1577-4b2d-83a8-fb38d78e37b8)

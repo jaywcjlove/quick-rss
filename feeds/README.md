@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BucketDrop：专为 macOS 设计的极简 S3 文件上传与分享利器](https://wangchujiang.com/quick-rss/issue/284.html) 
+
+![](https://github.com/user-attachments/assets/fd041a59-2210-4c63-aa85-41c41b355877)
+
+BucketDrop 是一款轻量级、开源的 macOS 菜单栏应用，旨在简化文件上传到 S3（或兼容 S3 协议的对象存储，如 Cloudflare R2、MinIO 等）的流程。它将繁琐的上传步骤简化为简单的“拖放”操作，并能自动生成可分享的链接。 核心功能： 拖放上传： 只需将文件拖入菜单栏图标，即可立即开始上传。 多服务商支持： 兼容 AWS S3、Cloudflare R2 以及任何支持  ([#284](https://github.com/jaywcjlove/quick-rss/issues/284) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Lockbook：一个开源的、端到端加密的，支持 Markdown 和绘图的笔记应用](https://wangchujiang.com/quick-rss/issue/283.html) 
 
 ![](https://github.com/user-attachments/assets/2c848666-09f7-4bd1-8804-94aece704266)

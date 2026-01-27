@@ -1,5 +1,19 @@
 [
   {
+    "id": "284",
+    "url": "https://wangchujiang.com/quick-rss/issue/284.html",
+    "title": "BucketDrop：专为 macOS 设计的极简 S3 文件上传与分享利器",
+    "content_html": "<p><strong>BucketDrop</strong> 是一款轻量级、开源的 macOS 菜单栏应用，旨在简化文件上传到 S3（或兼容 S3 协议的对象存储，如 Cloudflare R2、MinIO 等）的流程。它将繁琐的上传步骤简化为简单的“拖放”操作，并能自动生成可分享的链接。</p>\n<img alt=\"BucketDrop\" src=\"https://github.com/user-attachments/assets/fd041a59-2210-4c63-aa85-41c41b355877\">\n<p><strong>核心功能：</strong></p>\n<ul>\n<li><strong>拖放上传：</strong> 只需将文件拖入菜单栏图标，即可立即开始上传。</li>\n<li><strong>多服务商支持：</strong> 兼容 AWS S3、Cloudflare R2 以及任何支持 S3 协议的服务。</li>\n<li><strong>自动复制链接：</strong> 文件上传完成后，访问链接会自动保存到剪贴板。</li>\n<li><strong>原生体验：</strong> 基于 Swift 和 SwiftUI 开发，完美契合 macOS 现代审美与性能需求。</li>\n<li><strong>上传历史：</strong> 方便查看和管理最近上传的文件记录。</li>\n</ul>\n<p><strong>适用场景：</strong></p>\n<p>适合需要频繁分享截图、代码片段或临时文件给同事，且不想依赖第三方图床或重量级网盘的开发者与设计师。</p>",
+    "summary": "**BucketDrop** 是一款轻量级、开源的 macOS 菜单栏应用，旨在简化文件上传到 S3（或兼容 S3 协议的对象存储，如 Cloudflare R2、MinIO 等）的流程。它将繁琐的上传步骤简化为简单的“拖放”操作，并能自动生成可分享的链接。 **核心功能：** * **拖放上传：** 只需将文件拖入菜单栏图标，即可立即开始上传。 * **多服务商支持：** 兼容 AWS S3、C",
+    "banner_image": null,
+    "date_published": "2026-01-27T02:56:44Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "**BucketDrop** 是一款轻量级、开源的 macOS 菜单栏应用，旨在简化文件上传到 S3（或兼容 S3 协议的对象存储，如 Cloudflare R2、MinIO 等）的流程。它将繁琐的上传步骤简化为简单的“拖放”操作，并能自动生成可分享的链接。\n\n<img alt=\"BucketDrop\" src=\"https://github.com/user-attachments/assets/fd041a59-2210-4c63-aa85-41c41b355877\" />\n\n**核心功能：**\n\n* **拖放上传：** 只需将文件拖入菜单栏图标，即可立即开始上传。\n* **多服务商支持：** 兼容 AWS S3、Cloudflare R2 以及任何支持 S3 协议的服务。\n* **自动复制链接：** 文件上传完成后，访问链接会自动保存到剪贴板。\n* **原生体验：** 基于 Swift 和 SwiftUI 开发，完美契合 macOS 现代审美与性能需求。\n* **上传历史：** 方便查看和管理最近上传的文件记录。\n\n**适用场景：**\n\n适合需要频繁分享截图、代码片段或临时文件给同事，且不想依赖第三方图床或重量级网盘的开发者与设计师。"
+  },
+  {
     "id": "283",
     "url": "https://wangchujiang.com/quick-rss/issue/283.html",
     "title": "Lockbook：一个开源的、端到端加密的，支持 Markdown 和绘图的笔记应用",

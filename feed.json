@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "285",
+            "content_html": "<p><strong>CodexMonitor</strong> 是一款基于 Tauri 开发的 macOS 应用，其核心定位是作为多个 <strong>Codex 智能体</strong> 的“指挥部”。它不仅是一个聊天界面，更是一个深度集成工作区、Git 和终端的复杂开发环境。</p>\n<img alt=\"CodexMonitor\" src=\"https://github.com/user-attachments/assets/46f98f77-9634-4d87-b61f-e6c62bd64550\">\n<h3>核心特性</h3>\n<ul>\n<li><strong>多工作区管理：</strong> 支持添加并持久化本地工作空间，每个工作区都能启动独立的 <code>codex app-server</code>。应用可以自动恢复对话线程，并追踪 Agent 的运行状态。</li>\n<li><strong>深度 Git &#x26; GitHub 集成：</strong> * 内置差异对比（Diff）、暂存（Stage）及提交记录查看。\n<ul>\n<li>支持通过 <code>gh</code> 工具直接在应用内管理 GitHub Issues 和 PR。</li>\n<li><strong>“Ask PR” 功能</strong>：能将整个 PR 的上下文直接发送给 AI 进行分析。</li>\n</ul>\n</li>\n<li><strong>高级 Composer (输入框)：</strong>\n<ul>\n<li>支持图片附件、拖放和粘贴。</li>\n<li>具备强大的<strong>自动补全</strong>功能：支持技能（<code>$</code>）、提示词模板（<code>/prompts</code>）、代码审查（<code>/review</code>）和文件路径（<code>@</code>）。</li>\n</ul>\n</li>\n<li><strong>智能体隔离与克隆：</strong> 支持 Worktree 功能，为不同的 AI 任务创建隔离的工作目录，确保实验性的修改不会污染主分支。</li>\n<li><strong>开发者工具箱：</strong>\n<ul>\n<li><strong>文件树系统：</strong> 支持文件搜索、类型图标显示及在 Finder 中定位。</li>\n<li><strong>集成终端：</strong> 实验性的多标签终端窗口，可直接运行后台命令。</li>\n<li><strong>语音输入：</strong> 集成 Whisper 协议，支持长按录音（Hold-to-talk）并显示动态波形。</li>\n</ul>\n</li>\n<li><strong>极致的 macOS 交互体验：</strong> 采用原生效果的毛玻璃（Vibrancy）侧边栏，支持高度自定义的面板布局（调试面板、终端面板、计划面板等），并提供账户额度实时监控。</li>\n</ul>\n<h3>适用场景</h3>\n<p>它是为那些希望深度将 AI（如 OpenAI Codex 或类似模型）集成进日常开发工作流的用户准备的。如果你厌倦了在浏览器和编辑器之间不停切换，CodexMonitor 提供了一个将“代码理解、任务规划、Git 操作、AI 对话”融为一体的单窗口解决方案。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/285\" target=\"_blank\">#285</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/285.html",
+            "title": "CodexMonitor：专为开发者设计的本地 Codex AI 智能体编排与协作中心",
+            "summary": "CodexMonitor 是一款基于 Tauri 开发的 macOS 应用，其核心定位是作为多个 Codex 智能体 的“指挥部”。它不仅是一个聊天界面，更是一个深度集成工作区、Git 和终端的复杂开发环境。 核心特性 多工作区管理： 支持添加并持久化本地工作空间，每个工作区都能启动独立的 codex app-server。应用可以自动恢复对话线程，并追踪 Agent 的运行状态。 深度 Git ",
+            "image": "https://github.com/user-attachments/assets/46f98f77-9634-4d87-b61f-e6c62bd64550",
+            "date_modified": "2026-01-27T13:53:26.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "284",
             "content_html": "<p><strong>BucketDrop</strong> 是一款轻量级、开源的 macOS 菜单栏应用，旨在简化文件上传到 S3（或兼容 S3 协议的对象存储，如 Cloudflare R2、MinIO 等）的流程。它将繁琐的上传步骤简化为简单的“拖放”操作，并能自动生成可分享的链接。</p>\n<img alt=\"BucketDrop\" src=\"https://github.com/user-attachments/assets/fd041a59-2210-4c63-aa85-41c41b355877\">\n<p><strong>核心功能：</strong></p>\n<ul>\n<li><strong>拖放上传：</strong> 只需将文件拖入菜单栏图标，即可立即开始上传。</li>\n<li><strong>多服务商支持：</strong> 兼容 AWS S3、Cloudflare R2 以及任何支持 S3 协议的服务。</li>\n<li><strong>自动复制链接：</strong> 文件上传完成后，访问链接会自动保存到剪贴板。</li>\n<li><strong>原生体验：</strong> 基于 Swift 和 SwiftUI 开发，完美契合 macOS 现代审美与性能需求。</li>\n<li><strong>上传历史：</strong> 方便查看和管理最近上传的文件记录。</li>\n</ul>\n<p><strong>适用场景：</strong></p>\n<p>适合需要频繁分享截图、代码片段或临时文件给同事，且不想依赖第三方图床或重量级网盘的开发者与设计师。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/284\" target=\"_blank\">#284</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/284.html",

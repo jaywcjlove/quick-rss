@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [CodexMonitor：专为开发者设计的本地 Codex AI 智能体编排与协作中心](https://wangchujiang.com/quick-rss/issue/285.html) 
+
+![](https://github.com/user-attachments/assets/46f98f77-9634-4d87-b61f-e6c62bd64550)
+
+CodexMonitor 是一款基于 Tauri 开发的 macOS 应用，其核心定位是作为多个 Codex 智能体 的“指挥部”。它不仅是一个聊天界面，更是一个深度集成工作区、Git 和终端的复杂开发环境。 核心特性 多工作区管理： 支持添加并持久化本地工作空间，每个工作区都能启动独立的 codex app-server。应用可以自动恢复对话线程，并追踪 Agent 的运行状态。 深度 Git  ([#285](https://github.com/jaywcjlove/quick-rss/issues/285) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BucketDrop：专为 macOS 设计的极简 S3 文件上传与分享利器](https://wangchujiang.com/quick-rss/issue/284.html) 
 
 ![](https://github.com/user-attachments/assets/fd041a59-2210-4c63-aa85-41c41b355877)

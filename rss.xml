@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 27 Jan 2026 14:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 15:44:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,37 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Agent Studio： 一个原生、跨平台的 Agent 客户端]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/286.html</link>
+            <guid isPermaLink="false">286</guid>
+            <pubDate>Mon, 02 Feb 2026 15:43:33 GMT</pubDate>
+            <description><![CDATA[Agent Studio 是一款基于 Rust 和 GPUI 构建的、轻量级的（约 10MB）、GPU 加速的跨平台桌面应用。它通过 ACP 协议深度整合了编辑器和终端，提供统一的界面。用户可以无缝调用 Claude Code、Gemini、Kimi 和通义千问等多种 AI Agent，高效地完成代码编写和任务管理。 🎯 特性 🤖 多代理支持 - 通过代理客户端协议 (ACP) 同时连接和与多]]></description>
+            <content:encoded><![CDATA[<p>Agent Studio 是一款基于 Rust 和 GPUI 构建的、轻量级的（约 10MB）、GPU 加速的跨平台桌面应用。它通过 ACP 协议深度整合了编辑器和终端，提供统一的界面。用户可以无缝调用 Claude Code、Gemini、Kimi 和通义千问等多种 AI Agent，高效地完成代码编写和任务管理。</p>
+<img alt="Agent Studio" src="https://github.com/user-attachments/assets/de9f1822-caba-4c41-9078-c974849ca1b4">
+<img alt="Agent Studio" src="https://github.com/user-attachments/assets/b167a381-8460-44bd-91b3-4650017f9c39">
+<h3>🎯 特性</h3>
+<ul>
+<li>🤖 多代理支持 - 通过代理客户端协议 (ACP) 同时连接和与多个 AI 代理聊天</li>
+<li>💬 实时对话 - 流式响应，支持思考块和工具调用</li>
+<li>📝 内置代码编辑器 - 支持 LSP 的编辑器，具有语法高亮和自动完成</li>
+<li>🖥️ 集成终端 - 无需离开应用即可执行命令</li>
+<li>🎨 可定制的停靠系统 - 拖放面板以创建您的完美工作空间</li>
+<li>🌍 国际化 - 支持多种语言（English、简体中文）</li>
+<li>🎭 主题支持 - 浅色和深色主题，可自定义颜色</li>
+<li>📊 会话管理 - 跨多个会话组织对话</li>
+<li>🔧 工具调用查看器 - 详细检查代理工具执行</li>
+<li>💾 自动保存 - 通过自动会话持久化永不丢失工作</li>
+<li>⚡ GPU 加速 - 由 GPUI 框架提供的超快 UI</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/286" target="_blank">#286</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/de9f1822-caba-4c41-9078-c974849ca1b4" length="0" type="image//user-attachments/assets/de9f1822-caba-4c41-9078-c974849ca1b4"/>
+        </item>
         <item>
             <title><![CDATA[CodexMonitor：专为开发者设计的本地 Codex AI 智能体编排与协作中心]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/285.html</link>

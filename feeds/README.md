@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Agent Studio： 一个原生、跨平台的 Agent 客户端](https://wangchujiang.com/quick-rss/issue/286.html) 
+
+![](https://github.com/user-attachments/assets/de9f1822-caba-4c41-9078-c974849ca1b4)
+
+Agent Studio 是一款基于 Rust 和 GPUI 构建的、轻量级的（约 10MB）、GPU 加速的跨平台桌面应用。它通过 ACP 协议深度整合了编辑器和终端，提供统一的界面。用户可以无缝调用 Claude Code、Gemini、Kimi 和通义千问等多种 AI Agent，高效地完成代码编写和任务管理。 🎯 特性 🤖 多代理支持 - 通过代理客户端协议 (ACP) 同时连接和与多 ([#286](https://github.com/jaywcjlove/quick-rss/issues/286) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [CodexMonitor：专为开发者设计的本地 Codex AI 智能体编排与协作中心](https://wangchujiang.com/quick-rss/issue/285.html) 
 
 ![](https://github.com/user-attachments/assets/46f98f77-9634-4d87-b61f-e6c62bd64550)

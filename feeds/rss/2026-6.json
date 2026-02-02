@@ -1,0 +1,16 @@
+[
+  {
+    "id": "286",
+    "url": "https://wangchujiang.com/quick-rss/issue/286.html",
+    "title": "Agent Studio： 一个原生、跨平台的 Agent 客户端",
+    "content_html": "<p>Agent Studio 是一款基于 Rust 和 GPUI 构建的、轻量级的（约 10MB）、GPU 加速的跨平台桌面应用。它通过 ACP 协议深度整合了编辑器和终端，提供统一的界面。用户可以无缝调用 Claude Code、Gemini、Kimi 和通义千问等多种 AI Agent，高效地完成代码编写和任务管理。</p>\n<img alt=\"Agent Studio\" src=\"https://github.com/user-attachments/assets/de9f1822-caba-4c41-9078-c974849ca1b4\">\n<img alt=\"Agent Studio\" src=\"https://github.com/user-attachments/assets/b167a381-8460-44bd-91b3-4650017f9c39\">\n<h3>🎯 特性</h3>\n<ul>\n<li>🤖 多代理支持 - 通过代理客户端协议 (ACP) 同时连接和与多个 AI 代理聊天</li>\n<li>💬 实时对话 - 流式响应，支持思考块和工具调用</li>\n<li>📝 内置代码编辑器 - 支持 LSP 的编辑器，具有语法高亮和自动完成</li>\n<li>🖥️ 集成终端 - 无需离开应用即可执行命令</li>\n<li>🎨 可定制的停靠系统 - 拖放面板以创建您的完美工作空间</li>\n<li>🌍 国际化 - 支持多种语言（English、简体中文）</li>\n<li>🎭 主题支持 - 浅色和深色主题，可自定义颜色</li>\n<li>📊 会话管理 - 跨多个会话组织对话</li>\n<li>🔧 工具调用查看器 - 详细检查代理工具执行</li>\n<li>💾 自动保存 - 通过自动会话持久化永不丢失工作</li>\n<li>⚡ GPU 加速 - 由 GPUI 框架提供的超快 UI</li>\n</ul>",
+    "summary": "Agent Studio 是一款基于 Rust 和 GPUI 构建的、轻量级的（约 10MB）、GPU 加速的跨平台桌面应用。它通过 ACP 协议深度整合了编辑器和终端，提供统一的界面。用户可以无缝调用 Claude Code、Gemini、Kimi 和通义千问等多种 AI Agent，高效地完成代码编写和任务管理。 ### 🎯 特性 - 🤖 多代理支持 - 通过代理客户端协议 (ACP) 同",
+    "banner_image": null,
+    "date_published": "2026-02-02T15:43:33Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Agent Studio 是一款基于 Rust 和 GPUI 构建的、轻量级的（约 10MB）、GPU 加速的跨平台桌面应用。它通过 ACP 协议深度整合了编辑器和终端，提供统一的界面。用户可以无缝调用 Claude Code、Gemini、Kimi 和通义千问等多种 AI Agent，高效地完成代码编写和任务管理。\n\n<img  alt=\"Agent Studio\" src=\"https://github.com/user-attachments/assets/de9f1822-caba-4c41-9078-c974849ca1b4\" />\n\n<img alt=\"Agent Studio\" src=\"https://github.com/user-attachments/assets/b167a381-8460-44bd-91b3-4650017f9c39\" />\n\n### 🎯 特性\n\n- 🤖 多代理支持 - 通过代理客户端协议 (ACP) 同时连接和与多个 AI 代理聊天\n- 💬 实时对话 - 流式响应，支持思考块和工具调用\n- 📝 内置代码编辑器 - 支持 LSP 的编辑器，具有语法高亮和自动完成\n- 🖥️ 集成终端 - 无需离开应用即可执行命令\n- 🎨 可定制的停靠系统 - 拖放面板以创建您的完美工作空间\n- 🌍 国际化 - 支持多种语言（English、简体中文）\n- 🎭 主题支持 - 浅色和深色主题，可自定义颜色\n- 📊 会话管理 - 跨多个会话组织对话\n- 🔧 工具调用查看器 - 详细检查代理工具执行\n- 💾 自动保存 - 通过自动会话持久化永不丢失工作\n- ⚡ GPU 加速 - 由 GPUI 框架提供的超快 UI"
+  }
+]

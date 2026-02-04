@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "287",
+            "content_html": "<p>一款为 Windows 打造的精美剪贴板历史管理工具，基于 Rust + Tauri + React + TypeScript 构建。</p>\n<img alt=\"PastePaw\" src=\"https://github.com/user-attachments/assets/2725c35e-c3a3-4bf4-b308-0e10db003173\">\n<h3>功能特性</h3>\n<ol>\n<li>🔒 隐私安全 - 这一点至关重要！所有数据仅存储在本地，绝不上传。</li>\n<li>🎨 精美界面 - 现代化的深色/浅色主题，支持即时切换，配合流畅的动画效果。</li>\n<li>⚡ 轻量极速 - 基于 Rust 构建，性能强劲，资源占用极低。</li>\n<li>⌨️ 自定义快捷键 - 设置您习惯的快捷键来随时呼出历史记录。</li>\n<li>📋 历史记录 - 自动保存您复制的所有内容。</li>\n<li>🖥️ 多显示器支持 - 智能跟随，始终在鼠标所在的活动显示器上显示。</li>\n<li>🔍 快速搜索 - 即使历史记录再多，也能秒级找到复制过的内容。</li>\n<li>📁 文件夹管理 - 将常用的剪贴内容分类整理到自定义文件夹。</li>\n<li>🚫 应用屏蔽 (排除列表) - 自动忽略来自特定敏感应用（如密码管理器）的内容，保护隐私。</li>\n<li>🔄 无限滚动 - 无缝浏览无限的历史记录，无需翻页。</li>\n<li>🛡️ 智能过滤 - 采用智能防抖逻辑，自动忽略来自其他剪贴板工具（如翻译软件、输入法）的“幽灵复制”。</li>\n<li>🤖 AI 智能助手 - 内置 AI 功能，支持一键总结、翻译、解释代码以及修复语法错误。</li>\n<li>⚙️ 高度可自定义 AI - 支持在设置中完全自定义 AI 功能的名称以及系统提示词 (Prompt)，打造专属您的 AI 工作流。</li>\n</ol><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/287\" target=\"_blank\">#287</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/287.html",
+            "title": "PastePaw：一款为 Windows 打造的精美剪贴板历史管理工具",
+            "summary": "一款为 Windows 打造的精美剪贴板历史管理工具，基于 Rust + Tauri + React + TypeScript 构建。 功能特性 🔒 隐私安全 - 这一点至关重要！所有数据仅存储在本地，绝不上传。 🎨 精美界面 - 现代化的深色/浅色主题，支持即时切换，配合流畅的动画效果。 ⚡ 轻量极速 - 基于 Rust 构建，性能强劲，资源占用极低。 ⌨️ 自定义快捷键 - 设置您习惯的快",
+            "image": "https://github.com/user-attachments/assets/2725c35e-c3a3-4bf4-b308-0e10db003173",
+            "date_modified": "2026-02-04T11:33:04.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "286",
             "content_html": "<p>Agent Studio 是一款基于 Rust 和 GPUI 构建的、轻量级的（约 10MB）、GPU 加速的跨平台桌面应用。它通过 ACP 协议深度整合了编辑器和终端，提供统一的界面。用户可以无缝调用 Claude Code、Gemini、Kimi 和通义千问等多种 AI Agent，高效地完成代码编写和任务管理。</p>\n<img alt=\"Agent Studio\" src=\"https://github.com/user-attachments/assets/de9f1822-caba-4c41-9078-c974849ca1b4\">\n<img alt=\"Agent Studio\" src=\"https://github.com/user-attachments/assets/b167a381-8460-44bd-91b3-4650017f9c39\">\n<h3>🎯 特性</h3>\n<ul>\n<li>🤖 多代理支持 - 通过代理客户端协议 (ACP) 同时连接和与多个 AI 代理聊天</li>\n<li>💬 实时对话 - 流式响应，支持思考块和工具调用</li>\n<li>📝 内置代码编辑器 - 支持 LSP 的编辑器，具有语法高亮和自动完成</li>\n<li>🖥️ 集成终端 - 无需离开应用即可执行命令</li>\n<li>🎨 可定制的停靠系统 - 拖放面板以创建您的完美工作空间</li>\n<li>🌍 国际化 - 支持多种语言（English、简体中文）</li>\n<li>🎭 主题支持 - 浅色和深色主题，可自定义颜色</li>\n<li>📊 会话管理 - 跨多个会话组织对话</li>\n<li>🔧 工具调用查看器 - 详细检查代理工具执行</li>\n<li>💾 自动保存 - 通过自动会话持久化永不丢失工作</li>\n<li>⚡ GPU 加速 - 由 GPUI 框架提供的超快 UI</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/286\" target=\"_blank\">#286</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/286.html",

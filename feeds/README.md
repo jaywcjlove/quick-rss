@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [GoogleDriveSync：菜单栏应用，用于无缝同步 Google Drive](https://wangchujiang.com/quick-rss/issue/289.html) 
+
+![](https://github.com/user-attachments/assets/2a2d3557-4509-4f15-b148-6157260fa432)
+
+GoogleDriveSync 是一款专为 macOS 打造的轻量级原生菜单栏应用，让 Google Drive 同步变得前所未有的简单与高效。 极致轻量，告别臃肿：应用体积仅约 80MB，仅为官方客户端的十分之一。拒绝多余的后台进程与资源占用，只保留最核心的同步功能。 多账号同时在线：无需频繁切换身份，即可同时管理多个 Google 账号。你可以灵活地将不同本地文件夹同步到不同的云端账号，轻松隔 ([#289](https://github.com/jaywcjlove/quick-rss/issues/289) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Itsyhome：菜单栏应用，用于控制HomeKit智能家居设备](https://wangchujiang.com/quick-rss/issue/288.html) 
 
 ![](https://github.com/user-attachments/assets/39e67c0c-64ca-493a-aeb2-a689e05fd9f4)

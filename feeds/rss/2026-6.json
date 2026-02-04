@@ -1,5 +1,19 @@
 [
   {
+    "id": "289",
+    "url": "https://wangchujiang.com/quick-rss/issue/289.html",
+    "title": "GoogleDriveSync：菜单栏应用，用于无缝同步 Google Drive",
+    "content_html": "<p>GoogleDriveSync 是一款专为 macOS 打造的轻量级原生菜单栏应用，让 Google Drive 同步变得前所未有的简单与高效。</p>\n<img alt=\"GoogleDriveSync\" src=\"https://github.com/user-attachments/assets/2a2d3557-4509-4f15-b148-6157260fa432\">\n<ul>\n<li>极致轻量，告别臃肿：应用体积仅约 80MB，仅为官方客户端的十分之一。拒绝多余的后台进程与资源占用，只保留最核心的同步功能。</li>\n<li>多账号同时在线：无需频繁切换身份，即可同时管理多个 Google 账号。你可以灵活地将不同本地文件夹同步到不同的云端账号，轻松隔离工作与生活。</li>\n<li>专为 Mac 设计：完全原生开发，完美适配 macOS 菜单栏。它能智能处理外接硬盘重新挂载（如路径名变更）等系统特性，确保同步永不断线。</li>\n<li>零门槛配置：无需终端命令或复杂的配置文件。安装、授权、选择文件夹——三步即可开启同步。</li>\n<li>底层性能强劲：内置 rclone 同步引擎，支持从 15 分钟到每天的自定义同步频率，并提供包含传输速度、文件数及错误报告的实时状态反馈。</li>\n</ul>",
+    "summary": "GoogleDriveSync 是一款专为 macOS 打造的轻量级原生菜单栏应用，让 Google Drive 同步变得前所未有的简单与高效。 - 极致轻量，告别臃肿：应用体积仅约 80MB，仅为官方客户端的十分之一。拒绝多余的后台进程与资源占用，只保留最核心的同步功能。 - 多账号同时在线：无需频繁切换身份，即可同时管理多个 Google 账号。你可以灵活地将不同本地文件夹同步到不同的云端账号",
+    "banner_image": null,
+    "date_published": "2026-02-04T17:52:30Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "GoogleDriveSync 是一款专为 macOS 打造的轻量级原生菜单栏应用，让 Google Drive 同步变得前所未有的简单与高效。\n\n<img  alt=\"GoogleDriveSync\" src=\"https://github.com/user-attachments/assets/2a2d3557-4509-4f15-b148-6157260fa432\" />\n\n- 极致轻量，告别臃肿：应用体积仅约 80MB，仅为官方客户端的十分之一。拒绝多余的后台进程与资源占用，只保留最核心的同步功能。\n- 多账号同时在线：无需频繁切换身份，即可同时管理多个 Google 账号。你可以灵活地将不同本地文件夹同步到不同的云端账号，轻松隔离工作与生活。\n- 专为 Mac 设计：完全原生开发，完美适配 macOS 菜单栏。它能智能处理外接硬盘重新挂载（如路径名变更）等系统特性，确保同步永不断线。\n- 零门槛配置：无需终端命令或复杂的配置文件。安装、授权、选择文件夹——三步即可开启同步。\n- 底层性能强劲：内置 rclone 同步引擎，支持从 15 分钟到每天的自定义同步频率，并提供包含传输速度、文件数及错误报告的实时状态反馈。"
+  },
+  {
     "id": "288",
     "url": "https://wangchujiang.com/quick-rss/issue/288.html",
     "title": "Itsyhome：菜单栏应用，用于控制HomeKit智能家居设备",

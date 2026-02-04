@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 04 Feb 2026 17:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 17:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,29 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GoogleDriveSync：菜单栏应用，用于无缝同步 Google Drive]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/289.html</link>
+            <guid isPermaLink="false">289</guid>
+            <pubDate>Wed, 04 Feb 2026 17:52:30 GMT</pubDate>
+            <description><![CDATA[GoogleDriveSync 是一款专为 macOS 打造的轻量级原生菜单栏应用，让 Google Drive 同步变得前所未有的简单与高效。 极致轻量，告别臃肿：应用体积仅约 80MB，仅为官方客户端的十分之一。拒绝多余的后台进程与资源占用，只保留最核心的同步功能。 多账号同时在线：无需频繁切换身份，即可同时管理多个 Google 账号。你可以灵活地将不同本地文件夹同步到不同的云端账号，轻松隔]]></description>
+            <content:encoded><![CDATA[<p>GoogleDriveSync 是一款专为 macOS 打造的轻量级原生菜单栏应用，让 Google Drive 同步变得前所未有的简单与高效。</p>
+<img alt="GoogleDriveSync" src="https://github.com/user-attachments/assets/2a2d3557-4509-4f15-b148-6157260fa432">
+<ul>
+<li>极致轻量，告别臃肿：应用体积仅约 80MB，仅为官方客户端的十分之一。拒绝多余的后台进程与资源占用，只保留最核心的同步功能。</li>
+<li>多账号同时在线：无需频繁切换身份，即可同时管理多个 Google 账号。你可以灵活地将不同本地文件夹同步到不同的云端账号，轻松隔离工作与生活。</li>
+<li>专为 Mac 设计：完全原生开发，完美适配 macOS 菜单栏。它能智能处理外接硬盘重新挂载（如路径名变更）等系统特性，确保同步永不断线。</li>
+<li>零门槛配置：无需终端命令或复杂的配置文件。安装、授权、选择文件夹——三步即可开启同步。</li>
+<li>底层性能强劲：内置 rclone 同步引擎，支持从 15 分钟到每天的自定义同步频率，并提供包含传输速度、文件数及错误报告的实时状态反馈。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/289" target="_blank">#289</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/2a2d3557-4509-4f15-b148-6157260fa432" length="0" type="image//user-attachments/assets/2a2d3557-4509-4f15-b148-6157260fa432"/>
+        </item>
         <item>
             <title><![CDATA[Itsyhome：菜单栏应用，用于控制HomeKit智能家居设备]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/288.html</link>

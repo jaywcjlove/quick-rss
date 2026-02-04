@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "288",
+            "content_html": "<p>ItsyHome 是一款为 macOS 原生打造的菜单栏应用，旨在让你无需离开当前工作流即可掌控全屋智能设备。</p>\n<img alt=\"Itsyhome\" src=\"https://github.com/user-attachments/assets/39e67c0c-64ca-493a-aeb2-a689e05fd9f4\">\n<ul>\n<li>全能控制：深度支持灯光、插座、窗帘、温控器及安防系统等几乎所有 HomeKit 设备类目。</li>\n<li>极致原生：基于 AppKit 构建，提供纯正的 macOS 视觉体验；支持将特定设备、场景或房间直接**固定（Pin）**到菜单栏，并自定义快捷键。</li>\n<li>高效联动：不仅支持执行场景，还能利用 DeepLinks、Webhooks 和 CLI 工具，将智能家居与 Shortcuts、Raycast 或 Stream Deck 完美融合 (Pro)。</li>\n<li>实时监控：Pro 版本支持摄像头实时流预览，并在门铃响起时自动弹出画面，配合覆盖按钮即可一键开锁或开灯。</li>\n<li>多端同步：通过 iCloud 在多台 Mac 间同步你的偏好设置与自定义分组。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/288\" target=\"_blank\">#288</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/288.html",
+            "title": "Itsyhome：菜单栏应用，用于控制HomeKit智能家居设备",
+            "summary": "ItsyHome 是一款为 macOS 原生打造的菜单栏应用，旨在让你无需离开当前工作流即可掌控全屋智能设备。 全能控制：深度支持灯光、插座、窗帘、温控器及安防系统等几乎所有 HomeKit 设备类目。 极致原生：基于 AppKit 构建，提供纯正的 macOS 视觉体验；支持将特定设备、场景或房间直接**固定（Pin）**到菜单栏，并自定义快捷键。 高效联动：不仅支持执行场景，还能利用 Deep",
+            "image": "https://github.com/user-attachments/assets/39e67c0c-64ca-493a-aeb2-a689e05fd9f4",
+            "date_modified": "2026-02-04T17:40:32.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "287",
             "content_html": "<p>一款为 Windows 打造的精美剪贴板历史管理工具，基于 Rust + Tauri + React + TypeScript 构建。</p>\n<img alt=\"PastePaw\" src=\"https://github.com/user-attachments/assets/2725c35e-c3a3-4bf4-b308-0e10db003173\">\n<h3>功能特性</h3>\n<ol>\n<li>🔒 隐私安全 - 这一点至关重要！所有数据仅存储在本地，绝不上传。</li>\n<li>🎨 精美界面 - 现代化的深色/浅色主题，支持即时切换，配合流畅的动画效果。</li>\n<li>⚡ 轻量极速 - 基于 Rust 构建，性能强劲，资源占用极低。</li>\n<li>⌨️ 自定义快捷键 - 设置您习惯的快捷键来随时呼出历史记录。</li>\n<li>📋 历史记录 - 自动保存您复制的所有内容。</li>\n<li>🖥️ 多显示器支持 - 智能跟随，始终在鼠标所在的活动显示器上显示。</li>\n<li>🔍 快速搜索 - 即使历史记录再多，也能秒级找到复制过的内容。</li>\n<li>📁 文件夹管理 - 将常用的剪贴内容分类整理到自定义文件夹。</li>\n<li>🚫 应用屏蔽 (排除列表) - 自动忽略来自特定敏感应用（如密码管理器）的内容，保护隐私。</li>\n<li>🔄 无限滚动 - 无缝浏览无限的历史记录，无需翻页。</li>\n<li>🛡️ 智能过滤 - 采用智能防抖逻辑，自动忽略来自其他剪贴板工具（如翻译软件、输入法）的“幽灵复制”。</li>\n<li>🤖 AI 智能助手 - 内置 AI 功能，支持一键总结、翻译、解释代码以及修复语法错误。</li>\n<li>⚙️ 高度可自定义 AI - 支持在设置中完全自定义 AI 功能的名称以及系统提示词 (Prompt)，打造专属您的 AI 工作流。</li>\n</ol><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/287\" target=\"_blank\">#287</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/287.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Itsyhome：菜单栏应用，用于控制HomeKit智能家居设备](https://wangchujiang.com/quick-rss/issue/288.html) 
+
+![](https://github.com/user-attachments/assets/39e67c0c-64ca-493a-aeb2-a689e05fd9f4)
+
+ItsyHome 是一款为 macOS 原生打造的菜单栏应用，旨在让你无需离开当前工作流即可掌控全屋智能设备。 全能控制：深度支持灯光、插座、窗帘、温控器及安防系统等几乎所有 HomeKit 设备类目。 极致原生：基于 AppKit 构建，提供纯正的 macOS 视觉体验；支持将特定设备、场景或房间直接**固定（Pin）**到菜单栏，并自定义快捷键。 高效联动：不仅支持执行场景，还能利用 Deep ([#288](https://github.com/jaywcjlove/quick-rss/issues/288) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [PastePaw：一款为 Windows 打造的精美剪贴板历史管理工具](https://wangchujiang.com/quick-rss/issue/287.html) 
 
 ![](https://github.com/user-attachments/assets/2725c35e-c3a3-4bf4-b308-0e10db003173)

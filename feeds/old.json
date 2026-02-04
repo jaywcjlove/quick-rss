@@ -1,5 +1,19 @@
 [
   {
+    "id": "288",
+    "url": "https://wangchujiang.com/quick-rss/issue/288.html",
+    "title": "Itsyhome：菜单栏应用，用于控制HomeKit智能家居设备",
+    "content_html": "<p>ItsyHome 是一款为 macOS 原生打造的菜单栏应用，旨在让你无需离开当前工作流即可掌控全屋智能设备。</p>\n<img alt=\"Itsyhome\" src=\"https://github.com/user-attachments/assets/39e67c0c-64ca-493a-aeb2-a689e05fd9f4\">\n<ul>\n<li>全能控制：深度支持灯光、插座、窗帘、温控器及安防系统等几乎所有 HomeKit 设备类目。</li>\n<li>极致原生：基于 AppKit 构建，提供纯正的 macOS 视觉体验；支持将特定设备、场景或房间直接**固定（Pin）**到菜单栏，并自定义快捷键。</li>\n<li>高效联动：不仅支持执行场景，还能利用 DeepLinks、Webhooks 和 CLI 工具，将智能家居与 Shortcuts、Raycast 或 Stream Deck 完美融合 (Pro)。</li>\n<li>实时监控：Pro 版本支持摄像头实时流预览，并在门铃响起时自动弹出画面，配合覆盖按钮即可一键开锁或开灯。</li>\n<li>多端同步：通过 iCloud 在多台 Mac 间同步你的偏好设置与自定义分组。</li>\n</ul>",
+    "summary": "ItsyHome 是一款为 macOS 原生打造的菜单栏应用，旨在让你无需离开当前工作流即可掌控全屋智能设备。 - 全能控制：深度支持灯光、插座、窗帘、温控器及安防系统等几乎所有 HomeKit 设备类目。 - 极致原生：基于 AppKit 构建，提供纯正的 macOS 视觉体验；支持将特定设备、场景或房间直接**固定（Pin）**到菜单栏，并自定义快捷键。 - 高效联动：不仅支持执行场景，还能利",
+    "banner_image": null,
+    "date_published": "2026-02-04T17:40:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "ItsyHome 是一款为 macOS 原生打造的菜单栏应用，旨在让你无需离开当前工作流即可掌控全屋智能设备。\n\n<img alt=\"Itsyhome\" src=\"https://github.com/user-attachments/assets/39e67c0c-64ca-493a-aeb2-a689e05fd9f4\" />\n\n- 全能控制：深度支持灯光、插座、窗帘、温控器及安防系统等几乎所有 HomeKit 设备类目。\n- 极致原生：基于 AppKit 构建，提供纯正的 macOS 视觉体验；支持将特定设备、场景或房间直接**固定（Pin）**到菜单栏，并自定义快捷键。\n- 高效联动：不仅支持执行场景，还能利用 DeepLinks、Webhooks 和 CLI 工具，将智能家居与 Shortcuts、Raycast 或 Stream Deck 完美融合 (Pro)。\n- 实时监控：Pro 版本支持摄像头实时流预览，并在门铃响起时自动弹出画面，配合覆盖按钮即可一键开锁或开灯。\n- 多端同步：通过 iCloud 在多台 Mac 间同步你的偏好设置与自定义分组。"
+  },
+  {
     "id": "287",
     "url": "https://wangchujiang.com/quick-rss/issue/287.html",
     "title": "PastePaw：一款为 Windows 打造的精美剪贴板历史管理工具",

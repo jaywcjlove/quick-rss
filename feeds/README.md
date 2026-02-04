@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [PastePaw：一款为 Windows 打造的精美剪贴板历史管理工具](https://wangchujiang.com/quick-rss/issue/287.html) 
+
+![](https://github.com/user-attachments/assets/2725c35e-c3a3-4bf4-b308-0e10db003173)
+
+一款为 Windows 打造的精美剪贴板历史管理工具，基于 Rust + Tauri + React + TypeScript 构建。 功能特性 🔒 隐私安全 - 这一点至关重要！所有数据仅存储在本地，绝不上传。 🎨 精美界面 - 现代化的深色/浅色主题，支持即时切换，配合流畅的动画效果。 ⚡ 轻量极速 - 基于 Rust 构建，性能强劲，资源占用极低。 ⌨️ 自定义快捷键 - 设置您习惯的快 ([#287](https://github.com/jaywcjlove/quick-rss/issues/287) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Agent Studio： 一个原生、跨平台的 Agent 客户端](https://wangchujiang.com/quick-rss/issue/286.html) 
 
 ![](https://github.com/user-attachments/assets/de9f1822-caba-4c41-9078-c974849ca1b4)

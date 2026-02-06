@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Itsytv：用于控制 Apple TV 的本机 macOS 菜单栏应用程序](https://wangchujiang.com/quick-rss/issue/291.html) 
+
+![](https://github.com/user-attachments/assets/fdd86222-e4ad-455f-ba98-86d407899da4)
+
+一款专为 macOS 打造的原生菜单栏应用，让您在 Mac 上随心掌控 Apple TV。 功能特性 菜单栏遥控器 — 通过紧凑的悬浮面板，直接从菜单栏控制您的 Apple TV。 方向键与功能键 — 经典的圆形方向键设计，支持方向导航、确认、主屏幕、菜单/返回以及播放/暂停。 键盘同步操作 — 深度适配 Mac 键盘：使用方向键、回车键 (Return)、退格键 (Backspace)、退出键  ([#291](https://github.com/jaywcjlove/quick-rss/issues/291) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Clash Master：优雅且现代化的 OpenClash 流量可视化分析工具](https://wangchujiang.com/quick-rss/issue/290.html) 
 
 ![](https://github.com/user-attachments/assets/40dfc0b2-4d2d-492d-979d-cbc4a52a0087)

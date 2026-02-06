@@ -1,5 +1,19 @@
 [
   {
+    "id": "291",
+    "url": "https://wangchujiang.com/quick-rss/issue/291.html",
+    "title": "Itsytv：用于控制 Apple TV 的本机 macOS 菜单栏应用程序",
+    "content_html": "<p>一款专为 macOS 打造的原生菜单栏应用，让您在 Mac 上随心掌控 Apple TV。</p>\n<img alt=\"Itsytv\" src=\"https://github.com/user-attachments/assets/fdd86222-e4ad-455f-ba98-86d407899da4\">\n<img alt=\"Itsytv\" src=\"https://github.com/user-attachments/assets/e3b5e776-37a7-463a-aea7-1cea7c9b38dd\">\n<h3>功能特性</h3>\n<ul>\n<li><strong>菜单栏遥控器</strong> — 通过紧凑的悬浮面板，直接从菜单栏控制您的 Apple TV。</li>\n<li><strong>方向键与功能键</strong> — 经典的圆形方向键设计，支持方向导航、确认、主屏幕、菜单/返回以及播放/暂停。</li>\n<li><strong>键盘同步操作</strong> — 深度适配 Mac 键盘：使用方向键、回车键 (Return)、退格键 (Backspace)、退出键 (Escape) 和空格键即可映射遥控器按键。</li>\n<li><strong>文本输入</strong> — 支持实时键盘输入，直接在 Mac 上为 Apple TV 的文本框录入文字。</li>\n<li><strong>正在播放</strong> — 实时展示专辑封面、歌名、艺术家、进度条及播放控制。</li>\n<li><strong>应用启动器</strong> — 网格化展示已安装的 App，并自动抓取 App Store 官方图标。</li>\n<li><strong>多设备支持</strong> — 支持配对并在多台 Apple TV 之间快速切换。</li>\n<li><strong>全局热键</strong> — 自定义键盘快捷键，一键唤起指定 Apple TV 的控制面板。</li>\n<li><strong>位置记忆</strong> — 为每台 Apple TV 记住独立的面板摆放位置。</li>\n<li><strong>开机自启</strong> — 支持从菜单栏设置随系统自动启动。</li>\n<li><strong>快捷解绑</strong> — 可直接在面板菜单中移除配对凭据。</li>\n</ul>",
+    "summary": "一款专为 macOS 打造的原生菜单栏应用，让您在 Mac 上随心掌控 Apple TV。 ### 功能特性 * **菜单栏遥控器** — 通过紧凑的悬浮面板，直接从菜单栏控制您的 Apple TV。 * **方向键与功能键** — 经典的圆形方向键设计，支持方向导航、确认、主屏幕、菜单/返回以及播放/暂停。 * **键盘同步操作** — 深度适配 Mac 键盘：使用方向键、回车键 (Return",
+    "banner_image": null,
+    "date_published": "2026-02-06T18:39:59Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款专为 macOS 打造的原生菜单栏应用，让您在 Mac 上随心掌控 Apple TV。\n\n<img alt=\"Itsytv\" src=\"https://github.com/user-attachments/assets/fdd86222-e4ad-455f-ba98-86d407899da4\" />\n\n<img alt=\"Itsytv\" src=\"https://github.com/user-attachments/assets/e3b5e776-37a7-463a-aea7-1cea7c9b38dd\" />\n\n### 功能特性\n\n* **菜单栏遥控器** — 通过紧凑的悬浮面板，直接从菜单栏控制您的 Apple TV。\n* **方向键与功能键** — 经典的圆形方向键设计，支持方向导航、确认、主屏幕、菜单/返回以及播放/暂停。\n* **键盘同步操作** — 深度适配 Mac 键盘：使用方向键、回车键 (Return)、退格键 (Backspace)、退出键 (Escape) 和空格键即可映射遥控器按键。\n* **文本输入** — 支持实时键盘输入，直接在 Mac 上为 Apple TV 的文本框录入文字。\n* **正在播放** — 实时展示专辑封面、歌名、艺术家、进度条及播放控制。\n* **应用启动器** — 网格化展示已安装的 App，并自动抓取 App Store 官方图标。\n* **多设备支持** — 支持配对并在多台 Apple TV 之间快速切换。\n* **全局热键** — 自定义键盘快捷键，一键唤起指定 Apple TV 的控制面板。\n* **位置记忆** — 为每台 Apple TV 记住独立的面板摆放位置。\n* **开机自启** — 支持从菜单栏设置随系统自动启动。\n* **快捷解绑** — 可直接在面板菜单中移除配对凭据。"
+  },
+  {
     "id": "290",
     "url": "https://wangchujiang.com/quick-rss/issue/290.html",
     "title": "Clash Master：优雅且现代化的 OpenClash 流量可视化分析工具",

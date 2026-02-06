@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 06 Feb 2026 18:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 18:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,37 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Itsytv：用于控制 Apple TV 的本机 macOS 菜单栏应用程序]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/291.html</link>
+            <guid isPermaLink="false">291</guid>
+            <pubDate>Fri, 06 Feb 2026 18:39:59 GMT</pubDate>
+            <description><![CDATA[一款专为 macOS 打造的原生菜单栏应用，让您在 Mac 上随心掌控 Apple TV。 功能特性 菜单栏遥控器 — 通过紧凑的悬浮面板，直接从菜单栏控制您的 Apple TV。 方向键与功能键 — 经典的圆形方向键设计，支持方向导航、确认、主屏幕、菜单/返回以及播放/暂停。 键盘同步操作 — 深度适配 Mac 键盘：使用方向键、回车键 (Return)、退格键 (Backspace)、退出键 ]]></description>
+            <content:encoded><![CDATA[<p>一款专为 macOS 打造的原生菜单栏应用，让您在 Mac 上随心掌控 Apple TV。</p>
+<img alt="Itsytv" src="https://github.com/user-attachments/assets/fdd86222-e4ad-455f-ba98-86d407899da4">
+<img alt="Itsytv" src="https://github.com/user-attachments/assets/e3b5e776-37a7-463a-aea7-1cea7c9b38dd">
+<h3>功能特性</h3>
+<ul>
+<li><strong>菜单栏遥控器</strong> — 通过紧凑的悬浮面板，直接从菜单栏控制您的 Apple TV。</li>
+<li><strong>方向键与功能键</strong> — 经典的圆形方向键设计，支持方向导航、确认、主屏幕、菜单/返回以及播放/暂停。</li>
+<li><strong>键盘同步操作</strong> — 深度适配 Mac 键盘：使用方向键、回车键 (Return)、退格键 (Backspace)、退出键 (Escape) 和空格键即可映射遥控器按键。</li>
+<li><strong>文本输入</strong> — 支持实时键盘输入，直接在 Mac 上为 Apple TV 的文本框录入文字。</li>
+<li><strong>正在播放</strong> — 实时展示专辑封面、歌名、艺术家、进度条及播放控制。</li>
+<li><strong>应用启动器</strong> — 网格化展示已安装的 App，并自动抓取 App Store 官方图标。</li>
+<li><strong>多设备支持</strong> — 支持配对并在多台 Apple TV 之间快速切换。</li>
+<li><strong>全局热键</strong> — 自定义键盘快捷键，一键唤起指定 Apple TV 的控制面板。</li>
+<li><strong>位置记忆</strong> — 为每台 Apple TV 记住独立的面板摆放位置。</li>
+<li><strong>开机自启</strong> — 支持从菜单栏设置随系统自动启动。</li>
+<li><strong>快捷解绑</strong> — 可直接在面板菜单中移除配对凭据。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/291" target="_blank">#291</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/fdd86222-e4ad-455f-ba98-86d407899da4" length="0" type="image//user-attachments/assets/fdd86222-e4ad-455f-ba98-86d407899da4"/>
+        </item>
         <item>
             <title><![CDATA[Clash Master：优雅且现代化的 OpenClash 流量可视化分析工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/290.html</link>

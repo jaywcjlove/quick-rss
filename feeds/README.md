@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Clash Master：优雅且现代化的 OpenClash 流量可视化分析工具](https://wangchujiang.com/quick-rss/issue/290.html) 
+
+![](https://github.com/user-attachments/assets/40dfc0b2-4d2d-492d-979d-cbc4a52a0087)
+
+现代而优雅的仪表板，用于可视化和管理 Clash 网络流量。 ([#290](https://github.com/jaywcjlove/quick-rss/issues/290) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [GoogleDriveSync：菜单栏应用，用于无缝同步 Google Drive](https://wangchujiang.com/quick-rss/issue/289.html) 
 
 ![](https://github.com/user-attachments/assets/2a2d3557-4509-4f15-b148-6157260fa432)

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 04 Feb 2026 17:53:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 18:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clash Master：优雅且现代化的 OpenClash 流量可视化分析工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/290.html</link>
+            <guid isPermaLink="false">290</guid>
+            <pubDate>Fri, 06 Feb 2026 18:30:40 GMT</pubDate>
+            <description><![CDATA[现代而优雅的仪表板，用于可视化和管理 Clash 网络流量。]]></description>
+            <content:encoded><![CDATA[<p>现代而优雅的仪表板，用于可视化和管理 Clash 网络流量。</p>
+<img alt="Clash Master" src="https://github.com/user-attachments/assets/40dfc0b2-4d2d-492d-979d-cbc4a52a0087"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/290" target="_blank">#290</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/40dfc0b2-4d2d-492d-979d-cbc4a52a0087" length="0" type="image//user-attachments/assets/40dfc0b2-4d2d-492d-979d-cbc4a52a0087"/>
+        </item>
         <item>
             <title><![CDATA[GoogleDriveSync：菜单栏应用，用于无缝同步 Google Drive]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/289.html</link>

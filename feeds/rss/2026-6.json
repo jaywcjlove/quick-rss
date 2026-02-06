@@ -1,5 +1,19 @@
 [
   {
+    "id": "290",
+    "url": "https://wangchujiang.com/quick-rss/issue/290.html",
+    "title": "Clash Master：优雅且现代化的 OpenClash 流量可视化分析工具",
+    "content_html": "<p>现代而优雅的仪表板，用于可视化和管理 Clash 网络流量。</p>\n<img alt=\"Clash Master\" src=\"https://github.com/user-attachments/assets/40dfc0b2-4d2d-492d-979d-cbc4a52a0087\">",
+    "summary": "现代而优雅的仪表板，用于可视化和管理 Clash 网络流量。",
+    "banner_image": null,
+    "date_published": "2026-02-06T18:30:40Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "现代而优雅的仪表板，用于可视化和管理 Clash 网络流量。\n\n<img  alt=\"Clash Master\" src=\"https://github.com/user-attachments/assets/40dfc0b2-4d2d-492d-979d-cbc4a52a0087\" />"
+  },
+  {
     "id": "289",
     "url": "https://wangchujiang.com/quick-rss/issue/289.html",
     "title": "GoogleDriveSync：菜单栏应用，用于无缝同步 Google Drive",

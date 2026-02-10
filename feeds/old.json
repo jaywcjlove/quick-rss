@@ -1,5 +1,19 @@
 [
   {
+    "id": "292",
+    "url": "https://wangchujiang.com/quick-rss/issue/292.html",
+    "title": "Paytick：macOS 实时工资计算器",
+    "content_html": "<p>一款常驻 macOS 菜单栏的 实时收入计算器（工资计算器 / Salary Calculator）。输入月薪和上下班时间，它会实时告诉你当前赚了多少钱 —— 精确到每一分钟。</p>\n<img alt=\"Paytick\" src=\"https://github.com/user-attachments/assets/4371fb9e-64a8-4dd9-85eb-4938f0ca2ee6\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<table><thead><tr><th align=\"center\">正常状态</th><th align=\"center\">隐私模式</th><th align=\"center\">加班提醒</th></tr></thead><tbody><tr><td align=\"center\"><img src=\"https://github.com/user-attachments/assets/4371fb9e-64a8-4dd9-85eb-4938f0ca2ee6\" alt=\"Normal State\"></td><td align=\"center\"><img src=\"https://github.com/user-attachments/assets/0d10727d-d6a6-4132-96c9-5bce806dbc03\" alt=\"Privacy Mode\"></td><td align=\"center\"><img src=\"https://github.com/user-attachments/assets/e0824c8c-a7ba-42b5-9660-99231229a699\" alt=\"Overtime Alert\"></td></tr><tr><td align=\"center\"><em>实时收入跳动</em></td><td align=\"center\"><em>一键遮住数字</em></td><td align=\"center\"><em>该下班了！</em></td></tr></tbody></table>\n<p>实时收入显示 — 菜单栏显示当前已赚金额，精确到分。支持按分钟计算收入率。</p>\n<p>愿望清单 — 想买什么东西？设置目标金额，看进度条慢慢填满。iPhone、相机、机票，随你定。</p>\n<p>加班提醒 — 过了下班时间还在干活？界面变红，提醒你时薪正在被稀释。</p>",
+    "summary": "一款常驻 macOS 菜单栏的 实时收入计算器（工资计算器 / Salary Calculator）。输入月薪和上下班时间，它会实时告诉你当前赚了多少钱 —— 精确到每一分钟。 | 正常状态 | 隐私模式 | 加班提醒 | | :---: | :---: | :---: | | | | | | *实时收入跳动* | *一键遮住数字* | *该下班了！* | 实时收入显示 — 菜单栏显示当前已赚金额",
+    "banner_image": "https://github.com/user-attachments/assets/4371fb9e-64a8-4dd9-85eb-4938f0ca2ee6",
+    "date_published": "2026-02-10T07:36:51Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款常驻 macOS 菜单栏的 实时收入计算器（工资计算器 / Salary Calculator）。输入月薪和上下班时间，它会实时告诉你当前赚了多少钱 —— 精确到每一分钟。\n\n<img  alt=\"Paytick\" src=\"https://github.com/user-attachments/assets/4371fb9e-64a8-4dd9-85eb-4938f0ca2ee6\" />\n\n| 正常状态 | 隐私模式 | 加班提醒 |\n| :---: | :---: | :---: |\n| ![Normal State](https://github.com/user-attachments/assets/4371fb9e-64a8-4dd9-85eb-4938f0ca2ee6) | ![Privacy Mode](https://github.com/user-attachments/assets/0d10727d-d6a6-4132-96c9-5bce806dbc03) | ![Overtime Alert](https://github.com/user-attachments/assets/e0824c8c-a7ba-42b5-9660-99231229a699) |\n| *实时收入跳动* | *一键遮住数字* | *该下班了！* |\n\n\n实时收入显示 — 菜单栏显示当前已赚金额，精确到分。支持按分钟计算收入率。\n\n愿望清单 — 想买什么东西？设置目标金额，看进度条慢慢填满。iPhone、相机、机票，随你定。\n\n加班提醒 — 过了下班时间还在干活？界面变红，提醒你时薪正在被稀释。"
+  },
+  {
     "id": "291",
     "url": "https://wangchujiang.com/quick-rss/issue/291.html",
     "title": "Itsytv：用于控制 Apple TV 的本机 macOS 菜单栏应用程序",

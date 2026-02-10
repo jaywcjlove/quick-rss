@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Paytick：macOS 实时工资计算器](https://wangchujiang.com/quick-rss/issue/292.html) 
+
+![](https://github.com/user-attachments/assets/4371fb9e-64a8-4dd9-85eb-4938f0ca2ee6)
+
+一款常驻 macOS 菜单栏的 实时收入计算器（工资计算器 / Salary Calculator）。输入月薪和上下班时间，它会实时告诉你当前赚了多少钱 —— 精确到每一分钟。 正常状态隐私模式加班提醒实时收入跳动一键遮住数字该下班了！ 实时收入显示 — 菜单栏显示当前已赚金额，精确到分。支持按分钟计算收入率。 愿望清单 — 想买什么东西？设置目标金额，看进度条慢慢填满。iPhone、相机、机票， ([#292](https://github.com/jaywcjlove/quick-rss/issues/292) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Itsytv：用于控制 Apple TV 的本机 macOS 菜单栏应用程序](https://wangchujiang.com/quick-rss/issue/291.html) 
 
 ![](https://github.com/user-attachments/assets/fdd86222-e4ad-455f-ba98-86d407899da4)

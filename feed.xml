@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-02-10T07:37:31.247Z</updated>
+    <updated>2026-02-10T08:03:31.423Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Textream：一款免费开源的提词器应用]]></title>
+        <id>293</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/293.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570" type="image//user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570"/>
+        <updated>2026-02-10T08:03:06.000Z</updated>
+        <summary type="html"><![CDATA[你把要讲的稿子/台词放进去，它会在屏幕上显示出来，并且能 跟着你说话的进度自动滚动，让你录视频、演讲、直播时不需要低头看稿。]]></summary>
+        <content type="html"><![CDATA[<p>你把要讲的稿子/台词放进去，它会在屏幕上显示出来，并且能 跟着你说话的进度自动滚动，让你录视频、演讲、直播时不需要低头看稿。</p>
+<p><img src="https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570" alt="Textream"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/293" target="_blank">#293</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paytick：macOS 实时工资计算器]]></title>
         <id>292</id>

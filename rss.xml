@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 10 Feb 2026 07:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 08:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Textream：一款免费开源的提词器应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/293.html</link>
+            <guid isPermaLink="false">293</guid>
+            <pubDate>Tue, 10 Feb 2026 08:03:06 GMT</pubDate>
+            <description><![CDATA[你把要讲的稿子/台词放进去，它会在屏幕上显示出来，并且能 跟着你说话的进度自动滚动，让你录视频、演讲、直播时不需要低头看稿。]]></description>
+            <content:encoded><![CDATA[<p>你把要讲的稿子/台词放进去，它会在屏幕上显示出来，并且能 跟着你说话的进度自动滚动，让你录视频、演讲、直播时不需要低头看稿。</p>
+<p><img src="https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570" alt="Textream"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/293" target="_blank">#293</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570" length="0" type="image//user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570"/>
+        </item>
         <item>
             <title><![CDATA[Paytick：macOS 实时工资计算器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/292.html</link>

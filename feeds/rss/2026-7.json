@@ -1,5 +1,19 @@
 [
   {
+    "id": "293",
+    "url": "https://wangchujiang.com/quick-rss/issue/293.html",
+    "title": "Textream：一款免费开源的提词器应用",
+    "content_html": "<p>你把要讲的稿子/台词放进去，它会在屏幕上显示出来，并且能 跟着你说话的进度自动滚动，让你录视频、演讲、直播时不需要低头看稿。</p>\n<p><img src=\"https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570\" alt=\"Textream\"></p>",
+    "summary": "你把要讲的稿子/台词放进去，它会在屏幕上显示出来，并且能 跟着你说话的进度自动滚动，让你录视频、演讲、直播时不需要低头看稿。",
+    "banner_image": "https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570",
+    "date_published": "2026-02-10T08:03:06Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "你把要讲的稿子/台词放进去，它会在屏幕上显示出来，并且能 跟着你说话的进度自动滚动，让你录视频、演讲、直播时不需要低头看稿。\n\n![Textream](https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570)"
+  },
+  {
     "id": "292",
     "url": "https://wangchujiang.com/quick-rss/issue/292.html",
     "title": "Paytick：macOS 实时工资计算器",

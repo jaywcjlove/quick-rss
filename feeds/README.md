@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Textream：一款免费开源的提词器应用](https://wangchujiang.com/quick-rss/issue/293.html) 
+
+![](https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570)
+
+你把要讲的稿子/台词放进去，它会在屏幕上显示出来，并且能 跟着你说话的进度自动滚动，让你录视频、演讲、直播时不需要低头看稿。 ([#293](https://github.com/jaywcjlove/quick-rss/issues/293) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Paytick：macOS 实时工资计算器](https://wangchujiang.com/quick-rss/issue/292.html) 
 
 ![](https://github.com/user-attachments/assets/4371fb9e-64a8-4dd9-85eb-4938f0ca2ee6)

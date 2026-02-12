@@ -11,6 +11,9 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SkillTools：一份技能，多工具共用](https://wangchujiang.com/quick-rss/issue/295.html) 
+
+用符号链接（软链接）将多个 AI 编程工具（如 Claude/Cursor/OpenCode）的 skills 目录统一指向同一源文件夹，实现“改一处，全工具同步生效”，避免重复维护。 痛点 如果你同时使用 Claude Code、Cursor、OpenCode 等多个 AI 编程工具，大概率遇到过这个问题： 给 Cursor 写了个好用的 Skill，想在 Claude Code 里也用，结果发 ([#295](https://github.com/jaywcjlove/quick-rss/issues/295) - [@zzu-ken](https://github.com/zzu-ken))
 ## [Textream：一款免费开源的提词器应用](https://wangchujiang.com/quick-rss/issue/293.html) 
 
 ![](https://github.com/user-attachments/assets/5d7af8ac-427c-4128-8a7e-ce7573cb3570)

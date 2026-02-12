@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-02-10T08:03:31.423Z</updated>
+    <updated>2026-02-12T11:43:10.355Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,98 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[SkillTools：一份技能，多工具共用]]></title>
+        <id>295</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/295.html"/>
+        <updated>2026-02-12T02:22:39.000Z</updated>
+        <summary type="html"><![CDATA[用符号链接（软链接）将多个 AI 编程工具（如 Claude/Cursor/OpenCode）的 skills 目录统一指向同一源文件夹，实现“改一处，全工具同步生效”，避免重复维护。 痛点 如果你同时使用 Claude Code、Cursor、OpenCode 等多个 AI 编程工具，大概率遇到过这个问题： 给 Cursor 写了个好用的 Skill，想在 Claude Code 里也用，结果发]]></summary>
+        <content type="html"><![CDATA[<p>用符号链接（软链接）将多个 AI 编程工具（如 Claude/Cursor/OpenCode）的 skills 目录统一指向同一源文件夹，实现“改一处，全工具同步生效”，避免重复维护。</p>
+<h2>痛点</h2>
+<p>如果你同时使用 Claude Code、Cursor、OpenCode 等多个 AI 编程工具，大概率遇到过这个问题：</p>
+<blockquote>
+<p>给 Cursor 写了个好用的 Skill，想在 Claude Code 里也用，结果发现还要手动复制一份……</p>
+</blockquote>
+<p>每个工具都维护自己的 skills 目录，改一次要同步 N 个地方，既麻烦又容易遗漏。</p>
+<h2>解决方案</h2>
+<p>用符号链接（软链接）把所有工具的 skills 目录指向同一个源文件夹。</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">~/.agents/skills/          ← 唯一需要维护的地方
+</span><span class="code-line line-number" line="2">    ├── commit/
+</span><span class="code-line line-number" line="3">    ├── pdf/
+</span><span class="code-line line-number" line="4">    └── review-pr/
+</span><span class="code-line line-number" line="5">
+</span><span class="code-line line-number" line="6">         ↓ 软链接
+</span><span class="code-line line-number" line="7">
+</span><span class="code-line line-number" line="8">~/.claude/skills/           → 同一份文件
+</span><span class="code-line line-number" line="9">~/.cursor/skills/           → 同一份文件
+</span><span class="code-line line-number" line="10">~/.config/opencode/skills/  → 同一份文件
+</span></code></pre>
+<p>改一处，所有工具立刻生效。</p>
+<h2>脚本功能</h2>
+<p><strong>skill-sync.sh</strong> 是个简单的 Bash 脚本，自动化搞定这件事：</p>
+<ul>
+<li><strong>自动发现工具</strong> — 自动检测你系统里装了哪些 AI 工具</li>
+<li><strong>智能创建链接</strong> — 遍历源目录，为每个工具创建符号链接</li>
+<li><strong>安全跳过</strong> — 已存在的非软链文件不会被覆盖</li>
+<li><strong>清理失效链接</strong> — 自动删除指向不存在源文件的链接</li>
+<li><strong>预览模式</strong> — <code>-d</code> 参数可以先看会做什么，不实际执行</li>
+</ul>
+<h2>支持的工具</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>工具</th><th>路径</th></tr></thead><tbody><tr><td>Claude Code</td><td><code>~/.claude/skills</code></td></tr><tr><td>Cursor</td><td><code>~/.cursor/skills</code></td></tr><tr><td>OpenCode</td><td><code>~/.config/opencode/skills</code></td></tr><tr><td>OpenClaw</td><td><code>~/.openclaw/skills</code></td></tr><tr><td>Codex</td><td><code>~/.codex/skills</code></td></tr></tbody></table>
+<h2>快速使用</h2>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1"><span class="token function">git</span> clone https://github.com/zzu-ken/ai-skills.git
+</span><span class="code-line line-number" line="2"><span class="token builtin class-name">cd</span> ai-skills
+</span><span class="code-line line-number" line="3"><span class="token function">chmod</span> +x skill-sync.sh
+</span><span class="code-line line-number" line="4">./skill-sync.sh
+</span></code></pre>
+<p>就这么简单，脚本会自动找到已安装的工具并完成同步。</p>
+<hr>
+<blockquote>
+<p>注：Cursor 目前有个已知 bug，暂不支持符号链接，官方计划在 2.5.x 版本修复。</p>
+</blockquote><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/295" target="_blank">#295</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/zzu-ken" target="_blank">@zzu-ken</a>
+      ]]></content>
+        <author>
+            <name>zzu-ken</name>
+            <uri>https://avatars.githubusercontent.com/u/21120805?v=4</uri>
+        </author>
+        <contributor>
+            <name>zzu-ken</name>
+            <uri>https://avatars.githubusercontent.com/u/21120805?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Textream：一款免费开源的提词器应用]]></title>
         <id>293</id>

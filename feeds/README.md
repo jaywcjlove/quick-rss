@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [LuxShot：极简原生 macOS 菜单栏 OCR 工具](https://wangchujiang.com/quick-rss/issue/297.html) 
+
+![](https://github.com/user-attachments/assets/21f42330-22f0-4dfc-9387-20a559e6499c)
+
+LuxShot 基于 SwiftUI 与 Apple Vision 框架构建，提供快速、隐私优先的屏幕文字识别体验，可直接从菜单栏进行操作。 主要特性 🖥️ 轻量级菜单栏应用，专注高效工作流 ⚡ 基于 Apple Vision 的即时 OCR 识别 📸 支持二维码与条形码识别 ✨ 智能文本格式控制（保留或移除换行） 🔗 自动识别链接并支持浏览器打开 📋 自动复制识别结果到剪贴板 🔊 内置 ([#297](https://github.com/jaywcjlove/quick-rss/issues/297) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [openHare：使用Flutter开发的AI SQL客户端](https://wangchujiang.com/quick-rss/issue/296.html) 
 
 ![](https://github.com/user-attachments/assets/207b1791-2eab-4c3b-9c55-14dd0195e34d)

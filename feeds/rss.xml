@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 24 Feb 2026 02:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 02:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,34 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LuxShot：极简原生 macOS 菜单栏 OCR 工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/297.html</link>
+            <guid isPermaLink="false">297</guid>
+            <pubDate>Tue, 24 Feb 2026 02:28:15 GMT</pubDate>
+            <description><![CDATA[LuxShot 基于 SwiftUI 与 Apple Vision 框架构建，提供快速、隐私优先的屏幕文字识别体验，可直接从菜单栏进行操作。 主要特性 🖥️ 轻量级菜单栏应用，专注高效工作流 ⚡ 基于 Apple Vision 的即时 OCR 识别 📸 支持二维码与条形码识别 ✨ 智能文本格式控制（保留或移除换行） 🔗 自动识别链接并支持浏览器打开 📋 自动复制识别结果到剪贴板 🔊 内置]]></description>
+            <content:encoded><![CDATA[<p>LuxShot 基于 SwiftUI 与 Apple Vision 框架构建，提供快速、隐私优先的屏幕文字识别体验，可直接从菜单栏进行操作。</p>
+<img alt="LuxShot" src="https://github.com/user-attachments/assets/21f42330-22f0-4dfc-9387-20a559e6499c">
+<h3>主要特性</h3>
+<ul>
+<li>🖥️ 轻量级菜单栏应用，专注高效工作流</li>
+<li>⚡ 基于 Apple Vision 的即时 OCR 识别</li>
+<li>📸 支持二维码与条形码识别</li>
+<li>✨ 智能文本格式控制（保留或移除换行）</li>
+<li>🔗 自动识别链接并支持浏览器打开</li>
+<li>📋 自动复制识别结果到剪贴板</li>
+<li>🔊 内置文本转语音（TTS）功能</li>
+<li>📜 支持历史记录管理</li>
+<li>🔒 全部本地处理，隐私优先</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/297" target="_blank">#297</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/21f42330-22f0-4dfc-9387-20a559e6499c" length="0" type="image//user-attachments/assets/21f42330-22f0-4dfc-9387-20a559e6499c"/>
+        </item>
         <item>
             <title><![CDATA[openHare：使用Flutter开发的AI SQL客户端]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/296.html</link>

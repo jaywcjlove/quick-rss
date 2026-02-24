@@ -1,5 +1,19 @@
 [
   {
+    "id": "296",
+    "url": "https://wangchujiang.com/quick-rss/issue/296.html",
+    "title": "openHare：使用Flutter开发的AI SQL客户端",
+    "content_html": "<p>一款基于 Flutter 构建的专业跨平台桌面 SQL 查询工具。它面向数据库管理员、开发者和数据分析师，提供现代化、强大且直观的数据库管理与查询体验。</p>\n<img alt=\"openHare\" src=\"https://github.com/user-attachments/assets/207b1791-2eab-4c3b-9c55-14dd0195e34d\">\n<p>openhare 专注于提升生产力、清晰度与可扩展性，同时基于 Apache License 2.0 开源协议发布，保持透明与社区驱动的发展模式。</p>\n<h2>主要特性</h2>\n<ul>\n<li>\n<p><strong>AI 智能辅助</strong>\n提供增强的 AI 功能，帮助编写、优化和理解 SQL 查询，提高工作效率。</p>\n</li>\n<li>\n<p><strong>跨平台支持</strong>\n可在 Windows、macOS 和 Linux 上无缝运行，体验一致。</p>\n</li>\n<li>\n<p><strong>完全开源</strong>\n采用 Apache License 2.0 许可证，鼓励社区协作与贡献。</p>\n</li>\n<li>\n<p><strong>简洁直观的界面</strong>\n现代化 UI 设计，专注易用性与高效工作流。</p>\n</li>\n<li>\n<p><strong>多数据库支持</strong>\n可轻松连接并管理多种 SQL 数据库。</p>\n</li>\n</ul>",
+    "summary": "一款基于 Flutter 构建的专业跨平台桌面 SQL 查询工具。它面向数据库管理员、开发者和数据分析师，提供现代化、强大且直观的数据库管理与查询体验。 openhare 专注于提升生产力、清晰度与可扩展性，同时基于 Apache License 2.0 开源协议发布，保持透明与社区驱动的发展模式。 ## 主要特性 * **AI 智能辅助** 提供增强的 AI 功能，帮助编写、优化和理解 SQL ",
+    "banner_image": null,
+    "date_published": "2026-02-24T02:16:39Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款基于 Flutter 构建的专业跨平台桌面 SQL 查询工具。它面向数据库管理员、开发者和数据分析师，提供现代化、强大且直观的数据库管理与查询体验。\n\n<img alt=\"openHare\" src=\"https://github.com/user-attachments/assets/207b1791-2eab-4c3b-9c55-14dd0195e34d\" />\n\nopenhare 专注于提升生产力、清晰度与可扩展性，同时基于 Apache License 2.0 开源协议发布，保持透明与社区驱动的发展模式。\n\n## 主要特性\n\n* **AI 智能辅助**\n  提供增强的 AI 功能，帮助编写、优化和理解 SQL 查询，提高工作效率。\n\n* **跨平台支持**\n  可在 Windows、macOS 和 Linux 上无缝运行，体验一致。\n\n* **完全开源**\n  采用 Apache License 2.0 许可证，鼓励社区协作与贡献。\n\n* **简洁直观的界面**\n  现代化 UI 设计，专注易用性与高效工作流。\n\n* **多数据库支持**\n  可轻松连接并管理多种 SQL 数据库。"
+  },
+  {
     "id": "295",
     "url": "https://wangchujiang.com/quick-rss/issue/295.html",
     "title": "SkillTools：一份技能，多工具共用",

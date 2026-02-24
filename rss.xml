@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 12 Feb 2026 11:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 02:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,46 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[openHare：使用Flutter开发的AI SQL客户端]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/296.html</link>
+            <guid isPermaLink="false">296</guid>
+            <pubDate>Tue, 24 Feb 2026 02:16:39 GMT</pubDate>
+            <description><![CDATA[一款基于 Flutter 构建的专业跨平台桌面 SQL 查询工具。它面向数据库管理员、开发者和数据分析师，提供现代化、强大且直观的数据库管理与查询体验。 openhare 专注于提升生产力、清晰度与可扩展性，同时基于 Apache License 2.0 开源协议发布，保持透明与社区驱动的发展模式。 主要特性 AI 智能辅助 提供增强的 AI 功能，帮助编写、优化和理解 SQL 查询，提高工作效率]]></description>
+            <content:encoded><![CDATA[<p>一款基于 Flutter 构建的专业跨平台桌面 SQL 查询工具。它面向数据库管理员、开发者和数据分析师，提供现代化、强大且直观的数据库管理与查询体验。</p>
+<img alt="openHare" src="https://github.com/user-attachments/assets/207b1791-2eab-4c3b-9c55-14dd0195e34d">
+<p>openhare 专注于提升生产力、清晰度与可扩展性，同时基于 Apache License 2.0 开源协议发布，保持透明与社区驱动的发展模式。</p>
+<h2>主要特性</h2>
+<ul>
+<li>
+<p><strong>AI 智能辅助</strong>
+提供增强的 AI 功能，帮助编写、优化和理解 SQL 查询，提高工作效率。</p>
+</li>
+<li>
+<p><strong>跨平台支持</strong>
+可在 Windows、macOS 和 Linux 上无缝运行，体验一致。</p>
+</li>
+<li>
+<p><strong>完全开源</strong>
+采用 Apache License 2.0 许可证，鼓励社区协作与贡献。</p>
+</li>
+<li>
+<p><strong>简洁直观的界面</strong>
+现代化 UI 设计，专注易用性与高效工作流。</p>
+</li>
+<li>
+<p><strong>多数据库支持</strong>
+可轻松连接并管理多种 SQL 数据库。</p>
+</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/296" target="_blank">#296</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/207b1791-2eab-4c3b-9c55-14dd0195e34d" length="0" type="image//user-attachments/assets/207b1791-2eab-4c3b-9c55-14dd0195e34d"/>
+        </item>
         <item>
             <title><![CDATA[SkillTools：一份技能，多工具共用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/295.html</link>

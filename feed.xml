@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-02-24T02:30:15.148Z</updated>
+    <updated>2026-02-24T03:48:54.710Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,40 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Configs：配置文件管理器，用于快速查看、编辑和管理配置文件]]></title>
+        <id>298</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/298.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/e53085a1-c554-4a4a-bc11-56256ab30fc6" type="image//user-attachments/assets/e53085a1-c554-4a4a-bc11-56256ab30fc6"/>
+        <updated>2026-02-24T03:47:02.000Z</updated>
+        <summary type="html"><![CDATA[一款 macOS 配置文件管理工具，快速查看、编辑和管理电脑上的各种配置文件（如 .zshrc、.gitconfig 等）。采用 SwiftUI 开发。 功能 自动扫描：自动发现常见的配置文件（.zshrc、.bashrc、.gitconfig、.vimrc 等） 即时生效：编辑 .zshrc 等 shell 配置文件后，保存时自动执行 source 命令，改动立即生效 版本管理：基于 Git 自]]></summary>
+        <content type="html"><![CDATA[<p>一款 macOS 配置文件管理工具，快速查看、编辑和管理电脑上的各种配置文件（如 .zshrc、.gitconfig 等）。采用 SwiftUI 开发。</p>
+<img alt="Configs" src="https://github.com/user-attachments/assets/e53085a1-c554-4a4a-bc11-56256ab30fc6">
+<img alt="Configs" src="https://github.com/user-attachments/assets/d50ff1d5-0694-4e53-a276-f6b962a20352">
+<h2>功能</h2>
+<ul>
+<li><strong>自动扫描</strong>：自动发现常见的配置文件（<code>.zshrc</code>、<code>.bashrc</code>、<code>.gitconfig</code>、<code>.vimrc</code> 等）</li>
+<li><strong>即时生效</strong>：编辑 <code>.zshrc</code> 等 shell 配置文件后，保存时自动执行 <code>source</code> 命令，改动立即生效</li>
+<li><strong>版本管理</strong>：基于 Git 自动记录每次编辑，支持查看历史、对比差异、一键恢复</li>
+<li><strong>分类管理</strong>：可以添加自定义文件、置顶常用配置、打标签分组</li>
+<li><strong>代码编辑器</strong>：多种文件类型的语法高亮，支持搜索、缩放、黑暗模式</li>
+<li><strong>快捷菜单</strong>：右键文件可以快速操作（在 Finder、Terminal、VSCode 中打开等）</li>
+<li><strong>彩色标签</strong>：为配置文件添加短文本彩色标签，便于分组识别</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/298" target="_blank">#298</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LuxShot：极简原生 macOS 菜单栏 OCR 工具]]></title>
         <id>297</id>

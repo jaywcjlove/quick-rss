@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "298",
+            "content_html": "<p>一款 macOS 配置文件管理工具，快速查看、编辑和管理电脑上的各种配置文件（如 .zshrc、.gitconfig 等）。采用 SwiftUI 开发。</p>\n<img alt=\"Configs\" src=\"https://github.com/user-attachments/assets/e53085a1-c554-4a4a-bc11-56256ab30fc6\">\n<img alt=\"Configs\" src=\"https://github.com/user-attachments/assets/d50ff1d5-0694-4e53-a276-f6b962a20352\">\n<h2>功能</h2>\n<ul>\n<li><strong>自动扫描</strong>：自动发现常见的配置文件（<code>.zshrc</code>、<code>.bashrc</code>、<code>.gitconfig</code>、<code>.vimrc</code> 等）</li>\n<li><strong>即时生效</strong>：编辑 <code>.zshrc</code> 等 shell 配置文件后，保存时自动执行 <code>source</code> 命令，改动立即生效</li>\n<li><strong>版本管理</strong>：基于 Git 自动记录每次编辑，支持查看历史、对比差异、一键恢复</li>\n<li><strong>分类管理</strong>：可以添加自定义文件、置顶常用配置、打标签分组</li>\n<li><strong>代码编辑器</strong>：多种文件类型的语法高亮，支持搜索、缩放、黑暗模式</li>\n<li><strong>快捷菜单</strong>：右键文件可以快速操作（在 Finder、Terminal、VSCode 中打开等）</li>\n<li><strong>彩色标签</strong>：为配置文件添加短文本彩色标签，便于分组识别</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/298\" target=\"_blank\">#298</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/298.html",
+            "title": "Configs：配置文件管理器，用于快速查看、编辑和管理配置文件",
+            "summary": "一款 macOS 配置文件管理工具，快速查看、编辑和管理电脑上的各种配置文件（如 .zshrc、.gitconfig 等）。采用 SwiftUI 开发。 功能 自动扫描：自动发现常见的配置文件（.zshrc、.bashrc、.gitconfig、.vimrc 等） 即时生效：编辑 .zshrc 等 shell 配置文件后，保存时自动执行 source 命令，改动立即生效 版本管理：基于 Git 自",
+            "image": "https://github.com/user-attachments/assets/e53085a1-c554-4a4a-bc11-56256ab30fc6",
+            "date_modified": "2026-02-24T03:47:02.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "297",
             "content_html": "<p>LuxShot 基于 SwiftUI 与 Apple Vision 框架构建，提供快速、隐私优先的屏幕文字识别体验，可直接从菜单栏进行操作。</p>\n<img alt=\"LuxShot\" src=\"https://github.com/user-attachments/assets/21f42330-22f0-4dfc-9387-20a559e6499c\">\n<h3>主要特性</h3>\n<ul>\n<li>🖥️ 轻量级菜单栏应用，专注高效工作流</li>\n<li>⚡ 基于 Apple Vision 的即时 OCR 识别</li>\n<li>📸 支持二维码与条形码识别</li>\n<li>✨ 智能文本格式控制（保留或移除换行）</li>\n<li>🔗 自动识别链接并支持浏览器打开</li>\n<li>📋 自动复制识别结果到剪贴板</li>\n<li>🔊 内置文本转语音（TTS）功能</li>\n<li>📜 支持历史记录管理</li>\n<li>🔒 全部本地处理，隐私优先</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/297\" target=\"_blank\">#297</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/297.html",

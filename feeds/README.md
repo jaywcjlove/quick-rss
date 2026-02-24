@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Configs：配置文件管理器，用于快速查看、编辑和管理配置文件](https://wangchujiang.com/quick-rss/issue/298.html) 
+
+![](https://github.com/user-attachments/assets/e53085a1-c554-4a4a-bc11-56256ab30fc6)
+
+一款 macOS 配置文件管理工具，快速查看、编辑和管理电脑上的各种配置文件（如 .zshrc、.gitconfig 等）。采用 SwiftUI 开发。 功能 自动扫描：自动发现常见的配置文件（.zshrc、.bashrc、.gitconfig、.vimrc 等） 即时生效：编辑 .zshrc 等 shell 配置文件后，保存时自动执行 source 命令，改动立即生效 版本管理：基于 Git 自 ([#298](https://github.com/jaywcjlove/quick-rss/issues/298) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [LuxShot：极简原生 macOS 菜单栏 OCR 工具](https://wangchujiang.com/quick-rss/issue/297.html) 
 
 ![](https://github.com/user-attachments/assets/21f42330-22f0-4dfc-9387-20a559e6499c)

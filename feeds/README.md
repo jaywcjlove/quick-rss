@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [openHare：使用Flutter开发的AI SQL客户端](https://wangchujiang.com/quick-rss/issue/296.html) 
+
+![](https://github.com/user-attachments/assets/207b1791-2eab-4c3b-9c55-14dd0195e34d)
+
+一款基于 Flutter 构建的专业跨平台桌面 SQL 查询工具。它面向数据库管理员、开发者和数据分析师，提供现代化、强大且直观的数据库管理与查询体验。 openhare 专注于提升生产力、清晰度与可扩展性，同时基于 Apache License 2.0 开源协议发布，保持透明与社区驱动的发展模式。 主要特性 AI 智能辅助 提供增强的 AI 功能，帮助编写、优化和理解 SQL 查询，提高工作效率 ([#296](https://github.com/jaywcjlove/quick-rss/issues/296) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SkillTools：一份技能，多工具共用](https://wangchujiang.com/quick-rss/issue/295.html) 
 
 用符号链接（软链接）将多个 AI 编程工具（如 Claude/Cursor/OpenCode）的 skills 目录统一指向同一源文件夹，实现“改一处，全工具同步生效”，避免重复维护。 痛点 如果你同时使用 Claude Code、Cursor、OpenCode 等多个 AI 编程工具，大概率遇到过这个问题： 给 Cursor 写了个好用的 Skill，想在 Claude Code 里也用，结果发 ([#295](https://github.com/jaywcjlove/quick-rss/issues/295) - [@zzu-ken](https://github.com/zzu-ken))

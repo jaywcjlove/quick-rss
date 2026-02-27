@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 24 Feb 2026 03:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 23:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,99 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MoePeek：轻量级划词翻译工具，基于设备端 Apple 翻译引擎，体积仅 5MB，运行内存稳定约 50MB]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/299.html</link>
+            <guid isPermaLink="false">299</guid>
+            <pubDate>Fri, 27 Feb 2026 23:16:54 GMT</pubDate>
+            <description><![CDATA[轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB 功能 翻译方式 划词翻译：在任意应用中选中文字，浮窗即时展示翻译结果 OCR 截图翻译：框选屏幕区域，识别并翻译其中的文字 剪贴板翻译：一键翻译剪贴板中的内容 手动输入：输入或粘贴文字进行翻译 内置翻译服务 免费APILLM系统Google]]></description>
+            <content:encoded><![CDATA[<p>轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB</p>
+<img alt="MoePeek" src="https://github.com/user-attachments/assets/aff64203-e455-4644-83be-a626077939a7">
+<h2>功能</h2>
+<p><strong>翻译方式</strong></p>
+<ul>
+<li><strong>划词翻译</strong>：在任意应用中选中文字，浮窗即时展示翻译结果</li>
+<li><strong>OCR 截图翻译</strong>：框选屏幕区域，识别并翻译其中的文字</li>
+<li><strong>剪贴板翻译</strong>：一键翻译剪贴板中的内容</li>
+<li><strong>手动输入</strong>：输入或粘贴文字进行翻译</li>
+</ul>
+<p><strong>内置翻译服务</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>免费</th><th>API</th><th>LLM</th><th>系统</th></tr></thead><tbody><tr><td>Google 翻译</td><td>DeepL</td><td>OpenAI</td><td>Apple 翻译</td></tr><tr><td>Bing 翻译</td><td>百度翻译</td><td>Anthropic</td><td><em>（macOS 15+，离线可用）</em></td></tr><tr><td>有道翻译</td><td>小牛翻译</td><td>DeepSeek</td><td></td></tr><tr><td></td><td>彩云小译</td><td>OpenRouter</td><td></td></tr><tr><td></td><td>DeepLX</td><td>智谱 GLM</td><td></td></tr><tr><td></td><td></td><td>Ollama（本地）</td><td></td></tr><tr><td></td><td></td><td>LM Studio（本地）</td><td></td></tr></tbody></table>
+<p><strong>更多特性</strong></p>
+<ul>
+<li>智能语言检测，支持 14 种语言，自动切换翻译方向</li>
+<li>非激活浮窗，永远不会抢走当前应用焦点</li>
+<li>三层文本抓取：Accessibility API → AppleScript → 剪贴板逐级回退</li>
+<li>所有快捷键均可自定义</li>
+<li>内置 Sparkle 自动更新</li>
+</ul>
+<h2>为什么选择 MoePeek</h2>
+<ul>
+<li><strong>约 5 MB 安装体积</strong>：纯 Swift 6 构建，仅 3 个依赖。没有 Electron，没有 WebView。</li>
+<li><strong>约 50 MB 后台内存</strong>：系统性防控内存泄漏，长时间挂后台也稳定。</li>
+<li><strong>注重隐私</strong>：Apple 翻译完全在设备端运行。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/299" target="_blank">#299</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/aff64203-e455-4644-83be-a626077939a7" length="0" type="image//user-attachments/assets/aff64203-e455-4644-83be-a626077939a7"/>
+        </item>
         <item>
             <title><![CDATA[Configs：配置文件管理器，用于快速查看、编辑和管理配置文件]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/298.html</link>

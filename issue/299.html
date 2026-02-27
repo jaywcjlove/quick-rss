@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoePeek：轻量级划词翻译工具，基于设备端 Apple 翻译引擎，体积仅 5MB，运行内存稳定约 50MB Quick RSS</title>
+    <meta name="description" content="轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/299.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - 轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB">
+    <meta property="twitter:description" content="轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.4">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.4"></script>
+    <script src="../js/dark-mode.js?v=1.34.4"></script>
+    <script src="../js/markdown-style.js?v=1.34.4"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="moepeek轻量级划词翻译工具基于设备端-apple-翻译引擎体积仅-5mb运行内存稳定约-50mb"><a aria-hidden="true" tabindex="-1" href="#moepeek轻量级划词翻译工具基于设备端-apple-翻译引擎体积仅-5mb运行内存稳定约-50mb" class="anchor"><span class="icon icon-link"></span></a>MoePeek：轻量级划词翻译工具，基于设备端 Apple 翻译引擎，体积仅 5MB，运行内存稳定约 50MB</h1>
+        <p>轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB</p>
+        <img alt="MoePeek" src="https://github.com/user-attachments/assets/aff64203-e455-4644-83be-a626077939a7">
+        <h2 id="功能"><a aria-hidden="true" tabindex="-1" href="#功能" class="anchor"><span class="icon icon-link"></span></a>功能</h2>
+        <p><strong>翻译方式</strong></p>
+        <ul>
+          <li><strong>划词翻译</strong>：在任意应用中选中文字，浮窗即时展示翻译结果</li>
+          <li><strong>OCR 截图翻译</strong>：框选屏幕区域，识别并翻译其中的文字</li>
+          <li><strong>剪贴板翻译</strong>：一键翻译剪贴板中的内容</li>
+          <li><strong>手动输入</strong>：输入或粘贴文字进行翻译</li>
+        </ul>
+        <p><strong>内置翻译服务</strong></p>
+        <table>
+          <thead>
+            <tr>
+              <th>免费</th>
+              <th>API</th>
+              <th>LLM</th>
+              <th>系统</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Google 翻译</td>
+              <td>DeepL</td>
+              <td>OpenAI</td>
+              <td>Apple 翻译</td>
+            </tr>
+            <tr>
+              <td>Bing 翻译</td>
+              <td>百度翻译</td>
+              <td>Anthropic</td>
+              <td><em>（macOS 15+，离线可用）</em></td>
+            </tr>
+            <tr>
+              <td>有道翻译</td>
+              <td>小牛翻译</td>
+              <td>DeepSeek</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>彩云小译</td>
+              <td>OpenRouter</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>DeepLX</td>
+              <td>智谱 GLM</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>Ollama（本地）</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>LM Studio（本地）</td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+        <p><strong>更多特性</strong></p>
+        <ul>
+          <li>智能语言检测，支持 14 种语言，自动切换翻译方向</li>
+          <li>非激活浮窗，永远不会抢走当前应用焦点</li>
+          <li>三层文本抓取：Accessibility API → AppleScript → 剪贴板逐级回退</li>
+          <li>所有快捷键均可自定义</li>
+          <li>内置 Sparkle 自动更新</li>
+        </ul>
+        <h2 id="为什么选择-moepeek"><a aria-hidden="true" tabindex="-1" href="#为什么选择-moepeek" class="anchor"><span class="icon icon-link"></span></a>为什么选择 MoePeek</h2>
+        <ul>
+          <li><strong>约 5 MB 安装体积</strong>：纯 Swift 6 构建，仅 3 个依赖。没有 Electron，没有 WebView。</li>
+          <li><strong>约 50 MB 后台内存</strong>：系统性防控内存泄漏，长时间挂后台也稳定。</li>
+          <li><strong>注重隐私</strong>：Apple 翻译完全在设备端运行。</li>
+        </ul>
+        <p>👉 <a href="https://github.com/cosZone/MoePeek">https://github.com/cosZone/MoePeek</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/cosZone/MoePeek" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/299" target="_blank">#299</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.4"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.4
+    </div>
+    <script src="../js/tocbot.js?v=1.34.4"></script>
+  </body>
+</html>

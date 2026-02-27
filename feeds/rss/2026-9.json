@@ -1,5 +1,19 @@
 [
   {
+    "id": "299",
+    "url": "https://wangchujiang.com/quick-rss/issue/299.html",
+    "title": "MoePeek：轻量级划词翻译工具，基于设备端 Apple 翻译引擎，体积仅 5MB，运行内存稳定约 50MB",
+    "content_html": "<p>轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB</p>\n<img alt=\"MoePeek\" src=\"https://github.com/user-attachments/assets/aff64203-e455-4644-83be-a626077939a7\">\n<h2>功能</h2>\n<p><strong>翻译方式</strong></p>\n<ul>\n<li><strong>划词翻译</strong>：在任意应用中选中文字，浮窗即时展示翻译结果</li>\n<li><strong>OCR 截图翻译</strong>：框选屏幕区域，识别并翻译其中的文字</li>\n<li><strong>剪贴板翻译</strong>：一键翻译剪贴板中的内容</li>\n<li><strong>手动输入</strong>：输入或粘贴文字进行翻译</li>\n</ul>\n<p><strong>内置翻译服务</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<table><thead><tr><th>免费</th><th>API</th><th>LLM</th><th>系统</th></tr></thead><tbody><tr><td>Google 翻译</td><td>DeepL</td><td>OpenAI</td><td>Apple 翻译</td></tr><tr><td>Bing 翻译</td><td>百度翻译</td><td>Anthropic</td><td><em>（macOS 15+，离线可用）</em></td></tr><tr><td>有道翻译</td><td>小牛翻译</td><td>DeepSeek</td><td></td></tr><tr><td></td><td>彩云小译</td><td>OpenRouter</td><td></td></tr><tr><td></td><td>DeepLX</td><td>智谱 GLM</td><td></td></tr><tr><td></td><td></td><td>Ollama（本地）</td><td></td></tr><tr><td></td><td></td><td>LM Studio（本地）</td><td></td></tr></tbody></table>\n<p><strong>更多特性</strong></p>\n<ul>\n<li>智能语言检测，支持 14 种语言，自动切换翻译方向</li>\n<li>非激活浮窗，永远不会抢走当前应用焦点</li>\n<li>三层文本抓取：Accessibility API → AppleScript → 剪贴板逐级回退</li>\n<li>所有快捷键均可自定义</li>\n<li>内置 Sparkle 自动更新</li>\n</ul>\n<h2>为什么选择 MoePeek</h2>\n<ul>\n<li><strong>约 5 MB 安装体积</strong>：纯 Swift 6 构建，仅 3 个依赖。没有 Electron，没有 WebView。</li>\n<li><strong>约 50 MB 后台内存</strong>：系统性防控内存泄漏，长时间挂后台也稳定。</li>\n<li><strong>注重隐私</strong>：Apple 翻译完全在设备端运行。</li>\n</ul>",
+    "summary": "轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB ## 功能 **翻译方式** - **划词翻译**：在任意应用中选中文字，浮窗即时展示翻译结果 - **OCR 截图翻译**：框选屏幕区域，识别并翻译其中的文字 - **剪贴板翻译**：一键翻译剪贴板中的内容 - **手动输入**：输入或粘",
+    "banner_image": null,
+    "date_published": "2026-02-27T23:16:54Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB\n\n<img alt=\"MoePeek\" src=\"https://github.com/user-attachments/assets/aff64203-e455-4644-83be-a626077939a7\" />\n\n## 功能\n\n**翻译方式**\n\n- **划词翻译**：在任意应用中选中文字，浮窗即时展示翻译结果\n- **OCR 截图翻译**：框选屏幕区域，识别并翻译其中的文字\n- **剪贴板翻译**：一键翻译剪贴板中的内容\n- **手动输入**：输入或粘贴文字进行翻译\n\n**内置翻译服务**\n\n| 免费 | API | LLM | 系统 |\n|------|-----|-----|------|\n| Google 翻译 | DeepL | OpenAI | Apple 翻译 |\n| Bing 翻译 | 百度翻译 | Anthropic | *（macOS 15+，离线可用）* |\n| 有道翻译 | 小牛翻译 | DeepSeek | |\n| | 彩云小译 | OpenRouter | |\n| | DeepLX | 智谱 GLM | |\n| | | Ollama（本地） | |\n| | | LM Studio（本地） | |\n\n**更多特性**\n\n- 智能语言检测，支持 14 种语言，自动切换翻译方向\n- 非激活浮窗，永远不会抢走当前应用焦点\n- 三层文本抓取：Accessibility API → AppleScript → 剪贴板逐级回退\n- 所有快捷键均可自定义\n- 内置 Sparkle 自动更新\n\n## 为什么选择 MoePeek\n\n- **约 5 MB 安装体积**：纯 Swift 6 构建，仅 3 个依赖。没有 Electron，没有 WebView。\n- **约 50 MB 后台内存**：系统性防控内存泄漏，长时间挂后台也稳定。\n- **注重隐私**：Apple 翻译完全在设备端运行。"
+  },
+  {
     "id": "298",
     "url": "https://wangchujiang.com/quick-rss/issue/298.html",
     "title": "Configs：配置文件管理器，用于快速查看、编辑和管理配置文件",

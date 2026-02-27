@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MoePeek：轻量级划词翻译工具，基于设备端 Apple 翻译引擎，体积仅 5MB，运行内存稳定约 50MB](https://wangchujiang.com/quick-rss/issue/299.html) 
+
+![](https://github.com/user-attachments/assets/aff64203-e455-4644-83be-a626077939a7)
+
+轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB 功能 翻译方式 划词翻译：在任意应用中选中文字，浮窗即时展示翻译结果 OCR 截图翻译：框选屏幕区域，识别并翻译其中的文字 剪贴板翻译：一键翻译剪贴板中的内容 手动输入：输入或粘贴文字进行翻译 内置翻译服务 免费APILLM系统Google ([#299](https://github.com/jaywcjlove/quick-rss/issues/299) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Configs：配置文件管理器，用于快速查看、编辑和管理配置文件](https://wangchujiang.com/quick-rss/issue/298.html) 
 
 ![](https://github.com/user-attachments/assets/e53085a1-c554-4a4a-bc11-56256ab30fc6)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-02-27T23:17:23.087Z</updated>
+    <updated>2026-03-05T01:39:22.910Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,46 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[ClearDisk：一键找回被开发缓存占用的 50–500GB Mac 磁盘空间]]></title>
+        <id>300</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/300.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/07b18492-11e0-4205-a5ab-5b7805714764" type="image//user-attachments/assets/07b18492-11e0-4205-a5ab-5b7805714764"/>
+        <updated>2026-03-05T01:36:51.000Z</updated>
+        <summary type="html"><![CDATA[你的 Mac 可能正被大量 开发者缓存悄悄占满。仅 Xcode DerivedData 就可能占用 200GB+，再加上 npm、Homebrew、Docker、pip、Cargo 等工具的缓存，很容易丢掉 几十到几百 GB 的 SSD 空间。 ClearDisk 是一款 免费、开源的 macOS 菜单栏工具，专门用于监控和清理开发者缓存。 仅 590KB、零依赖、无网络访问、无数据收集，完全本地]]></summary>
+        <content type="html"><![CDATA[<p>你的 Mac 可能正被大量 <strong>开发者缓存</strong>悄悄占满。仅 <strong>Xcode DerivedData</strong> 就可能占用 <strong>200GB+</strong>，再加上 npm、Homebrew、Docker、pip、Cargo 等工具的缓存，很容易丢掉 <strong>几十到几百 GB</strong> 的 SSD 空间。</p>
+<img alt="ClearDisk" src="https://github.com/user-attachments/assets/07b18492-11e0-4205-a5ab-5b7805714764">
+<img alt="ClearDisk" src="https://github.com/user-attachments/assets/c8eda5ca-e223-4735-bc0e-3dad884ac891">
+<img alt="ClearDisk" src="https://github.com/user-attachments/assets/f0e68af7-a39b-4d02-bc20-bec47edb0594">
+<img alt="ClearDisk" src="https://github.com/user-attachments/assets/e6e399d9-3626-47c6-ab3c-57aa661e3c48">
+<p><strong>ClearDisk</strong> 是一款 <strong>免费、开源的 macOS 菜单栏工具</strong>，专门用于监控和清理开发者缓存。
+仅 <strong>590KB、零依赖、无网络访问、无数据收集</strong>，完全本地运行。</p>
+<p>✨ 主要功能：</p>
+<ul>
+<li>🔍 扫描 <strong>44 种开发缓存</strong>（Xcode、npm、Homebrew、Docker、pip、Cargo、Go、Gradle 等）</li>
+<li>📊 菜单栏实时监控磁盘占用，空间紧张时提醒</li>
+<li>🧠 智能建议：识别长期未使用缓存并推荐清理</li>
+<li>🛡 风险等级提示：安全 / 谨慎 / 高风险</li>
+<li>♻️ 安全删除：文件先进入废纸篓，可随时恢复</li>
+<li>📦 项目构建产物扫描（node_modules、target、build 等）</li>
+</ul>
+<p>如果你的 Mac <strong>经常磁盘爆满</strong>，或者你是 <strong>iOS / Web / 后端开发者</strong>，ClearDisk 可以帮你快速找回被遗忘的磁盘空间。</p>
+<p>开源项目，完全透明。
+让开发缓存不再偷偷吃掉你的 SSD。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/300" target="_blank">#300</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MoePeek：轻量级划词翻译工具，基于设备端 Apple 翻译引擎，体积仅 5MB，运行内存稳定约 50MB]]></title>
         <id>299</id>

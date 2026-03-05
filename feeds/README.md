@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ClearDisk：一键找回被开发缓存占用的 50–500GB Mac 磁盘空间](https://wangchujiang.com/quick-rss/issue/300.html) 
+
+![](https://github.com/user-attachments/assets/07b18492-11e0-4205-a5ab-5b7805714764)
+
+你的 Mac 可能正被大量 开发者缓存悄悄占满。仅 Xcode DerivedData 就可能占用 200GB+，再加上 npm、Homebrew、Docker、pip、Cargo 等工具的缓存，很容易丢掉 几十到几百 GB 的 SSD 空间。 ClearDisk 是一款 免费、开源的 macOS 菜单栏工具，专门用于监控和清理开发者缓存。 仅 590KB、零依赖、无网络访问、无数据收集，完全本地 ([#300](https://github.com/jaywcjlove/quick-rss/issues/300) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MoePeek：轻量级划词翻译工具，基于设备端 Apple 翻译引擎，体积仅 5MB，运行内存稳定约 50MB](https://wangchujiang.com/quick-rss/issue/299.html) 
 
 ![](https://github.com/user-attachments/assets/aff64203-e455-4644-83be-a626077939a7)

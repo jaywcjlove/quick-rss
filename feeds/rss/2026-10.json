@@ -1,0 +1,16 @@
+[
+  {
+    "id": "300",
+    "url": "https://wangchujiang.com/quick-rss/issue/300.html",
+    "title": "ClearDisk：一键找回被开发缓存占用的 50–500GB Mac 磁盘空间",
+    "content_html": "<p>你的 Mac 可能正被大量 <strong>开发者缓存</strong>悄悄占满。仅 <strong>Xcode DerivedData</strong> 就可能占用 <strong>200GB+</strong>，再加上 npm、Homebrew、Docker、pip、Cargo 等工具的缓存，很容易丢掉 <strong>几十到几百 GB</strong> 的 SSD 空间。</p>\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/07b18492-11e0-4205-a5ab-5b7805714764\">\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/c8eda5ca-e223-4735-bc0e-3dad884ac891\">\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/f0e68af7-a39b-4d02-bc20-bec47edb0594\">\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/e6e399d9-3626-47c6-ab3c-57aa661e3c48\">\n<p><strong>ClearDisk</strong> 是一款 <strong>免费、开源的 macOS 菜单栏工具</strong>，专门用于监控和清理开发者缓存。\n仅 <strong>590KB、零依赖、无网络访问、无数据收集</strong>，完全本地运行。</p>\n<p>✨ 主要功能：</p>\n<ul>\n<li>🔍 扫描 <strong>44 种开发缓存</strong>（Xcode、npm、Homebrew、Docker、pip、Cargo、Go、Gradle 等）</li>\n<li>📊 菜单栏实时监控磁盘占用，空间紧张时提醒</li>\n<li>🧠 智能建议：识别长期未使用缓存并推荐清理</li>\n<li>🛡 风险等级提示：安全 / 谨慎 / 高风险</li>\n<li>♻️ 安全删除：文件先进入废纸篓，可随时恢复</li>\n<li>📦 项目构建产物扫描（node_modules、target、build 等）</li>\n</ul>\n<p>如果你的 Mac <strong>经常磁盘爆满</strong>，或者你是 <strong>iOS / Web / 后端开发者</strong>，ClearDisk 可以帮你快速找回被遗忘的磁盘空间。</p>\n<p>开源项目，完全透明。\n让开发缓存不再偷偷吃掉你的 SSD。</p>",
+    "summary": "你的 Mac 可能正被大量 **开发者缓存**悄悄占满。仅 **Xcode DerivedData** 就可能占用 **200GB+**，再加上 npm、Homebrew、Docker、pip、Cargo 等工具的缓存，很容易丢掉 **几十到几百 GB** 的 SSD 空间。 **ClearDisk** 是一款 **免费、开源的 macOS 菜单栏工具**，专门用于监控和清理开发者缓存。 仅 **",
+    "banner_image": null,
+    "date_published": "2026-03-05T01:36:51Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "你的 Mac 可能正被大量 **开发者缓存**悄悄占满。仅 **Xcode DerivedData** 就可能占用 **200GB+**，再加上 npm、Homebrew、Docker、pip、Cargo 等工具的缓存，很容易丢掉 **几十到几百 GB** 的 SSD 空间。\n\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/07b18492-11e0-4205-a5ab-5b7805714764\" />\n\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/c8eda5ca-e223-4735-bc0e-3dad884ac891\" />\n\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/f0e68af7-a39b-4d02-bc20-bec47edb0594\" />\n\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/e6e399d9-3626-47c6-ab3c-57aa661e3c48\" />\n\n**ClearDisk** 是一款 **免费、开源的 macOS 菜单栏工具**，专门用于监控和清理开发者缓存。\n仅 **590KB、零依赖、无网络访问、无数据收集**，完全本地运行。\n\n✨ 主要功能：\n\n* 🔍 扫描 **44 种开发缓存**（Xcode、npm、Homebrew、Docker、pip、Cargo、Go、Gradle 等）\n* 📊 菜单栏实时监控磁盘占用，空间紧张时提醒\n* 🧠 智能建议：识别长期未使用缓存并推荐清理\n* 🛡 风险等级提示：安全 / 谨慎 / 高风险\n* ♻️ 安全删除：文件先进入废纸篓，可随时恢复\n* 📦 项目构建产物扫描（node_modules、target、build 等）\n\n如果你的 Mac **经常磁盘爆满**，或者你是 **iOS / Web / 后端开发者**，ClearDisk 可以帮你快速找回被遗忘的磁盘空间。\n\n开源项目，完全透明。\n让开发缓存不再偷偷吃掉你的 SSD。"
+  }
+]

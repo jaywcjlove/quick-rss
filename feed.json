@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "301",
+            "content_html": "<p>Atoll 将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具。</p>\n<img alt=\"Atoll\" src=\"https://github.com/user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4\">\n<p>灵感来自 iPhone 的 Dynamic Island。Atoll 在不使用时保持简洁隐藏，需要时会通过流畅的 SwiftUI 原生动画展开，让你快速访问重要功能和信息。</p>\n<img alt=\"Atoll\" src=\"https://github.com/user-attachments/assets/42a5cd4a-a998-46b1-9658-a7236b68148b\">\n<h2><strong>核心功能</strong></h2>\n<ul>\n<li>支持 Apple Music、Spotify 等播放器的媒体控制，并提供内嵌预览</li>\n<li>Live Activities 实时活动：媒体播放、专注模式、屏幕录制、隐私指示、下载（Beta）、电池与充电状态</li>\n<li>锁屏小组件：媒体、计时器、充电状态、蓝牙设备、天气</li>\n<li>轻量级系统监控：CPU、GPU、内存、网络、磁盘使用情况</li>\n<li>内置效率工具：计时器、剪贴板历史、取色器、日历预览</li>\n<li>支持布局、动画、悬停行为和快捷键映射等个性化设置</li>\n</ul>\n<h2><strong>其他功能</strong></h2>\n<ul>\n<li>手势控制：打开 / 关闭刘海界面以及媒体导航</li>\n<li>平滑的视差悬停交互效果</li>\n<li>锁屏面板与小组件位置自定义</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/301\" target=\"_blank\">#301</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/301.html",
+            "title": "Atoll：将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具",
+            "summary": "Atoll 将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具。 灵感来自 iPhone 的 Dynamic Island。Atoll 在不使用时保持简洁隐藏，需要时会通过流畅的 SwiftUI 原生动画展开，让你快速访问重要功能和信息。 核心功能 支持 Apple Music、Spotify 等播放器的媒体控制，并提供内嵌预览 Live A",
+            "image": "https://github.com/user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4",
+            "date_modified": "2026-03-07T11:04:07.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "300",
             "content_html": "<p>你的 Mac 可能正被大量 <strong>开发者缓存</strong>悄悄占满。仅 <strong>Xcode DerivedData</strong> 就可能占用 <strong>200GB+</strong>，再加上 npm、Homebrew、Docker、pip、Cargo 等工具的缓存，很容易丢掉 <strong>几十到几百 GB</strong> 的 SSD 空间。</p>\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/07b18492-11e0-4205-a5ab-5b7805714764\">\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/c8eda5ca-e223-4735-bc0e-3dad884ac891\">\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/f0e68af7-a39b-4d02-bc20-bec47edb0594\">\n<img alt=\"ClearDisk\" src=\"https://github.com/user-attachments/assets/e6e399d9-3626-47c6-ab3c-57aa661e3c48\">\n<p><strong>ClearDisk</strong> 是一款 <strong>免费、开源的 macOS 菜单栏工具</strong>，专门用于监控和清理开发者缓存。\n仅 <strong>590KB、零依赖、无网络访问、无数据收集</strong>，完全本地运行。</p>\n<p>✨ 主要功能：</p>\n<ul>\n<li>🔍 扫描 <strong>44 种开发缓存</strong>（Xcode、npm、Homebrew、Docker、pip、Cargo、Go、Gradle 等）</li>\n<li>📊 菜单栏实时监控磁盘占用，空间紧张时提醒</li>\n<li>🧠 智能建议：识别长期未使用缓存并推荐清理</li>\n<li>🛡 风险等级提示：安全 / 谨慎 / 高风险</li>\n<li>♻️ 安全删除：文件先进入废纸篓，可随时恢复</li>\n<li>📦 项目构建产物扫描（node_modules、target、build 等）</li>\n</ul>\n<p>如果你的 Mac <strong>经常磁盘爆满</strong>，或者你是 <strong>iOS / Web / 后端开发者</strong>，ClearDisk 可以帮你快速找回被遗忘的磁盘空间。</p>\n<p>开源项目，完全透明。\n让开发缓存不再偷偷吃掉你的 SSD。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/300\" target=\"_blank\">#300</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/300.html",

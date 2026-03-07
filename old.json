@@ -1,5 +1,19 @@
 [
   {
+    "id": "301",
+    "url": "https://wangchujiang.com/quick-rss/issue/301.html",
+    "title": "Atoll：将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具",
+    "content_html": "<p>Atoll 将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具。</p>\n<img alt=\"Atoll\" src=\"https://github.com/user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4\">\n<p>灵感来自 iPhone 的 Dynamic Island。Atoll 在不使用时保持简洁隐藏，需要时会通过流畅的 SwiftUI 原生动画展开，让你快速访问重要功能和信息。</p>\n<img alt=\"Atoll\" src=\"https://github.com/user-attachments/assets/42a5cd4a-a998-46b1-9658-a7236b68148b\">\n<h2><strong>核心功能</strong></h2>\n<ul>\n<li>支持 Apple Music、Spotify 等播放器的媒体控制，并提供内嵌预览</li>\n<li>Live Activities 实时活动：媒体播放、专注模式、屏幕录制、隐私指示、下载（Beta）、电池与充电状态</li>\n<li>锁屏小组件：媒体、计时器、充电状态、蓝牙设备、天气</li>\n<li>轻量级系统监控：CPU、GPU、内存、网络、磁盘使用情况</li>\n<li>内置效率工具：计时器、剪贴板历史、取色器、日历预览</li>\n<li>支持布局、动画、悬停行为和快捷键映射等个性化设置</li>\n</ul>\n<h2><strong>其他功能</strong></h2>\n<ul>\n<li>手势控制：打开 / 关闭刘海界面以及媒体导航</li>\n<li>平滑的视差悬停交互效果</li>\n<li>锁屏面板与小组件位置自定义</li>\n</ul>",
+    "summary": "Atoll 将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具。 灵感来自 iPhone 的 Dynamic Island。Atoll 在不使用时保持简洁隐藏，需要时会通过流畅的 SwiftUI 原生动画展开，让你快速访问重要功能和信息。 ## **核心功能** * 支持 Apple Music、Spotify 等播放器的媒体控制，并提供内嵌",
+    "banner_image": null,
+    "date_published": "2026-03-07T11:04:07Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Atoll 将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具。\n\n<img alt=\"Atoll\" src=\"https://github.com/user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4\" />\n\n灵感来自 iPhone 的 Dynamic Island。Atoll 在不使用时保持简洁隐藏，需要时会通过流畅的 SwiftUI 原生动画展开，让你快速访问重要功能和信息。\n\n<img alt=\"Atoll\" src=\"https://github.com/user-attachments/assets/42a5cd4a-a998-46b1-9658-a7236b68148b\" />\n\n## **核心功能**\n\n* 支持 Apple Music、Spotify 等播放器的媒体控制，并提供内嵌预览\n* Live Activities 实时活动：媒体播放、专注模式、屏幕录制、隐私指示、下载（Beta）、电池与充电状态\n* 锁屏小组件：媒体、计时器、充电状态、蓝牙设备、天气\n* 轻量级系统监控：CPU、GPU、内存、网络、磁盘使用情况\n* 内置效率工具：计时器、剪贴板历史、取色器、日历预览\n* 支持布局、动画、悬停行为和快捷键映射等个性化设置\n\n## **其他功能**\n\n* 手势控制：打开 / 关闭刘海界面以及媒体导航\n* 平滑的视差悬停交互效果\n* 锁屏面板与小组件位置自定义"
+  },
+  {
     "id": "300",
     "url": "https://wangchujiang.com/quick-rss/issue/300.html",
     "title": "ClearDisk：一键找回被开发缓存占用的 50–500GB Mac 磁盘空间",

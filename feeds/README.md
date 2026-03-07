@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Atoll：将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具](https://wangchujiang.com/quick-rss/issue/301.html) 
+
+![](https://github.com/user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4)
+
+Atoll 将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具。 灵感来自 iPhone 的 Dynamic Island。Atoll 在不使用时保持简洁隐藏，需要时会通过流畅的 SwiftUI 原生动画展开，让你快速访问重要功能和信息。 核心功能 支持 Apple Music、Spotify 等播放器的媒体控制，并提供内嵌预览 Live A ([#301](https://github.com/jaywcjlove/quick-rss/issues/301) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [ClearDisk：一键找回被开发缓存占用的 50–500GB Mac 磁盘空间](https://wangchujiang.com/quick-rss/issue/300.html) 
 
 ![](https://github.com/user-attachments/assets/07b18492-11e0-4205-a5ab-5b7805714764)

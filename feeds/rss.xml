@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 05 Mar 2026 01:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 11:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,39 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Atoll：将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/301.html</link>
+            <guid isPermaLink="false">301</guid>
+            <pubDate>Sat, 07 Mar 2026 11:04:07 GMT</pubDate>
+            <description><![CDATA[Atoll 将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具。 灵感来自 iPhone 的 Dynamic Island。Atoll 在不使用时保持简洁隐藏，需要时会通过流畅的 SwiftUI 原生动画展开，让你快速访问重要功能和信息。 核心功能 支持 Apple Music、Spotify 等播放器的媒体控制，并提供内嵌预览 Live A]]></description>
+            <content:encoded><![CDATA[<p>Atoll 将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具。</p>
+<img alt="Atoll" src="https://github.com/user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4">
+<p>灵感来自 iPhone 的 Dynamic Island。Atoll 在不使用时保持简洁隐藏，需要时会通过流畅的 SwiftUI 原生动画展开，让你快速访问重要功能和信息。</p>
+<img alt="Atoll" src="https://github.com/user-attachments/assets/42a5cd4a-a998-46b1-9658-a7236b68148b">
+<h2><strong>核心功能</strong></h2>
+<ul>
+<li>支持 Apple Music、Spotify 等播放器的媒体控制，并提供内嵌预览</li>
+<li>Live Activities 实时活动：媒体播放、专注模式、屏幕录制、隐私指示、下载（Beta）、电池与充电状态</li>
+<li>锁屏小组件：媒体、计时器、充电状态、蓝牙设备、天气</li>
+<li>轻量级系统监控：CPU、GPU、内存、网络、磁盘使用情况</li>
+<li>内置效率工具：计时器、剪贴板历史、取色器、日历预览</li>
+<li>支持布局、动画、悬停行为和快捷键映射等个性化设置</li>
+</ul>
+<h2><strong>其他功能</strong></h2>
+<ul>
+<li>手势控制：打开 / 关闭刘海界面以及媒体导航</li>
+<li>平滑的视差悬停交互效果</li>
+<li>锁屏面板与小组件位置自定义</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/301" target="_blank">#301</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4" length="0" type="image//user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4"/>
+        </item>
         <item>
             <title><![CDATA[ClearDisk：一键找回被开发缓存占用的 50–500GB Mac 磁盘空间]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/300.html</link>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TablePro：极速原生 macOS 数据库客户端（内置 AI 助手），支持 MySQL / Postgres / SQLite / MongoDB / Redis / SQL Server / Redshift](https://wangchujiang.com/quick-rss/issue/302.html) 
+
+![](https://github.com/user-attachments/assets/fc89500e-1f9e-4f3f-ac88-8b57d84a5a41)
+
+TablePro 是一款专为 macOS 打造的原生数据库客户端，支持 MySQL、MariaDB、PostgreSQL、SQLite、MongoDB、Redis、SQL Server、Redshift 和 Oracle 等多种数据库。应用基于 SwiftUI 构建，启动速度极快，占用内存仅约 50MB，无需 Java、无需订阅、无需账号，开箱即用。 它内置功能强大的 SQL 编辑器，支持智能自动 ([#302](https://github.com/jaywcjlove/quick-rss/issues/302) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Atoll：将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具](https://wangchujiang.com/quick-rss/issue/301.html) 
 
 ![](https://github.com/user-attachments/assets/2250b098-6028-445a-9ea0-ea5828479af4)

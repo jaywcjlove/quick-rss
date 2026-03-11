@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 07 Mar 2026 11:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 08:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,31 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TablePro：极速原生 macOS 数据库客户端（内置 AI 助手），支持 MySQL / Postgres / SQLite / MongoDB / Redis / SQL Server / Redshift]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/302.html</link>
+            <guid isPermaLink="false">302</guid>
+            <pubDate>Wed, 11 Mar 2026 08:08:27 GMT</pubDate>
+            <description><![CDATA[TablePro 是一款专为 macOS 打造的原生数据库客户端，支持 MySQL、MariaDB、PostgreSQL、SQLite、MongoDB、Redis、SQL Server、Redshift 和 Oracle 等多种数据库。应用基于 SwiftUI 构建，启动速度极快，占用内存仅约 50MB，无需 Java、无需订阅、无需账号，开箱即用。 它内置功能强大的 SQL 编辑器，支持智能自动]]></description>
+            <content:encoded><![CDATA[<p>TablePro 是一款专为 macOS 打造的原生数据库客户端，支持 MySQL、MariaDB、PostgreSQL、SQLite、MongoDB、Redis、SQL Server、Redshift 和 Oracle 等多种数据库。应用基于 SwiftUI 构建，启动速度极快，占用内存仅约 50MB，无需 Java、无需订阅、无需账号，开箱即用。</p>
+<img alt="TablePro" src="https://github.com/user-attachments/assets/fc89500e-1f9e-4f3f-ac88-8b57d84a5a41">
+<img alt="TablePro" src="https://github.com/user-attachments/assets/7fd47070-efb3-43e1-a4c2-f9337f29eb81">
+<img alt="TablePro" src="https://github.com/user-attachments/assets/29bd7900-79ed-4532-ac67-763a1ca9154b">
+<p>它内置功能强大的 SQL 编辑器，支持智能自动补全、Tree-sitter 语法高亮、多标签查询以及百万行 SQL 文件的流畅编辑。你还可以通过自然语言直接生成 SQL，或使用 AI 助手解释、优化和排查查询错误。AI 支持 Claude、OpenAI、Gemini、Ollama 以及任何兼容 OpenAI 的接口。</p>
+<img alt="TablePro" src="https://github.com/user-attachments/assets/f3215ca2-e6f5-4680-95c2-4d878518163d">
+<p>TablePro 还提供强大的数据表编辑体验：点击单元格即可编辑文本、数字、日期、JSON 等数据类型，并支持变更跟踪、撤销/重做、差异对比提交、多列排序和高级筛选。</p>
+<p>通过 SSH 隧道和 SSL/TLS 加密连接，你可以安全访问远程数据库。同时支持数据导入导出（CSV、JSON、SQL、XLSX）以及自动列映射，方便数据迁移和分析。</p>
+<pre class="language-shell"><code class="language-shell code-highlight"><span class="code-line line-number" line="1">$ brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> tablepro
+</span></code></pre>
+<p>简洁、高效、原生体验——TablePro 让数据库管理变得更轻量、更智能。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/302" target="_blank">#302</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/fc89500e-1f9e-4f3f-ac88-8b57d84a5a41" length="0" type="image//user-attachments/assets/fc89500e-1f9e-4f3f-ac88-8b57d84a5a41"/>
+        </item>
         <item>
             <title><![CDATA[Atoll：将 MacBook 的刘海（notch）变成一个高效的控制中心，用于媒体控制、系统信息查看以及快速效率工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/301.html</link>

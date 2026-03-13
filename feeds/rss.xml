@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 11 Mar 2026 08:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 10:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,39 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Remodex：通过本地优先桥接在 iPhone 上远程控制 Codex 的工具，支持配对会话与远程操作]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/303.html</link>
+            <guid isPermaLink="false">303</guid>
+            <pubDate>Fri, 13 Mar 2026 10:45:02 GMT</pubDate>
+            <description><![CDATA[Remodex 是一个 本地优先（local-first）的开源桥接工具 + iOS 应用，让你可以直接通过 iPhone 控制运行在 Mac 上的 Codex。 你的 Mac 会继续在本地运行 Codex，而 iPhone 通过 配对的 WebSocket 中继会话连接，从而让你随时随地管理任务和工作流。 核心功能 • 端到端加密的 iPhone 与 Mac 配对和聊天 • Fast Mode：]]></description>
+            <content:encoded><![CDATA[<p>Remodex 是一个 <strong>本地优先（local-first）的开源桥接工具 + iOS 应用</strong>，让你可以直接通过 iPhone 控制运行在 Mac 上的 Codex。</p>
+<p>你的 Mac 会继续在本地运行 Codex，而 iPhone 通过 <strong>配对的 WebSocket 中继会话</strong>连接，从而让你随时随地管理任务和工作流。</p>
+<img alt="Remodex" src="https://github.com/user-attachments/assets/885c8236-6c15-419b-b91c-a4b547f05c30">
+<h3>核心功能</h3>
+<p>• <strong>端到端加密</strong>的 iPhone 与 Mac 配对和聊天
+• <strong>Fast Mode</strong>：降低延迟，加快响应速度
+• <strong>Plan Mode</strong>：在执行前进行结构化任务规划
+• <strong>运行中控制</strong>：无需重启即可调整当前任务
+• <strong>队列提示</strong>：在任务运行时提前加入下一条指令
+• <strong>通知提醒</strong>：任务完成或需要操作时即时通知
+• <strong>手机端 Git 操作</strong>：commit / push / pull / 切换分支
+• <strong>推理强度控制</strong>：调节 Codex 的思考深度
+• <strong>访问权限控制</strong>：支持 On-Request 或 Full Access
+• <strong>照片附件</strong>：直接从相机或相册添加
+• <strong>二维码配对</strong>：自动重连
+• <strong>线程历史同步</strong>：与 Mac 上的 Codex 共享会话记录</p>
+<h3>中继服务</h3>
+<p>目前完整的 <strong>手机到 Mac 的连接流程</strong>仍依赖托管中继服务 <strong>api.phodex.app</strong>。</p>
+<p>在当前 <strong>TestFlight 测试阶段</strong>，该服务免费提供，用于验证功能和优化体验。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/303" target="_blank">#303</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/885c8236-6c15-419b-b91c-a4b547f05c30" length="0" type="image//user-attachments/assets/885c8236-6c15-419b-b91c-a4b547f05c30"/>
+        </item>
         <item>
             <title><![CDATA[TablePro：极速原生 macOS 数据库客户端（内置 AI 助手），支持 MySQL / Postgres / SQLite / MongoDB / Redis / SQL Server / Redshift]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/302.html</link>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Remodex：通过本地优先桥接在 iPhone 上远程控制 Codex 的工具，支持配对会话与远程操作](https://wangchujiang.com/quick-rss/issue/303.html) 
+
+![](https://github.com/user-attachments/assets/885c8236-6c15-419b-b91c-a4b547f05c30)
+
+Remodex 是一个 本地优先（local-first）的开源桥接工具 + iOS 应用，让你可以直接通过 iPhone 控制运行在 Mac 上的 Codex。 你的 Mac 会继续在本地运行 Codex，而 iPhone 通过 配对的 WebSocket 中继会话连接，从而让你随时随地管理任务和工作流。 核心功能 • 端到端加密的 iPhone 与 Mac 配对和聊天 • Fast Mode： ([#303](https://github.com/jaywcjlove/quick-rss/issues/303) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [TablePro：极速原生 macOS 数据库客户端（内置 AI 助手），支持 MySQL / Postgres / SQLite / MongoDB / Redis / SQL Server / Redshift](https://wangchujiang.com/quick-rss/issue/302.html) 
 
 ![](https://github.com/user-attachments/assets/fc89500e-1f9e-4f3f-ac88-8b57d84a5a41)

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remodex：通过本地优先桥接在 iPhone 上远程控制 Codex 的工具，支持配对会话与远程操作 Quick RSS</title>
+    <meta name="description" content="Remodex 是一个 本地优先（local-first）的开源桥接工具 + iOS 应用，让你可以直接通过 iPhone 控制运行在 Mac 上的 Codex。">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/303.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="Remodex 是一个 本地优先（local-first）的开源桥接工具 + iOS 应用，让你可以直接通过 iPhone 控制运行在 Mac 上的 Codex。">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - Remodex 是一个 本地优先（local-first）的开源桥接工具 + iOS 应用，让你可以直接通过 iPhone 控制运行在 Mac 上的 Codex。">
+    <meta property="twitter:description" content="Remodex 是一个 本地优先（local-first）的开源桥接工具 + iOS 应用，让你可以直接通过 iPhone 控制运行在 Mac 上的 Codex。">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.4">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.4"></script>
+    <script src="../js/dark-mode.js?v=1.34.4"></script>
+    <script src="../js/markdown-style.js?v=1.34.4"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="remodex通过本地优先桥接在-iphone-上远程控制-codex-的工具支持配对会话与远程操作"><a aria-hidden="true" tabindex="-1" href="#remodex通过本地优先桥接在-iphone-上远程控制-codex-的工具支持配对会话与远程操作" class="anchor"><span class="icon icon-link"></span></a>Remodex：通过本地优先桥接在 iPhone 上远程控制 Codex 的工具，支持配对会话与远程操作</h1>
+        <p>Remodex 是一个 <strong>本地优先（local-first）的开源桥接工具 + iOS 应用</strong>，让你可以直接通过 iPhone 控制运行在 Mac 上的 Codex。</p>
+        <p>你的 Mac 会继续在本地运行 Codex，而 iPhone 通过 <strong>配对的 WebSocket 中继会话</strong>连接，从而让你随时随地管理任务和工作流。</p>
+        <img alt="Remodex" src="https://github.com/user-attachments/assets/885c8236-6c15-419b-b91c-a4b547f05c30">
+        <h3 id="核心功能"><a aria-hidden="true" tabindex="-1" href="#核心功能" class="anchor"><span class="icon icon-link"></span></a>核心功能</h3>
+        <p>
+          • <strong>端到端加密</strong>的 iPhone 与 Mac 配对和聊天
+          • <strong>Fast Mode</strong>：降低延迟，加快响应速度
+          • <strong>Plan Mode</strong>：在执行前进行结构化任务规划
+          • <strong>运行中控制</strong>：无需重启即可调整当前任务
+          • <strong>队列提示</strong>：在任务运行时提前加入下一条指令
+          • <strong>通知提醒</strong>：任务完成或需要操作时即时通知
+          • <strong>手机端 Git 操作</strong>：commit / push / pull / 切换分支
+          • <strong>推理强度控制</strong>：调节 Codex 的思考深度
+          • <strong>访问权限控制</strong>：支持 On-Request 或 Full Access
+          • <strong>照片附件</strong>：直接从相机或相册添加
+          • <strong>二维码配对</strong>：自动重连
+          • <strong>线程历史同步</strong>：与 Mac 上的 Codex 共享会话记录
+        </p>
+        <h3 id="中继服务"><a aria-hidden="true" tabindex="-1" href="#中继服务" class="anchor"><span class="icon icon-link"></span></a>中继服务</h3>
+        <p>目前完整的 <strong>手机到 Mac 的连接流程</strong>仍依赖托管中继服务 <strong>api.phodex.app</strong>。</p>
+        <p>在当前 <strong>TestFlight 测试阶段</strong>，该服务免费提供，用于验证功能和优化体验。</p>
+        <p>👉 <a href="https://github.com/Emanuele-web04/remodex">https://github.com/Emanuele-web04/remodex</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/Emanuele-web04/remodex" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/303" target="_blank">#303</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.4"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.4
+    </div>
+    <script src="../js/tocbot.js?v=1.34.4"></script>
+  </body>
+</html>

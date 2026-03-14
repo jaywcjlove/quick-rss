@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 13 Mar 2026 10:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 06:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,58 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TutorGPT: Free AI Homework Helper & Personal Tutor for Every Subject, Online, No Sign-up]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/304.html</link>
+            <guid isPermaLink="false">304</guid>
+            <pubDate>Sat, 14 Mar 2026 05:23:55 GMT</pubDate>
+            <description><![CDATA[TutorGPT website: https://tutorgpt.io/ TutorGPT Highlights Instant Homework Solutions Upload or scan any homework problem and receive clear, step-by-step explanations within seconds. All Subjects Supp]]></description>
+            <content:encoded><![CDATA[<p><strong>TutorGPT</strong> website: <a href="https://tutorgpt.io/">https://tutorgpt.io/</a></p>
+<p><strong>TutorGPT Highlights</strong></p>
+<ol>
+<li>
+<p><strong>Instant Homework Solutions</strong>
+Upload or scan any homework problem and receive clear, step-by-step explanations within seconds.</p>
+</li>
+<li>
+<p><strong>All Subjects Supported</strong>
+Get help with math, science, history, literature, and more in one AI-powered study assistant.</p>
+</li>
+<li>
+<p><strong>Photo-to-Solution Technology</strong>
+Simply take a photo of a question and let AI instantly analyze and solve it.</p>
+</li>
+<li>
+<p><strong>Step-by-Step Learning Guidance</strong>
+Understand how the answer is reached with detailed reasoning instead of just seeing the final result.</p>
+</li>
+<li>
+<p><strong>Personal AI Tutor Experience</strong>
+Ask follow-up questions and get personalized explanations like learning with a real tutor.</p>
+</li>
+<li>
+<p><strong>Completely Free, No Sign-Up Required</strong>
+Start solving homework immediately without creating an account or paying any fees.</p>
+</li>
+<li>
+<p><strong>Available Anytime, Anywhere</strong>
+Access TutorGPT online from any device whenever you need help with your assignments.</p>
+</li>
+<li>
+<p><strong>Built for Students of All Levels</strong>
+Designed for middle school, high school, and college students who need fast and reliable homework help.</p>
+</li>
+</ol>
+<p>Try <a href="https://tutorgpt.io/">TutorGPT</a> free and no sign-up.</p>
+<p><img src="https://github.com/user-attachments/assets/a8973bd8-3b97-4f16-a7fb-99b9f954159e" alt="Image"></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/304" target="_blank">#304</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/icaohongyuan" target="_blank">@icaohongyuan</a>
+      ]]></content:encoded>
+            <author>icaohongyuan</author>
+            <enclosure url="https://github.com/user-attachments/assets/a8973bd8-3b97-4f16-a7fb-99b9f954159e" length="0" type="image//user-attachments/assets/a8973bd8-3b97-4f16-a7fb-99b9f954159e"/>
+        </item>
         <item>
             <title><![CDATA[Remodex：通过本地优先桥接在 iPhone 上远程控制 Codex 的工具，支持配对会话与远程操作]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/303.html</link>

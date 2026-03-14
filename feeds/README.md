@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TutorGPT: Free AI Homework Helper & Personal Tutor for Every Subject, Online, No Sign-up](https://wangchujiang.com/quick-rss/issue/304.html) 
+
+![](https://github.com/user-attachments/assets/a8973bd8-3b97-4f16-a7fb-99b9f954159e)
+
+TutorGPT website: https://tutorgpt.io/ TutorGPT Highlights Instant Homework Solutions Upload or scan any homework problem and receive clear, step-by-step explanations within seconds. All Subjects Supp ([#304](https://github.com/jaywcjlove/quick-rss/issues/304) - [@icaohongyuan](https://github.com/icaohongyuan))
 ## [Remodex：通过本地优先桥接在 iPhone 上远程控制 Codex 的工具，支持配对会话与远程操作](https://wangchujiang.com/quick-rss/issue/303.html) 
 
 ![](https://github.com/user-attachments/assets/885c8236-6c15-419b-b91c-a4b547f05c30)

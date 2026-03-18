@@ -1,5 +1,19 @@
 [
   {
+    "id": "305",
+    "url": "https://wangchujiang.com/quick-rss/issue/305.html",
+    "title": "Stockbar：在菜单栏盯盘的极简股票工具",
+    "content_html": "<p>Stockbar 是一款专为 macOS 菜单栏打造的股票盯盘小工具，支持 A股、港股、美股，而且主打一个「轻量 + 不打扰」。</p>\n<img alt=\"Stockbar\" src=\"https://github.com/user-attachments/assets/5a9b4e3d-219f-4f3e-a18c-4c77130046ae\">\n<img alt=\"Stockbar\" src=\"https://github.com/user-attachments/assets/5904d396-a662-4997-b8bb-038dc7c7858d\">\n<h3>✨ 为什么值得一试？</h3>\n<p>• 👀 菜单栏随时查看，不用再开臃肿的交易软件\n• 🌍 一站式覆盖 A股 / 港股 / 美股\n• 📊 点击即可展开分时图，信息清晰不复杂\n• 🕒 美股盘前 + 盘后 + 夜盘全支持（这一点很少见）\n• 💰 支持记录持仓，自动算盈亏，盯盘更直观\n• 🎨 红绿涨跌配色可切换，符合不同市场习惯\n• ⚡ 无需注册、无需 API Key，开箱即用</p>\n<h3>💡 特别适合：</h3>\n<ul>\n<li>上班摸鱼但又想“低调看盘”的人</li>\n<li>不想装重型交易软件的用户</li>\n<li>同时关注多市场（A/H/美股）的投资者</li>\n</ul>\n<p>一句话总结：<strong>干净、轻量、该有的都有</strong>。</p>",
+    "summary": "Stockbar 是一款专为 macOS 菜单栏打造的股票盯盘小工具，支持 A股、港股、美股，而且主打一个「轻量 + 不打扰」。 ### ✨ 为什么值得一试？ • 👀 菜单栏随时查看，不用再开臃肿的交易软件 • 🌍 一站式覆盖 A股 / 港股 / 美股 • 📊 点击即可展开分时图，信息清晰不复杂 • 🕒 美股盘前 + 盘后 + 夜盘全支持（这一点很少见） • 💰 支持记录持仓，自动算盈亏",
+    "banner_image": null,
+    "date_published": "2026-03-18T07:10:05Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Stockbar 是一款专为 macOS 菜单栏打造的股票盯盘小工具，支持 A股、港股、美股，而且主打一个「轻量 + 不打扰」。\n\n<img alt=\"Stockbar\" src=\"https://github.com/user-attachments/assets/5a9b4e3d-219f-4f3e-a18c-4c77130046ae\" />\n\n<img  alt=\"Stockbar\" src=\"https://github.com/user-attachments/assets/5904d396-a662-4997-b8bb-038dc7c7858d\" />\n\n### ✨ 为什么值得一试？\n\n• 👀 菜单栏随时查看，不用再开臃肿的交易软件\n• 🌍 一站式覆盖 A股 / 港股 / 美股\n• 📊 点击即可展开分时图，信息清晰不复杂\n• 🕒 美股盘前 + 盘后 + 夜盘全支持（这一点很少见）\n• 💰 支持记录持仓，自动算盈亏，盯盘更直观\n• 🎨 红绿涨跌配色可切换，符合不同市场习惯\n• ⚡ 无需注册、无需 API Key，开箱即用\n\n### 💡 特别适合：\n\n* 上班摸鱼但又想“低调看盘”的人\n* 不想装重型交易软件的用户\n* 同时关注多市场（A/H/美股）的投资者\n\n一句话总结：**干净、轻量、该有的都有**。"
+  },
+  {
     "id": "304",
     "url": "https://wangchujiang.com/quick-rss/issue/304.html",
     "title": "TutorGPT: Free AI Homework Helper & Personal Tutor for Every Subject, Online, No Sign-up",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Stockbar：在菜单栏盯盘的极简股票工具](https://wangchujiang.com/quick-rss/issue/305.html) 
+
+![](https://github.com/user-attachments/assets/5a9b4e3d-219f-4f3e-a18c-4c77130046ae)
+
+Stockbar 是一款专为 macOS 菜单栏打造的股票盯盘小工具，支持 A股、港股、美股，而且主打一个「轻量 + 不打扰」。 ✨ 为什么值得一试？ • 👀 菜单栏随时查看，不用再开臃肿的交易软件 • 🌍 一站式覆盖 A股 / 港股 / 美股 • 📊 点击即可展开分时图，信息清晰不复杂 • 🕒 美股盘前 + 盘后 + 夜盘全支持（这一点很少见） • 💰 支持记录持仓，自动算盈亏，盯盘更 ([#305](https://github.com/jaywcjlove/quick-rss/issues/305) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [TutorGPT: Free AI Homework Helper & Personal Tutor for Every Subject, Online, No Sign-up](https://wangchujiang.com/quick-rss/issue/304.html) 
 
 ![](https://github.com/user-attachments/assets/a8973bd8-3b97-4f16-a7fb-99b9f954159e)

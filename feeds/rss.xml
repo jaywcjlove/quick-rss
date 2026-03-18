@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 14 Mar 2026 06:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 07:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,38 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stockbar：在菜单栏盯盘的极简股票工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/305.html</link>
+            <guid isPermaLink="false">305</guid>
+            <pubDate>Wed, 18 Mar 2026 07:10:05 GMT</pubDate>
+            <description><![CDATA[Stockbar 是一款专为 macOS 菜单栏打造的股票盯盘小工具，支持 A股、港股、美股，而且主打一个「轻量 + 不打扰」。 ✨ 为什么值得一试？ • 👀 菜单栏随时查看，不用再开臃肿的交易软件 • 🌍 一站式覆盖 A股 / 港股 / 美股 • 📊 点击即可展开分时图，信息清晰不复杂 • 🕒 美股盘前 + 盘后 + 夜盘全支持（这一点很少见） • 💰 支持记录持仓，自动算盈亏，盯盘更]]></description>
+            <content:encoded><![CDATA[<p>Stockbar 是一款专为 macOS 菜单栏打造的股票盯盘小工具，支持 A股、港股、美股，而且主打一个「轻量 + 不打扰」。</p>
+<img alt="Stockbar" src="https://github.com/user-attachments/assets/5a9b4e3d-219f-4f3e-a18c-4c77130046ae">
+<img alt="Stockbar" src="https://github.com/user-attachments/assets/5904d396-a662-4997-b8bb-038dc7c7858d">
+<h3>✨ 为什么值得一试？</h3>
+<p>• 👀 菜单栏随时查看，不用再开臃肿的交易软件
+• 🌍 一站式覆盖 A股 / 港股 / 美股
+• 📊 点击即可展开分时图，信息清晰不复杂
+• 🕒 美股盘前 + 盘后 + 夜盘全支持（这一点很少见）
+• 💰 支持记录持仓，自动算盈亏，盯盘更直观
+• 🎨 红绿涨跌配色可切换，符合不同市场习惯
+• ⚡ 无需注册、无需 API Key，开箱即用</p>
+<h3>💡 特别适合：</h3>
+<ul>
+<li>上班摸鱼但又想“低调看盘”的人</li>
+<li>不想装重型交易软件的用户</li>
+<li>同时关注多市场（A/H/美股）的投资者</li>
+</ul>
+<p>一句话总结：<strong>干净、轻量、该有的都有</strong>。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/305" target="_blank">#305</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/5a9b4e3d-219f-4f3e-a18c-4c77130046ae" length="0" type="image//user-attachments/assets/5a9b4e3d-219f-4f3e-a18c-4c77130046ae"/>
+        </item>
         <item>
             <title><![CDATA[TutorGPT: Free AI Homework Helper & Personal Tutor for Every Subject, Online, No Sign-up]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/304.html</link>

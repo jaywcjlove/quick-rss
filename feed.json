@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "308",
+            "content_html": "<p>HiPixel 是一款原生 macOS 应用，专注于基于 AI 的图像超分辨率与放大增强。它采用 SwiftUI 构建，并结合 Upscayl 的先进 AI 模型，实现高质量、快速的图像处理体验。</p>\n<img alt=\"HiPixel\" src=\"https://github.com/user-attachments/assets/58e8c277-ca57-4ddf-8eea-cdf1142919b8\">\n<p>应用支持 GPU 加速、多种图片格式，并提供文件夹监控功能，可自动处理新加入的图片。同时配备现代化且直观的界面，为用户带来高效流畅的图像增强工作流程。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/308\" target=\"_blank\">#308</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/308.html",
+            "title": "HiPixel 是一款专为 macOS 打造的 AI 图像超分辨率（放大增强）工具",
+            "summary": "HiPixel 是一款原生 macOS 应用，专注于基于 AI 的图像超分辨率与放大增强。它采用 SwiftUI 构建，并结合 Upscayl 的先进 AI 模型，实现高质量、快速的图像处理体验。 应用支持 GPU 加速、多种图片格式，并提供文件夹监控功能，可自动处理新加入的图片。同时配备现代化且直观的界面，为用户带来高效流畅的图像增强工作流程。",
+            "image": "https://github.com/user-attachments/assets/58e8c277-ca57-4ddf-8eea-cdf1142919b8",
+            "date_modified": "2026-03-22T02:12:16.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "307",
             "content_html": "<p>r128x 是一款用于 macOS 的音频响度测量工具，提供图形界面（GUI）和命令行（CLI）两种使用方式，适用于音频工程师、音乐制作人以及开发者进行精准的响度分析。</p>\n<img alt=\"R128x (百二十八禁)\" src=\"https://github.com/user-attachments/assets/659cffaf-b056-46f0-868a-9967a9a056c2\">\n<p>该工具基于 Swift 和现代 macOS 技术构建，既提供简洁的 SwiftUI 图形界面，也支持强大的命令行工作流，满足不同使用场景需求。</p>\n<p>r128x 需要 macOS 14 及以上系统，并针对 Apple Silicon 设备进行了优化。其核心响度计算库完全使用 Swift 实现，具备良好的系统兼容性与可维护性。</p>\n<p>项目采用 GPLv3 开源协议发布，支持自由使用、修改与分发（需公开源代码）。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/307\" target=\"_blank\">#307</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/307.html",

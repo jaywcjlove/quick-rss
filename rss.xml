@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sun, 22 Mar 2026 01:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 02:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HiPixel 是一款专为 macOS 打造的 AI 图像超分辨率（放大增强）工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/308.html</link>
+            <guid isPermaLink="false">308</guid>
+            <pubDate>Sun, 22 Mar 2026 02:12:16 GMT</pubDate>
+            <description><![CDATA[HiPixel 是一款原生 macOS 应用，专注于基于 AI 的图像超分辨率与放大增强。它采用 SwiftUI 构建，并结合 Upscayl 的先进 AI 模型，实现高质量、快速的图像处理体验。 应用支持 GPU 加速、多种图片格式，并提供文件夹监控功能，可自动处理新加入的图片。同时配备现代化且直观的界面，为用户带来高效流畅的图像增强工作流程。]]></description>
+            <content:encoded><![CDATA[<p>HiPixel 是一款原生 macOS 应用，专注于基于 AI 的图像超分辨率与放大增强。它采用 SwiftUI 构建，并结合 Upscayl 的先进 AI 模型，实现高质量、快速的图像处理体验。</p>
+<img alt="HiPixel" src="https://github.com/user-attachments/assets/58e8c277-ca57-4ddf-8eea-cdf1142919b8">
+<p>应用支持 GPU 加速、多种图片格式，并提供文件夹监控功能，可自动处理新加入的图片。同时配备现代化且直观的界面，为用户带来高效流畅的图像增强工作流程。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/308" target="_blank">#308</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/58e8c277-ca57-4ddf-8eea-cdf1142919b8" length="0" type="image//user-attachments/assets/58e8c277-ca57-4ddf-8eea-cdf1142919b8"/>
+        </item>
         <item>
             <title><![CDATA[R128x (百二十八禁)： EBUR128 响度测量工具，可同时测量多个音频文件。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/307.html</link>

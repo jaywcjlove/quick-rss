@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [HiPixel 是一款专为 macOS 打造的 AI 图像超分辨率（放大增强）工具](https://wangchujiang.com/quick-rss/issue/308.html) 
+
+![](https://github.com/user-attachments/assets/58e8c277-ca57-4ddf-8eea-cdf1142919b8)
+
+HiPixel 是一款原生 macOS 应用，专注于基于 AI 的图像超分辨率与放大增强。它采用 SwiftUI 构建，并结合 Upscayl 的先进 AI 模型，实现高质量、快速的图像处理体验。 应用支持 GPU 加速、多种图片格式，并提供文件夹监控功能，可自动处理新加入的图片。同时配备现代化且直观的界面，为用户带来高效流畅的图像增强工作流程。 ([#308](https://github.com/jaywcjlove/quick-rss/issues/308) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [R128x (百二十八禁)： EBUR128 响度测量工具，可同时测量多个音频文件。](https://wangchujiang.com/quick-rss/issue/307.html) 
 
 ![](https://github.com/user-attachments/assets/659cffaf-b056-46f0-868a-9967a9a056c2)

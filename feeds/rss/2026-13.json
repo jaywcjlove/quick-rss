@@ -1,5 +1,19 @@
 [
   {
+    "id": "307",
+    "url": "https://wangchujiang.com/quick-rss/issue/307.html",
+    "title": "R128x (百二十八禁)： EBUR128 响度测量工具，可同时测量多个音频文件。",
+    "content_html": "<p>r128x 是一款用于 macOS 的音频响度测量工具，提供图形界面（GUI）和命令行（CLI）两种使用方式，适用于音频工程师、音乐制作人以及开发者进行精准的响度分析。</p>\n<img alt=\"R128x (百二十八禁)\" src=\"https://github.com/user-attachments/assets/659cffaf-b056-46f0-868a-9967a9a056c2\">\n<p>该工具基于 Swift 和现代 macOS 技术构建，既提供简洁的 SwiftUI 图形界面，也支持强大的命令行工作流，满足不同使用场景需求。</p>\n<p>r128x 需要 macOS 14 及以上系统，并针对 Apple Silicon 设备进行了优化。其核心响度计算库完全使用 Swift 实现，具备良好的系统兼容性与可维护性。</p>\n<p>项目采用 GPLv3 开源协议发布，支持自由使用、修改与分发（需公开源代码）。</p>",
+    "summary": "r128x 是一款用于 macOS 的音频响度测量工具，提供图形界面（GUI）和命令行（CLI）两种使用方式，适用于音频工程师、音乐制作人以及开发者进行精准的响度分析。 该工具基于 Swift 和现代 macOS 技术构建，既提供简洁的 SwiftUI 图形界面，也支持强大的命令行工作流，满足不同使用场景需求。 r128x 需要 macOS 14 及以上系统，并针对 Apple Silicon 设",
+    "banner_image": null,
+    "date_published": "2026-03-22T01:57:11Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "r128x 是一款用于 macOS 的音频响度测量工具，提供图形界面（GUI）和命令行（CLI）两种使用方式，适用于音频工程师、音乐制作人以及开发者进行精准的响度分析。\n\n<img alt=\"R128x (百二十八禁)\" src=\"https://github.com/user-attachments/assets/659cffaf-b056-46f0-868a-9967a9a056c2\" />\n\n该工具基于 Swift 和现代 macOS 技术构建，既提供简洁的 SwiftUI 图形界面，也支持强大的命令行工作流，满足不同使用场景需求。\n\nr128x 需要 macOS 14 及以上系统，并针对 Apple Silicon 设备进行了优化。其核心响度计算库完全使用 Swift 实现，具备良好的系统兼容性与可维护性。\n\n项目采用 GPLv3 开源协议发布，支持自由使用、修改与分发（需公开源代码）。"
+  },
+  {
     "id": "306",
     "url": "https://wangchujiang.com/quick-rss/issue/306.html",
     "title": "MadTunes —— 面向发烧友与音乐制作人的高保真 macOS 音乐播放器",

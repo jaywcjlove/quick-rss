@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [R128x (百二十八禁)： EBUR128 响度测量工具，可同时测量多个音频文件。](https://wangchujiang.com/quick-rss/issue/307.html) 
+
+![](https://github.com/user-attachments/assets/659cffaf-b056-46f0-868a-9967a9a056c2)
+
+r128x 是一款用于 macOS 的音频响度测量工具，提供图形界面（GUI）和命令行（CLI）两种使用方式，适用于音频工程师、音乐制作人以及开发者进行精准的响度分析。 该工具基于 Swift 和现代 macOS 技术构建，既提供简洁的 SwiftUI 图形界面，也支持强大的命令行工作流，满足不同使用场景需求。 r128x 需要 macOS 14 及以上系统，并针对 Apple Silicon 设 ([#307](https://github.com/jaywcjlove/quick-rss/issues/307) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MadTunes —— 面向发烧友与音乐制作人的高保真 macOS 音乐播放器](https://wangchujiang.com/quick-rss/issue/306.html) 
 
 ![](https://github.com/user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697)

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [OneClip：重新定义 macOS 剪贴板体验！](https://wangchujiang.com/quick-rss/issue/309.html) 
+
+![](https://github.com/user-attachments/assets/1657c600-8a09-4629-ae34-85e1c0b1ce89)
+
+还在为剪贴板功能太弱而烦恼？试试 OneClip —— 一款专为 macOS 打造的专业级剪贴板管理工具，采用 100% SwiftUI 原生开发，流畅、轻量、强大。 ✨ 为什么推荐它？ • 🧠 智能记录：自动保存所有剪贴内容（文本 / 图片 / 文件） • ⚡ 极速搜索：⌘+F 即时查找历史内容 • 📦 栈粘贴板：批量复制 &#x26; 顺序粘贴，效率翻倍 • 🧲 拖拽容器：轻松跨应用传输 ([#309](https://github.com/jaywcjlove/quick-rss/issues/309) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [HiPixel 是一款专为 macOS 打造的 AI 图像超分辨率（放大增强）工具](https://wangchujiang.com/quick-rss/issue/308.html) 
 
 ![](https://github.com/user-attachments/assets/58e8c277-ca57-4ddf-8eea-cdf1142919b8)

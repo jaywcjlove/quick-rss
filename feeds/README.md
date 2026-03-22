@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MadTunes —— 面向发烧友与音乐制作人的高保真 macOS 音乐播放器](https://wangchujiang.com/quick-rss/issue/306.html) 
+
+![](https://github.com/user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697)
+
+MadTunes 是一款专为 macOS 打造的本地高保真音乐播放器，面向音频发烧友和音乐制作人。基于苹果原生 AVPlayer 构建，能够提供准确、无额外处理的音频播放体验，真实还原原始混音细节。 应用采用经典 iTunes 11 风格的网格界面，结合强大的键盘操作与高效的播放控制，带来直观且流畅的使用体验。 支持多种主流音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、Ogg Vor ([#306](https://github.com/jaywcjlove/quick-rss/issues/306) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Stockbar：在菜单栏盯盘的极简股票工具](https://wangchujiang.com/quick-rss/issue/305.html) 
 
 ![](https://github.com/user-attachments/assets/5a9b4e3d-219f-4f3e-a18c-4c77130046ae)

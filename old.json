@@ -31,15 +31,15 @@
     "id": "306",
     "url": "https://wangchujiang.com/quick-rss/issue/306.html",
     "title": "MadTunes —— 面向发烧友与音乐制作人的高保真 macOS 音乐播放器",
-    "content_html": "<p>MadTunes 是一款专为 macOS 打造的本地高保真音乐播放器，面向音频发烧友和音乐制作人。基于苹果原生 AVPlayer 构建，能够提供准确、无额外处理的音频播放体验，真实还原原始混音细节。</p>\n<img alt=\"MadTunes\" src=\"https://github.com/user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697\">\n<p>应用采用经典 iTunes 11 风格的网格界面，结合强大的键盘操作与高效的播放控制，带来直观且流畅的使用体验。</p>\n<p>支持多种主流音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、Ogg Vorbis 和 Opus，并提供无缝循环播放、智能搜索与筛选、灵活播放队列管理以及播放列表管理等功能。</p>\n<p>MadTunes 针对 macOS 深度优化，采用原生 SwiftUI 构建，界面现代流畅，并与系统良好集成。所有音频处理均在本地完成，不收集任何用户数据，充分保障隐私安全。</p>",
+    "content_html": "<p>MadTunes 是一款专为 macOS 打造的本地高保真音乐播放器，面向音频发烧友和音乐制作人。基于苹果原生 AVPlayer 构建，能够提供准确、无额外处理的音频播放体验，真实还原原始混音细节。</p>\n<img alt=\"MadTunes\" src=\"https://github.com/user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697\">\n<p>应用采用经典 iTunes 11 风格的网格界面，结合强大的键盘操作与高效的播放控制，带来直观且流畅的使用体验。</p>\n<p>支持多种主流音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、Ogg Vorbis 和 Opus，并提供无缝循环播放、智能搜索与筛选、灵活播放队列管理以及播放列表管理等功能。</p>\n<p><a href=\"https://apps.apple.com/us/app/madtunes/id6760667980\"><img src=\"https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg\" alt=\"Download on the App Store\"></a></p>\n<p>MadTunes 针对 macOS 深度优化，采用原生 SwiftUI 构建，界面现代流畅，并与系统良好集成。所有音频处理均在本地完成，不收集任何用户数据，充分保障隐私安全。</p>",
     "summary": "MadTunes 是一款专为 macOS 打造的本地高保真音乐播放器，面向音频发烧友和音乐制作人。基于苹果原生 AVPlayer 构建，能够提供准确、无额外处理的音频播放体验，真实还原原始混音细节。 应用采用经典 iTunes 11 风格的网格界面，结合强大的键盘操作与高效的播放控制，带来直观且流畅的使用体验。 支持多种主流音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、Ogg Vor",
-    "banner_image": null,
+    "banner_image": "https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg",
     "date_published": "2026-03-22T01:49:09Z",
     "author": {
       "name": "jaywcjlove",
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
     },
-    "markdownContent": "MadTunes 是一款专为 macOS 打造的本地高保真音乐播放器，面向音频发烧友和音乐制作人。基于苹果原生 AVPlayer 构建，能够提供准确、无额外处理的音频播放体验，真实还原原始混音细节。\n\n<img  alt=\"MadTunes\" src=\"https://github.com/user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697\" />\n\n应用采用经典 iTunes 11 风格的网格界面，结合强大的键盘操作与高效的播放控制，带来直观且流畅的使用体验。\n\n支持多种主流音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、Ogg Vorbis 和 Opus，并提供无缝循环播放、智能搜索与筛选、灵活播放队列管理以及播放列表管理等功能。\n\nMadTunes 针对 macOS 深度优化，采用原生 SwiftUI 构建，界面现代流畅，并与系统良好集成。所有音频处理均在本地完成，不收集任何用户数据，充分保障隐私安全。"
+    "markdownContent": "MadTunes 是一款专为 macOS 打造的本地高保真音乐播放器，面向音频发烧友和音乐制作人。基于苹果原生 AVPlayer 构建，能够提供准确、无额外处理的音频播放体验，真实还原原始混音细节。\n\n<img  alt=\"MadTunes\" src=\"https://github.com/user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697\" />\n\n应用采用经典 iTunes 11 风格的网格界面，结合强大的键盘操作与高效的播放控制，带来直观且流畅的使用体验。\n\n支持多种主流音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、Ogg Vorbis 和 Opus，并提供无缝循环播放、智能搜索与筛选、灵活播放队列管理以及播放列表管理等功能。\n\n\n[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/madtunes/id6760667980)\n\n\nMadTunes 针对 macOS 深度优化，采用原生 SwiftUI 构建，界面现代流畅，并与系统良好集成。所有音频处理均在本地完成，不收集任何用户数据，充分保障隐私安全。"
   },
   {
     "id": "305",

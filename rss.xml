@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 18 Mar 2026 07:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 01:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,25 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MadTunes —— 面向发烧友与音乐制作人的高保真 macOS 音乐播放器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/306.html</link>
+            <guid isPermaLink="false">306</guid>
+            <pubDate>Sun, 22 Mar 2026 01:49:09 GMT</pubDate>
+            <description><![CDATA[MadTunes 是一款专为 macOS 打造的本地高保真音乐播放器，面向音频发烧友和音乐制作人。基于苹果原生 AVPlayer 构建，能够提供准确、无额外处理的音频播放体验，真实还原原始混音细节。 应用采用经典 iTunes 11 风格的网格界面，结合强大的键盘操作与高效的播放控制，带来直观且流畅的使用体验。 支持多种主流音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、Ogg Vor]]></description>
+            <content:encoded><![CDATA[<p>MadTunes 是一款专为 macOS 打造的本地高保真音乐播放器，面向音频发烧友和音乐制作人。基于苹果原生 AVPlayer 构建，能够提供准确、无额外处理的音频播放体验，真实还原原始混音细节。</p>
+<img alt="MadTunes" src="https://github.com/user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697">
+<p>应用采用经典 iTunes 11 风格的网格界面，结合强大的键盘操作与高效的播放控制，带来直观且流畅的使用体验。</p>
+<p>支持多种主流音频格式，包括 MP3、FLAC、AAC、WAV、AIFF、Ogg Vorbis 和 Opus，并提供无缝循环播放、智能搜索与筛选、灵活播放队列管理以及播放列表管理等功能。</p>
+<p>MadTunes 针对 macOS 深度优化，采用原生 SwiftUI 构建，界面现代流畅，并与系统良好集成。所有音频处理均在本地完成，不收集任何用户数据，充分保障隐私安全。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/306" target="_blank">#306</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697" length="0" type="image//user-attachments/assets/b22594a0-b660-4ba5-a731-8ee901f8d697"/>
+        </item>
         <item>
             <title><![CDATA[Stockbar：在菜单栏盯盘的极简股票工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/305.html</link>

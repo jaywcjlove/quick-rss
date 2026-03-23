@@ -16,13 +16,13 @@ jobs:
 
       - name: Extract version from tag
         id: extract_version
-        run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+        run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
 
       - name: Create Tag
         id: create_tag
         uses: jaywcjlove/create-tag-action@main
         with:
-          version: ${{ env.VERSION }}
+          version: ${{ steps.extract_version.outputs.VERSION }}
           release: true
           body: |
             <p>

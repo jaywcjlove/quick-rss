@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DearSQL：轻量原生数据库客户端，支持 SQLite、PostgreSQL、MySQL、MariaDB、MongoDB、Redis](https://wangchujiang.com/quick-rss/issue/310.html) 
+
+![](https://github.com/user-attachments/assets/d6f6b5cb-ed6f-47d6-ab05-18785be6ec7e)
+
+简单跨平台数据库工具，支持 SQLite、PostgreSQL、MySQL、MariaDB、MongoDB、Redis。 macOS（Metal）+ Linux 原生界面，侧边栏浏览 Schema，保存连接，运行 SQL 并格式化结果，查询历史。 无 Electron，轻量高效。 ([#310](https://github.com/jaywcjlove/quick-rss/issues/310) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [OneClip：重新定义 macOS 剪贴板体验！](https://wangchujiang.com/quick-rss/issue/309.html) 
 
 ![](https://github.com/user-attachments/assets/1657c600-8a09-4629-ae34-85e1c0b1ce89)

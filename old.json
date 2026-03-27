@@ -1,5 +1,19 @@
 [
   {
+    "id": "310",
+    "url": "https://wangchujiang.com/quick-rss/issue/310.html",
+    "title": "DearSQL：轻量原生数据库客户端，支持 SQLite、PostgreSQL、MySQL、MariaDB、MongoDB、Redis",
+    "content_html": "<p>简单跨平台数据库工具，支持 SQLite、PostgreSQL、MySQL、MariaDB、MongoDB、Redis。\nmacOS（Metal）+ Linux 原生界面，侧边栏浏览 Schema，保存连接，运行 SQL 并格式化结果，查询历史。\n无 Electron，轻量高效。</p>\n<img alt=\"DearSQL\" src=\"https://github.com/user-attachments/assets/d6f6b5cb-ed6f-47d6-ab05-18785be6ec7e\">",
+    "summary": "简单跨平台数据库工具，支持 SQLite、PostgreSQL、MySQL、MariaDB、MongoDB、Redis。 macOS（Metal）+ Linux 原生界面，侧边栏浏览 Schema，保存连接，运行 SQL 并格式化结果，查询历史。 无 Electron，轻量高效。",
+    "banner_image": null,
+    "date_published": "2026-03-27T01:28:16Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "简单跨平台数据库工具，支持 SQLite、PostgreSQL、MySQL、MariaDB、MongoDB、Redis。\nmacOS（Metal）+ Linux 原生界面，侧边栏浏览 Schema，保存连接，运行 SQL 并格式化结果，查询历史。\n无 Electron，轻量高效。\n\n<img alt=\"DearSQL\" src=\"https://github.com/user-attachments/assets/d6f6b5cb-ed6f-47d6-ab05-18785be6ec7e\" />"
+  },
+  {
     "id": "309",
     "url": "https://wangchujiang.com/quick-rss/issue/309.html",
     "title": "OneClip：重新定义 macOS 剪贴板体验！",

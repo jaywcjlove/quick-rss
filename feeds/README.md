@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TouchBridge：不用花 $199 买键盘，用手机给 Mac 加 Touch ID](https://wangchujiang.com/quick-rss/issue/311.html) 
+
+![](https://github.com/user-attachments/assets/56142da4-8cd3-4d7e-a861-68ef41de5ee4)
+
+TouchBridge 可以让你的手机指纹，直接用来解锁 Mac。sudo、锁屏、App Store —— 不用再一遍遍输入密码。 问题是：Apple 把 Touch ID 当成“付费功能”。 Mac Mini、Mac Studio、Mac Pro —— 完全没有指纹。 部分 MacBook 也需要更高配置才有。 iMac 甚至要额外买带指纹的键盘。 结果就是：你每天都在重复输入密码。 Touch ([#311](https://github.com/jaywcjlove/quick-rss/issues/311) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DearSQL：轻量原生数据库客户端，支持 SQLite、PostgreSQL、MySQL、MariaDB、MongoDB、Redis](https://wangchujiang.com/quick-rss/issue/310.html) 
 
 ![](https://github.com/user-attachments/assets/d6f6b5cb-ed6f-47d6-ab05-18785be6ec7e)

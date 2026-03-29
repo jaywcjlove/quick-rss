@@ -1,0 +1,16 @@
+[
+  {
+    "id": "311",
+    "url": "https://wangchujiang.com/quick-rss/issue/311.html",
+    "title": "TouchBridge：不用花 $199 买键盘，用手机给 Mac 加 Touch ID",
+    "content_html": "<p>TouchBridge 可以让你的手机指纹，直接用来解锁 Mac。sudo、锁屏、App Store —— 不用再一遍遍输入密码。</p>\n<p><img src=\"https://github.com/user-attachments/assets/56142da4-8cd3-4d7e-a861-68ef41de5ee4\" alt=\"TouchBridge\"></p>\n<p>问题是：Apple 把 Touch ID 当成“付费功能”。</p>\n<p>Mac Mini、Mac Studio、Mac Pro —— 完全没有指纹。<br>\n部分 MacBook 也需要更高配置才有。<br>\niMac 甚至要额外买带指纹的键盘。</p>\n<p>结果就是：你每天都在重复输入密码。</p>\n<p>TouchBridge 的解决方案：</p>\n<p>✔ 用手机指纹解锁（支持 iPhone / Android）<br>\n✔ 支持 sudo、锁屏等场景<br>\n✔ 不需要 $199 的 Magic Keyboard</p>\n<p>你的手机已经有指纹识别，现在 Mac 也可以用了。</p>",
+    "summary": "TouchBridge 可以让你的手机指纹，直接用来解锁 Mac。sudo、锁屏、App Store —— 不用再一遍遍输入密码。 问题是：Apple 把 Touch ID 当成“付费功能”。 Mac Mini、Mac Studio、Mac Pro —— 完全没有指纹。 部分 MacBook 也需要更高配置才有。 iMac 甚至要额外买带指纹的键盘。 结果就是：你每天都在重复输入密码。 Touch",
+    "banner_image": "https://github.com/user-attachments/assets/56142da4-8cd3-4d7e-a861-68ef41de5ee4",
+    "date_published": "2026-03-28T14:47:05Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "TouchBridge 可以让你的手机指纹，直接用来解锁 Mac。sudo、锁屏、App Store —— 不用再一遍遍输入密码。\n\n![TouchBridge](https://github.com/user-attachments/assets/56142da4-8cd3-4d7e-a861-68ef41de5ee4)\n\n问题是：Apple 把 Touch ID 当成“付费功能”。\n\nMac Mini、Mac Studio、Mac Pro —— 完全没有指纹。  \n部分 MacBook 也需要更高配置才有。  \niMac 甚至要额外买带指纹的键盘。  \n\n结果就是：你每天都在重复输入密码。\n\nTouchBridge 的解决方案：\n\n✔ 用手机指纹解锁（支持 iPhone / Android）  \n✔ 支持 sudo、锁屏等场景  \n✔ 不需要 $199 的 Magic Keyboard  \n\n你的手机已经有指纹识别，现在 Mac 也可以用了。"
+  }
+]

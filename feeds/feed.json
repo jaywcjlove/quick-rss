@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "311",
+            "content_html": "<p>TouchBridge 可以让你的手机指纹，直接用来解锁 Mac。sudo、锁屏、App Store —— 不用再一遍遍输入密码。</p>\n<p><img src=\"https://github.com/user-attachments/assets/56142da4-8cd3-4d7e-a861-68ef41de5ee4\" alt=\"TouchBridge\"></p>\n<p>问题是：Apple 把 Touch ID 当成“付费功能”。</p>\n<p>Mac Mini、Mac Studio、Mac Pro —— 完全没有指纹。<br>\n部分 MacBook 也需要更高配置才有。<br>\niMac 甚至要额外买带指纹的键盘。</p>\n<p>结果就是：你每天都在重复输入密码。</p>\n<p>TouchBridge 的解决方案：</p>\n<p>✔ 用手机指纹解锁（支持 iPhone / Android）<br>\n✔ 支持 sudo、锁屏等场景<br>\n✔ 不需要 $199 的 Magic Keyboard</p>\n<p>你的手机已经有指纹识别，现在 Mac 也可以用了。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/311\" target=\"_blank\">#311</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/311.html",
+            "title": "TouchBridge：不用花 $199 买键盘，用手机给 Mac 加 Touch ID",
+            "summary": "TouchBridge 可以让你的手机指纹，直接用来解锁 Mac。sudo、锁屏、App Store —— 不用再一遍遍输入密码。 问题是：Apple 把 Touch ID 当成“付费功能”。 Mac Mini、Mac Studio、Mac Pro —— 完全没有指纹。 部分 MacBook 也需要更高配置才有。 iMac 甚至要额外买带指纹的键盘。 结果就是：你每天都在重复输入密码。 Touch",
+            "image": "https://github.com/user-attachments/assets/56142da4-8cd3-4d7e-a861-68ef41de5ee4",
+            "date_modified": "2026-03-28T14:47:05.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "310",
             "content_html": "<p>简单跨平台数据库工具，支持 SQLite、PostgreSQL、MySQL、MariaDB、MongoDB、Redis。\nmacOS（Metal）+ Linux 原生界面，侧边栏浏览 Schema，保存连接，运行 SQL 并格式化结果，查询历史。\n无 Electron，轻量高效。</p>\n<img alt=\"DearSQL\" src=\"https://github.com/user-attachments/assets/d6f6b5cb-ed6f-47d6-ab05-18785be6ec7e\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/310\" target=\"_blank\">#310</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/310.html",

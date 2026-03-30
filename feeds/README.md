@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ClashBar：推荐一款原生 macOS 菜单栏代理客户端](https://wangchujiang.com/quick-rss/issue/312.html) 
+
+![](https://github.com/user-attachments/assets/452447f1-fcf9-448e-8a9a-1efcbe74212e)
+
+这是一个基于 SwiftUI + AppKit 构建、由 mihomo 驱动的原生菜单栏代理客户端，整体思路很明确：轻量、稳定、可观测。 我觉得它比较有意思的地方在于，它不是那种一上来就塞一个很复杂主窗口的工具，而是尽量把常用操作都放进菜单栏里完成，比如： 配置管理 节点切换 规则刷新 连接排障 系统代理控制 项目作者也提到，这个应用的目标一直很明确，就是优先保证： 轻量化 长期稳定运行 尽量减少 ([#312](https://github.com/jaywcjlove/quick-rss/issues/312) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [TouchBridge：不用花 $199 买键盘，用手机给 Mac 加 Touch ID](https://wangchujiang.com/quick-rss/issue/311.html) 
 
 ![](https://github.com/user-attachments/assets/56142da4-8cd3-4d7e-a861-68ef41de5ee4)

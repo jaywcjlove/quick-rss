@@ -1,5 +1,19 @@
 [
   {
+    "id": "312",
+    "url": "https://wangchujiang.com/quick-rss/issue/312.html",
+    "title": "ClashBar：推荐一款原生 macOS 菜单栏代理客户端",
+    "content_html": "<p>这是一个基于 <strong>SwiftUI + AppKit</strong> 构建、由 <strong>mihomo</strong> 驱动的原生菜单栏代理客户端，整体思路很明确：<strong>轻量、稳定、可观测</strong>。</p>\n<img alt=\"ClashBar\" src=\"https://github.com/user-attachments/assets/452447f1-fcf9-448e-8a9a-1efcbe74212e\">\n<p>我觉得它比较有意思的地方在于，它不是那种一上来就塞一个很复杂主窗口的工具，而是尽量把常用操作都放进菜单栏里完成，比如：</p>\n<ul>\n<li>配置管理</li>\n<li>节点切换</li>\n<li>规则刷新</li>\n<li>连接排障</li>\n<li>系统代理控制</li>\n</ul>\n<p>项目作者也提到，这个应用的目标一直很明确，就是优先保证：</p>\n<ul>\n<li><strong>轻量化</strong></li>\n<li><strong>长期稳定运行</strong></li>\n<li><strong>尽量减少功能堆叠带来的复杂度</strong></li>\n</ul>\n<p>另外这个项目还是一个比较典型的 <strong>AI vibe coding</strong> 实践案例，需求整理、功能迭代、文档维护等过程持续和 Codex 协作完成，这点也挺有意思。</p>\n<p>如果你平时就在 macOS 上使用代理工具，又希望体验更原生、更轻量一点，可以看看这个项目：</p>",
+    "summary": "这是一个基于 **SwiftUI + AppKit** 构建、由 **mihomo** 驱动的原生菜单栏代理客户端，整体思路很明确：**轻量、稳定、可观测**。 我觉得它比较有意思的地方在于，它不是那种一上来就塞一个很复杂主窗口的工具，而是尽量把常用操作都放进菜单栏里完成，比如： * 配置管理 * 节点切换 * 规则刷新 * 连接排障 * 系统代理控制 项目作者也提到，这个应用的目标一直很明确，就",
+    "banner_image": null,
+    "date_published": "2026-03-30T06:30:23Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一个基于 **SwiftUI + AppKit** 构建、由 **mihomo** 驱动的原生菜单栏代理客户端，整体思路很明确：**轻量、稳定、可观测**。\n\n<img  alt=\"ClashBar\" src=\"https://github.com/user-attachments/assets/452447f1-fcf9-448e-8a9a-1efcbe74212e\" />\n\n我觉得它比较有意思的地方在于，它不是那种一上来就塞一个很复杂主窗口的工具，而是尽量把常用操作都放进菜单栏里完成，比如：\n\n* 配置管理\n* 节点切换\n* 规则刷新\n* 连接排障\n* 系统代理控制\n\n项目作者也提到，这个应用的目标一直很明确，就是优先保证：\n\n* **轻量化**\n* **长期稳定运行**\n* **尽量减少功能堆叠带来的复杂度**\n\n另外这个项目还是一个比较典型的 **AI vibe coding** 实践案例，需求整理、功能迭代、文档维护等过程持续和 Codex 协作完成，这点也挺有意思。\n\n如果你平时就在 macOS 上使用代理工具，又希望体验更原生、更轻量一点，可以看看这个项目："
+  },
+  {
     "id": "311",
     "url": "https://wangchujiang.com/quick-rss/issue/311.html",
     "title": "TouchBridge：不用花 $199 买键盘，用手机给 Mac 加 Touch ID",

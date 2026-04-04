@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-03-30T06:31:10.680Z</updated>
+    <updated>2026-04-04T02:57:10.569Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[iOutBox：图片2D照片转裸眼3D照片]]></title>
+        <id>313</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/313.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/2ab2f587-95f1-4b2d-99a6-280a38a9ea68" type="image//user-attachments/assets/2ab2f587-95f1-4b2d-99a6-280a38a9ea68"/>
+        <updated>2026-04-03T12:54:26.000Z</updated>
+        <summary type="html"><![CDATA[原理是通过抠出照片中的主体，然后放置到相框的图层上，这种处理方式打破了二维平面的束缚，利用遮挡关系欺骗大脑，产生一种物体正向观众“跃出”屏幕的 3D 空间感。 制作起来也很简单，上传一张照片即可]]></summary>
+        <content type="html"><![CDATA[<p>原理是通过抠出照片中的主体，然后放置到相框的图层上，这种处理方式打破了二维平面的束缚，利用遮挡关系欺骗大脑，产生一种物体正向观众“跃出”屏幕的 3D 空间感。</p>
+<img alt="iOutBox" src="https://github.com/user-attachments/assets/2ab2f587-95f1-4b2d-99a6-280a38a9ea68">
+<p>制作起来也很简单，上传一张照片即可</p>
+<img alt="iOutBox" src="https://github.com/user-attachments/assets/0dde3e54-35fe-45e4-a961-b3abdb611999"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/313" target="_blank">#313</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/lanyi1998" target="_blank">@lanyi1998</a>
+      ]]></content>
+        <author>
+            <name>lanyi1998</name>
+            <uri>https://avatars.githubusercontent.com/u/31091395?v=4</uri>
+        </author>
+        <contributor>
+            <name>lanyi1998</name>
+            <uri>https://avatars.githubusercontent.com/u/31091395?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClashBar：推荐一款原生 macOS 菜单栏代理客户端]]></title>
         <id>312</id>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [iOutBox：图片2D照片转裸眼3D照片](https://wangchujiang.com/quick-rss/issue/313.html) 
+
+![](https://github.com/user-attachments/assets/2ab2f587-95f1-4b2d-99a6-280a38a9ea68)
+
+原理是通过抠出照片中的主体，然后放置到相框的图层上，这种处理方式打破了二维平面的束缚，利用遮挡关系欺骗大脑，产生一种物体正向观众“跃出”屏幕的 3D 空间感。 制作起来也很简单，上传一张照片即可 ([#313](https://github.com/jaywcjlove/quick-rss/issues/313) - [@lanyi1998](https://github.com/lanyi1998))
 ## [ClashBar：推荐一款原生 macOS 菜单栏代理客户端](https://wangchujiang.com/quick-rss/issue/312.html) 
 
 ![](https://github.com/user-attachments/assets/452447f1-fcf9-448e-8a9a-1efcbe74212e)

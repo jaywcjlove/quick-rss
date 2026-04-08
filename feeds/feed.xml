@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-04T02:57:10.569Z</updated>
+    <updated>2026-04-08T11:59:47.750Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,77 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[EchoMusic： 一个专为桌面端打造的简约、精致、功能强大的第三方音乐播放器]]></title>
+        <id>314</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/314.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/e636bd30-12f8-4599-9e7d-4222ee10e136" type="image//user-attachments/assets/e636bd30-12f8-4599-9e7d-4222ee10e136"/>
+        <updated>2026-04-08T11:59:20.000Z</updated>
+        <summary type="html"><![CDATA[EchoMusic 是一款专为桌面端打造的第三方音乐播放器，兼顾简约设计与完整功能体验。它不仅提供流畅的音乐播放能力，还在歌词、评论、系统集成等细节上做了深度优化，带来更加沉浸和高效的听歌体验。同时采用直连官方服务的方式，避免第三方中转，进一步保障数据安全。支持 macOS、Windows 与 Linux，是一个真正面向桌面场景打造的全平台音乐播放器。 核心特性 🎨 精致桌面设计 适配桌面布局，]]></summary>
+        <content type="html"><![CDATA[<p>EchoMusic 是一款专为桌面端打造的第三方音乐播放器，兼顾简约设计与完整功能体验。它不仅提供流畅的音乐播放能力，还在歌词、评论、系统集成等细节上做了深度优化，带来更加沉浸和高效的听歌体验。同时采用直连官方服务的方式，避免第三方中转，进一步保障数据安全。支持 macOS、Windows 与 Linux，是一个真正面向桌面场景打造的全平台音乐播放器。</p>
+<img alt="EchoMusic" src="https://github.com/user-attachments/assets/e636bd30-12f8-4599-9e7d-4222ee10e136">
+<img alt="EchoMusic" src="https://github.com/user-attachments/assets/3b2da5be-eb2b-4e5f-a82d-14be942a2487">
+<img alt="EchoMusic" src="https://github.com/user-attachments/assets/8cbf4794-353d-4a75-9977-4ddba3059198">
+<img alt="EchoMusic" src="https://github.com/user-attachments/assets/36400f26-934e-478f-bc36-7f0ac6258cdc">
+<img alt="EchoMusic" src="https://github.com/user-attachments/assets/d2bbcde0-1127-49cc-8bd8-caeb8e954473">
+<h2>核心特性</h2>
+<ul>
+<li>
+<p>🎨 <strong>精致桌面设计</strong>
+适配桌面布局，支持深浅色模式，兼顾美观与信息密度</p>
+</li>
+<li>
+<p>🔒 <strong>数据安全</strong>
+官方服务直连，无第三方服务器中转</p>
+</li>
+<li>
+<p>🔎 <strong>音乐推荐与搜索</strong>
+支持歌曲、歌手、专辑、歌单、排行榜推荐与全局搜索</p>
+</li>
+<li>
+<p>▶️ <strong>完整播放控制</strong>
+播放队列、播放模式切换、进度拖动、音量调节等</p>
+</li>
+<li>
+<p>💬 <strong>评论与互动</strong>
+支持歌曲评论查看与楼层跳转</p>
+</li>
+<li>
+<p>📝 <strong>歌词系统</strong>
+支持 LRC 解析、滚动同步、全屏歌词、桌面歌词</p>
+</li>
+<li>
+<p>⚙️ <strong>系统集成</strong>
+系统托盘、托盘控制、窗口控制、全局快捷键</p>
+</li>
+<li>
+<p>💾 <strong>本地持久化</strong>
+设置、播放历史、收藏、播放状态本地保存</p>
+</li>
+<li>
+<p>🌍 <strong>跨平台支持</strong>
+macOS / Windows / Linux 全平台适配</p>
+</li>
+<li>
+<p>🎧 <strong>音质与音效</strong>
+支持 Hi-Res、FLAC、320kbps 等音质
+内置多种音效（人声、DJ、环绕等）</p>
+</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/314" target="_blank">#314</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOutBox：图片2D照片转裸眼3D照片]]></title>
         <id>313</id>

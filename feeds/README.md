@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [EchoMusic： 一个专为桌面端打造的简约、精致、功能强大的第三方音乐播放器](https://wangchujiang.com/quick-rss/issue/314.html) 
+
+![](https://github.com/user-attachments/assets/e636bd30-12f8-4599-9e7d-4222ee10e136)
+
+EchoMusic 是一款专为桌面端打造的第三方音乐播放器，兼顾简约设计与完整功能体验。它不仅提供流畅的音乐播放能力，还在歌词、评论、系统集成等细节上做了深度优化，带来更加沉浸和高效的听歌体验。同时采用直连官方服务的方式，避免第三方中转，进一步保障数据安全。支持 macOS、Windows 与 Linux，是一个真正面向桌面场景打造的全平台音乐播放器。 核心特性 🎨 精致桌面设计 适配桌面布局， ([#314](https://github.com/jaywcjlove/quick-rss/issues/314) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [iOutBox：图片2D照片转裸眼3D照片](https://wangchujiang.com/quick-rss/issue/313.html) 
 
 ![](https://github.com/user-attachments/assets/2ab2f587-95f1-4b2d-99a6-280a38a9ea68)

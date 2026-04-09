@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "317",
+            "content_html": "<p>发现一个很不错的 macOS 清理工具 —— PureMac 👇</p>\n<img alt=\"PureMac\" src=\"https://github.com/user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5\">\n<p>主打一个：<strong>免费 + 隐私 + 原生 + 开源</strong></p>\n<ul>\n<li>完全免费（无订阅 / 无付费版）</li>\n<li>无数据收集（无 telemetry / 无分析 / 无网络请求）</li>\n<li>基于 SwiftUI 构建，纯原生体验</li>\n<li>开源 MIT 协议，代码可审计</li>\n<li>已签名 + notarized，无安全警告</li>\n</ul>\n<p>相比常见的清理工具（$30–50/年 + 各种弹窗），\n这个直接 <strong>离线运行 + 零打扰</strong> 👍</p>\n<p>如果你想找一个干净、轻量、不打扰的替代方案，可以试试这个。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/317\" target=\"_blank\">#317</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/317.html",
+            "title": "PureMac：一个免费开源的 CleanMyMac 替代品",
+            "summary": "发现一个很不错的 macOS 清理工具 —— PureMac 👇 主打一个：免费 + 隐私 + 原生 + 开源 完全免费（无订阅 / 无付费版） 无数据收集（无 telemetry / 无分析 / 无网络请求） 基于 SwiftUI 构建，纯原生体验 开源 MIT 协议，代码可审计 已签名 + notarized，无安全警告 相比常见的清理工具（$30–50/年 + 各种弹窗）， 这个直接 离线",
+            "image": "https://github.com/user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5",
+            "date_modified": "2026-04-09T05:53:55.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "316",
             "content_html": "<p>发现一个很有意思的 macOS 开源启动器 —— SuperCmd 👇</p>\n<img alt=\"SuperCmd\" src=\"https://github.com/user-attachments/assets/1bd3f650-06a2-4146-97be-acdcc5086554\">\n<p>把 Raycast + Wispr Flow + Speechify + AI + Memory 全部整合在一起：</p>\n<ul>\n<li>兼容 Raycast 扩展生态（支持 @raycast/api）</li>\n<li>支持语音输入（按住说话 → 自动转文字）</li>\n<li>文本朗读（类似 Speechify）</li>\n<li>内置 AI（支持 OpenAI / Ollama / Anthropic 等）</li>\n<li>支持记忆能力（Supermemory）</li>\n<li>脚本命令 + 扩展安装/更新</li>\n<li>原生 macOS 能力（快捷键 / 颜色选择 / 片段等）</li>\n</ul>\n<p>而且还带：\n语法高亮、文件树、标签页、行号、状态栏 —— 全部不到 1MB ⚡️</p>\n<p>Electron + React 构建，但主打开源 + 可扩展生态。</p>\n<p>一个方向很野的 Raycast 替代方案 👍</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/316\" target=\"_blank\">#316</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/316.html",

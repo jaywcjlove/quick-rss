@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-09T05:54:41.939Z</updated>
+    <updated>2026-04-09T06:23:54.466Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,39 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Tempo：一个极简的视频加速与导出工具]]></title>
+        <id>318</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/318.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/b697742b-7666-4371-abe0-73168ae5dd94" type="image//user-attachments/assets/b697742b-7666-4371-abe0-73168ae5dd94"/>
+        <updated>2026-04-09T06:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Tempo 是一个专为 macOS 设计的视频处理小工具，主打简单、高效的倍速导出体验。没有复杂编辑功能，只专注于一件事：快速调整视频速度并导出，让处理流程变得非常轻松直观。 专注做一件事：视频加速导出 支持 1× / 2× / 3× / 4× 倍速导出 支持 480p / 720p / 1080p 等质量选择 拖拽即可处理，简单直接 实时进度 + 预估文件大小 支持右键 Open With 调用]]></summary>
+        <content type="html"><![CDATA[<p>Tempo 是一个专为 macOS 设计的视频处理小工具，主打简单、高效的倍速导出体验。没有复杂编辑功能，只专注于一件事：快速调整视频速度并导出，让处理流程变得非常轻松直观。</p>
+<img alt="Tempo" src="https://github.com/user-attachments/assets/b697742b-7666-4371-abe0-73168ae5dd94">
+<p>专注做一件事：<strong>视频加速导出</strong></p>
+<ul>
+<li>支持 1× / 2× / 3× / 4× 倍速导出</li>
+<li>支持 480p / 720p / 1080p 等质量选择</li>
+<li>拖拽即可处理，简单直接</li>
+<li>实时进度 + 预估文件大小</li>
+<li>支持右键 Open With 调用</li>
+<li>深色模式 + 极简界面</li>
+</ul>
+<p>没有复杂功能，就是一个<strong>轻量但好用的效率工具</strong> ⚡️</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/318" target="_blank">#318</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PureMac：一个免费开源的 CleanMyMac 替代品]]></title>
         <id>317</id>

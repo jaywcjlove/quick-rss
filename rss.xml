@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 09 Apr 2026 05:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 06:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,32 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tempo：一个极简的视频加速与导出工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/318.html</link>
+            <guid isPermaLink="false">318</guid>
+            <pubDate>Thu, 09 Apr 2026 06:23:07 GMT</pubDate>
+            <description><![CDATA[Tempo 是一个专为 macOS 设计的视频处理小工具，主打简单、高效的倍速导出体验。没有复杂编辑功能，只专注于一件事：快速调整视频速度并导出，让处理流程变得非常轻松直观。 专注做一件事：视频加速导出 支持 1× / 2× / 3× / 4× 倍速导出 支持 480p / 720p / 1080p 等质量选择 拖拽即可处理，简单直接 实时进度 + 预估文件大小 支持右键 Open With 调用]]></description>
+            <content:encoded><![CDATA[<p>Tempo 是一个专为 macOS 设计的视频处理小工具，主打简单、高效的倍速导出体验。没有复杂编辑功能，只专注于一件事：快速调整视频速度并导出，让处理流程变得非常轻松直观。</p>
+<img alt="Tempo" src="https://github.com/user-attachments/assets/b697742b-7666-4371-abe0-73168ae5dd94">
+<p>专注做一件事：<strong>视频加速导出</strong></p>
+<ul>
+<li>支持 1× / 2× / 3× / 4× 倍速导出</li>
+<li>支持 480p / 720p / 1080p 等质量选择</li>
+<li>拖拽即可处理，简单直接</li>
+<li>实时进度 + 预估文件大小</li>
+<li>支持右键 Open With 调用</li>
+<li>深色模式 + 极简界面</li>
+</ul>
+<p>没有复杂功能，就是一个<strong>轻量但好用的效率工具</strong> ⚡️</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/318" target="_blank">#318</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/b697742b-7666-4371-abe0-73168ae5dd94" length="0" type="image//user-attachments/assets/b697742b-7666-4371-abe0-73168ae5dd94"/>
+        </item>
         <item>
             <title><![CDATA[PureMac：一个免费开源的 CleanMyMac 替代品]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/317.html</link>

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 09 Apr 2026 06:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 06:52:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,35 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RSS Reader：一个带 AI 能力的三栏 RSS 阅读器（Go + Nuxt 4）]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/319.html</link>
+            <guid isPermaLink="false">319</guid>
+            <pubDate>Thu, 09 Apr 2026 06:52:14 GMT</pubDate>
+            <description><![CDATA[这是一个不太一样的 RSS 阅读器，不只是“读订阅”，而是尝试用 AI 去整理信息、建立关联、甚至还原事件脉络。通过全文抓取、内容结构化、标签与时间线分析，它更像是一个“信息整理与认知工具”，而不仅仅是阅读工具。 三栏阅读（类似 FeedBro） Feed / 分类管理 + OPML 导入导出 Firecrawl 全文抓取，补全摘要 AI 内容整理 + 多版本切换（原文 / 全文 / AI） 批量]]></description>
+            <content:encoded><![CDATA[<p>这是一个不太一样的 RSS 阅读器，不只是“读订阅”，而是尝试用 AI 去整理信息、建立关联、甚至还原事件脉络。通过全文抓取、内容结构化、标签与时间线分析，它更像是一个“信息整理与认知工具”，而不仅仅是阅读工具。</p>
+<img alt="RSS Reader" src="https://github.com/user-attachments/assets/e76f335e-e938-4dd8-8879-b3b618ad0adb">
+<img alt="RSS Reader" src="https://github.com/user-attachments/assets/2ac17529-90bf-4d10-8eab-13079e4a088c">
+<img alt="RSS Reader" src="https://github.com/user-attachments/assets/bc00dc49-364f-41e3-8c39-dfce3b1242ff">
+<img alt="RSS Reader" src="https://github.com/user-attachments/assets/e41b4c44-64cf-422c-b9ec-ec531b2b2e52">
+<ul>
+<li>三栏阅读（类似 FeedBro）</li>
+<li>Feed / 分类管理 + OPML 导入导出</li>
+<li>Firecrawl 全文抓取，补全摘要</li>
+<li>AI 内容整理 + 多版本切换（原文 / 全文 / AI）</li>
+<li>批量 AI 总结（分类 / Feed 维度）</li>
+<li>阅读行为分析 + 偏好排序</li>
+<li>日报 / 周报自动生成（支持飞书 / Obsidian）</li>
+</ul>
+<p>一个在尝试解决「信息过载 + 信息碎片化」问题的 RSS 工具，还在持续开发中 👍</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/319" target="_blank">#319</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/e76f335e-e938-4dd8-8879-b3b618ad0adb" length="0" type="image//user-attachments/assets/e76f335e-e938-4dd8-8879-b3b618ad0adb"/>
+        </item>
         <item>
             <title><![CDATA[Tempo：一个极简的视频加速与导出工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/318.html</link>

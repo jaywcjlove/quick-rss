@@ -95,7 +95,7 @@ jobs:
               }
             }
             
-            const comment_body = `🚀 自动发布完成！请查看：[${issue_title}](https://wangchujiang.com/quick-rss/issue/${issue_number}.html) 🎉${mentionUser}`;
+            const comment_body = `🚀 自动发布完成！请查看：[${issue_title}](https://wangchujiang.com/quick-rss/issue/${issue_number}.html) 🎉${mentionUser ? `\n${mentionUser}` : ''}`;
 
             await github.rest.issues.createComment({
               owner,

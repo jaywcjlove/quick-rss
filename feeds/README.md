@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SuperCmd：把 Raycast + 语音 + AI 全部融合在一个开源启动器里](https://wangchujiang.com/quick-rss/issue/316.html) 
+
+![](https://github.com/user-attachments/assets/1bd3f650-06a2-4146-97be-acdcc5086554)
+
+发现一个很有意思的 macOS 开源启动器 —— SuperCmd 👇 把 Raycast + Wispr Flow + Speechify + AI + Memory 全部整合在一起： 兼容 Raycast 扩展生态（支持 @raycast/api） 支持语音输入（按住说话 → 自动转文字） 文本朗读（类似 Speechify） 内置 AI（支持 OpenAI / Ollama / Anthr ([#316](https://github.com/jaywcjlove/quick-rss/issues/316) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [LiteEdit：轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树](https://wangchujiang.com/quick-rss/issue/315.html) 
 
 ![](https://github.com/user-attachments/assets/97b871c9-e81c-49d1-a929-0569abe4bb71)

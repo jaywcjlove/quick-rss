@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-09T04:29:17.518Z</updated>
+    <updated>2026-04-09T05:34:15.554Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,43 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[SuperCmd：把 Raycast + 语音 + AI 全部融合在一个开源启动器里]]></title>
+        <id>316</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/316.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/1bd3f650-06a2-4146-97be-acdcc5086554" type="image//user-attachments/assets/1bd3f650-06a2-4146-97be-acdcc5086554"/>
+        <updated>2026-04-09T05:33:31.000Z</updated>
+        <summary type="html"><![CDATA[发现一个很有意思的 macOS 开源启动器 —— SuperCmd 👇 把 Raycast + Wispr Flow + Speechify + AI + Memory 全部整合在一起： 兼容 Raycast 扩展生态（支持 @raycast/api） 支持语音输入（按住说话 → 自动转文字） 文本朗读（类似 Speechify） 内置 AI（支持 OpenAI / Ollama / Anthr]]></summary>
+        <content type="html"><![CDATA[<p>发现一个很有意思的 macOS 开源启动器 —— SuperCmd 👇</p>
+<img alt="SuperCmd" src="https://github.com/user-attachments/assets/1bd3f650-06a2-4146-97be-acdcc5086554">
+<p>把 Raycast + Wispr Flow + Speechify + AI + Memory 全部整合在一起：</p>
+<ul>
+<li>兼容 Raycast 扩展生态（支持 @raycast/api）</li>
+<li>支持语音输入（按住说话 → 自动转文字）</li>
+<li>文本朗读（类似 Speechify）</li>
+<li>内置 AI（支持 OpenAI / Ollama / Anthropic 等）</li>
+<li>支持记忆能力（Supermemory）</li>
+<li>脚本命令 + 扩展安装/更新</li>
+<li>原生 macOS 能力（快捷键 / 颜色选择 / 片段等）</li>
+</ul>
+<p>而且还带：
+语法高亮、文件树、标签页、行号、状态栏 —— 全部不到 1MB ⚡️</p>
+<p>Electron + React 构建，但主打开源 + 可扩展生态。</p>
+<p>一个方向很野的 Raycast 替代方案 👍</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/316" target="_blank">#316</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LiteEdit：轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树]]></title>
         <id>315</id>

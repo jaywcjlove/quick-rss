@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Recordly：开源的录屏 + 编辑一体工具，轻松做出专业演示视频](https://wangchujiang.com/quick-rss/issue/321.html) 
+
+![](https://github.com/user-attachments/assets/5ffc8061-9be3-49dc-977f-c89de023ccf9)
+
+Recordly 是一个开源的屏幕录制与编辑工具，专为产品演示、教程和讲解视频设计。它把「录制 → 编辑 → 导出」整合在一个流程里，录完即可进入编辑，快速产出更加专业、精致的视频内容。 支持录制整个屏幕或单个窗口 录制后直接进入时间轴编辑 光标效果（放大 / 动效等） 自动或手动缩放（Zoom） 支持文字、图片等标注 支持摄像头叠加（Webcam Overlay） 背景与画面裁剪调整 适合教程、 ([#321](https://github.com/jaywcjlove/quick-rss/issues/321) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [OpenScreen：免费开源的 Screen Studio 替代方案（录屏 + 演示工具）](https://wangchujiang.com/quick-rss/issue/320.html) 
 
 ![](https://github.com/user-attachments/assets/889368a7-f420-4e53-8f9c-4b4dd1ec41ca)

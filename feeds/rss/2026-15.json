@@ -1,5 +1,19 @@
 [
   {
+    "id": "321",
+    "url": "https://wangchujiang.com/quick-rss/issue/321.html",
+    "title": "Recordly：开源的录屏 + 编辑一体工具，轻松做出专业演示视频",
+    "content_html": "<p>Recordly 是一个开源的屏幕录制与编辑工具，专为产品演示、教程和讲解视频设计。它把「录制 → 编辑 → 导出」整合在一个流程里，录完即可进入编辑，快速产出更加专业、精致的视频内容。</p>\n<img alt=\"Recordly\" src=\"https://github.com/user-attachments/assets/5ffc8061-9be3-49dc-977f-c89de023ccf9\">\n<ul>\n<li>支持录制整个屏幕或单个窗口</li>\n<li>录制后直接进入时间轴编辑</li>\n<li>光标效果（放大 / 动效等）</li>\n<li>自动或手动缩放（Zoom）</li>\n<li>支持文字、图片等标注</li>\n<li>支持摄像头叠加（Webcam Overlay）</li>\n<li>背景与画面裁剪调整</li>\n<li>适合教程、Demo、产品展示视频</li>\n</ul>\n<p>如果你想找一个<strong>免费开源、功能完整的一体化录屏工具</strong>，这个值得关注 👍</p>",
+    "summary": "Recordly 是一个开源的屏幕录制与编辑工具，专为产品演示、教程和讲解视频设计。它把「录制 → 编辑 → 导出」整合在一个流程里，录完即可进入编辑，快速产出更加专业、精致的视频内容。 - 支持录制整个屏幕或单个窗口 - 录制后直接进入时间轴编辑 - 光标效果（放大 / 动效等） - 自动或手动缩放（Zoom） - 支持文字、图片等标注 - 支持摄像头叠加（Webcam Overlay） - 背",
+    "banner_image": null,
+    "date_published": "2026-04-09T14:38:51Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Recordly 是一个开源的屏幕录制与编辑工具，专为产品演示、教程和讲解视频设计。它把「录制 → 编辑 → 导出」整合在一个流程里，录完即可进入编辑，快速产出更加专业、精致的视频内容。\n\n<img alt=\"Recordly\" src=\"https://github.com/user-attachments/assets/5ffc8061-9be3-49dc-977f-c89de023ccf9\" />\n\n- 支持录制整个屏幕或单个窗口\n- 录制后直接进入时间轴编辑\n- 光标效果（放大 / 动效等）\n- 自动或手动缩放（Zoom）\n- 支持文字、图片等标注\n- 支持摄像头叠加（Webcam Overlay）\n- 背景与画面裁剪调整\n- 适合教程、Demo、产品展示视频\n\n如果你想找一个**免费开源、功能完整的一体化录屏工具**，这个值得关注 👍"
+  },
+  {
     "id": "320",
     "url": "https://wangchujiang.com/quick-rss/issue/320.html",
     "title": "OpenScreen：免费开源的 Screen Studio 替代方案（录屏 + 演示工具）",

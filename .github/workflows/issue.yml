@@ -70,14 +70,32 @@ jobs:
         env:
           ISSUE_ID: ${{ github.event.issue.number }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const issue_number = process.env.ISSUE_ID;
             const issue_title = process.env.ISSUE_TITLE;
+            const issue_body = process.env.ISSUE_BODY;
             const owner = 'jaywcjlove';
             const repo = 'quick-rss';
-            const comment_body = `🚀 自动发布完成！请查看：[${issue_title}](https://wangchujiang.com/quick-rss/issue/${issue_number}.html) 🎉`;
+            
+            // 使用与脚本相同的方法获取 detailLink
+            let mentionUser = '';
+            if (issue_body) {
+              const data = issue_body.split(/##+\s+[📋🔗]+\s.+/ig).map((txt) => txt.replace(/[\n\r\s]+$/g, '')).filter(Boolean);
+              const detailLink = (data[1] ?? "").replace(/(^[\n\s\r]+)|([\n\s\r]+$)/, '');
+              
+              // 从 detailLink 中提取 GitHub username
+              if (detailLink) {
+                const githubUrlMatch = detailLink.match(/https?:\/\/github\.com\/([a-zA-Z0-9](?:[a-zA-Z0-9]|-(?![a-zA-Z0-9]*-))*[a-zA-Z0-9])/);
+                if (githubUrlMatch && githubUrlMatch[1]) {
+                  mentionUser = ` @${githubUrlMatch[1]}`;
+                }
+              }
+            }
+            
+            const comment_body = `🚀 自动发布完成！请查看：[${issue_title}](https://wangchujiang.com/quick-rss/issue/${issue_number}.html) 🎉${mentionUser}`;
 
             await github.rest.issues.createComment({
               owner,

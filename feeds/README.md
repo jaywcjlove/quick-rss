@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [RSS Reader：一个带 AI 能力的三栏 RSS 阅读器（Go + Nuxt 4）](https://wangchujiang.com/quick-rss/issue/319.html) 
+
+![](https://github.com/user-attachments/assets/e76f335e-e938-4dd8-8879-b3b618ad0adb)
+
+这是一个不太一样的 RSS 阅读器，不只是“读订阅”，而是尝试用 AI 去整理信息、建立关联、甚至还原事件脉络。通过全文抓取、内容结构化、标签与时间线分析，它更像是一个“信息整理与认知工具”，而不仅仅是阅读工具。 三栏阅读（类似 FeedBro） Feed / 分类管理 + OPML 导入导出 Firecrawl 全文抓取，补全摘要 AI 内容整理 + 多版本切换（原文 / 全文 / AI） 批量 ([#319](https://github.com/jaywcjlove/quick-rss/issues/319) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Tempo：一个极简的视频加速与导出工具](https://wangchujiang.com/quick-rss/issue/318.html) 
 
 ![](https://github.com/user-attachments/assets/b697742b-7666-4371-abe0-73168ae5dd94)

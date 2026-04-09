@@ -1,5 +1,19 @@
 [
   {
+    "id": "319",
+    "url": "https://wangchujiang.com/quick-rss/issue/319.html",
+    "title": "RSS Reader：一个带 AI 能力的三栏 RSS 阅读器（Go + Nuxt 4）",
+    "content_html": "<p>这是一个不太一样的 RSS 阅读器，不只是“读订阅”，而是尝试用 AI 去整理信息、建立关联、甚至还原事件脉络。通过全文抓取、内容结构化、标签与时间线分析，它更像是一个“信息整理与认知工具”，而不仅仅是阅读工具。</p>\n<img alt=\"RSS Reader\" src=\"https://github.com/user-attachments/assets/e76f335e-e938-4dd8-8879-b3b618ad0adb\">\n<img alt=\"RSS Reader\" src=\"https://github.com/user-attachments/assets/2ac17529-90bf-4d10-8eab-13079e4a088c\">\n<img alt=\"RSS Reader\" src=\"https://github.com/user-attachments/assets/bc00dc49-364f-41e3-8c39-dfce3b1242ff\">\n<img alt=\"RSS Reader\" src=\"https://github.com/user-attachments/assets/e41b4c44-64cf-422c-b9ec-ec531b2b2e52\">\n<ul>\n<li>三栏阅读（类似 FeedBro）</li>\n<li>Feed / 分类管理 + OPML 导入导出</li>\n<li>Firecrawl 全文抓取，补全摘要</li>\n<li>AI 内容整理 + 多版本切换（原文 / 全文 / AI）</li>\n<li>批量 AI 总结（分类 / Feed 维度）</li>\n<li>阅读行为分析 + 偏好排序</li>\n<li>日报 / 周报自动生成（支持飞书 / Obsidian）</li>\n</ul>\n<p>一个在尝试解决「信息过载 + 信息碎片化」问题的 RSS 工具，还在持续开发中 👍</p>",
+    "summary": "这是一个不太一样的 RSS 阅读器，不只是“读订阅”，而是尝试用 AI 去整理信息、建立关联、甚至还原事件脉络。通过全文抓取、内容结构化、标签与时间线分析，它更像是一个“信息整理与认知工具”，而不仅仅是阅读工具。 - 三栏阅读（类似 FeedBro） - Feed / 分类管理 + OPML 导入导出 - Firecrawl 全文抓取，补全摘要 - AI 内容整理 + 多版本切换（原文 / 全文 ",
+    "banner_image": null,
+    "date_published": "2026-04-09T06:52:14Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一个不太一样的 RSS 阅读器，不只是“读订阅”，而是尝试用 AI 去整理信息、建立关联、甚至还原事件脉络。通过全文抓取、内容结构化、标签与时间线分析，它更像是一个“信息整理与认知工具”，而不仅仅是阅读工具。\n\n<img alt=\"RSS Reader\" src=\"https://github.com/user-attachments/assets/e76f335e-e938-4dd8-8879-b3b618ad0adb\" />\n\n<img alt=\"RSS Reader\" src=\"https://github.com/user-attachments/assets/2ac17529-90bf-4d10-8eab-13079e4a088c\" />\n\n<img alt=\"RSS Reader\" src=\"https://github.com/user-attachments/assets/bc00dc49-364f-41e3-8c39-dfce3b1242ff\" />\n\n<img alt=\"RSS Reader\" src=\"https://github.com/user-attachments/assets/e41b4c44-64cf-422c-b9ec-ec531b2b2e52\" />\n\n- 三栏阅读（类似 FeedBro）\n- Feed / 分类管理 + OPML 导入导出\n- Firecrawl 全文抓取，补全摘要\n- AI 内容整理 + 多版本切换（原文 / 全文 / AI）\n- 批量 AI 总结（分类 / Feed 维度）\n- 阅读行为分析 + 偏好排序\n- 日报 / 周报自动生成（支持飞书 / Obsidian）\n\n一个在尝试解决「信息过载 + 信息碎片化」问题的 RSS 工具，还在持续开发中 👍"
+  },
+  {
     "id": "318",
     "url": "https://wangchujiang.com/quick-rss/issue/318.html",
     "title": "Tempo：一个极简的视频加速与导出工具",

@@ -1,5 +1,19 @@
 [
   {
+    "id": "317",
+    "url": "https://wangchujiang.com/quick-rss/issue/317.html",
+    "title": "PureMac：一个免费开源的 CleanMyMac 替代品",
+    "content_html": "<p>发现一个很不错的 macOS 清理工具 —— PureMac 👇</p>\n<img alt=\"PureMac\" src=\"https://github.com/user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5\">\n<p>主打一个：<strong>免费 + 隐私 + 原生 + 开源</strong></p>\n<ul>\n<li>完全免费（无订阅 / 无付费版）</li>\n<li>无数据收集（无 telemetry / 无分析 / 无网络请求）</li>\n<li>基于 SwiftUI 构建，纯原生体验</li>\n<li>开源 MIT 协议，代码可审计</li>\n<li>已签名 + notarized，无安全警告</li>\n</ul>\n<p>相比常见的清理工具（$30–50/年 + 各种弹窗），\n这个直接 <strong>离线运行 + 零打扰</strong> 👍</p>\n<p>如果你想找一个干净、轻量、不打扰的替代方案，可以试试这个。</p>",
+    "summary": "发现一个很不错的 macOS 清理工具 —— PureMac 👇 主打一个：**免费 + 隐私 + 原生 + 开源** - 完全免费（无订阅 / 无付费版） - 无数据收集（无 telemetry / 无分析 / 无网络请求） - 基于 SwiftUI 构建，纯原生体验 - 开源 MIT 协议，代码可审计 - 已签名 + notarized，无安全警告 相比常见的清理工具（$30–50/年 + ",
+    "banner_image": null,
+    "date_published": "2026-04-09T05:53:55Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "发现一个很不错的 macOS 清理工具 —— PureMac 👇\n\n<img   alt=\"PureMac\" src=\"https://github.com/user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5\" />\n\n主打一个：**免费 + 隐私 + 原生 + 开源**\n\n- 完全免费（无订阅 / 无付费版）\n- 无数据收集（无 telemetry / 无分析 / 无网络请求）\n- 基于 SwiftUI 构建，纯原生体验\n- 开源 MIT 协议，代码可审计\n- 已签名 + notarized，无安全警告\n\n相比常见的清理工具（$30–50/年 + 各种弹窗），\n这个直接 **离线运行 + 零打扰** 👍\n\n如果你想找一个干净、轻量、不打扰的替代方案，可以试试这个。"
+  },
+  {
     "id": "316",
     "url": "https://wangchujiang.com/quick-rss/issue/316.html",
     "title": "SuperCmd：把 Raycast + 语音 + AI 全部融合在一个开源启动器里",

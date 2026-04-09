@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-09T05:34:15.554Z</updated>
+    <updated>2026-04-09T05:54:41.939Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,40 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[PureMac：一个免费开源的 CleanMyMac 替代品]]></title>
+        <id>317</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/317.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5" type="image//user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5"/>
+        <updated>2026-04-09T05:53:55.000Z</updated>
+        <summary type="html"><![CDATA[发现一个很不错的 macOS 清理工具 —— PureMac 👇 主打一个：免费 + 隐私 + 原生 + 开源 完全免费（无订阅 / 无付费版） 无数据收集（无 telemetry / 无分析 / 无网络请求） 基于 SwiftUI 构建，纯原生体验 开源 MIT 协议，代码可审计 已签名 + notarized，无安全警告 相比常见的清理工具（$30–50/年 + 各种弹窗）， 这个直接 离线]]></summary>
+        <content type="html"><![CDATA[<p>发现一个很不错的 macOS 清理工具 —— PureMac 👇</p>
+<img alt="PureMac" src="https://github.com/user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5">
+<p>主打一个：<strong>免费 + 隐私 + 原生 + 开源</strong></p>
+<ul>
+<li>完全免费（无订阅 / 无付费版）</li>
+<li>无数据收集（无 telemetry / 无分析 / 无网络请求）</li>
+<li>基于 SwiftUI 构建，纯原生体验</li>
+<li>开源 MIT 协议，代码可审计</li>
+<li>已签名 + notarized，无安全警告</li>
+</ul>
+<p>相比常见的清理工具（$30–50/年 + 各种弹窗），
+这个直接 <strong>离线运行 + 零打扰</strong> 👍</p>
+<p>如果你想找一个干净、轻量、不打扰的替代方案，可以试试这个。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/317" target="_blank">#317</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SuperCmd：把 Raycast + 语音 + AI 全部融合在一个开源启动器里]]></title>
         <id>316</id>

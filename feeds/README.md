@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [PureMac：一个免费开源的 CleanMyMac 替代品](https://wangchujiang.com/quick-rss/issue/317.html) 
+
+![](https://github.com/user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5)
+
+发现一个很不错的 macOS 清理工具 —— PureMac 👇 主打一个：免费 + 隐私 + 原生 + 开源 完全免费（无订阅 / 无付费版） 无数据收集（无 telemetry / 无分析 / 无网络请求） 基于 SwiftUI 构建，纯原生体验 开源 MIT 协议，代码可审计 已签名 + notarized，无安全警告 相比常见的清理工具（$30–50/年 + 各种弹窗）， 这个直接 离线 ([#317](https://github.com/jaywcjlove/quick-rss/issues/317) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SuperCmd：把 Raycast + 语音 + AI 全部融合在一个开源启动器里](https://wangchujiang.com/quick-rss/issue/316.html) 
 
 ![](https://github.com/user-attachments/assets/1bd3f650-06a2-4146-97be-acdcc5086554)

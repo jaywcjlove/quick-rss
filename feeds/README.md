@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [OpenScreen：免费开源的 Screen Studio 替代方案（录屏 + 演示工具）](https://wangchujiang.com/quick-rss/issue/320.html) 
+
+![](https://github.com/user-attachments/assets/889368a7-f420-4e53-8f9c-4b4dd1ec41ca)
+
+OpenScreen 是一个面向 macOS 的开源录屏与演示工具，定位为 Screen Studio 的轻量替代方案。它不追求复杂功能，而是专注于产品演示和录屏的核心体验，让你用更低成本（甚至免费）完成高质量的视频录制与编辑。 支持录制窗口或整个屏幕 自动 / 手动缩放（Zoom）效果 麦克风 + 系统音频录制 视频裁剪与片段剪辑 支持标注（文字 / 箭头 / 图片） 支持不同片段速度调整 背景 ([#320](https://github.com/jaywcjlove/quick-rss/issues/320) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [RSS Reader：一个带 AI 能力的三栏 RSS 阅读器（Go + Nuxt 4）](https://wangchujiang.com/quick-rss/issue/319.html) 
 
 ![](https://github.com/user-attachments/assets/e76f335e-e938-4dd8-8879-b3b618ad0adb)

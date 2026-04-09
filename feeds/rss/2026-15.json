@@ -1,5 +1,19 @@
 [
   {
+    "id": "320",
+    "url": "https://wangchujiang.com/quick-rss/issue/320.html",
+    "title": "OpenScreen：免费开源的 Screen Studio 替代方案（录屏 + 演示工具）",
+    "content_html": "<p>OpenScreen 是一个面向 macOS 的开源录屏与演示工具，定位为 Screen Studio 的轻量替代方案。它不追求复杂功能，而是专注于产品演示和录屏的核心体验，让你用更低成本（甚至免费）完成高质量的视频录制与编辑。</p>\n<img alt=\"OpenScreen\" src=\"https://github.com/user-attachments/assets/889368a7-f420-4e53-8f9c-4b4dd1ec41ca\">\n<ul>\n<li>支持录制窗口或整个屏幕</li>\n<li>自动 / 手动缩放（Zoom）效果</li>\n<li>麦克风 + 系统音频录制</li>\n<li>视频裁剪与片段剪辑</li>\n<li>支持标注（文字 / 箭头 / 图片）</li>\n<li>支持不同片段速度调整</li>\n<li>背景自定义（壁纸 / 纯色 / 渐变）</li>\n<li>支持多分辨率与比例导出</li>\n</ul>\n<p>如果你只需要一个<strong>简单、好用、不收费</strong>的录屏工具，这个很值得试试 👍</p>",
+    "summary": "OpenScreen 是一个面向 macOS 的开源录屏与演示工具，定位为 Screen Studio 的轻量替代方案。它不追求复杂功能，而是专注于产品演示和录屏的核心体验，让你用更低成本（甚至免费）完成高质量的视频录制与编辑。 - 支持录制窗口或整个屏幕 - 自动 / 手动缩放（Zoom）效果 - 麦克风 + 系统音频录制 - 视频裁剪与片段剪辑 - 支持标注（文字 / 箭头 / 图片） - 支",
+    "banner_image": null,
+    "date_published": "2026-04-09T14:32:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "OpenScreen 是一个面向 macOS 的开源录屏与演示工具，定位为 Screen Studio 的轻量替代方案。它不追求复杂功能，而是专注于产品演示和录屏的核心体验，让你用更低成本（甚至免费）完成高质量的视频录制与编辑。\n\n<img alt=\"OpenScreen\" src=\"https://github.com/user-attachments/assets/889368a7-f420-4e53-8f9c-4b4dd1ec41ca\" />\n\n- 支持录制窗口或整个屏幕\n- 自动 / 手动缩放（Zoom）效果\n- 麦克风 + 系统音频录制\n- 视频裁剪与片段剪辑\n- 支持标注（文字 / 箭头 / 图片）\n- 支持不同片段速度调整\n- 背景自定义（壁纸 / 纯色 / 渐变）\n- 支持多分辨率与比例导出\n\n如果你只需要一个**简单、好用、不收费**的录屏工具，这个很值得试试 👍"
+  },
+  {
     "id": "319",
     "url": "https://wangchujiang.com/quick-rss/issue/319.html",
     "title": "RSS Reader：一个带 AI 能力的三栏 RSS 阅读器（Go + Nuxt 4）",

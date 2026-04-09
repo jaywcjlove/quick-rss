@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Tempo：一个极简的视频加速与导出工具](https://wangchujiang.com/quick-rss/issue/318.html) 
+
+![](https://github.com/user-attachments/assets/b697742b-7666-4371-abe0-73168ae5dd94)
+
+Tempo 是一个专为 macOS 设计的视频处理小工具，主打简单、高效的倍速导出体验。没有复杂编辑功能，只专注于一件事：快速调整视频速度并导出，让处理流程变得非常轻松直观。 专注做一件事：视频加速导出 支持 1× / 2× / 3× / 4× 倍速导出 支持 480p / 720p / 1080p 等质量选择 拖拽即可处理，简单直接 实时进度 + 预估文件大小 支持右键 Open With 调用 ([#318](https://github.com/jaywcjlove/quick-rss/issues/318) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [PureMac：一个免费开源的 CleanMyMac 替代品](https://wangchujiang.com/quick-rss/issue/317.html) 
 
 ![](https://github.com/user-attachments/assets/bc30a69e-45d0-4ff4-bb44-6a685c2c30e5)

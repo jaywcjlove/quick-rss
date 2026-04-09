@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-09T14:33:22.316Z</updated>
+    <updated>2026-04-09T14:39:29.838Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,40 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Recordly：开源的录屏 + 编辑一体工具，轻松做出专业演示视频]]></title>
+        <id>321</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/321.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/5ffc8061-9be3-49dc-977f-c89de023ccf9" type="image//user-attachments/assets/5ffc8061-9be3-49dc-977f-c89de023ccf9"/>
+        <updated>2026-04-09T14:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Recordly 是一个开源的屏幕录制与编辑工具，专为产品演示、教程和讲解视频设计。它把「录制 → 编辑 → 导出」整合在一个流程里，录完即可进入编辑，快速产出更加专业、精致的视频内容。 支持录制整个屏幕或单个窗口 录制后直接进入时间轴编辑 光标效果（放大 / 动效等） 自动或手动缩放（Zoom） 支持文字、图片等标注 支持摄像头叠加（Webcam Overlay） 背景与画面裁剪调整 适合教程、]]></summary>
+        <content type="html"><![CDATA[<p>Recordly 是一个开源的屏幕录制与编辑工具，专为产品演示、教程和讲解视频设计。它把「录制 → 编辑 → 导出」整合在一个流程里，录完即可进入编辑，快速产出更加专业、精致的视频内容。</p>
+<img alt="Recordly" src="https://github.com/user-attachments/assets/5ffc8061-9be3-49dc-977f-c89de023ccf9">
+<ul>
+<li>支持录制整个屏幕或单个窗口</li>
+<li>录制后直接进入时间轴编辑</li>
+<li>光标效果（放大 / 动效等）</li>
+<li>自动或手动缩放（Zoom）</li>
+<li>支持文字、图片等标注</li>
+<li>支持摄像头叠加（Webcam Overlay）</li>
+<li>背景与画面裁剪调整</li>
+<li>适合教程、Demo、产品展示视频</li>
+</ul>
+<p>如果你想找一个<strong>免费开源、功能完整的一体化录屏工具</strong>，这个值得关注 👍</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/321" target="_blank">#321</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenScreen：免费开源的 Screen Studio 替代方案（录屏 + 演示工具）]]></title>
         <id>320</id>

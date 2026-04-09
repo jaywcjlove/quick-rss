@@ -1,5 +1,19 @@
 [
   {
+    "id": "315",
+    "url": "https://wangchujiang.com/quick-rss/issue/315.html",
+    "title": "LiteEdit：轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树",
+    "content_html": "<p>LiteEdit:轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。</p>\n<p>用 Swift + AppKit 打造，纯原生体验<br>\n轻到离谱，但刚刚好 👍</p>\n<img alt=\"LiteEdit\" src=\"https://github.com/user-attachments/assets/97b871c9-e81c-49d1-a929-0569abe4bb71\">",
+    "summary": "LiteEdit:轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。 用 Swift + AppKit 打造，纯原生体验 轻到离谱，但刚刚好 👍",
+    "banner_image": null,
+    "date_published": "2026-04-09T04:28:40Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "LiteEdit:轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。\n\n用 Swift + AppKit 打造，纯原生体验  \n轻到离谱，但刚刚好 👍\n\n<img alt=\"LiteEdit\" src=\"https://github.com/user-attachments/assets/97b871c9-e81c-49d1-a929-0569abe4bb71\" />"
+  },
+  {
     "id": "314",
     "url": "https://wangchujiang.com/quick-rss/issue/314.html",
     "title": "EchoMusic： 一个专为桌面端打造的简约、精致、功能强大的第三方音乐播放器",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [LiteEdit：轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树](https://wangchujiang.com/quick-rss/issue/315.html) 
+
+![](https://github.com/user-attachments/assets/97b871c9-e81c-49d1-a929-0569abe4bb71)
+
+LiteEdit:轻量级原生代码编辑器，仅1MB大小，支持语法高亮和文件树。 用 Swift + AppKit 打造，纯原生体验 轻到离谱，但刚刚好 👍 ([#315](https://github.com/jaywcjlove/quick-rss/issues/315) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [EchoMusic： 一个专为桌面端打造的简约、精致、功能强大的第三方音乐播放器](https://wangchujiang.com/quick-rss/issue/314.html) 
 
 ![](https://github.com/user-attachments/assets/e636bd30-12f8-4599-9e7d-4222ee10e136)

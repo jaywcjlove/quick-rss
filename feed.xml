@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-09T14:39:29.838Z</updated>
+    <updated>2026-04-10T03:05:06.124Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Rockxy：一个原生 macOS 的 HTTP(s) 调试代理工具]]></title>
+        <id>322</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/322.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/a08ed444-9c9d-4e27-8677-fb39165c1146" type="image//user-attachments/assets/a08ed444-9c9d-4e27-8677-fb39165c1146"/>
+        <updated>2026-04-10T03:04:35.000Z</updated>
+        <summary type="html"><![CDATA[拦截 HTTPS、分析 API、修改请求、支持重放与 HAR 导出，全流程一站式完成。 Swift 原生开发，无 Electron，性能强、占用低、无云依赖。 开源可审计，适合开发者日常调试]]></summary>
+        <content type="html"><![CDATA[<p>拦截 HTTPS、分析 API、修改请求、支持重放与 HAR 导出，全流程一站式完成。</p>
+<img alt="Rockxy" src="https://github.com/user-attachments/assets/a08ed444-9c9d-4e27-8677-fb39165c1146">
+<p>Swift 原生开发，无 Electron，性能强、占用低、无云依赖。</p>
+<p>开源可审计，适合开发者日常调试</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/322" target="_blank">#322</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recordly：开源的录屏 + 编辑一体工具，轻松做出专业演示视频]]></title>
         <id>321</id>

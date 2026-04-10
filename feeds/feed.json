@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "322",
+            "content_html": "<p>拦截 HTTPS、分析 API、修改请求、支持重放与 HAR 导出，全流程一站式完成。</p>\n<img alt=\"Rockxy\" src=\"https://github.com/user-attachments/assets/a08ed444-9c9d-4e27-8677-fb39165c1146\">\n<p>Swift 原生开发，无 Electron，性能强、占用低、无云依赖。</p>\n<p>开源可审计，适合开发者日常调试</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/322\" target=\"_blank\">#322</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/322.html",
+            "title": "Rockxy：一个原生 macOS 的 HTTP(s) 调试代理工具",
+            "summary": "拦截 HTTPS、分析 API、修改请求、支持重放与 HAR 导出，全流程一站式完成。 Swift 原生开发，无 Electron，性能强、占用低、无云依赖。 开源可审计，适合开发者日常调试",
+            "image": "https://github.com/user-attachments/assets/a08ed444-9c9d-4e27-8677-fb39165c1146",
+            "date_modified": "2026-04-10T03:04:35.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "321",
             "content_html": "<p>Recordly 是一个开源的屏幕录制与编辑工具，专为产品演示、教程和讲解视频设计。它把「录制 → 编辑 → 导出」整合在一个流程里，录完即可进入编辑，快速产出更加专业、精致的视频内容。</p>\n<img alt=\"Recordly\" src=\"https://github.com/user-attachments/assets/5ffc8061-9be3-49dc-977f-c89de023ccf9\">\n<ul>\n<li>支持录制整个屏幕或单个窗口</li>\n<li>录制后直接进入时间轴编辑</li>\n<li>光标效果（放大 / 动效等）</li>\n<li>自动或手动缩放（Zoom）</li>\n<li>支持文字、图片等标注</li>\n<li>支持摄像头叠加（Webcam Overlay）</li>\n<li>背景与画面裁剪调整</li>\n<li>适合教程、Demo、产品展示视频</li>\n</ul>\n<p>如果你想找一个<strong>免费开源、功能完整的一体化录屏工具</strong>，这个值得关注 👍</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/321\" target=\"_blank\">#321</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/321.html",

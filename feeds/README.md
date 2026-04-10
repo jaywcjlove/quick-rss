@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Rockxy：一个原生 macOS 的 HTTP(s) 调试代理工具](https://wangchujiang.com/quick-rss/issue/322.html) 
+
+![](https://github.com/user-attachments/assets/a08ed444-9c9d-4e27-8677-fb39165c1146)
+
+拦截 HTTPS、分析 API、修改请求、支持重放与 HAR 导出，全流程一站式完成。 Swift 原生开发，无 Electron，性能强、占用低、无云依赖。 开源可审计，适合开发者日常调试 ([#322](https://github.com/jaywcjlove/quick-rss/issues/322) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Recordly：开源的录屏 + 编辑一体工具，轻松做出专业演示视频](https://wangchujiang.com/quick-rss/issue/321.html) 
 
 ![](https://github.com/user-attachments/assets/5ffc8061-9be3-49dc-977f-c89de023ccf9)

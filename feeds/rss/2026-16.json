@@ -1,5 +1,19 @@
 [
   {
+    "id": "324",
+    "url": "https://wangchujiang.com/quick-rss/issue/324.html",
+    "title": "MacSift：透明可控的 macOS 磁盘清理工具",
+    "content_html": "<p>MacSift 是一款为 macOS Tahoe 设计的磁盘清理工具，强调可见性与安全性。</p>\n<img alt=\"MacSift\" src=\"https://github.com/user-attachments/assets/9d7d656e-ab5e-4df0-b194-4cb98d721168\">\n<p>不同于传统清理工具的一键“黑盒”操作，MacSift 会清晰列出所有可删除内容，并按所属应用进行分组，让你在操作前完全了解发生了什么。</p>\n<p>所有删除操作都会进入废纸篓，而非直接永久删除，确保数据可恢复。默认启用预览（Dry Run），首次使用更安全；大于 10GB 的删除操作会触发额外确认。</p>\n<p>无网络请求、无数据收集，专注本地与隐私。</p>",
+    "summary": "MacSift 是一款为 macOS Tahoe 设计的磁盘清理工具，强调可见性与安全性。 不同于传统清理工具的一键“黑盒”操作，MacSift 会清晰列出所有可删除内容，并按所属应用进行分组，让你在操作前完全了解发生了什么。 所有删除操作都会进入废纸篓，而非直接永久删除，确保数据可恢复。默认启用预览（Dry Run），首次使用更安全；大于 10GB 的删除操作会触发额外确认。 无网络请求、无数据",
+    "banner_image": null,
+    "date_published": "2026-04-13T17:31:41Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "MacSift 是一款为 macOS Tahoe 设计的磁盘清理工具，强调可见性与安全性。\n\n<img alt=\"MacSift\" src=\"https://github.com/user-attachments/assets/9d7d656e-ab5e-4df0-b194-4cb98d721168\" />\n\n不同于传统清理工具的一键“黑盒”操作，MacSift 会清晰列出所有可删除内容，并按所属应用进行分组，让你在操作前完全了解发生了什么。\n\n所有删除操作都会进入废纸篓，而非直接永久删除，确保数据可恢复。默认启用预览（Dry Run），首次使用更安全；大于 10GB 的删除操作会触发额外确认。\n\n无网络请求、无数据收集，专注本地与隐私。"
+  },
+  {
     "id": "323",
     "url": "https://wangchujiang.com/quick-rss/issue/323.html",
     "title": "GhostVM：Apple Silicon 上最优雅的 macOS 虚拟机工具",

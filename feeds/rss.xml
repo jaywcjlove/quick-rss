@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 13 Apr 2026 16:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 17:32:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,25 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MacSift：透明可控的 macOS 磁盘清理工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/324.html</link>
+            <guid isPermaLink="false">324</guid>
+            <pubDate>Mon, 13 Apr 2026 17:31:41 GMT</pubDate>
+            <description><![CDATA[MacSift 是一款为 macOS Tahoe 设计的磁盘清理工具，强调可见性与安全性。 不同于传统清理工具的一键“黑盒”操作，MacSift 会清晰列出所有可删除内容，并按所属应用进行分组，让你在操作前完全了解发生了什么。 所有删除操作都会进入废纸篓，而非直接永久删除，确保数据可恢复。默认启用预览（Dry Run），首次使用更安全；大于 10GB 的删除操作会触发额外确认。 无网络请求、无数据]]></description>
+            <content:encoded><![CDATA[<p>MacSift 是一款为 macOS Tahoe 设计的磁盘清理工具，强调可见性与安全性。</p>
+<img alt="MacSift" src="https://github.com/user-attachments/assets/9d7d656e-ab5e-4df0-b194-4cb98d721168">
+<p>不同于传统清理工具的一键“黑盒”操作，MacSift 会清晰列出所有可删除内容，并按所属应用进行分组，让你在操作前完全了解发生了什么。</p>
+<p>所有删除操作都会进入废纸篓，而非直接永久删除，确保数据可恢复。默认启用预览（Dry Run），首次使用更安全；大于 10GB 的删除操作会触发额外确认。</p>
+<p>无网络请求、无数据收集，专注本地与隐私。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/324" target="_blank">#324</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/9d7d656e-ab5e-4df0-b194-4cb98d721168" length="0" type="image//user-attachments/assets/9d7d656e-ab5e-4df0-b194-4cb98d721168"/>
+        </item>
         <item>
             <title><![CDATA[GhostVM：Apple Silicon 上最优雅的 macOS 虚拟机工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/323.html</link>

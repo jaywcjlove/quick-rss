@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [GhostVM：Apple Silicon 上最优雅的 macOS 虚拟机工具](https://wangchujiang.com/quick-rss/issue/323.html) 
+
+![](https://github.com/user-attachments/assets/e776ca5a-d360-4299-a269-ca61e1cb2c78)
+
+基于 Virtualization.framework，原生性能极致；每个 VM 是一个可随意复制的 .GhostVM 独立 bundle。支持快照、克隆、深度主机集成、剪贴板共享、端口转发，并提供完整 CLI 与 API，完美适合 AI 沙箱、开发测试和隔离工作流。 ([#323](https://github.com/jaywcjlove/quick-rss/issues/323) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Rockxy：一个原生 macOS 的 HTTP(s) 调试代理工具](https://wangchujiang.com/quick-rss/issue/322.html) 
 
 ![](https://github.com/user-attachments/assets/a08ed444-9c9d-4e27-8677-fb39165c1146)

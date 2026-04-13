@@ -1,0 +1,16 @@
+[
+  {
+    "id": "323",
+    "url": "https://wangchujiang.com/quick-rss/issue/323.html",
+    "title": "GhostVM：Apple Silicon 上最优雅的 macOS 虚拟机工具",
+    "content_html": "<p>基于 Virtualization.framework，原生性能极致；每个 VM 是一个可随意复制的 .GhostVM 独立 bundle。支持快照、克隆、深度主机集成、剪贴板共享、端口转发，并提供完整 CLI 与 API，完美适合 AI 沙箱、开发测试和隔离工作流。</p>\n<img alt=\"GhostVM\" src=\"https://github.com/user-attachments/assets/e776ca5a-d360-4299-a269-ca61e1cb2c78\">",
+    "summary": "基于 Virtualization.framework，原生性能极致；每个 VM 是一个可随意复制的 .GhostVM 独立 bundle。支持快照、克隆、深度主机集成、剪贴板共享、端口转发，并提供完整 CLI 与 API，完美适合 AI 沙箱、开发测试和隔离工作流。",
+    "banner_image": null,
+    "date_published": "2026-04-13T16:31:32Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "基于 Virtualization.framework，原生性能极致；每个 VM 是一个可随意复制的 .GhostVM 独立 bundle。支持快照、克隆、深度主机集成、剪贴板共享、端口转发，并提供完整 CLI 与 API，完美适合 AI 沙箱、开发测试和隔离工作流。\n\n<img alt=\"GhostVM\" src=\"https://github.com/user-attachments/assets/e776ca5a-d360-4299-a269-ca61e1cb2c78\" />"
+  }
+]

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "323",
+            "content_html": "<p>基于 Virtualization.framework，原生性能极致；每个 VM 是一个可随意复制的 .GhostVM 独立 bundle。支持快照、克隆、深度主机集成、剪贴板共享、端口转发，并提供完整 CLI 与 API，完美适合 AI 沙箱、开发测试和隔离工作流。</p>\n<img alt=\"GhostVM\" src=\"https://github.com/user-attachments/assets/e776ca5a-d360-4299-a269-ca61e1cb2c78\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/323\" target=\"_blank\">#323</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/323.html",
+            "title": "GhostVM：Apple Silicon 上最优雅的 macOS 虚拟机工具",
+            "summary": "基于 Virtualization.framework，原生性能极致；每个 VM 是一个可随意复制的 .GhostVM 独立 bundle。支持快照、克隆、深度主机集成、剪贴板共享、端口转发，并提供完整 CLI 与 API，完美适合 AI 沙箱、开发测试和隔离工作流。",
+            "image": "https://github.com/user-attachments/assets/e776ca5a-d360-4299-a269-ca61e1cb2c78",
+            "date_modified": "2026-04-13T16:31:32.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "322",
             "content_html": "<p>拦截 HTTPS、分析 API、修改请求、支持重放与 HAR 导出，全流程一站式完成。</p>\n<img alt=\"Rockxy\" src=\"https://github.com/user-attachments/assets/a08ed444-9c9d-4e27-8677-fb39165c1146\">\n<p>Swift 原生开发，无 Electron，性能强、占用低、无云依赖。</p>\n<p>开源可审计，适合开发者日常调试</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/322\" target=\"_blank\">#322</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/322.html",

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 10 Apr 2026 03:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 16:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GhostVM：Apple Silicon 上最优雅的 macOS 虚拟机工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/323.html</link>
+            <guid isPermaLink="false">323</guid>
+            <pubDate>Mon, 13 Apr 2026 16:31:32 GMT</pubDate>
+            <description><![CDATA[基于 Virtualization.framework，原生性能极致；每个 VM 是一个可随意复制的 .GhostVM 独立 bundle。支持快照、克隆、深度主机集成、剪贴板共享、端口转发，并提供完整 CLI 与 API，完美适合 AI 沙箱、开发测试和隔离工作流。]]></description>
+            <content:encoded><![CDATA[<p>基于 Virtualization.framework，原生性能极致；每个 VM 是一个可随意复制的 .GhostVM 独立 bundle。支持快照、克隆、深度主机集成、剪贴板共享、端口转发，并提供完整 CLI 与 API，完美适合 AI 沙箱、开发测试和隔离工作流。</p>
+<img alt="GhostVM" src="https://github.com/user-attachments/assets/e776ca5a-d360-4299-a269-ca61e1cb2c78"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/323" target="_blank">#323</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/e776ca5a-d360-4299-a269-ca61e1cb2c78" length="0" type="image//user-attachments/assets/e776ca5a-d360-4299-a269-ca61e1cb2c78"/>
+        </item>
         <item>
             <title><![CDATA[Rockxy：一个原生 macOS 的 HTTP(s) 调试代理工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/322.html</link>

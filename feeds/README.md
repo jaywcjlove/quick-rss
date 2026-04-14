@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Switzy：用于切换 Git 身份、邮箱和 SSH 密钥的原生 macOS 管理工具](https://wangchujiang.com/quick-rss/issue/325.html) 
+
+![](https://github.com/user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01)
+
+Switzy 是一款原生 macOS 菜单栏工具，专门用来管理多个 Git 身份（用户名、邮箱、SSH Key）。 如果你同时在处理工作、个人项目或多个仓库，频繁切换 Git 配置会很麻烦，而 Switzy 可以一键切换不同身份，自动更新 .gitconfig，不需要再手动改配置或写脚本。 同时它还内置 SSH Key 管理功能，可以直接在应用中生成和管理密钥，不用再频繁操作终端。 一个很典型的「 ([#325](https://github.com/jaywcjlove/quick-rss/issues/325) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MacSift：透明可控的 macOS 磁盘清理工具](https://wangchujiang.com/quick-rss/issue/324.html) 
 
 ![](https://github.com/user-attachments/assets/9d7d656e-ab5e-4df0-b194-4cb98d721168)

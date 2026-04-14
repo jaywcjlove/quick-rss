@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-13T17:32:39.314Z</updated>
+    <updated>2026-04-14T00:57:22.725Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,32 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Switzy：用于切换 Git 身份、邮箱和 SSH 密钥的原生 macOS 管理工具]]></title>
+        <id>325</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/325.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01" type="image//user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01"/>
+        <updated>2026-04-14T00:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Switzy 是一款原生 macOS 菜单栏工具，专门用来管理多个 Git 身份（用户名、邮箱、SSH Key）。 如果你同时在处理工作、个人项目或多个仓库，频繁切换 Git 配置会很麻烦，而 Switzy 可以一键切换不同身份，自动更新 .gitconfig，不需要再手动改配置或写脚本。 同时它还内置 SSH Key 管理功能，可以直接在应用中生成和管理密钥，不用再频繁操作终端。 一个很典型的「]]></summary>
+        <content type="html"><![CDATA[<p>Switzy 是一款原生 macOS 菜单栏工具，专门用来管理多个 Git 身份（用户名、邮箱、SSH Key）。</p>
+<img alt="Switzy" src="https://github.com/user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01">
+<p>如果你同时在处理工作、个人项目或多个仓库，频繁切换 Git 配置会很麻烦，而 Switzy 可以一键切换不同身份，自动更新 <code>.gitconfig</code>，不需要再手动改配置或写脚本。</p>
+<p>同时它还内置 SSH Key 管理功能，可以直接在应用中生成和管理密钥，不用再频繁操作终端。</p>
+<p>一个很典型的「小而美」开发者工具，专注解决一个高频但被忽略的问题。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/325" target="_blank">#325</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MacSift：透明可控的 macOS 磁盘清理工具]]></title>
         <id>324</id>

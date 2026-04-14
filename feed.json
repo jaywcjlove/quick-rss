@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "325",
+            "content_html": "<p>Switzy 是一款原生 macOS 菜单栏工具，专门用来管理多个 Git 身份（用户名、邮箱、SSH Key）。</p>\n<img alt=\"Switzy\" src=\"https://github.com/user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01\">\n<p>如果你同时在处理工作、个人项目或多个仓库，频繁切换 Git 配置会很麻烦，而 Switzy 可以一键切换不同身份，自动更新 <code>.gitconfig</code>，不需要再手动改配置或写脚本。</p>\n<p>同时它还内置 SSH Key 管理功能，可以直接在应用中生成和管理密钥，不用再频繁操作终端。</p>\n<p>一个很典型的「小而美」开发者工具，专注解决一个高频但被忽略的问题。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/325\" target=\"_blank\">#325</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/325.html",
+            "title": "Switzy：用于切换 Git 身份、邮箱和 SSH 密钥的原生 macOS 管理工具",
+            "summary": "Switzy 是一款原生 macOS 菜单栏工具，专门用来管理多个 Git 身份（用户名、邮箱、SSH Key）。 如果你同时在处理工作、个人项目或多个仓库，频繁切换 Git 配置会很麻烦，而 Switzy 可以一键切换不同身份，自动更新 .gitconfig，不需要再手动改配置或写脚本。 同时它还内置 SSH Key 管理功能，可以直接在应用中生成和管理密钥，不用再频繁操作终端。 一个很典型的「",
+            "image": "https://github.com/user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01",
+            "date_modified": "2026-04-14T00:56:47.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "324",
             "content_html": "<p>MacSift 是一款为 macOS Tahoe 设计的磁盘清理工具，强调可见性与安全性。</p>\n<img alt=\"MacSift\" src=\"https://github.com/user-attachments/assets/9d7d656e-ab5e-4df0-b194-4cb98d721168\">\n<p>不同于传统清理工具的一键“黑盒”操作，MacSift 会清晰列出所有可删除内容，并按所属应用进行分组，让你在操作前完全了解发生了什么。</p>\n<p>所有删除操作都会进入废纸篓，而非直接永久删除，确保数据可恢复。默认启用预览（Dry Run），首次使用更安全；大于 10GB 的删除操作会触发额外确认。</p>\n<p>无网络请求、无数据收集，专注本地与隐私。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/324\" target=\"_blank\">#324</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/324.html",

@@ -16,6 +16,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://github.com/user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f)
 
 macOS 原生开源应用，一站式动漫壁纸：静态4K/8K、动态壁纸、番剧追番。智能搜索、一键设置、多屏支持。完全免费。 ([#327](https://github.com/jaywcjlove/quick-rss/issues/327) - [@jaywcjlove](https://github.com/jaywcjlove))
+## [TypeWhisper：在 Mac 上用 AI 实现全局语音输入与文本生成](https://wangchujiang.com/quick-rss/issue/326.html) 
+
+![](https://github.com/user-attachments/assets/97295518-6a3f-4cdb-b60b-4776b47a8133)
+
+TypeWhisper 是一款 macOS 原生应用，让你通过语音在任何应用中输入文字，并结合 AI 自动优化内容表达。 它基于先进的语音识别技术，可以将语音实时转换为文本，并支持多语言输入与智能润色。无论是写邮件、写代码、聊天还是记录笔记，都可以直接开口完成，大幅提升输入效率。 应用支持本地或 AI 处理，兼顾隐私与性能，同时提供简单直观的使用体验，非常适合需要高效输入的开发者、创作者和重度电脑 ([#326](https://github.com/jaywcjlove/quick-rss/issues/326) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Switzy：用于切换 Git 身份、邮箱和 SSH 密钥的原生 macOS 管理工具](https://wangchujiang.com/quick-rss/issue/325.html) 
 
 ![](https://github.com/user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-16T04:16:44.478Z</updated>
+    <updated>2026-04-16T04:57:11.315Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -25,6 +25,31 @@
         <content type="html"><![CDATA[<p>macOS 原生开源应用，一站式动漫壁纸：静态4K/8K、动态壁纸、番剧追番。智能搜索、一键设置、多屏支持。完全免费。</p>
 <img alt="WaifuX" src="https://github.com/user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f"><br /><br />
       <a href="https://github.com/jaywcjlove/quick-rss/issues/327" target="_blank">#327</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeWhisper：在 Mac 上用 AI 实现全局语音输入与文本生成]]></title>
+        <id>326</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/326.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/97295518-6a3f-4cdb-b60b-4776b47a8133" type="image//user-attachments/assets/97295518-6a3f-4cdb-b60b-4776b47a8133"/>
+        <updated>2026-04-14T19:41:52.000Z</updated>
+        <summary type="html"><![CDATA[TypeWhisper 是一款 macOS 原生应用，让你通过语音在任何应用中输入文字，并结合 AI 自动优化内容表达。 它基于先进的语音识别技术，可以将语音实时转换为文本，并支持多语言输入与智能润色。无论是写邮件、写代码、聊天还是记录笔记，都可以直接开口完成，大幅提升输入效率。 应用支持本地或 AI 处理，兼顾隐私与性能，同时提供简单直观的使用体验，非常适合需要高效输入的开发者、创作者和重度电脑]]></summary>
+        <content type="html"><![CDATA[<p>TypeWhisper 是一款 macOS 原生应用，让你通过语音在任何应用中输入文字，并结合 AI 自动优化内容表达。</p>
+<img alt="TypeWhisper" src="https://github.com/user-attachments/assets/97295518-6a3f-4cdb-b60b-4776b47a8133">
+<p>它基于先进的语音识别技术，可以将语音实时转换为文本，并支持多语言输入与智能润色。无论是写邮件、写代码、聊天还是记录笔记，都可以直接开口完成，大幅提升输入效率。</p>
+<p>应用支持本地或 AI 处理，兼顾隐私与性能，同时提供简单直观的使用体验，非常适合需要高效输入的开发者、创作者和重度电脑用户。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/326" target="_blank">#326</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>

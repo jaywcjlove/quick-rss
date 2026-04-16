@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "328",
+            "content_html": "<p>开源 macOS 原生仪表盘，一站式管理多家 AI 订阅。  支持 10+ 平台（Claude、Gemini、Copilot 等），实时显示配额、成本、账号用量，带趋势图和详细统计。</p>\n<img alt=\"AIUsage\" src=\"https://github.com/user-attachments/assets/dc5793b3-799b-491d-b21d-0f1c601e1000\">\n<p>特色：Claude Code 代理，一键切换任意 OpenAI 兼容模型；菜单栏快捷查看；Keychain 安全存储。</p>\n<p>适合重度 AI 用户，省时省心。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/328\" target=\"_blank\">#328</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/328.html",
+            "title": "AIUsage：原生 macOS 仪表盘统一管理多家 AI 订阅账号、额度、成本，以及 Claude Code 代理与统计",
+            "summary": "开源 macOS 原生仪表盘，一站式管理多家 AI 订阅。 支持 10+ 平台（Claude、Gemini、Copilot 等），实时显示配额、成本、账号用量，带趋势图和详细统计。 特色：Claude Code 代理，一键切换任意 OpenAI 兼容模型；菜单栏快捷查看；Keychain 安全存储。 适合重度 AI 用户，省时省心。",
+            "image": "https://github.com/user-attachments/assets/dc5793b3-799b-491d-b21d-0f1c601e1000",
+            "date_modified": "2026-04-16T05:48:06.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "327",
             "content_html": "<p>macOS 原生开源应用，一站式动漫壁纸：静态4K/8K、动态壁纸、番剧追番。智能搜索、一键设置、多屏支持。完全免费。</p>\n<img alt=\"WaifuX\" src=\"https://github.com/user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/327\" target=\"_blank\">#327</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/327.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AIUsage：原生 macOS 仪表盘统一管理多家 AI 订阅账号、额度、成本，以及 Claude Code 代理与统计](https://wangchujiang.com/quick-rss/issue/328.html) 
+
+![](https://github.com/user-attachments/assets/dc5793b3-799b-491d-b21d-0f1c601e1000)
+
+开源 macOS 原生仪表盘，一站式管理多家 AI 订阅。 支持 10+ 平台（Claude、Gemini、Copilot 等），实时显示配额、成本、账号用量，带趋势图和详细统计。 特色：Claude Code 代理，一键切换任意 OpenAI 兼容模型；菜单栏快捷查看；Keychain 安全存储。 适合重度 AI 用户，省时省心。 ([#328](https://github.com/jaywcjlove/quick-rss/issues/328) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [WaifuX：ACG动漫壁纸 & 动态桌面](https://wangchujiang.com/quick-rss/issue/327.html) 
 
 ![](https://github.com/user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-04-16T04:57:11.315Z</updated>
+    <updated>2026-04-16T05:48:35.569Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[AIUsage：原生 macOS 仪表盘统一管理多家 AI 订阅账号、额度、成本，以及 Claude Code 代理与统计]]></title>
+        <id>328</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/328.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/dc5793b3-799b-491d-b21d-0f1c601e1000" type="image//user-attachments/assets/dc5793b3-799b-491d-b21d-0f1c601e1000"/>
+        <updated>2026-04-16T05:48:06.000Z</updated>
+        <summary type="html"><![CDATA[开源 macOS 原生仪表盘，一站式管理多家 AI 订阅。 支持 10+ 平台（Claude、Gemini、Copilot 等），实时显示配额、成本、账号用量，带趋势图和详细统计。 特色：Claude Code 代理，一键切换任意 OpenAI 兼容模型；菜单栏快捷查看；Keychain 安全存储。 适合重度 AI 用户，省时省心。]]></summary>
+        <content type="html"><![CDATA[<p>开源 macOS 原生仪表盘，一站式管理多家 AI 订阅。  支持 10+ 平台（Claude、Gemini、Copilot 等），实时显示配额、成本、账号用量，带趋势图和详细统计。</p>
+<img alt="AIUsage" src="https://github.com/user-attachments/assets/dc5793b3-799b-491d-b21d-0f1c601e1000">
+<p>特色：Claude Code 代理，一键切换任意 OpenAI 兼容模型；菜单栏快捷查看；Keychain 安全存储。</p>
+<p>适合重度 AI 用户，省时省心。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/328" target="_blank">#328</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WaifuX：ACG动漫壁纸 & 动态桌面]]></title>
         <id>327</id>

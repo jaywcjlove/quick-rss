@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "327",
+            "content_html": "<p>macOS 原生开源应用，一站式动漫壁纸：静态4K/8K、动态壁纸、番剧追番。智能搜索、一键设置、多屏支持。完全免费。</p>\n<img alt=\"WaifuX\" src=\"https://github.com/user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/327\" target=\"_blank\">#327</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/327.html",
+            "title": "WaifuX：ACG动漫壁纸 & 动态桌面",
+            "summary": "macOS 原生开源应用，一站式动漫壁纸：静态4K/8K、动态壁纸、番剧追番。智能搜索、一键设置、多屏支持。完全免费。",
+            "image": "https://github.com/user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f",
+            "date_modified": "2026-04-16T03:36:04.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "325",
             "content_html": "<p>Switzy 是一款原生 macOS 菜单栏工具，专门用来管理多个 Git 身份（用户名、邮箱、SSH Key）。</p>\n<img alt=\"Switzy\" src=\"https://github.com/user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01\">\n<p>如果你同时在处理工作、个人项目或多个仓库，频繁切换 Git 配置会很麻烦，而 Switzy 可以一键切换不同身份，自动更新 <code>.gitconfig</code>，不需要再手动改配置或写脚本。</p>\n<p>同时它还内置 SSH Key 管理功能，可以直接在应用中生成和管理密钥，不用再频繁操作终端。</p>\n<p>一个很典型的「小而美」开发者工具，专注解决一个高频但被忽略的问题。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/325\" target=\"_blank\">#325</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/325.html",

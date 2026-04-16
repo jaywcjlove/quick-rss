@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [WaifuX：ACG动漫壁纸 & 动态桌面](https://wangchujiang.com/quick-rss/issue/327.html) 
+
+![](https://github.com/user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f)
+
+macOS 原生开源应用，一站式动漫壁纸：静态4K/8K、动态壁纸、番剧追番。智能搜索、一键设置、多屏支持。完全免费。 ([#327](https://github.com/jaywcjlove/quick-rss/issues/327) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Switzy：用于切换 Git 身份、邮箱和 SSH 密钥的原生 macOS 管理工具](https://wangchujiang.com/quick-rss/issue/325.html) 
 
 ![](https://github.com/user-attachments/assets/31008c75-60aa-4944-9e47-1c5ac7795a01)

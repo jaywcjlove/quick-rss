@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 16 Apr 2026 04:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 04:57:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -30,6 +30,24 @@
       ]]></content:encoded>
             <author>jaywcjlove</author>
             <enclosure url="https://github.com/user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f" length="0" type="image//user-attachments/assets/04f6be1b-33f8-40fb-b22a-1e291fda351f"/>
+        </item>
+        <item>
+            <title><![CDATA[TypeWhisper：在 Mac 上用 AI 实现全局语音输入与文本生成]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/326.html</link>
+            <guid isPermaLink="false">326</guid>
+            <pubDate>Tue, 14 Apr 2026 19:41:52 GMT</pubDate>
+            <description><![CDATA[TypeWhisper 是一款 macOS 原生应用，让你通过语音在任何应用中输入文字，并结合 AI 自动优化内容表达。 它基于先进的语音识别技术，可以将语音实时转换为文本，并支持多语言输入与智能润色。无论是写邮件、写代码、聊天还是记录笔记，都可以直接开口完成，大幅提升输入效率。 应用支持本地或 AI 处理，兼顾隐私与性能，同时提供简单直观的使用体验，非常适合需要高效输入的开发者、创作者和重度电脑]]></description>
+            <content:encoded><![CDATA[<p>TypeWhisper 是一款 macOS 原生应用，让你通过语音在任何应用中输入文字，并结合 AI 自动优化内容表达。</p>
+<img alt="TypeWhisper" src="https://github.com/user-attachments/assets/97295518-6a3f-4cdb-b60b-4776b47a8133">
+<p>它基于先进的语音识别技术，可以将语音实时转换为文本，并支持多语言输入与智能润色。无论是写邮件、写代码、聊天还是记录笔记，都可以直接开口完成，大幅提升输入效率。</p>
+<p>应用支持本地或 AI 处理，兼顾隐私与性能，同时提供简单直观的使用体验，非常适合需要高效输入的开发者、创作者和重度电脑用户。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/326" target="_blank">#326</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/97295518-6a3f-4cdb-b60b-4776b47a8133" length="0" type="image//user-attachments/assets/97295518-6a3f-4cdb-b60b-4776b47a8133"/>
         </item>
         <item>
             <title><![CDATA[Switzy：用于切换 Git 身份、邮箱和 SSH 密钥的原生 macOS 管理工具]]></title>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Gridex：原生 macOS/Windows 数据库内置 AI 对话的原生数据库 IDE，支持 PostgreSQL、MySQL、SQLite、Redis、MongoDB 和 SQL Server](https://wangchujiang.com/quick-rss/issue/329.html) 
+
+![](https://github.com/user-attachments/assets/a08ce470-bab9-489d-8c0e-54b2a8b688c9)
+
+用原生 Swift 做一个 macOS 数据库 IDE，支持 6 种数据库，内置 AI 写 SQL 助手。 Gridex 是一款原生 macOS/Windows 数据库 IDE，Swift + AppKit 构建。支持 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 六种数据库直连，配备内置 AI 助手（Claude、GPT、Gemini、Olla ([#329](https://github.com/jaywcjlove/quick-rss/issues/329) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [AIUsage：原生 macOS 仪表盘统一管理多家 AI 订阅账号、额度、成本，以及 Claude Code 代理与统计](https://wangchujiang.com/quick-rss/issue/328.html) 
 
 ![](https://github.com/user-attachments/assets/dc5793b3-799b-491d-b21d-0f1c601e1000)

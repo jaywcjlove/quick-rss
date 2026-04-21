@@ -6,7 +6,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/quick-rss/6670696072?platform=mac" title="Quick RSS AppStore">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6670696072&platform=mac" title="Quick RSS AppStore">
   <img src="https://jaywcjlove.github.io/sb/download/macos.svg" alt="Quick RSS AppStore" height="51">
 </a>
 <a target="_blank" href="https://apps.apple.com/app/regex-mate/6670696072?platform=iphone" title="Quick RSS for iOS">

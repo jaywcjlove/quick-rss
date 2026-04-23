@@ -1,5 +1,19 @@
 [
   {
+    "id": "330",
+    "url": "https://wangchujiang.com/quick-rss/issue/330.html",
+    "title": "CodeBurn：追踪 AI 编码 token 成本的交互式仪表板",
+    "content_html": "<p>这是一款面向 AI 开发者的使用分析工具，可以从任务类型、模型、工具、项目等多个维度统计 AI 的实际表现。它支持 Claude Code、Codex、Cursor、GitHub Copilot 等主流工具，并通过“一次成功率”等指标，让你直观看到 AI 在不同场景中是一次完成，还是反复修改消耗 token。</p>\n<img alt=\"CodeBurn\" src=\"https://github.com/user-attachments/assets/da0434a3-b29e-44d1-9d0c-1ab079f76ea9\">\n<p>应用通过直接读取本地 session 数据工作，无需 API Key、无需代理，完全本地运行，隐私友好。同时提供交互式 TUI 面板和 macOS 菜单栏应用，支持 CSV/JSON 导出，帮助你真正量化 AI 编程效率，而不是凭感觉使用 AI。</p>",
+    "summary": "这是一款面向 AI 开发者的使用分析工具，可以从任务类型、模型、工具、项目等多个维度统计 AI 的实际表现。它支持 Claude Code、Codex、Cursor、GitHub Copilot 等主流工具，并通过“一次成功率”等指标，让你直观看到 AI 在不同场景中是一次完成，还是反复修改消耗 token。 应用通过直接读取本地 session 数据工作，无需 API Key、无需代理，完全本地",
+    "banner_image": null,
+    "date_published": "2026-04-23T07:25:50Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "这是一款面向 AI 开发者的使用分析工具，可以从任务类型、模型、工具、项目等多个维度统计 AI 的实际表现。它支持 Claude Code、Codex、Cursor、GitHub Copilot 等主流工具，并通过“一次成功率”等指标，让你直观看到 AI 在不同场景中是一次完成，还是反复修改消耗 token。\n\n<img  alt=\"CodeBurn\" src=\"https://github.com/user-attachments/assets/da0434a3-b29e-44d1-9d0c-1ab079f76ea9\" />\n\n应用通过直接读取本地 session 数据工作，无需 API Key、无需代理，完全本地运行，隐私友好。同时提供交互式 TUI 面板和 macOS 菜单栏应用，支持 CSV/JSON 导出，帮助你真正量化 AI 编程效率，而不是凭感觉使用 AI。"
+  },
+  {
     "id": "329",
     "url": "https://wangchujiang.com/quick-rss/issue/329.html",
     "title": "Gridex：原生 macOS/Windows 数据库内置 AI 对话的原生数据库 IDE，支持 PostgreSQL、MySQL、SQLite、Redis、MongoDB 和 SQL Server",

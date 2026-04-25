@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Marknative：原生 Markdown 渲染引擎，无需浏览器即可生成高质量 PNG / SVG 文档](https://wangchujiang.com/quick-rss/issue/331.html) 
+
+![](https://github.com/user-attachments/assets/21c81498-8d99-41b4-897c-aad1d456de52)
+
+一款原生的 Markdown 渲染引擎，可直接生成分页的 PNG / SVG 文档——无需浏览器、无需 Chromium、无需 DOM。 支持 CommonMark、GFM（表格、任务列表、删除线）、代码高亮（基于 Shiki）以及 LaTeX 数学公式（基于 MathJax），全部在服务端完成渲染。 它不是基于浏览器截图，也不依赖 Chromium、DOM 或 WebView，而是一款真正的原生 ([#331](https://github.com/jaywcjlove/quick-rss/issues/331) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [CodeBurn：追踪 AI 编码 token 成本的交互式仪表板](https://wangchujiang.com/quick-rss/issue/330.html) 
 
 ![](https://github.com/user-attachments/assets/da0434a3-b29e-44d1-9d0c-1ab079f76ea9)

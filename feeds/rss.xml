@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 23 Apr 2026 07:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 01:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,49 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marknative：原生 Markdown 渲染引擎，无需浏览器即可生成高质量 PNG / SVG 文档]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/331.html</link>
+            <guid isPermaLink="false">331</guid>
+            <pubDate>Sat, 25 Apr 2026 01:12:03 GMT</pubDate>
+            <description><![CDATA[一款原生的 Markdown 渲染引擎，可直接生成分页的 PNG / SVG 文档——无需浏览器、无需 Chromium、无需 DOM。 支持 CommonMark、GFM（表格、任务列表、删除线）、代码高亮（基于 Shiki）以及 LaTeX 数学公式（基于 MathJax），全部在服务端完成渲染。 它不是基于浏览器截图，也不依赖 Chromium、DOM 或 WebView，而是一款真正的原生]]></description>
+            <content:encoded><![CDATA[<p>一款原生的 Markdown 渲染引擎，可直接生成分页的 PNG / SVG 文档——无需浏览器、无需 Chromium、无需 DOM。</p>
+<img alt="Marknative" src="https://github.com/user-attachments/assets/21c81498-8d99-41b4-897c-aad1d456de52">
+<p>支持 CommonMark、GFM（表格、任务列表、删除线）、代码高亮（基于 Shiki）以及 LaTeX 数学公式（基于 MathJax），全部在服务端完成渲染。</p>
+<p>它不是基于浏览器截图，也不依赖 Chromium、DOM 或 WebView，而是一款真正的原生 Markdown 渲染引擎，可以直接将 Markdown 内容渲染成分页的 PNG / SVG 文档。</p>
+<p>通过原生渲染管线直接生成图片:</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">Markdown → 解析 → 排版 → Canvas / Vector 绘制 → 导出图片
+</span></code></pre>
+<p>如果你正在寻找一款真正适合服务端使用的 Markdown 渲染方案，那么我很推荐试试</p>
+<pre class="language-ts"><code class="language-ts code-highlight"><span class="code-line line-number" line="1"><span class="token keyword">import</span> <span class="token punctuation">{</span> renderMarkdown <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">'marknative'</span>
+</span><span class="code-line line-number" line="2">
+</span><span class="code-line line-number" line="3"><span class="token keyword">const</span> pages <span class="token operator">=</span> <span class="token keyword">await</span> <span class="token function">renderMarkdown</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">
+</span></span></span><span class="code-line line-number" line="4"><span class="token template-string"><span class="token string"># Hello, marknative
+</span></span></span><span class="code-line line-number" line="5"><span class="token template-string"><span class="token string">
+</span></span></span><span class="code-line line-number" line="6"><span class="token template-string"><span class="token string">A native Markdown rendering engine that produces **paginated PNG pages**
+</span></span></span><span class="code-line line-number" line="7"><span class="token template-string"><span class="token string">without a browser.
+</span></span></span><span class="code-line line-number" line="8"><span class="token template-string"><span class="token string">
+</span></span></span><span class="code-line line-number" line="9"><span class="token template-string"><span class="token string">- CommonMark + GFM support
+</span></span></span><span class="code-line line-number" line="10"><span class="token template-string"><span class="token string">- Deterministic layout and pagination
+</span></span></span><span class="code-line line-number" line="11"><span class="token template-string"><span class="token string">- PNG and SVG output
+</span></span></span><span class="code-line line-number" line="12"><span class="token template-string"><span class="token string"></span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="13">
+</span><span class="code-line line-number" line="14"><span class="token builtin">console</span><span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">Rendered </span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>pages<span class="token punctuation">.</span>length<span class="token interpolation-punctuation punctuation">}</span></span><span class="token string"> page(s)</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="15">
+</span><span class="code-line line-number" line="16"><span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">const</span> <span class="token punctuation">[</span>i<span class="token punctuation">,</span> page<span class="token punctuation">]</span> <span class="token keyword">of</span> pages<span class="token punctuation">.</span><span class="token function">entries</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+</span><span class="code-line line-number" line="17">  <span class="token comment">// page.format === 'png'</span>
+</span><span class="code-line line-number" line="18">  <span class="token comment">// page.data   === Buffer</span>
+</span><span class="code-line line-number" line="19">  <span class="token keyword">await</span> Bun<span class="token punctuation">.</span><span class="token function">write</span><span class="token punctuation">(</span><span class="token template-string"><span class="token template-punctuation string">`</span><span class="token string">page-</span><span class="token interpolation"><span class="token interpolation-punctuation punctuation">${</span>i <span class="token operator">+</span> <span class="token number">1</span><span class="token interpolation-punctuation punctuation">}</span></span><span class="token string">.png</span><span class="token template-punctuation string">`</span></span><span class="token punctuation">,</span> page<span class="token punctuation">.</span>data<span class="token punctuation">)</span>
+</span><span class="code-line line-number" line="20"><span class="token punctuation">}</span>
+</span></code></pre><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/331" target="_blank">#331</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/21c81498-8d99-41b4-897c-aad1d456de52" length="0" type="image//user-attachments/assets/21c81498-8d99-41b4-897c-aad1d456de52"/>
+        </item>
         <item>
             <title><![CDATA[CodeBurn：追踪 AI 编码 token 成本的交互式仪表板]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/330.html</link>

@@ -1,5 +1,19 @@
 [
   {
+    "id": "333",
+    "url": "https://wangchujiang.com/quick-rss/issue/333.html",
+    "title": "SSH Keys Manager：集中浏览、复制、生成和整理 SSH 密钥及 SSH 配置条目的工具",
+    "content_html": "<p>SSH Keys Manager 是一款纯原生 macOS 菜单栏应用，专门帮你轻松管理 SSH 密钥和配置。\n它可以快速浏览、生成、复制、重命名 SSH 密钥，支持直接编辑 <code>~/.ssh/config</code>，还能一键关联私钥，带只读安全模式，操作简单安全，特别适合经常 SSH 连接服务器的开发者。强烈推荐！</p>\n<img alt=\"SSH Keys Manager\" src=\"https://github.com/user-attachments/assets/9491ebca-a495-432d-9c57-8173ac978405\">",
+    "summary": "SSH Keys Manager 是一款纯原生 macOS 菜单栏应用，专门帮你轻松管理 SSH 密钥和配置。 它可以快速浏览、生成、复制、重命名 SSH 密钥，支持直接编辑 `~/.ssh/config`，还能一键关联私钥，带只读安全模式，操作简单安全，特别适合经常 SSH 连接服务器的开发者。强烈推荐！",
+    "banner_image": null,
+    "date_published": "2026-05-11T14:35:54Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "SSH Keys Manager 是一款纯原生 macOS 菜单栏应用，专门帮你轻松管理 SSH 密钥和配置。\n它可以快速浏览、生成、复制、重命名 SSH 密钥，支持直接编辑 `~/.ssh/config`，还能一键关联私钥，带只读安全模式，操作简单安全，特别适合经常 SSH 连接服务器的开发者。强烈推荐！\n\n<img alt=\"SSH Keys Manager\" src=\"https://github.com/user-attachments/assets/9491ebca-a495-432d-9c57-8173ac978405\" />"
+  },
+  {
     "id": "331",
     "url": "https://wangchujiang.com/quick-rss/issue/331.html",
     "title": "Marknative：原生 Markdown 渲染引擎，无需浏览器即可生成高质量 PNG / SVG 文档",

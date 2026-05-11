@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SSH Keys Manager：集中浏览、复制、生成和整理 SSH 密钥及 SSH 配置条目的工具](https://wangchujiang.com/quick-rss/issue/333.html) 
+
+![](https://github.com/user-attachments/assets/9491ebca-a495-432d-9c57-8173ac978405)
+
+SSH Keys Manager 是一款纯原生 macOS 菜单栏应用，专门帮你轻松管理 SSH 密钥和配置。 它可以快速浏览、生成、复制、重命名 SSH 密钥，支持直接编辑 ~/.ssh/config，还能一键关联私钥，带只读安全模式，操作简单安全，特别适合经常 SSH 连接服务器的开发者。强烈推荐！ ([#333](https://github.com/jaywcjlove/quick-rss/issues/333) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Marknative：原生 Markdown 渲染引擎，无需浏览器即可生成高质量 PNG / SVG 文档](https://wangchujiang.com/quick-rss/issue/331.html) 
 
 ![](https://github.com/user-attachments/assets/21c81498-8d99-41b4-897c-aad1d456de52)

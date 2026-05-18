@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-05-11T14:36:55.152Z</updated>
+    <updated>2026-05-18T03:28:48.515Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Gridex：一款 AI Native 数据库 IDE，支持 macOS / Windows / Linux]]></title>
+        <id>334</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/334.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27" type="image//user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27"/>
+        <updated>2026-05-18T03:27:20.000Z</updated>
+        <summary type="html"><![CDATA[一个原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse，内置 AI Chat 与 MCP Server，支持 macOS / Windows / Linux。]]></summary>
+        <content type="html"><![CDATA[<p>一个原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse，内置 AI Chat 与 MCP Server，支持 macOS / Windows / Linux。</p>
+<img alt="Gridex" src="https://github.com/user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27">
+<img alt="Gridex" src="https://github.com/user-attachments/assets/a171db43-d1ac-4558-b40a-80bc944eefc8"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/334" target="_blank">#334</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSH Keys Manager：集中浏览、复制、生成和整理 SSH 密钥及 SSH 配置条目的工具]]></title>
         <id>333</id>

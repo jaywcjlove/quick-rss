@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "334",
+            "content_html": "<p>一个原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse，内置 AI Chat 与 MCP Server，支持 macOS / Windows / Linux。</p>\n<img alt=\"Gridex\" src=\"https://github.com/user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27\">\n<img alt=\"Gridex\" src=\"https://github.com/user-attachments/assets/a171db43-d1ac-4558-b40a-80bc944eefc8\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/334\" target=\"_blank\">#334</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/334.html",
+            "title": "Gridex：一款 AI Native 数据库 IDE，支持 macOS / Windows / Linux",
+            "summary": "一个原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse，内置 AI Chat 与 MCP Server，支持 macOS / Windows / Linux。",
+            "image": "https://github.com/user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27",
+            "date_modified": "2026-05-18T03:27:20.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "333",
             "content_html": "<p>SSH Keys Manager 是一款纯原生 macOS 菜单栏应用，专门帮你轻松管理 SSH 密钥和配置。\n它可以快速浏览、生成、复制、重命名 SSH 密钥，支持直接编辑 <code>~/.ssh/config</code>，还能一键关联私钥，带只读安全模式，操作简单安全，特别适合经常 SSH 连接服务器的开发者。强烈推荐！</p>\n<img alt=\"SSH Keys Manager\" src=\"https://github.com/user-attachments/assets/9491ebca-a495-432d-9c57-8173ac978405\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/333\" target=\"_blank\">#333</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/333.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Gridex：一款 AI Native 数据库 IDE，支持 macOS / Windows / Linux](https://wangchujiang.com/quick-rss/issue/334.html) 
+
+![](https://github.com/user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27)
+
+一个原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse，内置 AI Chat 与 MCP Server，支持 macOS / Windows / Linux。 ([#334](https://github.com/jaywcjlove/quick-rss/issues/334) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SSH Keys Manager：集中浏览、复制、生成和整理 SSH 密钥及 SSH 配置条目的工具](https://wangchujiang.com/quick-rss/issue/333.html) 
 
 ![](https://github.com/user-attachments/assets/9491ebca-a495-432d-9c57-8173ac978405)

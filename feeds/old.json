@@ -1,5 +1,19 @@
 [
   {
+    "id": "334",
+    "url": "https://wangchujiang.com/quick-rss/issue/334.html",
+    "title": "Gridex：一款 AI Native 数据库 IDE，支持 macOS / Windows / Linux",
+    "content_html": "<p>一个原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse，内置 AI Chat 与 MCP Server，支持 macOS / Windows / Linux。</p>\n<img alt=\"Gridex\" src=\"https://github.com/user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27\">\n<img alt=\"Gridex\" src=\"https://github.com/user-attachments/assets/a171db43-d1ac-4558-b40a-80bc944eefc8\">",
+    "summary": "一个原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse，内置 AI Chat 与 MCP Server，支持 macOS / Windows / Linux。",
+    "banner_image": null,
+    "date_published": "2026-05-18T03:27:20Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个原生应用同时管理 PostgreSQL、MySQL、SQLite、Redis、MongoDB、SQL Server 和 ClickHouse，内置 AI Chat 与 MCP Server，支持 macOS / Windows / Linux。\n\n<img alt=\"Gridex\" src=\"https://github.com/user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27\" />\n\n<img  alt=\"Gridex\" src=\"https://github.com/user-attachments/assets/a171db43-d1ac-4558-b40a-80bc944eefc8\" />"
+  },
+  {
     "id": "333",
     "url": "https://wangchujiang.com/quick-rss/issue/333.html",
     "title": "SSH Keys Manager：集中浏览、复制、生成和整理 SSH 密钥及 SSH 配置条目的工具",

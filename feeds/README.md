@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MarkEdit：免费开源的 macOS 原生 Markdown 编辑器](https://wangchujiang.com/quick-rss/issue/335.html) 
+
+![](https://github.com/user-attachments/assets/78efe5ad-5364-4d4c-83be-1b4116b3ded7)
+
+免费开源的 macOS 原生 Markdown 编辑器。仅4MB超轻量体积，可流畅处理百万行文档。它类似系统自带的文本编辑（TextEdit），却专为 Markdown 优化，在体积、速度、系统原生适配与编辑准确性之间实现完美平衡。 简洁、快速、稳定。 ([#335](https://github.com/jaywcjlove/quick-rss/issues/335) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Gridex：一款 AI Native 数据库 IDE，支持 macOS / Windows / Linux](https://wangchujiang.com/quick-rss/issue/334.html) 
 
 ![](https://github.com/user-attachments/assets/16262ae9-6dd3-4820-9109-35a7966c8f27)

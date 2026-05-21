@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 18 May 2026 03:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 03:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,26 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MarkEdit：免费开源的 macOS 原生 Markdown 编辑器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/335.html</link>
+            <guid isPermaLink="false">335</guid>
+            <pubDate>Thu, 21 May 2026 03:50:22 GMT</pubDate>
+            <description><![CDATA[免费开源的 macOS 原生 Markdown 编辑器。仅4MB超轻量体积，可流畅处理百万行文档。它类似系统自带的文本编辑（TextEdit），却专为 Markdown 优化，在体积、速度、系统原生适配与编辑准确性之间实现完美平衡。 简洁、快速、稳定。]]></description>
+            <content:encoded><![CDATA[<p>免费开源的 macOS 原生 Markdown 编辑器。仅4MB超轻量体积，可流畅处理百万行文档。它类似系统自带的文本编辑（TextEdit），却专为 Markdown 优化，在体积、速度、系统原生适配与编辑准确性之间实现完美平衡。</p>
+<p>简洁、快速、稳定。</p>
+<img alt="MarkEdit" src="https://github.com/user-attachments/assets/78efe5ad-5364-4d4c-83be-1b4116b3ded7">
+<img alt="MarkEdit" src="https://github.com/user-attachments/assets/ad953cb5-1c96-4d3b-b84e-bd9cb2ed02ca">
+<img alt="MarkEdit" src="https://github.com/user-attachments/assets/8c2b31ea-070b-4feb-86d9-6a102e9143a6">
+<img alt="MarkEdit" src="https://github.com/user-attachments/assets/fbb75df4-cf93-406f-84e1-91d9756d6134"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/335" target="_blank">#335</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/78efe5ad-5364-4d4c-83be-1b4116b3ded7" length="0" type="image//user-attachments/assets/78efe5ad-5364-4d4c-83be-1b4116b3ded7"/>
+        </item>
         <item>
             <title><![CDATA[Gridex：一款 AI Native 数据库 IDE，支持 macOS / Windows / Linux]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/334.html</link>

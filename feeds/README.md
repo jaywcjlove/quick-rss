@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TrayPulsy：会随系统负载加速奔跑的 macOS 菜单栏监控工具](https://wangchujiang.com/quick-rss/issue/337.html) 
+
+![](https://raw.githubusercontent.com/krissss/tray-pulsy/main/assets/tray.gif)
+
+自荐一款轻量开源的 macOS 菜单栏系统监控工具 TrayPulsy。它会在状态栏显示一个小动画角色，动画速度会根据 CPU、GPU、内存或磁盘等系统负载实时变化：Mac 越忙，跑得越快。 除了有趣的动态菜单栏图标，它也提供实用的系统监控能力：可以在菜单栏显示 CPU、GPU、内存、磁盘、网络等指标，支持阈值颜色；点击后可打开 Popover 查看实时状态、历史趋势图，以及 CPU、内存、网络  ([#337](https://github.com/jaywcjlove/quick-rss/issues/337) - [@krissss](https://github.com/krissss))
 ## [MarkEdit：免费开源的 macOS 原生 Markdown 编辑器](https://wangchujiang.com/quick-rss/issue/335.html) 
 
 ![](https://github.com/user-attachments/assets/78efe5ad-5364-4d4c-83be-1b4116b3ded7)

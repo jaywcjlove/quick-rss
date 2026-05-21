@@ -1,5 +1,19 @@
 [
   {
+    "id": "337",
+    "url": "https://wangchujiang.com/quick-rss/issue/337.html",
+    "title": "TrayPulsy：会随系统负载加速奔跑的 macOS 菜单栏监控工具",
+    "content_html": "<p>自荐一款轻量开源的 macOS 菜单栏系统监控工具 TrayPulsy。它会在状态栏显示一个小动画角色，动画速度会根据 CPU、GPU、内存或磁盘等系统负载实时变化：Mac 越忙，跑得越快。</p>\n<p><img src=\"https://raw.githubusercontent.com/krissss/tray-pulsy/main/assets/tray.gif\" alt=\"TrayPulsy\"></p>\n<p>除了有趣的动态菜单栏图标，它也提供实用的系统监控能力：可以在菜单栏显示 CPU、GPU、内存、磁盘、网络等指标，支持阈值颜色；点击后可打开 Popover 查看实时状态、历史趋势图，以及 CPU、内存、网络 Top 进程排行。</p>\n<p>TrayPulsy 还支持多款内置皮肤和外部 PNG 帧序列皮肤，内置 Cat、Parrot、Horse、Mona、Dab、Pulsy 波形等样式；Pulsy 皮肤还能调整配色、波形、线条粗细、发光强度和振幅。应用集成 Sparkle 自动更新，也可以通过 Homebrew Cask 安装，适合想要一个既轻巧又有趣的 macOS 常驻监控工具的用户。</p>\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/59164169-cefb-4ee6-aa57-fd724d00dd67\">\n<p>popover</p>\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/f12586bc-d3d0-4731-bb44-83756ac41f21\">\n<p>dashboard</p>\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/0e1ddb1b-69ee-43c2-825b-1d78c5f8d8b9\">\n<p>skin</p>",
+    "summary": "自荐一款轻量开源的 macOS 菜单栏系统监控工具 TrayPulsy。它会在状态栏显示一个小动画角色，动画速度会根据 CPU、GPU、内存或磁盘等系统负载实时变化：Mac 越忙，跑得越快。 除了有趣的动态菜单栏图标，它也提供实用的系统监控能力：可以在菜单栏显示 CPU、GPU、内存、磁盘、网络等指标，支持阈值颜色；点击后可打开 Popover 查看实时状态、历史趋势图，以及 CPU、内存、网络 ",
+    "banner_image": "https://raw.githubusercontent.com/krissss/tray-pulsy/main/assets/tray.gif",
+    "date_published": "2026-05-21T14:52:43Z",
+    "author": {
+      "name": "krissss",
+      "link": "https://avatars.githubusercontent.com/u/10680903?v=4"
+    },
+    "markdownContent": "自荐一款轻量开源的 macOS 菜单栏系统监控工具 TrayPulsy。它会在状态栏显示一个小动画角色，动画速度会根据 CPU、GPU、内存或磁盘等系统负载实时变化：Mac 越忙，跑得越快。\n\n![TrayPulsy](https://raw.githubusercontent.com/krissss/tray-pulsy/main/assets/tray.gif)\n\n除了有趣的动态菜单栏图标，它也提供实用的系统监控能力：可以在菜单栏显示 CPU、GPU、内存、磁盘、网络等指标，支持阈值颜色；点击后可打开 Popover 查看实时状态、历史趋势图，以及 CPU、内存、网络 Top 进程排行。\n\nTrayPulsy 还支持多款内置皮肤和外部 PNG 帧序列皮肤，内置 Cat、Parrot、Horse、Mona、Dab、Pulsy 波形等样式；Pulsy 皮肤还能调整配色、波形、线条粗细、发光强度和振幅。应用集成 Sparkle 自动更新，也可以通过 Homebrew Cask 安装，适合想要一个既轻巧又有趣的 macOS 常驻监控工具的用户。\n\n\n\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/59164169-cefb-4ee6-aa57-fd724d00dd67\" />\n\npopover\n\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/f12586bc-d3d0-4731-bb44-83756ac41f21\" />\n\ndashboard\n\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/0e1ddb1b-69ee-43c2-825b-1d78c5f8d8b9\" />\n\nskin"
+  },
+  {
     "id": "335",
     "url": "https://wangchujiang.com/quick-rss/issue/335.html",
     "title": "MarkEdit：免费开源的 macOS 原生 Markdown 编辑器",

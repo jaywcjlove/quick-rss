@@ -16,6 +16,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://raw.githubusercontent.com/krissss/tray-pulsy/main/assets/tray.gif)
 
 自荐一款轻量开源的 macOS 菜单栏系统监控工具 TrayPulsy。它会在状态栏显示一个小动画角色，动画速度会根据 CPU、GPU、内存或磁盘等系统负载实时变化：Mac 越忙，跑得越快。 除了有趣的动态菜单栏图标，它也提供实用的系统监控能力：可以在菜单栏显示 CPU、GPU、内存、磁盘、网络等指标，支持阈值颜色；点击后可打开 Popover 查看实时状态、历史趋势图，以及 CPU、内存、网络  ([#337](https://github.com/jaywcjlove/quick-rss/issues/337) - [@krissss](https://github.com/krissss))
+## [DolOffer：一站式数字订阅充值平台](https://wangchujiang.com/quick-rss/issue/336.html) 
+
+![](https://github.com/user-attachments/assets/2708fcb7-258b-4338-a30f-dd43f2e3c90d)
+
+一个实用的数字订阅省钱网站 DOLOFFER！现在各种流媒体和 AI 工具的月费加起来真的吃不消，这个平台完美解决了这个问题。 它不仅支持 YouTube Premium、Spotify、Office 365 等热门服务的家庭组“拼车”合租，能直接省下 30% 到 67% 的订阅费，更厉害的是还提供 ChatGPT 和 Claude 的独立正规代充服务，价格比官方直充更划算，而且完全不用担心隐私泄 ([#336](https://github.com/jaywcjlove/quick-rss/issues/336) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MarkEdit：免费开源的 macOS 原生 Markdown 编辑器](https://wangchujiang.com/quick-rss/issue/335.html) 
 
 ![](https://github.com/user-attachments/assets/78efe5ad-5364-4d4c-83be-1b4116b3ded7)

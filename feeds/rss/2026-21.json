@@ -14,6 +14,20 @@
     "markdownContent": "自荐一款轻量开源的 macOS 菜单栏系统监控工具 TrayPulsy。它会在状态栏显示一个小动画角色，动画速度会根据 CPU、GPU、内存或磁盘等系统负载实时变化：Mac 越忙，跑得越快。\n\n![TrayPulsy](https://raw.githubusercontent.com/krissss/tray-pulsy/main/assets/tray.gif)\n\n除了有趣的动态菜单栏图标，它也提供实用的系统监控能力：可以在菜单栏显示 CPU、GPU、内存、磁盘、网络等指标，支持阈值颜色；点击后可打开 Popover 查看实时状态、历史趋势图，以及 CPU、内存、网络 Top 进程排行。\n\nTrayPulsy 还支持多款内置皮肤和外部 PNG 帧序列皮肤，内置 Cat、Parrot、Horse、Mona、Dab、Pulsy 波形等样式；Pulsy 皮肤还能调整配色、波形、线条粗细、发光强度和振幅。应用集成 Sparkle 自动更新，也可以通过 Homebrew Cask 安装，适合想要一个既轻巧又有趣的 macOS 常驻监控工具的用户。\n\n\n\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/59164169-cefb-4ee6-aa57-fd724d00dd67\" />\n\npopover\n\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/f12586bc-d3d0-4731-bb44-83756ac41f21\" />\n\ndashboard\n\n<img alt=\"TrayPulsy\" src=\"https://github.com/user-attachments/assets/0e1ddb1b-69ee-43c2-825b-1d78c5f8d8b9\" />\n\nskin"
   },
   {
+    "id": "336",
+    "url": "https://wangchujiang.com/quick-rss/issue/336.html",
+    "title": "DolOffer：一站式数字订阅充值平台",
+    "content_html": "<p>一个实用的数字订阅省钱网站 <a href=\"https://doloffer.com/hk/\">DOLOFFER</a>！现在各种流媒体和 AI 工具的月费加起来真的吃不消，这个平台完美解决了这个问题。</p>\n<p>它不仅支持 YouTube Premium、Spotify、Office 365 等热门服务的家庭组“拼车”合租，能直接省下 30% 到 67% 的订阅费，更厉害的是还提供 ChatGPT 和 Claude 的独立正规代充服务，价格比官方直充更划算，而且完全不用担心隐私泄露或频繁掉线。平台支持 SSL 加密支付和 24 小时内退款保障，付款后自动秒级交付，9 折优惠码 AI8888，极速发货，售后无忧。</p>\n<img alt=\"DolOffer\" src=\"https://github.com/user-attachments/assets/2708fcb7-258b-4338-a30f-dd43f2e3c90d\">\n<h2>核心服务品类</h2>\n<p>平台提供多类热门数字服务的会员储值与合租服务，具体涵盖：</p>\n<ul>\n<li><strong>AI工具类</strong>：ChatGPT储值、Claude储值；</li>\n<li><strong>影音串流类</strong>：YouTube Premium（加入家庭组）、Apple Music、Spotify、Tidal、Crunchyroll；</li>\n<li><strong>云端与办公类</strong>：iCloud（1TB空间共享）、Office 365（家庭共享）；</li>\n<li><strong>语言学习类</strong>：Duolingo。</li>\n</ul>\n<h2>运作模式与核心特点</h2>\n<ol>\n<li><strong>成本优势</strong>：平台宣称可节省10%至65%的订阅费用，例如YouTube Premium合租价每月仅3.50美元，相较原价约节省34%；</li>\n<li><strong>交付效率</strong>：承诺用户付款后，会自动且即时完成服务交付，如发送家庭组邀请链接、重置密钥等；</li>\n<li><strong>售后保障</strong>：网页标注提供24小时内退款保证，以及7×24小时线上客服支持（需注意：网页下方的相关数据统计目前均显示为<code>0</code>，该点需谨慎看待）。</li>\n</ol>\n<p>⚠️ 温馨提醒：此类第三方合租平台的核心逻辑是利用各数字平台的「家庭共享」机制分摊成本。建议用户购买前仔细核对对应服务的官方条款，同时关注账号隐私安全与订阅续期的稳定性。</p>",
+    "summary": "一个实用的数字订阅省钱网站 [DOLOFFER](https://doloffer.com/hk/)！现在各种流媒体和 AI 工具的月费加起来真的吃不消，这个平台完美解决了这个问题。 它不仅支持 YouTube Premium、Spotify、Office 365 等热门服务的家庭组“拼车”合租，能直接省下 30% 到 67% 的订阅费，更厉害的是还提供 ChatGPT 和 Claude 的独立正",
+    "banner_image": null,
+    "date_published": "2026-05-21T09:55:40Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一个实用的数字订阅省钱网站 [DOLOFFER](https://doloffer.com/hk/)！现在各种流媒体和 AI 工具的月费加起来真的吃不消，这个平台完美解决了这个问题。\n\n它不仅支持 YouTube Premium、Spotify、Office 365 等热门服务的家庭组“拼车”合租，能直接省下 30% 到 67% 的订阅费，更厉害的是还提供 ChatGPT 和 Claude 的独立正规代充服务，价格比官方直充更划算，而且完全不用担心隐私泄露或频繁掉线。平台支持 SSL 加密支付和 24 小时内退款保障，付款后自动秒级交付，9 折优惠码 AI8888，极速发货，售后无忧。\n\n<img alt=\"DolOffer\" src=\"https://github.com/user-attachments/assets/2708fcb7-258b-4338-a30f-dd43f2e3c90d\" />\n\n## 核心服务品类\n\n平台提供多类热门数字服务的会员储值与合租服务，具体涵盖：\n- **AI工具类**：ChatGPT储值、Claude储值；\n- **影音串流类**：YouTube Premium（加入家庭组）、Apple Music、Spotify、Tidal、Crunchyroll；\n- **云端与办公类**：iCloud（1TB空间共享）、Office 365（家庭共享）；\n- **语言学习类**：Duolingo。\n\n## 运作模式与核心特点\n\n1. **成本优势**：平台宣称可节省10%至65%的订阅费用，例如YouTube Premium合租价每月仅3.50美元，相较原价约节省34%；\n2. **交付效率**：承诺用户付款后，会自动且即时完成服务交付，如发送家庭组邀请链接、重置密钥等；\n3. **售后保障**：网页标注提供24小时内退款保证，以及7×24小时线上客服支持（需注意：网页下方的相关数据统计目前均显示为`0`，该点需谨慎看待）。\n\n⚠️ 温馨提醒：此类第三方合租平台的核心逻辑是利用各数字平台的「家庭共享」机制分摊成本。建议用户购买前仔细核对对应服务的官方条款，同时关注账号隐私安全与订阅续期的稳定性。"
+  },
+  {
     "id": "335",
     "url": "https://wangchujiang.com/quick-rss/issue/335.html",
     "title": "MarkEdit：免费开源的 macOS 原生 Markdown 编辑器",

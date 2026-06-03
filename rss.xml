@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 22 May 2026 01:48:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 17:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,63 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ClipDock：macOS 上的剪贴板管理软件，支持与手机同步、P2P 下载文件]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/338.html</link>
+            <guid isPermaLink="false">338</guid>
+            <pubDate>Wed, 03 Jun 2026 13:55:48 GMT</pubDate>
+            <description><![CDATA[ClipDock 是一款本地优先的 macOS 剪贴板工具。复制过的文本、链接、颜色、图片和文件，会以一排轻量卡片留在屏幕底部；需要时按快捷键呼出，确认一下就能继续用。 它不是一个需要长期停留的管理后台，而是贴近日常工作的一层剪贴坞：呼出、扫读、预览、取用，然后收起。 新版本开始支持跨设备使用。你可以运行自己的同步服务端，用 5 位配对码把其他设备加入同一个同步空间；文字和记录走同步服务，图片、文]]></description>
+            <content:encoded><![CDATA[<p>ClipDock 是一款本地优先的 macOS 剪贴板工具。复制过的文本、链接、颜色、图片和文件，会以一排轻量卡片留在屏幕底部；需要时按快捷键呼出，确认一下就能继续用。</p>
+<p>它不是一个需要长期停留的管理后台，而是贴近日常工作的一层剪贴坞：呼出、扫读、预览、取用，然后收起。</p>
+<p>新版本开始支持跨设备使用。你可以运行自己的同步服务端，用 5 位配对码把其他设备加入同一个同步空间；文字和记录走同步服务，图片、文件这类大内容再通过 P2P 按需下载。服务端只负责认证、事件和 P2P 协调，不托管你的完整大文件。</p>
+<p><img src="https://github.com/appdev/ClipDock/raw/main/docs/assets/marketing/clipdock-panel-overview-screen-real.webp" alt=""></p>
+<h2>它可以做什么</h2>
+<ul>
+<li>
+<p><strong>不打断当前工作</strong><br>
+按下 <code>Command + Shift + X</code>，剪贴坞从屏幕底部出现，不需要切到另一个窗口。</p>
+</li>
+<li>
+<p><strong>全键盘操作</strong><br>
+方向键移动选择，<code>Command + F</code> 搜索，<code>Space</code> 预览，<code>Command + C</code> 复制，<code>Command + 1</code> 到 <code>Command + 9</code> 快速取用可见内容，<code>Delete</code> 删除，<code>Esc</code> 收起或返回。</p>
+</li>
+<li>
+<p><strong>快速找回刚复制过的内容</strong><br>
+最近复制过的内容以横向卡片呈现；列表长了，直接搜索定位。</p>
+</li>
+<li>
+<p><strong>按类型识别内容</strong><br>
+文本、富文本、链接、颜色、图片和文件都有自己的卡片样式，不用点开也能大致判断内容。</p>
+</li>
+<li>
+<p><strong>复用前先确认</strong><br>
+重新粘贴之前，先看完整文本、图片预览、文件预览或链接信息，减少误选。</p>
+</li>
+<li>
+<p><strong>固定常用资料</strong><br>
+常用话术、资料链接、设计参考、发布内容可以固定到 Pinboard，不会被临时复制记录淹没。</p>
+</li>
+<li>
+<p><strong>本地优先，可选同步</strong><br>
+剪贴板历史默认留在本机。需要多设备时，再接入你自己的 ClipDock Sync Server，把记录同步到同一个空间。</p>
+</li>
+<li>
+<p><strong>配对码加入设备</strong><br>
+在 macOS 创建同步空间后，其他 Mac 或 Android 设备可以用一次性 5 位配对码加入；加入后使用设备凭证访问，不需要公共账号系统。</p>
+</li>
+<li>
+<p><strong>P2P 按需传输大内容</strong><br>
+完整图片、文件等大内容可以通过 <code>iroh-blobs</code> 从可用设备下载；服务端只登记谁能提供内容和怎样连接，不中转大文件本身。</p>
+</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/338" target="_blank">#338</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/appdev" target="_blank">@appdev</a>
+      ]]></content:encoded>
+            <author>appdev</author>
+            <enclosure url="https://github.com/appdev/ClipDock/raw/main/docs/assets/marketing/clipdock-panel-overview-screen-real.webp" length="0" type="image/webp"/>
+        </item>
         <item>
             <title><![CDATA[TrayPulsy：会随系统负载加速奔跑的 macOS 菜单栏监控工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/337.html</link>

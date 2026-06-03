@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ClipDock：macOS 上的剪贴板管理软件，支持与手机同步、P2P 下载文件](https://wangchujiang.com/quick-rss/issue/338.html) 
+
+![](https://github.com/appdev/ClipDock/raw/main/docs/assets/marketing/clipdock-panel-overview-screen-real.webp)
+
+ClipDock 是一款本地优先的 macOS 剪贴板工具。复制过的文本、链接、颜色、图片和文件，会以一排轻量卡片留在屏幕底部；需要时按快捷键呼出，确认一下就能继续用。 它不是一个需要长期停留的管理后台，而是贴近日常工作的一层剪贴坞：呼出、扫读、预览、取用，然后收起。 新版本开始支持跨设备使用。你可以运行自己的同步服务端，用 5 位配对码把其他设备加入同一个同步空间；文字和记录走同步服务，图片、文 ([#338](https://github.com/jaywcjlove/quick-rss/issues/338) - [@appdev](https://github.com/appdev))
 ## [TrayPulsy：会随系统负载加速奔跑的 macOS 菜单栏监控工具](https://wangchujiang.com/quick-rss/issue/337.html) 
 
 ![](https://raw.githubusercontent.com/krissss/tray-pulsy/main/assets/tray.gif)

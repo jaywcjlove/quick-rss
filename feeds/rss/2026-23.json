@@ -1,0 +1,16 @@
+[
+  {
+    "id": "338",
+    "url": "https://wangchujiang.com/quick-rss/issue/338.html",
+    "title": "ClipDock：macOS 上的剪贴板管理软件，支持与手机同步、P2P 下载文件",
+    "content_html": "<p>ClipDock 是一款本地优先的 macOS 剪贴板工具。复制过的文本、链接、颜色、图片和文件，会以一排轻量卡片留在屏幕底部；需要时按快捷键呼出，确认一下就能继续用。</p>\n<p>它不是一个需要长期停留的管理后台，而是贴近日常工作的一层剪贴坞：呼出、扫读、预览、取用，然后收起。</p>\n<p>新版本开始支持跨设备使用。你可以运行自己的同步服务端，用 5 位配对码把其他设备加入同一个同步空间；文字和记录走同步服务，图片、文件这类大内容再通过 P2P 按需下载。服务端只负责认证、事件和 P2P 协调，不托管你的完整大文件。</p>\n<p><img src=\"https://github.com/appdev/ClipDock/raw/main/docs/assets/marketing/clipdock-panel-overview-screen-real.webp\" alt=\"\"></p>\n<h2>它可以做什么</h2>\n<ul>\n<li>\n<p><strong>不打断当前工作</strong><br>\n按下 <code>Command + Shift + X</code>，剪贴坞从屏幕底部出现，不需要切到另一个窗口。</p>\n</li>\n<li>\n<p><strong>全键盘操作</strong><br>\n方向键移动选择，<code>Command + F</code> 搜索，<code>Space</code> 预览，<code>Command + C</code> 复制，<code>Command + 1</code> 到 <code>Command + 9</code> 快速取用可见内容，<code>Delete</code> 删除，<code>Esc</code> 收起或返回。</p>\n</li>\n<li>\n<p><strong>快速找回刚复制过的内容</strong><br>\n最近复制过的内容以横向卡片呈现；列表长了，直接搜索定位。</p>\n</li>\n<li>\n<p><strong>按类型识别内容</strong><br>\n文本、富文本、链接、颜色、图片和文件都有自己的卡片样式，不用点开也能大致判断内容。</p>\n</li>\n<li>\n<p><strong>复用前先确认</strong><br>\n重新粘贴之前，先看完整文本、图片预览、文件预览或链接信息，减少误选。</p>\n</li>\n<li>\n<p><strong>固定常用资料</strong><br>\n常用话术、资料链接、设计参考、发布内容可以固定到 Pinboard，不会被临时复制记录淹没。</p>\n</li>\n<li>\n<p><strong>本地优先，可选同步</strong><br>\n剪贴板历史默认留在本机。需要多设备时，再接入你自己的 ClipDock Sync Server，把记录同步到同一个空间。</p>\n</li>\n<li>\n<p><strong>配对码加入设备</strong><br>\n在 macOS 创建同步空间后，其他 Mac 或 Android 设备可以用一次性 5 位配对码加入；加入后使用设备凭证访问，不需要公共账号系统。</p>\n</li>\n<li>\n<p><strong>P2P 按需传输大内容</strong><br>\n完整图片、文件等大内容可以通过 <code>iroh-blobs</code> 从可用设备下载；服务端只登记谁能提供内容和怎样连接，不中转大文件本身。</p>\n</li>\n</ul>",
+    "summary": "ClipDock 是一款本地优先的 macOS 剪贴板工具。复制过的文本、链接、颜色、图片和文件，会以一排轻量卡片留在屏幕底部；需要时按快捷键呼出，确认一下就能继续用。 它不是一个需要长期停留的管理后台，而是贴近日常工作的一层剪贴坞：呼出、扫读、预览、取用，然后收起。 新版本开始支持跨设备使用。你可以运行自己的同步服务端，用 5 位配对码把其他设备加入同一个同步空间；文字和记录走同步服务，图片、文",
+    "banner_image": "https://github.com/appdev/ClipDock/raw/main/docs/assets/marketing/clipdock-panel-overview-screen-real.webp",
+    "date_published": "2026-06-03T13:55:48Z",
+    "author": {
+      "name": "appdev",
+      "link": "https://avatars.githubusercontent.com/u/9107717?v=4"
+    },
+    "markdownContent": "ClipDock 是一款本地优先的 macOS 剪贴板工具。复制过的文本、链接、颜色、图片和文件，会以一排轻量卡片留在屏幕底部；需要时按快捷键呼出，确认一下就能继续用。\n\n它不是一个需要长期停留的管理后台，而是贴近日常工作的一层剪贴坞：呼出、扫读、预览、取用，然后收起。\n\n新版本开始支持跨设备使用。你可以运行自己的同步服务端，用 5 位配对码把其他设备加入同一个同步空间；文字和记录走同步服务，图片、文件这类大内容再通过 P2P 按需下载。服务端只负责认证、事件和 P2P 协调，不托管你的完整大文件。\n\n![](https://github.com/appdev/ClipDock/raw/main/docs/assets/marketing/clipdock-panel-overview-screen-real.webp)\n\n## 它可以做什么\n\n- **不打断当前工作**<br>\n  按下 `Command + Shift + X`，剪贴坞从屏幕底部出现，不需要切到另一个窗口。\n\n- **全键盘操作**<br>\n  方向键移动选择，`Command + F` 搜索，`Space` 预览，`Command + C` 复制，`Command + 1` 到 `Command + 9` 快速取用可见内容，`Delete` 删除，`Esc` 收起或返回。\n\n- **快速找回刚复制过的内容**<br>\n  最近复制过的内容以横向卡片呈现；列表长了，直接搜索定位。\n\n- **按类型识别内容**<br>\n  文本、富文本、链接、颜色、图片和文件都有自己的卡片样式，不用点开也能大致判断内容。\n\n- **复用前先确认**<br>\n  重新粘贴之前，先看完整文本、图片预览、文件预览或链接信息，减少误选。\n\n- **固定常用资料**<br>\n  常用话术、资料链接、设计参考、发布内容可以固定到 Pinboard，不会被临时复制记录淹没。\n\n- **本地优先，可选同步**<br>\n  剪贴板历史默认留在本机。需要多设备时，再接入你自己的 ClipDock Sync Server，把记录同步到同一个空间。\n\n- **配对码加入设备**<br>\n  在 macOS 创建同步空间后，其他 Mac 或 Android 设备可以用一次性 5 位配对码加入；加入后使用设备凭证访问，不需要公共账号系统。\n\n- **P2P 按需传输大内容**<br>\n  完整图片、文件等大内容可以通过 `iroh-blobs` 从可用设备下载；服务端只登记谁能提供内容和怎样连接，不中转大文件本身。"
+  }
+]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "339",
+    "url": "https://wangchujiang.com/quick-rss/issue/339.html",
+    "title": "BuildBy: 一个快速检测 macOS 与 Windows 上桌面应用的 CLI 工具",
+    "content_html": "<p>buildby 可以检测 macOS 与 Windows 上桌面应用所使用的技术栈，快速看出一个应用是使用 原生技术（Swift、Objective-C、Win32 等），还是使用 跨平台框架（Electron、Flutter、Tauri、Qt、JVM、CEF、NW.js、React Native、wxWidgets、Unity、.NET 等）构建的。</p>\n<p>除了识别技术栈，buildby 还会在单应用检查时展示 签名与公证 信息，包括开发者名称、Team ID、签名状态、Apple 公证状态（macOS）或 Authenticode 状态（Windows），以及是否启用了强化运行时（Hardened Runtime）。</p>\n<h2>截图</h2>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<table><thead><tr><th align=\"center\">查看单个应用</th><th align=\"center\">扫描所有已安装应用</th><th align=\"center\">按技术栈过滤</th></tr></thead><tbody><tr><td align=\"center\"><img src=\"https://github.com/wavever/buildby/raw/master/screenshot/img-app.png\" alt=\"\"></td><td align=\"center\"><img src=\"https://github.com/wavever/buildby/raw/master/screenshot/img-scan.png\" alt=\"\"></td><td align=\"center\"><img src=\"https://github.com/wavever/buildby/raw/master/screenshot/img-filter.png\" alt=\"\"></td></tr></tbody></table>\n<h2>亮点</h2>\n<ul>\n<li>基于文件系统快速检测，不需要管理员权限。</li>\n<li>支持单应用查看、全量扫描、按技术栈过滤。</li>\n<li>展示 macOS 与 Windows 应用的签名、公证和信任状态。</li>\n<li>同时支持 npm 包、GitHub Release 构建包和 GitHub Packages 发布。</li>\n<li>安装后直接作为全局 CLI 使用：buildby &#x3C;应用名>。</li>\n</ul>",
+    "summary": "buildby 可以检测 macOS 与 Windows 上桌面应用所使用的技术栈，快速看出一个应用是使用 原生技术（Swift、Objective-C、Win32 等），还是使用 跨平台框架（Electron、Flutter、Tauri、Qt、JVM、CEF、NW.js、React Native、wxWidgets、Unity、.NET 等）构建的。 除了识别技术栈，buildby 还会在单应用",
+    "banner_image": "https://github.com/wavever/buildby/raw/master/screenshot/img-app.png",
+    "date_published": "2026-06-04T11:37:02Z",
+    "author": {
+      "name": "wavever",
+      "link": "https://avatars.githubusercontent.com/u/9565322?v=4"
+    },
+    "markdownContent": "buildby 可以检测 macOS 与 Windows 上桌面应用所使用的技术栈，快速看出一个应用是使用 原生技术（Swift、Objective-C、Win32 等），还是使用 跨平台框架（Electron、Flutter、Tauri、Qt、JVM、CEF、NW.js、React Native、wxWidgets、Unity、.NET 等）构建的。\n\n除了识别技术栈，buildby 还会在单应用检查时展示 签名与公证 信息，包括开发者名称、Team ID、签名状态、Apple 公证状态（macOS）或 Authenticode 状态（Windows），以及是否启用了强化运行时（Hardened Runtime）。\n## 截图\n\n| 查看单个应用 | 扫描所有已安装应用 | 按技术栈过滤 |\n| :---: | :---: | :---: |\n| ![](https://github.com/wavever/buildby/raw/master/screenshot/img-app.png) | ![](https://github.com/wavever/buildby/raw/master/screenshot/img-scan.png) | ![](https://github.com/wavever/buildby/raw/master/screenshot/img-filter.png) |\n## 亮点\n- 基于文件系统快速检测，不需要管理员权限。\n- 支持单应用查看、全量扫描、按技术栈过滤。\n- 展示 macOS 与 Windows 应用的签名、公证和信任状态。\n- 同时支持 npm 包、GitHub Release 构建包和 GitHub Packages 发布。\n- 安装后直接作为全局 CLI 使用：buildby <应用名>。"
+  },
+  {
     "id": "338",
     "url": "https://wangchujiang.com/quick-rss/issue/338.html",
     "title": "ClipDock：macOS 上的剪贴板管理软件，支持与手机同步、P2P 下载文件",

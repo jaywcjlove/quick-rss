@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-06-03T17:16:00.951Z</updated>
+    <updated>2026-06-04T13:06:34.507Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,54 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[BuildBy: 一个快速检测 macOS 与 Windows 上桌面应用的 CLI 工具]]></title>
+        <id>339</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/339.html"/>
+        <link rel="enclosure" href="https://github.com/wavever/buildby/raw/master/screenshot/img-app.png" type="image/png"/>
+        <updated>2026-06-04T11:37:02.000Z</updated>
+        <summary type="html"><![CDATA[buildby 可以检测 macOS 与 Windows 上桌面应用所使用的技术栈，快速看出一个应用是使用 原生技术（Swift、Objective-C、Win32 等），还是使用 跨平台框架（Electron、Flutter、Tauri、Qt、JVM、CEF、NW.js、React Native、wxWidgets、Unity、.NET 等）构建的。 除了识别技术栈，buildby 还会在单应用]]></summary>
+        <content type="html"><![CDATA[<p>buildby 可以检测 macOS 与 Windows 上桌面应用所使用的技术栈，快速看出一个应用是使用 原生技术（Swift、Objective-C、Win32 等），还是使用 跨平台框架（Electron、Flutter、Tauri、Qt、JVM、CEF、NW.js、React Native、wxWidgets、Unity、.NET 等）构建的。</p>
+<p>除了识别技术栈，buildby 还会在单应用检查时展示 签名与公证 信息，包括开发者名称、Team ID、签名状态、Apple 公证状态（macOS）或 Authenticode 状态（Windows），以及是否启用了强化运行时（Hardened Runtime）。</p>
+<h2>截图</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">查看单个应用</th><th align="center">扫描所有已安装应用</th><th align="center">按技术栈过滤</th></tr></thead><tbody><tr><td align="center"><img src="https://github.com/wavever/buildby/raw/master/screenshot/img-app.png" alt=""></td><td align="center"><img src="https://github.com/wavever/buildby/raw/master/screenshot/img-scan.png" alt=""></td><td align="center"><img src="https://github.com/wavever/buildby/raw/master/screenshot/img-filter.png" alt=""></td></tr></tbody></table>
+<h2>亮点</h2>
+<ul>
+<li>基于文件系统快速检测，不需要管理员权限。</li>
+<li>支持单应用查看、全量扫描、按技术栈过滤。</li>
+<li>展示 macOS 与 Windows 应用的签名、公证和信任状态。</li>
+<li>同时支持 npm 包、GitHub Release 构建包和 GitHub Packages 发布。</li>
+<li>安装后直接作为全局 CLI 使用：buildby &#x3C;应用名>。</li>
+</ul><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/339" target="_blank">#339</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/wavever" target="_blank">@wavever</a>
+      ]]></content>
+        <author>
+            <name>wavever</name>
+            <uri>https://avatars.githubusercontent.com/u/9565322?v=4</uri>
+        </author>
+        <contributor>
+            <name>wavever</name>
+            <uri>https://avatars.githubusercontent.com/u/9565322?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClipDock：macOS 上的剪贴板管理软件，支持与手机同步、P2P 下载文件]]></title>
         <id>338</id>

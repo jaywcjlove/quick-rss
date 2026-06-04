@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [BuildBy: 一个快速检测 macOS 与 Windows 上桌面应用的 CLI 工具](https://wangchujiang.com/quick-rss/issue/339.html) 
+
+![](https://github.com/wavever/buildby/raw/master/screenshot/img-app.png)
+
+buildby 可以检测 macOS 与 Windows 上桌面应用所使用的技术栈，快速看出一个应用是使用 原生技术（Swift、Objective-C、Win32 等），还是使用 跨平台框架（Electron、Flutter、Tauri、Qt、JVM、CEF、NW.js、React Native、wxWidgets、Unity、.NET 等）构建的。 除了识别技术栈，buildby 还会在单应用 ([#339](https://github.com/jaywcjlove/quick-rss/issues/339) - [@wavever](https://github.com/wavever))
 ## [ClipDock：macOS 上的剪贴板管理软件，支持与手机同步、P2P 下载文件](https://wangchujiang.com/quick-rss/issue/338.html) 
 
 ![](https://github.com/appdev/ClipDock/raw/main/docs/assets/marketing/clipdock-panel-overview-screen-real.webp)

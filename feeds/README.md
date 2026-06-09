@@ -14,6 +14,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ## [CCLimitPing：让 Claude Code 和 Codex 的5h限额窗口重置后立即开始计时的 CLI 工具](https://wangchujiang.com/quick-rss/issue/341.html) 
 
 Claude Code 和 Codex 都按 5 小时滚动窗口(外加周限额)计费,而且 5h 窗口从你发出的 第一条消息开始计时。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个 窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。 limitping 会盯着每个 Provider,在 5h 窗口重置的那一刻自动发一条最小消息,立即起算 下一个窗口——让你的窗口连续、可预测。 cla ([#341](https://github.com/jaywcjlove/quick-rss/issues/341) - [@wavever](https://github.com/wavever))
+## [Radix：快速磁盘空间分析工具，可扫描文件夹或磁盘卷，用交互式旭日图查看占用并清理存储空间](https://wangchujiang.com/quick-rss/issue/340.html) 
+
+![](https://github.com/user-attachments/assets/5e0c83f9-79a5-4c90-9c37-fadba4d1c2c5)
+
+Radix 是基于 Swift/SwiftUI 构建的原生 macOS 开源应用，主打高速磁盘扫描与可视化分析。软件采用迭代式遍历算法，搭配系统原生接口，能够高效处理深层目录结构，轻松应对海量文件扫描任务，并实时反馈扫描状态。 软件创新性地使用交互式旭日图作为核心视图，将层级目录与文件占用情况图形化展示，支持点击下钻、悬停查看元数据。功能层面支持文件多维度排序、类型过滤，联动系统访达实现文件定位、 ([#340](https://github.com/jaywcjlove/quick-rss/issues/340) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [BuildBy: 一个快速检测 macOS 与 Windows 上桌面应用的 CLI 工具](https://wangchujiang.com/quick-rss/issue/339.html) 
 
 ![](https://github.com/wavever/buildby/raw/master/screenshot/img-app.png)

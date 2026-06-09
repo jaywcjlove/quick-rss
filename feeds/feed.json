@@ -23,6 +23,19 @@
             }
         },
         {
+            "id": "340",
+            "content_html": "<p>Radix 是基于 Swift/SwiftUI 构建的原生 macOS 开源应用，主打高速磁盘扫描与可视化分析。软件采用迭代式遍历算法，搭配系统原生接口，能够高效处理深层目录结构，轻松应对海量文件扫描任务，并实时反馈扫描状态。</p>\n<img alt=\"Radix\" src=\"https://github.com/user-attachments/assets/5e0c83f9-79a5-4c90-9c37-fadba4d1c2c5\">\n<p>软件创新性地使用<strong>交互式旭日图</strong>作为核心视图，将层级目录与文件占用情况图形化展示，支持点击下钻、悬停查看元数据。功能层面支持文件多维度排序、类型过滤，联动系统访达实现文件定位、删除、路径复制等操作，适配开发者与普通用户的文件管理需求。</p>\n<img alt=\"Radix\" src=\"https://github.com/user-attachments/assets/0e16d2cb-4100-48f7-8b3a-af78b8a94a76\">\n<p>在隐私设计上，工具全程离线运行，无后台遥测、无账号体系，数据仅留存于本地设备。开源且永久免费的特性，搭配原生应用的流畅体验，让 Radix 成为 macOS 平台磁盘分析领域亮眼的开源项目。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/340\" target=\"_blank\">#340</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/340.html",
+            "title": "Radix：快速磁盘空间分析工具，可扫描文件夹或磁盘卷，用交互式旭日图查看占用并清理存储空间",
+            "summary": "Radix 是基于 Swift/SwiftUI 构建的原生 macOS 开源应用，主打高速磁盘扫描与可视化分析。软件采用迭代式遍历算法，搭配系统原生接口，能够高效处理深层目录结构，轻松应对海量文件扫描任务，并实时反馈扫描状态。 软件创新性地使用交互式旭日图作为核心视图，将层级目录与文件占用情况图形化展示，支持点击下钻、悬停查看元数据。功能层面支持文件多维度排序、类型过滤，联动系统访达实现文件定位、",
+            "image": "https://github.com/user-attachments/assets/5e0c83f9-79a5-4c90-9c37-fadba4d1c2c5",
+            "date_modified": "2026-06-07T16:26:54.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "339",
             "content_html": "<p>buildby 可以检测 macOS 与 Windows 上桌面应用所使用的技术栈，快速看出一个应用是使用 原生技术（Swift、Objective-C、Win32 等），还是使用 跨平台框架（Electron、Flutter、Tauri、Qt、JVM、CEF、NW.js、React Native、wxWidgets、Unity、.NET 等）构建的。</p>\n<p>除了识别技术栈，buildby 还会在单应用检查时展示 签名与公证 信息，包括开发者名称、Team ID、签名状态、Apple 公证状态（macOS）或 Authenticode 状态（Windows），以及是否启用了强化运行时（Hardened Runtime）。</p>\n<h2>截图</h2>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<table><thead><tr><th align=\"center\">查看单个应用</th><th align=\"center\">扫描所有已安装应用</th><th align=\"center\">按技术栈过滤</th></tr></thead><tbody><tr><td align=\"center\"><img src=\"https://github.com/wavever/buildby/raw/master/screenshot/img-app.png\" alt=\"\"></td><td align=\"center\"><img src=\"https://github.com/wavever/buildby/raw/master/screenshot/img-scan.png\" alt=\"\"></td><td align=\"center\"><img src=\"https://github.com/wavever/buildby/raw/master/screenshot/img-filter.png\" alt=\"\"></td></tr></tbody></table>\n<h2>亮点</h2>\n<ul>\n<li>基于文件系统快速检测，不需要管理员权限。</li>\n<li>支持单应用查看、全量扫描、按技术栈过滤。</li>\n<li>展示 macOS 与 Windows 应用的签名、公证和信任状态。</li>\n<li>同时支持 npm 包、GitHub Release 构建包和 GitHub Packages 发布。</li>\n<li>安装后直接作为全局 CLI 使用：buildby &#x3C;应用名>。</li>\n</ul><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/339\" target=\"_blank\">#339</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/wavever\" target=\"_blank\">@wavever</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/339.html",

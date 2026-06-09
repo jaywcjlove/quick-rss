@@ -12,5 +12,19 @@
       "link": "https://avatars.githubusercontent.com/u/9565322?v=4"
     },
     "markdownContent": "**Claude Code** 和 **Codex** 都按 **5 小时滚动窗口**(外加周限额)计费,而且 **5h 窗口从你发出的\n第一条消息开始计时**。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个\n窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。\n\n`limitping` 会盯着每个 Provider,**在 5h 窗口重置的那一刻自动发一条最小消息,立即起算\n下一个窗口**——让你的窗口连续、可预测。\n\n```\nclaude  ✓ pinged (6.6s)\ncodex   ✓ pinged (13.6s, 16,862 tok (in 16,814 / out 48), $0.0098)\n```\n\n## 亮点\n\n- 让 5 小时 Provider 窗口连续接上,避免空档把你的使用节奏越拖越偏。\n- 用最低档模型发送消息，最大限度减少套餐消耗\n- 通过 Hooks 机制检测进行中的 Claude/Codex 会话,推迟自己的 ping,绝不和你的对话抢窗口。\n\n## 支持的 Provider\n\n| Provider | 读取用量(零消耗) | 触发方式 | 鉴权 |\n|---|---|---|---|\n| **Claude Code** | `…/api/oauth/usage` | 交互式 Claude Code CLI | OAuth(钥匙串 / `~/.claude`) |\n| **Codex** | `…/backend-api/wham/usage` | `codex exec` | OAuth(`~/.codex/auth.json`) |"
+  },
+  {
+    "id": "340",
+    "url": "https://wangchujiang.com/quick-rss/issue/340.html",
+    "title": "Radix：快速磁盘空间分析工具，可扫描文件夹或磁盘卷，用交互式旭日图查看占用并清理存储空间",
+    "content_html": "<p>Radix 是基于 Swift/SwiftUI 构建的原生 macOS 开源应用，主打高速磁盘扫描与可视化分析。软件采用迭代式遍历算法，搭配系统原生接口，能够高效处理深层目录结构，轻松应对海量文件扫描任务，并实时反馈扫描状态。</p>\n<img alt=\"Radix\" src=\"https://github.com/user-attachments/assets/5e0c83f9-79a5-4c90-9c37-fadba4d1c2c5\">\n<p>软件创新性地使用<strong>交互式旭日图</strong>作为核心视图，将层级目录与文件占用情况图形化展示，支持点击下钻、悬停查看元数据。功能层面支持文件多维度排序、类型过滤，联动系统访达实现文件定位、删除、路径复制等操作，适配开发者与普通用户的文件管理需求。</p>\n<img alt=\"Radix\" src=\"https://github.com/user-attachments/assets/0e16d2cb-4100-48f7-8b3a-af78b8a94a76\">\n<p>在隐私设计上，工具全程离线运行，无后台遥测、无账号体系，数据仅留存于本地设备。开源且永久免费的特性，搭配原生应用的流畅体验，让 Radix 成为 macOS 平台磁盘分析领域亮眼的开源项目。</p>",
+    "summary": "Radix 是基于 Swift/SwiftUI 构建的原生 macOS 开源应用，主打高速磁盘扫描与可视化分析。软件采用迭代式遍历算法，搭配系统原生接口，能够高效处理深层目录结构，轻松应对海量文件扫描任务，并实时反馈扫描状态。 软件创新性地使用**交互式旭日图**作为核心视图，将层级目录与文件占用情况图形化展示，支持点击下钻、悬停查看元数据。功能层面支持文件多维度排序、类型过滤，联动系统访达实现文",
+    "banner_image": null,
+    "date_published": "2026-06-07T16:26:54Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "Radix 是基于 Swift/SwiftUI 构建的原生 macOS 开源应用，主打高速磁盘扫描与可视化分析。软件采用迭代式遍历算法，搭配系统原生接口，能够高效处理深层目录结构，轻松应对海量文件扫描任务，并实时反馈扫描状态。\n\n<img alt=\"Radix\" src=\"https://github.com/user-attachments/assets/5e0c83f9-79a5-4c90-9c37-fadba4d1c2c5\" />\n\n软件创新性地使用**交互式旭日图**作为核心视图，将层级目录与文件占用情况图形化展示，支持点击下钻、悬停查看元数据。功能层面支持文件多维度排序、类型过滤，联动系统访达实现文件定位、删除、路径复制等操作，适配开发者与普通用户的文件管理需求。\n\n<img alt=\"Radix\" src=\"https://github.com/user-attachments/assets/0e16d2cb-4100-48f7-8b3a-af78b8a94a76\" />\n\n在隐私设计上，工具全程离线运行，无后台遥测、无账号体系，数据仅留存于本地设备。开源且永久免费的特性，搭配原生应用的流畅体验，让 Radix 成为 macOS 平台磁盘分析领域亮眼的开源项目。"
   }
 ]

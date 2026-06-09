@@ -11,6 +11,9 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [CCLimitPing：让 Claude Code 和 Codex 的5h限额窗口重置后立即开始计时的 CLI 工具](https://wangchujiang.com/quick-rss/issue/341.html) 
+
+Claude Code 和 Codex 都按 5 小时滚动窗口(外加周限额)计费,而且 5h 窗口从你发出的 第一条消息开始计时。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个 窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。 limitping 会盯着每个 Provider,在 5h 窗口重置的那一刻自动发一条最小消息,立即起算 下一个窗口——让你的窗口连续、可预测。 cla ([#341](https://github.com/jaywcjlove/quick-rss/issues/341) - [@wavever](https://github.com/wavever))
 ## [BuildBy: 一个快速检测 macOS 与 Windows 上桌面应用的 CLI 工具](https://wangchujiang.com/quick-rss/issue/339.html) 
 
 ![](https://github.com/wavever/buildby/raw/master/screenshot/img-app.png)

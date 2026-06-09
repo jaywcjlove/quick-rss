@@ -1,5 +1,19 @@
 [
   {
+    "id": "341",
+    "url": "https://wangchujiang.com/quick-rss/issue/341.html",
+    "title": "CCLimitPing：让 Claude Code 和 Codex 的5h限额窗口重置后立即开始计时的 CLI 工具",
+    "content_html": "<p><strong>Claude Code</strong> 和 <strong>Codex</strong> 都按 <strong>5 小时滚动窗口</strong>(外加周限额)计费,而且 <strong>5h 窗口从你发出的\n第一条消息开始计时</strong>。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个\n窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。</p>\n<p><code>limitping</code> 会盯着每个 Provider,<strong>在 5h 窗口重置的那一刻自动发一条最小消息,立即起算\n下一个窗口</strong>——让你的窗口连续、可预测。</p>\n<pre><code class=\"code-highlight\"><span class=\"code-line line-number\" line=\"1\">claude  ✓ pinged (6.6s)\n</span><span class=\"code-line line-number\" line=\"2\">codex   ✓ pinged (13.6s, 16,862 tok (in 16,814 / out 48), $0.0098)\n</span></code></pre>\n<h2>亮点</h2>\n<ul>\n<li>让 5 小时 Provider 窗口连续接上,避免空档把你的使用节奏越拖越偏。</li>\n<li>用最低档模型发送消息，最大限度减少套餐消耗</li>\n<li>通过 Hooks 机制检测进行中的 Claude/Codex 会话,推迟自己的 ping,绝不和你的对话抢窗口。</li>\n</ul>\n<h2>支持的 Provider</h2>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<table><thead><tr><th>Provider</th><th>读取用量(零消耗)</th><th>触发方式</th><th>鉴权</th></tr></thead><tbody><tr><td><strong>Claude Code</strong></td><td><code>…/api/oauth/usage</code></td><td>交互式 Claude Code CLI</td><td>OAuth(钥匙串 / <code>~/.claude</code>)</td></tr><tr><td><strong>Codex</strong></td><td><code>…/backend-api/wham/usage</code></td><td><code>codex exec</code></td><td>OAuth(<code>~/.codex/auth.json</code>)</td></tr></tbody></table>",
+    "summary": "**Claude Code** 和 **Codex** 都按 **5 小时滚动窗口**(外加周限额)计费,而且 **5h 窗口从你发出的 第一条消息开始计时**。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个 窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。 `limitping` 会盯着每个 Provider,**在 5h 窗口重置的那一刻自动发一条最小消息,立即起算 下一个",
+    "banner_image": null,
+    "date_published": "2026-06-09T04:32:18Z",
+    "author": {
+      "name": "wavever",
+      "link": "https://avatars.githubusercontent.com/u/9565322?v=4"
+    },
+    "markdownContent": "**Claude Code** 和 **Codex** 都按 **5 小时滚动窗口**(外加周限额)计费,而且 **5h 窗口从你发出的\n第一条消息开始计时**。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个\n窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。\n\n`limitping` 会盯着每个 Provider,**在 5h 窗口重置的那一刻自动发一条最小消息,立即起算\n下一个窗口**——让你的窗口连续、可预测。\n\n```\nclaude  ✓ pinged (6.6s)\ncodex   ✓ pinged (13.6s, 16,862 tok (in 16,814 / out 48), $0.0098)\n```\n\n## 亮点\n\n- 让 5 小时 Provider 窗口连续接上,避免空档把你的使用节奏越拖越偏。\n- 用最低档模型发送消息，最大限度减少套餐消耗\n- 通过 Hooks 机制检测进行中的 Claude/Codex 会话,推迟自己的 ping,绝不和你的对话抢窗口。\n\n## 支持的 Provider\n\n| Provider | 读取用量(零消耗) | 触发方式 | 鉴权 |\n|---|---|---|---|\n| **Claude Code** | `…/api/oauth/usage` | 交互式 Claude Code CLI | OAuth(钥匙串 / `~/.claude`) |\n| **Codex** | `…/backend-api/wham/usage` | `codex exec` | OAuth(`~/.codex/auth.json`) |"
+  },
+  {
     "id": "339",
     "url": "https://wangchujiang.com/quick-rss/issue/339.html",
     "title": "BuildBy: 一个快速检测 macOS 与 Windows 上桌面应用的 CLI 工具",

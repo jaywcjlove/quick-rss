@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-06-04T13:06:34.507Z</updated>
+    <updated>2026-06-09T04:53:43.531Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,65 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[CCLimitPing：让 Claude Code 和 Codex 的5h限额窗口重置后立即开始计时的 CLI 工具]]></title>
+        <id>341</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/341.html"/>
+        <updated>2026-06-09T04:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code 和 Codex 都按 5 小时滚动窗口(外加周限额)计费,而且 5h 窗口从你发出的 第一条消息开始计时。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个 窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。 limitping 会盯着每个 Provider,在 5h 窗口重置的那一刻自动发一条最小消息,立即起算 下一个窗口——让你的窗口连续、可预测。 cla]]></summary>
+        <content type="html"><![CDATA[<p><strong>Claude Code</strong> 和 <strong>Codex</strong> 都按 <strong>5 小时滚动窗口</strong>(外加周限额)计费,而且 <strong>5h 窗口从你发出的
+第一条消息开始计时</strong>。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个
+窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。</p>
+<p><code>limitping</code> 会盯着每个 Provider,<strong>在 5h 窗口重置的那一刻自动发一条最小消息,立即起算
+下一个窗口</strong>——让你的窗口连续、可预测。</p>
+<pre><code class="code-highlight"><span class="code-line line-number" line="1">claude  ✓ pinged (6.6s)
+</span><span class="code-line line-number" line="2">codex   ✓ pinged (13.6s, 16,862 tok (in 16,814 / out 48), $0.0098)
+</span></code></pre>
+<h2>亮点</h2>
+<ul>
+<li>让 5 小时 Provider 窗口连续接上,避免空档把你的使用节奏越拖越偏。</li>
+<li>用最低档模型发送消息，最大限度减少套餐消耗</li>
+<li>通过 Hooks 机制检测进行中的 Claude/Codex 会话,推迟自己的 ping,绝不和你的对话抢窗口。</li>
+</ul>
+<h2>支持的 Provider</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Provider</th><th>读取用量(零消耗)</th><th>触发方式</th><th>鉴权</th></tr></thead><tbody><tr><td><strong>Claude Code</strong></td><td><code>…/api/oauth/usage</code></td><td>交互式 Claude Code CLI</td><td>OAuth(钥匙串 / <code>~/.claude</code>)</td></tr><tr><td><strong>Codex</strong></td><td><code>…/backend-api/wham/usage</code></td><td><code>codex exec</code></td><td>OAuth(<code>~/.codex/auth.json</code>)</td></tr></tbody></table><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/341" target="_blank">#341</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/wavever" target="_blank">@wavever</a>
+      ]]></content>
+        <author>
+            <name>wavever</name>
+            <uri>https://avatars.githubusercontent.com/u/9565322?v=4</uri>
+        </author>
+        <contributor>
+            <name>wavever</name>
+            <uri>https://avatars.githubusercontent.com/u/9565322?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BuildBy: 一个快速检测 macOS 与 Windows 上桌面应用的 CLI 工具]]></title>
         <id>339</id>

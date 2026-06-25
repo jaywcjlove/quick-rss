@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [FaceGate：使用人脸识别、Touch ID 或密码锁定敏感应用，所有处理均在设备端完成](https://wangchujiang.com/quick-rss/issue/343.html) 
+
+![](https://github.com/user-attachments/assets/144a3861-0374-4a47-b564-7e20edb1a546)
+
+FaceGate 是一款原生 macOS 开源应用锁工具，可为 Mac 带来面容解锁功能，支持通过面容、触控ID或安全密码加密各类敏感软件，所有识别运算均本地处理、无任何数据上传；系统原生不支持单独限制应用，市面同类工具均缺少人脸识别且功能单薄，而该软件完全免费开源、无恶意程序、所有操作本地执行，控制权完全交由用户。 ([#343](https://github.com/jaywcjlove/quick-rss/issues/343) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [KidoX：macOS Launchpad 的开源替代 App](https://wangchujiang.com/quick-rss/issue/342.html) 
 
 ![](https://github.com/user-attachments/assets/f8e38d57-f69b-42d0-939c-cdf78dca71c5)

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 25 Jun 2026 17:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 17:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,22 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FaceGate：使用人脸识别、Touch ID 或密码锁定敏感应用，所有处理均在设备端完成]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/343.html</link>
+            <guid isPermaLink="false">343</guid>
+            <pubDate>Thu, 25 Jun 2026 17:37:39 GMT</pubDate>
+            <description><![CDATA[FaceGate 是一款原生 macOS 开源应用锁工具，可为 Mac 带来面容解锁功能，支持通过面容、触控ID或安全密码加密各类敏感软件，所有识别运算均本地处理、无任何数据上传；系统原生不支持单独限制应用，市面同类工具均缺少人脸识别且功能单薄，而该软件完全免费开源、无恶意程序、所有操作本地执行，控制权完全交由用户。]]></description>
+            <content:encoded><![CDATA[<p>FaceGate 是一款原生 macOS 开源应用锁工具，可为 Mac 带来面容解锁功能，支持通过面容、触控ID或安全密码加密各类敏感软件，所有识别运算均本地处理、无任何数据上传；系统原生不支持单独限制应用，市面同类工具均缺少人脸识别且功能单薄，而该软件完全免费开源、无恶意程序、所有操作本地执行，控制权完全交由用户。</p>
+<img alt="FaceGate" src="https://github.com/user-attachments/assets/144a3861-0374-4a47-b564-7e20edb1a546"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/343" target="_blank">#343</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/144a3861-0374-4a47-b564-7e20edb1a546" length="0" type="image//user-attachments/assets/144a3861-0374-4a47-b564-7e20edb1a546"/>
+        </item>
         <item>
             <title><![CDATA[KidoX：macOS Launchpad 的开源替代 App]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/342.html</link>

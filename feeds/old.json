@@ -1,5 +1,19 @@
 [
   {
+    "id": "343",
+    "url": "https://wangchujiang.com/quick-rss/issue/343.html",
+    "title": "FaceGate：使用人脸识别、Touch ID 或密码锁定敏感应用，所有处理均在设备端完成",
+    "content_html": "<p>FaceGate 是一款原生 macOS 开源应用锁工具，可为 Mac 带来面容解锁功能，支持通过面容、触控ID或安全密码加密各类敏感软件，所有识别运算均本地处理、无任何数据上传；系统原生不支持单独限制应用，市面同类工具均缺少人脸识别且功能单薄，而该软件完全免费开源、无恶意程序、所有操作本地执行，控制权完全交由用户。</p>\n<img alt=\"FaceGate\" src=\"https://github.com/user-attachments/assets/144a3861-0374-4a47-b564-7e20edb1a546\">",
+    "summary": "FaceGate 是一款原生 macOS 开源应用锁工具，可为 Mac 带来面容解锁功能，支持通过面容、触控ID或安全密码加密各类敏感软件，所有识别运算均本地处理、无任何数据上传；系统原生不支持单独限制应用，市面同类工具均缺少人脸识别且功能单薄，而该软件完全免费开源、无恶意程序、所有操作本地执行，控制权完全交由用户。",
+    "banner_image": null,
+    "date_published": "2026-06-25T17:37:39Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "FaceGate 是一款原生 macOS 开源应用锁工具，可为 Mac 带来面容解锁功能，支持通过面容、触控ID或安全密码加密各类敏感软件，所有识别运算均本地处理、无任何数据上传；系统原生不支持单独限制应用，市面同类工具均缺少人脸识别且功能单薄，而该软件完全免费开源、无恶意程序、所有操作本地执行，控制权完全交由用户。\n\n<img alt=\"FaceGate\" src=\"https://github.com/user-attachments/assets/144a3861-0374-4a47-b564-7e20edb1a546\" />"
+  },
+  {
     "id": "342",
     "url": "https://wangchujiang.com/quick-rss/issue/342.html",
     "title": "KidoX：macOS Launchpad 的开源替代 App",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [KidoX：macOS Launchpad 的开源替代 App](https://wangchujiang.com/quick-rss/issue/342.html) 
+
+![](https://github.com/user-attachments/assets/f8e38d57-f69b-42d0-939c-cdf78dca71c5)
+
+KidoX，帮你找回旧版 Launchpad 的使用感觉。 macOS 26 之后，Launchpad 被新的 Apps 入口取代了，它不可拖动、窗口大小也不能调整，也不支持 folder 整理应用。所以我做了 KidoX。 KidoX 以全屏应用网格作为主要界面，而不是一个固定大小的小窗口；它支持文件夹，让应用可以按自己的习惯整理；它尽量保持轻量，不去抢 Spotlight、Raycast 或  ([#342](https://github.com/jaywcjlove/quick-rss/issues/342) - [@defcc](https://github.com/defcc))
 ## [CCLimitPing：让 Claude Code 和 Codex 的5h限额窗口重置后立即开始计时的 CLI 工具](https://wangchujiang.com/quick-rss/issue/341.html) 
 
 Claude Code 和 Codex 都按 5 小时滚动窗口(外加周限额)计费,而且 5h 窗口从你发出的 第一条消息开始计时。如果窗口重置后你没有立刻发消息,这段空档就被浪费了——下一个 窗口要等你下次用时才起算,于是窗口和你的作息逐渐错位。 limitping 会盯着每个 Provider,在 5h 窗口重置的那一刻自动发一条最小消息,立即起算 下一个窗口——让你的窗口连续、可预测。 cla ([#341](https://github.com/jaywcjlove/quick-rss/issues/341) - [@wavever](https://github.com/wavever))

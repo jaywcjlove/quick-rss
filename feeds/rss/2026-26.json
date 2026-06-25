@@ -1,0 +1,16 @@
+[
+  {
+    "id": "342",
+    "url": "https://wangchujiang.com/quick-rss/issue/342.html",
+    "title": "KidoX：macOS Launchpad 的开源替代 App",
+    "content_html": "<p>KidoX，帮你找回旧版 Launchpad 的使用感觉。</p>\n<p>macOS 26 之后，Launchpad 被新的 Apps 入口取代了，它不可拖动、窗口大小也不能调整，也不支持 folder 整理应用。所以我做了 KidoX。</p>\n<p>KidoX 以全屏应用网格作为主要界面，而不是一个固定大小的小窗口；它支持文件夹，让应用可以按自己的习惯整理；它尽量保持轻量，不去抢 Spotlight、Raycast 或 Alfred 的位置；它更关注视觉浏览和空间记忆，而不是命令输入。</p>\n<p>特点：占用资源少，动画流畅。</p>\n<img width=\"3024\" height=\"1964\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f8e38d57-f69b-42d0-939c-cdf78dca71c5\">\n<p>网站： <a href=\"https://kidox.app/\">https://kidox.app/</a></p>\n<p>源码： <a href=\"https://github.com/defcc/kidox.app\">https://github.com/defcc/kidox.app</a></p>\n<p>源码是公开的，你可以自己 build 使用，完全免费。 如果不想自己构建，也可以直接从网站下载已经打包好的安装包。</p>\n<p>欢迎大家试用，也欢迎提 issue / PR 。</p>",
+    "summary": "KidoX，帮你找回旧版 Launchpad 的使用感觉。 macOS 26 之后，Launchpad 被新的 Apps 入口取代了，它不可拖动、窗口大小也不能调整，也不支持 folder 整理应用。所以我做了 KidoX。 KidoX 以全屏应用网格作为主要界面，而不是一个固定大小的小窗口；它支持文件夹，让应用可以按自己的习惯整理；它尽量保持轻量，不去抢 Spotlight、Raycast 或 ",
+    "banner_image": null,
+    "date_published": "2026-06-25T16:00:13Z",
+    "author": {
+      "name": "defcc",
+      "link": "https://avatars.githubusercontent.com/u/2603918?v=4"
+    },
+    "markdownContent": "KidoX，帮你找回旧版 Launchpad 的使用感觉。\n\nmacOS 26 之后，Launchpad 被新的 Apps 入口取代了，它不可拖动、窗口大小也不能调整，也不支持 folder 整理应用。所以我做了 KidoX。\n\nKidoX 以全屏应用网格作为主要界面，而不是一个固定大小的小窗口；它支持文件夹，让应用可以按自己的习惯整理；它尽量保持轻量，不去抢 Spotlight、Raycast 或 Alfred 的位置；它更关注视觉浏览和空间记忆，而不是命令输入。\n\n特点：占用资源少，动画流畅。\n\n<img width=\"3024\" height=\"1964\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f8e38d57-f69b-42d0-939c-cdf78dca71c5\" />\n\n网站： https://kidox.app/\n\n源码： https://github.com/defcc/kidox.app\n\n源码是公开的，你可以自己 build 使用，完全免费。 如果不想自己构建，也可以直接从网站下载已经打包好的安装包。\n\n欢迎大家试用，也欢迎提 issue / PR 。"
+  }
+]

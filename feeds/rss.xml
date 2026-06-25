@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Tue, 09 Jun 2026 08:56:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 17:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,29 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KidoX：macOS Launchpad 的开源替代 App]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/342.html</link>
+            <guid isPermaLink="false">342</guid>
+            <pubDate>Thu, 25 Jun 2026 16:00:13 GMT</pubDate>
+            <description><![CDATA[KidoX，帮你找回旧版 Launchpad 的使用感觉。 macOS 26 之后，Launchpad 被新的 Apps 入口取代了，它不可拖动、窗口大小也不能调整，也不支持 folder 整理应用。所以我做了 KidoX。 KidoX 以全屏应用网格作为主要界面，而不是一个固定大小的小窗口；它支持文件夹，让应用可以按自己的习惯整理；它尽量保持轻量，不去抢 Spotlight、Raycast 或 ]]></description>
+            <content:encoded><![CDATA[<p>KidoX，帮你找回旧版 Launchpad 的使用感觉。</p>
+<p>macOS 26 之后，Launchpad 被新的 Apps 入口取代了，它不可拖动、窗口大小也不能调整，也不支持 folder 整理应用。所以我做了 KidoX。</p>
+<p>KidoX 以全屏应用网格作为主要界面，而不是一个固定大小的小窗口；它支持文件夹，让应用可以按自己的习惯整理；它尽量保持轻量，不去抢 Spotlight、Raycast 或 Alfred 的位置；它更关注视觉浏览和空间记忆，而不是命令输入。</p>
+<p>特点：占用资源少，动画流畅。</p>
+<img width="3024" height="1964" alt="Image" src="https://github.com/user-attachments/assets/f8e38d57-f69b-42d0-939c-cdf78dca71c5">
+<p>网站： <a href="https://kidox.app/">https://kidox.app/</a></p>
+<p>源码： <a href="https://github.com/defcc/kidox.app">https://github.com/defcc/kidox.app</a></p>
+<p>源码是公开的，你可以自己 build 使用，完全免费。 如果不想自己构建，也可以直接从网站下载已经打包好的安装包。</p>
+<p>欢迎大家试用，也欢迎提 issue / PR 。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/342" target="_blank">#342</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/defcc" target="_blank">@defcc</a>
+      ]]></content:encoded>
+            <author>defcc</author>
+            <enclosure url="https://github.com/user-attachments/assets/f8e38d57-f69b-42d0-939c-cdf78dca71c5" length="0" type="image//user-attachments/assets/f8e38d57-f69b-42d0-939c-cdf78dca71c5"/>
+        </item>
         <item>
             <title><![CDATA[CCLimitPing：让 Claude Code 和 Codex 的5h限额窗口重置后立即开始计时的 CLI 工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/341.html</link>

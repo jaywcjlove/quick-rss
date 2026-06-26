@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Purge：适配 Mac 的专业清理工具，尤其适合开发者使用](https://wangchujiang.com/quick-rss/issue/350.html) 
+
+![](https://github.com/user-attachments/assets/9b5e7ad7-9569-4473-996a-7b22539f5bdd)
+
+Purge 能一键扫描系统缓存、各类开发工具垃圾、项目编译文件和大型闲置文件，覆盖 Xcode、Docker、前端工具等主流开发环境。 所有文件都会标注安全等级，一键清理仅删除无风险缓存，防止误删重要资料。操作简单，自带菜单栏快捷入口，轻松释放磁盘空间，是 Mac 开发者轻量化磁盘清理工具。 ([#350](https://github.com/jaywcjlove/quick-rss/issues/350) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [TREK：自己搭一个旅行规划器，一站式旅行规划工具](https://wangchujiang.com/quick-rss/issue/349.html) 
 
 ![](https://github.com/user-attachments/assets/a9de4160-2a47-4686-b86d-87ae711814d8)

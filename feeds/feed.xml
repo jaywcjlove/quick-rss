@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-06-26T19:28:25.340Z</updated>
+    <updated>2026-06-26T20:00:42.338Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Purge：适配 Mac 的专业清理工具，尤其适合开发者使用]]></title>
+        <id>350</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/350.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/9b5e7ad7-9569-4473-996a-7b22539f5bdd" type="image//user-attachments/assets/9b5e7ad7-9569-4473-996a-7b22539f5bdd"/>
+        <updated>2026-06-26T19:44:22.000Z</updated>
+        <summary type="html"><![CDATA[Purge 能一键扫描系统缓存、各类开发工具垃圾、项目编译文件和大型闲置文件，覆盖 Xcode、Docker、前端工具等主流开发环境。 所有文件都会标注安全等级，一键清理仅删除无风险缓存，防止误删重要资料。操作简单，自带菜单栏快捷入口，轻松释放磁盘空间，是 Mac 开发者轻量化磁盘清理工具。]]></summary>
+        <content type="html"><![CDATA[<p>Purge 能一键扫描系统缓存、各类开发工具垃圾、项目编译文件和大型闲置文件，覆盖 Xcode、Docker、前端工具等主流开发环境。</p>
+<img alt="Purge" src="https://github.com/user-attachments/assets/9b5e7ad7-9569-4473-996a-7b22539f5bdd">
+<p>所有文件都会标注安全等级，一键清理仅删除无风险缓存，防止误删重要资料。操作简单，自带菜单栏快捷入口，轻松释放磁盘空间，是 Mac 开发者轻量化磁盘清理工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/350" target="_blank">#350</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREK：自己搭一个旅行规划器，一站式旅行规划工具]]></title>
         <id>349</id>

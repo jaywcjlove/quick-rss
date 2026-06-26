@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Pesty：免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史](https://wangchujiang.com/quick-rss/issue/345.html) 
+
+![](https://github.com/user-attachments/assets/e4b2d80d-c3ed-4ebc-ae4f-a2ea6503907d)
+
+Pesty 会保存你所有复制过的内容历史，随时一键调取剪贴记录。按下全局快捷键，底部剪贴栏弹出，通过方向键或 Command+数字快速选中内容，回车即可直接粘贴到当前软件。 它复刻了经典剪贴管理工具 Paste 的交互体验，基于 Swift + SwiftUI 原生开发，无任何第三方依赖，通过苹果官方签名公证，永久免费使用。 核心功能 底部弹出剪贴栏：半透明通栏面板，从屏幕底部顺滑弹出 分色卡片标 ([#345](https://github.com/jaywcjlove/quick-rss/issues/345) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Hangar：轻量菜单栏工具，将终端工作流转化为一键式可切换代码片段](https://wangchujiang.com/quick-rss/issue/344.html) 
 
 ![](https://github.com/user-attachments/assets/115c1aa0-00c5-4329-873e-fab488f70ec6)

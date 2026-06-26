@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Fri, 26 Jun 2026 01:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 02:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,37 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pesty：免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/345.html</link>
+            <guid isPermaLink="false">345</guid>
+            <pubDate>Fri, 26 Jun 2026 02:26:17 GMT</pubDate>
+            <description><![CDATA[Pesty 会保存你所有复制过的内容历史，随时一键调取剪贴记录。按下全局快捷键，底部剪贴栏弹出，通过方向键或 Command+数字快速选中内容，回车即可直接粘贴到当前软件。 它复刻了经典剪贴管理工具 Paste 的交互体验，基于 Swift + SwiftUI 原生开发，无任何第三方依赖，通过苹果官方签名公证，永久免费使用。 核心功能 底部弹出剪贴栏：半透明通栏面板，从屏幕底部顺滑弹出 分色卡片标]]></description>
+            <content:encoded><![CDATA[<p>Pesty 会保存你所有复制过的内容历史，随时一键调取剪贴记录。按下全局快捷键，底部剪贴栏弹出，通过方向键或 Command+数字快速选中内容，回车即可直接粘贴到当前软件。</p>
+<img alt="Pesty" src="https://github.com/user-attachments/assets/e4b2d80d-c3ed-4ebc-ae4f-a2ea6503907d">
+<p>它复刻了经典剪贴管理工具 Paste 的交互体验，基于 Swift + SwiftUI 原生开发，无任何第三方依赖，通过苹果官方签名公证，永久免费使用。</p>
+<h2>核心功能</h2>
+<ol>
+<li>底部弹出剪贴栏：半透明通栏面板，从屏幕底部顺滑弹出</li>
+<li>分色卡片标识：每条剪贴记录按来源软件自动配色，附带应用图标、内容类型、复制时间、预览、字符数与快捷粘贴序号</li>
+<li>全类型剪贴支持：纯文本、富文本、链接、图片、文件、色值均可保存</li>
+<li>固定收藏板：将高频内容归类命名、标记颜色，永久保存不自动清理</li>
+<li>iCloud 同步：可开启多台 Mac 通过 iCloud 同步剪贴历史与收藏内容</li>
+<li>即时搜索：输入文字快速筛选全部剪贴记录</li>
+<li>纯键盘操作：方向键切换、回车粘贴、⌘1–⌘9 快捷粘贴、⌘删除清除、ESC 关闭面板</li>
+<li>一键直贴：选中内容自动粘贴至当前窗口，无需手动 Command+V</li>
+<li>隐私保护：自动忽略密码软件的保密剪贴内容，本地存储文件最高权限加密隔离</li>
+<li>菜单栏常驻：后台安静运行，支持开机自启</li>
+<li>轻量原生程序：通用单文件应用，无 Electron、无网页后台，占用极低</li>
+</ol><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/345" target="_blank">#345</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/e4b2d80d-c3ed-4ebc-ae4f-a2ea6503907d" length="0" type="image//user-attachments/assets/e4b2d80d-c3ed-4ebc-ae4f-a2ea6503907d"/>
+        </item>
         <item>
             <title><![CDATA[Hangar：轻量菜单栏工具，将终端工作流转化为一键式可切换代码片段]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/344.html</link>

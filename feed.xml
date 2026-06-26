@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-06-26T02:26:41.942Z</updated>
+    <updated>2026-06-26T19:23:36.086Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[MileSeat: 实时查询里程票余座，让你用积分飞得更好。]]></title>
+        <id>348</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/348.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/b0a15aa5-abf1-460c-8f0c-2ff1f8cb15f9" type="image//user-attachments/assets/b0a15aa5-abf1-460c-8f0c-2ff1f8cb15f9"/>
+        <updated>2026-06-26T15:32:56.000Z</updated>
+        <summary type="html"><![CDATA[MileSeat 是一款实时奖励机票余票查询工具。你可以查询英国航空、卡塔尔航空、国泰航空、法国航空等多家航司的商务舱、头等舱与经济舱奖励机票空位，还能查看整整一年（365 天）的余票日历。你可以设置邮件提醒，一旦目标航线放出空位，即刻收到通知。]]></summary>
+        <content type="html"><![CDATA[<p><strong>MileSeat</strong> 是一款实时奖励机票余票查询工具。你可以查询英国航空、卡塔尔航空、国泰航空、法国航空等多家航司的商务舱、头等舱与经济舱奖励机票空位，还能查看整整一年（365 天）的余票日历。你可以设置邮件提醒，一旦目标航线放出空位，即刻收到通知。</p>
+<img width="1387" height="750" alt="Image" src="https://github.com/user-attachments/assets/b0a15aa5-abf1-460c-8f0c-2ff1f8cb15f9">
+<img width="1387" height="843" alt="Image" src="https://github.com/user-attachments/assets/edb22f92-c481-4784-9fc2-00fe9a82f5bc"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/348" target="_blank">#348</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/zsj1992" target="_blank">@zsj1992</a>
+      ]]></content>
+        <author>
+            <name>zsj1992</name>
+            <uri>https://avatars.githubusercontent.com/u/16059492?v=4</uri>
+        </author>
+        <contributor>
+            <name>zsj1992</name>
+            <uri>https://avatars.githubusercontent.com/u/16059492?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pesty：免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史]]></title>
         <id>345</id>

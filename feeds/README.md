@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MileSeat: 实时查询里程票余座，让你用积分飞得更好。](https://wangchujiang.com/quick-rss/issue/348.html) 
+
+![](https://github.com/user-attachments/assets/b0a15aa5-abf1-460c-8f0c-2ff1f8cb15f9)
+
+MileSeat 是一款实时奖励机票余票查询工具。你可以查询英国航空、卡塔尔航空、国泰航空、法国航空等多家航司的商务舱、头等舱与经济舱奖励机票空位，还能查看整整一年（365 天）的余票日历。你可以设置邮件提醒，一旦目标航线放出空位，即刻收到通知。 ([#348](https://github.com/jaywcjlove/quick-rss/issues/348) - [@zsj1992](https://github.com/zsj1992))
 ## [Pesty：免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史](https://wangchujiang.com/quick-rss/issue/345.html) 
 
 ![](https://github.com/user-attachments/assets/e4b2d80d-c3ed-4ebc-ae4f-a2ea6503907d)

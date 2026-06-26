@@ -1,5 +1,19 @@
 [
   {
+    "id": "348",
+    "url": "https://wangchujiang.com/quick-rss/issue/348.html",
+    "title": "MileSeat: 实时查询里程票余座，让你用积分飞得更好。",
+    "content_html": "<p><strong>MileSeat</strong> 是一款实时奖励机票余票查询工具。你可以查询英国航空、卡塔尔航空、国泰航空、法国航空等多家航司的商务舱、头等舱与经济舱奖励机票空位，还能查看整整一年（365 天）的余票日历。你可以设置邮件提醒，一旦目标航线放出空位，即刻收到通知。</p>\n<img width=\"1387\" height=\"750\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b0a15aa5-abf1-460c-8f0c-2ff1f8cb15f9\">\n<img width=\"1387\" height=\"843\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/edb22f92-c481-4784-9fc2-00fe9a82f5bc\">",
+    "summary": "**MileSeat** 是一款实时奖励机票余票查询工具。你可以查询英国航空、卡塔尔航空、国泰航空、法国航空等多家航司的商务舱、头等舱与经济舱奖励机票空位，还能查看整整一年（365 天）的余票日历。你可以设置邮件提醒，一旦目标航线放出空位，即刻收到通知。",
+    "banner_image": null,
+    "date_published": "2026-06-26T15:32:56Z",
+    "author": {
+      "name": "zsj1992",
+      "link": "https://avatars.githubusercontent.com/u/16059492?v=4"
+    },
+    "markdownContent": "**MileSeat** 是一款实时奖励机票余票查询工具。你可以查询英国航空、卡塔尔航空、国泰航空、法国航空等多家航司的商务舱、头等舱与经济舱奖励机票空位，还能查看整整一年（365 天）的余票日历。你可以设置邮件提醒，一旦目标航线放出空位，即刻收到通知。\n\n\n<img width=\"1387\" height=\"750\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b0a15aa5-abf1-460c-8f0c-2ff1f8cb15f9\" />\n<img width=\"1387\" height=\"843\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/edb22f92-c481-4784-9fc2-00fe9a82f5bc\" />"
+  },
+  {
     "id": "345",
     "url": "https://wangchujiang.com/quick-rss/issue/345.html",
     "title": "Pesty：免费开源的剪贴板管理器，以色彩编码的滑动条形式展示剪贴板历史",

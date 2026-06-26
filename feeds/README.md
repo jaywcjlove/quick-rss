@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Hangar：轻量菜单栏工具，将终端工作流转化为一键式可切换代码片段](https://wangchujiang.com/quick-rss/issue/344.html) 
+
+![](https://github.com/user-attachments/assets/115c1aa0-00c5-4329-873e-fab488f70ec6)
+
+一款轻量原生 macOS 菜单栏工具，将日常终端工作流整合为一键切换的任务脚本。纯 Swift + AppKit 开发，无 Electron 冗余框架，体积轻巧无多余占用。 解决的痛点 开发者每日需要反复执行各类固定后台任务：不同项目的编译、文件监听脚本、交互式终端工具。每项任务对应独立工作目录与指令，分散在多个虚拟桌面终端窗口中。 会话分散难以管理，每次重启电脑后，所有任务都需要手动重新启动，操 ([#344](https://github.com/jaywcjlove/quick-rss/issues/344) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [FaceGate：使用人脸识别、Touch ID 或密码锁定敏感应用，所有处理均在设备端完成](https://wangchujiang.com/quick-rss/issue/343.html) 
 
 ![](https://github.com/user-attachments/assets/144a3861-0374-4a47-b564-7e20edb1a546)

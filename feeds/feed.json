@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "349",
+            "content_html": "<p>自己搭一个旅行规划器，一站式旅行规划工具，支持实时协作、互动地图、预算管理、打包清单等，替代商业旅行 App。</p>\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/a9de4160-2a47-4686-b86d-87ae711814d8\">\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/316bb02e-d459-4af0-bd91-2454ebd02a4b\">\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/e1bd76f4-6867-490a-9559-dcf834639701\">\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/53894bc1-a641-418c-b26e-e92a5526b9fe\">\n<p>基于 NestJS + React 构建，支持实时协作（WebSocket 同步）、互动地图（Leaflet/Mapbox GL）、行程拖拽规划、费用分摊、打包清单、文档附件、PDF 导出等功能。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/349\" target=\"_blank\">#349</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/349.html",
+            "title": "TREK：自己搭一个旅行规划器，一站式旅行规划工具",
+            "summary": "自己搭一个旅行规划器，一站式旅行规划工具，支持实时协作、互动地图、预算管理、打包清单等，替代商业旅行 App。 基于 NestJS + React 构建，支持实时协作（WebSocket 同步）、互动地图（Leaflet/Mapbox GL）、行程拖拽规划、费用分摊、打包清单、文档附件、PDF 导出等功能。",
+            "image": "https://github.com/user-attachments/assets/a9de4160-2a47-4686-b86d-87ae711814d8",
+            "date_modified": "2026-06-26T19:27:39.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "348",
             "content_html": "<p><strong>MileSeat</strong> 是一款实时奖励机票余票查询工具。你可以查询英国航空、卡塔尔航空、国泰航空、法国航空等多家航司的商务舱、头等舱与经济舱奖励机票空位，还能查看整整一年（365 天）的余票日历。你可以设置邮件提醒，一旦目标航线放出空位，即刻收到通知。</p>\n<img width=\"1387\" height=\"750\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/b0a15aa5-abf1-460c-8f0c-2ff1f8cb15f9\">\n<img width=\"1387\" height=\"843\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/edb22f92-c481-4784-9fc2-00fe9a82f5bc\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/348\" target=\"_blank\">#348</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/zsj1992\" target=\"_blank\">@zsj1992</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/348.html",

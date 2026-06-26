@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [TREK：自己搭一个旅行规划器，一站式旅行规划工具](https://wangchujiang.com/quick-rss/issue/349.html) 
+
+![](https://github.com/user-attachments/assets/a9de4160-2a47-4686-b86d-87ae711814d8)
+
+自己搭一个旅行规划器，一站式旅行规划工具，支持实时协作、互动地图、预算管理、打包清单等，替代商业旅行 App。 基于 NestJS + React 构建，支持实时协作（WebSocket 同步）、互动地图（Leaflet/Mapbox GL）、行程拖拽规划、费用分摊、打包清单、文档附件、PDF 导出等功能。 ([#349](https://github.com/jaywcjlove/quick-rss/issues/349) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MileSeat: 实时查询里程票余座，让你用积分飞得更好。](https://wangchujiang.com/quick-rss/issue/348.html) 
 
 ![](https://github.com/user-attachments/assets/b0a15aa5-abf1-460c-8f0c-2ff1f8cb15f9)

@@ -1,5 +1,19 @@
 [
   {
+    "id": "349",
+    "url": "https://wangchujiang.com/quick-rss/issue/349.html",
+    "title": "TREK：自己搭一个旅行规划器，一站式旅行规划工具",
+    "content_html": "<p>自己搭一个旅行规划器，一站式旅行规划工具，支持实时协作、互动地图、预算管理、打包清单等，替代商业旅行 App。</p>\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/a9de4160-2a47-4686-b86d-87ae711814d8\">\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/316bb02e-d459-4af0-bd91-2454ebd02a4b\">\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/e1bd76f4-6867-490a-9559-dcf834639701\">\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/53894bc1-a641-418c-b26e-e92a5526b9fe\">\n<p>基于 NestJS + React 构建，支持实时协作（WebSocket 同步）、互动地图（Leaflet/Mapbox GL）、行程拖拽规划、费用分摊、打包清单、文档附件、PDF 导出等功能。</p>",
+    "summary": "自己搭一个旅行规划器，一站式旅行规划工具，支持实时协作、互动地图、预算管理、打包清单等，替代商业旅行 App。 基于 NestJS + React 构建，支持实时协作（WebSocket 同步）、互动地图（Leaflet/Mapbox GL）、行程拖拽规划、费用分摊、打包清单、文档附件、PDF 导出等功能。",
+    "banner_image": null,
+    "date_published": "2026-06-26T19:27:39Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "自己搭一个旅行规划器，一站式旅行规划工具，支持实时协作、互动地图、预算管理、打包清单等，替代商业旅行 App。\n\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/a9de4160-2a47-4686-b86d-87ae711814d8\" />\n\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/316bb02e-d459-4af0-bd91-2454ebd02a4b\" />\n\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/e1bd76f4-6867-490a-9559-dcf834639701\" />\n\n<img alt=\"TREK\" src=\"https://github.com/user-attachments/assets/53894bc1-a641-418c-b26e-e92a5526b9fe\" />\n\n基于 NestJS + React 构建，支持实时协作（WebSocket 同步）、互动地图（Leaflet/Mapbox GL）、行程拖拽规划、费用分摊、打包清单、文档附件、PDF 导出等功能。"
+  },
+  {
     "id": "348",
     "url": "https://wangchujiang.com/quick-rss/issue/348.html",
     "title": "MileSeat: 实时查询里程票余座，让你用积分飞得更好。",

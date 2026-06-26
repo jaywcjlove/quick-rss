@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangar：轻量菜单栏工具，将终端工作流转化为一键式可切换代码片段 Quick RSS</title>
+    <meta name="description" content="一款轻量原生 macOS 菜单栏工具，将日常终端工作流整合为一键切换的任务脚本。纯 Swift + AppKit 开发，无 Electron 冗余框架，体积轻巧无多余占用。">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/344.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/logo.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS">
+    <meta property="og:description" content="一款轻量原生 macOS 菜单栏工具，将日常终端工作流整合为一键切换的任务脚本。纯 Swift + AppKit 开发，无 Electron 冗余框架，体积轻巧无多余占用。">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/screenshots-1.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS - 一款轻量原生 macOS 菜单栏工具，将日常终端工作流整合为一键切换的任务脚本。纯 Swift + AppKit 开发，无 Electron 冗余框架，体积轻巧无多余占用。">
+    <meta property="twitter:description" content="一款轻量原生 macOS 菜单栏工具，将日常终端工作流整合为一键切换的任务脚本。纯 Swift + AppKit 开发，无 Electron 冗余框架，体积轻巧无多余占用。">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.4">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.4"></script>
+    <script src="../js/dark-mode.js?v=1.34.4"></script>
+    <script src="../js/markdown-style.js?v=1.34.4"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS logo" src="../assets/logo.png">
+<span class="title">Quick RSS</span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="hangar轻量菜单栏工具将终端工作流转化为一键式可切换代码片段"><a aria-hidden="true" tabindex="-1" href="#hangar轻量菜单栏工具将终端工作流转化为一键式可切换代码片段" class="anchor"><span class="icon icon-link"></span></a>Hangar：轻量菜单栏工具，将终端工作流转化为一键式可切换代码片段</h1>
+        <p>一款轻量原生 macOS 菜单栏工具，将日常终端工作流整合为一键切换的任务脚本。纯 Swift + AppKit 开发，无 Electron 冗余框架，体积轻巧无多余占用。</p>
+        <img alt="Hangar" src="https://github.com/user-attachments/assets/115c1aa0-00c5-4329-873e-fab488f70ec6">
+        <img alt="Hangar" src="https://github.com/user-attachments/assets/a232928b-906e-4dca-916f-e5ae58d62d73">
+        <h2 id="解决的痛点"><a aria-hidden="true" tabindex="-1" href="#解决的痛点" class="anchor"><span class="icon icon-link"></span></a>解决的痛点</h2>
+        <p>
+          开发者每日需要反复执行各类固定后台任务：不同项目的编译、文件监听脚本、交互式终端工具。每项任务对应独立工作目录与指令，分散在多个虚拟桌面终端窗口中。
+          会话分散难以管理，每次重启电脑后，所有任务都需要手动重新启动，操作繁琐低效。
+        </p>
+        <p>Hangar 将所有自定义工作流统一收纳在常驻菜单栏面板内。一键开关即可唤起 iTerm2 / 系统终端并自动执行预设指令；再次关闭可平稳终止进程。支持标记重要任务，开机自动恢复运行。</p>
+        <h2 id="核心功能"><a aria-hidden="true" tabindex="-1" href="#核心功能" class="anchor"><span class="icon icon-link"></span></a>核心功能</h2>
+        <h3 id="仅菜单栏常驻设计"><a aria-hidden="true" tabindex="-1" href="#仅菜单栏常驻设计" class="anchor"><span class="icon icon-link"></span></a>仅菜单栏常驻设计</h3>
+        <p>始终置顶菜单栏快速调取，不生成坞站图标，不占用桌面视觉空间。</p>
+        <h3 id="终端指令快捷脚本"><a aria-hidden="true" tabindex="-1" href="#终端指令快捷脚本" class="anchor"><span class="icon icon-link"></span></a>终端指令快捷脚本</h3>
+        <p>一键唤起终端，自动运行提前配置好的 Shell 命令。</p>
+        <h3 id="动态变量占位符"><a aria-hidden="true" tabindex="-1" href="#动态变量占位符" class="anchor"><span class="icon icon-link"></span></a>动态变量占位符</h3>
+        <p>指令内可嵌入 <code>{{名称}}</code> 变量，执行前弹出输入框实时预览完整命令，自动缓存历史输入内容方便复用。</p>
+        <h3 id="应用快速启动脚本"><a aria-hidden="true" tabindex="-1" href="#应用快速启动脚本" class="anchor"><span class="icon icon-link"></span></a>应用快速启动脚本</h3>
+        <p>创建软件直达快捷方式，可附带参数直接打开指定项目文件夹、工程文件（例如编辑器一键加载项目目录）。</p>
+        <h3 id="脚本分组管理"><a aria-hidden="true" tabindex="-1" href="#脚本分组管理" class="anchor"><span class="icon icon-link"></span></a>脚本分组管理</h3>
+        <p>可自定义分类分组，批量收纳项目、工具、服务类脚本，界面整洁便于查找。</p>
+        <h2 id="适用人群"><a aria-hidden="true" tabindex="-1" href="#适用人群" class="anchor"><span class="icon icon-link"></span></a>适用人群</h2>
+        <p>独立开发者、后端/前端工程师、运维人员、经常使用终端操作 Mac 的办公人群。</p>
+        <h2 id="产品优势"><a aria-hidden="true" tabindex="-1" href="#产品优势" class="anchor"><span class="icon icon-link"></span></a>产品优势</h2>
+        <ol>
+          <li>原生系统开发，内存占用极低，启动无延迟；</li>
+          <li>完全贴合 macOS 交互逻辑，无第三方臃肿依赖；</li>
+          <li>轻量化管理各类命令与软件启动流程，大幅减少重复操作；</li>
+          <li>开机自启任务自动恢复，重启无需重复配置。</li>
+        </ol>
+        <p>👉 <a href="https://github.com/0fuz/hangar">https://github.com/0fuz/hangar</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/0fuz/hangar" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/344" target="_blank">#344</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.4"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.4
+    </div>
+    <script src="../js/tocbot.js?v=1.34.4"></script>
+  </body>
+</html>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [超慢跑节拍器-跑步打卡&跑步记录&运动节拍器](https://wangchujiang.com/quick-rss/issue/355.html) 
+
+![](https://github.com/user-attachments/assets/b770c065-312a-4b9a-8058-32b7f10096d6)
+
+超好用的180黄金步频超慢跑节拍器！！！ ([#355](https://github.com/jaywcjlove/quick-rss/issues/355) - [@zsj1992](https://github.com/zsj1992))
 ## [Purge：适配 Mac 的专业清理工具，尤其适合开发者使用](https://wangchujiang.com/quick-rss/issue/350.html) 
 
 ![](https://github.com/user-attachments/assets/9b5e7ad7-9569-4473-996a-7b22539f5bdd)

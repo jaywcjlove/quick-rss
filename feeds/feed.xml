@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-06-30T02:48:11.255Z</updated>
+    <updated>2026-06-30T03:19:27.389Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -25,6 +25,29 @@
         <content type="html"><![CDATA[<p>超好用的180黄金步频超慢跑节拍器！！！</p>
 <img width="670" height="260" alt="Image" src="https://github.com/user-attachments/assets/b770c065-312a-4b9a-8058-32b7f10096d6"><br /><br />
       <a href="https://github.com/jaywcjlove/quick-rss/issues/355" target="_blank">#355</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/zsj1992" target="_blank">@zsj1992</a>
+      ]]></content>
+        <author>
+            <name>zsj1992</name>
+            <uri>https://avatars.githubusercontent.com/u/16059492?v=4</uri>
+        </author>
+        <contributor>
+            <name>zsj1992</name>
+            <uri>https://avatars.githubusercontent.com/u/16059492?v=4</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chronological Age Calculator]]></title>
+        <id>354</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/354.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/710154a1-ccae-461b-951c-158bb10a737e" type="image//user-attachments/assets/710154a1-ccae-461b-951c-158bb10a737e"/>
+        <updated>2026-06-29T15:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Free chronological age calculator compliant with ASHA 2026 standards and Pearson assessment protocols.]]></summary>
+        <content type="html"><![CDATA[<p>Free chronological age calculator compliant with ASHA 2026 standards and Pearson assessment protocols.</p>
+<img width="1384" height="840" alt="Image" src="https://github.com/user-attachments/assets/710154a1-ccae-461b-951c-158bb10a737e"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/354" target="_blank">#354</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/zsj1992" target="_blank">@zsj1992</a>

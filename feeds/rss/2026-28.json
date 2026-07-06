@@ -12,5 +12,19 @@
       "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
     },
     "markdownContent": "Wox 就是一个全局快捷键启动工具，按一下快捷键弹出搜索框，找软件、搜文件、输命令、用 AI 全都能搞定，还能装各种插件拓展功能，Windows、苹果、Linux 电脑都能用，免费开源无广告。\n\n<img alt=\"Wox\" src=\"https://github.com/user-attachments/assets/37d72246-846e-4bf8-9514-6bd3b8dfc2e6\" />\n\n<img alt=\"Wox\" src=\"https://github.com/user-attachments/assets/93933b80-c3da-45df-82bc-bb34564cc38e\" />"
+  },
+  {
+    "id": "362",
+    "url": "https://wangchujiang.com/quick-rss/issue/362.html",
+    "title": "cctop：键盘优先的菜单栏工具，监控 AI 编码会话并一键跳转至对应标签页/项目",
+    "content_html": "<p>cctop 是一款 macOS 菜单栏轻量工具，专为AI编程开发场景打造，原生适配Apple Silicon与Intel芯片。\n它可以统一监控所有AI编程会话，直观区分运行中、空闲、等待操作的任务，按下快捷键就能一键跳转至对应编辑器、终端面板、线程或项目；还能快速检索遗留的Git多工作目录，校验仓库安全并清理无用会话。</p>\n<img alt=\"cctop\" src=\"https://github.com/user-attachments/assets/38c5c549-53ee-4be3-923f-54dbd0036f48\">\n<img alt=\"cctop\" src=\"https://github.com/user-attachments/assets/bb56cf54-1a49-4c53-9954-54f0a3924fd5\">\n<p>所有会话数据仅以纯JSON格式本地存储，全程无数据采集、遥测上报，隐私完全本地可控，小巧的菜单栏视图集中展示多工具会话状态，无需长时间驻留厚重程序，兼顾开发效率与数据安全。</p>",
+    "summary": "cctop 是一款 macOS 菜单栏轻量工具，专为AI编程开发场景打造，原生适配Apple Silicon与Intel芯片。 它可以统一监控所有AI编程会话，直观区分运行中、空闲、等待操作的任务，按下快捷键就能一键跳转至对应编辑器、终端面板、线程或项目；还能快速检索遗留的Git多工作目录，校验仓库安全并清理无用会话。 所有会话数据仅以纯JSON格式本地存储，全程无数据采集、遥测上报，隐私完全本地",
+    "banner_image": null,
+    "date_published": "2026-07-06T11:27:28Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "cctop 是一款 macOS 菜单栏轻量工具，专为AI编程开发场景打造，原生适配Apple Silicon与Intel芯片。\n它可以统一监控所有AI编程会话，直观区分运行中、空闲、等待操作的任务，按下快捷键就能一键跳转至对应编辑器、终端面板、线程或项目；还能快速检索遗留的Git多工作目录，校验仓库安全并清理无用会话。\n\n<img alt=\"cctop\" src=\"https://github.com/user-attachments/assets/38c5c549-53ee-4be3-923f-54dbd0036f48\" />\n\n<img  alt=\"cctop\" src=\"https://github.com/user-attachments/assets/bb56cf54-1a49-4c53-9954-54f0a3924fd5\" />\n\n所有会话数据仅以纯JSON格式本地存储，全程无数据采集、遥测上报，隐私完全本地可控，小巧的菜单栏视图集中展示多工具会话状态，无需长时间驻留厚重程序，兼顾开发效率与数据安全。"
   }
 ]

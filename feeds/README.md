@@ -16,6 +16,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://github.com/user-attachments/assets/37d72246-846e-4bf8-9514-6bd3b8dfc2e6)
 
 Wox 就是一个全局快捷键启动工具，按一下快捷键弹出搜索框，找软件、搜文件、输命令、用 AI 全都能搞定，还能装各种插件拓展功能，Windows、苹果、Linux 电脑都能用，免费开源无广告。 ([#363](https://github.com/jaywcjlove/quick-rss/issues/363) - [@jaywcjlove](https://github.com/jaywcjlove))
+## [cctop：键盘优先的菜单栏工具，监控 AI 编码会话并一键跳转至对应标签页/项目](https://wangchujiang.com/quick-rss/issue/362.html) 
+
+![](https://github.com/user-attachments/assets/38c5c549-53ee-4be3-923f-54dbd0036f48)
+
+cctop 是一款 macOS 菜单栏轻量工具，专为AI编程开发场景打造，原生适配Apple Silicon与Intel芯片。 它可以统一监控所有AI编程会话，直观区分运行中、空闲、等待操作的任务，按下快捷键就能一键跳转至对应编辑器、终端面板、线程或项目；还能快速检索遗留的Git多工作目录，校验仓库安全并清理无用会话。 所有会话数据仅以纯JSON格式本地存储，全程无数据采集、遥测上报，隐私完全本地 ([#362](https://github.com/jaywcjlove/quick-rss/issues/362) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Awesome Architecture：AI 时代的软件架构学习资源](https://wangchujiang.com/quick-rss/issue/358.html) 
 
 ![](https://github.com/user-attachments/assets/83bc834b-a599-4163-9f3d-067347bb3931)

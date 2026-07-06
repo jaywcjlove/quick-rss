@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-07-06T11:31:01.573Z</updated>
+    <updated>2026-07-06T11:31:33.188Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -26,6 +26,32 @@
 <img alt="Wox" src="https://github.com/user-attachments/assets/37d72246-846e-4bf8-9514-6bd3b8dfc2e6">
 <img alt="Wox" src="https://github.com/user-attachments/assets/93933b80-c3da-45df-82bc-bb34564cc38e"><br /><br />
       <a href="https://github.com/jaywcjlove/quick-rss/issues/363" target="_blank">#363</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cctop：键盘优先的菜单栏工具，监控 AI 编码会话并一键跳转至对应标签页/项目]]></title>
+        <id>362</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/362.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/38c5c549-53ee-4be3-923f-54dbd0036f48" type="image//user-attachments/assets/38c5c549-53ee-4be3-923f-54dbd0036f48"/>
+        <updated>2026-07-06T11:27:28.000Z</updated>
+        <summary type="html"><![CDATA[cctop 是一款 macOS 菜单栏轻量工具，专为AI编程开发场景打造，原生适配Apple Silicon与Intel芯片。 它可以统一监控所有AI编程会话，直观区分运行中、空闲、等待操作的任务，按下快捷键就能一键跳转至对应编辑器、终端面板、线程或项目；还能快速检索遗留的Git多工作目录，校验仓库安全并清理无用会话。 所有会话数据仅以纯JSON格式本地存储，全程无数据采集、遥测上报，隐私完全本地]]></summary>
+        <content type="html"><![CDATA[<p>cctop 是一款 macOS 菜单栏轻量工具，专为AI编程开发场景打造，原生适配Apple Silicon与Intel芯片。
+它可以统一监控所有AI编程会话，直观区分运行中、空闲、等待操作的任务，按下快捷键就能一键跳转至对应编辑器、终端面板、线程或项目；还能快速检索遗留的Git多工作目录，校验仓库安全并清理无用会话。</p>
+<img alt="cctop" src="https://github.com/user-attachments/assets/38c5c549-53ee-4be3-923f-54dbd0036f48">
+<img alt="cctop" src="https://github.com/user-attachments/assets/bb56cf54-1a49-4c53-9954-54f0a3924fd5">
+<p>所有会话数据仅以纯JSON格式本地存储，全程无数据采集、遥测上报，隐私完全本地可控，小巧的菜单栏视图集中展示多工具会话状态，无需长时间驻留厚重程序，兼顾开发效率与数据安全。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/362" target="_blank">#362</a> • 
       <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
       <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
       <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>

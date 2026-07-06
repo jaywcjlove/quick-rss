@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Wox 是 Alfred 和 Raycast 的替代品，快捷键弹出搜索框，找软件、搜文件、输命令、用 AI 全都能搞定](https://wangchujiang.com/quick-rss/issue/363.html) 
+
+![](https://github.com/user-attachments/assets/37d72246-846e-4bf8-9514-6bd3b8dfc2e6)
+
+Wox 就是一个全局快捷键启动工具，按一下快捷键弹出搜索框，找软件、搜文件、输命令、用 AI 全都能搞定，还能装各种插件拓展功能，Windows、苹果、Linux 电脑都能用，免费开源无广告。 ([#363](https://github.com/jaywcjlove/quick-rss/issues/363) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Awesome Architecture：AI 时代的软件架构学习资源](https://wangchujiang.com/quick-rss/issue/358.html) 
 
 ![](https://github.com/user-attachments/assets/83bc834b-a599-4163-9f3d-067347bb3931)

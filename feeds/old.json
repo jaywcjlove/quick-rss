@@ -1,5 +1,19 @@
 [
   {
+    "id": "358",
+    "url": "https://wangchujiang.com/quick-rss/issue/358.html",
+    "title": "Awesome Architecture：AI 时代的软件架构学习资源",
+    "content_html": "<p>Awesome Architecture 是一个面向 AI 时代的软件架构学习资源，专注“架构判断”而不是具体代码实现。项目包含 40 章架构教程、26 个真实系统架构模板和 6 个端到端案例，覆盖分布式系统、AI 原生系统、RAG、AI Agent、编码 Agent、可靠性、多租户、安全、技术选型等主题。</p>\n<img alt=\"Awesome Architecture\" src=\"https://github.com/user-attachments/assets/83bc834b-a599-4163-9f3d-067347bb3931\">\n<p>它适合想系统补齐系统设计、架构思维和 AI 原生系统设计能力的开发者。内容不绑定具体语言或框架，而是强调组件边界、数据流、关键取舍、规模化瓶颈和架构演进路线，并提供中英双语在线阅读。</p>\n<p>在线阅读：<a href=\"https://study8677.github.io/awesome-architecture/\">https://study8677.github.io/awesome-architecture/</a></p>",
+    "summary": "Awesome Architecture 是一个面向 AI 时代的软件架构学习资源，专注“架构判断”而不是具体代码实现。项目包含 40 章架构教程、26 个真实系统架构模板和 6 个端到端案例，覆盖分布式系统、AI 原生系统、RAG、AI Agent、编码 Agent、可靠性、多租户、安全、技术选型等主题。 它适合想系统补齐系统设计、架构思维和 AI 原生系统设计能力的开发者。内容不绑定具体语言或",
+    "banner_image": null,
+    "date_published": "2026-07-02T05:33:31Z",
+    "author": {
+      "name": "study8677",
+      "link": "https://avatars.githubusercontent.com/u/106414602?v=4"
+    },
+    "markdownContent": "Awesome Architecture 是一个面向 AI 时代的软件架构学习资源，专注“架构判断”而不是具体代码实现。项目包含 40 章架构教程、26 个真实系统架构模板和 6 个端到端案例，覆盖分布式系统、AI 原生系统、RAG、AI Agent、编码 Agent、可靠性、多租户、安全、技术选型等主题。\n\n<img alt=\"Awesome Architecture\" src=\"https://github.com/user-attachments/assets/83bc834b-a599-4163-9f3d-067347bb3931\" />\n\n它适合想系统补齐系统设计、架构思维和 AI 原生系统设计能力的开发者。内容不绑定具体语言或框架，而是强调组件边界、数据流、关键取舍、规模化瓶颈和架构演进路线，并提供中英双语在线阅读。\n\n在线阅读：https://study8677.github.io/awesome-architecture/"
+  },
+  {
     "id": "355",
     "url": "https://wangchujiang.com/quick-rss/issue/355.html",
     "title": "超慢跑节拍器-跑步打卡&跑步记录&运动节拍器",

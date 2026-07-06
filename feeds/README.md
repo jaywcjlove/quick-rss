@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Awesome Architecture：AI 时代的软件架构学习资源](https://wangchujiang.com/quick-rss/issue/358.html) 
+
+![](https://github.com/user-attachments/assets/83bc834b-a599-4163-9f3d-067347bb3931)
+
+Awesome Architecture 是一个面向 AI 时代的软件架构学习资源，专注“架构判断”而不是具体代码实现。项目包含 40 章架构教程、26 个真实系统架构模板和 6 个端到端案例，覆盖分布式系统、AI 原生系统、RAG、AI Agent、编码 Agent、可靠性、多租户、安全、技术选型等主题。 它适合想系统补齐系统设计、架构思维和 AI 原生系统设计能力的开发者。内容不绑定具体语言或 ([#358](https://github.com/jaywcjlove/quick-rss/issues/358) - [@study8677](https://github.com/study8677))
 ## [超慢跑节拍器-跑步打卡&跑步记录&运动节拍器](https://wangchujiang.com/quick-rss/issue/355.html) 
 
 ![](https://github.com/user-attachments/assets/b770c065-312a-4b9a-8058-32b7f10096d6)

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [DayBar v4.0 发布，菜单栏日历(农历) + TODO 的日期提醒 macOS 应用](https://wangchujiang.com/quick-rss/issue/365.html) 
+
+![](https://github.com/user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40)
+
+本次更新：重构了日历展示，优化日历渲染性能、新增多语言适配，并修复状态栏菜单定位与日历高度自适应问题。 ([#365](https://github.com/jaywcjlove/quick-rss/issues/365) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Wox 是 Alfred 和 Raycast 的替代品，快捷键弹出搜索框，找软件、搜文件、输命令、用 AI 全都能搞定](https://wangchujiang.com/quick-rss/issue/363.html) 
 
 ![](https://github.com/user-attachments/assets/37d72246-846e-4bf8-9514-6bd3b8dfc2e6)

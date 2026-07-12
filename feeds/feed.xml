@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-07-06T11:31:33.188Z</updated>
+    <updated>2026-07-12T08:04:14.138Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[DayBar v4.0 发布，菜单栏日历(农历) + TODO 的日期提醒 macOS 应用]]></title>
+        <id>365</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/365.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40" type="image//user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40"/>
+        <updated>2026-07-12T08:03:43.000Z</updated>
+        <summary type="html"><![CDATA[本次更新：重构了日历展示，优化日历渲染性能、新增多语言适配，并修复状态栏菜单定位与日历高度自适应问题。]]></summary>
+        <content type="html"><![CDATA[<p>本次更新：重构了日历展示，优化日历渲染性能、新增多语言适配，并修复状态栏菜单定位与日历高度自适应问题。</p>
+<img alt="DayBar" src="https://github.com/user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40">
+<img alt="DayBar" src="https://github.com/user-attachments/assets/9f04ed01-9f7b-418a-9249-9a97b058ef20"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/365" target="_blank">#365</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wox 是 Alfred 和 Raycast 的替代品，快捷键弹出搜索框，找软件、搜文件、输命令、用 AI 全都能搞定]]></title>
         <id>363</id>

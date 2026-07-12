@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 06 Jul 2026 11:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 08:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DayBar v4.0 发布，菜单栏日历(农历) + TODO 的日期提醒 macOS 应用]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/365.html</link>
+            <guid isPermaLink="false">365</guid>
+            <pubDate>Sun, 12 Jul 2026 08:03:43 GMT</pubDate>
+            <description><![CDATA[本次更新：重构了日历展示，优化日历渲染性能、新增多语言适配，并修复状态栏菜单定位与日历高度自适应问题。]]></description>
+            <content:encoded><![CDATA[<p>本次更新：重构了日历展示，优化日历渲染性能、新增多语言适配，并修复状态栏菜单定位与日历高度自适应问题。</p>
+<img alt="DayBar" src="https://github.com/user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40">
+<img alt="DayBar" src="https://github.com/user-attachments/assets/9f04ed01-9f7b-418a-9249-9a97b058ef20"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/365" target="_blank">#365</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40" length="0" type="image//user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40"/>
+        </item>
         <item>
             <title><![CDATA[Wox 是 Alfred 和 Raycast 的替代品，快捷键弹出搜索框，找软件、搜文件、输命令、用 AI 全都能搞定]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/363.html</link>

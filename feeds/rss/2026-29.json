@@ -1,0 +1,16 @@
+[
+  {
+    "id": "365",
+    "url": "https://wangchujiang.com/quick-rss/issue/365.html",
+    "title": "DayBar v4.0 发布，菜单栏日历(农历) + TODO 的日期提醒 macOS 应用",
+    "content_html": "<p>本次更新：重构了日历展示，优化日历渲染性能、新增多语言适配，并修复状态栏菜单定位与日历高度自适应问题。</p>\n<img alt=\"DayBar\" src=\"https://github.com/user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40\">\n<img alt=\"DayBar\" src=\"https://github.com/user-attachments/assets/9f04ed01-9f7b-418a-9249-9a97b058ef20\">",
+    "summary": "本次更新：重构了日历展示，优化日历渲染性能、新增多语言适配，并修复状态栏菜单定位与日历高度自适应问题。",
+    "banner_image": null,
+    "date_published": "2026-07-12T08:03:43Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "本次更新：重构了日历展示，优化日历渲染性能、新增多语言适配，并修复状态栏菜单定位与日历高度自适应问题。\n\n<img  alt=\"DayBar\" src=\"https://github.com/user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40\" />\n\n<img alt=\"DayBar\" src=\"https://github.com/user-attachments/assets/9f04ed01-9f7b-418a-9249-9a97b058ef20\" />"
+  }
+]

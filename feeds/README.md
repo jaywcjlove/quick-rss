@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Kimi K3 网络安全能力初评：超越 GLM-5.2](https://wangchujiang.com/quick-rss/issue/378.html) 
+
+![](https://github.com/user-attachments/assets/30bd9b03-7f12-46be-ab41-5979a114b79e)
+
+英国人工智能安全研究所（UK AISI）与美国 CAISI 联合发布了 Moonshot AI 最新模型 Kimi K3 的网络安全能力初步评估。 在 ExploitBench 漏洞开发基准测试中，Kimi K3 以 32% 的成功率超越了此前表现最佳的开源模型 GLM-5.2。然而，评估也指出 Kimi K3 尚未能实现任意代码执行（ACE）这一最高危攻击成果。 在模拟企业网络攻击的 The L ([#378](https://github.com/jaywcjlove/quick-rss/issues/378) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [SpinWin: 让macOS窗口自由旋转的菜单栏工具](https://wangchujiang.com/quick-rss/issue/377.html) 
 
 ![](https://github.com/user-attachments/assets/c7a7fdab-80d6-4c93-a3b3-cfa2377c24a1)

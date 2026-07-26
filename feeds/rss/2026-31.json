@@ -1,0 +1,16 @@
+[
+  {
+    "id": "377",
+    "url": "https://wangchujiang.com/quick-rss/issue/377.html",
+    "title": "SpinWin: 让macOS窗口自由旋转的菜单栏工具",
+    "content_html": "<p>SpinWin是一款专为macOS设计的菜单栏应用，它能通过视觉特效让任意窗口实现90度增量旋转、任意角度倾斜或连续自转。由于macOS缺乏公开API支持窗口旋转，开发者巧妙利用ScreenCaptureKit和Accessibility API，将目标窗口隐藏并实时捕获其画面，再在透明覆盖层中通过CALayer变换呈现旋转效果。用户只需点击菜单栏图标，选择旋转模式并点击目标窗口即可体验。虽然覆盖层不可交互，但这一创意方案完美绕过了系统限制，为桌面操作增添了趣味性与视觉冲击力。</p>\n<img alt=\"SpinWin\" src=\"https://github.com/user-attachments/assets/c7a7fdab-80d6-4c93-a3b3-cfa2377c24a1\">\n<p>\"macOS没有公开的API来旋转其他应用的窗口，所以我们用创意‘伪造’了它：隐藏窗口、实时捕获、再在覆盖层中旋转——让不可能变成可能。\"</p>",
+    "summary": "SpinWin是一款专为macOS设计的菜单栏应用，它能通过视觉特效让任意窗口实现90度增量旋转、任意角度倾斜或连续自转。由于macOS缺乏公开API支持窗口旋转，开发者巧妙利用ScreenCaptureKit和Accessibility API，将目标窗口隐藏并实时捕获其画面，再在透明覆盖层中通过CALayer变换呈现旋转效果。用户只需点击菜单栏图标，选择旋转模式并点击目标窗口即可体验。虽然覆盖",
+    "banner_image": null,
+    "date_published": "2026-07-26T08:01:20Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "SpinWin是一款专为macOS设计的菜单栏应用，它能通过视觉特效让任意窗口实现90度增量旋转、任意角度倾斜或连续自转。由于macOS缺乏公开API支持窗口旋转，开发者巧妙利用ScreenCaptureKit和Accessibility API，将目标窗口隐藏并实时捕获其画面，再在透明覆盖层中通过CALayer变换呈现旋转效果。用户只需点击菜单栏图标，选择旋转模式并点击目标窗口即可体验。虽然覆盖层不可交互，但这一创意方案完美绕过了系统限制，为桌面操作增添了趣味性与视觉冲击力。\n\n<img alt=\"SpinWin\" src=\"https://github.com/user-attachments/assets/c7a7fdab-80d6-4c93-a3b3-cfa2377c24a1\" />\n\n\"macOS没有公开的API来旋转其他应用的窗口，所以我们用创意‘伪造’了它：隐藏窗口、实时捕获、再在覆盖层中旋转——让不可能变成可能。\""
+  }
+]

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [SpinWin: 让macOS窗口自由旋转的菜单栏工具](https://wangchujiang.com/quick-rss/issue/377.html) 
+
+![](https://github.com/user-attachments/assets/c7a7fdab-80d6-4c93-a3b3-cfa2377c24a1)
+
+SpinWin是一款专为macOS设计的菜单栏应用，它能通过视觉特效让任意窗口实现90度增量旋转、任意角度倾斜或连续自转。由于macOS缺乏公开API支持窗口旋转，开发者巧妙利用ScreenCaptureKit和Accessibility API，将目标窗口隐藏并实时捕获其画面，再在透明覆盖层中通过CALayer变换呈现旋转效果。用户只需点击菜单栏图标，选择旋转模式并点击目标窗口即可体验。虽然覆盖 ([#377](https://github.com/jaywcjlove/quick-rss/issues/377) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [DayBar v4.0 发布，菜单栏日历(农历) + TODO 的日期提醒 macOS 应用](https://wangchujiang.com/quick-rss/issue/365.html) 
 
 ![](https://github.com/user-attachments/assets/2b5920e0-60f8-47b9-87e7-07abdeadbd40)

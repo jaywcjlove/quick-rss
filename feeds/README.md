@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Betlang：一个体积很小（50kb）的编程语言检测模型 类似于 Guesslang，但更小。](https://wangchujiang.com/quick-rss/issue/379.html) 
+
+![](https://github.com/user-attachments/assets/97fcfdd8-84ad-4ddf-b976-6d6a6572db3f)
+
+仅 50KB 超轻量 CNN 模型，纯 CPU 本地运行的代码编程语言检测库，可浏览器 Wasm 直接调用 ([#379](https://github.com/jaywcjlove/quick-rss/issues/379) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Kimi K3 网络安全能力初评：超越 GLM-5.2](https://wangchujiang.com/quick-rss/issue/378.html) 
 
 ![](https://github.com/user-attachments/assets/30bd9b03-7f12-46be-ab41-5979a114b79e)

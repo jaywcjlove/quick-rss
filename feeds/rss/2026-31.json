@@ -1,5 +1,19 @@
 [
   {
+    "id": "379",
+    "url": "https://wangchujiang.com/quick-rss/issue/379.html",
+    "title": "Betlang：一个体积很小（50kb）的编程语言检测模型 类似于 Guesslang，但更小。",
+    "content_html": "<p>仅 50KB 超轻量 CNN 模型，纯 CPU 本地运行的代码编程语言检测库，可浏览器 Wasm 直接调用</p>\n<img alt=\"Betlang\" src=\"https://github.com/user-attachments/assets/97fcfdd8-84ad-4ddf-b976-6d6a6572db3f\">",
+    "summary": "仅 50KB 超轻量 CNN 模型，纯 CPU 本地运行的代码编程语言检测库，可浏览器 Wasm 直接调用",
+    "banner_image": null,
+    "date_published": "2026-07-26T09:43:42Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "仅 50KB 超轻量 CNN 模型，纯 CPU 本地运行的代码编程语言检测库，可浏览器 Wasm 直接调用\n\n<img alt=\"Betlang\" src=\"https://github.com/user-attachments/assets/97fcfdd8-84ad-4ddf-b976-6d6a6572db3f\" />"
+  },
+  {
     "id": "378",
     "url": "https://wangchujiang.com/quick-rss/issue/378.html",
     "title": "Kimi K3 网络安全能力初评：超越 GLM-5.2",

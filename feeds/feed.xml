@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-07-26T08:05:48.206Z</updated>
+    <updated>2026-07-26T09:44:18.446Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Betlang：一个体积很小（50kb）的编程语言检测模型 类似于 Guesslang，但更小。]]></title>
+        <id>379</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/379.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/97fcfdd8-84ad-4ddf-b976-6d6a6572db3f" type="image//user-attachments/assets/97fcfdd8-84ad-4ddf-b976-6d6a6572db3f"/>
+        <updated>2026-07-26T09:43:42.000Z</updated>
+        <summary type="html"><![CDATA[仅 50KB 超轻量 CNN 模型，纯 CPU 本地运行的代码编程语言检测库，可浏览器 Wasm 直接调用]]></summary>
+        <content type="html"><![CDATA[<p>仅 50KB 超轻量 CNN 模型，纯 CPU 本地运行的代码编程语言检测库，可浏览器 Wasm 直接调用</p>
+<img alt="Betlang" src="https://github.com/user-attachments/assets/97fcfdd8-84ad-4ddf-b976-6d6a6572db3f"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/379" target="_blank">#379</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kimi K3 网络安全能力初评：超越 GLM-5.2]]></title>
         <id>378</id>

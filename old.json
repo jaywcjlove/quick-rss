@@ -1,5 +1,19 @@
 [
   {
+    "id": "382",
+    "url": "https://wangchujiang.com/quick-rss/issue/382.html",
+    "title": "MangoDisk：开源的深度磁盘清理工具，Tauri 应用，支持 macOS 和 Windows",
+    "content_html": "<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/daec566e-2bb8-4cac-8a6e-b5717cf6123c\">\n<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/d622f70b-252c-46f7-8919-4829b11bc0c0\">\n<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/6fe461ba-4e01-4ab9-992e-db0ba07e3ce2\">\n<p>一款基于 Tauri 开发、支持 macOS 与 Windows 的开源深度磁盘清理工具，可深度扫描系统缓存、开发构建垃圾、检索大文件与重复文件，支持软件连带残留彻底卸载，并提供磁盘占用可视化分析，兼顾普通用户与开发者需求，源码完全开放，操作安全可控。</p>",
+    "summary": "一款基于 Tauri 开发、支持 macOS 与 Windows 的开源深度磁盘清理工具，可深度扫描系统缓存、开发构建垃圾、检索大文件与重复文件，支持软件连带残留彻底卸载，并提供磁盘占用可视化分析，兼顾普通用户与开发者需求，源码完全开放，操作安全可控。",
+    "banner_image": null,
+    "date_published": "2026-08-07T21:39:57Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/daec566e-2bb8-4cac-8a6e-b5717cf6123c\" />\n\n<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/d622f70b-252c-46f7-8919-4829b11bc0c0\" />\n\n<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/6fe461ba-4e01-4ab9-992e-db0ba07e3ce2\" />\n\n一款基于 Tauri 开发、支持 macOS 与 Windows 的开源深度磁盘清理工具，可深度扫描系统缓存、开发构建垃圾、检索大文件与重复文件，支持软件连带残留彻底卸载，并提供磁盘占用可视化分析，兼顾普通用户与开发者需求，源码完全开放，操作安全可控。"
+  },
+  {
     "id": "379",
     "url": "https://wangchujiang.com/quick-rss/issue/379.html",
     "title": "Betlang：一个体积很小（50kb）的编程语言检测模型 类似于 Guesslang，但更小。",

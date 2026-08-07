@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MangoDisk：开源的深度磁盘清理工具，Tauri 应用，支持 macOS 和 Windows](https://wangchujiang.com/quick-rss/issue/382.html) 
+
+![](https://github.com/user-attachments/assets/daec566e-2bb8-4cac-8a6e-b5717cf6123c)
+
+一款基于 Tauri 开发、支持 macOS 与 Windows 的开源深度磁盘清理工具，可深度扫描系统缓存、开发构建垃圾、检索大文件与重复文件，支持软件连带残留彻底卸载，并提供磁盘占用可视化分析，兼顾普通用户与开发者需求，源码完全开放，操作安全可控。 ([#382](https://github.com/jaywcjlove/quick-rss/issues/382) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Betlang：一个体积很小（50kb）的编程语言检测模型 类似于 Guesslang，但更小。](https://wangchujiang.com/quick-rss/issue/379.html) 
 
 ![](https://github.com/user-attachments/assets/97fcfdd8-84ad-4ddf-b976-6d6a6572db3f)

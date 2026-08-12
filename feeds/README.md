@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Tracexy：更底层的网络流量追踪 / 抓包分析工具](https://wangchujiang.com/quick-rss/issue/383.html) 
+
+![](https://github.com/user-attachments/assets/c8b404d1-2a94-4cdb-af9a-081af864db57)
+
+抛弃 Wireshark 繁杂数据包视图，以会话为核心梳理整机网络流量，支持实时抓包 &#x26; PCAP 文件解析，纯 Swift 本地优先架构，隐私可控，轻量好用的 Wireshark 替代方案。 抓取或打开数据包后在本地工作区中查看主机、进程、协议、时序与原始数据包证据。 ([#383](https://github.com/jaywcjlove/quick-rss/issues/383) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MangoDisk：开源的深度磁盘清理工具，Tauri 应用，支持 macOS 和 Windows](https://wangchujiang.com/quick-rss/issue/382.html) 
 
 ![](https://github.com/user-attachments/assets/daec566e-2bb8-4cac-8a6e-b5717cf6123c)

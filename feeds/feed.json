@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "383",
+            "content_html": "<p>抛弃 Wireshark 繁杂数据包视图，以会话为核心梳理整机网络流量，支持实时抓包 &#x26; PCAP 文件解析，纯 Swift 本地优先架构，隐私可控，轻量好用的 Wireshark 替代方案。</p>\n<p>抓取或打开数据包后在本地工作区中查看主机、进程、协议、时序与原始数据包证据。</p>\n<img alt=\"Tracexy\" src=\"https://github.com/user-attachments/assets/c8b404d1-2a94-4cdb-af9a-081af864db57\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/383\" target=\"_blank\">#383</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/383.html",
+            "title": "Tracexy：更底层的网络流量追踪 / 抓包分析工具",
+            "summary": "抛弃 Wireshark 繁杂数据包视图，以会话为核心梳理整机网络流量，支持实时抓包 &#x26; PCAP 文件解析，纯 Swift 本地优先架构，隐私可控，轻量好用的 Wireshark 替代方案。 抓取或打开数据包后在本地工作区中查看主机、进程、协议、时序与原始数据包证据。",
+            "image": "https://github.com/user-attachments/assets/c8b404d1-2a94-4cdb-af9a-081af864db57",
+            "date_modified": "2026-08-12T05:09:52.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "382",
             "content_html": "<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/daec566e-2bb8-4cac-8a6e-b5717cf6123c\">\n<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/d622f70b-252c-46f7-8919-4829b11bc0c0\">\n<img alt=\"MangoDisk\" src=\"https://github.com/user-attachments/assets/6fe461ba-4e01-4ab9-992e-db0ba07e3ce2\">\n<p>一款基于 Tauri 开发、支持 macOS 与 Windows 的开源深度磁盘清理工具，可深度扫描系统缓存、开发构建垃圾、检索大文件与重复文件，支持软件连带残留彻底卸载，并提供磁盘占用可视化分析，兼顾普通用户与开发者需求，源码完全开放，操作安全可控。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/382\" target=\"_blank\">#382</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/382.html",

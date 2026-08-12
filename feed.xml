@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-08-07T21:40:48.028Z</updated>
+    <updated>2026-08-12T05:10:22.290Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Tracexy：更底层的网络流量追踪 / 抓包分析工具]]></title>
+        <id>383</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/383.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/c8b404d1-2a94-4cdb-af9a-081af864db57" type="image//user-attachments/assets/c8b404d1-2a94-4cdb-af9a-081af864db57"/>
+        <updated>2026-08-12T05:09:52.000Z</updated>
+        <summary type="html"><![CDATA[抛弃 Wireshark 繁杂数据包视图，以会话为核心梳理整机网络流量，支持实时抓包 &#x26; PCAP 文件解析，纯 Swift 本地优先架构，隐私可控，轻量好用的 Wireshark 替代方案。 抓取或打开数据包后在本地工作区中查看主机、进程、协议、时序与原始数据包证据。]]></summary>
+        <content type="html"><![CDATA[<p>抛弃 Wireshark 繁杂数据包视图，以会话为核心梳理整机网络流量，支持实时抓包 &#x26; PCAP 文件解析，纯 Swift 本地优先架构，隐私可控，轻量好用的 Wireshark 替代方案。</p>
+<p>抓取或打开数据包后在本地工作区中查看主机、进程、协议、时序与原始数据包证据。</p>
+<img alt="Tracexy" src="https://github.com/user-attachments/assets/c8b404d1-2a94-4cdb-af9a-081af864db57"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/383" target="_blank">#383</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MangoDisk：开源的深度磁盘清理工具，Tauri 应用，支持 macOS 和 Windows]]></title>
         <id>382</id>

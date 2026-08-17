@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Video Video AI：将长视频一键变为爆款短视频，免费且无需登录](https://wangchujiang.com/quick-rss/issue/386.html) 
+
+![](https://github.com/user-attachments/assets/c2f939e4-3c79-4092-9397-c4ff7c037966)
+
+Video Editor AI：发社媒是赚钱的路，剪视频是拦路的石头 做内容的人靠什么赚钱？靠发社交媒体，发得越多，曝光越多，转化机会越多。不管是广告分成、带货佣金、引流卖课，还是品牌合作，前提都是你得持续发。 但大部分人卡在同一个地方：剪视频太慢了。 录了一小时播客、讲了一堂网课、拍了一条产品演示，真正能发社媒的只有几十秒的片段。为了找出这些片段，你要从头到尾看一遍，标记、裁剪、加字幕、调比例、 ([#386](https://github.com/jaywcjlove/quick-rss/issues/386) - [@icaohongyuan](https://github.com/icaohongyuan))
 ## [Tracexy：更底层的网络流量追踪 / 抓包分析工具](https://wangchujiang.com/quick-rss/issue/383.html) 
 
 ![](https://github.com/user-attachments/assets/c8b404d1-2a94-4cdb-af9a-081af864db57)

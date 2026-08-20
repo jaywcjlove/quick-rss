@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [AirStats：超轻量菜单栏系统监控器](https://wangchujiang.com/quick-rss/issue/387.html) 
+
+![](https://github.com/user-attachments/assets/f5d4f66c-67cd-4f63-8812-436d01ea4722)
+
+涵盖 CPU、内存、GPU、网络、磁盘、电池、温度、进程与主机等系统统计信息。 ([#387](https://github.com/jaywcjlove/quick-rss/issues/387) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Video Video AI：将长视频一键变为爆款短视频，免费且无需登录](https://wangchujiang.com/quick-rss/issue/386.html) 
 
 ![](https://github.com/user-attachments/assets/c2f939e4-3c79-4092-9397-c4ff7c037966)

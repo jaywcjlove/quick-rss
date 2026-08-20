@@ -1,5 +1,19 @@
 [
   {
+    "id": "387",
+    "url": "https://wangchujiang.com/quick-rss/issue/387.html",
+    "title": "AirStats：超轻量菜单栏系统监控器",
+    "content_html": "<p>涵盖 CPU、内存、GPU、网络、磁盘、电池、温度、进程与主机等系统统计信息。</p>\n<img alt=\"AirStats\" src=\"https://github.com/user-attachments/assets/f5d4f66c-67cd-4f63-8812-436d01ea4722\">",
+    "summary": "涵盖 CPU、内存、GPU、网络、磁盘、电池、温度、进程与主机等系统统计信息。",
+    "banner_image": null,
+    "date_published": "2026-08-20T06:12:23Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "涵盖 CPU、内存、GPU、网络、磁盘、电池、温度、进程与主机等系统统计信息。\n\n<img  alt=\"AirStats\" src=\"https://github.com/user-attachments/assets/f5d4f66c-67cd-4f63-8812-436d01ea4722\" />"
+  },
+  {
     "id": "386",
     "url": "https://wangchujiang.com/quick-rss/issue/386.html",
     "title": "Video Video AI：将长视频一键变为爆款短视频，免费且无需登录",

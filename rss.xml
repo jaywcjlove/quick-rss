@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 20 Aug 2026 06:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 06:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[look：一款优先键盘操作、数据本地存储的启动器]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/388.html</link>
+            <guid isPermaLink="false">388</guid>
+            <pubDate>Thu, 20 Aug 2026 06:15:05 GMT</pubDate>
+            <description><![CDATA[支持 macOS、Windows、Linux 系统 无需切换鼠标，即可打开应用、文件、文件夹，查看剪贴板历史，执行快捷命令。]]></description>
+            <content:encoded><![CDATA[<p>支持 macOS、Windows、Linux 系统
+无需切换鼠标，即可打开应用、文件、文件夹，查看剪贴板历史，执行快捷命令。</p>
+<img alt="look" src="https://github.com/user-attachments/assets/b37f665e-7789-4d47-8b22-3c1ca7c00dd8">
+<video muted controls style="max-height:640px;" src="https://github.com/user-attachments/assets/6dbce03b-a90f-452d-9daa-ce503cf5df1e?title=look&#x26;rehype=video"></video><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/388" target="_blank">#388</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/b37f665e-7789-4d47-8b22-3c1ca7c00dd8" length="0" type="image//user-attachments/assets/b37f665e-7789-4d47-8b22-3c1ca7c00dd8"/>
+        </item>
         <item>
             <title><![CDATA[AirStats：超轻量菜单栏系统监控器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/387.html</link>

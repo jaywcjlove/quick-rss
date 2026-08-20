@@ -13,6 +13,14 @@ Changelog
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.7.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.7.0)
+
+1. feat: Localize the app for all supported languages
+2. feat: Refactor PurchaseButton to simplify purchase logic and maintain color scheme
+3. fix: Stop refresh cancel from stalling the UI
+4. fix: Resolve unused Task.detached and SwiftData import warnings
+5. chore: Upgrade MyAppListKit and migrate to MyAppListKitApps
+
 ## [v2.6.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.6.0)
 
 1. feat: add page navigation buttons to detail view. 

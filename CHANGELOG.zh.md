@@ -13,6 +13,14 @@
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.7.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.7.0)
+
+1. feat: 为应用完成全部支持语言的本地化适配
+2. feat: 重构购买按钮组件，简化购买逻辑并保留配色方
+3. fix: 修复取消刷新时界面卡死问题
+4. fix: 消除 Task.detached 未使用与 SwiftData 导入相关编译警告
+5. chore: 升级 MyAppListKit，迁移至 MyAppListKitApps案
+
 ## [v2.6.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.6.0)
 
 1. feat: 在详情视图中添加页面导航按钮。

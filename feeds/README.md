@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [look：一款优先键盘操作、数据本地存储的启动器](https://wangchujiang.com/quick-rss/issue/388.html) 
+
+![](https://github.com/user-attachments/assets/b37f665e-7789-4d47-8b22-3c1ca7c00dd8)
+
+支持 macOS、Windows、Linux 系统 无需切换鼠标，即可打开应用、文件、文件夹，查看剪贴板历史，执行快捷命令。 ([#388](https://github.com/jaywcjlove/quick-rss/issues/388) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [AirStats：超轻量菜单栏系统监控器](https://wangchujiang.com/quick-rss/issue/387.html) 
 
 ![](https://github.com/user-attachments/assets/f5d4f66c-67cd-4f63-8812-436d01ea4722)

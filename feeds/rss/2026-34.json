@@ -1,5 +1,19 @@
 [
   {
+    "id": "388",
+    "url": "https://wangchujiang.com/quick-rss/issue/388.html",
+    "title": "look：一款优先键盘操作、数据本地存储的启动器",
+    "content_html": "<p>支持 macOS、Windows、Linux 系统\n无需切换鼠标，即可打开应用、文件、文件夹，查看剪贴板历史，执行快捷命令。</p>\n<img alt=\"look\" src=\"https://github.com/user-attachments/assets/b37f665e-7789-4d47-8b22-3c1ca7c00dd8\">\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/6dbce03b-a90f-452d-9daa-ce503cf5df1e?title=look&#x26;rehype=video\"></video>",
+    "summary": "支持 macOS、Windows、Linux 系统 无需切换鼠标，即可打开应用、文件、文件夹，查看剪贴板历史，执行快捷命令。 https://github.com/user-attachments/assets/6dbce03b-a90f-452d-9daa-ce503cf5df1e?title=look&rehype=video",
+    "banner_image": null,
+    "date_published": "2026-08-20T06:15:05Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "支持 macOS、Windows、Linux 系统\n无需切换鼠标，即可打开应用、文件、文件夹，查看剪贴板历史，执行快捷命令。\n\n<img alt=\"look\" src=\"https://github.com/user-attachments/assets/b37f665e-7789-4d47-8b22-3c1ca7c00dd8\" />\n\nhttps://github.com/user-attachments/assets/6dbce03b-a90f-452d-9daa-ce503cf5df1e?title=look&rehype=video"
+  },
+  {
     "id": "387",
     "url": "https://wangchujiang.com/quick-rss/issue/387.html",
     "title": "AirStats：超轻量菜单栏系统监控器",

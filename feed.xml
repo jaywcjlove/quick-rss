@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-08-17T13:27:48.934Z</updated>
+    <updated>2026-08-20T06:12:54.173Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[AirStats：超轻量菜单栏系统监控器]]></title>
+        <id>387</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/387.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/f5d4f66c-67cd-4f63-8812-436d01ea4722" type="image//user-attachments/assets/f5d4f66c-67cd-4f63-8812-436d01ea4722"/>
+        <updated>2026-08-20T06:12:23.000Z</updated>
+        <summary type="html"><![CDATA[涵盖 CPU、内存、GPU、网络、磁盘、电池、温度、进程与主机等系统统计信息。]]></summary>
+        <content type="html"><![CDATA[<p>涵盖 CPU、内存、GPU、网络、磁盘、电池、温度、进程与主机等系统统计信息。</p>
+<img alt="AirStats" src="https://github.com/user-attachments/assets/f5d4f66c-67cd-4f63-8812-436d01ea4722"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/387" target="_blank">#387</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Video Video AI：将长视频一键变为爆款短视频，免费且无需登录]]></title>
         <id>386</id>

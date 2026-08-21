@@ -13,6 +13,15 @@
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.8.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.8.0)
+
+1. feat: 添加 MCP 协议支持
+2. feat: 添加图标提示更新失败
+3. feat: 为 iOS/macOS 增加 iCloud 同步功能
+4. feat: 新增小组件支持
+5. fix: 修正 Application Group 标识符前缀，解决 Apple 通信失败问题
+6. chore: 更新 Logo 图标
+
 ## [v2.7.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.7.0)
 
 1. feat: 为应用完成全部支持语言的本地化适配

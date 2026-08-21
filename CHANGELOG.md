@@ -13,6 +13,15 @@ Changelog
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.8.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.8.0)
+
+1. feat: add support for MCP. 
+2. feat: add icon to indicate update failure. 
+3. feat: add iCloud sync for iOS/macOS. 
+4. feat: add widgets support 
+5. fix: correct Application Group identifier prefix for Apple communication failure. 
+6. chore: update logo icon. 
+
 ## [v2.7.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.7.0)
 
 1. feat: Localize the app for all supported languages

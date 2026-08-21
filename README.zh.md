@@ -56,6 +56,56 @@ Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：
 
 立即下载 Quick RSS，为你的 macOS 带来全新的 RSS 阅读体验。无论是个人兴趣的追踪，还是行业新闻的获取，Quick RSS 都能成为你理想的订阅管理工具。
 
+## 通过 MCP 使用 Quick RSS
+
+Quick RSS 支持 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)，可让 Claude Desktop、Cursor、VS Code 等 MCP 客户端访问你的订阅内容。
+
+1. 将 Quick RSS 更新至 `v2.8.0` 或更高版本。
+2. 在 Quick RSS 的设置中启用 MCP 服务。
+3. 复制应用生成的 MCP 配置，并将其添加到所使用的 MCP 客户端。
+4. 重启 MCP 客户端后，即可在对话中浏览订阅源、查找文章和获取最新内容。
+
+MCP 服务仅会访问当前 Quick RSS 中的订阅与文章数据；请仅将配置添加到你信任的客户端。
+
+### 在 Grok 中配置
+
+```bash
+# 添加 Quick RSS MCP 服务器
+$ grok mcp add --transport http quickrss "http://127.0.0.1:8745/mcp?token=<令牌>"
+# 移除 Quick RSS MCP 服务器
+$ grok mcp remove quickrss
+# 列出已配置的 MCP 服务器
+$ grok mcp list
+# 诊断 Quick RSS MCP 服务器的连接状态
+$ grok mcp doctor quickrss
+```
+
+直接在配置中配置文件：
+
+```bash
+$ vim ~/.grok/config.toml
+```
+
+把下面内容加进去（或追加）：
+
+```bash
+[mcp_servers.quickrss]
+url = "http://127.0.0.1:8745/mcp?token=OBJkho_MKa7kd1CJNZDLY3Jh"
+enabled = true
+```
+
+### 测试 MCP 连接
+
+在启用 Quick RSS 连接器的 Grok 对话中发送以下提示词：
+
+```text
+列出我 Quick RSS 中最近更新的 5 篇文章，并给出标题、订阅源和发布日期。
+```
+
+你也可以在 Grok 对话框中输入 `/mcps`，查看 MCP 服务器是否正常启动。
+
+如果连接正常，Grok 应该会调用 Quick RSS MCP 工具，并返回当前订阅中的文章信息。
+
 <br />
 
 ## RSS 源推荐

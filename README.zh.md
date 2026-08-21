@@ -58,6 +58,8 @@ Quick RSS 适合所有希望高效获取最新资讯的人群，尤其适合：
 
 ## 通过 MCP 使用 Quick RSS
 
+![Quick RSS 截图 4](./assets/screenshots-4.png)
+
 Quick RSS 支持 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/)，可让 Claude Desktop、Cursor、VS Code 等 MCP 客户端访问你的订阅内容。
 
 1. 将 Quick RSS 更新至 `v2.8.0` 或更高版本。

@@ -60,6 +60,8 @@ Download Quick RSS today and bring a brand new RSS reading experience to your ma
 
 ## Use Quick RSS with MCP
 
+![Quick RSS Screenshot 4](./assets/screenshots-4.png)
+
 Quick RSS supports the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/), allowing MCP clients such as Claude Desktop, Cursor, and VS Code to access your subscriptions.
 
 1. Update Quick RSS to `v2.8.0` or later.

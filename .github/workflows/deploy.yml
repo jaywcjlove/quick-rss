@@ -82,6 +82,11 @@ jobs:
             cp -rp feeds/*.xml dist/
       - run: cp -rp assets/social-preview.png dist/assets/
 
+      - name: Create ory verify file
+        run: |
+          mkdir -p dist/.well-known
+          echo "ory-verify=orynth-ec94066d75ee4b34b33e3a9a1e5cac18" > dist/.well-known/ory-verify.txt
+
       - run: npm install
       - run: node ./.github/scripts/create-opml.mjs
       - name: Deploy

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "389",
+            "content_html": "<p>LiveFaceSwap AI 是一款实时 AI 视频换脸工具。用户可以先在浏览器上传已获授权的参考图像并打开摄像头，实时预览 Face Swap、Try-On 或 Restyle 效果；当处理后的画面需要进入兼容的直播、会议或视频通话软件时，可在 Windows 11 使用 LiveFaceSwap Desktop，将输出提供为 LiveFaceSwap Camera 虚拟摄像头。</p>\n<p><img src=\"https://r2.livefaceswap.ai/livefaceswap-ai/article-images/browser-workspace-screenshot-2026-08-01.png\" alt=\"LiveFaceSwap AI 浏览器工作区，显示摄像头输入、Face Swap 控件和会话开始前的 Live AI 输出区域\"></p>\n<p>浏览器模式适合在安装桌面应用前判断效果，不提供录制、下载、导出或保存功能。AI 处理在云端完成，需要摄像头和稳定的网络连接。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/389\" target=\"_blank\">#389</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/cabbagehao\" target=\"_blank\">@cabbagehao</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/389.html",
+            "title": "LiveFaceSwap AI：浏览器实时 AI 换脸与 Windows 11 虚拟摄像头",
+            "summary": "LiveFaceSwap AI 是一款实时 AI 视频换脸工具。用户可以先在浏览器上传已获授权的参考图像并打开摄像头，实时预览 Face Swap、Try-On 或 Restyle 效果；当处理后的画面需要进入兼容的直播、会议或视频通话软件时，可在 Windows 11 使用 LiveFaceSwap Desktop，将输出提供为 LiveFaceSwap Camera 虚拟摄像头。 浏览器模式适",
+            "image": "https://r2.livefaceswap.ai/livefaceswap-ai/article-images/browser-workspace-screenshot-2026-08-01.png",
+            "date_modified": "2026-08-23T16:27:07.000Z",
+            "author": {
+                "name": "cabbagehao",
+                "url": "https://avatars.githubusercontent.com/u/8425720?v=4"
+            }
+        },
+        {
             "id": "388",
             "content_html": "<p>支持 macOS、Windows、Linux 系统\n无需切换鼠标，即可打开应用、文件、文件夹，查看剪贴板历史，执行快捷命令。</p>\n<img alt=\"look\" src=\"https://github.com/user-attachments/assets/b37f665e-7789-4d47-8b22-3c1ca7c00dd8\">\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/6dbce03b-a90f-452d-9daa-ce503cf5df1e?title=look&#x26;rehype=video\"></video><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/388\" target=\"_blank\">#388</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/388.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [LiveFaceSwap AI：浏览器实时 AI 换脸与 Windows 11 虚拟摄像头](https://wangchujiang.com/quick-rss/issue/389.html) 
+
+![](https://r2.livefaceswap.ai/livefaceswap-ai/article-images/browser-workspace-screenshot-2026-08-01.png)
+
+LiveFaceSwap AI 是一款实时 AI 视频换脸工具。用户可以先在浏览器上传已获授权的参考图像并打开摄像头，实时预览 Face Swap、Try-On 或 Restyle 效果；当处理后的画面需要进入兼容的直播、会议或视频通话软件时，可在 Windows 11 使用 LiveFaceSwap Desktop，将输出提供为 LiveFaceSwap Camera 虚拟摄像头。 浏览器模式适 ([#389](https://github.com/jaywcjlove/quick-rss/issues/389) - [@cabbagehao](https://github.com/cabbagehao))
 ## [look：一款优先键盘操作、数据本地存储的启动器](https://wangchujiang.com/quick-rss/issue/388.html) 
 
 ![](https://github.com/user-attachments/assets/b37f665e-7789-4d47-8b22-3c1ca7c00dd8)

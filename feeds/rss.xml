@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 20 Aug 2026 06:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 16:35:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LiveFaceSwap AI：浏览器实时 AI 换脸与 Windows 11 虚拟摄像头]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/389.html</link>
+            <guid isPermaLink="false">389</guid>
+            <pubDate>Sun, 23 Aug 2026 16:27:07 GMT</pubDate>
+            <description><![CDATA[LiveFaceSwap AI 是一款实时 AI 视频换脸工具。用户可以先在浏览器上传已获授权的参考图像并打开摄像头，实时预览 Face Swap、Try-On 或 Restyle 效果；当处理后的画面需要进入兼容的直播、会议或视频通话软件时，可在 Windows 11 使用 LiveFaceSwap Desktop，将输出提供为 LiveFaceSwap Camera 虚拟摄像头。 浏览器模式适]]></description>
+            <content:encoded><![CDATA[<p>LiveFaceSwap AI 是一款实时 AI 视频换脸工具。用户可以先在浏览器上传已获授权的参考图像并打开摄像头，实时预览 Face Swap、Try-On 或 Restyle 效果；当处理后的画面需要进入兼容的直播、会议或视频通话软件时，可在 Windows 11 使用 LiveFaceSwap Desktop，将输出提供为 LiveFaceSwap Camera 虚拟摄像头。</p>
+<p><img src="https://r2.livefaceswap.ai/livefaceswap-ai/article-images/browser-workspace-screenshot-2026-08-01.png" alt="LiveFaceSwap AI 浏览器工作区，显示摄像头输入、Face Swap 控件和会话开始前的 Live AI 输出区域"></p>
+<p>浏览器模式适合在安装桌面应用前判断效果，不提供录制、下载、导出或保存功能。AI 处理在云端完成，需要摄像头和稳定的网络连接。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/389" target="_blank">#389</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/cabbagehao" target="_blank">@cabbagehao</a>
+      ]]></content:encoded>
+            <author>cabbagehao</author>
+            <enclosure url="https://r2.livefaceswap.ai/livefaceswap-ai/article-images/browser-workspace-screenshot-2026-08-01.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[look：一款优先键盘操作、数据本地存储的启动器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/388.html</link>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ChatGPT Plus / Pro 与 Codex 中文开源指南](https://wangchujiang.com/quick-rss/issue/390.html) 
+
+![](https://github.com/user-attachments/assets/22fcb207-9014-4a34-9192-8d4c11700d30)
+
+一份采用 MIT 许可证的中文实用指南，面向没有海外银行卡、需要为 ChatGPT 与 Codex 选择 Plus / Pro 的用户。内容覆盖 ChatGPT 订阅与 OpenAI API 计费边界、Plus 与 Pro 5x / 20x 的使用场景、国内支付路径比较、付款前核验、订单查询与账号凭证安全，并持续标注信息核验日期。利益相关：该仓库由 AIXiamo 运营方维护，文中包含 AIXia ([#390](https://github.com/jaywcjlove/quick-rss/issues/390) - [@momochoog](https://github.com/momochoog))
 ## [LiveFaceSwap AI：浏览器实时 AI 换脸与 Windows 11 虚拟摄像头](https://wangchujiang.com/quick-rss/issue/389.html) 
 
 ![](https://r2.livefaceswap.ai/livefaceswap-ai/article-images/browser-workspace-screenshot-2026-08-01.png)

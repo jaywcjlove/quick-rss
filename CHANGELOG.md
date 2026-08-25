@@ -13,6 +13,12 @@ Changelog
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.9.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.9.0)
+
+1. fix: resolve conflict between manual light‑dark theme toggle and system theme mode
+2. fix: fix status bar styling issues on macOS 27
+3. fix: fix sidebar styling issues on macOS 26
+
 ## [v2.8.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.8.0)
 
 1. feat: add support for MCP. 

@@ -13,6 +13,12 @@
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v2.9.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.9.0)
+
+1. fix: 修复手动切换明暗主题与系统明暗主题切换冲突
+2. fix: 修复 macOS 27 下状态栏样式问题
+3. fix: 修复 macOS 26 侧边栏样式异常
+
 ## [v2.8.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.8.0)
 
 1. feat: 添加 MCP 协议支持

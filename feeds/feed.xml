@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-08-31T03:41:56.796Z</updated>
+    <updated>2026-08-31T12:29:17.227Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Orchard：Apple Containers、MLX 与 k8s 的图形界面]]></title>
+        <id>396</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/396.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf" type="image//user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf"/>
+        <updated>2026-08-31T12:28:40.000Z</updated>
+        <summary type="html"><![CDATA[作为 Docker Desktop 的替代品，用于管理容器、本地模型与 Kubernetes 集群]]></summary>
+        <content type="html"><![CDATA[<p>作为 Docker Desktop 的替代品，用于管理容器、本地模型与 Kubernetes 集群</p>
+<img alt="Orchard" src="https://github.com/user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/396" target="_blank">#396</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CozyClay：一款基于浏览器的 3D 场景编排工作室]]></title>
         <id>394</id>

@@ -1,5 +1,19 @@
 [
   {
+    "id": "396",
+    "url": "https://wangchujiang.com/quick-rss/issue/396.html",
+    "title": "Orchard：Apple Containers、MLX 与 k8s 的图形界面",
+    "content_html": "<p>作为 Docker Desktop 的替代品，用于管理容器、本地模型与 Kubernetes 集群</p>\n<img alt=\"Orchard\" src=\"https://github.com/user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf\">",
+    "summary": "作为 Docker Desktop 的替代品，用于管理容器、本地模型与 Kubernetes 集群",
+    "banner_image": null,
+    "date_published": "2026-08-31T12:28:40Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "作为 Docker Desktop 的替代品，用于管理容器、本地模型与 Kubernetes 集群\n\n<img alt=\"Orchard\" src=\"https://github.com/user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf\" />"
+  },
+  {
     "id": "394",
     "url": "https://wangchujiang.com/quick-rss/issue/394.html",
     "title": "CozyClay：一款基于浏览器的 3D 场景编排工作室",

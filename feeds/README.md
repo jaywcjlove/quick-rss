@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Orchard：Apple Containers、MLX 与 k8s 的图形界面](https://wangchujiang.com/quick-rss/issue/396.html) 
+
+![](https://github.com/user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf)
+
+作为 Docker Desktop 的替代品，用于管理容器、本地模型与 Kubernetes 集群 ([#396](https://github.com/jaywcjlove/quick-rss/issues/396) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [CozyClay：一款基于浏览器的 3D 场景编排工作室](https://wangchujiang.com/quick-rss/issue/394.html) 
 
 ![](https://github.com/user-attachments/assets/32781fa3-21eb-440c-9c05-7cee33e560a5)

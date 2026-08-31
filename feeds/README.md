@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [CozyClay：一款基于浏览器的 3D 场景编排工作室](https://wangchujiang.com/quick-rss/issue/394.html) 
+
+![](https://github.com/user-attachments/assets/32781fa3-21eb-440c-9c05-7cee33e560a5)
+
+基于 Three.js 与 React Three Fiber 开发，可以排布场景、调整角色姿态、在时间轴上编排动作提示词，并预览生成的动作效果 全部都在本地工作空间内完成 ([#394](https://github.com/jaywcjlove/quick-rss/issues/394) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [ChatGPT Plus / Pro 与 Codex 中文开源指南](https://wangchujiang.com/quick-rss/issue/390.html) 
 
 ![](https://github.com/user-attachments/assets/22fcb207-9014-4a34-9192-8d4c11700d30)

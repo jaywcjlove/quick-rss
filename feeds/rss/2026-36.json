@@ -1,0 +1,16 @@
+[
+  {
+    "id": "394",
+    "url": "https://wangchujiang.com/quick-rss/issue/394.html",
+    "title": "CozyClay：一款基于浏览器的 3D 场景编排工作室",
+    "content_html": "<p>基于 Three.js 与 React Three Fiber 开发，可以排布场景、调整角色姿态、在时间轴上编排动作提示词，并预览生成的动作效果</p>\n<p>全部都在本地工作空间内完成</p>\n<img alt=\"CozyClay\" src=\"https://github.com/user-attachments/assets/32781fa3-21eb-440c-9c05-7cee33e560a5\">\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/76602b0f-b396-43c3-87b9-d4d1fae6f7f2?title=CozyClay&#x26;rehype=video\"></video>",
+    "summary": "基于 Three.js 与 React Three Fiber 开发，可以排布场景、调整角色姿态、在时间轴上编排动作提示词，并预览生成的动作效果 全部都在本地工作空间内完成 https://github.com/user-attachments/assets/76602b0f-b396-43c3-87b9-d4d1fae6f7f2?title=CozyClay&rehype=video",
+    "banner_image": null,
+    "date_published": "2026-08-31T03:41:14Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "基于 Three.js 与 React Three Fiber 开发，可以排布场景、调整角色姿态、在时间轴上编排动作提示词，并预览生成的动作效果 \n\n 全部都在本地工作空间内完成\n\n<img  alt=\"CozyClay\" src=\"https://github.com/user-attachments/assets/32781fa3-21eb-440c-9c05-7cee33e560a5\" />\n\nhttps://github.com/user-attachments/assets/76602b0f-b396-43c3-87b9-d4d1fae6f7f2?title=CozyClay&rehype=video"
+  }
+]

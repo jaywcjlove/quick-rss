@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "396",
+            "content_html": "<p>作为 Docker Desktop 的替代品，用于管理容器、本地模型与 Kubernetes 集群</p>\n<img alt=\"Orchard\" src=\"https://github.com/user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/396\" target=\"_blank\">#396</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/396.html",
+            "title": "Orchard：Apple Containers、MLX 与 k8s 的图形界面",
+            "summary": "作为 Docker Desktop 的替代品，用于管理容器、本地模型与 Kubernetes 集群",
+            "image": "https://github.com/user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf",
+            "date_modified": "2026-08-31T12:28:40.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "394",
             "content_html": "<p>基于 Three.js 与 React Three Fiber 开发，可以排布场景、调整角色姿态、在时间轴上编排动作提示词，并预览生成的动作效果</p>\n<p>全部都在本地工作空间内完成</p>\n<img alt=\"CozyClay\" src=\"https://github.com/user-attachments/assets/32781fa3-21eb-440c-9c05-7cee33e560a5\">\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/76602b0f-b396-43c3-87b9-d4d1fae6f7f2?title=CozyClay&#x26;rehype=video\"></video><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/394\" target=\"_blank\">#394</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/394.html",

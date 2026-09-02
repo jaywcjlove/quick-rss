@@ -13,6 +13,12 @@ Changelog
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/deskmark/releases/tag/v3.0.0)
+
+1. feat: add support for MCP stdio mode. 
+2. perf: Optimized feed refresh speed.
+3. chore: update MCP icon. 
+
 ## [v2.9.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.9.0)
 
 1. fix: resolve conflict between manual light‑dark theme toggle and system theme mode

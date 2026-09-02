@@ -13,6 +13,12 @@
   <img src="https://jaywcjlove.github.io/sb/download/appstore.svg" alt="Quick RSS for iOS" height="51">
 </a>
 
+## [v3.0.0](https://github.com/jaywcjlove/deskmark/releases/tag/v3.0.0)
+
+1. feat: 添加 MCP stdio 模式支持
+2. perf: 优化订阅源刷新
+3. chore: 更新 MCP 图标
+
 ## [v2.9.0](https://github.com/jaywcjlove/deskmark/releases/tag/v2.9.0)
 
 1. fix: 修复手动切换明暗主题与系统明暗主题切换冲突

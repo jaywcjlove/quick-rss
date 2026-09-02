@@ -96,6 +96,23 @@ url = "http://127.0.0.1:8745/mcp?token=OBJkho_MKa7kd1CJNZDLY3Jh"
 enabled = true
 ```
 
+或者：
+
+```ini
+[mcp_servers.quickrss]
+url = "http://127.0.0.1:8745/mcp"
+headers = { "Authorization" = "Bearer ${QUICKRSS_MCP_TOKEN}" }
+```
+
+或者：
+
+```ini
+[mcp_servers.quickrss]
+command = "/Applications/QuickRSS.app/Contents/MacOS/QuickRSS"
+args = ["--mcp"]
+enabled = true
+```
+
 ### 测试 MCP 连接
 
 在启用 Quick RSS 连接器的 Grok 对话中发送以下提示词：

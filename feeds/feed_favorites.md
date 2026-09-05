@@ -705,5 +705,13 @@ An iOS blog
 https://swiftlogic.io/feed.xml
 ```
 
+### [AI Weekly](https://aiweekly.co/)
+
+Discover what AI experts are reading and sharing right now, with new editions three times a week.
+
+```
+https://aiweekly.co/feed
+```
+
 
 <!--RSS_FAVORITES_LIST_END-->

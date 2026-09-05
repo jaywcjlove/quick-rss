@@ -706,4 +706,12 @@ https://swiftlogic.io/feed.xml
 ```
 
 
+### [AI Weekly](https://aiweekly.co/)
+
+了解 AI 专家正在阅读和分享的内容，每周更新三次。
+
+```
+https://aiweekly.co/feed
+```
+
 <!--RSS_FAVORITES_LIST_END-->

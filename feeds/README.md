@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [用了移动十几年，我终于把 99 元套餐改成了 8 元保号，我苦移动久矣！](https://wangchujiang.com/quick-rss/issue/398.html) 
+
+![](https://github.com/user-attachments/assets/fc9d065e-f63b-499b-a26a-04c719b865f7)
+
+用了移动十几年，我突然发现自己可能一直是个“大冤种”。 我每个月 99 元套餐，只有 30G 流量。 其中还有 10G 是上个月结转的。 最离谱的是，我看到系统显示上个月用了 10G，于是特意去查了一下。 结果发现自己省吃俭用，一个月实际上只用了 5.52GB。 我打电话问客服，也没问出什么结果。 于是想换个便宜套餐。 客服告诉我： 没有。 不过最近有个活动： 49 元，30G，一年优惠。 一年以 ([#398](https://github.com/jaywcjlove/quick-rss/issues/398) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Orchard：Apple Containers、MLX 与 k8s 的图形界面](https://wangchujiang.com/quick-rss/issue/396.html) 
 
 ![](https://github.com/user-attachments/assets/de779f31-6701-421e-ad1e-a35da8acf0bf)

@@ -96,5 +96,6 @@
     <outline text="Xojo Programming Blog" title="Xojo Programming Blog" xmlUrl="https://blog.xojo.com/feed/" htmlUrl="https://blog.xojo.com" description="Blog about the Xojo programming language and IDE" type="rss" />
     <outline text="Osas Blogs" title="Osas Blogs" xmlUrl="https://swiftlogic.io/feed.xml" htmlUrl="https://swiftlogic.io/feed.xml" description="An iOS blog" type="rss" />
     <outline text="AI Weekly" title="AI Weekly" xmlUrl="https://aiweekly.co/feed" htmlUrl="https://aiweekly.co/" description="Discover what AI experts are reading and sharing right now, with new editions three times a week." type="rss" />
+    <outline text="LIZHENG.BLOG" title="LIZHENG.BLOG" xmlUrl="https://lizheng.blog/feed.xml" htmlUrl="https://lizheng.blog" description="Personal blog of Zheng Li about software architecture, AI-era engineering leadership, team culture, and personal productivity systems." type="rss" />
   </body>
 </opml>

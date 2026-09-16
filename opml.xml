@@ -95,5 +95,6 @@
     <outline text="Stories by Jakir Hossain on Medium" title="Stories by Jakir Hossain on Medium" xmlUrl="https://medium.com/feed/@jakir" htmlUrl="https://medium.com/@jakir?source=rss-3ef993a5539a------2" description="Stories by Jakir Hossain on Medium" type="rss" />
     <outline text="Xojo Programming Blog" title="Xojo Programming Blog" xmlUrl="https://blog.xojo.com/feed/" htmlUrl="https://blog.xojo.com" description="Blog about the Xojo programming language and IDE" type="rss" />
     <outline text="Osas Blogs" title="Osas Blogs" xmlUrl="https://swiftlogic.io/feed.xml" htmlUrl="https://swiftlogic.io/feed.xml" description="An iOS blog" type="rss" />
+    <outline text="AI Weekly" title="AI Weekly" xmlUrl="https://aiweekly.co/feed" htmlUrl="https://aiweekly.co/" description="Discover what AI experts are reading and sharing right now, with new editions three times a week." type="rss" />
   </body>
 </opml>

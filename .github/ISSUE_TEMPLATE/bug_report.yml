@@ -32,13 +32,22 @@ body:
   - type: dropdown
     id: os_version
     attributes:
-      label: "💻 Desktop"
-      description: Your operating system and version.
+      label: "💻 Operating System"
+      description: "Select your operating system and version."
       options:
-        - macOS 15.0 (Sequoia)
-        - macOS 14.0 (Sonoma)
-        - iOS 18.0
-        - iOS 17.0
+        - macOS 27.x (Tahoe)
+        - macOS 26.x (Tahoe)
+        - macOS 15.x (Sequoia)
+        - macOS 14.x (Sonoma)
+        - macOS 13.x (Ventura)
+        - macOS 12.x (Monterey)
+        - iOS 26.x
+        - iOS 18.x
+        - iOS 17.x
+        - iPadOS 26.x
+        - iPadOS 18.x
+        - iPadOS 17.x
+        - Other
       default: 0
     validations:
       required: true

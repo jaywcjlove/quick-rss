@@ -39,8 +39,6 @@ body:
         - macOS 26.x (Tahoe)
         - macOS 15.x (Sequoia)
         - macOS 14.x (Sonoma)
-        - macOS 13.x (Ventura)
-        - macOS 12.x (Monterey)
         - iOS 26.x
         - iOS 18.x
         - iOS 17.x

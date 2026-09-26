@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-09-08T07:16:23.810Z</updated>
+    <updated>2026-09-26T07:46:43.042Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,38 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[PinAtlas：通用芯片引脚查询与可视化工具]]></title>
+        <id>405</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/405.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/f425a7a9-114d-4dd7-a83b-630196d155c5" type="image//user-attachments/assets/f425a7a9-114d-4dd7-a83b-630196d155c5"/>
+        <updated>2026-09-26T05:15:19.000Z</updated>
+        <summary type="html"><![CDATA[PinAtlas 是一个开源的通用芯片引脚查询与可视化工具，输入芯片型号即可查看封装引脚图，点击引脚可查看复用功能与 AF 号。项目目标是通用，不限于 STM32，后续计划支持 ESP32 / RP2040 / GD32 / CH32，前端只依赖统一 JSON 契约，不做厂商判断。 核心亮点： 数据规模：2781 个型号 / 27 个家族分片，前端按需拉取，首屏仅加载 9 KB 清单 + 当前家族]]></summary>
+        <content type="html"><![CDATA[<p>PinAtlas 是一个开源的通用芯片引脚查询与可视化工具，输入芯片型号即可查看封装引脚图，点击引脚可查看复用功能与 AF 号。项目目标是通用，不限于 STM32，后续计划支持 ESP32 / RP2040 / GD32 / CH32，前端只依赖统一 JSON 契约，不做厂商判断。</p>
+<img alt="Image" src="https://github.com/user-attachments/assets/f425a7a9-114d-4dd7-a83b-630196d155c5">
+<p>核心亮点：</p>
+<p>数据规模：2781 个型号 / 27 个家族分片，前端按需拉取，首屏仅加载 9 KB 清单 + 当前家族分片</p>
+<p>封装引脚图：SVG 绘制，支持 quad（QFP/QFN）、dual（SOP/TSSOP）、grid（BGA/WLCSP）三套布局；字号由几何反推，密脚封装（如 LQFP208）也不会压叠</p>
+<p>交互体验：悬停看 pad 名与前 3 个功能、点击选中、键盘 Tab 聚焦 + Enter/Space 选中</p>
+<p>过滤与高亮：支持 GND / 5V / 3V3 / GPIO / UART / I2C / QSPI / I2S / JTAG / PDM / PWM 等功能类别高亮，带匹配计数</p>
+<p>引脚详情：主名/别名/重映射标注、变体切换、按外设分组的复用功能 + AF 号</p>
+<p>其他：状态进 URL 可分享、深浅主题、PWA 离线</p>
+<p>技术栈：Nuxt 4.5 + Vue 3.5 + TypeScript、Tailwind v4 + shadcn-vue、Pinia、@vite-pwa/nuxt</p>
+<p>数据来源：主源 LibrePCB/stm-db，AF 号由 embassy-rs/stm32-data-generated 补全；上游数据源自 ST 官方文档，版权归 STMicroelectronics。代码 MIT 许可。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/405" target="_blank">#405</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/ryanuo" target="_blank">@ryanuo</a>
+      ]]></content>
+        <author>
+            <name>ryanuo</name>
+            <uri>https://avatars.githubusercontent.com/u/66169324?v=4</uri>
+        </author>
+        <contributor>
+            <name>ryanuo</name>
+            <uri>https://avatars.githubusercontent.com/u/66169324?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用了移动十几年，我终于把 99 元套餐改成了 8 元保号，我苦移动久矣！]]></title>
         <id>398</id>

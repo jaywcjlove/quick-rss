@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [PinAtlas：通用芯片引脚查询与可视化工具](https://wangchujiang.com/quick-rss/issue/405.html) 
+
+![](https://github.com/user-attachments/assets/f425a7a9-114d-4dd7-a83b-630196d155c5)
+
+PinAtlas 是一个开源的通用芯片引脚查询与可视化工具，输入芯片型号即可查看封装引脚图，点击引脚可查看复用功能与 AF 号。项目目标是通用，不限于 STM32，后续计划支持 ESP32 / RP2040 / GD32 / CH32，前端只依赖统一 JSON 契约，不做厂商判断。 核心亮点： 数据规模：2781 个型号 / 27 个家族分片，前端按需拉取，首屏仅加载 9 KB 清单 + 当前家族 ([#405](https://github.com/jaywcjlove/quick-rss/issues/405) - [@ryanuo](https://github.com/ryanuo))
 ## [用了移动十几年，我终于把 99 元套餐改成了 8 元保号，我苦移动久矣！](https://wangchujiang.com/quick-rss/issue/398.html) 
 
 ![](https://github.com/user-attachments/assets/fc9d065e-f63b-499b-a26a-04c719b865f7)

@@ -16,6 +16,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://github.com/user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab)
 
 作者自荐：Beav 是本地优先的 AI 社媒创作工作台，适合同时运营小红书或多个社交账号的人。 按账号/品牌建立独立空间，整理素材、稿件和长期偏好；采集公开笔记、评论作为参考；让 AI 检索、引用已有知识与资产；复用含文字变量和参考图的模板，为不同选题制作图文。它的素材库可理解为面向社媒创作、供 AI 使用的 Eagle 式工作台，并提供 Beav Creator / MCP 接入说明。 公开仓库 ([#413](https://github.com/jaywcjlove/quick-rss/issues/413) - [@Jamailar](https://github.com/Jamailar))
+## [ScrollShot: 目前 iOS 上可能是实力颜值最当担的长截图应用](https://wangchujiang.com/quick-rss/issue/410.html) 
+
+![](https://github.com/user-attachments/assets/78fa4d38-6d17-47e4-8661-4933fa72e29f)
+
+软件名称 ScrollShot - 滚动截图 &#x26; 拼接长图 应用平台 iOS 16或以上版本 应用介绍 大家好，我是ScrollShot的开发者。给大家带来了我新开发的app ScrollShot: 它采用先进的视频抽帧与视觉识别算法，为您带来 iOS 原生般的滚动截图体验。 只需录制一段屏幕，剩下的交给 ScrollShot 自动完成，瞬间生成像素级完美的超长图。 主要功能 ■ 核心功 ([#410](https://github.com/jaywcjlove/quick-rss/issues/410) - [@willard-yuan](https://github.com/willard-yuan))
 ## [PinAtlas：通用芯片引脚查询与可视化工具](https://wangchujiang.com/quick-rss/issue/405.html) 
 
 ![](https://github.com/user-attachments/assets/f425a7a9-114d-4dd7-a83b-630196d155c5)

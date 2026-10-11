@@ -1,5 +1,19 @@
 [
   {
+    "id": "414",
+    "url": "https://wangchujiang.com/quick-rss/issue/414.html",
+    "title": "Tabularis - 开源桌面 SQL 工作区，内置 3 种数据库驱动",
+    "content_html": "<img alt=\"Tabularis\" src=\"https://github.com/user-attachments/assets/4c9a1708-0e31-44c6-99d6-fbfecdc9cf27\">\n<p>开源桌面 SQL 工作区，内置 3 种数据库驱动，附带 16 个预装插件，支持 SQL Server、DuckDB、ClickHouse 以及 Redis</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/c13bd72d-a75d-4cdc-a29c-fb8ebb5b7ae8?title=Tabularis&#x26;rehype=video\"></video>\n<p>内置 MCP 服务器，可对接 Claude、Cursor、Devin；支持 SQL 笔记本与可视化执行计划</p>",
+    "summary": "开源桌面 SQL 工作区，内置 3 种数据库驱动，附带 16 个预装插件，支持 SQL Server、DuckDB、ClickHouse 以及 Redis https://github.com/user-attachments/assets/c13bd72d-a75d-4cdc-a29c-fb8ebb5b7ae8?title=Tabularis&rehype=video 内置 MCP 服务器，可对",
+    "banner_image": null,
+    "date_published": "2026-10-11T08:32:46Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "<img alt=\"Tabularis\" src=\"https://github.com/user-attachments/assets/4c9a1708-0e31-44c6-99d6-fbfecdc9cf27\" />\n\n开源桌面 SQL 工作区，内置 3 种数据库驱动，附带 16 个预装插件，支持 SQL Server、DuckDB、ClickHouse 以及 Redis\n\nhttps://github.com/user-attachments/assets/c13bd72d-a75d-4cdc-a29c-fb8ebb5b7ae8?title=Tabularis&rehype=video\n\n内置 MCP 服务器，可对接 Claude、Cursor、Devin；支持 SQL 笔记本与可视化执行计划"
+  },
+  {
     "id": "413",
     "url": "https://wangchujiang.com/quick-rss/issue/413.html",
     "title": "Beav：多账号社媒创作与 AI 素材库",

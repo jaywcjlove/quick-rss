@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "414",
+            "content_html": "<img alt=\"Tabularis\" src=\"https://github.com/user-attachments/assets/4c9a1708-0e31-44c6-99d6-fbfecdc9cf27\">\n<p>开源桌面 SQL 工作区，内置 3 种数据库驱动，附带 16 个预装插件，支持 SQL Server、DuckDB、ClickHouse 以及 Redis</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/c13bd72d-a75d-4cdc-a29c-fb8ebb5b7ae8?title=Tabularis&#x26;rehype=video\"></video>\n<p>内置 MCP 服务器，可对接 Claude、Cursor、Devin；支持 SQL 笔记本与可视化执行计划</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/414\" target=\"_blank\">#414</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/414.html",
+            "title": "Tabularis - 开源桌面 SQL 工作区，内置 3 种数据库驱动",
+            "summary": "开源桌面 SQL 工作区，内置 3 种数据库驱动，附带 16 个预装插件，支持 SQL Server、DuckDB、ClickHouse 以及 Redis 内置 MCP 服务器，可对接 Claude、Cursor、Devin；支持 SQL 笔记本与可视化执行计划",
+            "image": "https://github.com/user-attachments/assets/4c9a1708-0e31-44c6-99d6-fbfecdc9cf27",
+            "date_modified": "2026-10-11T08:32:46.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "413",
             "content_html": "<p>作者自荐：Beav 是本地优先的 AI 社媒创作工作台，适合同时运营小红书或多个社交账号的人。</p>\n<img alt=\"Beav\" src=\"https://github.com/user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab\">\n<p>按账号/品牌建立独立空间，整理素材、稿件和长期偏好；采集公开笔记、评论作为参考；让 AI 检索、引用已有知识与资产；复用含文字变量和参考图的模板，为不同选题制作图文。它的素材库可理解为面向社媒创作、供 AI 使用的 Eagle 式工作台，并提供 Beav Creator / MCP 接入说明。</p>\n<p>公开仓库是 Tauri + Rust 的 2.5.0 源码快照，采用 Beav Source-Available 非商业许可，非标准 MIT / OSI 开源许可。README 也介绍持续更新的正式产品，功能进度与源码快照不同，请以版本说明和 LICENSE 为准。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/413\" target=\"_blank\">#413</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/Jamailar\" target=\"_blank\">@Jamailar</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/413.html",

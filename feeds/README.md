@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Tabularis - 开源桌面 SQL 工作区，内置 3 种数据库驱动](https://wangchujiang.com/quick-rss/issue/414.html) 
+
+![](https://github.com/user-attachments/assets/4c9a1708-0e31-44c6-99d6-fbfecdc9cf27)
+
+开源桌面 SQL 工作区，内置 3 种数据库驱动，附带 16 个预装插件，支持 SQL Server、DuckDB、ClickHouse 以及 Redis 内置 MCP 服务器，可对接 Claude、Cursor、Devin；支持 SQL 笔记本与可视化执行计划 ([#414](https://github.com/jaywcjlove/quick-rss/issues/414) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Beav：多账号社媒创作与 AI 素材库](https://wangchujiang.com/quick-rss/issue/413.html) 
 
 ![](https://github.com/user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab)

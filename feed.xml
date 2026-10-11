@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-09-26T07:46:43.042Z</updated>
+    <updated>2026-10-11T08:25:55.015Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Beav：多账号社媒创作与 AI 素材库]]></title>
+        <id>413</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/413.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab" type="image//user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab"/>
+        <updated>2026-10-11T07:52:48.000Z</updated>
+        <summary type="html"><![CDATA[作者自荐：Beav 是本地优先的 AI 社媒创作工作台，适合同时运营小红书或多个社交账号的人。 按账号/品牌建立独立空间，整理素材、稿件和长期偏好；采集公开笔记、评论作为参考；让 AI 检索、引用已有知识与资产；复用含文字变量和参考图的模板，为不同选题制作图文。它的素材库可理解为面向社媒创作、供 AI 使用的 Eagle 式工作台，并提供 Beav Creator / MCP 接入说明。 公开仓库]]></summary>
+        <content type="html"><![CDATA[<p>作者自荐：Beav 是本地优先的 AI 社媒创作工作台，适合同时运营小红书或多个社交账号的人。</p>
+<img alt="Beav" src="https://github.com/user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab">
+<p>按账号/品牌建立独立空间，整理素材、稿件和长期偏好；采集公开笔记、评论作为参考；让 AI 检索、引用已有知识与资产；复用含文字变量和参考图的模板，为不同选题制作图文。它的素材库可理解为面向社媒创作、供 AI 使用的 Eagle 式工作台，并提供 Beav Creator / MCP 接入说明。</p>
+<p>公开仓库是 Tauri + Rust 的 2.5.0 源码快照，采用 Beav Source-Available 非商业许可，非标准 MIT / OSI 开源许可。README 也介绍持续更新的正式产品，功能进度与源码快照不同，请以版本说明和 LICENSE 为准。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/413" target="_blank">#413</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/Jamailar" target="_blank">@Jamailar</a>
+      ]]></content>
+        <author>
+            <name>Jamailar</name>
+            <uri>https://avatars.githubusercontent.com/u/161683436?v=4</uri>
+        </author>
+        <contributor>
+            <name>Jamailar</name>
+            <uri>https://avatars.githubusercontent.com/u/161683436?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PinAtlas：通用芯片引脚查询与可视化工具]]></title>
         <id>405</id>

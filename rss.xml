@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Sat, 26 Sep 2026 07:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 08:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beav：多账号社媒创作与 AI 素材库]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/413.html</link>
+            <guid isPermaLink="false">413</guid>
+            <pubDate>Sun, 11 Oct 2026 07:52:48 GMT</pubDate>
+            <description><![CDATA[作者自荐：Beav 是本地优先的 AI 社媒创作工作台，适合同时运营小红书或多个社交账号的人。 按账号/品牌建立独立空间，整理素材、稿件和长期偏好；采集公开笔记、评论作为参考；让 AI 检索、引用已有知识与资产；复用含文字变量和参考图的模板，为不同选题制作图文。它的素材库可理解为面向社媒创作、供 AI 使用的 Eagle 式工作台，并提供 Beav Creator / MCP 接入说明。 公开仓库]]></description>
+            <content:encoded><![CDATA[<p>作者自荐：Beav 是本地优先的 AI 社媒创作工作台，适合同时运营小红书或多个社交账号的人。</p>
+<img alt="Beav" src="https://github.com/user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab">
+<p>按账号/品牌建立独立空间，整理素材、稿件和长期偏好；采集公开笔记、评论作为参考；让 AI 检索、引用已有知识与资产；复用含文字变量和参考图的模板，为不同选题制作图文。它的素材库可理解为面向社媒创作、供 AI 使用的 Eagle 式工作台，并提供 Beav Creator / MCP 接入说明。</p>
+<p>公开仓库是 Tauri + Rust 的 2.5.0 源码快照，采用 Beav Source-Available 非商业许可，非标准 MIT / OSI 开源许可。README 也介绍持续更新的正式产品，功能进度与源码快照不同，请以版本说明和 LICENSE 为准。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/413" target="_blank">#413</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/Jamailar" target="_blank">@Jamailar</a>
+      ]]></content:encoded>
+            <author>Jamailar</author>
+            <enclosure url="https://github.com/user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab" length="0" type="image//user-attachments/assets/5b9896a2-3c90-4124-88b4-f732195086ab"/>
+        </item>
         <item>
             <title><![CDATA[PinAtlas：通用芯片引脚查询与可视化工具]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/405.html</link>

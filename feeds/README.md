@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [FinderSearch - 原生 Mac 文件浏览器：快速模糊匹配文件名搜索、浏览文件夹和预览文件](https://wangchujiang.com/quick-rss/issue/419.html) 
+
+![](https://github.com/user-attachments/assets/ecf9fc2f-5c2d-45b1-a496-e623a44f9df8)
+
+一款原生 Mac 文件浏览器，支持快速模糊的文件名搜索；可在熟悉的 macOS 界面中浏览文件夹、预览文件并管理文件。 ([#419](https://github.com/jaywcjlove/quick-rss/issues/419) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [jev-chat-jarvis-mac：macOS 聊天悬浮窗助手](https://wangchujiang.com/quick-rss/issue/416.html) 
 
 ![](https://github.com/user-attachments/assets/d7a83276-21b9-4e2e-921e-7b079b831ab7)

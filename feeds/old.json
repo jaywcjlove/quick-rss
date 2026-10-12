@@ -1,5 +1,19 @@
 [
   {
+    "id": "419",
+    "url": "https://wangchujiang.com/quick-rss/issue/419.html",
+    "title": "FinderSearch - 原生 Mac 文件浏览器：快速模糊匹配文件名搜索、浏览文件夹和预览文件",
+    "content_html": "<p>一款原生 Mac 文件浏览器，支持快速模糊的文件名搜索；可在熟悉的 macOS 界面中浏览文件夹、预览文件并管理文件。</p>\n<img alt=\"FinderSearch\" src=\"https://github.com/user-attachments/assets/ecf9fc2f-5c2d-45b1-a496-e623a44f9df8\">",
+    "summary": "一款原生 Mac 文件浏览器，支持快速模糊的文件名搜索；可在熟悉的 macOS 界面中浏览文件夹、预览文件并管理文件。",
+    "banner_image": null,
+    "date_published": "2026-10-12T12:57:46Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "一款原生 Mac 文件浏览器，支持快速模糊的文件名搜索；可在熟悉的 macOS 界面中浏览文件夹、预览文件并管理文件。\n\n<img alt=\"FinderSearch\" src=\"https://github.com/user-attachments/assets/ecf9fc2f-5c2d-45b1-a496-e623a44f9df8\" />"
+  },
+  {
     "id": "416",
     "url": "https://wangchujiang.com/quick-rss/issue/416.html",
     "title": "jev-chat-jarvis-mac：macOS 聊天悬浮窗助手",

@@ -24,6 +24,19 @@
             }
         },
         {
+            "id": "415",
+            "content_html": "<img alt=\"不烧心文学\" src=\"https://github.com/user-attachments/assets/d0ba2439-0f15-41bd-a6d5-98383129e7dd\">\n<p>bushaoxin（不烧心文学）：把红果短剧 AI\"良心掌柜\"的高同质化台词提炼成万能公式的 Claude Code Skill。装上后 AI 用\"贵是贵了点，但用了不烧心\"的规矩体写文案、评价事物、回怼、唠嗑，四档火候可调，喊\"太烧了\"自动降档。纯 prompt 零依赖，兼容 Claude Code / claude.ai / Codex，MIT 开源。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/415\" target=\"_blank\">#415</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/eatmoreduck\" target=\"_blank\">@eatmoreduck</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/415.html",
+            "title": "bushaoxin：万物皆可不烧心的 Claude Code Skill",
+            "summary": "bushaoxin（不烧心文学）：把红果短剧 AI\"良心掌柜\"的高同质化台词提炼成万能公式的 Claude Code Skill。装上后 AI 用\"贵是贵了点，但用了不烧心\"的规矩体写文案、评价事物、回怼、唠嗑，四档火候可调，喊\"太烧了\"自动降档。纯 prompt 零依赖，兼容 Claude Code / claude.ai / Codex，MIT 开源。",
+            "image": "https://github.com/user-attachments/assets/d0ba2439-0f15-41bd-a6d5-98383129e7dd",
+            "date_modified": "2026-10-12T11:06:49.000Z",
+            "author": {
+                "name": "eatmoreduck",
+                "url": "https://avatars.githubusercontent.com/u/21954802?v=4"
+            }
+        },
+        {
             "id": "414",
             "content_html": "<img alt=\"Tabularis\" src=\"https://github.com/user-attachments/assets/4c9a1708-0e31-44c6-99d6-fbfecdc9cf27\">\n<p>开源桌面 SQL 工作区，内置 3 种数据库驱动，附带 16 个预装插件，支持 SQL Server、DuckDB、ClickHouse 以及 Redis</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/c13bd72d-a75d-4cdc-a29c-fb8ebb5b7ae8?title=Tabularis&#x26;rehype=video\"></video>\n<p>内置 MCP 服务器，可对接 Claude、Cursor、Devin；支持 SQL 笔记本与可视化执行计划</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/414\" target=\"_blank\">#414</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/414.html",

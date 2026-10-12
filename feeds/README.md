@@ -16,6 +16,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://github.com/user-attachments/assets/d7a83276-21b9-4e2e-921e-7b079b831ab7)
 
 macOS 聊天悬浮窗助手。对方消息一进来，悬浮窗立刻给出真实意图（8 类零样本 86.4%）、风险分级（0-9）和候选回复，点「填入」进输入框，发送永远手动。纯只读（截图 + OCR / 系统文本接口，不注入不 hook 不解密数据库），判断层本地 2B 小模型可完全离线，生成层支持 DeepSeek / 智谱 / Ollama。MIT 开源，仅支持 Apple Silicon + macOS  ([#416](https://github.com/jaywcjlove/quick-rss/issues/416) - [@eatmoreduck](https://github.com/eatmoreduck))
+## [bushaoxin：万物皆可不烧心的 Claude Code Skill](https://wangchujiang.com/quick-rss/issue/415.html) 
+
+![](https://github.com/user-attachments/assets/d0ba2439-0f15-41bd-a6d5-98383129e7dd)
+
+bushaoxin（不烧心文学）：把红果短剧 AI"良心掌柜"的高同质化台词提炼成万能公式的 Claude Code Skill。装上后 AI 用"贵是贵了点，但用了不烧心"的规矩体写文案、评价事物、回怼、唠嗑，四档火候可调，喊"太烧了"自动降档。纯 prompt 零依赖，兼容 Claude Code / claude.ai / Codex，MIT 开源。 ([#415](https://github.com/jaywcjlove/quick-rss/issues/415) - [@eatmoreduck](https://github.com/eatmoreduck))
 ## [Tabularis - 开源桌面 SQL 工作区，内置 3 种数据库驱动](https://wangchujiang.com/quick-rss/issue/414.html) 
 
 ![](https://github.com/user-attachments/assets/4c9a1708-0e31-44c6-99d6-fbfecdc9cf27)

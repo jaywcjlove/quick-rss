@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [jev-chat-jarvis-mac：macOS 聊天悬浮窗助手](https://wangchujiang.com/quick-rss/issue/416.html) 
+
+![](https://github.com/user-attachments/assets/d7a83276-21b9-4e2e-921e-7b079b831ab7)
+
+macOS 聊天悬浮窗助手。对方消息一进来，悬浮窗立刻给出真实意图（8 类零样本 86.4%）、风险分级（0-9）和候选回复，点「填入」进输入框，发送永远手动。纯只读（截图 + OCR / 系统文本接口，不注入不 hook 不解密数据库），判断层本地 2B 小模型可完全离线，生成层支持 DeepSeek / 智谱 / Ollama。MIT 开源，仅支持 Apple Silicon + macOS  ([#416](https://github.com/jaywcjlove/quick-rss/issues/416) - [@eatmoreduck](https://github.com/eatmoreduck))
 ## [Tabularis - 开源桌面 SQL 工作区，内置 3 种数据库驱动](https://wangchujiang.com/quick-rss/issue/414.html) 
 
 ![](https://github.com/user-attachments/assets/4c9a1708-0e31-44c6-99d6-fbfecdc9cf27)

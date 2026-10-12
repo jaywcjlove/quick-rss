@@ -1,5 +1,19 @@
 [
   {
+    "id": "416",
+    "url": "https://wangchujiang.com/quick-rss/issue/416.html",
+    "title": "jev-chat-jarvis-mac：macOS 聊天悬浮窗助手",
+    "content_html": "<img alt=\"jev-chat-jarvis-mac\" src=\"https://github.com/user-attachments/assets/d7a83276-21b9-4e2e-921e-7b079b831ab7\">\n<p>macOS 聊天悬浮窗助手。对方消息一进来，悬浮窗立刻给出真实意图（8 类零样本 86.4%）、风险分级（0-9）和候选回复，点「填入」进输入框，发送永远手动。纯只读（截图 + OCR / 系统文本接口，不注入不 hook 不解密数据库），判断层本地 2B 小模型可完全离线，生成层支持 DeepSeek / 智谱 / Ollama。MIT 开源，仅支持 Apple Silicon + macOS 13+。</p>\n<video muted controls style=\"max-height:640px;\" src=\"https://github.com/user-attachments/assets/e4256c0e-05c4-4716-99a0-6b6cd21ebbfe?title=Tabularis&#x26;rehype=video\"></video>",
+    "summary": "macOS 聊天悬浮窗助手。对方消息一进来，悬浮窗立刻给出真实意图（8 类零样本 86.4%）、风险分级（0-9）和候选回复，点「填入」进输入框，发送永远手动。纯只读（截图 + OCR / 系统文本接口，不注入不 hook 不解密数据库），判断层本地 2B 小模型可完全离线，生成层支持 DeepSeek / 智谱 / Ollama。MIT 开源，仅支持 Apple Silicon + macOS ",
+    "banner_image": null,
+    "date_published": "2026-10-12T11:15:31Z",
+    "author": {
+      "name": "eatmoreduck",
+      "link": "https://avatars.githubusercontent.com/u/21954802?v=4"
+    },
+    "markdownContent": "<img alt=\"jev-chat-jarvis-mac\" src=\"https://github.com/user-attachments/assets/d7a83276-21b9-4e2e-921e-7b079b831ab7\" />\n\nmacOS 聊天悬浮窗助手。对方消息一进来，悬浮窗立刻给出真实意图（8 类零样本 86.4%）、风险分级（0-9）和候选回复，点「填入」进输入框，发送永远手动。纯只读（截图 + OCR / 系统文本接口，不注入不 hook 不解密数据库），判断层本地 2B 小模型可完全离线，生成层支持 DeepSeek / 智谱 / Ollama。MIT 开源，仅支持 Apple Silicon + macOS 13+。\n\nhttps://github.com/user-attachments/assets/e4256c0e-05c4-4716-99a0-6b6cd21ebbfe?title=Tabularis&rehype=video"
+  },
+  {
     "id": "414",
     "url": "https://wangchujiang.com/quick-rss/issue/414.html",
     "title": "Tabularis - 开源桌面 SQL 工作区，内置 3 种数据库驱动",

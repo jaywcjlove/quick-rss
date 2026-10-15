@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [[投稿]香港住哪网站](https://wangchujiang.com/quick-rss/issue/425.html) 
+
+![](https://github.com/user-attachments/assets/b8587bda-ba42-48f4-93b8-4c756bc61cea)
+
+[投稿]香港住哪网站，个性化定制推荐香港社区 NestHK不仅帮您找到合适的公寓，更帮您找到理想的香港社区。输入您的预算、通勤方式和生活方式偏好，我们的AI会根据学校网络、噪音、空间和交通等实际维度对社区进行评分。我们会在一分钟内为您推荐最合适的区域和屋邨，所有数据均来自政府公开信息和已验证的交易记录。 ([#425](https://github.com/jaywcjlove/quick-rss/issues/425) - [@Robin2027](https://github.com/Robin2027))
 ## [FinderSearch - 原生 Mac 文件浏览器：快速模糊匹配文件名搜索、浏览文件夹和预览文件](https://wangchujiang.com/quick-rss/issue/419.html) 
 
 ![](https://github.com/user-attachments/assets/ecf9fc2f-5c2d-45b1-a496-e623a44f9df8)

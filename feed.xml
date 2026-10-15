@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-10-15T13:51:05.231Z</updated>
+    <updated>2026-10-15T13:52:49.040Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -37,6 +37,30 @@ NestHK不仅帮您找到合适的公寓，更帮您找到理想的香港社区�
         <contributor>
             <name>Robin2027</name>
             <uri>https://avatars.githubusercontent.com/u/323939058?v=4</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Color Genius：拖 RGB 滑块还原颜色的色感测试游戏]]></title>
+        <id>424</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/424.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/8322cea2-2ee1-495a-8a21-c3fd3c864aab" type="image//user-attachments/assets/8322cea2-2ee1-495a-8a21-c3fd3c864aab"/>
+        <updated>2026-10-13T06:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Color Genius 是一个测色感的网页小游戏：屏幕给出一个颜色，你拖 RGB 滑块还原它，越接近分越高。有多个难度，成绩可以上全球排行榜。免费、免注册，手机和电脑都能玩，适合设计师和前端练眼力。 关联说明：项目方自荐，我是作者。]]></summary>
+        <content type="html"><![CDATA[<img alt="Color Genius" src="https://github.com/user-attachments/assets/8322cea2-2ee1-495a-8a21-c3fd3c864aab">
+<p>Color Genius 是一个测色感的网页小游戏：屏幕给出一个颜色，你拖 RGB 滑块还原它，越接近分越高。有多个难度，成绩可以上全球排行榜。免费、免注册，手机和电脑都能玩，适合设计师和前端练眼力。</p>
+<p>关联说明：项目方自荐，我是作者。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/424" target="_blank">#424</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/sweesama" target="_blank">@sweesama</a>
+      ]]></content>
+        <author>
+            <name>sweesama</name>
+            <uri>https://avatars.githubusercontent.com/u/109814964?v=4</uri>
+        </author>
+        <contributor>
+            <name>sweesama</name>
+            <uri>https://avatars.githubusercontent.com/u/109814964?v=4</uri>
         </contributor>
     </entry>
     <entry>

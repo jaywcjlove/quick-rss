@@ -14,6 +14,20 @@
     "markdownContent": "<img alt=\"香港住哪网站\" src=\"https://github.com/user-attachments/assets/b8587bda-ba42-48f4-93b8-4c756bc61cea\" />\n\n[投稿]香港住哪网站，个性化定制推荐香港社区\nNestHK不仅帮您找到合适的公寓，更帮您找到理想的香港社区。输入您的预算、通勤方式和生活方式偏好，我们的AI会根据学校网络、噪音、空间和交通等实际维度对社区进行评分。我们会在一分钟内为您推荐最合适的区域和屋邨，所有数据均来自政府公开信息和已验证的交易记录。"
   },
   {
+    "id": "424",
+    "url": "https://wangchujiang.com/quick-rss/issue/424.html",
+    "title": "Color Genius：拖 RGB 滑块还原颜色的色感测试游戏",
+    "content_html": "<img alt=\"Color Genius\" src=\"https://github.com/user-attachments/assets/8322cea2-2ee1-495a-8a21-c3fd3c864aab\">\n<p>Color Genius 是一个测色感的网页小游戏：屏幕给出一个颜色，你拖 RGB 滑块还原它，越接近分越高。有多个难度，成绩可以上全球排行榜。免费、免注册，手机和电脑都能玩，适合设计师和前端练眼力。</p>\n<p>关联说明：项目方自荐，我是作者。</p>",
+    "summary": "Color Genius 是一个测色感的网页小游戏：屏幕给出一个颜色，你拖 RGB 滑块还原它，越接近分越高。有多个难度，成绩可以上全球排行榜。免费、免注册，手机和电脑都能玩，适合设计师和前端练眼力。 关联说明：项目方自荐，我是作者。",
+    "banner_image": null,
+    "date_published": "2026-10-13T06:39:16Z",
+    "author": {
+      "name": "sweesama",
+      "link": "https://avatars.githubusercontent.com/u/109814964?v=4"
+    },
+    "markdownContent": "<img  alt=\"Color Genius\" src=\"https://github.com/user-attachments/assets/8322cea2-2ee1-495a-8a21-c3fd3c864aab\" />\n\nColor Genius 是一个测色感的网页小游戏：屏幕给出一个颜色，你拖 RGB 滑块还原它，越接近分越高。有多个难度，成绩可以上全球排行榜。免费、免注册，手机和电脑都能玩，适合设计师和前端练眼力。\n\n关联说明：项目方自荐，我是作者。"
+  },
+  {
     "id": "419",
     "url": "https://wangchujiang.com/quick-rss/issue/419.html",
     "title": "FinderSearch - 原生 Mac 文件浏览器：快速模糊匹配文件名搜索、浏览文件夹和预览文件",

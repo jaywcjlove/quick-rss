@@ -16,6 +16,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://github.com/user-attachments/assets/b8587bda-ba42-48f4-93b8-4c756bc61cea)
 
 [投稿]香港住哪网站，个性化定制推荐香港社区 NestHK不仅帮您找到合适的公寓，更帮您找到理想的香港社区。输入您的预算、通勤方式和生活方式偏好，我们的AI会根据学校网络、噪音、空间和交通等实际维度对社区进行评分。我们会在一分钟内为您推荐最合适的区域和屋邨，所有数据均来自政府公开信息和已验证的交易记录。 ([#425](https://github.com/jaywcjlove/quick-rss/issues/425) - [@Robin2027](https://github.com/Robin2027))
+## [Color Genius：拖 RGB 滑块还原颜色的色感测试游戏](https://wangchujiang.com/quick-rss/issue/424.html) 
+
+![](https://github.com/user-attachments/assets/8322cea2-2ee1-495a-8a21-c3fd3c864aab)
+
+Color Genius 是一个测色感的网页小游戏：屏幕给出一个颜色，你拖 RGB 滑块还原它，越接近分越高。有多个难度，成绩可以上全球排行榜。免费、免注册，手机和电脑都能玩，适合设计师和前端练眼力。 关联说明：项目方自荐，我是作者。 ([#424](https://github.com/jaywcjlove/quick-rss/issues/424) - [@sweesama](https://github.com/sweesama))
 ## [FinderSearch - 原生 Mac 文件浏览器：快速模糊匹配文件名搜索、浏览文件夹和预览文件](https://wangchujiang.com/quick-rss/issue/419.html) 
 
 ![](https://github.com/user-attachments/assets/ecf9fc2f-5c2d-45b1-a496-e623a44f9df8)

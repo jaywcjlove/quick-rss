@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-10-15T13:52:49.040Z</updated>
+    <updated>2026-10-25T12:39:11.016Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,27 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[KnowYourFaceShape：478 个面部关键点的浏览器端脸型检测器（照片不上传）]]></title>
+        <id>428</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/428.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81" type="image//user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81"/>
+        <updated>2026-10-19T11:14:55.000Z</updated>
+        <content type="html"><![CDATA[<img width="1235" height="898" alt="Image" src="https://github.com/user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/428" target="_blank">#428</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/TSjianjiao" target="_blank">@TSjianjiao</a>
+      ]]></content>
+        <author>
+            <name>TSjianjiao</name>
+            <uri>https://avatars.githubusercontent.com/u/26990655?v=4</uri>
+        </author>
+        <contributor>
+            <name>TSjianjiao</name>
+            <uri>https://avatars.githubusercontent.com/u/26990655?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[投稿]香港住哪网站]]></title>
         <id>425</id>

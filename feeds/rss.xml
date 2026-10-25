@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 15 Oct 2026 13:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 12:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,20 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KnowYourFaceShape：478 个面部关键点的浏览器端脸型检测器（照片不上传）]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/428.html</link>
+            <guid isPermaLink="false">428</guid>
+            <pubDate>Mon, 19 Oct 2026 11:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<img width="1235" height="898" alt="Image" src="https://github.com/user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/428" target="_blank">#428</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/TSjianjiao" target="_blank">@TSjianjiao</a>
+      ]]></content:encoded>
+            <author>TSjianjiao</author>
+            <enclosure url="https://github.com/user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81" length="0" type="image//user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81"/>
+        </item>
         <item>
             <title><![CDATA[[投稿]香港住哪网站]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/425.html</link>

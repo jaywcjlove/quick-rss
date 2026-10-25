@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [KnowYourFaceShape：478 个面部关键点的浏览器端脸型检测器（照片不上传）](https://wangchujiang.com/quick-rss/issue/428.html) 
+
+![](https://github.com/user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81)
+
+ ([#428](https://github.com/jaywcjlove/quick-rss/issues/428) - [@TSjianjiao](https://github.com/TSjianjiao))
 ## [[投稿]香港住哪网站](https://wangchujiang.com/quick-rss/issue/425.html) 
 
 ![](https://github.com/user-attachments/assets/b8587bda-ba42-48f4-93b8-4c756bc61cea)

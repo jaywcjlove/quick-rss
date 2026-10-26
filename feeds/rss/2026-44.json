@@ -26,5 +26,19 @@
       "link": "https://avatars.githubusercontent.com/u/19563988?v=4"
     },
     "markdownContent": "Mac 的盘是被「看不见的东西」吃掉的：Xcode 的 DerivedData、iOS 模拟器的旧设备、一个个项目目录里的\nnode_modules、Docker 的镜像与卷、还有卸载 App 之后留在家目录里的孤儿数据。CleanMyMac 那一类把它们\n打包成一句「一键优化」，你按下去之前不知道动了什么，按下去之后也没法整批反悔。\n\nMacSift、Purge、MangoDisk 都在补「看得见」这一半：先列出来、先预览、进废纸篓。\n**真正的区别不在能不能看见，而在两件更硬的事——敢不敢证明它归谁，以及删完能不能倒回去。**\n\n- **删只做一件事：挪进废纸篓**：整条链路上没有 `rm -rf`，代码里能把文件挪走的只有系统那个\n  `trashItem`；每次清理都留一条历史，可以按会话把整批原样放回原位。\n- **认不准归属就不列**：卸载残留要能指回那个已经装过的 App 才出现在列表里，\n  系统目录和说不清来路的目录进黑名单、根本不出现；重复文件按哈希分组，\n  最新的那一份锁住不动，避免把\"还在用\"判成\"可以删\"。\n- **专挑开发者的盘**：DerivedData、模拟器缓存、node_modules、Docker 镜像与卷、\n  brew/npm/pip/Gradle 缓存，以及长在项目目录里的模型缓存（ollama、whisper 那一类）。\n- **不联网、零遥测、无守护进程、不要管理员权限**：整包是几 MB 的通用 DMG，界面有十种语言。\n- **给 AI 编程工具留了入口**：仓库自带 MCP 服务器，Agent 能先读到每条缓存的来历，\n  再决定要不要删——而不是替人盲按那个「一键优化」。\n\n<img src=\"https://raw.githubusercontent.com/DreamOfXM/diskwise/main/docs/screenshots/zh/01-overview.png\" width=\"620\" alt=\"整块盘画成一枚环，每段弧都是本次实测到的字节\">\n<img src=\"https://raw.githubusercontent.com/DreamOfXM/diskwise/main/docs/screenshots/zh/20-clean-list.png\" width=\"620\" alt=\"可回收列表：一行一个位置，带大小与代价标签，能重下的不默认勾选\">"
+  },
+  {
+    "id": "431",
+    "url": "https://wangchujiang.com/quick-rss/issue/431.html",
+    "title": "DockGo Mac 窗口切换工具",
+    "content_html": "<p>Mac 的 Command-Tab 切换单位是「应用」，不是「窗口」。浏览器开了十几个窗口、微信和飞书各两个聊天、Xcode、Finder、备忘录混在一起时，你切到了应用，却还没切到窗口。</p>\n<p>AltTab、DockDoor、DockGo 都是来修这最后半步的，也都给出了实时窗口缩略图、都能捞起最小化和跨桌面空间的窗口。<strong>真正的区别不在功能清单，而在「第一下按什么」。</strong></p>\n<ul>\n<li><strong>AltTab</strong>：一个全局快捷键，列出系统里所有窗口，像 Windows 的 Alt+Tab；</li>\n<li><strong>DockDoor</strong>：增强原生 Dock，鼠标悬停图标看预览，外加一个 ⌥+Tab 全局切换器；</li>\n<li><strong>DockGo</strong>：给每个常用应用绑定一个专属全局快捷键，按住看见这个应用的全部窗口，松开直达。</li>\n</ul>\n<p>一个是「全局列举」，一个是「Dock 增强」，一个是「一应用一热键」。下面按真实使用场景拆。</p>",
+    "summary": "Mac 的 Command-Tab 切换单位是「应用」，不是「窗口」。浏览器开了十几个窗口、微信和飞书各两个聊天、Xcode、Finder、备忘录混在一起时，你切到了应用，却还没切到窗口。 AltTab、DockDoor、DockGo 都是来修这最后半步的，也都给出了实时窗口缩略图、都能捞起最小化和跨桌面空间的窗口。**真正的区别不在功能清单，而在「第一下按什么」。** - **AltTab**：",
+    "banner_image": null,
+    "date_published": "2026-10-26T10:05:18Z",
+    "author": {
+      "name": "soonxf",
+      "link": "https://avatars.githubusercontent.com/u/43446813?v=4"
+    },
+    "markdownContent": "Mac 的 Command-Tab 切换单位是「应用」，不是「窗口」。浏览器开了十几个窗口、微信和飞书各两个聊天、Xcode、Finder、备忘录混在一起时，你切到了应用，却还没切到窗口。\n\nAltTab、DockDoor、DockGo 都是来修这最后半步的，也都给出了实时窗口缩略图、都能捞起最小化和跨桌面空间的窗口。**真正的区别不在功能清单，而在「第一下按什么」。**\n\n- **AltTab**：一个全局快捷键，列出系统里所有窗口，像 Windows 的 Alt+Tab；\n- **DockDoor**：增强原生 Dock，鼠标悬停图标看预览，外加一个 ⌥+Tab 全局切换器；\n- **DockGo**：给每个常用应用绑定一个专属全局快捷键，按住看见这个应用的全部窗口，松开直达。\n\n一个是「全局列举」，一个是「Dock 增强」，一个是「一应用一热键」。下面按真实使用场景拆。"
   }
 ]

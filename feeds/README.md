@@ -21,6 +21,9 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://raw.githubusercontent.com/DreamOfXM/diskwise/main/docs/screenshots/zh/01-overview.png)
 
 Mac 的盘是被「看不见的东西」吃掉的：Xcode 的 DerivedData、iOS 模拟器的旧设备、一个个项目目录里的 node_modules、Docker 的镜像与卷、还有卸载 App 之后留在家目录里的孤儿数据。CleanMyMac 那一类把它们 打包成一句「一键优化」，你按下去之前不知道动了什么，按下去之后也没法整批反悔。 MacSift、Purge、MangoDisk 都在补「看得见 ([#432](https://github.com/jaywcjlove/quick-rss/issues/432) - [@DreamOfXM](https://github.com/DreamOfXM))
+## [DockGo Mac 窗口切换工具](https://wangchujiang.com/quick-rss/issue/431.html) 
+
+Mac 的 Command-Tab 切换单位是「应用」，不是「窗口」。浏览器开了十几个窗口、微信和飞书各两个聊天、Xcode、Finder、备忘录混在一起时，你切到了应用，却还没切到窗口。 AltTab、DockDoor、DockGo 都是来修这最后半步的，也都给出了实时窗口缩略图、都能捞起最小化和跨桌面空间的窗口。真正的区别不在功能清单，而在「第一下按什么」。 AltTab：一个全局快捷键，列出 ([#431](https://github.com/jaywcjlove/quick-rss/issues/431) - [@soonxf](https://github.com/soonxf))
 ## [KnowYourFaceShape：478 个面部关键点的浏览器端脸型检测器（照片不上传）](https://wangchujiang.com/quick-rss/issue/428.html) 
 
 ![](https://github.com/user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81)

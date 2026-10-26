@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[投稿] MakeMovie：从一段文字到一部成片的开源 AI 影视生产线（Next.js） Quick RSS 2.8.0</title>
+    <meta name="description" content="市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环都要人肉拼接四五款工具，素材在各家网页里来回">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS <sup>2.8.0</sup>">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/433.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/social-preview.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS <sup>2.8.0</sup>">
+    <meta property="og:description" content="市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环都要人肉拼接四五款工具，素材在各家网页里来回">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/social-preview.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS <sup>2.8.0</sup> - 市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环都要人肉拼接四五款工具，素材在各家网页里来回">
+    <meta property="twitter:description" content="市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环都要人肉拼接四五款工具，素材在各家网页里来回">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.4">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.4">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.4"></script>
+    <script src="../js/dark-mode.js?v=1.34.4"></script>
+    <script src="../js/markdown-style.js?v=1.34.4"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS <sup>2.8.0</sup> logo" src="../assets/logo.png">
+<span class="title">Quick RSS <sup>2.8.0</sup></span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="投稿-makemovie从一段文字到一部成片的开源-ai-影视生产线nextjs"><a aria-hidden="true" tabindex="-1" href="#投稿-makemovie从一段文字到一部成片的开源-ai-影视生产线nextjs" class="anchor"><span class="icon icon-link"></span></a>[投稿] MakeMovie：从一段文字到一部成片的开源 AI 影视生产线（Next.js）</h1>
+        <p>
+          市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成
+          「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环
+          都要人肉拼接四五款工具，素材在各家网页里来回搬运，最后还算不清哪次调用花了多少钱。
+        </p>
+        <p><strong>MakeMovie 把这条生产线做成了一个可以自己托管的开源平台（Apache-2.0）。</strong></p>
+        <ul>
+          <li>
+            <strong>从原文进、从交付出</strong>：上传小说原文或故事设定，自动完成剧本改编 → 分镜 → 角色/场景/道具定妆 →
+            首帧 → 图生视频 → AI 配音 → 配乐 → 合成母带 → 技术质检 + 模型视觉审计 → 交付，
+            每一步可查看、可编辑、可追溯到产生它的那次模型调用。
+          </li>
+          <li>
+            <strong>交付不止一个 MP4</strong>：每个分集同时打包 SRT 字幕与 EDL / FCPXML / OTIO 剪辑清单，
+            在 Premiere Pro 或 DaVinci Resolve 里打开就能接着剪，而不是被锁在控制台里。
+          </li>
+          <li>
+            <strong>模型可插拔</strong>：九个能力槽位对应生产线的九道工位，阿里百炼 / 可灵 / 火山 Seedance / OpenAI /
+            Google / Anthropic / 任意 OpenAI 兼容端点都能接，一个百炼连接就够点亮全链；一键补齐缺口。
+          </li>
+          <li>
+            <strong>声音链是完整的</strong>：本地内嵌 Qwen3-TTS（MLX）做音色克隆——给角色一段参考音频就能配音；
+            逐镜氛围声、配乐、声音工坊降噪洗涤，不依赖任何云 TTS。
+          </li>
+          <li>
+            <strong>每一帧都有账</strong>：生成任务幂等可恢复（崩溃续查不重复计费）、逐镜质检问题队列、
+            按物理量记账的用量台账、RBAC 与审计日志。
+          </li>
+          <li><strong>Docker 一条命令自托管</strong>：内置示例项目，零 API key 就能完整试跑一遍流水线。</li>
+        </ul>
+        <img src="https://raw.githubusercontent.com/DreamOfXM/makemovie/main/website/assets/hero-workbench-zh.png" width="620" alt="制作台：左列镜头清单、中列单镜脚本、右列首帧/视频/配音三件产物">
+        <img src="https://raw.githubusercontent.com/DreamOfXM/makemovie/main/website/assets/model-center-zh.png" width="620" alt="模型能力中心：九个槽位的就绪度与一键补齐">
+        <p>产品页：<a href="https://dreamofxm.github.io/makemovie/">https://dreamofxm.github.io/makemovie/</a></p>
+        <p>👉 <a href="https://github.com/DreamOfXM/makemovie">https://github.com/DreamOfXM/makemovie</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/DreamOfXM/makemovie" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/433" target="_blank">#433</a> •
+          <a href="https://github.com/DreamOfXM" target="_blank">@DreamOfXM</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.4"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.4
+    </div>
+    <script src="../js/tocbot.js?v=1.34.4"></script>
+  </body>
+</html>

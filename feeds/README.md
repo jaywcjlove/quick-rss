@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [MakeMovie：从一段文字到一部成片的开源 AI 影视生产线（Next.js）](https://wangchujiang.com/quick-rss/issue/433.html) 
+
+![](https://raw.githubusercontent.com/DreamOfXM/makemovie/main/website/assets/hero-workbench-zh.png)
+
+市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成 「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环 都要人肉拼接四五款工具，素材在各家网页里来回搬运，最后还算不清哪次调用花了多少钱。 MakeMovie 把这条生产线做成了一个可以自己托管的开源平台（Apache-2.0）。 从原文进、从交付出：上传 ([#433](https://github.com/jaywcjlove/quick-rss/issues/433) - [@DreamOfXM](https://github.com/DreamOfXM))
 ## [KnowYourFaceShape：478 个面部关键点的浏览器端脸型检测器（照片不上传）](https://wangchujiang.com/quick-rss/issue/428.html) 
 
 ![](https://github.com/user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81)

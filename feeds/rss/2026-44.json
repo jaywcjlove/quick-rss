@@ -1,0 +1,16 @@
+[
+  {
+    "id": "433",
+    "url": "https://wangchujiang.com/quick-rss/issue/433.html",
+    "title": "MakeMovie：从一段文字到一部成片的开源 AI 影视生产线（Next.js）",
+    "content_html": "<p>市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成\n「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环\n都要人肉拼接四五款工具，素材在各家网页里来回搬运，最后还算不清哪次调用花了多少钱。</p>\n<p><strong>MakeMovie 把这条生产线做成了一个可以自己托管的开源平台（Apache-2.0）。</strong></p>\n<ul>\n<li><strong>从原文进、从交付出</strong>：上传小说原文或故事设定，自动完成剧本改编 → 分镜 → 角色/场景/道具定妆 →\n首帧 → 图生视频 → AI 配音 → 配乐 → 合成母带 → 技术质检 + 模型视觉审计 → 交付，\n每一步可查看、可编辑、可追溯到产生它的那次模型调用。</li>\n<li><strong>交付不止一个 MP4</strong>：每个分集同时打包 SRT 字幕与 EDL / FCPXML / OTIO 剪辑清单，\n在 Premiere Pro 或 DaVinci Resolve 里打开就能接着剪，而不是被锁在控制台里。</li>\n<li><strong>模型可插拔</strong>：九个能力槽位对应生产线的九道工位，阿里百炼 / 可灵 / 火山 Seedance / OpenAI /\nGoogle / Anthropic / 任意 OpenAI 兼容端点都能接，一个百炼连接就够点亮全链；一键补齐缺口。</li>\n<li><strong>声音链是完整的</strong>：本地内嵌 Qwen3-TTS（MLX）做音色克隆——给角色一段参考音频就能配音；\n逐镜氛围声、配乐、声音工坊降噪洗涤，不依赖任何云 TTS。</li>\n<li><strong>每一帧都有账</strong>：生成任务幂等可恢复（崩溃续查不重复计费）、逐镜质检问题队列、\n按物理量记账的用量台账、RBAC 与审计日志。</li>\n<li><strong>Docker 一条命令自托管</strong>：内置示例项目，零 API key 就能完整试跑一遍流水线。</li>\n</ul>\n<img src=\"https://raw.githubusercontent.com/DreamOfXM/makemovie/main/website/assets/hero-workbench-zh.png\" width=\"620\" alt=\"制作台：左列镜头清单、中列单镜脚本、右列首帧/视频/配音三件产物\">\n<img src=\"https://raw.githubusercontent.com/DreamOfXM/makemovie/main/website/assets/model-center-zh.png\" width=\"620\" alt=\"模型能力中心：九个槽位的就绪度与一键补齐\">\n<p>产品页：<a href=\"https://dreamofxm.github.io/makemovie/\">https://dreamofxm.github.io/makemovie/</a></p>",
+    "summary": "市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成 「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环 都要人肉拼接四五款工具，素材在各家网页里来回搬运，最后还算不清哪次调用花了多少钱。 **MakeMovie 把这条生产线做成了一个可以自己托管的开源平台（Apache-2.0）。** - **从原文进",
+    "banner_image": null,
+    "date_published": "2026-10-26T16:29:31Z",
+    "author": {
+      "name": "DreamOfXM",
+      "link": "https://avatars.githubusercontent.com/u/19563988?v=4"
+    },
+    "markdownContent": "市面上的 AI 视频工具大多交付「一段素材」：输入提示词，吐回一条几十秒的片段。但把一个故事真正变成\n「一部片子」，中间隔着剧本改编、分镜、角色与场景资产、配音、配乐、剪辑合成、质检、交付——每一环\n都要人肉拼接四五款工具，素材在各家网页里来回搬运，最后还算不清哪次调用花了多少钱。\n\n**MakeMovie 把这条生产线做成了一个可以自己托管的开源平台（Apache-2.0）。**\n\n- **从原文进、从交付出**：上传小说原文或故事设定，自动完成剧本改编 → 分镜 → 角色/场景/道具定妆 →\n  首帧 → 图生视频 → AI 配音 → 配乐 → 合成母带 → 技术质检 + 模型视觉审计 → 交付，\n  每一步可查看、可编辑、可追溯到产生它的那次模型调用。\n- **交付不止一个 MP4**：每个分集同时打包 SRT 字幕与 EDL / FCPXML / OTIO 剪辑清单，\n  在 Premiere Pro 或 DaVinci Resolve 里打开就能接着剪，而不是被锁在控制台里。\n- **模型可插拔**：九个能力槽位对应生产线的九道工位，阿里百炼 / 可灵 / 火山 Seedance / OpenAI /\n  Google / Anthropic / 任意 OpenAI 兼容端点都能接，一个百炼连接就够点亮全链；一键补齐缺口。\n- **声音链是完整的**：本地内嵌 Qwen3-TTS（MLX）做音色克隆——给角色一段参考音频就能配音；\n  逐镜氛围声、配乐、声音工坊降噪洗涤，不依赖任何云 TTS。\n- **每一帧都有账**：生成任务幂等可恢复（崩溃续查不重复计费）、逐镜质检问题队列、\n  按物理量记账的用量台账、RBAC 与审计日志。\n- **Docker 一条命令自托管**：内置示例项目，零 API key 就能完整试跑一遍流水线。\n\n<img src=\"https://raw.githubusercontent.com/DreamOfXM/makemovie/main/website/assets/hero-workbench-zh.png\" width=\"620\" alt=\"制作台：左列镜头清单、中列单镜脚本、右列首帧/视频/配音三件产物\">\n<img src=\"https://raw.githubusercontent.com/DreamOfXM/makemovie/main/website/assets/model-center-zh.png\" width=\"620\" alt=\"模型能力中心：九个槽位的就绪度与一键补齐\">\n\n产品页：https://dreamofxm.github.io/makemovie/"
+  }
+]

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 26 Oct 2026 16:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 16:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -82,6 +82,27 @@ brew/npm/pip/Gradle 缓存，以及长在项目目录里的模型缓存（ollama
       ]]></content:encoded>
             <author>DreamOfXM</author>
             <enclosure url="https://raw.githubusercontent.com/DreamOfXM/diskwise/main/docs/screenshots/zh/01-overview.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DockGo Mac 窗口切换工具]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/431.html</link>
+            <guid isPermaLink="false">431</guid>
+            <pubDate>Mon, 26 Oct 2026 10:05:18 GMT</pubDate>
+            <description><![CDATA[Mac 的 Command-Tab 切换单位是「应用」，不是「窗口」。浏览器开了十几个窗口、微信和飞书各两个聊天、Xcode、Finder、备忘录混在一起时，你切到了应用，却还没切到窗口。 AltTab、DockDoor、DockGo 都是来修这最后半步的，也都给出了实时窗口缩略图、都能捞起最小化和跨桌面空间的窗口。真正的区别不在功能清单，而在「第一下按什么」。 AltTab：一个全局快捷键，列出]]></description>
+            <content:encoded><![CDATA[<p>Mac 的 Command-Tab 切换单位是「应用」，不是「窗口」。浏览器开了十几个窗口、微信和飞书各两个聊天、Xcode、Finder、备忘录混在一起时，你切到了应用，却还没切到窗口。</p>
+<p>AltTab、DockDoor、DockGo 都是来修这最后半步的，也都给出了实时窗口缩略图、都能捞起最小化和跨桌面空间的窗口。<strong>真正的区别不在功能清单，而在「第一下按什么」。</strong></p>
+<ul>
+<li><strong>AltTab</strong>：一个全局快捷键，列出系统里所有窗口，像 Windows 的 Alt+Tab；</li>
+<li><strong>DockDoor</strong>：增强原生 Dock，鼠标悬停图标看预览，外加一个 ⌥+Tab 全局切换器；</li>
+<li><strong>DockGo</strong>：给每个常用应用绑定一个专属全局快捷键，按住看见这个应用的全部窗口，松开直达。</li>
+</ul>
+<p>一个是「全局列举」，一个是「Dock 增强」，一个是「一应用一热键」。下面按真实使用场景拆。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/431" target="_blank">#431</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/soonxf" target="_blank">@soonxf</a>
+      ]]></content:encoded>
+            <author>soonxf</author>
         </item>
         <item>
             <title><![CDATA[KnowYourFaceShape：478 个面部关键点的浏览器端脸型检测器（照片不上传）]]></title>

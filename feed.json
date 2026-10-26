@@ -37,6 +37,18 @@
             }
         },
         {
+            "id": "431",
+            "content_html": "<p>Mac 的 Command-Tab 切换单位是「应用」，不是「窗口」。浏览器开了十几个窗口、微信和飞书各两个聊天、Xcode、Finder、备忘录混在一起时，你切到了应用，却还没切到窗口。</p>\n<p>AltTab、DockDoor、DockGo 都是来修这最后半步的，也都给出了实时窗口缩略图、都能捞起最小化和跨桌面空间的窗口。<strong>真正的区别不在功能清单，而在「第一下按什么」。</strong></p>\n<ul>\n<li><strong>AltTab</strong>：一个全局快捷键，列出系统里所有窗口，像 Windows 的 Alt+Tab；</li>\n<li><strong>DockDoor</strong>：增强原生 Dock，鼠标悬停图标看预览，外加一个 ⌥+Tab 全局切换器；</li>\n<li><strong>DockGo</strong>：给每个常用应用绑定一个专属全局快捷键，按住看见这个应用的全部窗口，松开直达。</li>\n</ul>\n<p>一个是「全局列举」，一个是「Dock 增强」，一个是「一应用一热键」。下面按真实使用场景拆。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/431\" target=\"_blank\">#431</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/soonxf\" target=\"_blank\">@soonxf</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/431.html",
+            "title": "DockGo Mac 窗口切换工具",
+            "summary": "Mac 的 Command-Tab 切换单位是「应用」，不是「窗口」。浏览器开了十几个窗口、微信和飞书各两个聊天、Xcode、Finder、备忘录混在一起时，你切到了应用，却还没切到窗口。 AltTab、DockDoor、DockGo 都是来修这最后半步的，也都给出了实时窗口缩略图、都能捞起最小化和跨桌面空间的窗口。真正的区别不在功能清单，而在「第一下按什么」。 AltTab：一个全局快捷键，列出",
+            "date_modified": "2026-10-26T10:05:18.000Z",
+            "author": {
+                "name": "soonxf",
+                "url": "https://avatars.githubusercontent.com/u/43446813?v=4"
+            }
+        },
+        {
             "id": "428",
             "content_html": "<img width=\"1235\" height=\"898\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3f0207d5-ebb3-46ee-8fda-8555939bea81\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/428\" target=\"_blank\">#428</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/TSjianjiao\" target=\"_blank\">@TSjianjiao</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/428.html",

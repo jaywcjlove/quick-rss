@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Amical  - 语音输入，让文字自然呈现。](https://wangchujiang.com/quick-rss/issue/434.html) 
+
+![](https://github.com/user-attachments/assets/e3dfdbf3-1dbc-4580-9e2a-dff9e846ee91)
+
+按下快捷键，自然地说出你想表达的内容，文字会自动适配当前应用的格式。使用本地 AI 模型，支持离线运行，免费且开源。 ([#434](https://github.com/jaywcjlove/quick-rss/issues/434) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [MakeMovie：从一段文字到一部成片的开源 AI 影视生产线（Next.js）](https://wangchujiang.com/quick-rss/issue/433.html) 
 
 ![](https://raw.githubusercontent.com/DreamOfXM/makemovie/main/website/assets/hero-workbench-zh.png)

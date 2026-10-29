@@ -1,5 +1,19 @@
 [
   {
+    "id": "434",
+    "url": "https://wangchujiang.com/quick-rss/issue/434.html",
+    "title": "Amical  - 语音输入，让文字自然呈现。",
+    "content_html": "<p>按下快捷键，自然地说出你想表达的内容，文字会自动适配当前应用的格式。使用本地 AI 模型，支持离线运行，免费且开源。</p>\n<img alt=\"Amical\" src=\"https://github.com/user-attachments/assets/e3dfdbf3-1dbc-4580-9e2a-dff9e846ee91\">",
+    "summary": "按下快捷键，自然地说出你想表达的内容，文字会自动适配当前应用的格式。使用本地 AI 模型，支持离线运行，免费且开源。",
+    "banner_image": null,
+    "date_published": "2026-10-29T00:06:42Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "按下快捷键，自然地说出你想表达的内容，文字会自动适配当前应用的格式。使用本地 AI 模型，支持离线运行，免费且开源。\n\n<img alt=\"Amical\" src=\"https://github.com/user-attachments/assets/e3dfdbf3-1dbc-4580-9e2a-dff9e846ee91\" />"
+  },
+  {
     "id": "433",
     "url": "https://wangchujiang.com/quick-rss/issue/433.html",
     "title": "MakeMovie：从一段文字到一部成片的开源 AI 影视生产线（Next.js）",

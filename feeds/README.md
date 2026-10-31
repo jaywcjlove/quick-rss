@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Ayakaleaf Pro - 开源、自托管的 Overleaf 增强版与替代方案](https://wangchujiang.com/quick-rss/issue/435.html) 
+
+![](https://github.com/user-attachments/assets/239254db-a5d1-4e82-b90c-c119961297b8)
+
+Ayakaleaf Pro - 开源、自托管的 Overleaf 增强版与替代方案 用于在线协作编辑和编译 LaTeX 学术论文，支持 AI 助手、Git 同步、Dropbox、文献管理、修改追踪和单点登录（SSO）等功能，提供接近 Overleaf Pro 的体验。 ([#435](https://github.com/jaywcjlove/quick-rss/issues/435) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Amical  - 语音输入，让文字自然呈现。](https://wangchujiang.com/quick-rss/issue/434.html) 
 
 ![](https://github.com/user-attachments/assets/e3dfdbf3-1dbc-4580-9e2a-dff9e846ee91)

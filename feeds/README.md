@@ -16,6 +16,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 ![](https://github.com/user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d)
 
 ReadGZH 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。它先解决「AI 能不能拿到正文」，不替你做总结。有免费额度，转换受原文可访问性影响。 关联说明：项目方自荐，我是作者。仓库：https://github.com/sweesama/readgzh ([#439](https://github.com/jaywcjlove/quick-rss/issues/439) - [@sweesama](https://github.com/sweesama))
+## [FaviconDL：输入网址下载任意网站的全部图标](https://wangchujiang.com/quick-rss/issue/438.html) 
+
+![](https://github.com/user-attachments/assets/794bb30a-e362-4bab-a943-1f584bfb4f27)
+
+FaviconDL 输入任意网址，找出网站实际发布的 ICO / PNG / SVG / Apple Touch Icon / manifest 图标，预览后直接下载；另有免 Key JSON API、图片转 favicon、批量获取。免费免注册，适合做书签页、导航站和链接预览。 关联说明：项目方自荐，我是作者。开源：https://github.com/sweesama/favicondl.co ([#438](https://github.com/jaywcjlove/quick-rss/issues/438) - [@sweesama](https://github.com/sweesama))
 ## [3D Solar System Simulator：浏览器里的免费 3D 太阳系模拟器](https://wangchujiang.com/quick-rss/issue/437.html) 
 
 ![](https://github.com/user-attachments/assets/a5fab51a-ee94-437d-928d-38d5acdff605)

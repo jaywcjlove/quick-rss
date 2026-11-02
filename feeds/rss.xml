@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 02 Nov 2026 14:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 14:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -31,6 +31,23 @@
       ]]></content:encoded>
             <author>sweesama</author>
             <enclosure url="https://github.com/user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d" length="0" type="image//user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d"/>
+        </item>
+        <item>
+            <title><![CDATA[FaviconDL：输入网址下载任意网站的全部图标]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/438.html</link>
+            <guid isPermaLink="false">438</guid>
+            <pubDate>Mon, 02 Nov 2026 12:45:45 GMT</pubDate>
+            <description><![CDATA[FaviconDL 输入任意网址，找出网站实际发布的 ICO / PNG / SVG / Apple Touch Icon / manifest 图标，预览后直接下载；另有免 Key JSON API、图片转 favicon、批量获取。免费免注册，适合做书签页、导航站和链接预览。 关联说明：项目方自荐，我是作者。开源：https://github.com/sweesama/favicondl.co]]></description>
+            <content:encoded><![CDATA[<p>FaviconDL 输入任意网址，找出网站实际发布的 ICO / PNG / SVG / Apple Touch Icon / manifest 图标，预览后直接下载；另有免 Key JSON API、图片转 favicon、批量获取。免费免注册，适合做书签页、导航站和链接预览。</p>
+<img alt="FaviconDL" src="https://github.com/user-attachments/assets/794bb30a-e362-4bab-a943-1f584bfb4f27">
+<p>关联说明：项目方自荐，我是作者。开源：<a href="https://github.com/sweesama/favicondl.com">https://github.com/sweesama/favicondl.com</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/438" target="_blank">#438</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/sweesama" target="_blank">@sweesama</a>
+      ]]></content:encoded>
+            <author>sweesama</author>
+            <enclosure url="https://github.com/user-attachments/assets/794bb30a-e362-4bab-a943-1f584bfb4f27" length="0" type="image//user-attachments/assets/794bb30a-e362-4bab-a943-1f584bfb4f27"/>
         </item>
         <item>
             <title><![CDATA[3D Solar System Simulator：浏览器里的免费 3D 太阳系模拟器]]></title>

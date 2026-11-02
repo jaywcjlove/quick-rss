@@ -1,5 +1,19 @@
 [
   {
+    "id": "439",
+    "url": "https://wangchujiang.com/quick-rss/issue/439.html",
+    "title": "ReadGZH：把微信公众号文章转成 AI 可读取的页面",
+    "content_html": "<p>ReadGZH 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。它先解决「AI 能不能拿到正文」，不替你做总结。有免费额度，转换受原文可访问性影响。</p>\n<img alt=\"ReadGZH\" src=\"https://github.com/user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d\">\n<p>关联说明：项目方自荐，我是作者。仓库：<a href=\"https://github.com/sweesama/readgzh\">https://github.com/sweesama/readgzh</a></p>",
+    "summary": "ReadGZH 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。它先解决「AI 能不能拿到正文」，不替你做总结。有免费额度，转换受原文可访问性影响。 关联说明：项目方自荐，我是作者。仓库：https://github.com/sweesama/readgzh",
+    "banner_image": null,
+    "date_published": "2026-11-02T12:45:46Z",
+    "author": {
+      "name": "sweesama",
+      "link": "https://avatars.githubusercontent.com/u/109814964?v=4"
+    },
+    "markdownContent": "ReadGZH 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。它先解决「AI 能不能拿到正文」，不替你做总结。有免费额度，转换受原文可访问性影响。\n\n<img  alt=\"ReadGZH\" src=\"https://github.com/user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d\" />\n\n关联说明：项目方自荐，我是作者。仓库：https://github.com/sweesama/readgzh"
+  },
+  {
     "id": "437",
     "url": "https://wangchujiang.com/quick-rss/issue/437.html",
     "title": "3D Solar System Simulator：浏览器里的免费 3D 太阳系模拟器",

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 02 Nov 2026 02:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 14:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,23 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ReadGZH：把微信公众号文章转成 AI 可读取的页面]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/439.html</link>
+            <guid isPermaLink="false">439</guid>
+            <pubDate>Mon, 02 Nov 2026 12:45:46 GMT</pubDate>
+            <description><![CDATA[ReadGZH 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。它先解决「AI 能不能拿到正文」，不替你做总结。有免费额度，转换受原文可访问性影响。 关联说明：项目方自荐，我是作者。仓库：https://github.com/sweesama/readgzh]]></description>
+            <content:encoded><![CDATA[<p>ReadGZH 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。它先解决「AI 能不能拿到正文」，不替你做总结。有免费额度，转换受原文可访问性影响。</p>
+<img alt="ReadGZH" src="https://github.com/user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d">
+<p>关联说明：项目方自荐，我是作者。仓库：<a href="https://github.com/sweesama/readgzh">https://github.com/sweesama/readgzh</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/439" target="_blank">#439</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/sweesama" target="_blank">@sweesama</a>
+      ]]></content:encoded>
+            <author>sweesama</author>
+            <enclosure url="https://github.com/user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d" length="0" type="image//user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d"/>
+        </item>
         <item>
             <title><![CDATA[3D Solar System Simulator：浏览器里的免费 3D 太阳系模拟器]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/437.html</link>

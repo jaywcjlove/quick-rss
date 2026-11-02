@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-10-31T20:48:01.860Z</updated>
+    <updated>2026-11-02T02:40:56.603Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[3D Solar System Simulator：浏览器里的免费 3D 太阳系模拟器]]></title>
+        <id>437</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/437.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/a5fab51a-ee94-437d-928d-38d5acdff605" type="image//user-attachments/assets/a5fab51a-ee94-437d-928d-38d5acdff605"/>
+        <updated>2026-11-02T02:14:56.000Z</updated>
+        <summary type="html"><![CDATA[3D Solar System Simulator 是一个在浏览器里打开就能用的 3D 太阳系模拟器：可以绕着太阳和八大行星自由转动、缩放视角，调快或调慢时间看各行星公转，切换"真实距离"和"真实比例"感受教科书示意图与实际尺度的差别，还能"登陆"月球和火星表面走一走。基于 Three.js，免费、免注册、不用下载，适合给孩子讲天文或课堂投屏演示。界面目前以英文为主。 关联说明：项目方自荐，我是作]]></summary>
+        <content type="html"><![CDATA[<p>3D Solar System Simulator 是一个在浏览器里打开就能用的 3D 太阳系模拟器：可以绕着太阳和八大行星自由转动、缩放视角，调快或调慢时间看各行星公转，切换"真实距离"和"真实比例"感受教科书示意图与实际尺度的差别，还能"登陆"月球和火星表面走一走。基于 Three.js，免费、免注册、不用下载，适合给孩子讲天文或课堂投屏演示。界面目前以英文为主。</p>
+<img alt="3D Solar System Simulator" src="https://github.com/user-attachments/assets/a5fab51a-ee94-437d-928d-38d5acdff605">
+<p>关联说明：项目方自荐，我是作者。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/437" target="_blank">#437</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/sweesama" target="_blank">@sweesama</a>
+      ]]></content>
+        <author>
+            <name>sweesama</name>
+            <uri>https://avatars.githubusercontent.com/u/109814964?v=4</uri>
+        </author>
+        <contributor>
+            <name>sweesama</name>
+            <uri>https://avatars.githubusercontent.com/u/109814964?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ayakaleaf Pro - 开源、自托管的 Overleaf 增强版与替代方案]]></title>
         <id>435</id>

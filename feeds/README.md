@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [3D Solar System Simulator：浏览器里的免费 3D 太阳系模拟器](https://wangchujiang.com/quick-rss/issue/437.html) 
+
+![](https://github.com/user-attachments/assets/a5fab51a-ee94-437d-928d-38d5acdff605)
+
+3D Solar System Simulator 是一个在浏览器里打开就能用的 3D 太阳系模拟器：可以绕着太阳和八大行星自由转动、缩放视角，调快或调慢时间看各行星公转，切换"真实距离"和"真实比例"感受教科书示意图与实际尺度的差别，还能"登陆"月球和火星表面走一走。基于 Three.js，免费、免注册、不用下载，适合给孩子讲天文或课堂投屏演示。界面目前以英文为主。 关联说明：项目方自荐，我是作 ([#437](https://github.com/jaywcjlove/quick-rss/issues/437) - [@sweesama](https://github.com/sweesama))
 ## [Ayakaleaf Pro - 开源、自托管的 Overleaf 增强版与替代方案](https://wangchujiang.com/quick-rss/issue/435.html) 
 
 ![](https://github.com/user-attachments/assets/239254db-a5d1-4e82-b90c-c119961297b8)

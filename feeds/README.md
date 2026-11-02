@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [ReadGZH：把微信公众号文章转成 AI 可读取的页面](https://wangchujiang.com/quick-rss/issue/439.html) 
+
+![](https://github.com/user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d)
+
+ReadGZH 粘贴微信公众号文章链接，生成更适合 AI 读取的精简页面；提供 REST API 与 MCP。它先解决「AI 能不能拿到正文」，不替你做总结。有免费额度，转换受原文可访问性影响。 关联说明：项目方自荐，我是作者。仓库：https://github.com/sweesama/readgzh ([#439](https://github.com/jaywcjlove/quick-rss/issues/439) - [@sweesama](https://github.com/sweesama))
 ## [3D Solar System Simulator：浏览器里的免费 3D 太阳系模拟器](https://wangchujiang.com/quick-rss/issue/437.html) 
 
 ![](https://github.com/user-attachments/assets/a5fab51a-ee94-437d-928d-38d5acdff605)

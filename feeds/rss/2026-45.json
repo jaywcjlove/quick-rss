@@ -1,5 +1,19 @@
 [
   {
+    "id": "443",
+    "url": "https://wangchujiang.com/quick-rss/issue/443.html",
+    "title": "Nano Banana Live：免费在线 AI 图像生成与编辑",
+    "content_html": "<p>Nano Banana Live 是免费的在线 AI 图像生成与编辑工具：用自然语言描述即可出图，支持参考图引导、局部重绘和快速迭代，面向社媒配图、概念草稿和轻量创意探索；浏览器即可用，无需安装。</p>\n<p><img src=\"https://www.nano-banana.live/og.png\" alt=\"Nano Banana Live\"></p>\n<p>关联说明：项目方自荐，我是作者。站点：<a href=\"https://nano-banana.live\">https://nano-banana.live</a> 仓库：<a href=\"https://github.com/sweesama/nano-banana\">https://github.com/sweesama/nano-banana</a><br>\n（先前 #442 已按维护者要求补上简介格式与 banner 图后重提。）</p>",
+    "summary": "Nano Banana Live 是免费的在线 AI 图像生成与编辑工具：用自然语言描述即可出图，支持参考图引导、局部重绘和快速迭代，面向社媒配图、概念草稿和轻量创意探索；浏览器即可用，无需安装。 关联说明：项目方自荐，我是作者。站点：https://nano-banana.live 仓库：https://github.com/sweesama/nano-banana （先前 #442 已按维护者",
+    "banner_image": "https://www.nano-banana.live/og.png",
+    "date_published": "2026-11-03T09:06:52Z",
+    "author": {
+      "name": "sweesama",
+      "link": "https://avatars.githubusercontent.com/u/109814964?v=4"
+    },
+    "markdownContent": "Nano Banana Live 是免费的在线 AI 图像生成与编辑工具：用自然语言描述即可出图，支持参考图引导、局部重绘和快速迭代，面向社媒配图、概念草稿和轻量创意探索；浏览器即可用，无需安装。\n\n![Nano Banana Live](https://www.nano-banana.live/og.png)\n\n关联说明：项目方自荐，我是作者。站点：https://nano-banana.live 仓库：https://github.com/sweesama/nano-banana  \n（先前 #442 已按维护者要求补上简介格式与 banner 图后重提。）"
+  },
+  {
     "id": "439",
     "url": "https://wangchujiang.com/quick-rss/issue/439.html",
     "title": "ReadGZH：把微信公众号文章转成 AI 可读取的页面",

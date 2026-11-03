@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Nano Banana Live：免费在线 AI 图像生成与编辑](https://wangchujiang.com/quick-rss/issue/443.html) 
+
+![](https://www.nano-banana.live/og.png)
+
+Nano Banana Live 是免费的在线 AI 图像生成与编辑工具：用自然语言描述即可出图，支持参考图引导、局部重绘和快速迭代，面向社媒配图、概念草稿和轻量创意探索；浏览器即可用，无需安装。 关联说明：项目方自荐，我是作者。站点：https://nano-banana.live 仓库：https://github.com/sweesama/nano-banana （先前 #442 已按维护者 ([#443](https://github.com/jaywcjlove/quick-rss/issues/443) - [@sweesama](https://github.com/sweesama))
 ## [ReadGZH：把微信公众号文章转成 AI 可读取的页面](https://wangchujiang.com/quick-rss/issue/439.html) 
 
 ![](https://github.com/user-attachments/assets/95d91ee1-f590-49d3-874f-2afe0efb8d2d)

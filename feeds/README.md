@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [词不一样就跑步：两人共用一部手机的面对面联想小游戏](https://wangchujiang.com/quick-rss/issue/445.html) 
+
+![](https://github.com/user-attachments/assets/4b0a5f9e-f7ea-4144-a570-89de84d88fd3)
+
+开发者自荐：我开发了「词不一样就跑步」，一个面对面的双人联想网页小游戏。 两个人共用一部手机，看两个起始词，各想一个相关的新词；倒计时结束同时说出来。答案不同就用新词继续联想，直到答案一致。 提供日常脑洞、双人默契、朋友聚会三类共60组起始词，支持3、5、10秒倒计时。打开网页即可玩，无需下载安装或注册。是否跑步由玩家自行约定，网站不测量跑步距离。它不是AI工具，也不是在线联机游戏。 内容说明：本 ([#445](https://github.com/jaywcjlove/quick-rss/issues/445) - [@bukun678](https://github.com/bukun678))
 ## [Nano Banana Live：免费在线 AI 图像生成与编辑](https://wangchujiang.com/quick-rss/issue/443.html) 
 
 ![](https://www.nano-banana.live/og.png)

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-11-03T11:28:51.444Z</updated>
+    <updated>2026-11-04T14:33:50.850Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,32 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[词不一样就跑步：两人共用一部手机的面对面联想小游戏]]></title>
+        <id>445</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/445.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/4b0a5f9e-f7ea-4144-a570-89de84d88fd3" type="image//user-attachments/assets/4b0a5f9e-f7ea-4144-a570-89de84d88fd3"/>
+        <updated>2026-11-04T10:23:14.000Z</updated>
+        <summary type="html"><![CDATA[开发者自荐：我开发了「词不一样就跑步」，一个面对面的双人联想网页小游戏。 两个人共用一部手机，看两个起始词，各想一个相关的新词；倒计时结束同时说出来。答案不同就用新词继续联想，直到答案一致。 提供日常脑洞、双人默契、朋友聚会三类共60组起始词，支持3、5、10秒倒计时。打开网页即可玩，无需下载安装或注册。是否跑步由玩家自行约定，网站不测量跑步距离。它不是AI工具，也不是在线联机游戏。 内容说明：本]]></summary>
+        <content type="html"><![CDATA[<p>开发者自荐：我开发了「词不一样就跑步」，一个面对面的双人联想网页小游戏。</p>
+<p>两个人共用一部手机，看两个起始词，各想一个相关的新词；倒计时结束同时说出来。答案不同就用新词继续联想，直到答案一致。</p>
+<p>提供日常脑洞、双人默契、朋友聚会三类共60组起始词，支持3、5、10秒倒计时。打开网页即可玩，无需下载安装或注册。是否跑步由玩家自行约定，网站不测量跑步距离。它不是AI工具，也不是在线联机游戏。</p>
+<p>内容说明：本投稿文案由AI协助整理，功能以实际网站为准。</p>
+<img width="2580" height="1360" alt="Image" src="https://github.com/user-attachments/assets/4b0a5f9e-f7ea-4144-a570-89de84d88fd3"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/445" target="_blank">#445</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/bukun678" target="_blank">@bukun678</a>
+      ]]></content>
+        <author>
+            <name>bukun678</name>
+            <uri>https://avatars.githubusercontent.com/u/217290672?v=4</uri>
+        </author>
+        <contributor>
+            <name>bukun678</name>
+            <uri>https://avatars.githubusercontent.com/u/217290672?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nano Banana Live：免费在线 AI 图像生成与编辑]]></title>
         <id>443</id>

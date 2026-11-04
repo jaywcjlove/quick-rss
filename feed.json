@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "445",
+            "content_html": "<p>开发者自荐：我开发了「词不一样就跑步」，一个面对面的双人联想网页小游戏。</p>\n<p>两个人共用一部手机，看两个起始词，各想一个相关的新词；倒计时结束同时说出来。答案不同就用新词继续联想，直到答案一致。</p>\n<p>提供日常脑洞、双人默契、朋友聚会三类共60组起始词，支持3、5、10秒倒计时。打开网页即可玩，无需下载安装或注册。是否跑步由玩家自行约定，网站不测量跑步距离。它不是AI工具，也不是在线联机游戏。</p>\n<p>内容说明：本投稿文案由AI协助整理，功能以实际网站为准。</p>\n<img width=\"2580\" height=\"1360\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4b0a5f9e-f7ea-4144-a570-89de84d88fd3\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/445\" target=\"_blank\">#445</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/bukun678\" target=\"_blank\">@bukun678</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/445.html",
+            "title": "词不一样就跑步：两人共用一部手机的面对面联想小游戏",
+            "summary": "开发者自荐：我开发了「词不一样就跑步」，一个面对面的双人联想网页小游戏。 两个人共用一部手机，看两个起始词，各想一个相关的新词；倒计时结束同时说出来。答案不同就用新词继续联想，直到答案一致。 提供日常脑洞、双人默契、朋友聚会三类共60组起始词，支持3、5、10秒倒计时。打开网页即可玩，无需下载安装或注册。是否跑步由玩家自行约定，网站不测量跑步距离。它不是AI工具，也不是在线联机游戏。 内容说明：本",
+            "image": "https://github.com/user-attachments/assets/4b0a5f9e-f7ea-4144-a570-89de84d88fd3",
+            "date_modified": "2026-11-04T10:23:14.000Z",
+            "author": {
+                "name": "bukun678",
+                "url": "https://avatars.githubusercontent.com/u/217290672?v=4"
+            }
+        },
+        {
             "id": "443",
             "content_html": "<p>Nano Banana Live 是免费的在线 AI 图像生成与编辑工具：用自然语言描述即可出图，支持参考图引导、局部重绘和快速迭代，面向社媒配图、概念草稿和轻量创意探索；浏览器即可用，无需安装。</p>\n<p><img src=\"https://www.nano-banana.live/og.png\" alt=\"Nano Banana Live\"></p>\n<p>关联说明：项目方自荐，我是作者。站点：<a href=\"https://nano-banana.live\">https://nano-banana.live</a> 仓库：<a href=\"https://github.com/sweesama/nano-banana\">https://github.com/sweesama/nano-banana</a><br>\n（先前 #442 已按维护者要求补上简介格式与 banner 图后重提。）</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/443\" target=\"_blank\">#443</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/sweesama\" target=\"_blank\">@sweesama</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/443.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Stela - 让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。](https://wangchujiang.com/quick-rss/issue/452.html) 
+
+![](https://github.com/user-attachments/assets/c74d9508-433a-4b53-8af2-42609a96ea82)
+
+让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。 它通过 ARM64 指令翻译、Apple Silicon 硬件建模以及 NVIDIA GPU 的 Metal 驱动，让普通 x86-64 PC 能够尝试运行原本为 Apple Silicon Mac 编译的 macOS。 与传统 Hackintosh 不同，Stela 并不是运行 Intel ([#452](https://github.com/jaywcjlove/quick-rss/issues/452) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [EditablePPT：把图片和 PDF 转成可编辑的 PowerPoint](https://wangchujiang.com/quick-rss/issue/449.html) 
 
 ![](https://editableppt.com/og-editableppt.png)

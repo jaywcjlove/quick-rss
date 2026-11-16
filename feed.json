@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "449",
+            "content_html": "<p>开发者自荐：<a href=\"https://editableppt.com/zh\">EditablePPT</a> 是一款在线图片、PDF 转可编辑 PowerPoint 的工具，适合把 AI 生成的幻灯片、截图、图片课件和 PDF 讲义继续加工成可修改的 PPT。</p>\n<p><img src=\"https://editableppt.com/og-editableppt.png\" alt=\"EditablePPT：图片转可编辑 PowerPoint\"></p>\n<p>主要功能：</p>\n<ul>\n<li><strong>图片拆成可编辑图层</strong>：支持 PNG、JPG 等图片，将识别出的文字转成文本框，并拆出照片、图标、卡片和背景等独立图层；分层模式提供 3D 图层预览，方便查看和修改。</li>\n<li><strong>多图与 PDF 转 PPT</strong>：支持一次上传多张图片，合并导出为一个 PPTX，也支持从 PDF 提取文字和图片图层。</li>\n<li><strong>在线编辑、下载 PPTX</strong>：在浏览器中调整文字、图片和页面顺序，再下载到 PowerPoint 中继续编辑。</li>\n<li><strong>复用已有材料</strong>：适合教师修改课件、职场用户整理汇报，以及给 AI 生成的幻灯片改字、换图。</li>\n</ul>\n<p>AI 图层拆解需要登录并消耗积分；整图转 PPT 和基础 PPTX 重排提供免费使用。可编辑范围取决于源文件和识别结果，复杂图表、公式及字体可能需要手动调整。</p>\n<p>欢迎体验，也欢迎反馈转换效果和使用建议。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/449\" target=\"_blank\">#449</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/a474516631\" target=\"_blank\">@a474516631</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/449.html",
+            "title": "EditablePPT：把图片和 PDF 转成可编辑的 PowerPoint",
+            "summary": "开发者自荐：EditablePPT 是一款在线图片、PDF 转可编辑 PowerPoint 的工具，适合把 AI 生成的幻灯片、截图、图片课件和 PDF 讲义继续加工成可修改的 PPT。 主要功能： 图片拆成可编辑图层：支持 PNG、JPG 等图片，将识别出的文字转成文本框，并拆出照片、图标、卡片和背景等独立图层；分层模式提供 3D 图层预览，方便查看和修改。 多图与 PDF 转 PPT：支持一次",
+            "image": "https://editableppt.com/og-editableppt.png",
+            "date_modified": "2026-11-10T01:21:12.000Z",
+            "author": {
+                "name": "a474516631",
+                "url": "https://avatars.githubusercontent.com/u/23137953?v=4"
+            }
+        },
+        {
             "id": "445",
             "content_html": "<p>开发者自荐：我开发了「词不一样就跑步」，一个面对面的双人联想网页小游戏。</p>\n<p>两个人共用一部手机，看两个起始词，各想一个相关的新词；倒计时结束同时说出来。答案不同就用新词继续联想，直到答案一致。</p>\n<p>提供日常脑洞、双人默契、朋友聚会三类共60组起始词，支持3、5、10秒倒计时。打开网页即可玩，无需下载安装或注册。是否跑步由玩家自行约定，网站不测量跑步距离。它不是AI工具，也不是在线联机游戏。</p>\n<p>内容说明：本投稿文案由AI协助整理，功能以实际网站为准。</p>\n<img width=\"2580\" height=\"1360\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4b0a5f9e-f7ea-4144-a570-89de84d88fd3\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/445\" target=\"_blank\">#445</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/bukun678\" target=\"_blank\">@bukun678</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/445.html",

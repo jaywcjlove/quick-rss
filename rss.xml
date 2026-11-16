@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Wed, 04 Nov 2026 14:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 02:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,31 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EditablePPT：把图片和 PDF 转成可编辑的 PowerPoint]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/449.html</link>
+            <guid isPermaLink="false">449</guid>
+            <pubDate>Tue, 10 Nov 2026 01:21:12 GMT</pubDate>
+            <description><![CDATA[开发者自荐：EditablePPT 是一款在线图片、PDF 转可编辑 PowerPoint 的工具，适合把 AI 生成的幻灯片、截图、图片课件和 PDF 讲义继续加工成可修改的 PPT。 主要功能： 图片拆成可编辑图层：支持 PNG、JPG 等图片，将识别出的文字转成文本框，并拆出照片、图标、卡片和背景等独立图层；分层模式提供 3D 图层预览，方便查看和修改。 多图与 PDF 转 PPT：支持一次]]></description>
+            <content:encoded><![CDATA[<p>开发者自荐：<a href="https://editableppt.com/zh">EditablePPT</a> 是一款在线图片、PDF 转可编辑 PowerPoint 的工具，适合把 AI 生成的幻灯片、截图、图片课件和 PDF 讲义继续加工成可修改的 PPT。</p>
+<p><img src="https://editableppt.com/og-editableppt.png" alt="EditablePPT：图片转可编辑 PowerPoint"></p>
+<p>主要功能：</p>
+<ul>
+<li><strong>图片拆成可编辑图层</strong>：支持 PNG、JPG 等图片，将识别出的文字转成文本框，并拆出照片、图标、卡片和背景等独立图层；分层模式提供 3D 图层预览，方便查看和修改。</li>
+<li><strong>多图与 PDF 转 PPT</strong>：支持一次上传多张图片，合并导出为一个 PPTX，也支持从 PDF 提取文字和图片图层。</li>
+<li><strong>在线编辑、下载 PPTX</strong>：在浏览器中调整文字、图片和页面顺序，再下载到 PowerPoint 中继续编辑。</li>
+<li><strong>复用已有材料</strong>：适合教师修改课件、职场用户整理汇报，以及给 AI 生成的幻灯片改字、换图。</li>
+</ul>
+<p>AI 图层拆解需要登录并消耗积分；整图转 PPT 和基础 PPTX 重排提供免费使用。可编辑范围取决于源文件和识别结果，复杂图表、公式及字体可能需要手动调整。</p>
+<p>欢迎体验，也欢迎反馈转换效果和使用建议。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/449" target="_blank">#449</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/a474516631" target="_blank">@a474516631</a>
+      ]]></content:encoded>
+            <author>a474516631</author>
+            <enclosure url="https://editableppt.com/og-editableppt.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[词不一样就跑步：两人共用一部手机的面对面联想小游戏]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/445.html</link>

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [EditablePPT：把图片和 PDF 转成可编辑的 PowerPoint](https://wangchujiang.com/quick-rss/issue/449.html) 
+
+![](https://editableppt.com/og-editableppt.png)
+
+开发者自荐：EditablePPT 是一款在线图片、PDF 转可编辑 PowerPoint 的工具，适合把 AI 生成的幻灯片、截图、图片课件和 PDF 讲义继续加工成可修改的 PPT。 主要功能： 图片拆成可编辑图层：支持 PNG、JPG 等图片，将识别出的文字转成文本框，并拆出照片、图标、卡片和背景等独立图层；分层模式提供 3D 图层预览，方便查看和修改。 多图与 PDF 转 PPT：支持一次 ([#449](https://github.com/jaywcjlove/quick-rss/issues/449) - [@a474516631](https://github.com/a474516631))
 ## [词不一样就跑步：两人共用一部手机的面对面联想小游戏](https://wangchujiang.com/quick-rss/issue/445.html) 
 
 ![](https://github.com/user-attachments/assets/4b0a5f9e-f7ea-4144-a570-89de84d88fd3)

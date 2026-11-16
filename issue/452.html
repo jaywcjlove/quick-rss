@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stela - 让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。 Quick RSS v2.8.0</title>
+    <meta name="description" content="让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。">
+    <meta name="keywords" content="Quick RSS, RSS reader, macOS RSS app, desktop RSS, news aggregator, RSS feed manager">
+    <meta name="author" content="Kenny Wong">
+    <meta property="og:site_name" content="Quick RSS <sup>v2.8.0</sup>">
+    <meta property="og:url" content="https://wangchujiang.com/quick-rss/issue/452.html">
+    <meta property="og:image" content="https://wangchujiang.com/quick-rss/assets/social-preview.png">
+    <meta property="og:type" content="application">
+    <meta property="og:title" content="Quick RSS <sup>v2.8.0</sup>">
+    <meta property="og:description" content="让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。">
+    <meta property="twitter:image:src" content="https://wangchujiang.com/quick-rss/assets/social-preview.png">
+    <meta property="twitter:site" content="@jaywcjlove">
+    <meta property="twitter:creator" content="jaywcjlove">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="Quick RSS <sup>v2.8.0</sup> - 让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。">
+    <meta property="twitter:description" content="让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。">
+    <meta name="apple-itunes-app" content="app-id=6670696072">
+    <link rel="stylesheet" type="text/css" href="../css/main.css?v=1.34.5">
+    <link rel="stylesheet" type="text/css" href="../css/tocbot.css?v=1.34.5">
+    <link rel="stylesheet" type="text/css" href="../css/media.css?v=1.34.5">
+    <link rel="stylesheet" type="text/css" href="../css/sidebar.css?v=1.34.5">
+    <link rel="stylesheet" type="text/css" href="../css/copy.css?v=1.34.5">
+    <link rel="stylesheet" type="text/css" href="../css/demo-preview.css?v=1.34.5">
+    <link rel="icon" href="../assets/logo.png" type="image/x-icon">
+    <script src="../js/copy.js?v=1.34.5"></script>
+    <script src="../js/dark-mode.js?v=1.34.5"></script>
+    <script src="../js/markdown-style.js?v=1.34.5"></script>
+  </head>
+  <body id="idoctotop"><a href="#idoctotop" class="gototop">top</a>
+    <header class="header">
+      <article class="inner warpper" style="max-width:720px;"><a class="logo" href="../index.html"><img alt="Quick RSS <sup>v2.8.0</sup> logo" src="../assets/logo.png">
+<span class="title">Quick RSS <sup>v2.8.0</sup></span></a>
+        <div class="content">
+          <ul class="menu">
+            <li><a href="../index.html" target="" class="">Home</a></li>
+            <li><a href="https://wangchujiang.com/#/app" target="__blank" class="">Apps</a></li>
+            <li><a href="../feeds/index.html" target="__blank" class="">Feeds</a></li>
+          </ul><a href="https://github.com/jaywcjlove/quick-rss" target="_blank" rel="noopener noreferrer" title="Github" name="Github" class="github"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+            </svg></a>
+          <dark-mode permanent=""></dark-mode>
+        </div>
+      </article>
+    </header>
+    <div style="max-width:720px;" class="warpper-content warpper notocs">
+      <markdown-style theme-auto-switch-disabled="">
+        <h1 id="stela---让普通-intel--amd-pc-运行-apple-silicon-版-macos-的实验性开源项目"><a aria-hidden="true" tabindex="-1" href="#stela---让普通-intel--amd-pc-运行-apple-silicon-版-macos-的实验性开源项目" class="anchor"><span class="icon icon-link"></span></a>Stela - 让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。</h1>
+        <p>让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。</p>
+        <p>它通过 ARM64 指令翻译、Apple Silicon 硬件建模以及 NVIDIA GPU 的 Metal 驱动，让普通 x86-64 PC 能够尝试运行原本为 Apple Silicon Mac 编译的 macOS。</p>
+        <img alt="Stela" src="https://github.com/user-attachments/assets/c74d9508-433a-4b53-8af2-42609a96ea82">
+        <p>与传统 Hackintosh 不同，Stela 并不是运行 Intel 版 macOS，而是尝试在 x86-64 硬件上运行 ARM64 版 macOS。目前它将自身模拟为一台 Apple M2 Mac mini。</p>
+        <p>这是一个相当大胆的尝试，涉及 CPU 跨架构指令翻译、硬件模拟和 GPU 驱动等底层技术。</p>
+        <p>如果未来能够成熟，或许能让更多非 Apple 硬件运行 Apple Silicon 版 macOS。</p>
+        <p>不过，项目目前仍处于早期开发阶段，性能和硬件兼容性都有限，暂时还不能作为日常使用的 PC 安装 macOS 方案。</p>
+        <p>👉 <a href="https://github.com/tylertms/Stela">https://github.com/tylertms/Stela</a></p>
+        <hr>
+        <p align="center">
+          <a href="https://github.com/tylertms/Stela" target="_blank">🔗 查看链接</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> •
+          <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> •
+          <a href="https://github.com/jaywcjlove/quick-rss/issues/452" target="_blank">#452</a> •
+          <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+        </p>
+        <hr>
+      </markdown-style>
+    </div>
+    <script src="../js/demo-preview.js?v=1.34.5"></script>
+    <div class="footer warpper" style="max-width:720px;">
+      <a href="./terms-of-service.html" target="_blank">Terms of Service</a> •
+      <a href="./privacy-policy.html" target="_blank">Privacy Policy</a> •
+      <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> •
+      <a href="https://wangchujiang.com/#/sponsor" target="_blank">Sponsor</a> •
+      <a href="https://wangchujiang.com/#/app" target="_blank">More Apps</a><br><br>Generated by <a href="https://github.com/jaywcjlove/idoc" target="_blank">idoc</a> v1.34.5
+    </div>
+    <script src="../js/tocbot.js?v=1.34.5"></script>
+  </body>
+</html>

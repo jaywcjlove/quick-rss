@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "453",
+            "content_html": "<p>开发者自荐。敲一敲是一款适用于 macOS 13 或更新版本的菜单栏工具，用来统计每天的键盘动作、鼠标点击和光标移动，并可用键盘热力图查看各键的使用次数。全系统记录使用 macOS 的输入监控权限。日常统计默认保存在本机，应用不保存输入文字；排行榜须主动参加，加入后才上传限定的日级汇总。</p>\n<img alt=\"Keydance\" src=\"https://github.com/user-attachments/assets/30b6dbb2-36c8-4a85-87f1-361fd83db70d\">\n<p>可从 Mac App Store 免费下载。首次使用有 7 天完整体验，到期不自动扣费，基础统计可继续免费使用；Pro 可选年付或一次买断。</p>\n<p><a href=\"https://apps.apple.com/cn/app/id6797265723\">Mac App Store</a> · <a href=\"https://github.com/yimenyinghua-cpu/keydance-macos\">GitHub 项目说明</a></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/453\" target=\"_blank\">#453</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/yimenyinghua-cpu\" target=\"_blank\">@yimenyinghua-cpu</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/453.html",
+            "title": "敲一敲 Keydance：在 Mac 菜单栏查看每天的按键和点击次数",
+            "summary": "开发者自荐。敲一敲是一款适用于 macOS 13 或更新版本的菜单栏工具，用来统计每天的键盘动作、鼠标点击和光标移动，并可用键盘热力图查看各键的使用次数。全系统记录使用 macOS 的输入监控权限。日常统计默认保存在本机，应用不保存输入文字；排行榜须主动参加，加入后才上传限定的日级汇总。 可从 Mac App Store 免费下载。首次使用有 7 天完整体验，到期不自动扣费，基础统计可继续免费使用",
+            "image": "https://github.com/user-attachments/assets/30b6dbb2-36c8-4a85-87f1-361fd83db70d",
+            "date_modified": "2026-11-17T11:57:51.000Z",
+            "author": {
+                "name": "yimenyinghua-cpu",
+                "url": "https://avatars.githubusercontent.com/u/271226049?v=4"
+            }
+        },
+        {
             "id": "452",
             "content_html": "<p>让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。</p>\n<p>它通过 ARM64 指令翻译、Apple Silicon 硬件建模以及 NVIDIA GPU 的 Metal 驱动，让普通 x86-64 PC 能够尝试运行原本为 Apple Silicon Mac 编译的 macOS。</p>\n<img alt=\"Stela\" src=\"https://github.com/user-attachments/assets/c74d9508-433a-4b53-8af2-42609a96ea82\">\n<p>与传统 Hackintosh 不同，Stela 并不是运行 Intel 版 macOS，而是尝试在 x86-64 硬件上运行 ARM64 版 macOS。目前它将自身模拟为一台 Apple M2 Mac mini。</p>\n<p>这是一个相当大胆的尝试，涉及 CPU 跨架构指令翻译、硬件模拟和 GPU 驱动等底层技术。</p>\n<p>如果未来能够成熟，或许能让更多非 Apple 硬件运行 Apple Silicon 版 macOS。</p>\n<p>不过，项目目前仍处于早期开发阶段，性能和硬件兼容性都有限，暂时还不能作为日常使用的 PC 安装 macOS 方案。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/452\" target=\"_blank\">#452</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/452.html",

@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [敲一敲 Keydance：在 Mac 菜单栏查看每天的按键和点击次数](https://wangchujiang.com/quick-rss/issue/453.html) 
+
+![](https://github.com/user-attachments/assets/30b6dbb2-36c8-4a85-87f1-361fd83db70d)
+
+开发者自荐。敲一敲是一款适用于 macOS 13 或更新版本的菜单栏工具，用来统计每天的键盘动作、鼠标点击和光标移动，并可用键盘热力图查看各键的使用次数。全系统记录使用 macOS 的输入监控权限。日常统计默认保存在本机，应用不保存输入文字；排行榜须主动参加，加入后才上传限定的日级汇总。 可从 Mac App Store 免费下载。首次使用有 7 天完整体验，到期不自动扣费，基础统计可继续免费使用 ([#453](https://github.com/jaywcjlove/quick-rss/issues/453) - [@yimenyinghua-cpu](https://github.com/yimenyinghua-cpu))
 ## [Stela - 让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。](https://wangchujiang.com/quick-rss/issue/452.html) 
 
 ![](https://github.com/user-attachments/assets/c74d9508-433a-4b53-8af2-42609a96ea82)

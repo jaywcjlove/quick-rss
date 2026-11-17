@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Mon, 16 Nov 2026 02:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 13:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[敲一敲 Keydance：在 Mac 菜单栏查看每天的按键和点击次数]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/453.html</link>
+            <guid isPermaLink="false">453</guid>
+            <pubDate>Tue, 17 Nov 2026 11:57:51 GMT</pubDate>
+            <description><![CDATA[开发者自荐。敲一敲是一款适用于 macOS 13 或更新版本的菜单栏工具，用来统计每天的键盘动作、鼠标点击和光标移动，并可用键盘热力图查看各键的使用次数。全系统记录使用 macOS 的输入监控权限。日常统计默认保存在本机，应用不保存输入文字；排行榜须主动参加，加入后才上传限定的日级汇总。 可从 Mac App Store 免费下载。首次使用有 7 天完整体验，到期不自动扣费，基础统计可继续免费使用]]></description>
+            <content:encoded><![CDATA[<p>开发者自荐。敲一敲是一款适用于 macOS 13 或更新版本的菜单栏工具，用来统计每天的键盘动作、鼠标点击和光标移动，并可用键盘热力图查看各键的使用次数。全系统记录使用 macOS 的输入监控权限。日常统计默认保存在本机，应用不保存输入文字；排行榜须主动参加，加入后才上传限定的日级汇总。</p>
+<img alt="Keydance" src="https://github.com/user-attachments/assets/30b6dbb2-36c8-4a85-87f1-361fd83db70d">
+<p>可从 Mac App Store 免费下载。首次使用有 7 天完整体验，到期不自动扣费，基础统计可继续免费使用；Pro 可选年付或一次买断。</p>
+<p><a href="https://apps.apple.com/cn/app/id6797265723">Mac App Store</a> · <a href="https://github.com/yimenyinghua-cpu/keydance-macos">GitHub 项目说明</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/453" target="_blank">#453</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/yimenyinghua-cpu" target="_blank">@yimenyinghua-cpu</a>
+      ]]></content:encoded>
+            <author>yimenyinghua-cpu</author>
+            <enclosure url="https://github.com/user-attachments/assets/30b6dbb2-36c8-4a85-87f1-361fd83db70d" length="0" type="image//user-attachments/assets/30b6dbb2-36c8-4a85-87f1-361fd83db70d"/>
+        </item>
         <item>
             <title><![CDATA[Stela - 让普通 Intel / AMD PC 运行 Apple Silicon 版 macOS 的实验性开源项目。]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/452.html</link>

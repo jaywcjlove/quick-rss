@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Lyrimuse：开源免费的 Mac 桌面歌词，支持 QQ 音乐、网易云等国内播放器](https://wangchujiang.com/quick-rss/issue/454.html) 
+
+![](https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/hero-surfaces.zh-CN.jpg)
+
+开发者自荐。Lyrimuse 是 Mac 上的桌面歌词软件，开源免费（GPL-3.0）。我以前一直用 LyricsX，它 2022 年之后就不更新了，也不支持国内的播放器，就自己写了一个。 它跟着正在放的歌逐字显示歌词，可以挂在桌面上，也能放进菜单栏、刘海下面的灵动岛或者完整的歌词窗口。Apple Music、Spotify、QQ 音乐、网易云、酷狗这些都能用，浏览器里的网页播放器也行，一共二十多 ([#454](https://github.com/jaywcjlove/quick-rss/issues/454) - [@Yudaotor](https://github.com/Yudaotor))
 ## [敲一敲 Keydance：在 Mac 菜单栏查看每天的按键和点击次数](https://wangchujiang.com/quick-rss/issue/453.html) 
 
 ![](https://github.com/user-attachments/assets/30b6dbb2-36c8-4a85-87f1-361fd83db70d)

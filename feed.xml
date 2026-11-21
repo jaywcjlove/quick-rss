@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-11-17T13:49:21.362Z</updated>
+    <updated>2026-11-21T21:29:07.984Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,37 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Lyrimuse：开源免费的 Mac 桌面歌词，支持 QQ 音乐、网易云等国内播放器]]></title>
+        <id>454</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/454.html"/>
+        <link rel="enclosure" href="https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/hero-surfaces.zh-CN.jpg" type="image/jpg"/>
+        <updated>2026-11-20T09:42:44.000Z</updated>
+        <summary type="html"><![CDATA[开发者自荐。Lyrimuse 是 Mac 上的桌面歌词软件，开源免费（GPL-3.0）。我以前一直用 LyricsX，它 2022 年之后就不更新了，也不支持国内的播放器，就自己写了一个。 它跟着正在放的歌逐字显示歌词，可以挂在桌面上，也能放进菜单栏、刘海下面的灵动岛或者完整的歌词窗口。Apple Music、Spotify、QQ 音乐、网易云、酷狗这些都能用，浏览器里的网页播放器也行，一共二十多]]></summary>
+        <content type="html"><![CDATA[<p>开发者自荐。Lyrimuse 是 Mac 上的桌面歌词软件，开源免费（GPL-3.0）。我以前一直用 LyricsX，它 2022 年之后就不更新了，也不支持国内的播放器，就自己写了一个。</p>
+<p>它跟着正在放的歌逐字显示歌词，可以挂在桌面上，也能放进菜单栏、刘海下面的灵动岛或者完整的歌词窗口。Apple Music、Spotify、QQ 音乐、网易云、酷狗这些都能用，浏览器里的网页播放器也行，一共二十多款。歌词从十几个源里找，自动挑跟这首歌的版本对得上的那一份，日语歌能标假名，粤语歌能标粤拼。</p>
+<img alt="Lyrimuse" src="https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/hero-surfaces.zh-CN.jpg">
+<p>需要 macOS 14 以上，Apple 芯片和 Intel 都能用。安装包在 GitHub Releases，也可以用 Homebrew 装：</p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">brew tap yudaotor/lyrimuse
+</span><span class="code-line line-number" line="2">brew trust <span class="token parameter variable">--cask</span> yudaotor/lyrimuse/lyrimuse
+</span><span class="code-line line-number" line="3">brew <span class="token function">install</span> <span class="token parameter variable">--cask</span> lyrimuse
+</span></code></pre>
+<p>App 没有做 Apple 公证，手动下载的话第一次打开要去「隐私与安全性」里点一下「仍要打开」，用 Homebrew 装就没有这一步。</p>
+<p><a href="https://yudaotor.github.io/lyrimuse/zh/">中文官网</a> · <a href="https://github.com/Yudaotor/lyrimuse/releases/latest">下载</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/454" target="_blank">#454</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/Yudaotor" target="_blank">@Yudaotor</a>
+      ]]></content>
+        <author>
+            <name>Yudaotor</name>
+            <uri>https://avatars.githubusercontent.com/u/87225219?v=4</uri>
+        </author>
+        <contributor>
+            <name>Yudaotor</name>
+            <uri>https://avatars.githubusercontent.com/u/87225219?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[敲一敲 Keydance：在 Mac 菜单栏查看每天的按键和点击次数]]></title>
         <id>453</id>

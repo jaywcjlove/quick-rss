@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "456",
+            "content_html": "<p>Builderoom 收的是个人和小团队做出来的作品：网页应用、小程序、App、桌面软件、浏览器扩展、命令行工具、skill、智能体、开源库、设计作品。找东西的人不用知道名字，用一句话或一段语音说出需求，AI 就从站内作品里挑出合适的几款，并说明为什么推荐。做东西的人贴一个链接（官网、GitHub 仓库、应用商店页面或 npm / PyPI 包），AI 会把介绍、功能和截图整理好，核对后提交，免费，人工审核后上架。界面有中文和英文。</p>\n<p>我是开发者。</p>\n<img width=\"1903\" height=\"990\" alt=\"截屏2026-11-24 11 11 15\" src=\"https://github.com/user-attachments/assets/3d30eb0e-8867-48e3-a371-f4abf67b5122\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/456\" target=\"_blank\">#456</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/cena001plus\" target=\"_blank\">@cena001plus</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/456.html",
+            "title": "Builderoom：独立开发者、设计师与创客的作品展台",
+            "summary": "Builderoom 收的是个人和小团队做出来的作品：网页应用、小程序、App、桌面软件、浏览器扩展、命令行工具、skill、智能体、开源库、设计作品。找东西的人不用知道名字，用一句话或一段语音说出需求，AI 就从站内作品里挑出合适的几款，并说明为什么推荐。做东西的人贴一个链接（官网、GitHub 仓库、应用商店页面或 npm / PyPI 包），AI 会把介绍、功能和截图整理好，核对后提交，免费",
+            "image": "https://github.com/user-attachments/assets/3d30eb0e-8867-48e3-a371-f4abf67b5122",
+            "date_modified": "2026-11-24T03:12:09.000Z",
+            "author": {
+                "name": "cena001plus",
+                "url": "https://avatars.githubusercontent.com/u/37894345?v=4"
+            }
+        },
+        {
             "id": "454",
             "content_html": "<p>开发者自荐。Lyrimuse 是 Mac 上的桌面歌词软件，开源免费（GPL-3.0）。我以前一直用 LyricsX，它 2022 年之后就不更新了，也不支持国内的播放器，就自己写了一个。</p>\n<p>它跟着正在放的歌逐字显示歌词，可以挂在桌面上，也能放进菜单栏、刘海下面的灵动岛或者完整的歌词窗口。Apple Music、Spotify、QQ 音乐、网易云、酷狗这些都能用，浏览器里的网页播放器也行，一共二十多款。歌词从十几个源里找，自动挑跟这首歌的版本对得上的那一份，日语歌能标假名，粤语歌能标粤拼。</p>\n<img alt=\"Lyrimuse\" src=\"https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/hero-surfaces.zh-CN.jpg\">\n<p>需要 macOS 14 以上，Apple 芯片和 Intel 都能用。安装包在 GitHub Releases，也可以用 Homebrew 装：</p>\n<pre class=\"language-bash\"><code class=\"language-bash code-highlight\"><span class=\"code-line line-number\" line=\"1\">brew tap yudaotor/lyrimuse\n</span><span class=\"code-line line-number\" line=\"2\">brew trust <span class=\"token parameter variable\">--cask</span> yudaotor/lyrimuse/lyrimuse\n</span><span class=\"code-line line-number\" line=\"3\">brew <span class=\"token function\">install</span> <span class=\"token parameter variable\">--cask</span> lyrimuse\n</span></code></pre>\n<p>App 没有做 Apple 公证，手动下载的话第一次打开要去「隐私与安全性」里点一下「仍要打开」，用 Homebrew 装就没有这一步。</p>\n<p><a href=\"https://yudaotor.github.io/lyrimuse/zh/\">中文官网</a> · <a href=\"https://github.com/Yudaotor/lyrimuse/releases/latest\">下载</a></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/454\" target=\"_blank\">#454</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/Yudaotor\" target=\"_blank\">@Yudaotor</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/454.html",

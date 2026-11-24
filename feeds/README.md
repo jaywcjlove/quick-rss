@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Builderoom：独立开发者、设计师与创客的作品展台](https://wangchujiang.com/quick-rss/issue/456.html) 
+
+![](https://github.com/user-attachments/assets/3d30eb0e-8867-48e3-a371-f4abf67b5122)
+
+Builderoom 收的是个人和小团队做出来的作品：网页应用、小程序、App、桌面软件、浏览器扩展、命令行工具、skill、智能体、开源库、设计作品。找东西的人不用知道名字，用一句话或一段语音说出需求，AI 就从站内作品里挑出合适的几款，并说明为什么推荐。做东西的人贴一个链接（官网、GitHub 仓库、应用商店页面或 npm / PyPI 包），AI 会把介绍、功能和截图整理好，核对后提交，免费 ([#456](https://github.com/jaywcjlove/quick-rss/issues/456) - [@cena001plus](https://github.com/cena001plus))
 ## [Lyrimuse：开源免费的 Mac 桌面歌词，支持 QQ 音乐、网易云等国内播放器](https://wangchujiang.com/quick-rss/issue/454.html) 
 
 ![](https://raw.githubusercontent.com/Yudaotor/lyrimuse/main/docs/images/hero-surfaces.zh-CN.jpg)

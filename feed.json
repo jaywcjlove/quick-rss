@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "457",
+            "content_html": "<p>开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。</p>\n<p><img src=\"https://matinmonshizadeh.github.io/animation-handbook/og-image.png\" alt=\"Animation Handbook\"></p>\n<p>网站：<a href=\"https://matinmonshizadeh.github.io/animation-handbook/\">https://matinmonshizadeh.github.io/animation-handbook/</a></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/457\" target=\"_blank\">#457</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/matinmonshizadeh\" target=\"_blank\">@matinmonshizadeh</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/457.html",
+            "title": "Animation Handbook：176 个网页动画，可在线试玩，并一键复制成给 AI 的提示词",
+            "summary": "开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。 网站：https:",
+            "image": "https://matinmonshizadeh.github.io/animation-handbook/og-image.png",
+            "date_modified": "2026-11-25T02:23:32.000Z",
+            "author": {
+                "name": "matinmonshizadeh",
+                "url": "https://avatars.githubusercontent.com/u/96329489?v=4"
+            }
+        },
+        {
             "id": "456",
             "content_html": "<p>Builderoom 收的是个人和小团队做出来的作品：网页应用、小程序、App、桌面软件、浏览器扩展、命令行工具、skill、智能体、开源库、设计作品。找东西的人不用知道名字，用一句话或一段语音说出需求，AI 就从站内作品里挑出合适的几款，并说明为什么推荐。做东西的人贴一个链接（官网、GitHub 仓库、应用商店页面或 npm / PyPI 包），AI 会把介绍、功能和截图整理好，核对后提交，免费，人工审核后上架。界面有中文和英文。</p>\n<p>我是开发者。</p>\n<img width=\"1903\" height=\"990\" alt=\"截屏2026-11-24 11 11 15\" src=\"https://github.com/user-attachments/assets/3d30eb0e-8867-48e3-a371-f4abf67b5122\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/456\" target=\"_blank\">#456</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/cena001plus\" target=\"_blank\">@cena001plus</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/456.html",

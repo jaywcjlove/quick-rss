@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-11-24T05:16:34.551Z</updated>
+    <updated>2026-11-25T03:52:08.076Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,30 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Animation Handbook：176 个网页动画，可在线试玩，并一键复制成给 AI 的提示词]]></title>
+        <id>457</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/457.html"/>
+        <link rel="enclosure" href="https://matinmonshizadeh.github.io/animation-handbook/og-image.png" type="image/png"/>
+        <updated>2026-11-25T02:23:32.000Z</updated>
+        <summary type="html"><![CDATA[开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。 网站：https:]]></summary>
+        <content type="html"><![CDATA[<p>开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。</p>
+<p><img src="https://matinmonshizadeh.github.io/animation-handbook/og-image.png" alt="Animation Handbook"></p>
+<p>网站：<a href="https://matinmonshizadeh.github.io/animation-handbook/">https://matinmonshizadeh.github.io/animation-handbook/</a></p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/457" target="_blank">#457</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/matinmonshizadeh" target="_blank">@matinmonshizadeh</a>
+      ]]></content>
+        <author>
+            <name>matinmonshizadeh</name>
+            <uri>https://avatars.githubusercontent.com/u/96329489?v=4</uri>
+        </author>
+        <contributor>
+            <name>matinmonshizadeh</name>
+            <uri>https://avatars.githubusercontent.com/u/96329489?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Builderoom：独立开发者、设计师与创客的作品展台]]></title>
         <id>456</id>

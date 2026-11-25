@@ -1,5 +1,19 @@
 [
   {
+    "id": "457",
+    "url": "https://wangchujiang.com/quick-rss/issue/457.html",
+    "title": "Animation Handbook：176 个网页动画，可在线试玩，并一键复制成给 AI 的提示词",
+    "content_html": "<p>开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。</p>\n<p><img src=\"https://matinmonshizadeh.github.io/animation-handbook/og-image.png\" alt=\"Animation Handbook\"></p>\n<p>网站：<a href=\"https://matinmonshizadeh.github.io/animation-handbook/\">https://matinmonshizadeh.github.io/animation-handbook/</a></p>",
+    "summary": "开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。 网站：https:",
+    "banner_image": "https://matinmonshizadeh.github.io/animation-handbook/og-image.png",
+    "date_published": "2026-11-25T02:23:32Z",
+    "author": {
+      "name": "matinmonshizadeh",
+      "link": "https://avatars.githubusercontent.com/u/96329489?v=4"
+    },
+    "markdownContent": "开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。\n\n![Animation Handbook](https://matinmonshizadeh.github.io/animation-handbook/og-image.png)\n\n网站：https://matinmonshizadeh.github.io/animation-handbook/"
+  },
+  {
     "id": "456",
     "url": "https://wangchujiang.com/quick-rss/issue/456.html",
     "title": "Builderoom：独立开发者、设计师与创客的作品展台",

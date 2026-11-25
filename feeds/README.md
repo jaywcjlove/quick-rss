@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Animation Handbook：176 个网页动画，可在线试玩，并一键复制成给 AI 的提示词](https://wangchujiang.com/quick-rss/issue/457.html) 
+
+![](https://matinmonshizadeh.github.io/animation-handbook/og-image.png)
+
+开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。 网站：https: ([#457](https://github.com/jaywcjlove/quick-rss/issues/457) - [@matinmonshizadeh](https://github.com/matinmonshizadeh))
 ## [Builderoom：独立开发者、设计师与创客的作品展台](https://wangchujiang.com/quick-rss/issue/456.html) 
 
 ![](https://github.com/user-attachments/assets/3d30eb0e-8867-48e3-a371-f4abf67b5122)

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 26 Nov 2026 03:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 03:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,28 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CrossDesk：跨平台远程桌面控制软件，可以让你通过 Mac、Windows、Linux、浏览器、手机甚至终端，远程查看和控制其他电脑。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/460.html</link>
+            <guid isPermaLink="false">460</guid>
+            <pubDate>Thu, 26 Nov 2026 03:44:59 GMT</pubDate>
+            <description><![CDATA[CrossDesk 不只是远程桌面软件，更像是一个跨平台远程设备管理与控制平台。 它类似 TeamViewer、AnyDesk、RustDesk，但它还有一个比较特别的功能：DeskHub，可以同时查看和控制多台电脑，形成一个远程桌面控制墙。 最值得关注的三个方向是： ☑️ DeskHub：同时管理多台电脑，适合多设备开发和测试。 ☑️ Terminal Controller：通过终端控制远程桌面]]></description>
+            <content:encoded><![CDATA[<p>CrossDesk 不只是远程桌面软件，更像是一个跨平台远程设备管理与控制平台。</p>
+<p>它类似 TeamViewer、AnyDesk、RustDesk，但它还有一个比较特别的功能：DeskHub，可以同时查看和控制多台电脑，形成一个远程桌面控制墙。</p>
+<img alt="CrossDesk" src="https://github.com/user-attachments/assets/4db5a62d-ad80-43a2-b30a-f50cb62e2386">
+<p>最值得关注的三个方向是：</p>
+<p>☑️ DeskHub：同时管理多台电脑，适合多设备开发和测试。<br>
+☑️ Terminal Controller：通过终端控制远程桌面，适合开发者。<br>
+☑️ Agent / MCP：让 AI Agent 可以直接操作远程电脑。</p>
+<p>尤其是 MCP 这一块，意味着 CrossDesk 有机会成为 AI Agent 操作远程 macOS、Windows 和 Linux 设备的一个基础工具。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/460" target="_blank">#460</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/4db5a62d-ad80-43a2-b30a-f50cb62e2386" length="0" type="image//user-attachments/assets/4db5a62d-ad80-43a2-b30a-f50cb62e2386"/>
+        </item>
         <item>
             <title><![CDATA[短剧镜头成本计算器：把重拍算进每个采用镜头的成本]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/459.html</link>

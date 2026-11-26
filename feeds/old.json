@@ -1,5 +1,19 @@
 [
   {
+    "id": "460",
+    "url": "https://wangchujiang.com/quick-rss/issue/460.html",
+    "title": "CrossDesk：跨平台远程桌面控制软件，可以让你通过 Mac、Windows、Linux、浏览器、手机甚至终端，远程查看和控制其他电脑。",
+    "content_html": "<p>CrossDesk 不只是远程桌面软件，更像是一个跨平台远程设备管理与控制平台。</p>\n<p>它类似 TeamViewer、AnyDesk、RustDesk，但它还有一个比较特别的功能：DeskHub，可以同时查看和控制多台电脑，形成一个远程桌面控制墙。</p>\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/4db5a62d-ad80-43a2-b30a-f50cb62e2386\">\n<p>最值得关注的三个方向是：</p>\n<p>☑️ DeskHub：同时管理多台电脑，适合多设备开发和测试。<br>\n☑️ Terminal Controller：通过终端控制远程桌面，适合开发者。<br>\n☑️ Agent / MCP：让 AI Agent 可以直接操作远程电脑。</p>\n<p>尤其是 MCP 这一块，意味着 CrossDesk 有机会成为 AI Agent 操作远程 macOS、Windows 和 Linux 设备的一个基础工具。</p>",
+    "summary": "CrossDesk 不只是远程桌面软件，更像是一个跨平台远程设备管理与控制平台。 它类似 TeamViewer、AnyDesk、RustDesk，但它还有一个比较特别的功能：DeskHub，可以同时查看和控制多台电脑，形成一个远程桌面控制墙。 最值得关注的三个方向是： ☑️ DeskHub：同时管理多台电脑，适合多设备开发和测试。 ☑️ Terminal Controller：通过终端控制远程桌面",
+    "banner_image": null,
+    "date_published": "2026-11-26T03:44:59Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "CrossDesk 不只是远程桌面软件，更像是一个跨平台远程设备管理与控制平台。\n\n它类似 TeamViewer、AnyDesk、RustDesk，但它还有一个比较特别的功能：DeskHub，可以同时查看和控制多台电脑，形成一个远程桌面控制墙。\n\n<img alt=\"CrossDesk\" src=\"https://github.com/user-attachments/assets/4db5a62d-ad80-43a2-b30a-f50cb62e2386\" />\n\n最值得关注的三个方向是：\n\n☑️ DeskHub：同时管理多台电脑，适合多设备开发和测试。  \n☑️ Terminal Controller：通过终端控制远程桌面，适合开发者。  \n☑️ Agent / MCP：让 AI Agent 可以直接操作远程电脑。  \n\n尤其是 MCP 这一块，意味着 CrossDesk 有机会成为 AI Agent 操作远程 macOS、Windows 和 Linux 设备的一个基础工具。"
+  },
+  {
     "id": "459",
     "url": "https://wangchujiang.com/quick-rss/issue/459.html",
     "title": "短剧镜头成本计算器：把重拍算进每个采用镜头的成本",

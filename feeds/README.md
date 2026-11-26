@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [CrossDesk：跨平台远程桌面控制软件，可以让你通过 Mac、Windows、Linux、浏览器、手机甚至终端，远程查看和控制其他电脑。](https://wangchujiang.com/quick-rss/issue/460.html) 
+
+![](https://github.com/user-attachments/assets/4db5a62d-ad80-43a2-b30a-f50cb62e2386)
+
+CrossDesk 不只是远程桌面软件，更像是一个跨平台远程设备管理与控制平台。 它类似 TeamViewer、AnyDesk、RustDesk，但它还有一个比较特别的功能：DeskHub，可以同时查看和控制多台电脑，形成一个远程桌面控制墙。 最值得关注的三个方向是： ☑️ DeskHub：同时管理多台电脑，适合多设备开发和测试。 ☑️ Terminal Controller：通过终端控制远程桌面 ([#460](https://github.com/jaywcjlove/quick-rss/issues/460) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [短剧镜头成本计算器：把重拍算进每个采用镜头的成本](https://wangchujiang.com/quick-rss/issue/459.html) 
 
 我是千流 API 短剧成本计算器的维护方。做视频预算时，生成一条镜头的价格容易查，剪进成片的每条镜头实际要花多少，还取决于重拍了几次。 打开链接，预填的是 100 个 5 秒的 MiniMax H3 纯文生视频任务。按页面注明的 768P 样例单价，这批预计花 39 美元。采用 80 个镜头，平均每个约 0.49 美元；把采用数改成 50，总预算不变，每个就要 0.78 美元。 也可以切换到 Se ([#459](https://github.com/jaywcjlove/quick-rss/issues/459) - [@xiaodilj-dev](https://github.com/xiaodilj-dev))

@@ -1,5 +1,19 @@
 [
   {
+    "id": "461",
+    "url": "https://wangchujiang.com/quick-rss/issue/461.html",
+    "title": "Enconvo - 原生 macOS AI 助手和智能 Agent 应用",
+    "content_html": "<p>不只是一个 ChatGPT 聊天窗口，而是一个能够理解你的 Mac 屏幕、操作其他应用、执行任务、自动化工作流程的 AI 助手。</p>\n<img alt=\"Enconvo\" src=\"https://github.com/user-attachments/assets/aa297279-1ab5-44bd-b033-e131c6220669\">\n<p>希望让 AI 直接帮你操作 Mac，完成实际工作。</p>\n<p>我觉得 Enconvo 有几个值得研究的地方：</p>\n<ol>\n<li>原生 macOS 应用：官网明确表示不是 Electron，而是原生 macOS 应用。</li>\n<li>MCP 生态：可以连接 MCP Server，将外部工具接入 AI。</li>\n<li>插件生态：插件开源，开发者可以自己扩展功能。</li>\n<li>工作流编辑器：把 AI 能力组合成可重复执行的自动化流程。</li>\n<li>多模型架构：统一接入不同 AI 提供商和本地模型。</li>\n</ol>",
+    "summary": "不只是一个 ChatGPT 聊天窗口，而是一个能够理解你的 Mac 屏幕、操作其他应用、执行任务、自动化工作流程的 AI 助手。 希望让 AI 直接帮你操作 Mac，完成实际工作。 我觉得 Enconvo 有几个值得研究的地方： 1. 原生 macOS 应用：官网明确表示不是 Electron，而是原生 macOS 应用。 2. MCP 生态：可以连接 MCP Server，将外部工具接入 AI。",
+    "banner_image": null,
+    "date_published": "2026-11-26T10:17:48Z",
+    "author": {
+      "name": "jaywcjlove",
+      "link": "https://avatars.githubusercontent.com/u/1680273?v=4"
+    },
+    "markdownContent": "不只是一个 ChatGPT 聊天窗口，而是一个能够理解你的 Mac 屏幕、操作其他应用、执行任务、自动化工作流程的 AI 助手。\n\n<img alt=\"Enconvo\" src=\"https://github.com/user-attachments/assets/aa297279-1ab5-44bd-b033-e131c6220669\" />\n\n希望让 AI 直接帮你操作 Mac，完成实际工作。\n\n我觉得 Enconvo 有几个值得研究的地方：\n\n1. 原生 macOS 应用：官网明确表示不是 Electron，而是原生 macOS 应用。\n2. MCP 生态：可以连接 MCP Server，将外部工具接入 AI。\n3. 插件生态：插件开源，开发者可以自己扩展功能。\n4. 工作流编辑器：把 AI 能力组合成可重复执行的自动化流程。\n5. 多模型架构：统一接入不同 AI 提供商和本地模型。"
+  },
+  {
     "id": "460",
     "url": "https://wangchujiang.com/quick-rss/issue/460.html",
     "title": "CrossDesk：跨平台远程桌面控制软件，可以让你通过 Mac、Windows、Linux、浏览器、手机甚至终端，远程查看和控制其他电脑。",

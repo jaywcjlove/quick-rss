@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "459",
+            "content_html": "<p>我是千流 API 短剧成本计算器的维护方。做视频预算时，生成一条镜头的价格容易查，剪进成片的每条镜头实际要花多少，还取决于重拍了几次。</p>\n<p>打开链接，预填的是 100 个 5 秒的 MiniMax H3 纯文生视频任务。按页面注明的 768P 样例单价，这批预计花 39 美元。采用 80 个镜头，平均每个约 0.49 美元；把采用数改成 50，总预算不变，每个就要 0.78 美元。</p>\n<p>也可以切换到 Seedance 2.5，用自己任务回执里的计费 token 估算。计算器免费，试算无需登录或填写密钥。实际调用模型生成视频按量收费。</p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/459\" target=\"_blank\">#459</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/xiaodilj-dev\" target=\"_blank\">@xiaodilj-dev</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/459.html",
+            "title": "短剧镜头成本计算器：把重拍算进每个采用镜头的成本",
+            "summary": "我是千流 API 短剧成本计算器的维护方。做视频预算时，生成一条镜头的价格容易查，剪进成片的每条镜头实际要花多少，还取决于重拍了几次。 打开链接，预填的是 100 个 5 秒的 MiniMax H3 纯文生视频任务。按页面注明的 768P 样例单价，这批预计花 39 美元。采用 80 个镜头，平均每个约 0.49 美元；把采用数改成 50，总预算不变，每个就要 0.78 美元。 也可以切换到 Se",
+            "date_modified": "2026-11-25T20:59:47.000Z",
+            "author": {
+                "name": "xiaodilj-dev",
+                "url": "https://avatars.githubusercontent.com/u/291181774?v=4"
+            }
+        },
+        {
             "id": "457",
             "content_html": "<p>开发者自荐。Animation Handbook 是一个免费、开源（MIT）的网页动画参考站，收录 176 种动画。每种动画都能在线播放，大多数可以用几个简单设置改变效果，再复制一段写好的提示词，交给任何 AI 助手来实现。看到过某个动画却不知道叫什么？回答三个简短问题，就能找到它的名字。无需注册，纯 HTML、CSS 和 JavaScript，没有依赖。网站目前只有英文界面。</p>\n<p><img src=\"https://matinmonshizadeh.github.io/animation-handbook/og-image.png\" alt=\"Animation Handbook\"></p>\n<p>网站：<a href=\"https://matinmonshizadeh.github.io/animation-handbook/\">https://matinmonshizadeh.github.io/animation-handbook/</a></p><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/457\" target=\"_blank\">#457</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/matinmonshizadeh\" target=\"_blank\">@matinmonshizadeh</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/457.html",

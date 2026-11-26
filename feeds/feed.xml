@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-11-25T03:52:08.076Z</updated>
+    <updated>2026-11-26T03:43:26.852Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,29 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[短剧镜头成本计算器：把重拍算进每个采用镜头的成本]]></title>
+        <id>459</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/459.html"/>
+        <updated>2026-11-25T20:59:47.000Z</updated>
+        <summary type="html"><![CDATA[我是千流 API 短剧成本计算器的维护方。做视频预算时，生成一条镜头的价格容易查，剪进成片的每条镜头实际要花多少，还取决于重拍了几次。 打开链接，预填的是 100 个 5 秒的 MiniMax H3 纯文生视频任务。按页面注明的 768P 样例单价，这批预计花 39 美元。采用 80 个镜头，平均每个约 0.49 美元；把采用数改成 50，总预算不变，每个就要 0.78 美元。 也可以切换到 Se]]></summary>
+        <content type="html"><![CDATA[<p>我是千流 API 短剧成本计算器的维护方。做视频预算时，生成一条镜头的价格容易查，剪进成片的每条镜头实际要花多少，还取决于重拍了几次。</p>
+<p>打开链接，预填的是 100 个 5 秒的 MiniMax H3 纯文生视频任务。按页面注明的 768P 样例单价，这批预计花 39 美元。采用 80 个镜头，平均每个约 0.49 美元；把采用数改成 50，总预算不变，每个就要 0.78 美元。</p>
+<p>也可以切换到 Seedance 2.5，用自己任务回执里的计费 token 估算。计算器免费，试算无需登录或填写密钥。实际调用模型生成视频按量收费。</p><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/459" target="_blank">#459</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/xiaodilj-dev" target="_blank">@xiaodilj-dev</a>
+      ]]></content>
+        <author>
+            <name>xiaodilj-dev</name>
+            <uri>https://avatars.githubusercontent.com/u/291181774?v=4</uri>
+        </author>
+        <contributor>
+            <name>xiaodilj-dev</name>
+            <uri>https://avatars.githubusercontent.com/u/291181774?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animation Handbook：176 个网页动画，可在线试玩，并一键复制成给 AI 的提示词]]></title>
         <id>457</id>

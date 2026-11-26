@@ -11,6 +11,9 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [短剧镜头成本计算器：把重拍算进每个采用镜头的成本](https://wangchujiang.com/quick-rss/issue/459.html) 
+
+我是千流 API 短剧成本计算器的维护方。做视频预算时，生成一条镜头的价格容易查，剪进成片的每条镜头实际要花多少，还取决于重拍了几次。 打开链接，预填的是 100 个 5 秒的 MiniMax H3 纯文生视频任务。按页面注明的 768P 样例单价，这批预计花 39 美元。采用 80 个镜头，平均每个约 0.49 美元；把采用数改成 50，总预算不变，每个就要 0.78 美元。 也可以切换到 Se ([#459](https://github.com/jaywcjlove/quick-rss/issues/459) - [@xiaodilj-dev](https://github.com/xiaodilj-dev))
 ## [Animation Handbook：176 个网页动画，可在线试玩，并一键复制成给 AI 的提示词](https://wangchujiang.com/quick-rss/issue/457.html) 
 
 ![](https://matinmonshizadeh.github.io/animation-handbook/og-image.png)

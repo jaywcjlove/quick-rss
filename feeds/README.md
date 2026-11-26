@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Enconvo - 原生 macOS AI 助手和智能 Agent 应用](https://wangchujiang.com/quick-rss/issue/461.html) 
+
+![](https://github.com/user-attachments/assets/aa297279-1ab5-44bd-b033-e131c6220669)
+
+不只是一个 ChatGPT 聊天窗口，而是一个能够理解你的 Mac 屏幕、操作其他应用、执行任务、自动化工作流程的 AI 助手。 希望让 AI 直接帮你操作 Mac，完成实际工作。 我觉得 Enconvo 有几个值得研究的地方： 原生 macOS 应用：官网明确表示不是 Electron，而是原生 macOS 应用。 MCP 生态：可以连接 MCP Server，将外部工具接入 AI。 插件生态： ([#461](https://github.com/jaywcjlove/quick-rss/issues/461) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [CrossDesk：跨平台远程桌面控制软件，可以让你通过 Mac、Windows、Linux、浏览器、手机甚至终端，远程查看和控制其他电脑。](https://wangchujiang.com/quick-rss/issue/460.html) 
 
 ![](https://github.com/user-attachments/assets/4db5a62d-ad80-43a2-b30a-f50cb62e2386)

@@ -4,7 +4,7 @@
         <title>Quick RSS 技术资源分享</title>
         <link>https://wangchujiang.com/quick-rss/</link>
         <description>记录并分享最新的技术软件资源，持续更新，随时获取最新动态。</description>
-        <lastBuildDate>Thu, 26 Nov 2026 10:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 15:56:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -15,6 +15,24 @@
         </image>
         <copyright>All rights reserved 2026, Kenny</copyright>
         <atom:link href="https://wangchujiang.com/quick-rss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Filetor - 免费开源的 macOS 双栏文件管理器，使用 Swift 和 SwiftUI 开发。]]></title>
+            <link>https://wangchujiang.com/quick-rss/issue/465.html</link>
+            <guid isPermaLink="false">465</guid>
+            <pubDate>Fri, 27 Nov 2026 15:56:06 GMT</pubDate>
+            <description><![CDATA[它可以看作是 Finder 的增强替代品，特别适合需要频繁在不同文件夹、磁盘和网络存储之间复制、移动、比较和整理文件的用户。 它最大的特点是采用左右双栏布局，可以同时打开两个文件夹，直接拖拽文件进行操作，还整合了图片处理、压缩解压和批量文件管理工具。]]></description>
+            <content:encoded><![CDATA[<p>它可以看作是 Finder 的增强替代品，特别适合需要频繁在不同文件夹、磁盘和网络存储之间复制、移动、比较和整理文件的用户。</p>
+<img alt="Filetor" src="https://github.com/user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792">
+<p>它最大的特点是采用左右双栏布局，可以同时打开两个文件夹，直接拖拽文件进行操作，还整合了图片处理、压缩解压和批量文件管理工具。</p>
+<img alt="Filetor" src="https://github.com/user-attachments/assets/29e8118e-4881-4437-b174-60dc8ae32bc9"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/465" target="_blank">#465</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content:encoded>
+            <author>jaywcjlove</author>
+            <enclosure url="https://github.com/user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792" length="0" type="image//user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792"/>
+        </item>
         <item>
             <title><![CDATA[Enconvo - 原生 macOS AI 助手和智能 Agent 应用]]></title>
             <link>https://wangchujiang.com/quick-rss/issue/461.html</link>

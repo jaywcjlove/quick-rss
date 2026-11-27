@@ -11,6 +11,11 @@ https://wangchujiang.com/quick-rss/feed.xml
 
 <!--RSS_LIST_START-->
 
+## [Filetor - 免费开源的 macOS 双栏文件管理器，使用 Swift 和 SwiftUI 开发。](https://wangchujiang.com/quick-rss/issue/465.html) 
+
+![](https://github.com/user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792)
+
+它可以看作是 Finder 的增强替代品，特别适合需要频繁在不同文件夹、磁盘和网络存储之间复制、移动、比较和整理文件的用户。 它最大的特点是采用左右双栏布局，可以同时打开两个文件夹，直接拖拽文件进行操作，还整合了图片处理、压缩解压和批量文件管理工具。 ([#465](https://github.com/jaywcjlove/quick-rss/issues/465) - [@jaywcjlove](https://github.com/jaywcjlove))
 ## [Enconvo - 原生 macOS AI 助手和智能 Agent 应用](https://wangchujiang.com/quick-rss/issue/461.html) 
 
 ![](https://github.com/user-attachments/assets/aa297279-1ab5-44bd-b033-e131c6220669)

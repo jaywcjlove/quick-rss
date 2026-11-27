@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>quick-rss-feed</id>
     <title>Quick RSS 技术资源分享</title>
-    <updated>2026-11-26T10:32:32.989Z</updated>
+    <updated>2026-11-27T15:56:42.507Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Kenny</name>
@@ -15,6 +15,31 @@
     <logo>https://wangchujiang.com/quick-rss/assets/logo.png</logo>
     <icon>https://wangchujiang.com/quick-rss/assets/logo.png</icon>
     <rights>All rights reserved 2026, Kenny</rights>
+    <entry>
+        <title type="html"><![CDATA[Filetor - 免费开源的 macOS 双栏文件管理器，使用 Swift 和 SwiftUI 开发。]]></title>
+        <id>465</id>
+        <link href="https://wangchujiang.com/quick-rss/issue/465.html"/>
+        <link rel="enclosure" href="https://github.com/user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792" type="image//user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792"/>
+        <updated>2026-11-27T15:56:06.000Z</updated>
+        <summary type="html"><![CDATA[它可以看作是 Finder 的增强替代品，特别适合需要频繁在不同文件夹、磁盘和网络存储之间复制、移动、比较和整理文件的用户。 它最大的特点是采用左右双栏布局，可以同时打开两个文件夹，直接拖拽文件进行操作，还整合了图片处理、压缩解压和批量文件管理工具。]]></summary>
+        <content type="html"><![CDATA[<p>它可以看作是 Finder 的增强替代品，特别适合需要频繁在不同文件夹、磁盘和网络存储之间复制、移动、比较和整理文件的用户。</p>
+<img alt="Filetor" src="https://github.com/user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792">
+<p>它最大的特点是采用左右双栏布局，可以同时打开两个文件夹，直接拖拽文件进行操作，还整合了图片处理、压缩解压和批量文件管理工具。</p>
+<img alt="Filetor" src="https://github.com/user-attachments/assets/29e8118e-4881-4437-b174-60dc8ae32bc9"><br /><br />
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/465" target="_blank">#465</a> • 
+      <a href="https://github.com/jaywcjlove/quick-rss/issues/new/choose" target="_blank">投稿/推荐/自荐</a> • 
+      <a href="https://wangchujiang.com/quick-rss/feeds/index.html" target="_blank">Quick RSS</a> • 
+      <a href="https://github.com/jaywcjlove" target="_blank">@jaywcjlove</a>
+      ]]></content>
+        <author>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </author>
+        <contributor>
+            <name>jaywcjlove</name>
+            <uri>https://avatars.githubusercontent.com/u/1680273?v=4</uri>
+        </contributor>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enconvo - 原生 macOS AI 助手和智能 Agent 应用]]></title>
         <id>461</id>

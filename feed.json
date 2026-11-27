@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "465",
+            "content_html": "<p>它可以看作是 Finder 的增强替代品，特别适合需要频繁在不同文件夹、磁盘和网络存储之间复制、移动、比较和整理文件的用户。</p>\n<img alt=\"Filetor\" src=\"https://github.com/user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792\">\n<p>它最大的特点是采用左右双栏布局，可以同时打开两个文件夹，直接拖拽文件进行操作，还整合了图片处理、压缩解压和批量文件管理工具。</p>\n<img alt=\"Filetor\" src=\"https://github.com/user-attachments/assets/29e8118e-4881-4437-b174-60dc8ae32bc9\"><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/465\" target=\"_blank\">#465</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
+            "url": "https://wangchujiang.com/quick-rss/issue/465.html",
+            "title": "Filetor - 免费开源的 macOS 双栏文件管理器，使用 Swift 和 SwiftUI 开发。",
+            "summary": "它可以看作是 Finder 的增强替代品，特别适合需要频繁在不同文件夹、磁盘和网络存储之间复制、移动、比较和整理文件的用户。 它最大的特点是采用左右双栏布局，可以同时打开两个文件夹，直接拖拽文件进行操作，还整合了图片处理、压缩解压和批量文件管理工具。",
+            "image": "https://github.com/user-attachments/assets/1d52d2ae-f56e-4289-a2ba-8d0432843792",
+            "date_modified": "2026-11-27T15:56:06.000Z",
+            "author": {
+                "name": "jaywcjlove",
+                "url": "https://avatars.githubusercontent.com/u/1680273?v=4"
+            }
+        },
+        {
             "id": "461",
             "content_html": "<p>不只是一个 ChatGPT 聊天窗口，而是一个能够理解你的 Mac 屏幕、操作其他应用、执行任务、自动化工作流程的 AI 助手。</p>\n<img alt=\"Enconvo\" src=\"https://github.com/user-attachments/assets/aa297279-1ab5-44bd-b033-e131c6220669\">\n<p>希望让 AI 直接帮你操作 Mac，完成实际工作。</p>\n<p>我觉得 Enconvo 有几个值得研究的地方：</p>\n<ol>\n<li>原生 macOS 应用：官网明确表示不是 Electron，而是原生 macOS 应用。</li>\n<li>MCP 生态：可以连接 MCP Server，将外部工具接入 AI。</li>\n<li>插件生态：插件开源，开发者可以自己扩展功能。</li>\n<li>工作流编辑器：把 AI 能力组合成可重复执行的自动化流程。</li>\n<li>多模型架构：统一接入不同 AI 提供商和本地模型。</li>\n</ol><br /><br />\n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/461\" target=\"_blank\">#461</a> • \n      <a href=\"https://github.com/jaywcjlove/quick-rss/issues/new/choose\" target=\"_blank\">投稿/推荐/自荐</a> • \n      <a href=\"https://wangchujiang.com/quick-rss/feeds/index.html\" target=\"_blank\">Quick RSS</a> • \n      <a href=\"https://github.com/jaywcjlove\" target=\"_blank\">@jaywcjlove</a>\n      ",
             "url": "https://wangchujiang.com/quick-rss/issue/461.html",
